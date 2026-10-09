@@ -8,8 +8,8 @@ O‘zbekiston bank tizimida xalqaro prudensial standartlarni joriy etish bir mar
 |---|---|---|---|---|
 | I. Shakllanish | 1997–2009 | CAMEL tizimi (1997–1998) | Joyida tekshiruv va reyting baholash; kapital yetarliligiga Bazel I mantig‘idagi talablar | Nazorat amaliyotiga xalqaro tajriba kirib keldi |
 | II. Tayyorgarlik | 2010–2014 | PQ-1438 (26.11.2010) | Jahon banki ko‘magida ~30 ta normativ hujjat; bank tizimini isloh qilish dasturi | Me’yoriy baza yangilandi |
-| III. Rasmiy joriy etish | 2015–2019 | PQ-2344 (06.05.2015); 2693-son kapital nizomi; 2709-son likvidlik nizomi | Jami kapital ≥13%, I darajali kapital ≥10%, leverej ≥6%; LCR va NSFR ≥100% (2016–2018-yillarda bosqichma-bosqich) | Miqdoriy talablar Bazel minimumlaridan yuqori belgilandi |
-| IV. Moslashtirish va tashqi baholash | 2019–2024 | Nizomga o‘zgartirishlar (2018, 2019, 2024); tizimli banklar nizomi (18.02.2023); XVJ va Jahon banki FSAP baholashi (2024–2025) | Tizimli ahamiyatli banklar aniqlandi; FSAP rasmiy va mazmuniy muvofiqlik o‘rtasidagi tafovutni aniqladi | Talablar yuqori, ammo kapital sifati va risk baholash orqada |
+| III. Rasmiy joriy etish | 2015–2019 | PQ-2344 (06.05.2015); 2693-son kapital nizomi; 2709-son likvidlik nizomi | K1 talabi bosqichma-bosqich: 10% → 11,5% (2016) → 12,5% (2017) → 13,5% (2018), reja 14,5% (2019); LCR va NSFR ≥100% (2016–2018-yillarda) | Miqdoriy talablar Bazel minimumlaridan yuqori belgilandi |
+| IV. Moslashtirish va tashqi baholash | 2019–2024 | Nizomga o‘zgartirishlar (2018, 2019, 2024); tizimli banklar nizomi (18.02.2023); XVJ va Jahon banki FSAP baholashi (2024–2025) | 2020-yildan K1 ≥13% (3% bufer bilan), I darajali kapital ≥10%, leverej ≥6%; tizimli ahamiyatli banklar aniqlandi; FSAP rasmiy va mazmuniy muvofiqlik o‘rtasidagi tafovutni aniqladi | Talablar yuqori, ammo kapital sifati va risk baholash orqada |
 | V. To‘liq muvofiqlashtirish | 2025–2028 | 2693-13-son o‘zgartirish (21.04.2025); yangi kapital nizomi (21/6, 02.10.2025); kapital buferlari; FSAP yo‘l xaritasi (17.11.2025) | CET1 ≥8%, leverej ≥6%; saqlash buferi 2,5%, kontrsiklik bufer 1,5% (01.01.2026 dan), tizimli banklar buferi 1%; 2- va 3-ustunlar, MHXS 9 | Kapital sifati va makroprudensial siyosatga o‘tish |
 
 *Manba: muallif tomonidan me’yoriy hujjatlar, Markaziy bank sharhlari va FSAP materiallari asosida tuzilgan.*
@@ -18,13 +18,35 @@ O‘zbekiston bank tizimida xalqaro prudensial standartlarni joriy etish bir mar
 
 **Ikkinchi bosqich (2010–2014) – tayyorgarlik.** O‘zbekiston Respublikasi Prezidentining 2010-yil 26-noyabrdagi PQ-1438-son qarori bilan 2011–2015-yillarda moliya-bank tizimini isloh qilish dasturi qabul qilindi. Jahon banki loyihasi doirasida 30 ga yaqin normativ hujjat ishlab chiqildi[^4]. Bu bosqich Bazel III ni joriy etish uchun huquqiy va institutsional zamin yaratdi. Shu bilan birga, davlat bank kapitaliga 600 mlrd so‘mdan ortiq mablag‘ kiritdi va bank tizimi kapital yetarliligi 24 foizdan oshdi[^5]. Demak, yuqori kapitallashuv bu davrda asosan davlat in’ektsiyalari hisobiga ta’minlangan.
 
-**Uchinchi bosqich (2015–2019) – Bazel III ning rasmiy joriy etilishi.** Prezidentning 2015-yil 6-maydagi PQ-2344-son qarori bilan Markaziy bankka 2015–2019-yillarda Bazel III talablarini bosqichma-bosqich joriy etish topshirildi[^6]. Shu asosda Markaziy bank Boshqaruvining 2015-yil 13-iyundagi 14/3-son qarori bilan «Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risida»gi nizom (ro‘yxat raqami 2693) tasdiqlandi. Rejaga ko‘ra, I darajali kapital talabi 5 foizdan 3 foizlik kapitalni saqlash buferi bilan birga 11 foizgacha oshirilishi kerak edi[^7]. Amaldagi nizomda regulyativ kapital monandligi kamida 13 foiz (3 foizlik bufer bilan), I darajali kapital kamida 10 foiz, leverej kamida 6 foiz etib belgilandi[^8]. Likvidlik bo‘yicha LCR ning minimal darajasi 2016-yildan 80, 2017-yildan 90, 2018-yildan 100 foiz qilib belgilandi, NSFR esa 2018-yildan kamida 100 foiz darajasida joriy etildi[^9].
+**Uchinchi bosqich (2015–2019) – Bazel III ning rasmiy joriy etilishi.** Prezidentning 2015-yil 6-maydagi PQ-2344-son qarori bilan Markaziy bankka 2015–2019-yillarda Bazel III talablarini bosqichma-bosqich joriy etish topshirildi[^6]. Shu asosda Markaziy bank Boshqaruvining 2015-yil 13-iyundagi 14/3-son qarori bilan «Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risida»gi nizom (ro‘yxat raqami 2693) tasdiqlandi. Nizomning eng muhim xususiyati – talablarning bir yo‘la emas, balki bosqichma-bosqich oshirilishi. Regulyativ kapital monandligi koeffitsiyentining (K1) minimal darajasi 2015-yilgacha amal qilgan 10 foizdan 2016-yil 1-yanvardan 11,5 foizga, 2017-yil 1-yanvardan 12,5 foizga, 2018-yil 1-yanvardan 13,5 foizga oshirildi va 2019-yilda 14,5 foizga yetkazilishi rejalashtirildi[^7a]. I darajali kapital talabi esa 5 foizdan 3 foizlik kapitalni saqlash buferi bilan birga 11 foizgacha oshirilishi ko‘zda tutildi[^7]. Kapital tarkibiga sifat talablari ham qo‘yildi: I darajali kapital regulyativ kapitalning kamida 75 foizini, I darajali asosiy kapital esa kamida 60 foizini tashkil etishi kerak[^7a].
 
-Bu bosqichning asosiy mazmuniy xususiyati – milliy talablarning Bazel III minimumlaridan sezilarli darajada yuqori belgilanishi (2-jadval). Jami kapital talabi (13 foiz) Bazel III dagi 8 foizlik minimumdan 5 foiz punkt, konservatsiya buferi bilan birgalikdagi 10,5 foizlik talabdan esa 2,5 foiz punkt yuqori. Leverej talabi (6 foiz) Bazel III dagi 3 foizdan ikki baravar yuqori. Bunday «qat’iylashtirilgan» yondashuvni rivojlanayotgan bozor sharoitidagi yuqori risklar, kredit portfelida davlat dasturlari ulushining kattaligi va risk baholash amaliyotining hali yetarlicha rivojlanmaganligi bilan izohlash mumkin. Boshqacha aytganda, risk o‘lchovining aniqligi past bo‘lgan sharoitda regulyator yuqori miqdoriy chegaralar orqali ehtiyotkorlik zaxirasini yaratgan.
+Keyinchalik talablar qayta ko‘rib chiqildi va pasaytirildi. Markaziy bank Boshqaruvining 2019-yil 13-dekabrdagi 30/9-son qarori bilan nizomga o‘zgartirishlar kiritildi (ro‘yxat raqami 2693-6)[^7b]. XVJ ma’lumotiga ko‘ra, 2020-yildan buyon regulyativ kapital monandligining minimal talabi 13 foizni tashkil etadi va u 3 foizlik kapitalni saqlash buferini o‘z ichiga oladi; I darajali kapital talabi bufer bilan birga 10 foiz, leverej talabi kamida 6 foiz[^8]. Shunday qilib, K1 talabining evolyutsiyasi to‘rt bosqichli o‘sish va keyingi qisman pasayishdan iborat bo‘ldi (3-jadval, 1-rasm).
+
+**3-jadval. Regulyativ kapital monandligi minimal talabining o‘zgarishi**
+
+| Amal qilish sanasi | Regulyativ kapital (K1), % | I darajali kapital, % | Izoh |
+|---|---|---|---|
+| 2015-yilgacha | 10,0 | 5,0 | Bazel I mantig‘idagi talablar |
+| 2016-yil 1-yanvar | 11,5 | – | 2693-son nizom bo‘yicha bosqichma-bosqich oshirish |
+| 2017-yil 1-yanvar | 12,5 | – | |
+| 2018-yil 1-yanvar | 13,5 | – | |
+| 2019-yil (reja) | 14,5 | 11,0 (bufer bilan) | Dastlabki rejadagi yakuniy daraja |
+| 2020-yildan | 13,0 (3% bufer bilan) | 10,0 (bufer bilan) | 2693-6-son o‘zgartirishdan keyingi talab |
+| 2026-yildan | yangi nizom | CET1 ≥ 8,0 | Saqlash buferi 2,5%, kontrsiklik bufer 1,5%, tizimli banklar buferi 1% |
+
+*Manba: muallif tomonidan 2693- va 3697-son nizomlar, Markaziy bankning nizomga sharhi, XVJ va Markaziy bank materiallari asosida tuzilgan.*
+
+{{FIG:K1}}
+
+1-rasm. Regulyativ kapital monandligi minimal talabi va bank tizimining haqiqiy ko‘rsatkichi, %[^7c]
+
+Rasmdan ko‘rinadiki, so‘nggi yillarda bank tizimining haqiqiy kapital monandligi minimal talabdan 4–5 foiz punkt yuqori bo‘lgan. Talabning 2018-yildagi 13,5 foizdan 13 foizgacha pasaytirilishi va rejadagi 14,5 foizlik darajadan voz kechilishi regulyatorning miqdoriy chegarani oshirishdan kapital sifati va buferlar tuzilmasini takomillashtirishga o‘tganini ko‘rsatadi. Likvidlik bo‘yicha LCR ning minimal darajasi 2016-yildan 80, 2017-yildan 90, 2018-yildan 100 foiz qilib belgilandi, NSFR esa 2018-yildan kamida 100 foiz darajasida joriy etildi[^9].
+
+Bu bosqichning asosiy mazmuniy xususiyati – milliy talablarning Bazel III minimumlaridan sezilarli darajada yuqori belgilanishi (2-jadval). Yakuniy jami kapital talabi (13 foiz) Bazel III dagi 8 foizlik minimumdan 5 foiz punkt, konservatsiya buferi bilan birgalikdagi 10,5 foizlik talabdan esa 2,5 foiz punkt yuqori. Leverej talabi (6 foiz) Bazel III dagi 3 foizdan ikki baravar yuqori. Bunday «qat’iylashtirilgan» yondashuvni rivojlanayotgan bozor sharoitidagi yuqori risklar, kredit portfelida davlat dasturlari ulushining kattaligi va risk baholash amaliyotining hali yetarlicha rivojlanmaganligi bilan izohlash mumkin. Boshqacha aytganda, risk o‘lchovining aniqligi past bo‘lgan sharoitda regulyator yuqori miqdoriy chegaralar orqali ehtiyotkorlik zaxirasini yaratgan.
 
 **2-jadval. O‘zbekiston kapital talablarining Bazel III minimumlari bilan taqqoslanishi, %**
 
-| Ko‘rsatkich | Bazel III minimumi | 2015-yilgi nizom (№ 2693) | 2025-yilgi yangi nizom va buferlar |
+| Ko‘rsatkich | Bazel III minimumi | № 2693 nizom (2020–2025-yillardagi redaksiya) | 2025-yilgi yangi nizom va buferlar |
 |---|---|---|---|
 | Asosiy kapital (CET1) | 4,5 | belgilanmagan | 8,0 |
 | I darajali kapital | 6,0 | 10,0 | aniqlanmoqda* |
@@ -72,6 +94,9 @@ Shu bilan birga, evolyutsiya yakunlanmagan. Hozircha 2-ustun metodikasining jori
 [^5]: O‘sha joyda. – B. 178.
 [^6]: O‘sha joyda. – B. 3–4.
 [^7]: Uzbekistan stage-by-stage introduces Basel III // UzDaily.uz. – 2015. – https://www.uzdaily.uz/en/uzbekistan-stage-by-stage-introduces-basel-iii/
+[^7a]: Markaziy bankning «Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risida»gi nizomga sharh // O‘zbekiston Respublikasi Markaziy banki. – https://cbu.uz/uz/documents/3332/37553/; Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risidagi nizom (ro‘yxat raqami 2693) // https://lex.uz/docs/-2699536
+[^7b]: Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risidagi nizomga o‘zgartirishlar kiritish haqida (ro‘yxat raqami 2693-6, 25.12.2019) // https://lex.uz/mact/-4664110
+[^7c]: Muallif tomonidan quyidagi manbalar asosida tuzilgan: 3-jadval; IMF Country Report No. 25/227, 2025; The Central Bank of Uzbekistan. Financial Stability Report for 2024; Financial Stability Report for 2025; Countercyclical capital buffer // cbu.uz.
 [^8]: Tijorat banklari kapitalining monandligiga qo‘yiladigan talablar to‘g‘risidagi nizom (O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 13.06.2015 dagi 14/3-son qarori, ro‘yxat raqami 2693, 06.07.2015) // https://lex.uz/docs/-2699536; IMF. Republic of Uzbekistan: Financial Sector Assessment Program – Detailed Assessment of Observance – Basel Core Principles for Effective Banking Supervision. – IMF Country Report No. 25/227. – Washington, DC, 2025.
 [^9]: Karaliyev T.M., Sayfiddinov I.F. Ko‘rsatilgan asar. – B. 185–186.
 [^10]: 2026-yil uchun mahalliy tizimli ahamiyatga molik banklar belgilandi // O‘zbekiston Respublikasi Markaziy banki. – https://cbu.uz/uz/financial-stability/press-releases/2982189/
