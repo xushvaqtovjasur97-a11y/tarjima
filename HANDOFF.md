@@ -16,13 +16,14 @@
 | `paragraflar/1.2-paragraf.docx` | 1.2-§, 18 bet (havolalar muallif-yil ko‘rinishida) |
 | `paragraflar/1.3-paragraf.docx` | 1.3-§, 18 bet, 7 ta rasm, sahifa osti snoskalari |
 | `paragraflar/2.1-paragraf.docx` | 2.1-§, 13 bet, 5 ta rasm, sahifa osti snoskalari |
+| `paragraflar/2.2-paragraf.docx` | 2.2-§, 13 bet, 6 ta diagramma; ma’lumotlar qidiruv orqali (IMF FSAP, MB sharhlari), Drive/cbu.uz ma’lumotlari bilan tekshirilishi kerak |
 | `paragraflar/Ozbekiston_Bazel_evolyutsiyasi_tahlil.docx` | O‘zbekistonda Bazel talablari evolyutsiyasi (5 bosqich, K1 dinamikasi) |
 | `paragraflar/Ozbekiston_Bazel_bosqichlari.docx` | Bazel bosqichlari xronologiyasi |
 | `paragraflar/rasmlar/1.3.6-rasm_SP_2024.png` | S&P 1981–2024 defolt darajalari |
 
 ## Keyingi vazifa
 
-**2.2-§. O‘zbekiston bank tizimida moliyaviy barqarorlik ko‘rsatkichlari dinamikasining xalqaro standartlar mezonlari bo‘yicha tahlili.**
+**2.2-§ birinchi varianti yozildi** – foydalanuvchining Drive’idagi va cbu.uz’dagi asl ma’lumotlar bilan solishtirib, bo‘sh kataklarni (2021, 2024 yillar) to‘ldirish kerak. Keyingisi: 2.3-§.
 
 Kerakli ma’lumotlar: XVJ FSI mezonlari bo‘yicha 2021–2025-yillar (kapital, CET1, NPL, ROA, ROE, LCR, NSFR, likvid aktivlar, valyuta kreditlari va depozitlari ulushi). Manbalar: Markaziy bankning moliyaviy barqarorlik sharhlari (cbu.uz) va foydalanuvchining Google Drive’idagi fayllar.
 
