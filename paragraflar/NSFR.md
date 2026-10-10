@@ -40,6 +40,26 @@ Rasmdan ko‘rinadiki, O‘zbekiston bu standartni xalqaro muddatda va rivojlang
 
 Amaliyotda banklar bu me’yorni sezilarli zaxira bilan bajarib kelmoqda. Masalan, «Xalq banki» AT da sof barqaror moliyalashtirish me’yori 2024-yilda 137,3 foizni tashkil etib, oldingi yilga nisbatan 16,4 foiz punktga oshgan[^11]. B.T. Berdiyarov ham O‘zbekistonda likvidlikni baholash tizimini XVJ ko‘rsatkichlari asosida, lahzali va joriy likvidlik, likvidlikni qoplash koeffitsiyenti hamda sof barqaror moliyalashtirish me’yori bilan birgalikda shakllantirishni taklif etadi[^12]. Bu yondashuv bilan qo‘shilgan holda ta’kidlash lozimki, moliyaviy barqarorlikni integral baholashda sof barqaror moliyalashtirish me’yori likvidlik blokining tarkibiy qismi sifatida, likvidlikni qoplash koeffitsiyenti bilan bir qatorda hisobga olinishi kerak. Chunki faqat qisqa muddatli likvidlikni baholash bankning moliyalashtirish tuzilmasidagi chuqurroq nomutanosiblikni ko‘rmay qolishi mumkin.
 
+Sof barqaror moliyalashtirish me’yorini hisoblashda yana bir muhim masala – milliy hisobot va MHXS 9 ma’lumotlari o‘rtasidagi farq. Me’yorning formulasi va koeffitsiyentlari buxgalteriya standartiga bog‘liq emas, ular Bazel standarti va Markaziy bank nizomi bilan belgilanadi. Biroq hisob-kitobga kiritiladigan summalar va ularning tasnifi aynan buxgalteriya hisobidan olinadi, shu sababli natija qaysi hisobot asosida hisoblanganiga qarab farq qiladi. Bu farq asosan besh yo‘nalishda yuzaga keladi: birinchidan, MHXS 9 bo‘yicha kutilgan kredit zararlari uchun shakllantiriladigan zaxiralar odatda kattaroq bo‘lib, ular bir vaqtning o‘zida kapitalni, ya’ni mavjud barqaror moliyalashtirishni va kreditlarning sof qiymatini, ya’ni talab qilinadigan barqaror moliyalashtirishni kamaytiradi; ikkinchidan, muammoli kreditlar ta’rifi farq qiladi, MHXS 9 dagi 3-bosqich bilan milliy tasnifdagi toifalar mos kelmaydi, bunda muammoli deb topilgan kredit uchun koeffitsiyent 85 foizdan 100 foizga oshadi; uchinchidan, qimmatli qog‘ozlar amortizatsiya qilingan yoki haqqoniy qiymatda turlicha baholanadi; to‘rtinchidan, MHXS hisoboti odatda bank guruhi bo‘yicha konsolidatsiyalangan bo‘ladi; beshinchidan, MHXS 9 bo‘yicha balansdan tashqari majburiyatlar uchun ham zaxira yaratiladi. Ushbu farqlarning me’yorga ta’siri shartli misolda 2-jadvalda ko‘rsatildi.
+
+2-jadval
+
+**Milliy hisobot va MHXS 9 asosida sof barqaror moliyalashtirish me’yorini hisoblash (shartli misol)[^13]**
+
+| Ko‘rsatkich | Milliy hisobot | MHXS 9: qo‘shimcha zaxira | MHXS 9: zaxira va muammoli kreditlar tasnifi |
+|---|---|---|---|
+| Kapital | 150 | 110 | 110 |
+| Ishlaydigan kreditlar (sof) | 800 | 780 | 720 |
+| Muammoli kreditlar (sof) | 50 | 30 | 90 |
+| Mavjud barqaror moliyalashtirish (ASF) | 840 | 800 | 800 |
+| Talab qilinadigan barqaror moliyalashtirish (RSF) | 735 | 698 | 707 |
+| Sof barqaror moliyalashtirish me’yori, % | 114,3 | 114,6 | 113,2 |
+| Kapitalning o‘zgarishi, % | – | −26,7 | −26,7 |
+
+Jadval ma’lumotlari shuni ko‘rsatadiki, MHXS 9 bo‘yicha qo‘shimcha 40 birlik zaxira kapitalni 26,7 foizga kamaytirsa-da, me’yor deyarli o‘zgarmaydi, chunki zaxira suratni ham, maxrajni ham kamaytiradi va ularning ta’siri qisman bir-birini qoplaydi. Me’yorga sezilarli salbiy ta’sir esa muammoli kreditlar ta’rifi kengayib, 60 birlik kredit muammoli toifaga o‘tkazilganda yuzaga keladi va u 1,1 foiz punktga pasayadi.
+
+Natijada quyidagi xulosaga kelish mumkin: milliy hisobot va MHXS 9 o‘rtasidagi farq sof barqaror moliyalashtirish me’yorini hisoblash usulida emas, balki unga kiritiladigan ma’lumotlarda namoyon bo‘ladi. Bu farq kapital yetarliligiga kuchli, sof barqaror moliyalashtirish me’yoriga esa ancha zaif ta’sir qiladi va unga asosiy ta’sir muammoli kreditlar tasnifi orqali o‘tadi. Shu sababli moliyaviy barqarorlikni integral baholashda milliy hisobot va MHXS ma’lumotlari o‘rtasidagi tafovut, eng avvalo, kapital va aktivlar sifati bloklarida, likvidlik blokida esa kamroq darajada hisobga olinishi lozim. O‘zbekistonda «yo‘l xaritasi»ga muvofiq aktivlarni tasniflash va zaxiralarni MHXS 9 ga moslashtirish 2026-yilning ikkinchi choragida yakunlanishi rejalashtirilgan bo‘lib[^10], shundan so‘ng me’yorni hisoblashdagi muammoli kreditlar va zaxiralar ham MHXS 9 mantig‘iga yaqinlashadi. N.E. Sokolinskaya keltirgan misol bu farqning amaliy ko‘lamini yaqqol ko‘rsatadi: bir bank 2015-yilda milliy hisobotda 63,7 mlrd rubl zarar, MHXS bo‘yicha esa 4,35 mlrd rubl foyda ko‘rsatgan, MHXS 9 ga o‘tilganda esa zaxiralar kreditlarning 19,1 foiziga yetishi mumkin[^14].
+
 [^1]: Basel Committee on Banking Supervision. Basel III: International framework for liquidity risk measurement, standards and monitoring. – Basel: Bank for International Settlements, December 2010.
 [^2]: Basel Committee on Banking Supervision. Basel III: the net stable funding ratio. – Basel: Bank for International Settlements, October 2014.
 [^3]: Tadqiqot natijasida muallif tomonidan quyidagi manba asosida ishlab chiqildi: Basel Committee on Banking Supervision. Basel III: the net stable funding ratio. – Basel: Bank for International Settlements, October 2014.
@@ -52,3 +72,5 @@ Amaliyotda banklar bu me’yorni sezilarli zaxira bilan bajarib kelmoqda. Masala
 [^10]: O‘zbekiston Respublikasi Markaziy banki. Moliya sektorini baholash dasturi (FSAP) tavsiyalarini amalga oshirish bo‘yicha 2025–2028-yillarga mo‘ljallangan «yo‘l xaritasi».
 [^11]: Sharipova N.H. Tijorat banklari moliyaviy barqarorligini mustahkamlashning konseptual asoslarini takomillashtirish: iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati. – Toshkent, 2026. – B. 12.
 [^12]: Berdiyarov B.T. O‘zbekiston Respublikasi tijorat banklarining likvidliligi va to‘lov qobiliyatini ta’minlash masalalari: monografiya. – T.: Bank-moliya akademiyasi, 2020. – B. 27.
+[^13]: Tadqiqot natijasida muallif tomonidan shartli ma’lumotlar asosida ishlab chiqildi.
+[^14]: Соколинская Н.Э. Анализ и оценка финансового состояния коммерческого банка на основе МСФО. – М.: КНОРУС. – С. 85–87, 108.
