@@ -222,6 +222,7 @@ def _e(v):
 
 
 def _para(text, sz, bold, color, align='center', italic=False):
+    align = {'l': 'left', 'r': 'right', 'c': 'center'}.get(align, align)
     out = ''
     for line in text.split('\n'):
         out += (f'<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="228" w:lineRule="auto"/><w:jc w:val="{align}"/>'
