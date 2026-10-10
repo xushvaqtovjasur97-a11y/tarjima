@@ -49,3 +49,7 @@ Qidiruvda topilgan, lekin hali tekshirilmagan raqamlar: kapital monandligi 17,5%
 - `build13.py`, `build21.py`, `buildev.py` – md → docx yig‘uvchi skriptlar (namuna sifatida). Markdown’da rasm o‘rniga `{{FIG:...}}` qatori qo‘yiladi, keyin skript uni Word diagrammasi yoki sxemasi bilan almashtiradi.
 - `fmt12.py` – oddiy formatlash (rasmsiz hujjatlar uchun).
 - Kerakli paketlar: `pandoc`, `python-docx`, `openpyxl`, `lxml`; tekshirish uchun `soffice` (LibreOffice).
+
+## Yangi reja bo‘yicha 1.1-§
+
+`paragraflar/1.1-paragraf.docx` – «Tijorat banklari moliyaviy barqarorligining iqtisodiy mazmuni va konseptual modellari», 18 bet, 7 ta rasm, 2 ta jadval, 43 snoska. Manba: `1.1-paragraf.src.md` → `tools/fn11.py` → `tools/build11.py`. Foydalanuvchi yuborgan Gemini tavsiyasidagi g‘oyalar (statik/dinamik/funksional mezonlar, mikro→makro paradigma, MHXS 9 kelajakka yo‘naltirilgan yondashuv) qo‘shilgan.
