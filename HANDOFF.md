@@ -53,3 +53,11 @@ Qidiruvda topilgan, lekin hali tekshirilmagan raqamlar: kapital monandligi 17,5%
 ## Yangi reja bo‘yicha 1.1-§
 
 `paragraflar/1.1-paragraf.docx` – «Tijorat banklari moliyaviy barqarorligining iqtisodiy mazmuni va konseptual modellari», 18 bet, 7 ta rasm, 2 ta jadval, 43 snoska. Manba: `1.1-paragraf.src.md` → `tools/fn11.py` → `tools/build11.py`. Foydalanuvchi yuborgan Gemini tavsiyasidagi g‘oyalar (statik/dinamik/funksional mezonlar, mikro→makro paradigma, MHXS 9 kelajakka yo‘naltirilgan yondashuv) qo‘shilgan.
+
+## Oxirgi ishlar (NSFR va SQB)
+
+- `paragraflar/NSFR.docx` – NSFR bo‘yicha alohida material (formula, ASF/RSF jadvali, joriy etish xronologiyasi, milliy hisobot va MHXS 9 farqi shartli misoli).
+- `paragraflar/SQB_milliy_MHXS.docx` – SQB 2025: milliy prudensial hisobot (crs003C/L/O, 30.12.2025) va PwC audit qilgan MHXS konsolidatsiyalashgan hisoboti qiyosi; muammoli kreditlar 2,53% vs 7,48% (3-bosqich), kapital −13,5%, NSFR 4 variantda.
+- `paragraflar/NSFR_4_variant.docx` – to‘rt variant (Markaziy bank / Bazel III × milliy / MHXS) farqlari va asoslari; Markaziy bank koeffitsiyentlari SQB 16-jadvalidan olingan, lex.uz dagi 2709-son nizom matni bilan **tekshirilmagan**.
+- Foydalanuvchi fayllari sessiyaga yuklangan, repoda yo‘q (crs003*.XLSX, SQB Consolidated FS 2025 PDF) – yangi sessiyada qayta yuklash kerak.
+- Tarmoq: lex.uz, cbu.uz, norma.uz, cbr.ru hali bloklangan (403 policy denial). Foydalanuvchi Allowed domains ga qo‘shishi kerak.
