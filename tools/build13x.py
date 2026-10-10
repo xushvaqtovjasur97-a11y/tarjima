@@ -130,11 +130,11 @@ for r,(lab,row) in enumerate(cells):
 W.replace_placeholder(d,'{{FIG:4}}',W.group_run_xml(sh,16.4,6.8,'1.3.4-rasm'))
 
 # ---- 5: LCR phase-in
-rid=W.add_chart(d,W.scatter_chart([
-  ('Bazel qo‘mitasi',[2015,2016,2017,2018,2019],[60,70,80,90,100],BLUE,28575,None,'circle'),
-  ('Rossiya (tizimli banklar)',[2016,2017,2018,2019],[70,80,90,100],ORANGE,28575,None,'square'),
-  ('O‘zbekiston',[2016,2017,2018],[80,90,100],GREEN,28575,None,'triangle')],
-  xtitle='Yillar',ytitle='Minimal talab, %',xmin=2014,xmax=2020,xfmt='0',xmajor=1,ymin=50,ymax=105,ymajor=10,legend=True))
+rid=W.add_chart(d,W.bar_chart(['2015','2016','2017','2018','2019'],[
+  ('Bazel qo‘mitasi',[60,70,80,90,100],BLUE),
+  ('Rossiya (tizimli ahamiyatli banklar)',[None,70,80,90,100],ORANGE),
+  ('O‘zbekiston',[None,80,90,100,100],GREEN)],
+  ytitle='Minimal talab, %',xtitle='Yillar',ymax=110,ymin=0,major=20,label_fmt='0',gap=60))
 W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,15.5,8.0,'1.3.5-rasm'))
 
 # ---- 6: stress test architecture
