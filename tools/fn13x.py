@@ -13,9 +13,15 @@ R={
 'COC':('Cocozza R. Back to the Future: Prospective Bank Risk Management in a Financial Analysis Perspective // Bank Risk, Governance and Regulation / ed. by E. Beccalli, F. Poli. – Basingstoke: Palgrave Macmillan, 2015.','P.'),
 'LAR':('О приведении банковского регулирования в соответствие со стандартами Базельского комитета по банковскому надзору (Базель III) в условиях нестабильной экономической ситуации: монография / под ред. И.В. Ларионовой. – М.: КНОРУС.','С.'),
 'AFD':('Регулирование банковской сферы: учебник / под ред. О.Н. Афанасьевой, С.Е. Дубовой. – М.: КНОРУС.','С.'),
+'NFRA':('National Financial Regulatory Administration. Supervisory Statistics of the Banking and Insurance Sectors: 2023-yil IV chorak, 2024-yil IV chorak, 2025-yil III chorak. – https://www.nfra.gov.cn/en/',''),
+'IMF':('International Monetary Fund. People’s Republic of China: 2025 Article IV Consultation – Press Release; Staff Report; and Statement by the Executive Director. IMF Country Report No. 26/44. – Washington, DC: IMF, 2026.',''),
+'CMR':('Charoenwong B., Miao M., Ruan T. Nonperforming Loan Disposals Without Resolution // Management Science. – 2025. – Vol. 71, No. 1. – P. 898–916.',''),
+'GFSR':('International Monetary Fund. Global Financial Stability Report: Potent Policies for a Successful Normalization. – Washington, DC: IMF, April 2016.',''),
 'HE':('He Wei Ping. Banking Regulation in China: The Role of Public and Private Sectors. – New York: Palgrave Macmillan, 2014.','P.'),
 }
-def ref(k,p): t,pp=R[k]; return f'{t} – {pp} {p}.'
+def ref(k,p):
+  t,pp=R[k]
+  return t if p=='-' else f'{t} – {pp} {p}.'
 A={
 'LAV14-56':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '+ref('LAV','56–57')[:-1]+'; '+ref('KS','194–195'),
 'TAB1':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '+'; '.join(x[:-1] for x in [ref('KS','194–195'),ref('LAV','57–61'),ref('LM','92–115'),ref('CAR','194–195')])+'.',
@@ -25,7 +31,7 @@ A={
 'TAB2':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '+ref('LM','116–128')[:-1]+'; '+ref('LAR','104–106'),
 'LCR':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida ishlab chiqildi: Basel Committee on Banking Supervision. Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools. – Basel: BIS, 2013; '+ref('LAR','70')[:-1]+'; '+ref('KS','185'),
 'STRESS':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '+ref('AFD','48–49')[:-1]+'; '+ref('CAR','195–196'),
-'CHINA':'Tadqiqot natijasida muallif tomonidan quyidagi manba ma’lumotlari asosida ishlab chiqildi: '+ref('LAR','142–144'),
+'CHINA':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida ishlab chiqildi: '+'; '.join(x[:-1] for x in [ref('NFRA','-'),ref('IMF','-'),ref('CMR','-'),ref('GFSR','-')])+'.',
 'TAB3':'Tadqiqot natijasida muallif tomonidan ishlab chiqildi.',
 }
 txt=open(SRC).read(); notes=[]

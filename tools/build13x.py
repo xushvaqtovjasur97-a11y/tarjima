@@ -157,8 +157,10 @@ sh.append(W.box(4.0,3.6,8.4,0.6,'Teskari aloqa: kredit taklifining iqtisodiyotga
 W.replace_placeholder(d,'{{FIG:6}}',W.group_run_xml(sh,16.4,4.3,'1.3.6-rasm'))
 
 # ---- 7: China NPL
-rid=W.add_chart(d,W.bar_chart(['Rasmiy ma’lumot','Mustaqil baho\n(quyi chegara)','Mustaqil baho\n(yuqori chegara)','XVJ bahosi'],[
-  ('Muammoli kreditlar ulushi',[1.5,8,12,15],BLUE)],
-  ytitle='Jami kreditlarga nisbatan, %',ymax=16,major=4,label_fmt='0.0',legend=False,gap=60))
-W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,15.0,7.5,'1.3.7-rasm'))
+rid=W.add_chart(d,W.bar_chart(['2023-y. oxiri','2024-y. oxiri','2025-y. III chorak','Ilmiy baho:\nquyi chegara','Ilmiy baho:\nyuqori chegara','XVJ: risk ostidagi\nkreditlar (2016)'],[
+  ('Muammoli kreditlar',[1.59,1.50,1.52,None,None,None],BLUE,'FFFFFF'),
+  ('Alohida e’tibor talab qiluvchi kreditlar',[2.20,2.22,2.20,None,None,None],GOLD),
+  ('Muqobil baholar',[None,None,None,3.0,4.6,15.5],ORANGE)],
+  ytitle='Jami kreditlarga nisbatan, %',stacked=True,ymax=16,major=4,label_fmt='0.00',gap=50))
+W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,15.5,7.2,'1.3.7-rasm'))
 d.save(DST); print('saved')
