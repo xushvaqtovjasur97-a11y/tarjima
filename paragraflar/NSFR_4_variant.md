@@ -16,7 +16,7 @@ Avvalo bir muhim masalaga aniqlik kiritish lozim: Bazel III standarti ma’lumot
 
 **To‘rtinchi variant – Bazel III metodikasi va MHXS tuzatishlari.** Bu to‘liq xalqaro yondashuv bo‘lib, xalqaro reyting agentliklari, investorlar va XVJ mutaxassislari bankni aynan shu nuqtai nazardan baholaydi. Uning asosi – Bazel III standarti va MHXS ning birgalikda qo‘llanishi. Dissertatsiya mavzusi banklar moliyaviy barqarorligini xalqaro standartlar asosida baholash bo‘lgani uchun bu variant tadqiqotda asosiy mezon sifatida qabul qilinadi.
 
-Ikki metodika o‘rtasidagi farqlar 1-jadvalda batafsil keltirildi.
+Ikki metodika o‘rtasidagi farqlar 1-jadvalda batafsil keltirildi. Jadvaldagi Markaziy bank koeffitsiyentlari bankning 2025-yil 30-dekabr holatidagi rasmiy likvidlik tahlili shaklidan, Bazel III koeffitsiyentlari esa Bazel qo‘mitasining 2014-yilda qabul qilingan va hozirgacha amalda bo‘lgan standartidan olindi.
 
 1-jadval
 
@@ -35,7 +35,7 @@ Ikki metodika o‘rtasidagi farqlar 1-jadvalda batafsil keltirildi.
 | *Talab qilinadigan barqaror moliyalashtirish* | | |
 | Naqd pul, Markaziy bankdagi mablag‘lar, bir yilgacha yuqori likvid aktivlar | 0% | 0–5% |
 | Muddati bir yildan ortiq davlat qimmatli qog‘ozlari | 100% | 5% |
-| Banklarga olti oygacha joylashtirilgan mablag‘lar | 30% | 10–15% |
+| Banklarga olti oygacha joylashtirilgan mablag‘lar | 30% (yuqori likvid qismi – 0%) | 10–15% |
 | Mijozlarga bir yilgacha kreditlar | 30% | 50% |
 | Mijozlarga bir yildan ortiq ishlaydigan kreditlar | 100% | 65–85% |
 | Muammoli va sud jarayonidagi kreditlar | 100% | 100% |
