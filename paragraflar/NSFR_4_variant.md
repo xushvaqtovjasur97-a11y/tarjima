@@ -25,13 +25,13 @@ Ikki metodika o‘rtasidagi farqlar 1-jadvalda batafsil keltirildi. Jadvaldagi M
 | Moddalar | Markaziy bank metodikasi | Bazel III metodikasi |
 |---|---|---|
 | *Mavjud barqaror moliyalashtirish* | | |
-| Kapital | 100% | 100% |
+| Kapital (nizomda – regulyativ kapital, bank shaklida – xususiy kapital) | 100% | 100% |
 | Muddati bir yildan ortiq majburiyatlar | 100% | 100% |
 | Jismoniy shaxslarning talab qilib olinguncha va bir yilgacha depozitlari | 30% | 90–95% |
 | Korxonalarning talab qilib olinguncha va bir yilgacha depozitlari, davlat mablag‘lari | 30% | 50% |
 | Moliya institutlarining olti oygacha resurslari | 30% | 0% |
 | Moliya institutlarining olti oydan bir yilgacha resurslari | 30% | 50% |
-| Boshqa majburiyatlar (hisoblangan foizlar, REPO, boshqalar) | 30% | 0% |
+| Boshqa majburiyatlar (hisoblangan foizlar, REPO, boshqalar) | 30% (nizomda – faqat depozit va qarz mablag‘lari) | 0% |
 | *Talab qilinadigan barqaror moliyalashtirish* | | |
 | Naqd pul, Markaziy bankdagi mablag‘lar, bir yilgacha yuqori likvid aktivlar | 0% | 0–5% |
 | Muddati bir yildan ortiq davlat qimmatli qog‘ozlari | 100% | 5% |
@@ -41,6 +41,8 @@ Ikki metodika o‘rtasidagi farqlar 1-jadvalda batafsil keltirildi. Jadvaldagi M
 | Muammoli va sud jarayonidagi kreditlar | 100% | 100% |
 | Asosiy vositalar, investitsiyalar, boshqa nolikvid aktivlar | 100% | 100% |
 | Balansdan tashqari majburiyatlar | 15% | 5% |
+
+Markaziy bank koeffitsiyentlari nizomning 53–55-bandlari va 2-ilovasidagi hisoblash namunasi bilan solishtirildi[^9]. Koeffitsiyentlar to‘liq mos keladi, biroq ikki jihatda nizom matni va bankning hisobot shakli o‘rtasida farq aniqlandi. Birinchidan, nizomda mavjud barqaror moliyalashtirish tarkibiga bankning regulyativ kapitali kiritilishi belgilangan, bankning hisobot shaklida esa xususiy kapital ko‘rsatilgan. «O‘zsanoatqurilishbank» ATB da regulyativ kapital (16 199,1 mlrd so‘m) xususiy kapitaldan (11 875,2 mlrd so‘m) ancha katta bo‘lgani uchun, nizom matni bo‘yicha hisoblanganda me’yor 122,2 foiz emas, taxminan 129,4 foizni tashkil etadi. Ikkinchidan, nizomda 30 foiz koeffitsiyent faqat depozitlar va qarz mablag‘lariga qo‘llanadi, hisobot shaklida esa bir yilgacha bo‘lgan barcha majburiyatlarga qo‘llangan. Ikkala holatda ham bankning amaldagi hisobot shakli nizomning 2015-yilgi matniga nisbatan ehtiyotkorroq natija beradi. Bu farqlar keyingi o‘zgartirishlar bilan bog‘liq bo‘lishi mumkin, shu sababli ularni nizomning amaldagi tahriri bilan tekshirish lozim.
 
 Jadval ma’lumotlari shuni ko‘rsatadiki, ikki metodika o‘rtasidagi asosiy farq kontragent turini hisobga olishda. Markaziy bank metodikasi qisqa muddatli resurslarni kim tomonidan joylashtirilganiga qaramay bir xil 30 foiz koeffitsiyent bilan baholaydi. Bazel III da esa jismoniy shaxslar depozitlari eng barqaror resurs sifatida 90–95 foiz, moliya institutlarining qisqa muddatli resurslari esa eng beqaror resurs sifatida 0 foiz koeffitsiyent oladi. Natijada depozit bazasi aholi va korxonalar mablag‘laridan iborat bank uchun milliy metodika me’yorni kamsitib, ulgurji bozordan qisqa muddatli resurs jalb qiluvchi bank uchun esa oshirib ko‘rsatadi. Aktivlar tomonida esa milliy metodika ba’zi jihatdan Bazel III dan qat’iyroq: muddati bir yildan ortiq davlat qimmatli qog‘ozlari unda 100 foiz, Bazel III da esa yuqori likvid aktiv sifatida atigi 5 foiz koeffitsiyent bilan olinadi.
 
@@ -82,3 +84,4 @@ Hisob-kitobning cheklovlarini ham qayd etish lozim. Milliy hisobot alohida bank 
 [^6]: Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: «O‘zsanoatqurilishbank» ATB ning likvidlik tahlili (16-jadval), 2025-yil 30-dekabr; Basel Committee on Banking Supervision. Basel III: the net stable funding ratio. – Basel: BIS, October 2014.
 [^7]: Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: «O‘zsanoatqurilishbank» ATB ning 2025-yil 30-dekabr holatidagi prudensial hisobot shakllari (1, 10, 16–18-jadvallar); Joint Stock Commercial Bank «Uzbek Industrial and Construction Bank» and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025. – Tashkent, 2026. – P. 2–3, 28–31.
 [^8]: Tadqiqot natijasida muallif tomonidan ishlab chiqildi.
+[^9]: O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2015-yil 22-iyuldagi 19/14-son qarori bilan tasdiqlangan «Tijorat banklarining likvidliligini boshqarishga qo‘yiladigan talablar to‘g‘risida»gi nizom (ro‘yxat raqami 2709). – 53–55-bandlar, 2-ilova // O‘zbekiston Respublikasi qonun hujjatlari to‘plami. – 2015. – 32 (688)-son. – 437-modda.
