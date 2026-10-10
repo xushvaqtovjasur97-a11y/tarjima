@@ -19,7 +19,7 @@
 | `paragraflar/2.2-paragraf.docx` | 2.2-§, 13 bet, 6 ta diagramma; ma’lumotlar qidiruv orqali (IMF FSAP, MB sharhlari), Drive/cbu.uz ma’lumotlari bilan tekshirilishi kerak |
 | `paragraflar/Ozbekiston_Bazel_evolyutsiyasi_tahlil.docx` | O‘zbekistonda Bazel talablari evolyutsiyasi (5 bosqich, K1 dinamikasi) |
 | `paragraflar/Ozbekiston_Bazel_bosqichlari.docx` | Bazel bosqichlari xronologiyasi |
-| `paragraflar/1.3-xorijiy-tajriba.docx` | **Yangi reja** bo‘yicha 1.3-§ (xorijiy tajriba), 20 bet, 7 ta rasm, 3 ta jadval, 53 snoska; 1.3.7-rasm NFRA 2023–2025, XVJ 2025 Article IV va Charoenwong va boshq. (2025) ma’lumotlari bilan yangilandi. Manba matni `1.3-xorijiy-tajriba.src.md` (`tools/fn13x.py` snoskalarni to‘liq manba bilan yoyadi, `tools/build13x.py` docx yig‘adi) |
+| `paragraflar/1.3-xorijiy-tajriba.docx` | **Yangi reja** bo‘yicha 1.3-§ (xorijiy tajriba), 24 bet, 7 ta rasm, 3 ta jadval, 67 snoska; 2024–2026-yillardagi islohotlar qo‘shilgan, 1.3.5-rasm 2015–2026-yillar chiziqli grafigi; 1.3.7-rasm NFRA 2023–2025, XVJ 2025 Article IV va Charoenwong va boshq. (2025) ma’lumotlari bilan yangilandi. Manba matni `1.3-xorijiy-tajriba.src.md` (`tools/fn13x.py` snoskalarni to‘liq manba bilan yoyadi, `tools/build13x.py` docx yig‘adi) |
 | `paragraflar/rasmlar/1.3.6-rasm_SP_2024.png` | S&P 1981–2024 defolt darajalari |
 
 ## Keyingi vazifa

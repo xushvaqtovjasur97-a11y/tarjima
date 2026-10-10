@@ -129,13 +129,20 @@ for r,(lab,row) in enumerate(cells):
   sh.append(W.box(0.1,y,2.3,2.45,lab,fill='DEEBF7',line=LBLUE,sz=19,bold=True))
 W.replace_placeholder(d,'{{FIG:4}}',W.group_run_xml(sh,16.4,6.8,'1.3.4-rasm'))
 
-# ---- 5: LCR phase-in
-rid=W.add_chart(d,W.bar_chart(['2015','2016','2017','2018','2019'],[
-  ('Bazel qo‘mitasi',[60,70,80,90,100],BLUE),
-  ('Rossiya (tizimli ahamiyatli banklar)',[None,70,80,90,100],ORANGE),
-  ('O‘zbekiston',[None,80,90,100,100],GREEN)],
-  ytitle='Minimal talab, %',xtitle='Yillar',ymax=110,ymin=0,major=20,label_fmt='0',gap=60))
-W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,15.5,8.0,'1.3.5-rasm'))
+# ---- 5: LCR phase-in and continuation (line chart with labels)
+Y=list(range(2015,2027))
+bas=[60,70,80,90]+[100]*8
+uzb=[None,80,90]+[100]*9
+xml,rows=W.scatter_chart([
+  ('Bazel qo‘mitasi',Y,bas,'2A78D6:35',76200,None,None,('b',[0,1,2,3,4],DBLUE)),
+  ('O‘zbekiston',Y,uzb,GREEN,22225,None,'triangle',('t',[1,2,3])),
+  ('Rossiya: rasmiy talab (2016–2019-yillarda Bazel jadvali bilan bir xil)',[2016,2017,2018,2019,2020,2021],[70,80,90,100,100,100],ORANGE,25400,'dash','square'),
+  ('Rossiya 2',[2024,2025,2026],[100,100,100],ORANGE,25400,'dash','square'),
+  ('Rossiya: o‘z mablag‘lari hisobidan (2022–2023-yillardagi yengillikdan keyin)',[2024.17,2024.5,2025.5,2026],[40,50,60,80],'C00000',19050,'sysDot','diamond',('r',[0,1,2,3]))],
+  xtitle='Yillar',ytitle='Minimal talab, %',xmin=2014,xmax=2027,xmajor=1,ymin=30,ymax=110,ymajor=10,xfmt='0',legend=True)
+xml=xml.replace('<c:legendPos val="b"/>','<c:legendPos val="b"/><c:legendEntry><c:idx val="3"/><c:delete val="1"/></c:legendEntry>',1)
+rid=W.add_chart(d,(xml,rows))
+W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,9.5,'1.3.5-rasm'))
 
 # ---- 6: stress test architecture
 sh=[]

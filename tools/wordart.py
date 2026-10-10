@@ -53,6 +53,9 @@ def _ln(color, w=12700, dash=None):
     if not w:
         return '<a:ln><a:noFill/></a:ln>'
     d = f'<a:prstDash val="{dash}"/>' if dash else ''
+    if ':' in color:  # 'RRGGBB:alpha%' -> semi-transparent line
+        c, al = color.split(':')
+        return f'<a:ln w="{w}"><a:solidFill><a:srgbClr val="{c}"><a:alpha val="{int(al)*1000}"/></a:srgbClr></a:solidFill>{d}</a:ln>'
     return f'<a:ln w="{w}"><a:solidFill><a:srgbClr val="{color}"/></a:solidFill>{d}</a:ln>'
 
 
@@ -127,6 +130,18 @@ def bar_chart(categories, series, ytitle=None, xtitle=None, stacked=False, ymax=
     return _space(plot, legend), rows
 
 
+def _sc_lbls(lab, n, color):
+    """lab: (pos, indices_to_show) -> per-point labels; others deleted."""
+    if not lab:
+        return ''
+    pos, show = lab[:2]
+    if len(lab) > 2:
+        color = lab[2]
+    hid = ''.join(f'<c:dLbl><c:idx val="{i}"/><c:delete val="1"/></c:dLbl>' for i in range(n) if i not in show)
+    d = _dlbls(1000, pos, color)
+    return d.replace('<c:dLbls>', '<c:dLbls>' + hid, 1)
+
+
 def scatter_chart(series, xtitle, ytitle, xmin, xmax, xmajor, ymin, ymax, ymajor, xfmt='General', yfmt='General', legend=False):
     """series: list of (name, xs, ys, color, width, dash, marker)."""
     rows = []
@@ -142,13 +157,15 @@ def scatter_chart(series, xtitle, ytitle, xmin, xmax, xmajor, ymin, ymax, ymajor
             r += [s[1][i] if i < len(s[1]) else None, s[2][i] if i < len(s[2]) else None]
         rows.append(r)
     for k, s in enumerate(series):
-        name, xs, ys, color, w, dash, marker = s
+        name, xs, ys, color, w, dash, marker = s[:7]
+        lab = s[7] if len(s) > 7 else None
         cx, cy = _col(2 * k), _col(2 * k + 1)
         n = len(xs)
+        mcol = color.split(':')[0]
         mk = ('<c:marker><c:symbol val="none"/></c:marker>' if not marker else
-              f'<c:marker><c:symbol val="{marker}"/><c:size val="7"/><c:spPr><a:solidFill><a:srgbClr val="{color}"/></a:solidFill><a:ln><a:noFill/></a:ln></c:spPr></c:marker>')
+              f'<c:marker><c:symbol val="{marker}"/><c:size val="7"/><c:spPr><a:solidFill><a:srgbClr val="{mcol}"/></a:solidFill><a:ln><a:noFill/></a:ln></c:spPr></c:marker>')
         sers += (f'<c:ser><c:idx val="{k}"/><c:order val="{k}"/><c:tx>{_strref(f"Sheet1!${cy}$1", [name])}</c:tx>'
-                 f'<c:spPr>{_ln(color, w, dash)}</c:spPr>{mk}'
+                 f'<c:spPr>{_ln(color, w, dash)}</c:spPr>{mk}{_sc_lbls(lab, len(xs), color)}'
                  f'<c:xVal>{_numref(f"Sheet1!${cx}$2:${cx}${n+1}", xs)}</c:xVal>'
                  f'<c:yVal>{_numref(f"Sheet1!${cy}$2:${cy}${n+1}", ys)}</c:yVal><c:smooth val="0"/></c:ser>')
     plot = (f'<c:scatterChart><c:scatterStyle val="lineMarker"/><c:varyColors val="0"/>{sers}'
