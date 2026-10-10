@@ -19,6 +19,7 @@
 | `paragraflar/2.2-paragraf.docx` | 2.2-§, 13 bet, 6 ta diagramma; ma’lumotlar qidiruv orqali (IMF FSAP, MB sharhlari), Drive/cbu.uz ma’lumotlari bilan tekshirilishi kerak |
 | `paragraflar/Ozbekiston_Bazel_evolyutsiyasi_tahlil.docx` | O‘zbekistonda Bazel talablari evolyutsiyasi (5 bosqich, K1 dinamikasi) |
 | `paragraflar/Ozbekiston_Bazel_bosqichlari.docx` | Bazel bosqichlari xronologiyasi |
+| `paragraflar/1.3-xorijiy-tajriba.docx` | **Yangi reja** bo‘yicha 1.3-§ (xorijiy tajriba), 19 bet, 7 ta rasm, 3 ta jadval, 48 snoska. Manba matni `1.3-xorijiy-tajriba.src.md` (`tools/fn13x.py` snoskalarni to‘liq manba bilan yoyadi, `tools/build13x.py` docx yig‘adi) |
 | `paragraflar/rasmlar/1.3.6-rasm_SP_2024.png` | S&P 1981–2024 defolt darajalari |
 
 ## Keyingi vazifa
@@ -39,6 +40,8 @@ Qidiruvda topilgan, lekin hali tekshirilmagan raqamlar: kapital monandligi 17,5%
 - Rasmlar **rangli**, Wordning o‘z diagrammalari (Excel ma’lumotli) va Word shakllaridan sxemalar – rasm (PNG) emas. Namuna: foydalanuvchi yuborgan ROA/NIM chiziqli grafiklari (Times New Roman, ko‘k `2A78D6`, to‘q sariq `EB6834`, marker va ma’lumot yorliqlari).
 - Hajmi har bir paragraf uchun taxminan 15–18 bet.
 - Bob/paragraf nomlarida qisqartma yo‘q; MBII faqat matnda.
+- **Uslub namunasi** – foydalanuvchi yuborgan Sharipova N.H. DSc avtoreferati: jumlalar bir-biriga bog‘lanib ketadi («Shu bilan birga», «Bu esa», «Jadval ma’lumotlari shuni ko‘rsatadiki», «Muallif fikricha», «Bu o‘z navbatida»), har bir rasm/jadvaldan keyin uning izohi beriladi, paragraf ichida sarlavhachalar yo‘q.
+- **Snoskalar namunadagidek**: har safar manba to‘liq yoziladi («Ko‘rsatilgan asar», «O‘sha joyda» ishlatilmaydi); belgi nuqtadan oldin qo‘yiladi; muallif rasm/jadvallari uchun «Tadqiqot natijasida muallif tomonidan … ishlab chiqildi».
 
 ## Vositalar (`tools/`)
 
