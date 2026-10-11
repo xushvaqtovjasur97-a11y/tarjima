@@ -79,4 +79,11 @@ for b in ['Mikrokreditbank','Biznesni rivojlantirish banki','Garant bank','Ipote
   x=p[(p.bank==b)&p.tanlov][['davr','MBII','lnZ','S3','lossq']].round(2); cs[b]=x.values.tolist()
 OUT['misollar']=cs
 for b,v in cs.items(): print(b,[(r[0],r[1],r[4]) for r in v])
+def roc(y,sc):
+  y=np.asarray(y); sc=np.asarray(sc); ths=np.unique(sc)[::-1]; P=y.sum(); N=len(y)-P; pts=[(0.0,0.0)]
+  for t in ths: S=sc>=t; pts.append((round((S&(y==0)).sum()/N,4),round((S&(y==1)).sum()/P,4)))
+  return pts
+OUT['ROC']={'MBII':roc(d.Y,-d.MBII),'ln(Z-score)':roc(d.Y[d.lnZ.notna()],-d.lnZ.dropna()),'Muammoli kreditlar ulushi':roc(d.Y,d.S3)}
+OUT['zona']=d.assign(z=pd.cut(d.MBII,[0,2.75,3.25,5],right=False,labels=['qizil','sariq','yashil'])).groupby('z').Y.agg(['count','sum','mean']).reset_index().values.tolist()
+print(OUT['zona'])
 json.dump(OUT,open('ews41.json','w'),ensure_ascii=False,indent=1,default=float)
