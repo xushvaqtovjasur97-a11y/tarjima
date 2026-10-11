@@ -81,7 +81,7 @@ def _valax(axid, cross, pos, title=None, mn=None, mx=None, major=None, grid=True
     mu = f'<c:majorUnit val="{major}"/>' if major else ''
     return (f'<c:valAx><c:axId val="{axid}"/>{sc}<c:delete val="{1 if delete else 0}"/><c:axPos val="{pos}"/>'
             f'{GRID if grid else ""}{t}<c:numFmt formatCode="{fmt}" sourceLinked="0"/><c:majorTickMark val="out"/>'
-            f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100)}<c:crossAx val="{cross}"/>'
+            f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100, rot=(0 if pos == "b" else None))}<c:crossAx val="{cross}"/>'
             f'<c:crosses val="{crosses}"/><c:crossBetween val="{cb}"/>{mu}</c:valAx>')
 
 
@@ -89,8 +89,8 @@ def _catax(axid, cross, title=None):
     t = _title(title, 1100) if title else ''
     return (f'<c:catAx><c:axId val="{axid}"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="0"/>'
             f'<c:axPos val="b"/>{t}<c:numFmt formatCode="General" sourceLinked="0"/><c:majorTickMark val="none"/>'
-            f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100)}<c:crossAx val="{cross}"/>'
-            f'<c:crosses val="autoZero"/><c:auto val="1"/><c:lblAlgn val="ctr"/><c:lblOffset val="100"/><c:noMultiLvlLbl val="0"/></c:catAx>')
+            f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100, rot=0)}<c:crossAx val="{cross}"/>'
+            f'<c:crosses val="autoZero"/><c:auto val="1"/><c:lblAlgn val="ctr"/><c:lblOffset val="100"/><c:tickLblSkip val="1"/><c:noMultiLvlLbl val="0"/></c:catAx>')
 
 
 def _legend(pos='b'):

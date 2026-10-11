@@ -20,7 +20,7 @@ R={
 'GET':('Key trends in Uzbekistan’s banking sector // German Economic Team. – https://www.german-economic-team.com/en/newsletter/key-trends-in-uzbekistans-banking-sector/',''),
 'KILDE':('Non-Bank Financial Institutions & Private Credit in Uzbekistan 2026 // Kilde. – https://www.kilde.sg/post/non-bank-financial-institutions-and-private-credit-investment-in-uzbekistan-2026-update',''),
 'UZD':('World Bank. Republic of Uzbekistan: Financial Sector Assessment. – Washington, DC: World Bank, 2025; Private bank assets in Uzbekistan rise 29% in a year // UzDaily.uz. – 2026. – https://www.uzdaily.uz/en/private-bank-assets-in-uzbekistan-rise-29-in-a-year/',''),
-'BUL':('O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2021-yil. – Toshkent, 2022. – 5.1.8b-jadval; O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2026-yil mart. – Toshkent, 2026. – 5.1.3, 5.1.4, 5.1.6, 5.1.7, 5.1.8-jadvallar. – https://cbu.uz/uz/statistics/buleten/',''),
+'BUL':('O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2021-yil. – Toshkent, 2022. – 5.1.8b-jadval; O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2026-yil mart. – Toshkent, 2026. – 5.1.2, 5.1.3, 5.1.4, 5.1.6, 5.1.7, 5.1.8-jadvallar. – https://cbu.uz/uz/statistics/buleten/',''),
 'CBU24':('O‘zbekiston Respublikasi Markaziy banki. 2024-yil uchun moliyaviy barqarorlik sharhi. – Toshkent, 2025.',''),
 'SQBREP':('«O‘zsanoatqurilishbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs003C, crs003L, crs003O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
 'MKREP':('«Mikrokreditbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs005C, crs005L, crs005O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
@@ -35,10 +35,10 @@ SRCS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chi
 SYS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida ishlab chiqildi: '
 BANK=SYS+J(ref('SQBREP','-'),ref('MKREP','-'))
 A={
-'F1':SYS+J(ref('WBPAD','-'),ref('UZD','-')),
+'F1':SYS+J(ref('BUL','-')),
 'T1':SYS+J(ref('BUL','-'),ref('IMF189','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
 'F2':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
-'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-'),ref('WBFSA','-')),
+'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
 'F4':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
 'T2':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: '+J(ref('SQBREP','-'),ref('MKREP','-')),
 'F5':BANK,'F6':BANK,'F7':BANK,

@@ -84,14 +84,14 @@ for t in d.tables:
     for k,gc in enumerate(grid.findall(qn('w:gridCol'))): gc.set(qn('w:w'),str(int((first if k==0 else rest)*567)))
     t.autofit=False
 Y=['2021','2022','2023','2024','2025']
-rid=W.add_chart(d,W.bar_chart(['2019-y. boshi','2021-y. oxiri','2024-y.','2026-y. o‘rtasi'],[('Davlat ishtirokidagi banklar ulushi',[84,81,67,62],BLUE)],
-  ytitle='Bank tizimi aktivlariga nisbatan, %',ymax=100,major=20,label_fmt='0',legend=False,gap=90))
+rid=W.add_chart(d,W.bar_chart(Y,[('Aktivlardagi ulushi',[81.5,78.2,67.7,65.4,63.5],BLUE),('Kreditlardagi ulushi',[85.8,83.2,70.7,68.8,67.0],ORANGE),('Depozitlardagi ulushi',[66.7,62.5,51.5,50.1,51.0],GREEN)],
+  ytitle='Bank tizimi jami ko‘rsatkichiga nisbatan, %',ymax=100,major=20,label_fmt='0.0',gap=60))
 W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,16.0,8.0,'2.2.1-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('Regulyativ kapital monandligi',[17.5,17.8,17.5,17.4,18.3],BLUE),('Asosiy kapital (CET1) monandligi',[14.6,14.4,14.1,14.3,14.7],ORANGE)],
   ytitle='%',ymax=22,major=2,label_fmt='0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'2.2.2-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('Muammoli kreditlar, jami',[5.2,3.6,3.5,4.0,3.0],BLUE),('Muammoli kreditlar, davlat banklari',[5.4,3.9,4.0,3.9,3.2],LBLUE),
-  ('MHXS 9 bo‘yicha 3-bosqich kreditlari',[None,None,7.8,None,None],GOLD),('Substandart va muammoli kreditlar',[12.5,15.9,20.0,21.0,15.0],ORANGE)],
+  ('Muammoli kreditlar, boshqa banklar',[4.1,2.1,2.4,4.1,2.6],GOLD),('Substandart va muammoli kreditlar',[12.5,15.9,20.0,21.0,15.0],ORANGE)],
   ytitle='Jami kreditlarga nisbatan, %',ymax=24,major=4,label_fmt='0.0',gap=50))
 W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'2.2.3-rasm'))
 rid=W.add_chart(d,W.scatter_chart([
