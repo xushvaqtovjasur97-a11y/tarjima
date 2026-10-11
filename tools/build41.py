@@ -135,7 +135,6 @@ def ifrs_ser(code,nm,col):
   return (nm,[a for a,b in pts]+[None]*(17-len(pts)),[b for a,b in pts]+[None]*(17-len(pts)),col,28575,None,'diamond',('b',[0,1,2,3,4],col))
 R32=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/mbii32.json'))
 onebank('MKB: milliy hisobot asosida (choraklik)',s('Mikrokreditbank'),BLUE,'circle',[0,4,10,16],3,ifrs_ser('MKB','MKB: MHXS hisoboti asosida (yillik)',ORANGE))
-onebank('«Biznesni rivojlantirish banki» ATB',s('Biznesni rivojlantirish banki'),BLUE,'circle',[1,3,7,8,9,12,13],4)
 import pandas as pd
 pp=pd.read_csv('/home/user/tarjima/manbalar/hisob_kitob/panel33.csv'); sq=pp[pp.bank=='O‘zsanoatqurilishbank'].set_index('davr').MBII.round(2).to_dict()
 R32=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/mbii32.json'))
@@ -143,5 +142,5 @@ ifrs=[None]*17
 for y in range(2021,2026): ifrs[Q.index(f'{y}_IV')]=round(R32['SQB'][str(y)]['mbii'],2)
 ifrs_pts=[(x,v) for x,v in zip(X,ifrs) if v is not None]
 ex=('SQB: MHXS hisoboti asosida (yillik)',[a for a,b in ifrs_pts]+[None]*(17-len(ifrs_pts)),[b for a,b in ifrs_pts]+[None]*(17-len(ifrs_pts)),ORANGE,28575,None,'diamond',('b',[0,1,2,3,4],ORANGE))
-onebank('SQB: milliy hisobot asosida (choraklik)',[sq.get(q) for q in Q],BLUE,'circle',[0,6,10,16],5,ex)
+onebank('SQB: milliy hisobot asosida (choraklik)',[sq.get(q) for q in Q],BLUE,'circle',[0,6,10,16],4,ex)
 d.save(DST); print('saved')
