@@ -25,7 +25,8 @@ R={
 'CBU24':('O‘zbekiston Respublikasi Markaziy banki. 2024-yil uchun moliyaviy barqarorlik sharhi. – Toshkent, 2025.',''),
 'SQBREP':('«O‘zsanoatqurilishbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs003C, crs003L, crs003O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
 'MKREP':('«Mikrokreditbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs005C, crs005L, crs005O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
-'MKIFRS':('Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года, и заключение независимых аудиторов. – Ташкент, 2025. – С. 49–51; Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 48. – https://mkbank.uz/uz/shareholders/financial-indicators/audit-report/',''),
+'MKIFRS':('Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года, и заключение независимых аудиторов. – Ташкент, 2025. – С. 49–51; Акционерно-коммерческий банк «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2022 года, и заключение независимых аудиторов. – Ташкент, 2023. – С. 42–43; Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 48. – https://mkbank.uz/uz/shareholders/financial-indicators/audit-report/',''),
+'SQBIFRS23':('Акционерный коммерческий банк «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за годы, закончившиеся 31 декабря 2023, 2022 и 2021 гг. – Ташкент, 2024.','С.'),
 'SQBIFRS':('Joint Stock Commercial Bank «Uzbek Industrial and Construction Bank» and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026.','P.'),
 }
 def ref(k,p):
@@ -43,7 +44,7 @@ A={
 'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBUAR23','57'),ref('CBU24','-'),ref('CBU25','-')),
 'F4':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
 'T2':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: '+J(ref('SQBREP','-'),ref('MKREP','-')),
-'F5':BANK,'F6':BANK,'F7':BANK,
+'F5':BANK,'F6':BANK,'F7':BANK,'F8':SYS+J(ref('SQBREP','-'),ref('MKREP','-'),ref('SQBIFRS23','40'),ref('SQBIFRS','28–31'),ref('MKIFRS','-')),
 'T3':SYS+J(ref('BUL','-'),ref('CBU25','-'),ref('WBFSA','-'),ref('SQBREP','-'),ref('MKREP','-'),ref('SQBIFRS','28–31'),ref('MKIFRS','-')),
 }
 txt=open(SRC).read(); notes=[]

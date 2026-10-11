@@ -108,5 +108,9 @@ rid=W.add_chart(d,W.bar_chart(Y,[('SQB: muammoli kreditlar',[3.8,2.8,2.2,2.8,2.5
 W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,16.0,8.0,'2.2.6-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('«O‘zsanoatqurilishbank»',[16.0,7.6,11.0,13.9,17.2],BLUE),('«Mikrokreditbank»',[2.2,0.7,1.1,-45.5,3.5],ORANGE)],
   ytitle='%',ymax=20,ymin=-50,major=10,label_fmt='0.0',gap=70))
-W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,16.0,8.0,'2.2.7-rasm'))
+W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,16.0,8.0,'2.2.8-rasm'))
+rid=W.add_chart(d,W.bar_chart(Y,[('SQB: rasmiy muammoli kreditlar',[3.8,2.8,2.2,2.8,2.5],LBLUE),('SQB: MHXS 9 bo‘yicha 3-bosqich',[6.2,7.4,4.8,5.9,7.5],DBLUE),
+  ('MKB: rasmiy muammoli kreditlar',[5.9,4.8,6.0,4.6,4.4],'A9D18E'),('MKB: MHXS 9 bo‘yicha 3-bosqich',[17.4,13.5,16.6,15.2,12.3],'38761D')],
+  ytitle='Jami kreditlarga nisbatan, %',ymax=20,major=4,label_fmt='0.0',gap=50))
+W.replace_placeholder(d,'{{FIG:8}}',W.chart_run_xml(rid,16.0,8.0,'2.2.7-rasm'))
 d.save(DST); print('saved')
