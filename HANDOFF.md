@@ -105,6 +105,14 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Tuzatildi: 2021-yil milliy sof foyda soliqdan oldingi qiymat edi → SQB 998,2, MKB 38,4 (2.2, 2.3, II bob xulosalari yangilandi).
 - 3.2 uchun: boshqa banklar ma’lumotlari kerak (banklar saytidagi hisobotlar yoki cbu.uz).
 
+## 3.2-§ (reyting) va banklar MHXS bazasi
+
+- `paragraflar/3.2-paragraf.docx` – 14 bet, 5 rasm, 4 jadval, 31 snoska (`tools/fn32.py`, `tools/build32.py`, hisob: `manbalar/hisob_kitob/mbii32.py`, `sns_guruh.json`).
+- Banklar: SQB, MKB, BRB, Xalq banki, Ipoteka-bank (MHXS, har yil keyingi yil hisobotidagi qiyosiy qiymat). Ochiq ma’lumotlar varianti: LCR/NSFR o‘rniga yuqori likvid aktivlar ulushi (SNS bazasidan), CET1 = (MHXS kapital − NCI − joriy foyda)/RWA.
+- `manbalar/mhxs_banklar/`: to‘liq – SQB, MKB, BRB, XALQ, IPOTEKA, ALOQA, TURON; qisman – KAPITAL (2025 yo‘q), NBU (2021), OFB (2022); bo‘sh – ASAKA (izohsiz hisobot), IPAK, AGRO, HAMKOR. Yuklab olingan PDF lar scratchpad/banks/ da (sessiya tugasa yo‘qoladi).
+- SNS bazasi: `manbalar/markaziy_bank/banklar/` (+ `TEKSHIRUV.md` – xatolar ro‘yxati).
+- Keyin: ALOQA va TURON ni 3.2 ga qo‘shish (7 bank).
+
 ## Ochiq savollar va keyingi rejalar (11.10.2026)
 
 1. Yakuniy reja (mundarija) tanlanishi kerak: `reja/REJA_yaxlit.docx` va keyingi yozilgan paragraflar nomlari farq qiladi (1.1, 1.3, 2.1, 2.2).
