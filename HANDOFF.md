@@ -120,3 +120,9 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 3. 1.1-§ ga «milliy olimlar qarashlari» qo‘shish (`Dissertatsiyalar_tahlili.docx` asosida).
 4. Foydalanuvchidan kutilmoqda: Sattarov O.B. to‘liq dissertatsiyasi (fayl), SQB ma’lumotnomasi matni, Kirishdagi `[__]` ma’lumotlar, Xolov N.Q. (2025) dissertatsiyasi.
 5. Tekshirilmagan: lex.uz dagi 2709-son nizomning amaldagi tahriri; Afanasyeva–Dubova, Larionova, Sokolinskaya kitoblarining nashr yili.
+
+## 3.3-§ (tayyor, 18 bet, 7 jadval, 3 rasm, 41 izoh)
+- Fayllar: `paragraflar/3.3-paragraf.src.md` → `tools/fn33.py` → `tools/build33.py` → `.docx`. Regressiya jadvallari `model33.json` dan avtomatik to‘ldiriladi ({{T2}}…{{T6}}).
+- Hisob: `manbalar/hisob_kitob/panel33.py` (25 bank, 2021_IV–2025_IV, 421 kuzatuv; panel MBII 8 ko‘rsatkich, 3.1 dagi langarlar – A variant; ln Z-score, 8 chorakli siljuvchi sd), `model33.py` (Pooled/RE/TWFE + Hausman, BP LM; Anderson–Hsiao; davlat ulushi mediatsiyasi; NPL satellit).
+- Asosiy natijalar: davlat banki −0,69*** (yarmi depozit bazasi va NIM orqali); depozit/aktiv va NIM musbat; MBII inersiyasi 0,50 (F=17,2); kredit o‘sishi(t−4) Z-score ni pasaytiradi, milliy NPL ga ta’sir yo‘q; YaIM o‘sishi NPL ni −1,4…−1,9 p.p., stavka +0,7…+1,0 p.p.; Z-score davlat banklari zaifligini ko‘rmaydi.
+- Ochiq: Ipoteka-bank xususiylashtirish choragi (2023_III deb olingan) aniqlashtirilsin.
