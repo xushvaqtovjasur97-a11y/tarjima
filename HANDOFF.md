@@ -84,3 +84,15 @@ Manbalar: sqb.uz/en/for-investors/reports/ifrs-en/ (2021-yil hisoboti 46-bet, 20
 ## Tarmoq
 
 cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz ochiladi. natlib.uz to‘liq matn ko‘ruvchisi (`nlips.natlib.uz:447`) ochilmaydi.
+
+## Kirish
+
+`paragraflar/Kirish.docx` (14 bet, 46 snoska; `Kirish.src.md` → `tools/fn_kirish.py` → `tools/build_kirish.py`). Joriy etish: «O‘zsanoatqurilishbank» ATB ning 2026-yil 8-oktabrdagi 22156/56-son ma’lumotnomasi. `[__]` joylar foydalanuvchi tomonidan to‘ldiriladi.
+
+## Ochiq savollar va keyingi rejalar (11.10.2026)
+
+1. Yakuniy reja (mundarija) tanlanishi kerak: `reja/REJA_yaxlit.docx` va keyingi yozilgan paragraflar nomlari farq qiladi (1.1, 1.3, 2.1, 2.2).
+2. Yoziladigan qismlar: 1.2-§ (yangi reja bo‘yicha qayta ko‘rib chiqish), 2.3-§ (milliy va MHXS qiyosi – SQB/NSFR materiallari bor), III bob (integral indeks, reyting, ekonometrika), IV bob (erta ogohlantirish, 2026–2028 prognoz, takliflar), bob xulosalari, umumiy xulosa.
+3. 1.1-§ ga «milliy olimlar qarashlari» qo‘shish (`Dissertatsiyalar_tahlili.docx` asosida).
+4. Foydalanuvchidan kutilmoqda: Sattarov O.B. to‘liq dissertatsiyasi (fayl), SQB ma’lumotnomasi matni, Kirishdagi `[__]` ma’lumotlar, Xolov N.Q. (2025) dissertatsiyasi.
+5. Tekshirilmagan: lex.uz dagi 2709-son nizomning amaldagi tahriri; Afanasyeva–Dubova, Larionova, Sokolinskaya kitoblarining nashr yili.
