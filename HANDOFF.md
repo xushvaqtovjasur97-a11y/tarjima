@@ -91,9 +91,10 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 ## 2.3-§ va II bob xulosalari
 
-- `paragraflar/2.3-paragraf.docx` – 19 bet, 7 ta rasm (2.3.1 sxema, qolganlari Word diagrammalari), 4 ta jadval, 36 snoska. `2.3-paragraf.src.md` → `tools/fn23.py` → `tools/build23.py`.
+- `paragraflar/2.3-paragraf.docx` – 20 bet, 7 ta rasm (2.3.1 sxema, qolganlari Word diagrammalari), 4 ta jadval, 38 snoska. `2.3-paragraf.src.md` → `tools/fn23.py` → `tools/build23.py`.
 - Asosiy natijalar: SQB MHXS kapitali milliydan 3,2–13,5% kam; 5 yillik foyda 5 912,2 (milliy) vs 5 005,7 (MHXS); zaxiralar 1,3–2,2 barobar ko‘p; 2025-yilda 3-bosqich kreditlarining 57,2% milliy tasnifda «standart/substandart» (SQB 2025 MHXS, P. 37–38 kesishma jadvali); yashirin kredit riski koeffitsiyenti SQB 1,65–2,96, MKB 2,77–3,30; MKB zararni MHXS bo‘yicha 2023-yilda (−471,2), milliy bo‘yicha 2024-yilda (−1 703,8) tan olgan.
 - MKB MHXS: aktivlar/kapital/foyda – 2021 hisoboti С. 6–7, 2023 – С. 7–8, 2025 – С. 11–12 (skaner, sahifa rasmidan o‘qildi).
+- MHXS asosidagi kapital monandligi taxminiy emas, qayta hisoblangan (bank MHXS hisobotida koeffitsiyentlar milliy hisob asosida, P. 74): CET1 = MHXS kapitali − joriy foyda − ozchilik ulushi − rasmiy chegirmalar; AT1 va Tier 2 rasmiy (foyda farqiga tuzatilgan); RWA rasmiy. SQB CET1: 11,89/11,62/10,72/10,04/8,87 (milliy 11,86/12,08/11,03/10,62/10,21); 2025 T1 12,66, CAR 15,32. MKB CET1: 13,59/20,17/16,20/15,02/18,24.
 - `paragraflar/II_bob_xulosalar.docx` – 3 bet, 9 band (`tools/build_xb2.py`). Foydalanuvchi talabi: bob xulosalari 2–3 betdan oshmasin.
 
 ## Ochiq savollar va keyingi rejalar (11.10.2026)

@@ -128,7 +128,7 @@ W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,8.0,'2.3.5-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[51.4,21.3,41.1,-1703.8,160.8],GREEN),('MHXS',[5.1,10.4,-471.2,-961.3,42.1],ORANGE)],
   ytitle='mlrd so‘m',ymax=500,ymin=-2000,major=500,label_fmt='#,##0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,16.0,8.0,'2.3.6-rasm'))
-rid=W.add_chart(d,W.bar_chart(['Muammoli kreditlar ulushi','Kredit zaxiralari','NSFR','Jami aktivlar','Xususiy kapital','CET1 monandligi','Sof foyda'],
-  [('Nisbiy tafovut',[195.7,44.2,2.1,-5.1,-13.5,-16.7,-17.9],DBLUE)],ytitle='%',ymax=200,ymin=-50,major=50,label_fmt='0.0',gap=60,legend=False))
+rid=W.add_chart(d,W.bar_chart(['Muammoli kreditlar ulushi','Kredit zaxiralari','NSFR','Jami aktivlar','CET1 monandligi','Xususiy kapital','Sof foyda'],
+  [('Nisbiy tafovut',[195.7,44.2,2.1,-5.1,-13.1,-13.5,-17.9],DBLUE)],ytitle='%',ymax=200,ymin=-50,major=50,label_fmt='0.0',gap=60,legend=False))
 W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,16.0,8.0,'2.3.7-rasm'))
 d.save(DST); print('saved')

@@ -27,7 +27,7 @@ def J(*xs): return '; '.join(x.rstrip('.') for x in xs)+'.'
 SRCS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '
 SYS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida ishlab chiqildi: '
 CALC='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: '
-SQ=(ref('SQBREP','-'),ref('SQBIFRS21','8–9'),ref('SQBIFRS23','2–3, 39–40'),ref('SQBIFRS','2–3, 28–31, 37–38'))
+SQ=(ref('SQBREP','-'),ref('SQBIFRS21','8–9'),ref('SQBIFRS23','2–3, 39–40'),ref('SQBIFRS','2–3, 28–31, 37–38, 74'))
 MK=(ref('MKREP','-'),ref('MKIFRS21','6–7'),ref('MKIFRS23','7–8'),ref('MKIFRS25','11–12'),ref('MKIFRS','-'))
 A={
 'T1':SRCS+J(ref('N2696','-'),ref('IFRS9','-'),ref('SQBREP','-'),ref('SQBIFRS','37–38, 74'),ref('MKIFRS25','11–12')),
