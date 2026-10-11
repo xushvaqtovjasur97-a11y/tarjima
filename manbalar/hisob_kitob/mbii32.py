@@ -3,7 +3,7 @@ import json,csv,collections,sys,os
 sys.path.insert(0,'/home/user/tarjima/manbalar/hisob_kitob')
 import mbii as M
 R='/home/user/tarjima/manbalar/'
-SNS={'SQB':"O'ZSANOATQURILISHBANK",'MKB':'MIKROKREDITBANK','BRB':'BIZNESNI RIVOJLANTIRISH BANKI','HAMKOR':'HAMKORBANK','ALOQA':'ALOQABANK','TURON':'TURONBANK'}
+SNS={'SQB':"O'ZSANOATQURILISHBANK",'MKB':'MIKROKREDITBANK','BRB':'BIZNESNI RIVOJLANTIRISH BANKI','HAMKOR':'HAMKORBANK','ALOQA':'ALOQABANK','TURON':'TURONBANK','XALQ':'XALQ BANKI','KAPITAL':'KAPITALBANK','NBU':"O'ZMILLIYBANK",'ASAKA':'ASAKABANK','IPOTEKA':'IPOTEKA-BANK'}
 S=collections.defaultdict(dict)
 for r in csv.DictReader(open(R+'markaziy_bank/banklar/banklar_2021IV_2026II.csv')):
   try: S[(r['bank'],r['davr'])][r['korsatkich']]=float(r['mlrd_som'])
