@@ -44,7 +44,7 @@ p['CI']=p.OPEX/(p.NII+p.NIIn-p.NIEn)*100
 p.loc[((p.NII+p.NIIn-p.NIEn)<=0)|(p.OPEX<=0)|(p.CI<10),'CI']=np.nan
 P8={'LEV':'LEV','S3':'S3','NPLnet':'NPLnet','HLA':'HLA_r','LTD':'LTD','ROA':'ROA','ROE':'ROE','CI':'CI'}
 # panelda kapital/aktiv (umumiy kapital) uchun langarlar 8/11/14/17 (O'zbekiston banklarida 12–17%)
-M.IND=[(k,b,n,dr,[8.0,11.0,14.0,17.0] if n=='LEV' else a) for k,b,n,dr,a in M.IND]
+#M.IND=[(k,b,n,dr,[8.0,11.0,14.0,17.0] if n=='LEV' else a) for k,b,n,dr,a in M.IND]
 W={b:v for b,v in M.W['taklif'].items() if b!='V'}
 def ix(r):
   v={n:(None if pd.isna(r[c_]) else r[c_]) for n,c_ in P8.items()}
