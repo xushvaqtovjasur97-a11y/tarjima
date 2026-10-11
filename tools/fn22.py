@@ -14,6 +14,7 @@ R={
 'WBFSA':('World Bank. Republic of Uzbekistan: Financial Sector Assessment. – Washington, DC: World Bank, 2025.',''),
 'WBPAD':('World Bank. Uzbekistan Financial Sector Reform Project: Project Appraisal Document. Report No. PAD4468. – Washington, DC: World Bank, 2022.',''),
 'CBU22':('O‘zbekiston Respublikasi Markaziy banki. Moliyaviy barqarorlik sharhi: 2022-yil. – Toshkent, 2023.',''),
+'CBUAR23':('The Central Bank of the Republic of Uzbekistan. Annual Report 2023. – Tashkent, 2024.','P.'),
 'CBU23':('The Central Bank of the Republic of Uzbekistan. Financial Stability Report for 2023. – Tashkent, 2024.',''),
 'CBU25H1':('The Central Bank of the Republic of Uzbekistan. Financial Stability Report for the first half of 2025. – Tashkent, 2025.',''),
 'CBU25':('The Central Bank of the Republic of Uzbekistan. Financial Stability Report for 2025. – Tashkent, 2026.',''),
@@ -36,9 +37,9 @@ SYS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asos
 BANK=SYS+J(ref('SQBREP','-'),ref('MKREP','-'))
 A={
 'F1':SYS+J(ref('BUL','-')),
-'T1':SYS+J(ref('BUL','-'),ref('IMF189','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
+'T1':SYS+J(ref('BUL','-'),ref('IMF189','-'),ref('CBU22','-'),ref('CBUAR23','57'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
 'F2':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
-'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
+'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBUAR23','57'),ref('CBU24','-'),ref('CBU25','-')),
 'F4':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
 'T2':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: '+J(ref('SQBREP','-'),ref('MKREP','-')),
 'F5':BANK,'F6':BANK,'F7':BANK,

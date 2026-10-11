@@ -91,7 +91,7 @@ rid=W.add_chart(d,W.bar_chart(Y,[('Regulyativ kapital monandligi',[17.5,17.8,17.
   ytitle='%',ymax=22,major=2,label_fmt='0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'2.2.2-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('Muammoli kreditlar, jami',[5.2,3.6,3.5,4.0,3.0],BLUE),('Muammoli kreditlar, davlat banklari',[5.4,3.9,4.0,3.9,3.2],LBLUE),
-  ('Muammoli kreditlar, boshqa banklar',[4.1,2.1,2.4,4.1,2.6],GOLD),('Substandart va muammoli kreditlar',[12.5,15.9,20.0,21.0,15.0],ORANGE)],
+  ('Muammoli kreditlar, boshqa banklar',[4.1,2.1,2.4,4.1,2.6],GOLD),('Substandart va muammoli kreditlar',[12.5,15.9,19.5,21.0,15.0],ORANGE)],
   ytitle='Jami kreditlarga nisbatan, %',ymax=24,major=4,label_fmt='0.0',gap=50))
 W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'2.2.3-rasm'))
 rid=W.add_chart(d,W.scatter_chart([
