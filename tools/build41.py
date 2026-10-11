@@ -115,13 +115,13 @@ xs=[round(x,2) for x in np.arange(2.0,4.0001,0.1)]; ys=[round(100/(1+np.exp(-(b0
 lab=[i for i,x in enumerate(xs) if abs(x-2.5)<1e-6 or abs(x-2.8)<1e-6 or abs(x-3.2)<1e-6 or abs(x-3.7)<1e-6]
 rid=W.add_chart(d,W.scatter_chart([('Muammo ehtimoli',xs,ys,BLUE,28575,None,'circle',('t',lab))],'MBII, ball','Ehtimol, %',2.0,4.0,0.25,0,100,20,xfmt='0.00',yfmt='0'))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'4.1.2-rasm'))
-M=O['misollar']; Q=['2023_I','2023_II','2023_III','2023_IV','2024_I','2024_II','2024_III','2024_IV','2025_I','2025_II','2025_III','2025_IV']
+M=O['misollar']; Q=['2021_IV']+[f'{y}_{q}' for y in (2022,2023,2024,2025) for q in ('I','II','III','IV')]
 X=[int(q[:4])+ {'I':0,'II':0.25,'III':0.5,'IV':0.75}[q[5:]] for q in Q]
-def s(b): m={r[0]:r[1] for r in M[b]}; return [m[q] for q in Q]
-ser=[('«Mikrokreditbank» ATB',X,s('Mikrokreditbank'),ORANGE,28575,None,'square',('b',[5,6])),
-     ('«Biznesni rivojlantirish banki» ATB',X,s('Biznesni rivojlantirish banki'),BLUE,28575,None,'circle',('b',[3,4])),
-     ('Qizil zona chegarasi (2,75)',X,[2.75]*12,'C00000',15875,'dash',None),
-     ('Yashil zona chegarasi (3,25)',X,[3.25]*12,GREEN,15875,'dash',None)]
-rid=W.add_chart(d,W.scatter_chart(ser,'Choraklar','MBII, ball',2023,2026,1,2.0,3.5,0.25,xfmt='0',yfmt='0.00',legend=True))
+def s(b): m={r[0]:r[1] for r in M[b]}; return [m.get(q) if m.get(q)==m.get(q) else None for q in Q]
+ser=[('«Mikrokreditbank» ATB',X,s('Mikrokreditbank'),ORANGE,28575,None,'square',('b',[11,12])),
+     ('«Biznesni rivojlantirish banki» ATB',X,s('Biznesni rivojlantirish banki'),BLUE,28575,None,'circle',('b',[8,9])),
+     ('Qizil zona chegarasi (2,75)',X,[2.75]*17,'C00000',15875,'dash',None),
+     ('Yashil zona chegarasi (3,25)',X,[3.25]*17,GREEN,15875,'dash',None)]
+rid=W.add_chart(d,W.scatter_chart(ser,'Choraklar','MBII, ball',2021.5,2026,1,2.0,3.5,0.25,xfmt='0',yfmt='0.00',legend=True))
 W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'4.1.3-rasm'))
 d.save(DST); print('saved')
