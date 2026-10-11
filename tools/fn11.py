@@ -10,6 +10,11 @@ R={
 'SCH':('Schinasi G.J. Defining Financial Stability: IMF Working Paper WP/04/187. – Washington, DC: International Monetary Fund, 2004. – 18 p.',''),
 'MISH':('Mishkin F.S. Global Financial Instability: Framework, Events, Issues // Journal of Economic Perspectives. – 1999. – Vol. 13, No. 4. – P. 3–20.',''),
 'HEN':('Hendrickson J.M. Regulation and Instability in U.S. Commercial Banking: A History of Crises. – Basingstoke: Palgrave Macmillan, 2011.','P.'),
+'SATT':('Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini ta’minlash metodologiyasini takomillashtirish: iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati. – Toshkent, 2018.','B.'),
+'BOZ':('Bozorov R.X. Tijorat banklari moliyaviy barqarorligini ta’minlashni takomillashtirish: iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati. – Toshkent, 2020.','B.'),
+'SAD':('Sadikov I.G. Iqtisodiyotni transformatsiyalash jarayonida tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘llari: iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati. – Toshkent, 2025.','B.'),
+'MAD':('Madaminov B.A. Tijorat banklarida risk-menejment tizimini takomillashtirish asosida moliyaviy barqarorlikni ta’minlash metodologiyasi: iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati. – Toshkent, 2026.','B.'),
+'ABD':('Abdishukurov Sh.Sh. Tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘nalishlari: iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati. – Toshkent, 2026.','B.'),
 'SHAR':('Sharipova N.H. Tijorat banklari moliyaviy barqarorligini mustahkamlashning konseptual asoslarini takomillashtirish: iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati. – Toshkent, 2026.','B.'),
 'AFD':('Регулирование банковской сферы: учебник / под ред. О.Н. Афанасьевой, С.Е. Дубовой. – М.: КНОРУС.','С.'),
 'PEL':('Peláez C.M., Peláez C.A. Regulation of Banks and Finance: Theory and Policy after the Credit Crisis. – Basingstoke: Palgrave Macmillan, 2009.','P.'),
@@ -34,7 +39,7 @@ DEV='Tadqiqot natijasida muallif tomonidan ishlab chiqildi.'
 SRCS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '
 A={
 'FIG1':SRCS+J(ref('LM','14–15, 57–61'),ref('LAV','37–40')),
-'TAB1':SRCS+J(ref('LM','24'),ref('LAV','38'),ref('SCH','-'),ref('MISH','-'),ref('HEN','6–7'),ref('THAK','13–16'),ref('SHAR','13–14')),
+'TAB1':SRCS+J(ref('LM','24'),ref('LAV','38'),ref('SCH','-'),ref('MISH','-'),ref('HEN','6–7'),ref('THAK','13–16'),ref('SATT','13'),ref('SAD','11'),ref('MAD','12'),ref('SHAR','13–14')),
 'FIG2':DEV,
 'FIG3':SRCS+J(ref('LM','41–45'),ref('AFD','49–55')),
 'FIG4':SRCS+J(ref('LM','31–41')),
