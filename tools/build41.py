@@ -102,13 +102,16 @@ for p in d.paragraphs:
     for r in p.runs: r.italic=True; r.font.size=Pt(13)
 import json, numpy as np
 O=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/ews41.json'))
-grid=[round(x,2) for x in np.arange(0,1.0001,0.05)]
-def rs(pts): return [round(max([tp for fp,tp in pts if fp<=g+1e-9]),3) for g in grid]
+grid=[round(x,1) for x in np.arange(0,100.001,5)]
+def rs(pts): return [round(100*max([tp for fp,tp in pts if fp*100<=g+1e-9]),1) for g in grid]
 ser=[('MBII (AUC = 0,86)',grid,rs(O['ROC']['MBII']),BLUE,28575,None,None),
      ('Muammoli kreditlar ulushi (AUC = 0,86)',grid,rs(O['ROC']['Muammoli kreditlar ulushi']),GREEN,22225,'dash',None),
      ('ln(Z-score) (AUC = 0,42)',grid,rs(O['ROC']['ln(Z-score)']),ORANGE,28575,None,None),
      ('Tasodifiy bashorat',grid,grid,GREY,12700,'sysDash',None)]
-rid=W.add_chart(d,W.scatter_chart(ser,'Noto‘g‘ri signallar ulushi (II tur xato)','To‘g‘ri aniqlangan hodisalar ulushi',0,1,0.2,0,1,0.2,xfmt='0%',yfmt='0%',legend=True))
+sg={round(r['th'],2):r for r in O['signal']}
+px=[round(sg[k]['II_tur'],1) for k in (2.75,2.85,3.25)]; py=[round(100-sg[k]['I_tur'],0) for k in (2.75,2.85,3.25)]
+ser.append(('MBII chegaralari: 2,75; 2,85; 3,25',px+[None]*(len(grid)-3),py+[None]*(len(grid)-3),'C00000',0,None,'diamond',('r',[0,1,2],'C00000')))
+rid=W.add_chart(d,W.scatter_chart(ser,'Noto‘g‘ri signallar ulushi (II tur xato), %','To‘g‘ri aniqlangan hodisalar, %',0,100,20,0,100,20,xfmt='0',yfmt='0',legend=True))
 W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,16.0,8.0,'4.1.1-rasm'))
 b0=O['logit']['1: MBII']['b']['const']; b1=O['logit']['1: MBII']['b']['MBII']
 xs=[round(x,2) for x in np.arange(2.0,4.0001,0.1)]; ys=[round(100/(1+np.exp(-(b0+b1*x))),1) for x in xs]

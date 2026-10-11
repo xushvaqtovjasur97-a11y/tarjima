@@ -107,8 +107,8 @@ sh.append(W.box(0.1,6.4,16.1,0.75,'Tashqi baholash: xalqaro reyting agentliklari
 W.replace_placeholder(d,'{{FIG:2.1.2}}',W.group_run_xml(sh,16.4,7.3,'2.1.2-rasm'))
 
 # ---- 2.1.3 CAR dynamics
-rid=W.add_chart(d,W.bar_chart(['2023-y. oxiri','2024-y. oxiri','2025-y. I yarim','2025-y. oxiri','2026-y. 1-iyul'],[
-  ('Jami kapital monandligi',[17.5,17.0,17.4,18.3,18.5],BLUE),('Asosiy kapital (CET1) monandligi',[None,None,14.6,14.7,15.0],ORANGE)],
+rid=W.add_chart(d,W.bar_chart(['2021','2022','2023','2024','2025'],[
+  ('Jami kapital monandligi',[17.5,17.8,17.5,17.4,18.3],BLUE),('Asosiy kapital (CET1) monandligi',[14.6,14.4,14.1,14.3,14.7],ORANGE)],
   ytitle='Risk bo‘yicha tortilgan aktivlarga nisbatan, %',ymax=22,major=2,label_fmt='0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:2.1.3}}',W.chart_run_xml(rid,16.0,8.0,'2.1.3-rasm'))
 
