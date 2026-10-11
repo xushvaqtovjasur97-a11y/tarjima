@@ -89,10 +89,17 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 `paragraflar/Kirish.docx` (14 bet, 46 snoska; `Kirish.src.md` → `tools/fn_kirish.py` → `tools/build_kirish.py`). Joriy etish: «O‘zsanoatqurilishbank» ATB ning 2026-yil 8-oktabrdagi 22156/56-son ma’lumotnomasi. `[__]` joylar foydalanuvchi tomonidan to‘ldiriladi.
 
+## 2.3-§ va II bob xulosalari
+
+- `paragraflar/2.3-paragraf.docx` – 19 bet, 7 ta rasm (2.3.1 sxema, qolganlari Word diagrammalari), 4 ta jadval, 36 snoska. `2.3-paragraf.src.md` → `tools/fn23.py` → `tools/build23.py`.
+- Asosiy natijalar: SQB MHXS kapitali milliydan 3,2–13,5% kam; 5 yillik foyda 5 912,2 (milliy) vs 5 005,7 (MHXS); zaxiralar 1,3–2,2 barobar ko‘p; 2025-yilda 3-bosqich kreditlarining 57,2% milliy tasnifda «standart/substandart» (SQB 2025 MHXS, P. 37–38 kesishma jadvali); yashirin kredit riski koeffitsiyenti SQB 1,65–2,96, MKB 2,77–3,30; MKB zararni MHXS bo‘yicha 2023-yilda (−471,2), milliy bo‘yicha 2024-yilda (−1 703,8) tan olgan.
+- MKB MHXS: aktivlar/kapital/foyda – 2021 hisoboti С. 6–7, 2023 – С. 7–8, 2025 – С. 11–12 (skaner, sahifa rasmidan o‘qildi).
+- `paragraflar/II_bob_xulosalar.docx` – 3 bet, 9 band (`tools/build_xb2.py`). Foydalanuvchi talabi: bob xulosalari 2–3 betdan oshmasin.
+
 ## Ochiq savollar va keyingi rejalar (11.10.2026)
 
 1. Yakuniy reja (mundarija) tanlanishi kerak: `reja/REJA_yaxlit.docx` va keyingi yozilgan paragraflar nomlari farq qiladi (1.1, 1.3, 2.1, 2.2).
-2. Yoziladigan qismlar: 1.2-§ (yangi reja bo‘yicha qayta ko‘rib chiqish), 2.3-§ (milliy va MHXS qiyosi – SQB/NSFR materiallari bor), III bob (integral indeks, reyting, ekonometrika), IV bob (erta ogohlantirish, 2026–2028 prognoz, takliflar), bob xulosalari, umumiy xulosa.
+2. Yoziladigan qismlar: 1.2-§ (yangi reja bo‘yicha qayta ko‘rib chiqish), III bob (integral indeks, reyting, ekonometrika), IV bob (erta ogohlantirish, 2026–2028 prognoz, takliflar), I, III, IV bob xulosalari (2–3 bet), umumiy xulosa.
 3. 1.1-§ ga «milliy olimlar qarashlari» qo‘shish (`Dissertatsiyalar_tahlili.docx` asosida).
 4. Foydalanuvchidan kutilmoqda: Sattarov O.B. to‘liq dissertatsiyasi (fayl), SQB ma’lumotnomasi matni, Kirishdagi `[__]` ma’lumotlar, Xolov N.Q. (2025) dissertatsiyasi.
 5. Tekshirilmagan: lex.uz dagi 2709-son nizomning amaldagi tahriri; Afanasyeva–Dubova, Larionova, Sokolinskaya kitoblarining nashr yili.

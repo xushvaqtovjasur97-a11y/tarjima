@@ -15,8 +15,8 @@ I bob bo‘yicha xulosalar
 
 2.1-§. O‘zbekistonda banklar moliyaviy barqarorligini baholashning amaldagi holati va xalqaro standartlarga moslashtirish muammolari — yozilgan
 2.2-§. O‘zbekiston bank tizimida moliyaviy barqarorlik ko‘rsatkichlari dinamikasining xalqaro standartlar mezonlari bo‘yicha tahlili — yozilgan
-2.3-§. Tijorat banklari moliyaviy ko‘rsatkichlarining milliy va MHXS hisobotlari bo‘yicha qiyosiy tahlili — material bor
-II bob bo‘yicha xulosalar
+2.3-§. Tijorat banklari moliyaviy ko‘rsatkichlarining milliy va MHXS hisobotlari bo‘yicha qiyosiy tahlili — yozilgan
+II bob bo‘yicha xulosalar — yozilgan
 
 **III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI**
 
