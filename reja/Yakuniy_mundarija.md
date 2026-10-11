@@ -9,7 +9,7 @@ KIRISH — yozilgan
 1.1-§. Tijorat banklari moliyaviy barqarorligining iqtisodiy mazmuni va konseptual modellari — yozilgan
 1.2-§. Banklar moliyaviy barqarorligini baholashning xalqaro standartlari va metodologik yondashuvlari — qayta ishlanadi (eski 1.2 va 1.3 asosida)
 1.3-§. Xorijiy mamlakatlarda banklar moliyaviy barqarorligini tartibga solish va baholash tajribasi — yozilgan
-I bob bo‘yicha xulosalar
+I bob bo‘yicha xulosalar — yozilgan
 
 **II BOB. O‘ZBEKISTON BANK TIZIMIDA MOLIYAVIY BARQARORLIKNI BAHOLASH AMALIYOTINING XALQARO STANDARTLARGA MUVOFIQLIGI TAHLILI**
 
