@@ -8,11 +8,7 @@ S=collections.defaultdict(dict)
 for r in csv.DictReader(open(R+'markaziy_bank/banklar/banklar_2021IV_2026II.csv')):
   try: S[(r['bank'],r['davr'])][r['korsatkich']]=float(r['mlrd_som'])
   except: pass
-IND=[('K1','K','CET1',+1,[4.5,7.0,8.0,10.5]),('K2','K','CAR',+1,[8.0,10.5,13.0,15.5]),('K3','K','LEV',+1,[3.0,4.0,6.0,8.0]),
- ('A1','A','S3',-1,[15,10,5,3]),('A2','A','S2',-1,[35,25,15,10]),('A3','A','NPLnet',-1,[30,20,10,0]),
- ('L1','L','HLA',+1,[5,10,15,20]),('L3','L','LTD',-1,[200,150,100,80]),
- ('D1','D','ROA',+1,[0,0.7,1.4,2.0]),('D2','D','ROE',+1,[0,5,10,15]),('D3','D','CI',-1,[100,80,60,45]),
- ('V1','V','FXL',-1,[65,50,35,20]),('V2','V','FXLI',-1,[70,55,40,25])]
+IND=M.IND
 W=M.W['taklif']
 def ind(code):
   d=json.load(open(R+f'mhxs_banklar/{code}.json'))['yillar']; out={}
@@ -36,12 +32,7 @@ def ind(code):
     x['FXL']=g('FX_LOANS_SHARE'); x['FXLI']=g('FX_LIAB_SHARE')
     out[y]=x
   return out
-def mbii(x):
-  bl=collections.defaultdict(list)
-  for c,b,n,dr,a in IND:
-    if x.get(n) is not None: bl[b].append(M.score(x[n],dr,a))
-  bs={b:sum(s)/len(s) for b,s in bl.items()}
-  return sum(W[b]*bs[b] for b in bs)/sum(W[b] for b in bs), bs
+def mbii(x): return M.mbii(x,W)
 if __name__=='__main__':
   res={}
   for code in sys.argv[1:]:
