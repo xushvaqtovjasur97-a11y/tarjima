@@ -114,7 +114,7 @@ for t in d.tables:
 # 3.1.1 algoritm
 PURPLE='7030A0'; RED='C00000'
 sh=[]
-st=[('1','Ma’lumotlar:\nmilliy hisobot /\nMHXS hisoboti',DBLUE),('2','MHXS yo‘q bo‘lsa:\ntuzatish\nkoeffitsiyentlari',ORANGE),('3','14 ta ko‘rsatkichni\nhisoblash',BLUE),('4','Uzluksiz\nshkalada ballash\n(1–4)',BLUE),
+st=[('1','Ma’lumotlar:\nmilliy hisobot /\nMHXS hisoboti',DBLUE),('2','MHXS yo‘q bo‘lsa:\ntuzatish\nkoeffitsiyentlari',ORANGE),('3','13 ta ko‘rsatkichni\nhisoblash',BLUE),('4','Uzluksiz\nshkalada ballash\n(1–4)',BLUE),
     ('5','Bloklar\nballari',GREEN),('6','Vaznlash:\n0,25; 0,30; 0,20;\n0,15; 0,10',GREEN),('7','MBII va\nbarqarorlik\nsinfi',PURPLE),('8','Nazorat choralari,\nΔMBII, erta\nogohlantirish',RED)]
 bw,bh,gx=3.6,2.0,0.6
 for i,(n,t,c) in enumerate(st):
@@ -135,6 +135,8 @@ rid=W.add_chart(d,W.scatter_chart([
   ('Pog‘onali shkala',[3,7,7,8,8,10.5,10.5,13],[1,1,2,2,3,3,4,4],ORANGE,19050,'dash',None,None)],
   'Birinchi darajali asosiy kapital monandligi, %','Ball',3,13,1,0.5,4.5,0.5,xfmt='0',yfmt='0.0',legend=True))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'3.1.2-rasm'))
+import json
+M.DATA=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/mbii31_2025.json'))
 B=['K','A','L','D','V']; BN=['Kapital','Aktivlar sifati','Likvidlik','Daromadlilik','Valyuta riski']
 ser=[]
 for k,c in [('SQB milliy',LBLUE),('SQB MHXS',DBLUE),('MKB milliy','A9D18E'),('MKB MHXS','38761D')]:
