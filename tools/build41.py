@@ -119,12 +119,22 @@ lab=[i for i,x in enumerate(xs) if abs(x-2.5)<1e-6 or abs(x-2.8)<1e-6 or abs(x-3
 rid=W.add_chart(d,W.scatter_chart([('Muammo ehtimoli',xs,ys,BLUE,28575,None,'circle',('t',lab))],'MBII, ball','Ehtimol, %',2.0,4.0,0.25,0,100,20,xfmt='0.00',yfmt='0'))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'4.1.2-rasm'))
 M=O['misollar']; Q=['2021_IV']+[f'{y}_{q}' for y in (2022,2023,2024,2025) for q in ('I','II','III','IV')]
-X=[int(q[:4])+ {'I':0,'II':0.25,'III':0.5,'IV':0.75}[q[5:]] for q in Q]
+X=[int(q[:4])+ {'I':-0.375,'II':-0.125,'III':0.125,'IV':0.375}[q[5:]] for q in Q]
 def s(b): m={r[0]:r[1] for r in M[b]}; return [m.get(q) if m.get(q)==m.get(q) else None for q in Q]
-ser=[('«Mikrokreditbank» ATB',X,s('Mikrokreditbank'),ORANGE,28575,None,'square',('b',[11,12])),
-     ('«Biznesni rivojlantirish banki» ATB',X,s('Biznesni rivojlantirish banki'),BLUE,28575,None,'circle',('b',[8,9])),
-     ('Qizil zona chegarasi (2,75)',X,[2.75]*17,'C00000',15875,'dash',None),
-     ('Yashil zona chegarasi (3,25)',X,[3.25]*17,GREEN,15875,'dash',None)]
-rid=W.add_chart(d,W.scatter_chart(ser,'Choraklar','MBII, ball',2021.5,2026,1,2.0,3.5,0.25,xfmt='0',yfmt='0.00',legend=True))
-W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'4.1.3-rasm'))
+def onebank(nm,vals,col,mk,lab,key,extra=None):
+  ser=[(nm,X,vals,col,28575,None,mk,('b',lab))]
+  if extra: ser.append(extra)
+  ser+=[('Qizil zona chegarasi (2,75)',X,[2.75]*17,'C00000',15875,'dash',None),('Yashil zona chegarasi (3,25)',X,[3.25]*17,GREEN,15875,'dash',None)]
+  rid=W.add_chart(d,W.scatter_chart(ser,'Yillar (choraklar)','MBII, ball',2021,2025.5,1,2.0,4.0,0.25,xfmt='0',yfmt='0.00',legend=True))
+  W.replace_placeholder(d,'{{FIG:%d}}'%key,W.chart_run_xml(rid,16.0,8.0,'4.1.%d-rasm'%key))
+onebank('«Mikrokreditbank» ATB',s('Mikrokreditbank'),ORANGE,'square',[0,4,9,10,11,15,16],3)
+onebank('«Biznesni rivojlantirish banki» ATB',s('Biznesni rivojlantirish banki'),BLUE,'circle',[1,3,7,8,9,12,13],4)
+import pandas as pd
+pp=pd.read_csv('/home/user/tarjima/manbalar/hisob_kitob/panel33.csv'); sq=pp[pp.bank=='O‘zsanoatqurilishbank'].set_index('davr').MBII.round(2).to_dict()
+R32=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/mbii32.json'))
+ifrs=[None]*17
+for y in range(2021,2026): ifrs[Q.index(f'{y}_IV')]=round(R32['SQB'][str(y)]['mbii'],2)
+ifrs_pts=[(x,v) for x,v in zip(X,ifrs) if v is not None]
+ex=('SQB: MHXS hisoboti asosida (yillik)',[a for a,b in ifrs_pts]+[None]*(17-len(ifrs_pts)),[b for a,b in ifrs_pts]+[None]*(17-len(ifrs_pts)),ORANGE,28575,None,'diamond',('b',[0,1,2,3,4],ORANGE))
+onebank('SQB: milliy hisobot asosida (choraklik)',[sq.get(q) for q in Q],BLUE,'circle',[0,6,10,16],5,ex)
 d.save(DST); print('saved')

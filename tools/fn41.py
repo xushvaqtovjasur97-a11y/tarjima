@@ -28,7 +28,7 @@ CALC='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari aso
 DATA=(ref('CBUBS','-'),ref('SNS','-'))
 SAME='Tadqiqot natijasida muallif tomonidan 4.1.2-jadvalda ko‘rsatilgan manbalar ma’lumotlari asosida hisoblandi.'
 A={'T1':SRCS+J(ref('SVB','-'),ref('CG','-'),ref('LM','45, 107–114'),ref('KR','-'),ref('DKD','-'),ref('CP','83–95'),ref('BETZ','-')),
-'T2':CALC+J(*DATA),'T3':SAME,'F1':SAME,'T4':SAME,'F2':SAME,'T5':SAME,'F3':SAME,
+'T2':CALC+J(*DATA),'T3':SAME,'F1':SAME,'T4':SAME,'F2':SAME,'T5':SAME,'F3':SAME,'F4':SAME,'F5':CALC+J(*DATA,ref('SQBIFRS','2–3'),ref('SQBIFRS23','-')),
 'T6':'Tadqiqot natijasida muallif tomonidan 4.1.3–4.1.5-jadvallar ma’lumotlari asosida ishlab chiqildi.'}
 O=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/ews41.json'))
 def n(x,d): return f'{x:.{d}f}'.replace('.',',').replace('-','−')
