@@ -109,19 +109,20 @@ import json, numpy as np
 O=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/fc42.json'))
 import pandas as pd
 D=pd.read_csv('/home/user/tarjima/manbalar/hisob_kitob/tizim42.csv',index_col=0).loc['2021_I':'2025_IV']
-def xq(k): y,q=k.split('_'); return int(y)+{'I':-0.375,'II':-0.125,'III':0.125,'IV':0.375}[q]
+def xq(k): y,q=k.split('_'); return int(y)-1+{'I':0.25,'II':0.5,'III':0.75,'IV':1.0}[q]   # IV chorak – yil belgisi ostida
 hx=[xq(k) for k in D.index]; hy=[round(v,2) for v in D.NPL]
 fk=[f'{y}_{q}' for y in (2026,2027,2028) for q in ('I','II','III','IV')]; fx=[xq(k) for k in fk]
 N=len(hx)+len(fx)
 def pad(xs,ys): return xs+[None]*(N-len(xs)), ys+[None]*(N-len(ys))
 S=O['tizim_NPL_yo‘li']
-ser=[('Haqiqiy',*pad(hx,hy),'000000',28575,None,'circle',('t',[3,7,11,15,19]))]
-for nm,col,dash in (('Asosiy',BLUE,None),('Ijobiy',GREEN,None),('Salbiy',GOLD,None),('Keskin salbiy','C00000',None)):
+ser=[('Haqiqiy (2021–2025)',*pad(hx,hy),'000000',28575,None,'circle',('t',[2,7,11,15,19]))]
+for nm,col,pos in (('Asosiy',BLUE,'t'),('Ijobiy',GREEN,'b'),('Salbiy',GOLD,'t'),('Keskin salbiy','C00000','t')):
   xs=[hx[-1]]+fx; ys=[hy[-1]]+S[nm]
-  ser.append((nm+' ssenariy',*pad(xs,ys),col,22225,'dash',None,('r',[8,12],col)))
-xml,rows=W.scatter_chart(ser,'Yillar (choraklar)','Muammoli kreditlar ulushi, %',2020.5,2028.5,1,2.0,6.0,1.0,xfmt='0',yfmt='0.0',legend=True)
+  ser.append((nm+' ssenariy',*pad(xs,ys),col,22225,'dash','circle' if False else None,(pos,[8],col)))
+xml,rows=W.scatter_chart(ser,'Yillar','Muammoli kreditlar ulushi, %',2020,2028,1,2.0,6.0,1.0,xfmt='[&lt;2020.5]&quot;&quot;;0',yfmt='0.0',legend=True)
+xml=xml.replace('<c:dLbls><c:spPr><a:noFill/>','<c:dLbls><c:spPr><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill>')
 rid=W.add_chart(d,(xml,rows))
-W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,16.0,8.0,'4.2.1-rasm'))
+W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,16.0,9.0,'4.2.1-rasm'))
 T=O['tizim']; zc=[('2025','2025','2025 (haqiqiy)')]+[(s,'2027',s) for s in ('Asosiy','Ijobiy','Salbiy','Keskin salbiy')]
 rid=W.add_chart(d,W.bar_chart([c[2] for c in zc],[('Yashil zona',[T[f'{a}|{b}']['yashil'] for a,b,_ in zc],GREEN,'FFFFFF'),('Sariq zona',[T[f'{a}|{b}']['sariq'] for a,b,_ in zc],GOLD),('Qizil zona',[T[f'{a}|{b}']['qizil'] for a,b,_ in zc],'C00000','FFFFFF')],ytitle='Banklar soni',stacked=True,ymax=25,major=5,label_fmt='0',gap=60))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'4.2.2-rasm'))
