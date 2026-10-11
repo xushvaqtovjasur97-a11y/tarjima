@@ -1,0 +1,279 @@
+{
+ "MBII Pooled": {
+  "coef": {
+   "lnTA": 0.0493,
+   "KR_osish_l4": -0.0008,
+   "DEP_A": 0.0111,
+   "NIM": 0.0217,
+   "DAVLAT": -0.2621,
+   "YaIM_osish": -0.1074,
+   "Inflyatsiya": -0.0009,
+   "Asosiy_stavka": 0.1367,
+   "USD_osish": -0.0045,
+   "const": 1.2167
+  },
+  "p": {
+   "lnTA": 0.5485,
+   "KR_osish_l4": 0.0123,
+   "DEP_A": 0.0,
+   "NIM": 0.0971,
+   "DAVLAT": 0.2022,
+   "YaIM_osish": 0.0048,
+   "Inflyatsiya": 0.9255,
+   "Asosiy_stavka": 0.0282,
+   "USD_osish": 0.271,
+   "const": 0.2949
+  },
+  "N": 294,
+  "R2": 0.52
+ },
+ "MBII RE": {
+  "coef": {
+   "lnTA": -0.0654,
+   "KR_osish_l4": 0.0001,
+   "DEP_A": 0.0096,
+   "NIM": 0.0121,
+   "DAVLAT": 0.2506,
+   "YaIM_osish": -0.0684,
+   "Inflyatsiya": -0.012,
+   "Asosiy_stavka": 0.0448,
+   "USD_osish": -0.0068,
+   "const": 3.359
+  },
+  "p": {
+   "lnTA": 0.3054,
+   "KR_osish_l4": 0.6897,
+   "DEP_A": 0.0,
+   "NIM": 0.014,
+   "DAVLAT": 0.3097,
+   "YaIM_osish": 0.0386,
+   "Inflyatsiya": 0.1582,
+   "Asosiy_stavka": 0.3436,
+   "USD_osish": 0.0721,
+   "const": 0.0001
+  },
+  "N": 294,
+  "R2": 0.168
+ },
+ "MBII FE": {
+  "coef": {
+   "lnTA": -0.0385,
+   "KR_osish_l4": 0.0002,
+   "DEP_A": 0.0073,
+   "NIM": 0.0084,
+   "YaIM_osish": -0.0758,
+   "Inflyatsiya": -0.0094,
+   "Asosiy_stavka": 0.0675,
+   "USD_osish": -0.0072,
+   "const": 3.0538
+  },
+  "p": {
+   "lnTA": 0.4739,
+   "KR_osish_l4": 0.2415,
+   "DEP_A": 0.0049,
+   "NIM": 0.0239,
+   "YaIM_osish": 0.0173,
+   "Inflyatsiya": 0.1821,
+   "Asosiy_stavka": 0.2536,
+   "USD_osish": 0.0681,
+   "const": 0.0006
+  },
+  "N": 294,
+  "R2": 0.115
+ },
+ "MBII Hausman": {
+  "H": 10.03,
+  "p": 0.2631
+ },
+ "lnZ Pooled": {
+  "coef": {
+   "lnTA": 0.1746,
+   "KR_osish_l4": -0.002,
+   "DEP_A": -0.012,
+   "NIM": 0.0176,
+   "DAVLAT": -0.35,
+   "YaIM_osish": 0.1169,
+   "Inflyatsiya": 0.0464,
+   "Asosiy_stavka": 0.1395,
+   "USD_osish": -0.0088,
+   "const": -1.5953
+  },
+  "p": {
+   "lnTA": 0.1758,
+   "KR_osish_l4": 0.0082,
+   "DEP_A": 0.0327,
+   "NIM": 0.4819,
+   "DAVLAT": 0.3903,
+   "YaIM_osish": 0.404,
+   "Inflyatsiya": 0.0522,
+   "Asosiy_stavka": 0.4932,
+   "USD_osish": 0.4244,
+   "const": 0.5186
+  },
+  "N": 294,
+  "R2": 0.155
+ },
+ "lnZ RE": {
+  "coef": {
+   "lnTA": -0.0915,
+   "KR_osish_l4": -0.0015,
+   "DEP_A": -0.0108,
+   "NIM": -0.0024,
+   "DAVLAT": 0.2637,
+   "YaIM_osish": 0.1804,
+   "Inflyatsiya": 0.0328,
+   "Asosiy_stavka": 0.0215,
+   "USD_osish": -0.0118,
+   "const": 2.1565
+  },
+  "p": {
+   "lnTA": 0.5381,
+   "KR_osish_l4": 0.0503,
+   "DEP_A": 0.123,
+   "NIM": 0.8528,
+   "DAVLAT": 0.4883,
+   "YaIM_osish": 0.1435,
+   "Inflyatsiya": 0.0981,
+   "Asosiy_stavka": 0.9041,
+   "USD_osish": 0.2721,
+   "const": 0.2625
+  },
+  "N": 294,
+  "R2": 0.069
+ },
+ "lnZ FE": {
+  "coef": {
+   "lnTA": -0.4504,
+   "KR_osish_l4": -0.0023,
+   "DEP_A": -0.0122,
+   "NIM": -0.0175,
+   "YaIM_osish": 0.239,
+   "Inflyatsiya": 0.0272,
+   "Asosiy_stavka": -0.0513,
+   "USD_osish": -0.0154,
+   "const": 6.668
+  },
+  "p": {
+   "lnTA": 0.2017,
+   "KR_osish_l4": 0.0578,
+   "DEP_A": 0.1764,
+   "NIM": 0.2154,
+   "YaIM_osish": 0.0398,
+   "Inflyatsiya": 0.1638,
+   "Asosiy_stavka": 0.7553,
+   "USD_osish": 0.1355,
+   "const": 0.0782
+  },
+  "N": 294,
+  "R2": 0.081
+ },
+ "lnZ Hausman": {
+  "H": 6.53,
+  "p": 0.5886
+ },
+ "MBII dinamik FE": {
+  "coef": {
+   "MBII_l1": 0.5823,
+   "lnTA": -0.0134,
+   "KR_osish_l4": 0.0001,
+   "DEP_A": 0.007,
+   "NIM": 0.0117,
+   "YaIM_osish": -0.0189,
+   "Inflyatsiya": -0.0019,
+   "Asosiy_stavka": -0.0332,
+   "USD_osish": -0.0035,
+   "const": 1.7386
+  },
+  "p": {
+   "MBII_l1": 0.0,
+   "lnTA": 0.7176,
+   "KR_osish_l4": 0.1093,
+   "DEP_A": 0.0,
+   "NIM": 0.0002,
+   "YaIM_osish": 0.6043,
+   "Inflyatsiya": 0.7898,
+   "Asosiy_stavka": 0.397,
+   "USD_osish": 0.2862,
+   "const": 0.0186
+  },
+  "N": 292,
+  "R2": 0.424
+ },
+ "MBII AH": {
+  "coef": {
+   "D_lnTA": 0.287,
+   "D_KR_osish_l4": -0.0003,
+   "D_DEP_A": 0.0086,
+   "D_NIM": 0.0201,
+   "D_YaIM_osish": 0.0149,
+   "D_Inflyatsiya": 0.0085,
+   "D_Asosiy_stavka": -0.0531,
+   "D_USD_osish": 0.0012,
+   "const": -0.0105,
+   "D_MBII_l1": 0.5131
+  },
+  "p": {
+   "D_lnTA": 0.0116,
+   "D_KR_osish_l4": 0.3976,
+   "D_DEP_A": 0.0,
+   "D_NIM": 0.0,
+   "D_YaIM_osish": 0.67,
+   "D_Inflyatsiya": 0.2966,
+   "D_Asosiy_stavka": 0.2904,
+   "D_USD_osish": 0.759,
+   "const": 0.3024,
+   "D_MBII_l1": 0.0079
+  },
+  "N": 267
+ },
+ "S3 satellit FE": {
+  "coef": {
+   "S3_l1": 0.6051,
+   "KR_osish_l4": 0.0003,
+   "KR_osish_l8": -0.0011,
+   "lnTA": 0.9819,
+   "YaIM_osish": -0.9007,
+   "Asosiy_stavka": 0.7072,
+   "USD_osish": -0.0037,
+   "const": -11.915
+  },
+  "p": {
+   "S3_l1": 0.0,
+   "KR_osish_l4": 0.9279,
+   "KR_osish_l8": 0.4247,
+   "lnTA": 0.4134,
+   "YaIM_osish": 0.0073,
+   "Asosiy_stavka": 0.0745,
+   "USD_osish": 0.9265,
+   "const": 0.2529
+  },
+  "N": 194,
+  "R2": 0.401
+ },
+ "S3 satellit Pooled": {
+  "coef": {
+   "S3_l1": 0.8002,
+   "KR_osish_l4": 0.0046,
+   "KR_osish_l8": -0.0004,
+   "lnTA": 0.2029,
+   "YaIM_osish": -1.3154,
+   "Asosiy_stavka": 1.0024,
+   "USD_osish": -0.0467,
+   "DAVLAT": 0.1352,
+   "const": -6.1737
+  },
+  "p": {
+   "S3_l1": 0.0,
+   "KR_osish_l4": 0.2365,
+   "KR_osish_l8": 0.728,
+   "lnTA": 0.1845,
+   "YaIM_osish": 0.0004,
+   "Asosiy_stavka": 0.0225,
+   "USD_osish": 0.0473,
+   "DAVLAT": 0.6604,
+   "const": 0.1939
+  },
+  "N": 194,
+  "R2": 0.811
+ }
+}
