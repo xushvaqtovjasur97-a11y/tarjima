@@ -29,7 +29,7 @@ III bob bo‘yicha xulosalar
 
 4.1-§. Banklar moliyaviy barqarorligini erta ogohlantirish tizimini shakllantirish
 4.2-§. Tijorat banklari moliyaviy barqarorligining 2026–2028-yillarga prognozi
-4.3-§. Tijorat banklari moliyaviy barqarorligini baholash amaliyotini xalqaro standartlarga muvofiqlashtirish bo‘yicha taklif va tavsiyalar
+4.3-§. Tijorat banklari moliyaviy barqarorligini baholash tizimini xalqaro standartlarga muvofiqlashtirishning asosiy yo‘nalishlari
 IV bob bo‘yicha xulosalar
 
 XULOSA
