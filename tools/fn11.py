@@ -10,6 +10,12 @@ R={
 'SCH':('Schinasi G.J. Defining Financial Stability: IMF Working Paper WP/04/187. – Washington, DC: International Monetary Fund, 2004. – 18 p.',''),
 'MISH':('Mishkin F.S. Global Financial Instability: Framework, Events, Issues // Journal of Economic Perspectives. – 1999. – Vol. 13, No. 4. – P. 3–20.',''),
 'HEN':('Hendrickson J.M. Regulation and Instability in U.S. Commercial Banking: A History of Crises. – Basingstoke: Palgrave Macmillan, 2011.','P.'),
+'HKS':('Houben A., Kakes J., Schinasi G. Toward a Framework for Safeguarding Financial Stability: IMF Working Paper WP/04/101. – Washington, DC: International Monetary Fund, 2004.','P.'),
+'CIH':('Čihák M. How Do Central Banks Write on Financial Stability?: IMF Working Paper WP/06/163. – Washington, DC: International Monetary Fund, 2006.','P.'),
+'ECBFS':('European Central Bank. Financial stability and macroprudential policy. – https://www.ecb.europa.eu/paym/financial-stability/html/index.en.html',''),
+'VOTF':('Фетисов Г.Г. Устойчивость коммерческого банка и рейтинговые системы ее оценки. – М.: Финансы и статистика, 1999; Герасимова Е.Б. Феноменологический подход к анализу устойчивости организации // Сибирская финансовая школа. – 2011. – № 3. – Цит. по: Вотинцева Р.С. Современные теоретические подходы к определению понятия «Финансовая устойчивость коммерческих банков» // Вестник Удмуртского университета. Серия «Экономика и право». – 2014. – Вып. 3.','С.'),
+'SHUB':('Шуббар Х.Х., Гиринский А.В. Содержание и принципы устойчивости банковской системы // Вестник РУДН. Серия: Экономика. – 2019. – Т. 27, № 1.','С.'),
+'TIM':('Тимофеева З.А. Концептуальные основы исследования экономического содержания финансовой устойчивости банковской системы // Финансы и кредит. – 2014. – № 6 (582).','С.'),
 'SATT':('Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini ta’minlash metodologiyasini takomillashtirish: iqtisodiyot fanlari doktori (DSc) dissertatsiyasi avtoreferati. – Toshkent, 2018.','B.'),
 'BOZ':('Bozorov R.X. Tijorat banklari moliyaviy barqarorligini ta’minlashni takomillashtirish: iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati. – Toshkent, 2020.','B.'),
 'SAD':('Sadikov I.G. Iqtisodiyotni transformatsiyalash jarayonida tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘llari: iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati. – Toshkent, 2025.','B.'),
@@ -39,7 +45,7 @@ DEV='Tadqiqot natijasida muallif tomonidan ishlab chiqildi.'
 SRCS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar asosida ishlab chiqildi: '
 A={
 'FIG1':SRCS+J(ref('LM','14–15, 57–61'),ref('LAV','37–40')),
-'TAB1':SRCS+J(ref('LM','24'),ref('LAV','38'),ref('SCH','-'),ref('MISH','-'),ref('HEN','6–7'),ref('THAK','13–16'),ref('SATT','13'),ref('SAD','11'),ref('MAD','12'),ref('SHAR','13–14')),
+'TAB1':SRCS+J(ref('LM','24'),ref('LAV','38'),ref('SCH','-'),ref('MISH','-'),ref('HEN','6–7'),ref('THAK','13–16'),ref('VOTF','46'),ref('SHUB','65'),ref('HKS','11'),ref('SATT','13'),ref('SAD','11'),ref('MAD','12'),ref('SHAR','13–14')),
 'FIG2':DEV,
 'FIG3':SRCS+J(ref('LM','41–45'),ref('AFD','49–55')),
 'FIG4':SRCS+J(ref('LM','31–41')),
