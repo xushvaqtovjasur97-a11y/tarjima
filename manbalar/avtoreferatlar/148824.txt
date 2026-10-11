@@ -1,0 +1,94 @@
+ID 148824 | Abdishukurov Sherzod Shavkat o‘g‘li | PhD | 2026 | Tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘nalishlari.
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH TASHKENT INTERNATIONAL UNIVERSITY ABDISHUKUROV SHERZOD SHAVKAT O‘G‘LI TIJORAT BANKLARINING MOLIYAVIY BARQARORLIGINI TA’MINLASH YO‘NALISHLARI 08.00.07 - Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent - 2026 U O Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati ʻ mundarijasi K : Оглавлениэ автореферата диссертацсии доктора философии (PhD) по экономическим наукам Content of dissertation abstract for Doctor of Philosophy (PhD) in economics
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklarining moliyaviy barqarorligini
+ta’minlash ko‘rsatkichlarini joriy etishga qaratilgan ustuvor yoʻnalishlarini ishlab
+chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quydagilardan iborat:
+ tijorat banklarining moliyaviy barqarorligini ta’minlashni baholash uslubiyoti
+kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarini o‘zaro bog‘liq holda
+integrallashtiruvchi barqarorlik ko‘rsatkichlari tizimini joriy etish orqali
+takomillashtirish taklifi etilgan;
+ tijorat banklari moliyaviy barqarorligini ifodalovchi ko‘rsatkichlar tizimi
+bank faoliyatida risk darajasi va daromadlar barqarorligini hisobga olgan holda
+“past”, “qoniqarli”, “o‘rta” va “yuqori” barqarorlik toifalarini belgilashga xizmat
+qiluvchi shkalali baholash mezonlarini kiritish orqali takomillashtirish taklif etilgan;
+ tijorat banklari uchun moliyaviy barqarorlik monitoringini tashkil etish
+mexanizmi integral barqarorlik ko‘rsatkichlari dinamikasini doimiy baholashga
+asoslangan riskka yo‘naltirilgan monitoring modeli joriy etilishi orqali
+takomillashtirish taklif etilgan;
+ tijorat banklarining moliyaviy barqarorligini prognozlashtirish modeli
+makroiqtisodiy omillar, kredit portfeli tuzilmasi va likvidlik holatini hisobga olgan
+holda bank moliyaviy holatining o‘rta va uzoq muddatli o‘zgarishlarini bashorat
+qilish imkonini beruvchi ko‘p omilli prognozlash mexanizmini tatbiq etish taklif
+etilgan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ tijorat banklarida moliyaviy barqarorlikni ta’minlashda kapital strukturasini
+optimallashtirish va risk darajasiga mos ravishda kapital buferlarini shakllantirishga
+qaratilgan moliyaviy model ishlab chiqilgan;
+ bank faoliyatida likvidlik risklarini kamaytirish va pul oqimlarini samarali
+boshqarishga qaratilgan dinamik likvidlik boshqaruv mexanizmi ilmiy jihatdan
+asoslangan;
+ valyuta va foiz stavkasi xavflarining bank moliyaviy barqarorligiga ta’sirini
+baholash uchun ssenariyli tahlil va stress-test modellari takomillashtirilgan;
+
+8
+ tijorat banklarida kredit portfeli sifati va likvidlik holatini optimal boshqarishga
+qaratilgan risk-menejment instrumentlari tizimi ilmiy jihatdan asoslangan;
+ O‘zbekiston bank sektori sharoitida moliyaviy barqarorlikni ta’minlash uchun
+makroprudensial talablar, valyuta risklari va davlat ishtirokini hisobga olgan holda
+strategik boshqaruv mexanizmi takomillashtirilgan;
+ tijorat banklarida moliyaviy barqarorlikni ta’minlashga qaratilgan kapitalni
+boshqarish, kredit siyosatini diversifikatsiya qilish va likvidlik zaxiralarini
+optimallashtirishga yo‘naltirilgan kompleks strategik yondashuv samaradorligi
+amaliy jihatdan baholangan.
+ Tadqiqot 
+=== XULOSA
+XULOSA
+
+ Tadqiqotlarimiz asosida quyidagi ilmiy xulosa va takliflarni ishlab chiqishga
+muvaffaq boʻldik:
+ 1. tijorat banklarining moliyaviy barqarorligi iqtisodiy o‘zgarishlarga
+moslashuvchanlik, risklarga bardoshlilik va faoliyat uzluksizligini ta’minlovchi
+kompleks iqtisodiy kategoriya sifatida namoyon bo‘lishi aniqlangan;
+ 2. moliyaviy barqarorlikni baholashda an’anaviy ko‘rsatkichlarga asoslangan
+fragmentar yondashuvlar bank faoliyatining tizimli mohiyatini to‘liq aks ettira
+olmasligi ilmiy jihatdan asoslangan;
+ 3. kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarining o‘zaro
+bog‘liqligi bank moliyaviy barqarorligini shakllantiruvchi asosiy faktorlar ekanligi
+aniqlangan;
+ 4. xalqaro amaliyotda (Bazel standartlari, CAMELS tizimi) moliyaviy
+barqarorlikni kompleks baholashga qaratilgan yondashuvlar ustuvor ahamiyat kasb
+etishi asoslangan;
+ 5. O‘zbekiston bank tizimida moliyaviy barqarorlik ko‘rsatkichlari so‘nggi
+yillarda ijobiy dinamikaga ega bo‘lib, kapitallashuv darajasi va likvidlik
+ko‘rsatkichlari xalqaro me’yorlarga mos kelishi aniqlangan;
+ 6. banklar o‘rtasida samaradorlik va rentabellik ko‘rsatkichlari (ROA, ROE,
+CIR) bo‘yicha farqlar mavjudligi va bu holat resurslardan foydalanish
+samaradorligida nomutanosibliklarni keltirib chiqarishi ilmiy jihatdan asoslangan;
+ 7. ichki omillar (kapital, likvidlik, korporativ boshqaruv) va tashqi omillar
+(inflyatsiya, valyuta kursi, monetar siyosat) o‘rtasidagi o‘zaro bog‘liqlik bank
+barqarorligini belgilashda hal qiluvchi ahamiyatga ega ekanligi aniqlangan;
+ 8. ekonometrik tahlil natijalariga ko‘ra, operatsion samaradorlik (CIR) va
+kredit risklari (NPL) bank rentabelligiga statistik ahamiyatli ta’sir ko‘rsatishi
+isbotlangan;
+ 9. tijorat banklarida kredit xavfi, likvidlik xavfi, valyuta va foiz stavkasi
+xavflari moliyaviy barqarorlikka asosiy tahdidlar sifatida namoyon bo‘lishi
+aniqlangan;
+ 23
+ 10. integral barqarorlik indeksi usuli bank moliyaviy holatini kompleks
+baholash va risklarni barvaqt aniqlash imkonini beruvchi samarali instrument ekanligi
+ilmiy jihatdan asoslangan;
+ 11. riskka yo‘naltirilgan monitoring va prognozlash modellarini joriy etish
+banklarda qaror qabul qilish samaradorligini oshirishga xizmat qilishi aniqlangan;
+ 12. tijorat banklarida moliyaviy barqarorlikni ta’minlash kapitalni boshqarish,
+kredit portfelini diversifikatsiya qilish va likvidlikni optimallashtirishga qaratilgan
+kompleks strategik yondashuvni talab qilishi asoslangan.
+
+
+
+
+24
+ 

@@ -1,0 +1,113 @@
+ID 149216 | Jumanazarov Muzaffar Jumanazar oʻgʻli | PhD |  | Riskka asoslangan bank nazoratini takomillashtirish.
+HEAD:  TOSHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI JUMANAZAROV MUZAFFAR JUMANAZAR OʻGʻLI RISKKA ASOSLANGAN BANK NAZORATINI TAKOMILLASHTIRISH 08.00.07 – “Moliya, pul muomalasi va kredit” Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahar – 2026 yil 1 UO‘K: 336.71.078.3(575.1) Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертатсии доктора философии (PhD) по экономическим наукам Contents of the dissertation abstract of the doctor 
+=== MAQSAD
+Tadqiqotning maqsadi. Riskka asoslangan bank nazoratini samaradorligini
+oshirishga qaratilgan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ bank barqarorligini nazorat qilishda kapital yetarliligi, aktivlar sifati, likvidlik
+holati va konsentratsiya darajasi kabi asosiy risk-indikatorlarni real vaqt rejimida
+
+
+and Practice, Economic Development Institute of the World Bank, 1990, p-5. Lavrushina. O.I. Bankovskoye delo.
+Pod red. – M., Knorus. 2011. https://dspace.spbu.ru/bitstream/11701/10171/1/VKR_Kalashnikovoj_M__V_.
+2
+ Norqobilov S, Dadaboyeva H, Joʻrayev Oʻ, Xalqaro amaliyotda bank nazorati. – T.: “Iqtisod-moliya”. 2007. “Bank
+risklari” oʻquv qoʻllanma. S.S Togʻayev. Samarqand 2019-yil. 7-8 bet. Axmetova. G.D. III Mejdunarodnaya
+nauchnaya konferensiya: Aktualnыe voprosы ekonomicheskix nauk //80-88 stranitsa, Kollektiv avtorov, 2014 g.
+Z. Qurbonov, A. Raximovlar tomonidan “Bank nazorati va tahlili”. Darslik – Toshkent.: 2022. 5-bet.
+
+ 7
+avtomatlashtirilgan tarzda kuzatish asosida bank faoliyatini dinamik baholash
+mexanizmini ishlab chiqish taklif etilgan;
+ bank inspeksiyasida risk darajasi yuqori bo‘lgan obyektlarni aniqlashda tijorat
+banklarining prudensial me’yorlari hamda individual risk profiliga mos ravishda
+bank tizimining o‘rtacha ko‘rsatkichlariga nisbatan ijobiy ±10 foiz chetlanish
+darajasini erta ogohlantirish signallari sifatida belgilash taklif etilgan;
+ bank inspeksiyasi jarayonida aniqlangan kamchiliklar yuzasidan Markaziy
+bank tomonidan taqdim etilgan talab va tavsiyalarning bajarilishini samarali
+monitoring qilishda ularning bajarilish darajasini “yashil”, “sariq” va “qizil”
+reytinglar asosida baholash tizimini joriy etish asoslangan;
+ bank tizimini ehtimoliy risklardan oldindan ogohlantirish hamda profilaktik
+nazorat samaradorligini oshirishda alohida banklarda inspeksiya jarayonlari
+davomida aniqlangan jiddiy xato va kamchiliklarni bank yoki mas’ul shaxs nomini
+oshkor etmagan holda anonim shaklda umumlashtirib, ularni barcha tijorat
+banklariga muntazam ravishda tarqatish amaliyotini joriy etish taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ Banklarni masofadan nazorat qilish hamda joyiga chiqqan holda inspeksiya
+oʻtkazish natijalari asosida risk darajasi boʻyicha toifalarga ajratish orqali maqsadli
+nazorat choralarini qoʻllash taklifi amaliyotda foydalanilgan;
+ Markaziy bankning nazorat boʻlinmalari xodimlari malakasini xalqaro
+standartlar asosida oshirish va xalqaro moliya institutlari bilan tajriba almashish
+dasturlarini yoʻlga qoʻyish taklifi asosida 2024-yil davomida Markaziy bank
+Inspeksiya departamentining 10 nafar xodimi xalqaro moliya markazlarida tashkil
+etilgan seminar va treninglarda ishtirok etib, oʻz bilim va koʻnikmalarini oshirdi;
+ Bank nazorat tizimini yanada samarali tashkil etish va soddalashtirish,
+shuningdek, tekshiruv jarayonlarida takroriylik hamda ortiqcha byurokratik
+jarayonlarni qisqartirish maqsadida tekshiruv intervallarini jami bank tizimida
+aniqlangan umumiy kamchiliklar soni va risk profilidan kelib chiqqan holda qayta
+koʻrib chiqib, differensial yondashuvni joriy etish taklifi amaliyotda foydalanildi.
+ Bank tizimini moliyaviy barqarorlikni taʼminlash maqsadida Basel II/III,
+COSO va IFRS standartlari talablarini yagona tizimda uygʻunlashtiruvchi integral
+nazorat modelini ishlab chiqish taklifi joriy qilindi.
+ Banklar faoliyatini nazorat qilish samaradorligini oshirish maqsadida
+moliyaviy jazolar, penyalar va shtraflar miqdorini sezilarli darajada oshirish
+taʼsirchan javobgarlik tizimini kuchaytirish taklifi amaliyotda qoʻllanildi.
+ Tadqiqot 
+=== XULOSA
+XULOSA
+ O‘zbekiston Respublikasi Prezidentining PF–5992-son Farmoniga muvofiq
+bank tizimini isloh qilish jarayonida bank nazoratini xalqaro standartlar asosida
+takomillashtirish muhim yo‘nalishlardan biri hisoblanadi. Shu bois bank nazorati
+tizimini riskka asoslangan yondashuv asosida rivojlantirish zarur.
+ Xorijiy mamlakatlar tajribasi shuni ko‘rsatadiki, Yevropa mamlakatlarida bank
+nazorati asosan masofaviy (distansion) nazorat orqali amalga oshirilsa, AQSHda
+joyiga chiqib inspeksiya qilish (CAMELS) tizimi ustun hisoblanadi. O‘zbekiston
+
+ 25
+bank tizimida ushbu ikki usulni uyg‘unlashtirgan aralash nazorat modeli
+qo‘llanilishi nazorat samaradorligini oshirishga xizmat qiladi.
+ Bank nazoratining samaradorligini oshirish maqsadida tekshiruv jarayonlarini
+dinamik baholash hamda risk indikatorlari asosida real vaqt rejimida monitoringni
+ta’minlovchi kompleks avtomatlashtirilgan nazorat mexanizmini joriy etish
+maqsadga muvofiq.
+ Tijorat banklarining individual risk profiliga mos erta ogohlantirish signallari
+(EWS) tizimini joriy etish orqali riskga moyil obyektlarni erta aniqlash va inspeksiya
+obyektlarini tanlash mexanizmini takomillashtirish zarur.
+ Inspeksiya natijalari asosida berilgan Markaziy bank talab va tavsiyalarining
+bajarilishini nazorat qilishni kuchaytirish hamda ularning ijrosini “yashil”, “sariq”
+va “qizil” reytinglar asosida baholash tizimini joriy etish nazorat samaradorligini
+oshirishga xizmat qiladi.
+ Inspeksiya davomida aniqlangan jiddiy xato va kamchiliklarni bank yoki shaxs
+nomini ko‘rsatmasdan umumlashtirilgan “case” (misol) shaklida barcha tijorat
+banklariga tarqatish amaliyotini joriy etish bank tizimida risklar bo‘yicha
+xabardorlikni oshiradi va takroriy xatolarning oldini olishga yordam beradi.
+ Banklarni masofadan nazorat qilish hamda joyiga chiqib o‘tkazilgan inspeksiya
+natijalari asosida ularni risk darajasi bo‘yicha toifalarga ajratish va differensial
+nazorat choralarini qo‘llash tizimini joriy etish nazorat resurslaridan samarali
+foydalanishga imkon beradi.
+ Markaziy bank nazorat bo‘linmalari xodimlarining malakasini xalqaro
+standartlar asosida oshirish, shuningdek xalqaro moliya institutlari bilan tajriba
+almashish dasturlarini kengaytirish bank nazoratining sifatini oshirishda muhim
+ahamiyatga ega.
+ Bank nazorati jarayonlarida ortiqcha byurokratik tartib-taomillarni qisqartirish
+hamda tekshiruv intervallarini banklarning risk profilidan kelib chiqib differensial
+yondashuv asosida belgilash nazorat tizimini soddalashtirish va samaradorligini
+oshirishga xizmat qiladi.
+ Bank tizimida moliyaviy barqarorlikni mustahkamlash maqsadida Basel II/III,
+COSO va IFRS standartlari talablarini uyg‘unlashtiruvchi integral nazorat modelini
+joriy etish zarur.
+ Banklar faoliyatida yo‘l qo‘yilayotgan qonunbuzarliklar uchun javobgarlik
+mexanizmlarini kuchaytirish, xususan moliyaviy jarimalar, penyalar va boshqa
+sanksiyalarni takomillashtirish nazorat tizimining ta’sirchanligini oshiradi.
+ Banklar tomonidan noto‘g‘ri yoki yolg‘on ma’lumot taqdim etish holatlarining
+oldini olish maqsadida bank rahbariyati va mas’ul shaxslarning shaxsiy
+javobgarligini kuchaytirish bank tizimida shaffoflikni oshirish va moliyaviy
+barqarorlikni ta’minlashga xizmat qiladi.
+
+
+
+
+26
+ 

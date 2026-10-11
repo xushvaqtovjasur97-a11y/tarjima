@@ -1,0 +1,142 @@
+ID 138996 | Sabirova Lobar Baxromovna | PhD |  | Tijorat banklarida kredit portfeli sifatini oshirish yo‘llari
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH RENESSANS TA’LIM UNIVERSITETI SABIROVA LOBAR BAXROMOVNA TIJORAT BANKLARIDA KREDIT PORTFELI SIFATINI OSHIRISH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2025 yil 1 UO‘K: 336.71(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философии (PhD) по экономическим наукам Content of dissertation abstract of doctor of philosophy (PhD) on econom
+=== MAQSAD
+Tadqiqotning maqsadi mamlakatimiz tijorat banklari kredit portfeli sifatini
+oshirishga qaratilgan ilmiy-nazariy, amaliy va uslubiy taklif va tavsiyalarni ishlab
+chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklari kredit portfelini diversifikatsiyalash, barqaror to‘lov intizomi
+va ichki talabni rag‘batlantirish asosida portfel sifati va risklarni boshqarish
+maqsadida brutto kreditlar tarkibida jismoniy shaxslarga ajratilgan kreditlar ulushini
+oshirish ilmiy asoslangan;
+ pul bozori instrumentlari ta’sirchanligini ta’minlash vositasida tijorat banklari
+kreditlari va foiz siyosatini samarali olib borish orqali bank kredit portfelini
+optimallashtirish ilmiy asoslangan;
+ transformatsiya jarayoni natijasida tijorat banklari kredit portfelini bozor
+mexanizmlari asosida shakllantirishda tijorat bankining kredit portfelida davlat
+tashkilotlariga ajratilayotgan kreditlarni kamaytirgan holda xususiy sektor ulushini
+oshirish taklif etilgan;
+ banklarda kredit portfelini oshirishning, hamda muammoli kreditlar
+holatining inflyasiya darajasi o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi
+ekonometrik baholash modeli asosida 2028 yil mart oyiga qadar prognoz
+ssenariylari taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ tijorat banklari kredit portfeli rektabelligini oshirish, ijtimoiy kreditlar
+ulushini kamaytirish maqsadida banklar ssuda resurslarini bozor mexanizmlari
+asosida taqsimlanishini ta’minlash ilmiy asoslangan;
+ tijorat banklarida kredit portfelini optimallashtirishda tashqi risklarni samarali
+boshqarishda maqsadida kredit foiz siyosatini yuritishda iqtisodiyotdagi inflyasiya
+darajasining oylik bir foizga oshishi bir oylik kechikish bilan O‘zsanoatqurilishbank
+ATBning kreditlari foizini -0,11 foizga pasaytirishini inobatga olish taklif etilgan;
+ pul bozoridagi foiz stavkaning bir foizga oshishi esa bir oylik lag bilan
+O‘zsanoatqurilishbank ATBning kreditlari foizini 0,65 foizga oshirishi, hamda
+muomaladagi oylik pul massasining bir foizga oshishi uch oylik kechikish bilan
+bank kreditlari foizini -0,36 foizga pasaytirishi ilmiy asoslangan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa va takliflarning mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani
+bilan belgilanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan transformasiya jarayonida tijorat banklari kredit portfeli
+sifatini oshirish yo‘llariga qaratilgan maxsus ilmiy-tadqiqotlarni amalga oshirishda
+foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformasiya jarayonida tijorat banklari kredit
+8
+portfeli sifatini oshirish yo‘llariga qaratilgan chora-tadbirlar majmuini ishlab
+chiqishda foydalaniladi, shuningdek, 2022-2026 yillarga mo‘ljallangan yangi
+O‘zbekistonning Taraqqiyot strategiyasida hamda 2020-2025 yillarga mo‘ljallangan
+O‘zbekiston Respublikasining bank tizimini isloh qilish strategiyasida ko‘rsatilgan
+vazifalarni bajarishga qaratilgan chora-tadbirlarni ishlab chiqishda foydalanilishi
+mumkin.
+ Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kredit portfeli
+sifatini oshirish yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+ tijorat banklari kredit portfelini diversifikatsiyalash, barqaror to‘lov intizomi
+va ichki talabni rag‘batlantirish asosida portfel sifati va risklarni boshqarish
+maqsadida brutto kreditlar tarkibida jismoniy shaxslarga ajratilgan kreditlar ulushini
+oshirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, ATB O‘zsanoatqurilishbank amaliyotida kredit portfelini diversifi-
+katsiyalash maqsadida jismoniy shaxlarga ajratilgan kreditlari brutto kreditlari
+tarkibida 2023 yilda 13,7 foizni tashkil etgan bo‘lsa, 2024 yilda 15,1 foizga
+oshirilgan.
+ pul bozori instrumentlari ta'sirchanligini ta'minlash vositasida tijorat banklari
+kreditlari va foiz siyosatini samarali olib borish orqali bank kredit portfelini
+optimallashtirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan
+(ATB O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumot-
+nomasi). Natijada, moliya boziri indikatorlaridan pul bozoridagi foizining bir foizga
+oshishi bir oylik lag bilan O‘zsanoatqurilishbank ATBning kreditlari foizini 0,65
+foizga oshirishi, hamda muomaladagi oylik pul massasining bir foizga oshishi esa
+uch oylik kechikish bilan bank kreditlari foizini -0,36 foizga pasaytirishi empirik
+tahlillar asosida aniqlangan.
+ transformatsiya jarayoni natijasida tijorat banklari kredit portfelini bozor
+mexanizmlari asosida shakllantirishda tijorat bankining kredit portfelida davlat
+tashkilotlariga ajratilayotgan kreditlarni kamaytirgan holda xususiy sektor ulushini
+oshirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, bank kredit portfelida davlat tashkilotlariga ajratilgan kreditlari 2021 yilda
+30 foizdan 2024 yilda 22 fozigacha pasaytilishiga, hamda xususiy sektorga ajratilgan
+kreditlari shu davrda 60 foizdan 64 foizga oshirilishiga erishilgan.
+ banklarda kredit portfelini oshirishning, hamda muammoli kreditlar
+holatining inflyasiya darajasi o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi
+ekonometrik baholash modeli asosida 2028 yil mart oyiga qadar prognoz
+ssenariylariga doir taklifi ATB O‘zsanoatqurilishbank faoliyatiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, Seasonal ARIMA modeli asosida mavsumiy tebranishlarni inobatga olgan
+amalga oshirilgan optimal prognoz natijalariga ko‘ra, 95 foiz ehtimollik bilan 2028-
+yil mart oyiga borib 2024-yil dekabrdagi ko‘rsatkichga nisbatan kredit portfeli hajmi
+36,7 foizga o‘sishi, hamda bankning muammoli kreditlari hajmi esa 78,9 foizga
+oshishi kutilmoqda.
+
+ 9
+ Tadqiqot natijalarining aprobasiyasi. Mazkur tadqiqot natijalari 7 ta,
+jumladan 4 ta respublika va 3 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+ Tadqiqot natijalarining e'lon qilinishi. Dissertatsiya mavzusiga doir
+umumiy 12 ta ilmiy ish, xususan O‘zbekiston Respublikasi Oliy Attestasiya
+Komissiyasining doktorlik dissertatsiyalarining asosiy ilmiy natijalarini chop etish
+tavsiya etilgan ilmiy nashrlarda 5 ta maqola, jumladan, 4 ta respublika va 1 ta xorijiy
+jurnallarda nashr etilgan.
+ Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertatsiyaning tarkibi
+136 betni tashkil etgan.
+ DISSERTASIYANING ASOSIY MAZMUNI
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda ob'ekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Tijorat banklarida kredit portfeli sifatini oshirishning
+ilmiy-nazariy asoslari” deb nomlangan birinchi bobida tijorat banklarida kredit
+portfeli sifatini oshirishning nazariy asoslari, tijorat banklari barqarorligini
+ta’minlashga qaratilgan me’yori huquqiy hujjatlar sharhi, hamda tijorat banklarida
+kredit portfeli sifatini oshirishga qaratilgan ilmiy-nazariy qarashlarni tahlil qilish
+hamda ularning amaliy ahamiyatini baholashga xizmat qiluvchi xulosalarni
+shakllantirilgan.
+ Rivojlanayotgan davlatlarda, ayniqsa bank tizimida davlat ishtiroki yuqori
+bo‘lgan mamlakatlarda tijorat banklarining kredit portfelini optimallashtirish
+dolzarb muammo sifatida qaraladi. Bunday davlatlarda davlat ulushidagi banklar
+iqtisodiyotning strategik yo‘nalishlarini moliyalashtirishda asosiy rolni o‘ynaydi.
+Ammo, bu banklar ko‘pincha iqtisodiy emas, balki siyosiy maqsadlarni amalga
+oshirishga yo‘naltirilgan kredit siyosatini yuritadilar. Natijada, kredit portfeli
+tarkibida yuqori riskli yoki daromadliligi past loyihalar salmoqli ulushni egallaydi.
+Shu bois, kredit portfelini ilmiy asosda diversifikatsiya qilish, risklarni aniqlash va
+ularni boshqarish vositalarini kuchaytirish orqali portfelning barqarorligi va
+samaradorligini ta’minlash zaruratga aylanadi.
+ Davlat ulushi yuqori bo‘lgan banklarda kredit qarorlarini qabul qilish
+jarayonida siyosiy bosimlarning mavjudligi, qarorlar bozor tamoyillariga emas,
+balki ma’muriy topshiriqlarga asoslanishi kuzatiladi. Masalan, davlat tomonidan
+belgilangan ustuvor sohalarni moliyalashtirish talab qilinadi, bu esa bankning kredit
+portfelini bir yo‘nalishga haddan ziyod yo‘naltiradi va diversifikatsiya prinsiplariga
+zid keladi. Bunday sharoitda kredit portfeli tarkibidagi tarmoqlar o‘rtasidagi balans
+buziladi, natijada portfel umumiy risk darajasi oshadi. Shuning uchun, ushbu banklar
+uchun portfel konsentratsiyasini o‘lchovchi indikatorlardan – xususan, Herfindahl-
+Hirschman indeksi (HHI)dan foydalanish muhimdir.
+
+
+10
+ Yana bir muhim jihat shuki, rivojlanayotgan davlatlarda moliyaviy
+bozorlarning chuqurlig

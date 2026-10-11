@@ -1,0 +1,183 @@
+ID 146968 | Madaminov Bekzod Allayarovich | DSc |  | Tijorat banklarida risk-menejment tizimini takomillashtirish asosida  moliyaviy barqarorlikni ta’minlash metodologiyasi.
+HEAD:  TOSHKENT KIMYO-TEXNOLOGIYALARI INSTITUTI HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2026.31.01.I.42.02 RAQAMLI ILMIY KENGASH MA’MUN UNIVERSITETI MADAMINOV BEKZOD ALLAYAROVICH TIJORAT BANKLARIDA RISK-MENEJMENT TIZIMINI TAKOMILLASHTIRISH ASOSIDA MOLIYAVIY BARQARORLIKNI TA’MINLASH METODOLOGIYASI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari doktori (DSc) dissertatsiyasi AVTOREFERATI Toshkent shahar – 2026-yil 1 UDK: 336:72.012.64(575.1) Fanlari doktori (DSc) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата докторской диссертации (DSc) Content of the doctorial (DSc) dissertation abstract Madaminov Bekzod Allayarovich T
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklarida risk-menejment tizimini
+takomillashtirish asosida moliyaviy barqarorlikni ta’minlash metodologiyasini
+takomillashtirish yuzasidan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklarida moliyaviy barqarorlikni ta’minlashga yo‘naltirilgan risk-
+menejment tizimining konseptual modelini shakllantirishda bank risklarini
+identifikatsiya qilish, baholash, monitoring qilish va boshqarish jarayonlarini aktivlar va
+majburiyatlarni boshqarish mexanizmlari, kapital yetarliligi, likvidlik ko‘rsatkichlari
+hamda stress-test natijalari bilan integratsiyalash taklifi etilgan;
+ tijorat banklarida risk-menejmenti sifatini baholash reyting uslubining “past” (0-
+50), “o‘rtacha” (50-74), “yuqori” (75-100) shkalasidan foydalanish orqali tijorat banklari
+barqarorligini ta’minlashning moliyaviy strategiyalarini takomillashtirish taklifi
+asoslangan;
+ tijorat banklarida moliyaviy barqarorlikka taʼsir etuvchi risklarni kompleks
+baholash asosida Risk-based Early Warning System (EWS) risklardan erta ogohlantirish
+tizim modeli taklif etilgan;
+ tijorat banklarida risk-menejment tizimini raqamlashtirish va sun’iy intellekt
+asosida takomillashtirishda Fintech va Regtech texnologiyalari, Big Data va Machine
+Learning algoritmlari asosida real vaqt rejimida risklarni prognozlash, stress-test
+ssenariylarini avtomatlashtirish hamda moliyaviy barqarorlikka tahdid soluvchi omillarni
+oldindan aniqlash imkonini beruvchi innovatsion boshqaruv mexanizmini tadbiq etish
+taklif etilgan;
+ O‘zbekistonda tijorat banklari barqarorligini ta’minlashning moliyaviy
+strategiyalarining ustun yo‘nalishlarini hisobga olgan holda ular rivojlanishining 2030-
+yilgacha prognoz ssenariylari taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ tijorat banklari barqarorligini ta’minlashni innovatsion boshqaruv mexanizmi va
+texnologiyalarini qo‘llash natijasida bank barqororligini samarali boshqaruv tizimini
+taqomillashtirish yuzasidan ilmiy asoslangan amaliy takliflar ishlab chiqilgan;
+ tijorat banklari operatsiyalari va xizmatlari boshqaruvi barqarorligini oshirishda
+bank biznesi risk darajasini pasaytirish, banklarning kapitallashuv darajasini oshirish,
+xalqaro muqobil reytingini ko‘tarish bo‘yicha muallif yaratgan ilmiy ishlanmalar
+amaliyotda qo‘llanilgan;
+ tijorat banklari operatsiyalari va xizmatlari barqarorligini oshirishda uning qiyosiy
+samaradorligining asosiy miqdoriy mezoni sifatida o‘rtacha va marjinal konsepsiya
+usulining qo‘llanishi bank biznesi va xususiy tadbirkorligida risklarni pasaytirish va
+samaradorlikni oshirishga yo‘naltirilgan ilmiy tavsiya va amaliy takliflar yaratishga
+imkon yaratdi; tijorat banklari faoliyati barqarorligini ta’minlash bo‘yicha taklif etilgan
+uslubiy ishlanmalarda bank xizmatlari hajmi, foiz stavkasi, o‘rtacha va marjinal xarajatlar
+haqida qarorlar qabul qilish, investitsiya loyihalarini banklarning kredit mablag‘lari
+evaziga moliyalashtirish imkoniyatlarini yaratgan.
+ 9
+ Tadqiqot 
+=== XULOSA
+xulosa
+shundan iboratki, ushbu modellarning samaradorligi faqatgina mustaqil risk
+funksiyasi foydasiga boshqaruv ta’sirining real qayta taqsimlanishi, uning strategik
+boshqaruvda faol ishtiroki hamda risk-menejmentning bankning korporativ
+madaniyati va kundalik faoliyatiga chuqur integratsiya qilinishi sharoitida
+ta’minlanadi.
+ Fransiyada 1997-yilda Bank komissiyasi tomonidan ORAP (Organisation et
+Renforcement de l’Action Préventive) reyting tizimi joriy etilgan bo‘lib, u muayyan
+bankning moliyaviy holatini baholashga mo‘ljallangan ko‘p omilli dasturiy majmua
+hisoblanadi. Tizimning asosiy maqsadi miqdoriy va sifat ko‘rsatkichlaridan
+foydalangan holda barcha risk komponentlarini kompleks baholash orqali potentsial
+muammolarni aniqlashdan iborat. ORAP ichki va tashqi ma’lumot manbalariga
+tayangan holda 14 ta komponentni baholaydi, ular prudensial me’yorlar (likvidlik,
+kapital yetarliligi), aktivlar sifati va balansdan tashqari operatsiyalar, bozor va
+operatsion risklar, daromadlilik ko‘rsatkichlari, shuningdek menejment
+samaradorligi, ichki nazorat tizimi va mulkchilik tuzilmasi kabi sifat tavsiflarini
+qamrab oladi. Har bir komponent 1 dan 5 gacha bo‘lgan shkala bo‘yicha baholanadi
+va keyinchalik umumiy reytingga agregatsiya qilinadi, ushbu reyting nazorat
+organlari mutaxassislari tomonidan ekspert baholari asosida tuzatilishi mumkin.
+ 3-jadval
+ 13
+ Moliyaviy barqarorlikni baholash metodikalari 12F12F12F
+
+
+
+
+ Joriy
+ Mamlakat Nazorat organi Metodika Metodika turi
+ etilgan yil
+ Moliyaviy xizmatlar
+ Buyuk Bank risklarini har
+ bozorini nazorat qiluvchi RATE 1998
+ Britaniya tomonlama baholash tizimi
+ markaziy organ
+ Moliyaviy koeffitsiyentlar
+ Germaniya Markaziy
+ Germaniya BAKIS 1997 va teng guruhlar tahlili
+ banki
+ tizimi
+ Bankni baholash tizimi
+ ORAP 1997
+ Fransiya Bank komissiyasi ustidan tashqi nazorat
+ Kutilayotgan yo‘qotishlar
+ SAABA 1997
+ modeli
+
+
+
+13
+ Астрелина В.В. Управление ликвидностью в российском коммерческом банке:
+учебное пособие / В.В. Астрелина, П.К. Бондарчук, П.С. Шальнов. - М.: Форум: ИНФРАМ, 2013. - 170 с.
+16
+ Buyuk Britaniya, Germaniya va Fransiyada banklarning moliyaviy
+barqarorligini baholash metodikalarini umumlashtirish maqsadga muvofiq bo‘lib,
+ular nazorat yondashuvlari, metodika turlari va joriy etilgan davrlar bo‘yicha
+farqlarni aks ettiruvchi taqqoslama jadval (3-jadval) ko‘rinishida taqdim etiladi.
+ Xorijiy amaliyotda tijorat banklarida moliyaviy risklarni boshqarish tobora
+ko‘proq stress-testlashdan foydalanish bilan bog‘lanmoqda. Bunda stress-testlash,
+odatda, stress hodisaning yuz berish ehtimolini hisoblashni nazarda tutmaydi, biroq
+uning natijalari banklarning qo‘shimcha kapital va likvidlik manbalariga bo‘lgan
+ehtiyojini prognoz qilish imkonini beradi. Nazorat organlari stress-testlardan
+potentsial yo‘qotishlarni qoplash uchun zarur bo‘lgan kapital yetarliligini
+baholashda hamda likvidlik inqirozlarini bartaraf etish chora-tadbirlarini ishlab
+chiqishda foydalanishni tavsiya etadi.
+ Tadqiqot tanlamasi 257 ta kuzatuvdan iborat. Ma’lumotlar to‘liq bo‘lib, asosiy
+bloklarda yo‘qolgan qiymatlar aniqlanmadi, bu holat dastlabki skrining orqali
+tasdiqlandi. Tanlama turi - maqsadli tanlama bo‘lib, tijorat banklari mijozlarini
+qamrab oladi.
+ Tadqiqotda 30 ta savoldan iborat so‘rovnoma qo‘llanildi. Bayonotlar 6 ta
+konseptual blokka guruhlangan. Baholash 5 ballik Laykert shkalasi asosida amalga
+oshirildi, bunda: 1 - «Mutlaqo rozi emasman», 5 - «To‘liq roziman».
+ Empirik tahlil tijorat banklari faoliyatining integral bahosiga ta’sir etuvchi
+omillar nazariy modelini tasdiqlashning asosiy bosqichi hisoblanadi. Ushbu
+bo‘limning maqsadi ilgari ilgari surilgan gipotezalarni statistik jihatdan tekshirish,
+o‘lchov instrumentining ishonchliligini baholash hamda bank xizmatlarining sifat
+ko‘rsatkichlari (moliyaviy barqarorlik, xavfsizlik, shaffoflik, xizmat sifati) bilan
+mijozlar sodiqligi o‘rtasidagi sabab-oqibat bog‘liqliklarini aniqlashdan iborat.
+ Ma’lumotlarni qayta ishlashda JASP/SPSS algoritmlariga o‘xshash statistik
+tahlil paketidan foydalanildi, bu esa hisob-kitoblarning aniqligi va natijalarning
+tekshiriluvchanligini ta’minladi.
+ Tadqiqotning empirik bazasini tijorat banklari mijozlari o‘rtasida o‘tkazilgan
+so‘rovnoma ma’lumotlari tashkil etdi. Ma’lumotlarni tozalash jarayonlaridan
+(yo‘qolgan qiymatlar va tizimli chetlanishlarni olib tashlash) so‘ng yakuniy tanlama
+hajmi N = 257 respondentni tashkil etdi. Tanlamaga «O‘zsanaotqurilishbank»,
+«Agrobank» va boshqa yetakchi banklar mijozlari kiritilgan bo‘lib, bu natijalarni
+mintaqadagi faol bank xizmatlari foydalanuvchilariga umumlashtirish imkonini
+beradi. Respondentlarning banklar bo‘yicha taqsimoti muvozanatli bo‘lgani sababli
+parametrik farqlar mezonlarini (ANOVA) qo‘llash metodologik jihatdan asosli
+hisoblanadi.
+ Dastlabki statistik tahlil asosiy metrik o‘zgaruvchilarda normal taqsimotdan
+jiddiy og‘ishlar yo‘qligini ko‘rsatdi. Asimmetriya va eksess ko‘rsatkichlari −1 va +1
+oralig‘ida joylashgan bo‘lib, bu Pirson korrelyatsiyasi, ko‘p omilli chiziqli
+regressiya va bir omilli dispersiya tahlilidan foydalanish imkonini berdi.
+ Gipotezalarni tekshirishdan avval qo‘llanilgan so‘rovnoma yetarli psixometrik
+ishonchlilikka ega ekanligini aniqlash zarur. Shu maqsadda ichki moslik tahlili
+o‘tkazilib, Kronbax alfa (α) koeffitsienti hisoblandi. Ushbu ko‘rsatkich bir tematik
+ 17
+blokka birlashtirilgan savollar bitta yashirin (latent) konstruktni qanchalik darajada
+o‘lchayotganini aks ettiradi.
+ Ijtimoiy fanlarda qabul qilingan mezonga ko‘ra, α ≥ 0,70 bo‘lsa, shkala
+ishonchli hisoblanadi, 0,80 dan yuqori qiymatlar esa yuqori darajadagi moslikni
+bildiradi.
+ 4-jadval
+ Shkalalarning ishonchlilik ko‘rsatkichlari (Kronbax alfa) 14
+ 13F13F13F
+
+
+
+
+ Bandlar Ishonchlilik
+ Shkala nomi α
+ soni bahosi
+ Moliyaviy barqarorlik (FinReliability) 5 0,842 Yuqori
+ Operatsiyalar xavfsizligi (Security) 5 0,815 Yuqori
+ Shaffoflik va ochiqlik (Transparency) 5 0,793 Qoniqarli
+ Xizmat ko‘rsatish sifati
+ 5 0,867 Yuqori
+ (ServiceQuality)
+ Mijozlar sodiqligi (Loyalty) 5 0,881 Yuqori
+ Integral baho (IntegralAssessment) 5 0,854 Yuqori
+ Olingan natijalar o‘lchov instrumentining yuqori sifatga ega ekanligini
+ko‘rsatadi. Eng yuqori ichki moslik «Mijozlar sodiqligi» shkalasida qayd etildi (α =
+0,881), bu esa mazkur savollar respondentlar tomonidan yagona mazmuniy
+konstrukt sifatida qabul qilinganini anglatadi. «Shaffoflik va ochiqlik» shkalasining
+ko‘rsatkichi nisbatan pastroq bo‘lsa-da, u statistik jihatdan qabul qilinadigan
+darajada bo‘lib, shaffoflik tushunchasining ko‘p qirrali talqin qilinishi bilan
+izohlanadi.
+ Barcha shkalalar bo‘yicha α qiymatlarining 0,70 dan yuqori bo‘lishi kompozit
+o‘zgaruvchilarni shakllantirish va keyingi tahlillarni axborot yo‘qotmasdan amalga
+oshirish imkonini beradi. Yuqori ichki moslik respondentlarning savollarga izchil va
+ongli ravishda javob berganini ko‘rsatib, tadqiqot natijalarining ishonchliligini
+oshiradi.
+ Tahlilning keyingi bosqichida shakllantirilgan kompozit o‘zgaruvchilar
+bo‘yicha tavsifiy statistik

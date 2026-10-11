@@ -1,0 +1,168 @@
+ID 149017 | Egamova Maxfurat Esanovna | DSc | 2026 | Tijorat banklari kapitalini transformatsiya qilish uslubiyati va amaliyotini  takomillashtirish.
+HEAD:  TOSHKЕNT KIMYO-TЕXNOLOGIYALARI INSTITUTI HUZURIDAGI ILMIY DARAJALAR BЕRUVCHI DSc.03/2026.31.01.1.42.02 RAQAMLI ILMIY KЕNGASH TOSHKЕNT DAVLAT IQTISODIYOT UNIVЕRSITЕTI EGAMOVA MAXFURAT ESANOVNA TIJORAT BANKLARI KAPITALINI TRANSFORMATSIYA QILISH USLUBIYATI VA AMALIYOTINI TAKOMILLASHTIRISH 08.00.07 – “Moliya, pul muomalasi va kredit” Iqtisod fanlari doktori (Doctor of Science) dissertatsiyasi AVTORЕFЕRATI Toshkent – 2026 1 UO‘K: 336.713:336.767(575.1) Fan doktori (DSc) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата докторской (DSc) диссертации Contents of the Doctoral (DSc) dissertation abstract Egamova Maxfurat Esanovna Tijorat bank
+=== MAQSAD
+Tadqiqotning maqsadi. Tijorat banklari kapitalini transformatsiya qilishning
+uslubiy va amaliyotini takomillashtirishga qaratilgan ilmiy-amaliy taklif va tavsiyalar
+ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ davlat ulushi mavjud tijorat banklari kredit portfeli tarkibida muddati o‘tgan
+kreditlarning yuqori chegaraviy darajasini 3,0 foizdan oshirmaslik orqali banklarning
+tavakkalchilik hisobga olingan holdagi aktivlari sifatini oshirish bo‘yicha taklif ishlab
+chiqilgan;
+ tijorat banklarning balansdan tashqari yuqori riskli aktivlar tarkibida
+majburiyatlarni qisqartirish hisobiga I darajali kapitalning yetarlilik darajasini oshirish
+bo‘yicha taklif ishlab chiqilgan;
+ tijorat banklari kapitali tranformatsiyasi jarayonida davlat ulushini bankning
+mijozlari bo‘lgan jismoniy shaxslarga sotish orqali bank aksiyalari bozor bahosini
+5 karragacha oshirish bo‘yicha taklif ishlab chiqilgan;
+ tijorat banklari aktivlarining umumiy hajmida bevosita davlatga tegishli bo‘lgan
+aktivlar ulushni bosqichma-bosqich 30 foizgacha tranformatsiya qilish orqali bankning
+erkin raqobat muhiti va xususiy sektorga taklif etadigan xizmatlar hajmini oshirish
+taklifi ishlab chiqilgan;
+ majburiyatlarining asosiy qismini davlat mablag‘lari hisobidan shakllantirib
+kelayotgan tijorat banklarida ushbu manba ulushni 35 foizgacha pasaytirish orqali
+davlat oldidagi majburiyatlarni kamaytirish maqsadga muvofiqligi bo‘yicha taklif
+ishlab chiqilgan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ tijorat banklari kapitalini transformatsiya qilishdan ularning aktivlari sifatining
+holati va darajasi muhim iqtisodiy omillardan biri ekanligi amaliy jihatdan asoslab
+berilgan;
+ tijorat banklari kapitali tarkibida qo‘shimcha kapital ulushini oshirishda bank
+aksiyalari bozor bahosining asosiy iqtisodiy-moliyaviy ko‘rsatkich siftida e’tibor
+berish to‘g‘risidagi taklifi bank amaliyotida joriy etish uchun qabul qilingan;
+ aksiyadorlarga hisobot yilining oxirida tegishli dividend summalarini barqaror
+to‘lanishi bank aksiyalari bozor bahsini oshishiga ijobiy ta’siri uslubiy va amaliy
+jihatdan asoslangan;
+ kapitali transformatsiya qilinayotgan tijorat banklarida NPL darajasini xalqaro
+talablar darajasida saqlab turish va muammoli kreditlar bo‘yicha tegishli zaxiralarni
+shakllantirish muhim ahamiyat kasb etishi asoslangan;
+ bank kapitali transformatsiyasi jarayonida ularning aksiyalari jozibadorligini
+oshirishda mamlakat moliya bozorini rivojlantirish yuzasidan takliflar ishlab chiqilgan.
+
+
+ 9
+ Tadqiqot 
+=== XULOSA
+xulosa
+va takliflar, foydalanilgan adabiyotlar ro‘yxati va ilovalarni o‘z ichiga olgan.
+Dissertatsiya hajmi 220 betni tashkil etadi.
+
+ DISSЕRTATSIYANING ASOSIY MAZMUNI
+
+ Dissertatsiyaning kirish qismida tadqiqotning dolzarbligi va zarurati asoslangan,
+tadqiqotning maqsadi, vazifalari, obyekti va predmeti belgilab olingan, respublika fan
+va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga mosligi ko‘rsatilgan,
+dissertatsiyaning mavzusi bo‘yicha xorijiy tadqiqotlar sharhi keltirilgan, ilmiy yangiligi
+va amaliy natijalari bayon qilingan, olingan natijalarning ilmiy-amaliy ahamiyati yoritib
+berilgan, tadqiqot natijalarini amaliyotga joriy etilgani, aprobatsiyasi, e’lon qilingan
+ishlar va dissertatsiyaning tuzilishi haqida ma’lumotlar keltirib o‘tilgan.
+Dissertatsiyaning birinchi bobi “Tijorat banklari kapitalini transformatsiya
+qilishning nazariy va uslubiy asoslari” deb nomlangan. Ushbu bobda bank kapitali
+transformatsiyasining iqtisodiy mohiyati, shakllari va amalga oshirish usullari, bank
+kapitalini transformatsiya qilishning nazariy konsepsiyalari va uslubiy asoslari hamda
+xorij amaliyotida bank kapitalini transformatsiya qilishning nazariy va uslubiy jihatlari
+tahlil qilingan.
+ Iqtisodiyot nazariyasida transformatsiya keng ma’noda resurslarni, mulkiy
+munosabatlarni yoki institutlarni sifat jihatidan yangi holatga o‘tkazish jarayoni sifatida
+tushuniladi.
+ Bank sohasiga nisbatan esa «kapital transformatsiyasi» tushunchasi hanuzgacha
+yagona, umum e’tirof etilgan ta’rifga ega emas. Mavjud adabiyotlarda bu tushuncha
+ko‘pincha “kapitalni boshqarish”, “kapitallashtirish”, “rekapitalizatsiya”, “kapital
+tarkibini optimallashtirish” kabi atamalar bilan aralashtiriladi. Nazariy iqtisodchi
+olimlari F.Mishkin va D.Daymond kapital transformatsiyasi bank resurslarini bir
+shakldan ikkinchi shaklga o‘tkazish, ularning muddati, likvidliligi va risk darajasini
+o‘zgartirish jarayonidir 9 , deya ifodalaydi. Bu yerda asosiy e’tibor kapitalning egalik
+huquqini o‘zgarishi xususida fikr ketmoqda.
+ Bazel qo‘mitasi va milliy regulyatorlar tomonidan qo‘llaniladigan yondashuv
+bo‘lib, kapital transformatsiyasi kapitalning me’yoriy talablarga moslashtirilishi
+sifatida talqin etiladi. Ya’ni, bank kapital tarkibini (masalan, 2-darajali kapitalni 1-
+darajali kapitalga) yoki uning hajmini (masalan, ustav kapitalini ko‘paytirish) regulyativ
+talablarni bajarish uchun o‘zgartiradi.
+ Zamonaviy korporativ moliya nazariyachilar Modilyani-Miller, Damodaranning
+fikriga ko‘ra, kapital transformatsiyasi bankning bozor qiymatini oshirish maqsadida
+kapital strukturasini optimallashtirish jarayonidir 10 . Bunda transformatsiya vosita
+sifatida emas, balki qiymat yaratish mexanizmi sifatida qaraladi.
+
+9
+ Mishkin F. S. The Economics of Money, Banking and Financial Markets. 13-nashr. Harlow: Pearson Education Limited,
+2022. — Б. 200. Diamond D. W., Rajan R. G. Bank kapitali nazariyasi // Journal of Political Economy. 2001. Vol. 109,
+No. 2. — Б. 287.
+10
+ Modigliani F., Miller M. H. The Cost of Capital, Corporation Finance and the Theory of Investment // The American
+Economic Review. 1958. Vol. 48, No. 3. —Б. 261. Damodaran A. Corporate Finance: Theory and Practice. 2nd ed. New
+York: Wiley, 2001.. — Б. 409.
+
+12
+ Iqtisodchi olimlar D.Nort va O.Uilyamson kapital transformatsiyasini bankning
+institutsional muhitga moslashuvi, mulkchilik shaklining o‘zgarishi va korporativ
+boshqaruv sifatining oshishi bilan bog‘laydi 11 . Shuni ta’kidlash joizki, aynan shu
+yondashuv O‘zbekiston bank tizimidagi transformatsiya jarayonlarini o‘zida ifoda etish
+bilan birga, amalga oshirilayotgan jarayonlarni tushuntirishda muhim ahamiyat kasb
+etadi.
+ Yuqoridagi yondashuvlarni umumlashtirgan holda, biz mualliflik ta’rifini ishlab
+chiqdik:
+ Yuqorida tijorat banklari kapitali transformatsiyasining iqtisodiy mohiyati va
+tushunchasi bilan bog‘liq jarayonlarni tahlili natijasida shunday fikrga keldikki,
+iqtisodchi olimlarning tijorat banklari kapitali transformatsiyasiga berilgan ta’riflar va
+uning mohiyati to‘g‘risida iqtisodchi olimlar va mutaxassislarning qarashlari yagona
+emas, balki ko‘p qirralirdir. Shu jihatlarni inobatga olgan holda tijorat banklari kapitali
+transformatsiyasiga quyidagi takomillshagan mualliflik ta’rifini shakllantirdik. Tijorat
+banklari kapitalini transformatsiya qilish – bu bankning strategik maqsadlari,
+prudensial talablar va bozor kon’yunkturasidan kelib chiqib, kapital elementlarining
+hajmi, tarkibi, sifati va shaklini maqsadli, tizimli va nazorat qilinadigan tarzda
+o‘zgartirish jarayonidir.
+ Transformatsiya shakllarining o‘zaro bog‘liqligi va ketma-ketligi. Amaliyotda
+kapital transformatsiyasining turli shakllari ketma-ket yoki parallel tarzda amalga
+oshiriladi. Transformatsiyaning muvaffaqiyati ko‘pincha shakllarning to‘g‘ri ketma-
+ketligiga bog‘liq.
+
+ BOSQICH 1: Regulyativ talab CAR pastligi aniqlandi
+
+ CoCo bonds yoki
+ BOSQICH 2: Instrumental subordinirlangan qarz jalb
+ transformatsiya
+ qilish
+
+ BOSQICH 3: Konversion Qarzni aktsiyaga aylantirish
+ transformatsiya (CET1 oshirish)
+
+ BOSQICH 4: Rekapitalizatsion Qo’shimcha emissiya yoki
+ transformatsiya foydani kapitallashtirish
+
+ Institutsional Strategik investor / IPO /
+ BOSQICH 5: xususiylashtirish
+ transformatsiya
+
+
+ 1-rasm. Kapital transformatsiyasining evolyutsion modeli 12
+ Kapital transformatsiyasini amalga oshirishning usullarini ichki va tashqi
+manbalar asosida, shuningdek usulning murakkablik darajasi va transformatsiya
+shakliga ko‘ra guruhlash maqsadga muvofiq.
+ Bank kapitali transformatsiyasini ichki manbalar hisobidan amalga oshirish
+bankning moliyaviy mustaqilligini saqlash, tashqi qarz resurslariga bog‘liqlikni
+kamaytirish va kapital sifatini tabiiy ravishda oshirish imkonini beradi. Bunday
+
+11
+ North D. C. Institutions, Institutional Change and Economic Performance. Cambridge: Cambridge University Press,
+1990. —Б.152. Williamson O. E. The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting. New
+York: Free Press, 1985. — Б.450.
+12
+ Rasm muallif tomonidan ishlab chiqilgan
+
+ 13
+yondashuvda eng keng qo‘llaniladigan usullardan biri foydani kapitallashtirish
+hisoblanib, bankning sof foydasini dividend sifatida taqsimlamasdan, taqsimlanmagan
+foyda sifatida kapital tarkibida qoldirish orqali amalga oshiriladi. Ushbu usul
+aksiyadorlar nazoratini susaytirmasligi, qo‘shimcha qarz yuklamasini yuzaga
+keltirmasligi va bozorga chiqish xarajatlarini talab etmasligi bilan ajralib turadi.
+ Tashqi manbalar asosida transformatsiya usullari:
+ 1. Aksiyalar emissiyasi.
+ 2. Subordinar qarz.
+ 3. Qimmatli qog‘ozlarning gibrid shakllari. Bir vaqtning o‘zida qarz va aksiya
+belgilariga ega bo‘lgan vositalar (CoCo bonds, perpetual bonds, preference shares).
+ 4. Strategik sherikchilik va investorlar jalb qilish . Xorijiy moliyaviy
+institutlar(Yevropa tiklanish va taraqqiyot banki, Xalqaro moliya korporatsiyasi, Osiyo
+taraqqiyot banki kabi tashkilotlar ) dan investitsiya jalb qilish.
+ 5.Qo‘shilish yoki sotib olish orqali kapital bazasini kengaytirish.

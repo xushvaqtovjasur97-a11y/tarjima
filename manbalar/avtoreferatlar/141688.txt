@@ -1,0 +1,212 @@
+ID 141688 | Umarov Davron Shavkatovich | PhD |  | Tijorat banklari daromadlarini oshirish asosida moliyaviy barqarorligini ta’minlash  yoʻllari
+HEAD:  TOSHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI UMAROV DAVRON SHAVKATOVICH TIJORAT BANKLARI DAROMADLARINI OSHIRISH ASOSIDA MOLIYAVIY BARQARORLIKNI TA’MINLASH YOʻLLARI 08.00.07 – Moliya, pul muomalasi va kredit, Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2025-yil UO‘K: 336.713:005.915(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философии (PhD) по экономическим наукам Content of dissertation abs
+=== MAQSAD
+Tadqiqotning maqsadi Oʻzbekistonda bank moliyaviy barqarorligini
+ta’minlashda daromadlilikni oshirish yuzasidan ilmiy taklif va amaliy tavsiyalar
+ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ bank kredit siyosatida mijozning kreditga layoqatliligini baholash jarayoniga
+bankning joylashgan mikrohudud omilini integratsiya qilish asosida kredit foiz
+stavkalarining differensiallashuvini ta’minlab, bankning foizli daromadlarining
+barqaror o‘sishi asoslangan;
+ banklarda moliyaviy menejmentning vertikal shakllanish tizimiga nomonetar
+omillarni gorizontal-vertikal integratsiya asosida qo‘shish orqali banklarning
+moliyaviy rentabelligini oshirish asoslangan;
+ bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga ijobiy
+ta'sir etuvchi omil ekanligini inobatga olish asosida banklarning moliya bozoridagi
+daromadliligini oshirish taklif etilgan;
+
+8
+ bank aktivlarining rentabelligida foizsiz daromadlarning roli kamayib
+borayotganligini inobatga olib operasion xarajatlarni raqamlashtirish orqali
+banklarning daromadliligini oshirishni moliyaviy barqarorlikni ta'minlashga
+uygʻunlashtirish taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ banklarning moliyaviy barqarorligini ta’minlashda ichki ta’sir etuvchi
+omillarni oldindan aniqlash va ularni bartaraf etishga qaratilgan strategiyani ishlab
+chiqishda ichki omillarni boshqarish orqali ularning salbiy ta’sirini oldindan
+aniqlash va uni prognozlashtirishga imkoniyat mavjudligi.
+ banklarning moliyaviy barqarorligiga ta’sir etuvchi moliyaviy natijalar bilan
+birga, nomoliyaviy xususiyat kasb etadigan tshqi va ichki omillarni ham
+tizimlashtirish asosida baholashlarni amalga oshirish maqsadga muvofiqlig.
+ taqsimlanmagan foydani shakllanishida bankning moliyaviy instrumentlardan
+foydalanishi va foizli daromadlarni shakllantirishdagi rolini oshirish orqali bankning
+moliyaviy barqarorligiga shart-sharoit yaratib berishi.
+ foizli daromadlarning bank aktivlari rentabelligiga statistik ta’sir
+etmayotganligi bank faoliyatida aktivlarni iqtisodiyotning turli tarmoqlariga
+joylashtirishda tahlillar zarur ekanligini ifodalab berishi.
+ mamlakatda makroiqtisodiy koʻrsatkichlarning bank daromadliligiga ta’sirini
+baholagan holda valyuta kursining devalvatsion tendensiyasini qizib ketishini oldini
+olishga qaratilgan chora-tadbilarni amalga oshirish taklif etilgan.
+ Olingan natijalarning ishonchliligi. Tadqiqot natijalarining tahlil jarayonida
+Oʻzbekiston Respublikasi Markaziy banki, “O‘zsanoatqurilishbank” ATBning
+moliyaviy hisobot koʻrsatkichlari, Oʻzbekiston Respublikasi Prezidenti huzuridagi
+Davlat statistika agentligining rasmiy ma’lumotlaridan muayyan me’yoriy hujjatlar,
+tegishli idora va tashkilotlarning hisobotlaridan foydalanilganligi, ishda qoʻllanilgan
+yondashuv va usullarning maqsadga muvofiqligi hamda ilmiy asoslanganligi,
+keltirilgan xulosa, taklif va tavsiyalarning Oʻzbekiston Respublikasi tijorat banklari
+amaliyotlarida joriy etilganligi bilan belgilanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati Oʻzbekistonda tijorat banklari moliyaviy barqarorligini
+ta’minlashda daromadlilikni oshirish faoliyatida moliyaviy siyosatni ishlab chiqish
+hamda uni yanada rivojlantirishga oid ilmiy tadqiqot ishlarini amalga oshirishda
+ilmiy-uslubiy asos sifatida foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining amaliy ahamiyati Oʻzbekiston Respublikasi tijorat
+banklari faoliyatida daromadlilikni oshirish orqali moliyaviy barqarorlikni
+ta’minlash yoʻllari va metodlarini ishlab chiqish, ushbu amaliyotni
+takomillashtirishda, shuningdek, mustaqil ilmiy tadqiqotlar olib borishda, ilmiy
+loyiha, oliy ta’lim muassasalarida “Bank ishi”, “Bank risk menejmenti” kabi
+fanlarning oʻquv dasturini ishlab chiqish va uning amaliy bazasini mustahkamlash
+mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining joriy qilinishi. Tijorat banklari moliyaviy
+barqarorligini ta'minlashda daromadlilikni oshirish boʻyicha olingan ilmiy natijalar
+asosida:
+ bank kredit siyosatida mijozning kreditga layoqatliligini baholash jarayoniga
+bankning joylashgan mikrohudud omilini integratsiya qilish asosida kredit foiz
+stavkalarining differensiallashuvini ta’minlab, bankning foizli daromadlarining
+barqaror o‘sishiga doir taklifi Oʻzbekiston Respublikasi Prezidentining 2020 yil 12
+maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son farmonining 4-
+xatboshisi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston sanoat-qurilish banki
+ATBning 2025 yil 2 apreldagi 03-07/6728-son ma'lumotnomasi). Natijada, bank
+daromadlarida kreditlardan olingan foizlarning ulushi 2024 yilda oʻtgan yilga
+nisbatan 11 foizga oshgan;
+ banklarda moliyaviy menejmentning vertikal shakllanish tizimiga nomonetar
+omillarni gorizontal-vertikal integratsiya asosida qo‘shish orqali banklarning
+moliyaviy rentabelligini oshirish taklifi Oʻzbekiston Respublikasi Prezidentining
+2020 yil 12 maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston
+Respublikasining bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son
+farmonining 2-ilovasi 40-bandi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston
+sanoat-qurilish banki ATBning 2025 yil 2 apreldagi 03-07/6728-son
+ma'lumotnomasi). Mazkur taklifni amaliyotga joriy etish natijasida bankda xodimlar
+faoliyat samaradorligi oshishi orqali bank daromadliligi 2024 yilda oʻtgan yilga
+nisbatan 1,6 barobarga oshgan;
+ bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga ijobiy
+ta'sir etuvchi omil ekanligini inobatga olish asosida banklarning moliya bozoridagi
+daromadliligini oshirish taklifi Oʻzbekiston Respublikasi Prezidentining 2020 yil 12
+maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son farmonining 1-bandi 1-
+xatboshi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston sanoat-qurilish banki
+ATBning 2025 yil 2 apreldagi 03-07/6728-son ma'lumotnomasi). Mazkur taklifni
+amaliyotga joriy etish natijasida bankning moliya bozoridagi faoliyati boʻyicha
+daromadlilgi 2024 yilda oʻtgan yilg
+=== XULOSA
+
+xulosalari 2 ta xalqaro, 2 ta respublika ilmiy-amaliy anjumanlarida muhokamadan
+oʻtkazilgan.
+ Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya ishi boʻyicha jami 7
+ta ilmiy ish, shu jumladan, Oʻzbekiston Respublikasi Oliy attestatsiyasi komissiyasi
+tomonidan tavsiya etilgan mahalliy ilmiy nashrlarda 1 ta, nufuzli xorijiy jurnallarda
+2 ta ilmiy maqola nashr etilgan.
+
+10
+ Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+sakkizta paragraf, xulosa, foydalanilgan adabiyotlar roʻyxatidan iborat.
+Dissertatsiyaning asosiy matnining hajmi 129 betni tashkil etadi.
+
+ DISSERTATSIYANING ASOSIY MAZMUNI
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekti va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Tijorat banklari daromadlarini oshirish asosida
+moliyaviy barqarorligini ta’minlash nazariy asoslari” deb nomlangan birinchi
+bobida tijorat banki moliyaviy barqarorligini ta’minlashda bank daromadlari nazariy
+asoslari va oʻziga xos xususiyatlari, barqaror moliyaviy rentabellik banklarning
+daromadlililigini ta’minlash omili sifatida tijorat bankining moliyaviy barqarorligini
+shakllantiruvchi va unga ta’sir etuvchi omillarni ekonometrik baholangan.
+ Banklarning moliyaviy barqarorligini baholashga nisbatan yagona
+yondashuvning ishlab chiqilmaganligi, moliyaviy barqarorlik koʻrsatkichlarining
+yagona yondashuv asosida hisoblab chiqarilmasligi, ularni oʻzaro boshqa bank
+sektorlari bilan solishtirish imkonini bermaydigan holatlarning mavjudligi
+kuzatilishini ta’kidlash lozim.
+ Olib borilgan tadqiqotlar asosida quyidagi ilmiy xulosalarni ishlab chiqishga
+harakat qildik:
+ Birinchidan, banklarning moliyaviy brqarorligini ta’minlashda ichki ta’sir
+etuvchi omillarni oldindan aniqlash va ularni bartaraf etishga qaratilgan strategiyani
+ishlab chiqish zarur va buning imkoni mavjudligi. Ichki omillarni boshqarishga
+imkoniyat mavjudligi ularning salbiy ta’sirini oldindan aniqlash va uni
+prognozlashtirishga imkoniyat mavjud;
+ Ikkinchidan, banklarning moliyaviy barqarorligiga ta’sir etuvchi tashqi
+omillarni oldindan aniqlash imkoni mavjud boʻlmasada, ularning salbiy ta’sirini
+oldini olishga harakat qilish mumkin. Unda bankning tashqi omillarga
+sezuvchanligini kamaytirishga erishish lozim boʻladi;
+ Uchinchidan, banklarning moliyaviy barqarorligini xalqaro tashkilotlar va
+agentliklar tomonidan tavsiya etilgan va nisbatan koʻplab yetakchi banklar
+tomonidan tan olinadigan metodlarni qoʻllashga e’tibor berish. Bunda Markaziy
+bankning pul-kredit siyosatini amalga oshirish bilan bogʻliq boʻlgan harakterli
+jihatlarini inobatga olgan holda bankning moliyaviy strategiyasi yoʻnalishlarini
+ishlab chiqish lozim boʻladi.
+ 2024-yil mart oyida Toshkentda boʻlib oʻtgan forumda Fitch Ratings agentligi
+direktor oʻrinbosari Pavel Kaptel mamlakatimizdagi banklarni xususiylashtirish
+jarayonlari yuzasidan oʻzining xulosalarini bayon etdi4. Unga koʻra, davlat
+banklarining xususiylashtirilishi jarayonida, ularning rentabellik koʻrsatishlari
+
+4
+ Kaptel P. O‘zbekiston davlat banklarini xususiylashtirish yana kechroqqa qoldirilishi mumkin — Fitch.
+https://www.gazeta.uz/uz/2024/03/19/privatization/
+zarurligi, bu esa ularning jozibadorligini ta’minlashga xizmat qilib
+xususiylashtirishni tezlashtirishga olib kelishini ta’kidlab oʻtdi.
+ Biz banklarning moliyaviy barqarorligini baholashda sifat va miqdoriy
+koʻrsatkichlar bilan birga bank xodimlarining nuqtai nazaridan moliviy
+barqarorlikni baholashda soʻrovnoma metodidan foydalangan holda tahlil qilishga
+harakat qildik. 2024 yilning avgust oyida “Oʻzsanoatqurilishbank” ATB viloyat va
+tumanlarda joylashgan hududiy va bank xizmatlari markazlari xodimlari oʻrtasida
+oʻtkazilgan soʻrovnoma asosida ma’lumotlar toʻplandi. Ushbu soʻrovnoma
+https://docs.google.com/forms/d/1PC90xiQJDhj6xjioYct-OnUdDtvXmtgBpVy_Brbb6Mk/edit
+elektron manzilda joylashgan boʻlib, unda 901 nafar bank xodimlari ishtirok etdi.
+ Bank kredit foiz stavkasining bank daromadliligiga ta’sir etishi darajasini
+soʻrovnomada ishtirok etganlarning kredit siyosatiga nisbatan boshqa yondashuvlari
+bilan aloqadorlikda tahlil qilamiz. Bunda 1-jadvalda keltirilgan model ma’lumotlari
+asosida ayrim ilmiy xulosalarni shakllantirish mumkin. Biz bankning kredit foiz
+stavkalarining daromadliligiga nisbatan ta’sirini respondentlarning yondashuvlari
+asosida baholaymiz, bunda:
+ 1-jadval
+ Bank kredit foiz stavkasining bank daromadliligiga ta’siri omillarini
+ baholash
+ Umumiy holati Shahar markazi Shahar chekkasi
+ Coefficient P>t Coefficient P>t Coefficient P>t
+ F(6, 896)=9.58 F(6, 896)=7.50 F(6, 896)=3.53
+ Prob>F=0.0000 Prob>F=0.0000 Prob>F=0.0019
+Yoshingiz -.0111744 0.164 -.0068246 0.457 -.0260161 0.134
+Jinsingiz .5848224 0.000 .6418505 0.000 .3651383 0.285
+Ma’lumotingiz -.0416172 0.593 -.0381733 0.665 -.0708851 0.668
+Sizning bankingiz quyidagilarning
+qaysi biri asosida kredit foiz .0901576 0.117 .1094273 0.086 -.0191766 0.891
+stavkalarini belgilagani eng yaxshi?
+Qarz oluvchining layoqatini
+tekshirishda kredit skoring (KAMI) .4734377 0.000 .4079019 0.000 .6951354 0.000
+qanchalik muhim?
+Kreditlar qaytmasligida quyidagilardan
+ -.0137176 0.798 -.0204391 0.731 .0237649 0.848
+qaysi biri asosiy sabab?
+/cut1 .3754127 .5835814 -.5842361
+/cut2 2.584171 2.750567 1.879179
+/cut3 5.162689 5.309335 4.563697
+/cut4 6.12139 6.422789 4.977078
+
+ Birinchidan, yosh yoki ma’lumot darajasining oʻzgarib borishi ushbu savolga
+nisbatan yondashuvni oʻzgartirmayotganligini kuzatish mumkin. Bu esa, bank
+xodimlari oʻrtasida oʻzgarmas qadriyatning shakllanganligini ko‘rsatadi. Umuman
+olganda, bank xodimlari munosabatlarida bir tizimlilikni kuzatish nobarqaror
+boʻlmoqda.
+
+12
+ Ikkinchidan, erkak bank xodimlari kredit foiz stavkasini va kredit oluvchining
+moliyaviy layoqatini baholash kreditning bank daromaliligiga ta’sirida asosiy omil
+vazifasini oʻtayotganligini kuzatish mumkin. Bu esa, erkak bank xodimlari ayollarga
+nisbatan bank krediti foiz stavkasini muhim, deb hisoblamoqda. Shahar
+chekkarogʻida joylashgan bankda esa, erkak bank xodimlari bu toʻgʻrisida
+nobarqaror va statistik ahamiyatga ega boʻlgan umumiy yondashuvga ega ekanligini
+koʻrish mumkin. Shuningdek, kredit oluvchining kreditga layoqatliligi har qanday
+holda ham baholash muhim ekanligini qayd etish lozim.
+ Uchinchidan, kredit foiz stavkasining bank daromaliliga ta’sirini baholashda
+bank xodimlari uni belgilash asoslari va kredit qaytmasligi omili kabi jihatlarni
+muhim ahamiyatga ega emas degan xulosaga ega boʻlishmoqda. Boshqacha qilib
+aytganda, ushbu savollar borasidagi javoblarning kredit foiz stavkasining
+daromadlilikka ta’siri statistik ahamiyatga ega boʻlayotganligini kuzatmaymiz.
+ Bank xodimlari kredit oluvchining kreditga layoqatliligini baholash bankning
+daromadliligiga eng muhim ta’sir etuvchi omi

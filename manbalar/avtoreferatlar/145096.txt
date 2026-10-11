@@ -1,0 +1,164 @@
+ID 145096 | Kadirov Lutfullo Xalimovich | PhD | 2026 | Tijorat banklari moliyaviy boshqaruv tizimisamaradorligini oshirish
+HEAD:  BUXORO DAVLAT TEXNIKA UNIVERSITETI HUZURIDAGI ILMIY DARAJALAR BERUVCHI PhD.03/2025.27.12.I.16.06 RAQAMLI ILMIY KENGASH QARSHI DAVLAT UNIVERSITETI KADIROV LUTFULLO XALIMOVICH TIJORAT BANKLARI MOLIYAVIY BOSHQARUV TIZIMI SAMARADORLIGINI OSHIRISH 08.00.13 – Menejment Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Buxoro – 2026 UО‘K: 336:330:005 Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философии (PhD) по экономическим наукам Content of dissertation abstract of Doctor of Philosophy (PhD) on Economical Sciences Kadirov Lutfullo Xalim
+=== MAQSAD
+Tadqiqotning maqsadi Oʻzbekistonda tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirishga doir ilmiy asoslangan taklif va amaliy tavsiyalar ishlab
+chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ kredit resurslarini bozor qiymati va bank aktivlarining rentabellik darajasiga
+muvofiqligini belgilash hisobiga ko‘chmas mulkning bozor qiymatini o‘zgarishiga
+asoslangan kredit portfelini shakllantirish orqali korporativ mijozlarga ajratilgan kredit
+liniyalari bo‘yicha qarzdorlik majburiyatlarini bajarish muddatini qisqartirish asoslangan;
+ tijorat banklari kredit riskini baholash modeliga asosan kredit riski darajasining “past”
+(0≤X≤10), “o‘rta” (10≤X≤25), “yuqori” (25≤X≤40) xavf darajasi chegaralari sharoitida
+bankdan qarz oluvchilarning ssuda foizi bo‘yicha defolt ehtimolini baholash orqali bank
+moliyaviy boshqaruv tizimi samaradorligini oldindan bashorat qilish taklifi asoslangan;
+ tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishda moliyaviy
+tahdidlarning paydo bo‘lishi va amalga oshirilishining tegishli xususiyatlarini o‘zida
+namoyon etgan risk ko‘rsatkichlarini guruhlash va ularni o‘zaro muvofiqlashgan tizimini
+tasniflashning boshqaruv mexanizmini fokuslash taklifi asoslangan;
+ O‘zbekistonda tijorat banklarining iqtisodiy samaradorlik darajasini oshirishning
+ekonometrik modellari asosida yalpi daromad va unga ta’sir etuvchi omillarning 2028-yilga
+qadar prognoz variantlari ishlab chiqilgan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ tijorat banklari moliyaviy barqarorligini ta’minlashga yo‘naltirilgan marketing
+kommunikatsiya tizimini shakllantirish orqali mijozlarning bank xizmatlariga nisbatan
+munosabatlarini kompleks asosda o‘rganish va aholining bank xizmatlariga nisbatan xulq-
+atvorini shakllantirishning simmetrik va assimetrik axborot almashinuvini ta’minlash
+yо‘llari aniqlangan;
+ tijorat banklarining foizli daromadlar va foizli xarajatlarini yalpi daromadiga ta’sirini
+iqtisodiy-matematik modellashtirish orqali bank moliyaviy boshqaruvini optimallashtirish
+yo‘llari ishlab chiqilgan;
+ tijorat banklari moliyaviy boshqaruvining xorijiy tajribalariga asoslangan korporativ,
+innovatsion va ratsional strategiyalari asosida moliyaviy boshqaruvni amalga oshirish
+mexanizmining funksional xususiyatlari tizimlashtirilgan;
+ raqamli iqtisodiyot sharoitida tijorat banklari moliyaviy boshqaruvi samaradorligini
+oshirishning raqamli ekotizimini shakllantirish orqali bank moliyaviy boshqaruvidagi
+jarayonlarni muvofiqalashtirish imkoniyatlari tizimlashtirilgan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa chiqazish imkoniyatini beradi. Mazkur modelga asosan kredit riski darajasi 0≤X≤10
+oraliqda past, 10≤X≤25 oʻrta, 25≤X≤40 boʻlganda esa yuqori xavf darajasiga ega
+hisoblanadi9.
+ 2021-2024-yillarda O‘zbekiston Respublikasi tijorat banklarining kredit riski
+darajasini tavsiflovchi ma’lumotlar kredit riskini oraliq koʻrsatkichlarini xavf darajasi past
+ekanligini ko‘rsatadi.
+ Tijorat banklari moliyaviy boshqaruviga doir tahlil natijalarini umumlashtirish, bank
+aktivlarini guruhlash bilan bog’liq oraliq intervalni belgilashni talab etadi. Tadqiqot
+jarayonidagi tahlil natijalari va tijorat banklarining 2024-yildagi moliyaviy
+ko‘rsatkichlariga asoslanib:
+ - 3 trln.so‘mdan 10 trln.so‘mgacha;
+ - 10 trln.so‘mdan 30 trln.so‘mgacha;
+ - 30 trln.so‘m va undan yuqori aktivlarga ega bo‘lgan oraliq intervalga muvofiq
+quyidagi guruhlash jarayonini amalga oshiramiz (2-jadval).
+ Tahlil natijalariga muvofiq aktivlar miqdori boʻyicha tijorat banklari faoliyatini
+guruhlashtirishda, 3 trln. so‘mdan 10 trln. soʻmgacha oraliq intervalga ega boʻlgan tijorat
+banklari 2 ta, 10 trln. soʻmdan 30 trln. soʻmgacha 6 ta, 30 trln. soʻm va undan yuqori banklar
+soni 6 ta. Aktivlarning oʻsish koʻrsatkichlari boʻyicha Oʻzmilliybank,
+Oʻzsanoatqurilishbank, Agrobank, Asaka bank, Xalq banki, Kapital bank yuqori
+koʻrsatkichga ega bo‘lgan tijorat banklari hisoblanadi. Mikrokreditbank, Turon bank, Aloqa
+bank, Hamkor bank, Orient Finans bank va Trast bank aktivlar hajmi bo‘yicha 10 trln.
+
+8
+ www.cbu.uz- Oʻzbekiston Respublikasi Markaziy bankining rasmiy statistik axborot sayti ma'lumotlari
+9
+ https://finzz.ru/model-chessera-i-model-zmievskogo.html?ysclid=m63ljqucmc441678700
+14
+soʻmdan 30 trln. soʻmgacha boʻlgan tijorat banklari qatorida oʻrin egallaydi. Guruhlash
+natijalariga asosan Davr bank va Aziya Alyans banklarning aktivlari hajmi 3 trln. soʻmdan
+10 trln. soʻmgacha boʻlgan uchinchi guruhdan joy egallaydi. Faqatgina, Poytaxt bankning
+aktivlar hajmi yuqoridagi guruhlash bilan bogʻliq oraliq intervaldan ancha past natijani qayd
+etgan. Fikrimizcha, moliyaviy boshqaruv tizimi past samaradorlik natijasini qayd etgan
+tijorat banklarining aktiv operatsiyalari hajmini oshirilishini ta’minlashda individual kredit
+oluvchilar bilan ishlash bo‘yicha kredit portfeli modelini qo‘llash maqsadga muvofiq.
+ 2-jadval
+ 2024-yilda Oʻzbekiston Respublikasi tijorat banklari faoliyatining aktivlar miqdori
+ boʻyicha guruhlashtirilgan koʻrsatkichlari10
+ Aktivlar miqdori boʻyicha guruhlashtirilgan tijorat
+ banklari taqsimoti
+ Jami
+ Koʻrsatkichlar nomi 3 trln. soʻmdan 10 trln. soʻmdan 30 trln. soʻm va
+ 10 trln. soʻmgacha 30 trln. soʻmgacha undan yuqori
+ banklar soni summa banklar soni banklar soni banklar soni
+ Аktivlar
+ Aktivlar 15 460 000 2 6 6
+ Kreditlar, shundan 15 376 047 4 6 4
+ Jismoniy shaxslarga
+ 15 147 200 4 6 4
+ ajratilgan kreditlar
+ Yuridik shaxslarga
+ 15 228 847 4 6 3
+ ajratilgan kreditlar
+ Qisqa muddatli
+ 15 49 939 2 2 3
+ kreditlar
+ Uzoq muddatli
+ 15 326 108 2 4 2
+ kreditlar
+ Tijorat banklarining individual kredit oluvchilar bilan ishlash bo‘yicha kredit portfeli
+modeli tijorat banklarining korporativ mijozlarga yo‘naltirilgan kredit portfelini integral
+mexanizmini shakllantirish hisobiga kreditlarni samaradorlik darajasi yuqori bo‘lgan
+loyihalarga yo‘naltirish imkoniyatini beradi. Mazkur kredit porfelini shakllantirishda kredit
+resurslarini bozor qiymatini aniqlash jarayoni muhim ahamiyatga ega bo‘lib, tegishli tahlil
+jarayoni ko‘chmas mulkning real va potensial bozor baholarini taqqoslama tahlil qilish
+hisobiga bank aktivlarining rentabellik darajasini ta’minlashga imkon beradigan tegishli
+ma’lumotlar olinadi (2-rasm).
+ Tijorat banklari individual kredit oluvchilar bilan ishlash jarayonida moliyaviy bozor
+talablariga muvofiq doimiy ravishda o‘z aktivlari tarkibini diversifikatsiyalashni amalga
+oshirib boradi. Ushbu jarayonda bozor omillari bilan bir qatorda nobozor omillarining ta’siri
+sezilarli darajada ortadi.
+ Rivojlanayotgan mamlakatlarda raqamli bank tizimidan foydalanish, yoki bank
+ilovalari orqali tijorat banklarining turli xizmatlaridan foydalanish tashkiliy-iqtisodiy
+jihatdan cheklangan xarakterga ega. Mazkur holat tijorat banklari moliyaviy boshqaruv
+tizimi samaradorligini oshirish jarayoni bilan bog’liq quyidagi nomuvofiqliklarni vujudga
+keltiradi:
+ – bank menejerlarining elektron hisobot shakllari bilan ishlaydigan tahlil vositalarini
+tegishli platformalari doirasidagi funksional xususiyatga ega boʻlgan ma’lumotlarni
+moliyaviy menejment tizimida keng qo‘llanilmasligi;
+
+10
+ Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+ 15
+ – moliyaviy operatsiyalarni amalga oshirishda ma’lum platforma orqali mavjud
+xatolikni kompleks tahlil qilish imkoniyati mavjud, ammo kanallararo moliyaviy
+operatsiyalarni tashkil etish va boshqarish jarayoni bilan bog’liq risklar xavfini kompleks
+baholash imkoniyatining yo‘qligi;
+ – raqamli iqtisodiyot sharoitida bankning innovatsion xizmatlarini rivojlantirish va
+tartibga solish jarayonini neobank va fintech loyihalariga asoslanishi sababli bank xizmatlari
+raqobatbardoshligini ta’minlash jarayonining murakkablashuvi;
+ – bank biznesini rivojlantirishning operatsion modelini zamonaviy bank xizmatlarini
+yaratish va ularni joriy etish jarayoniga integratsiyasini ta’minlashning sustligi va boshqalar.
+ Tijorat banklari moliyaviy boshqaruvning tashkiliy strategiyalari quyidagi mustaqil
+tarkibiy qismlardan iborat:
+ • bank moliyaviy boshqaruvi;
+ • bank tizimini rivojlantirish strategiyasiga doir boshqaruv qarorlari;
+ • bank moliyaviy faoliyatining fundamental tahlili;
+ • bank moliyaviy faoliyatining boshqaruv tizimini optimal tashkiliy tuzilmasi;
+ • moliyaviy boshqaruvning strategik rejasini axborot oqimi va boshqalar.
+ Germaniya tijorat banklarining korporativ boshqaruv strategiyasida tegishli
+korporatsion tizimni yaratish borasidagi ustuvorliklar quyidagilardan iborat:
+ - tijorat banklarining qimmatli qog’ozlarini nominal va real qiymati bilan bog’liq
+tegishli natijadorlikni ta’minlash;
+ - bank faoliyatida omonatchilar, qarz oluvchilar hamda investorlar o‘rtasida kontragent
+tizimini amalga oshirishni muvofiqlashtirish;
+ - yirik kompaniyalarning aksiyadorlarini kompaniya rentabelligini oshirishga
+yo‘naltirilgan investitsion faoliyatini qo‘llab-quvvatlash;
+ - davlat va bank sektori o‘rtasidagi integratsion munosabatlarni takomillashtirish orqali
+milliy iqtisodiyotning raqobatbardoshligini ta’minlash.
+ 2022-2024-yillarda Germaniyada Deutsche bankning qimmatli qog’ozlari taqsimoti va
+uning qiymatini o‘sib borish jarayoni borasida keltirilgan jadval ma’lumotlari mazkur
+fikrimizni asoslashga xizmat qiladi (3-jadval).
+ 3-jadval
+ 2021-2024-yillarda Deutsche bankning qimmatli qog‘ozlari taqsimoti (mlrd. yevro)11.
+ 2021 2022 2023 2024
+ Obligatsiyalar va boshqa doimiy
+ 29,132 31,230 40,517 52,220
+ daromadli qimmatli qog‘ozlar
+ Aksiya va boshqa o‘zgaruvchan
+ 1 203 1 015 1 415 1 715
+ daromadli qimmatli qog‘ozlar
+ Ishtirok etuvchi manfaatlar 0,00 0,00 0,00 0,00
+ Sho‘ba kompaniyalariga

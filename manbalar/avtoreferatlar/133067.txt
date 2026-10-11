@@ -1,0 +1,198 @@
+ID 133067 | Olimjanova Nigora Alisherovna | PhD | 2024 | Tijorat banklari kapitalida davlat ulushini kamaytirish yo‘llari
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.22/29.12.2023.I.175.01 RAQAMLI KENGASH O‘ZBEKISTON RESPUBLIKASI BANK-MOLIYA AKADEMIYASI OLIMJANOVA NIGORA ALISHEROVNA TIJORAT BANKLARI KAPITALIDA DAVLAT ULUSHINI KAMAYTIRISH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent – 2024 1 UDK: 336.71(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философии (PhD) по экономическим наукам Content of dissertation abstract of doctor of philosophy (PhD) on
+=== MAQSAD
+Tadqiqotning maqsadi O‘zbekiston tijorat banklari kapitali tarkibida davlat
+ulushini kamaytirish bo‘yicha taklif va tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklarining barqarorlik reytingida davlat ulushi 50 foiz va undan yuqori
+bo‘lgan banklarning ustav kapitali tarkibidagi davlat ulushini 10%iga kamayishiga 5
+ball, 20% kamayishiga 10 ball hamda 30% kamayishiga 20 balldan qo‘shimcha ball
+berish taklif etilgan;
+ tijorat banklarining yangidan chiqarayotgan aksiyalari umumiy hajmining kamida
+25 foizdan ortiq qismini fond birjalarida ommaviy joylashtirish orqali banklar
+kapitalidagi davlat ulushini kamaytirishning maqsadga muvofiqligi asoslangan;
+ davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank tomonidan
+berilgan imtiyozli kreditlarning kredit porfelidagi hajmini 8 foizdan oshirmaslikning
+maqsadga muvofiqligi asoslangan;
+ tijorat banklari kapitali tarkibida ustav kapitali hajmini oshirishda olingan sof
+foydaning 20 foizini ustav kapitaliga yo‘naltirish orqali banklarning kapital buferini
+ta’minlash taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ tijorat bank kapitali tarkibida davlat ulushini qisqartirishda banklarning ustav
+kapitalining amaldagi miqdorini bosqichma-bosqich, ya’ni birinchi yilda 100 foizga,
+ikkinchi yilda 200 foizga va uchinchi yilda 300 foizga oshirish taklif etilgan;
+ tijorat banklarining reytingi barqarorlashuvi, ustav kapitali amaldagi miqdorini
+oshishi va aksiyalarni ommaviy joylashtirishning bank kapitalidagi davlat ulushini
+kamaytirishning 2030 yilgacha bo‘lgan prognoz ko‘rsatkichlari ishlab chiqilgan;
+ tijorat banklari kapitali tarkibida davlat ulushini 15-20 foizgacha tushirilishi,
+banklarning qimmatli qog‘ozlar bozoridagi faoliyatini 50 foizgacha oshishi
+asoslangan;
+ tijorat banklari tomonidan uzoq muddatli subordinar qarz majburiyatlarini
+muomalaga chiqarish orqali tijorat banklari kapitalidagi davlat ulushinini kamaytirish
+taklif etilgan.
+ Olingan natijalarning ishonchliligi tijorat banklari kapitali barqarorligini
+oshirish va kapitaldagi davlat ulushini kamaytirishning nazariy va amaliy
+muammolariga bag‘ishlangan mahalliy va xorijiy olimlar hamda mutaxassislarning
+ilmiy qarashlarini tadqiq qilinganligi, O‘zbekiston Respublikasi Davlat statistika
+qo‘mitasi, O‘zbekiston Respublikasi Markaziy banki, mamlakatimiz tijorat banklari
+hisobot va ma’lumotlarini tahlili bilan belgilanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot doirasida ishlab
+chiqilgan ilmiy taklif va amaliy tavsiyalar tijorat banklari kapitali barqarorligini
+ 8
+ta’minlash va amaliyotini takomillashtirish yuzasidan ilmiy apparatni boyitishi bilan
+belgilanadi. Tijorat banklari kapitali barqarorligini ta’minlashda kapitalning
+yetarliligini aniqlashda, kapital yetarliligi borasida tegishli usullar va modellarini
+ishlab chiqishda, shuningdek bu borada amalga oshirilayotgan tadqiqot ishlarida
+foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqotning amaliy ahamiyati tijorat banklari kapitallashuv darajasini, tijorat
+banklari kapitali barqarorligini oshirish va uning tarkibida davlat ulushini kamaytirish
+amaliyotida shuningdek mazkur yo‘nalishda normativ-huquqiy hujjatlar loyihalarini
+ishlab chiqishda foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kapitalida davlat
+ulushini kamaytirish yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+ tijorat banklarining barqarorlik reytingida davlat ulushi 50 foiz va undan yuqori
+bo‘lgan banklarning ustav kapitali tarkibidagi davlat ulushini 10%iga kamayishiga 5
+ball, 20% kamayishiga 10 ball hamda 30% kamayishiga 20 balldan qo‘shimcha ball
+berish taklifi O‘zbekiston Respublikasi Vazirlar Mahkamasining 2024 yil 30
+yanvardagi 55-son «Tadbirkorlik sub’ektlarining barqarorlik reytingini aniqlash tartibi
+to‘g‘risidagi nizomni tasdiqlash haqida» Qaroriga kiritilgan. («O‘zbekiston sanoat-
+qurilish banki» ATBning 2024 yil 11 martdagi 09-06/1932-son ma’lumotnomasi).
+Ushbu taklif natijasida banklarda davlat ulushini kamaytirish borasida olib
+borilayotgan ishlarni faollashtirishga hissa qo‘shgan;
+ tijorat banklarining yangidan chiqarayotgan aksiyalari umumiy hajmining kamida
+25 foizdan ortiq qismini fond birjalarida ommaviy joylashtirish orqali banklar
+kapitalidagi davlat ulushini kamaytirish taklifi O‘zbekiston Respublikasi
+Prezidentining 2023 yil 2 sentabrdagi PQ-291-son «Kapital bozorini rivojlantirishning
+qo‘shimcha chora-tadbirlari to‘g‘risida»gi Qarori bilan tasdiqlangan «2023-2025
+yillarda kapital bozorini rivojlantirish bo‘yicha yo‘l xaritasi»ni ishlab chiqishda
+foydalanilgan. («O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi
+09-06/1932-son ma’lumotnomasi). Ushbu taklif natijasida bankning 25 foizdan ortiq
+aksiyalari fond birjalarida ommaviy joylashtirilgan;
+ davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank tomonidan
+berilgan imtiyozli kreditlarning kredit porfelidagi hajmini 8 foizdan oshirmaslik taklifi
+«O‘zbekiston sanoat-qurilish banki» ATB aksiyadorlari umumiy yig‘ilishining 2023
+yil 30 noyabrdagi 07/11-sonli bayonnomasi bilan tasdiqlangan «O‘zbekiston sanoat-
+qurilish bankni 2024-2026 yillarda rivojlantirish strategiyasi»ga kiritilgan.
+(«O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi 09-06/1932-son
+ma’lumotnomasi). Ushbu taklif natijasida bankda imtiyozli kreditlash amaliyotlarini
+cheklash, tadbirkorlik sub’ektlarini, yirik korxonalarni va aholini bozor tamoyillari
+asosida kreditlash belgilangan hamda 2023 yilda imtiyozli kreditlar ulushi 2022 yilga
+nisbatan 7,2 foizga kamaygan;
+ tijorat banklari kapitali tarkibida ustav kapitali hajmini oshirishda olingan sof
+foydaning 20 foizini ustav kapitaliga yo‘naltirish orqali banklarning kapital buferini
+ta’minlash taklifi «O‘zbekiston sanoat-qurilish banki» ATB aksiyadorlari umumiy
+yig‘ilishining 2023 yil 30 noyabrdagi 07/11-sonli bayonnomasi bilan tasdiqlangan
+ 9
+«O‘zbekiston sanoat-qurilish bankni 2024-2026 yillarda rivojlantirish strategiyasi»ga
+kiritilgan. («O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi 09-
+06/1932-son ma’lumotnomasi). Ushbu takl
+=== XULOSA
+
+xulosalari 3 ta xalqaro, 2 ta respublika ilmiy-amaliy anjumanlarida muhokamadan
+o‘tkazilgan.
+ Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya ishi bo‘yicha jami 12
+ta ilmiy ish, shu jumladan, Oliy attestatsiyasi komissiyasi tomonidan tavsiya etilgan
+mahalliy ilmiy nashrlarda 4 ta, nufuzli xorijiy jurnallarda 3 ta ilmiy maqola nashr
+etilgan.
+ Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+sakkizta paragraf, xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat.
+Dissertatsiya asosiy matnining hajmi 143 betni tashkil etadi.
+
+ DISSERTATSIYANING ASOSIY MAZMUNI
+
+ Dissertatsiyaning kirish qismida dissertasiya mavzusining dolzarbligi va zarurati
+asoslangan, tadqiqotning maqsadi va asosiy vazifalari, ob’ekti va predmeti
+shakllantirilgan, respublika fan va texnologiyalari rivojlanishining ustuvor
+yo‘nalishlariga bog‘liqligi ko‘rsatilgan, tadqiqotning ilmiy yangiligi va amaliy
+natijalari bayon etilgan, olingan natijalarning ilmiy va amaliy ahamiyati yoritib
+berilgan. Shuningdek, tadqiqot natijalarining amaliyotga joriy etilishi, nashr qilingan
+ishlar va dissertasiya tuzilishi bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiyaning «Tijorat banklari kapitalini shakllantirishning nazariy
+asoslari va xorijiy davlatlar tajribalari» deb nomlangan birinchi bobida tijorat
+banklari kapitalini shakllantirish va unda davlat ulushini kamaytirishning nazariy
+yondashuvlari, tijorat banklari kapitalida davlat ulushini kamaytirishning uslubiy
+jihatlari va xususiyatlari hamda tijorat banklari kapitalida davlat ulushini
+kamaytirishning xorijiy mamlakatlar tajribalaridan O‘zbekiston amaliyotida
+foydalanish imkoniyatlari o‘rganilgan. Tadqiqot oldiga qo‘yilgan vazifalardan kelib
+chiqqan holda, tijorat banklari kapitalida davlat ulushining nazariy-iqtisodiy asoslariga
+doir natija va xulosalar shakllantirilgan.
+ Tijorat banklari o‘z faoliyatini yuritishida birinchi navbatda yetarli darajadagi
+sarmoyaga ega bo‘lishi talab etiladi, bu esa yetarli darajada kapitalga egalik va barqaror
+daromad bazasiz amalga oshirishni tasavvur qilib bo‘lmaydi. Shu sababdan ham tijorat
+banklari kapitali bankni tashkil etish, ochish jarayonida, asosiy faoliyatni yuritish
+jarayonida Markaziy bank tomonidan belgilangan iqtisodiy normativ me’yorlarni
+bajarishida eng muhim manba va bank faoliyatida yuzaga kelishi mumkin bo‘lgan
+yo‘qotishlarni qoplashda «himoya yostiqchasi» vazifasini bajaruvchi asosiy moliyaviy
+manba bo‘lib xizmat qiladi. Bugungi iqtisodiy o‘sish va tijorat banklarining
+
+ 10
+transformatsiyasi jarayonlarida tijorat banklari kapitalining yetarliligi hamda
+barqarorligi masalasi eng dolzarb muammolardan biri bo‘lib qolmoqda.
+ Shunday ekan tijorat banklari kapitalining mohiyatini qiyosiy tadqiq qilish, uni
+barqaror manbalar hisobidan shakllantirish va monandligini ta’minlash masalasi doimo
+dolzarb vazifalardan hisoblanadi.
+ Bank kapitali va uning bank faoliyati jarayonlaridagi ta’sirini nazariy asoslarini
+bir qator olimlar tadqiq etgan holda turli qarashlar va nazariyalarni bayon etganlar.
+Jumladan, klassik namoyondalardan hisoblanmish A.Smit «Bank – alohida olingan ish
+yurituvchilarning jamiyat uchun foydali nihoyatda qimmatli hisoblangan, lekin ular
+uchun vaqtinchalik foydalanilmayotgan o‘lik kapitalni aktiv va ishlab chiqaruvchi
+kapitalga aylantiradi»5 deb ta’riflagan.
+ Professor I.Traxtenbergning fikricha ham banklar kapital yaratuvchi tashkilot
+hisoblanadi. O‘z faoliyatida ular kapitalni tashkil etish va uni to‘plash jarayonlarini
+tezlashtiradi hamda kapitalni qayta taqsimlaydi 6.
+ Bank kapitalining iqtisodiy mohiyati to‘g‘risida iqtisodchi olimlar tomonidan turli
+xil fikrlar bildirilgan. Jumladan, professor V.M.Usoskin bank kapitaliga bank
+moliyaviy resurslarining muhim va ajralmas tarkibiy qismi sifatida qaraydi7 deya
+ta’kidlab o‘tgan. Rus iqtisodchisi G.G.Karobova bank kapitaliga bankning iqtisodiy
+mustaqilligi, barqarorligi va ishonchliligini ta’minlovchi, mohiyatiga ko‘ra to‘liq
+to‘langan fondlar majmui sifatida qaraydi 8. Haqiqatda bank kapitalining miqdori,
+uning moliyaviy barqarorligi va mustaqilligini tavsiflaydi. Iqtisodchi olim R.G.Olxova
+bank kapitalining iqtisodiy mohiyatini ochib berishda «himoya yostig‘i» degan
+iqtisodiy tushunchani oldinga suradi va bank kutilmaganda zarar ko‘rsa kapital himoya
+yostig‘i sifatida ko‘rilayotgan zarar oqibatlarini yengillashtiradi va bankning iqtisodiy
+jihatdan to‘lov qobiliyatini tiklab olish imkoniyatini yaratadi deb hisoblaydi 9.
+ Respublikamiz iqtisodchi olimlaridan Sh.Abdullaeva va A.Omonovlar bank
+kapitaliga quyidagicha ta’rif berishgan: «Tijorat banklarining kapitali barqaror manba
+bo‘lib, bankning operatsion jarayonida kutilmaganda yuzaga keladigan zararlarni
+qoplash imkonini beruvchi o‘ziga xos himoya vositasidir 10».
+ Shuningdek, M.Egamovaning tadqiqotlarida «Tijorat banklari faoliyatini
+sarmoyasiz, ya’ni yetarli darajada kapitallashuvsiz tasavvur qilib bo‘lmaydi. Shu bois
+tijorat banklari kapitali dastlab banklarni ochish jarayonida, keyinchalik esa Markaziy
+bankning iqtisodiy normativlarini bajarishda asosiy mezon va bank faoliyatida
+kutilmaganda vujudga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda «himoya
+yostiqchasi» sifatida muhim moliyaviy manba bo‘lib xizmat qilishini 11» ta’kidlagan.
+
+5
+ Смит А. Исследование о природе и причинах богацтв народа. – Петрозаводск.: 1993. - С.271.
+6
+ Трахтенберг И. Денежное обращение и кредит при капитализме. – Москва.: 1962. - С.547.
+7
+ Усоскин В.М. Современный коммерческий банк: Управление и операции.-М: URSS. 2019. - 328 с.
+8
+ Банковское дело: учебник / под ред. д.э.н., проф. Г.Г.Коробовой. 2-е изд., перераб. и доп. М.: Магистр, ИНФРА-
+М, 2023. -592 с.
+9
+ Олхова Р.Г. Банковское дело. Управление в современном банке. Учебное пособие. – М.: «КНОРУС» 2019.
+–283с.
+10
+ Ш.Абдуллаева, А.Омонов Тижорат банклари капитали ва уни бошқариш. - Т.: «Иқтисод - Молия» 2006. - 120 б.
+11
+ М.Эгамова. Тижорат банклари капиталлашув даражасини оширишда даромаднинг роли. иқтисодиёт фанлари
+бўйича фалсафа доктори (Doctor of Philosophy). Дис. автореферати. – Т.: ТМИ, 2019. – 28 б.
+
+ 11
+ Tijorat banklari kapitali barqarorligini oshirish ko‘rqirrali jarayon bo‘lib, ushbu
+jarayonda asosiy e’tibor kapitalning tarkibiga qaratiladi. Bank kapitali barqarorligini
+oshirishning mulkchilik shaklidan kelib chiqqan holda uning bank faoliyatiga ta’sirini
+ko‘rib chiqamiz.
+ Bank faoliyatidagi eng muhim muammolardan biri yetarli darajadagi bank
+kapitali miqdorini ta’minlashdir. «Kapital» termini bankirlar uchun alohida
+ahamiyatga ega. Bu tushuncha birinchi navbatda bank egalari tomonidan kiritilgan
+hamda aksiyadorlik kapitalida joylashtirilgan mablag‘lar hamda taqsimlanmagan
+foydaga tegishlidir. Banklarga bo‘lgan ishonchni ta’minlab beruvchi tashkil
+qiluvchilardan biri bu – bank kapitalidir. Shu sababli bank kapitalining miqdori hamda
+sifati masalasi banklar uchun katta ahamiyat kasb etadi.
+ Tijorat banklari kapitali tarkibini shakllantirishda mulkchilik shaklini e’tiborga
+olish muhim hisoblanadi. Shu

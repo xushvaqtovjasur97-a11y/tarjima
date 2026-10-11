@@ -1,0 +1,169 @@
+ID 143369 | Sattorova Nasiba G‘anijon qizi | PhD | 2026 | Tijorat banklari likvidliligini optimallashtirish yo‘llari.
+HEAD: TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.23.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI SATTOROVA NASIBA G‘ANIJON QIZI TIJORAT BANKLARI LIKVIDLILIGINI OPTIMALLASHTIRISH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent – 2026 1 UO‘K: 336.713(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Content of dissertation abstract of doctor of philosophy (PhD) on economical sciences Оглавление автореферата диссертации доктора философии (PhD) по эк
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklari likvidliligini optimallashtirishga
+qaratilgan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ uslubiy yondashuvga ko‘ra “tijorat banklari likvidligini optimallashtirish”
+tushunchasining iqtisodiy mazmuni bank aktivlari va majburiyatlari tuzilmasini real
+vaqtda qayta balanslash orqali likvidlik tavakkalchiliklarini minimallashtirish
+hamda filiallararo likvidlik disbalansini dinamik sinxronlashtiruvchi indekslar
+asosida prognoz qilish imkonini beruvchi innovatsion moliyaviy menejment
+vositalari joriy etilishini nazarda tutuvchi, banklar resurslaridan samarali va barqaror
+foydalanishni ta’minlovchi ilmiy-amaliy kategoriya sifatida takomillashtirilgan;
+ banklarda aktivlar diversifikatsiyasi, markazlashmagan resurslar manbalari va
+likvid aktivlarning tez aylanuvchanligi omillaridan boshqaruvda foydalanishni
+amalga oshirish orqali likvidlikni yetmish kunlik rejalashtirish modelida minimal
+likvidlik talablariga mos kelish ko‘rsatkichini 95 %gacha oshirish imkoni
+asoslangan;
+ Markaziy bankning qayta moliyalash, svop operatsiyalari va qimmatli
+qog‘ozlar bilan operatsiyalarni qamrab olgan likvidlilikni tartibga solish vositalarini
+diversifikatsiyalash hamda ularni qo‘llash mezonlarini takomillashtirish orqali bank
+tizimida kunlik likvidlik ehtiyojini 15-20 %gacha qoplash va qisqa muddatli moliya
+bozorida likvidlik disbalansini 30 %gacha kamaytirish taklif etilgan;
+ banklarda filiallararo likvidlik disbalansini VAR modeli va stress-test
+ssenariylari asosida aniqlash hamda muvofiqlashtirish usuli orqali korxonalar
+faoliyatini moliyaviy modellashtirishni optimallashtiruvchi, likvidlik taqchilligini
+18-22 %gacha kamaytirish va filiallararo pul oqimlari balansini 0,9 korrelyatsiya
+koeffitsiyenti darajasida uyg‘unlashtirish asoslangan.
+
+
+8
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ bank tizimi likvidliligini ta’minlashda Markaziy bankning so‘nggi navbatdagi
+kreditor sifatidagi rolini oshirish yo‘nalishlari asoslab berilgan;
+ Bazel qo‘mitasining likvidlilikni boshqarish va tartibga solish bo‘yicha yangi
+talablarini respublikamiz banklari amaliyotida qo‘llash bo‘yicha ilmiy tavsiyalar
+ishlab chiqilgan;
+ tijorat banklari likvidliligini optimallashtirish vositalarini rivojlantirish
+bo‘yicha ilmiy takliflar ishlab chiqilgan;
+ tijorat banklarida likvidlilikni boshqarishning innovatsion strategiyasini
+takomillashtirish bo‘yicha ilmiy-amaliy takliflar ishlab chiqilgan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat. Tadqiqot hajmi
+134 betni tashkil etgan.
+
+
+10
+ DISSERTATSIYANING ASOSIY MAZMUNI
+ Kirish qismida dissertatsiya mavzusining dolzarbligi va zarurati asoslangan,
+tadqiqotning maqsadi va asosiy vazifalari, obyekti va predmeti shakllantirilgan,
+respublika fan va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga bog‘liqligi
+ko‘rsatilgan, tadqiqotning ilmiy yangiligi va amaliy natijalari bayon etilgan, olingan
+natijalarning ilmiy va amaliy ahamiyati yoritib berilgan. Shuningdek, tadqiqot
+natijalarining amaliyotga joriy etilishi, nashr qilingan ishlar va dissertatsiya tuzilishi
+bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Tijorat banklari likvidliligini optimallashtirishni
+nazariy asoslari” deb nomlangan birinchi bobida bank likvidliligini boshqarishning
+nazariy asoslari, tijorat banklari likvidligi boshqarish usullari, banklarda likvidlikni
+boshqarish strategiyalar qiyosiy tahlil qilingan. Tijorat banklari likvidliligini
+samarali boshqarish bankning ishonchliligini mustahkamlashga xizmat qiladi.
+Chunki aksiyadorlarning manfaatlari bank qiymatining uzoq muddatli va barqaror
+o‘sishi bilan uzviy bog‘liq. Bank kengashining likvidlilikni boshqarish borasidagi
+siyosati uning aktivlari va passivlarini shakllantirishda o‘zaro qarama-qarshi bo‘lgan
+likvidlilik-foydalilik ko‘rsatkichlari o‘rtasidagi oqilona nisbatni ta’minlashga
+qaratilishi lozim.
+ Likvidlilik tijorat banki faoliyatining muhim sifat ko‘rsatkichlaridan biri bo‘lib,
+bankning ishonchliligi va barqarorligini ko‘rsatadi. Bankning likvidliligi qanchalik
+yuqori bo‘lsa, uning majburiyatlarni bajarish imkoniyati ham shunchalik yuqori
+bo‘ladi.
+ Bank likvidliligini bankning omonatchilari va kreditorlari oldidagi
+majburiyatlarni o‘z vaqtida va yo‘qotishlarsiz bajarish qobiliyati sifatida talqin qilish
+adabiyotlarda ko‘p uchraydi5.
+ Taniqli iqtisodchi olim J.Sinkining fikricha, likvidlilik tijorat banklari uchun
+depozitlarning qaytarilishiga va kreditga talabni qondirishga tayyor turish uchun
+muhim hisoblanadi. Ayni paytda, kutilmagan pul oqimi bilan bog‘liq o‘zgarishlar
+bank likvidliligiga tahdid soladi6. O.I. Lavrushin tijorat banklarining likvidliligi
+uning moliyaviy turg‘unligi va barqarorligi, shuningdek, “bankning yеtarli
+darajadagi kapitali mavjudligi, qulay joylashtirilishi va tegishli muddatni hisobga
+olib, bankning aktiv va passiv mablag‘lari kattaligi sifatida aniqlanadi” deb
+ta’kidlaydi7.
+ P. Rouz likvidlilikni bankning “hayotiyligi”ni saqlab turuvchi mexanizm
+sifatida tavsiflaydi. Uning fikricha, likvidlilikni samarali boshqarish bankni shok
+holatlaridan himoya qiladi va uning bozordagi nufuzini saqlab qoladi 8. M. Osband
+esa likvidlilikni bank risk-menejmenti bilan uzviy bog‘liq holda ko‘radi. U
+likvidlilik yetishmasligi ko‘p hollarda aktiv–muddat disbalansi va aktivlar sifatining
+pasayishi natijasida yuzaga kelishini ta’kidlaydi9.
+5
+ Лаврушин О.И. Банковское дело: учебник для вузов – М.: Финансы и статистика, 2000. – 140с.
+6
+ Синки Ж. Управление финансами в коммерческом банке: Пер. с англ. – М.: Catallaxy, 1994. – 1548 с.
+7
+ Банковский менежмент: учебник /кол. Авторов; под ред. Проф О.И.Лаврушина.- 2 изд.. переб. и доп. – М.:
+КНОРУС, 2009. – с.142.
+8 Rose P. S., Hudgins S. C. Bank Management & Financial Services. – New York: McGraw-Hill, 2013. – 750 p.
+9 Osband M. Bank Risk and Liquidity Management. – Berlin: Springer, 2011. – 264 p.
+
+ 11
+ Ekonometrist L. Goodhart esa bank likvidliligini faqat mikrodarajada baholash
+yetarli emasligini, uning makroiqtisodiy omillar — pul-kredit siyosati, siyosiy
+barqarorlik, inflyatsiya va kapital bozorlari likvidligi bilan bevosita bog‘liqligini
+qayd etadi10. B. Bernankening fikricha, likvidlilik faqat banklarning ichki
+muammosi emas, balki makroiqtisodiy barqarorlikning muhim shartidir 11.
+ Muallifning fikricha, “tijorat banklari likvidligini optimallashtirish” — bank
+aktivlari va majburiyatlarini real vaqt rejimida qayta muvofiqlashtirish orqali
+likvidlik tavakkalchiliklarini kamaytirish hamda filiallararo likvidlik
+nomutanosibligini dinamik ko‘rsatkichlar asosida oldindan prognoz qilishga xizmat
+qiluvchi boshqaruv yondashuvidir12.
+
+
+
+
+ 1-rasm. O‘zbekiston bank tizimining likvidlik ko‘rsatkichlari13
+ 1-rasmdan ko‘rinadiki, 2021–2025-yillar davomida bank tizimi likvidlilik
+ko‘rsatkichlari o‘zgaruvchan bo‘lgan. Yuqori likvidli aktivlar ulushi 14,2 %dan 19,4
+%gacha oshib, 2025-yilda 17,3 %ni tashkil etganini ko‘rishimiz mumkin. LCR har
+doim me’yor(100 %)dan yuqorida bo‘lib, 2021-yilda 224,5 % bilan maksimal
+darajaga chiqqan. NSFR esa nisbatan barqaror bo‘lib, 109,9–115,6 % oralig‘ida
+bo‘lgan. Bunday likvidlilik ko‘rsatkichlari umumiy me’yorlarga mos bo‘lganini,
+biroq ularning dinamikasi notekis ekanini ko‘rish mumkin. Aynan shu holat
+likvidlikni statik emas, balki real vaqtda va optimallashtirilgan boshqaruv asosida
+tashkil etish zaruratini yuzaga keltiradi.
+ Tadqiqotning “Tijorat banklarida likvidlilikni joriy holati va uning tahlili”
+deb nomlangan ikkinchi bobida tijorat banklarida likvidlikni ta’minlashning joriy
+holati tahlil qilinib, tijorat banklari likvidligiga ta’sir qiluvchi omillar baholangan
+
+10 Goodhart, C. The Basel Committee on Banking Supervision: A History. — Cambridge: Cambridge University Press,
+
+2019. — 420 p.
+11 Bernanke B., Blanchard O. Monetary Policy and Financial Stability. — Cambridge: MIT Press, 2023. — 412p.
+12
+ Sattorova N.G‘. Tijorat banklari. O‘quv qo‘llanma. – T.: “Innovatsion rivojlanish” nashriyot-matbaa uyi, 2024. 312
+bet.
+13
+ Markaziy bank ma’lumlotlari asosida muallif tomonidan tuzildi.
+12
+va uning likvidligiga ta’siri aniqlangan. Bank likvidliligini optimallashtirish
+bo‘yicha qarorlarni qabul qilishda joriy likvidlik holati, resurslarga talabning davriy
+ravishda o‘zgarib turishi, resurslarga talabning kutilayotgan o‘zgarishlari, resurslar
+manbalari va ularning qiymati, aktivlarning sifati, resurslarning jamlanganligi,
+bankning kapitali va foydaliligini hisobga olgan holdagi bankning umumiy
+moliyaviy holati, balansdan tashqari majburiyatlar va shartnomalar, jumladan,
+ishlatilmayotgan kredit liniyalari, akkreditivlar, qimmatbaho qog‘ozlar va valyutani
+sotib olish bo‘yicha tuzilgan shartnomalar singari omillar chuqur tahlil qilinishi
+lozim.
+ Ta’kidlash lozimki, bank likvidliligini samarali boshqarish aktiv va passivlarni
+boshqarishni o‘z ichiga olishi kerak. Tijorat banklari likvidliligini ta’minlash va uni
+oqilona boshqarish bank aktivlari va majburiyatlari oqimi, ya’ni bank
+mablag‘larining manbalari va bu mablag‘lardan foydalanish muddatlarini
+muvofiqlashtirishga asoslanadi.
+ 1-jadval
+ “Agrobank” ATB ning likvidlilik ko‘rsatkichlari holati 14
+ (foiz hisobida)
+ Me’yoriy
+ Hisobot sanasiga amalda
+ Ko‘rsatkichlar darajasi
+ 01.01.2022 01.01.2023 01.01.2024
+ Min
+ Joriy likvidlik koeffitsiyenti 0,789 0,757 0,799
+ 0,300
+ Likvidlilikni qoplash me’yori Min
+ 1,628 1,217 1,232
+ koeffitsiyenti 1,000
+ Sof barqaror moliyalashtirish Min
+ 1,159 1,103 1,040
+ me’yori koeffitsiyenti 1,

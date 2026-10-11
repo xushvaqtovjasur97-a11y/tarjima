@@ -1,0 +1,157 @@
+ID 141389 | Sulaymanov Samandarboy Adhambek o‘g‘li | PhD | 2025 | Tijorat banklari likvidliligini tartibga solishni takomillashtirish
+HEAD: TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI ILMIY DARAJA BERUVCHI DSc.03/10.12.2019.I.16.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI SULAYMANOV SAMANDARBOY ADHAMBEK OʻGʻLI TIJORAT BANKLARI LIKVIDLILIGINI TARTIBGA SOLISHNI TAKOMILLASHTIRISH 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent – 2025 1 UOʻK: 336.713:336.781.5(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление aвтoрeфeрaтa диcceртaции дoктoрa филocoфии пo экoнoмичecким нayкaм (PhD) Content of the dissertation abstract o
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklari likvidliligini tartibga solishni
+takomillashtirishga qaratilgan ilmiy takliflar va amaliy tavsiyalar ishlab chiqishdan
+iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklari tomonidan yevroobligatsiyalar emissiyasini joriy etish orqali
+tashqi moliyaviy resurslarni jalb qilish mexanizmini shakllantirish va likvidlilik
+uzluksizligini taʼminlashni tartibga soluvchi moliyaviy model asosida likvid aktivlar
+ulushini kamida 18-20 % darajasida saqlab turish hamda normativ likvidlilik
+ko‘rsatkichlarini 1,2 barobarga yaxshilash taklifi ishlab chiqilgan;
+ tijorat banklari resurslarining asosiy qismini qisqa muddatli daromad
+keltiruvchi aktivlarga yo‘naltirish, investitsion loyihalarni moliyalashtirishda uzoq
+muddatga jalb qilingan depozitlar va xorijiy kredit liniyalarning mablag‘lari
+hisobidan amalga oshirish hamda bir yildan ortiq muddatli majburiyatlar ulushini 70
+foizgacha yetkazish orqali likvidlikni taʼminlash asoslangan;
+ bank ish kuni davomida real vaqt rejimida pul oqimlari monitoringi, normativ
+likvidlilik darajasiga yaqinlashish signali va avtomatlashgan korrektiv harakatlar
+algoritmini o‘z ichiga olgan likvidlilikni boshqarish tartibini joriy etish orqali tezkor
+likvidlik koeffitsiyentini 1,0 dan pastga tushish xavfini 70% gacha kamaytirish
+imkoni asoslangan;
+ tijorat banklarining likvidliligini tartibga solishga taʼsir qiluvchi omillarning
+o‘zgarmas effekt modeli orqali “Аgrobank” aksiyadorlik tijorat bankining likvidlik
+aktivlari qiymati o‘sishining 2029-yilga qadar prognoz ko‘rsatkichlari ishlab
+chiqilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ tijorat banklari yevroobligatsiyalarni emissiya qilish orqali likvidlilik
+uzluksizligini taʼminlash taklifi asosida Аgrobank АTBning dastlabki yevrobondlari
+London va Vena fond birjalarida emissiya qilingan;
+ tijorat banklari likvidliligini taʼminlash maqsadida bankning aktiv va
+passivlarini boshqarish bo‘yicha Аgrobank АTB xorijiy konsalting kompaniyasi
+hamkorligida АLM (Asset Liability Management) tizimi amaliyotga joriy qilingan;
+ tijorat banklari filiallarida likvidlilik ko‘rsatkichlari va meʼyorlarini kunlik
+bajarib borishi bo‘yicha talablarni nazorat qilish orqali ularning likvidliligini
+mustahkamlash taklifi asoslangan;
+
+
+
+8
+ tijorat banklarining likvidliligini tartibga solishga taʼsir qiluvchi omillarni
+o‘zgarmas effekt modeli orqali aktivlarning o‘sishini istiqbol davrida oshirish
+bo‘yicha taklif asoslangan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat bo‘lib, jami 168
+betni tashkil etadi.
+
+ DISSERTАTSIYANING АSOSIY MАZMUNI
+
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va zarurati
+asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi, vazifalari
+hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+maʼlumotlar keltirilgan.
+10
+ Dissertatsiyaning “Tijorat banklari likvidliligini tartibga solish borasidagi
+ilmiy-nazariy qarashlar va meʼyoriy-huquqiy asoslar” deb nomlangan birinchi
+bobida tijorat banklari likvidliligini taribga solish borasidagi ilmiy nazariy
+yondashuvlar, meʼyoriy huquqiy asoslar va likvidlilikni tartibga solish chora-
+tadbirlari bo‘yicha amalga oshirilayotgan ishlar o‘rganilgan.
+ Bugungi kunda tijorat banklari likvidliligini tartibga solish nihoyatda muhim.
+Shuningdek, “tijorat banklari likvidliligi” atamasi moddiy aktivlarni naqd pulga
+aylantirishning osonligi va ularni qanchalik tez konvertatsiya qilish mumkinligini
+anglatadi. O‘zbekiston mustaqillikka erishgandan so‘ng likvidlilik mavzusida bir
+qator tadqiqotlar amalga oshirilgan. Iqtisodiyot konsepsiyasining loyihasi ishlab
+chiqilgan, shuningdek, tijorat banklari likvidliligini tartibga solish zarurligi va ilmiy-
+nazariy fikrlar atroflicha tahlil qilinib, ilmiy xulosalar shakllantirilgan.
+ Iqtisodiy adabiyotlarda iqtisodchilar bank likvidligiga, odatda, deyarli bir xil
+taʼrif beradilar. Faqat likvidlilik tushunchasiga turlicha yondashuvlar mavjud.
+Jumladan J. Sinkey tomonidan bank likvidliligiga “bank potentsial likvid aktivlarni
+naqd pulga tez aylantira olish qobiliyatiga ega bo‘lishi va zarurat tug‘ilganda tezkor
+moliyaviy bozor instrumentlari orqali likvidlilikni jalb qila olish qobiliyati”5
+shaklida taʼrif berilgan.
+ Iqtisodchi V.Ivanov bank likvidliligiga “oʻz vaqtida va eng kam xarajat bilan
+bankning oʻz majburiyatlarini va mijozlarning kredit boʻyicha talablarini bajarish
+qobiliyatidir” shaklida taʼrif beradi6.
+ F.Mishkin bank likvidliligiga “bankning qisqa muddatli majburiyatlarini
+uzluksiz va to‘liq bajarish qobiliyati va ushbu qobiliyat izdan chiqsa, bank yugurib
+ketish (bank run) singari xatarlar kelib chiqadi. Shu bois, F. Mishkin banklar uchun
+qat’iy likvidlik me’yorlari va zarur holatda markaziy bank likvidlik yordamini
+muhim”7 deya ta’rif beradi.
+ Bank likvidligining turli ta’riflari banklar tomonidan taqdim etiladigan
+xizmatlar keng doirasini koʻrsatadi. Bank likvidligi bankning zarurat tugʻilganda va
+yetarli miqdorda likvid aktivlarni olish qobiliyati sifatida ta’riflanishi mumkin, bu
+esa unga darhol va kelajakdagi moliyaviy majburiyatlarni qondirish va iste’molchi
+kredit ehtiyojlarini samarali ravishda hal qilish imkonini beradi.
+ Tadqiqotchining fikricha, bank likvidligi deganda bank tamonidan oʻz joriy va
+kelajakdagi majburiyat va toʻlovlarini hamda kredit boʻyicha mijozlar talablarini oʻz
+vaqtida bajarish maqsadida kerakli vaqtda va miqdorda, hech qanday zarar koʻrmay,
+likvid mablagʻlarni jalb qila olish qobiliyatlarini yigʻindisidir.
+ Shuningdek, mamlakatimiz iqtisodchi olimlari, xususan, prof. T.Qoraliyev,
+Sh.Аbdullayeva, N.X.Jumayev, А.U.Burxonov, А.Omonov, O.Sattarov,
+M.Kurbonbekova, B.Izbosarov va boshqa iqtisodchi olimlar ham tijorat banklari
+
+5
+ Sinki J. Financial management in a commercial bank and financial services. - M.: Alpina Publishing House, 2017.
+493 p.
+6
+ Иванов В.В., [и др.]. Банки и банковские операции: учебник и практикум для академического бакалавриата.
+– М.: Юрайт, 2021. – 458 с.
+7
+ Mishkin F. S. The economics of money, banking, and financial markets. – Pearson education, 2007.
+ 11
+likvidliligini tartibga solish bo‘yicha o‘z munosabatlari va nuqtayi nazarlarini
+bildirganlar. Xususan, o‘zbekistonlik iqtisodchi olim T. Qoraliyev, pul-kredit
+siyosati va bank tizimi barqarorligi yo‘nalishida tadqiqotlar olib borgan.
+ T. Qoraliyev o‘z tadqiqotlarida Markaziy bankning pul-kredit siyosati banklar
+likvidligiga qanday ta’sir ko‘rsatishi masalasini yoritgan. Xususan, u iqtisodiy o‘sish
+sharoitida pul massasini tartibga solish, inflyatsion targetlash rejimi singari omillar
+tijorat banklari likvid aktivlari hajmi va zaxira talablariga rioya qilish darajasini
+belgilashini tahlil qilgan. Qoraliyevning ilmiy yondashuviga ko‘ra, makroiqtisodiy
+siyosat parametrlarini optimal darajada saqlab turish banklar likvidligini barqaror
+saqlashga xizmat qiladi, deya ta’kidlaydi. Masalan, Sh.Аbdullayeva: “Likvidlilik
+atamasini sotish, aktivlarni pul mablag‘lariga aylantirishning amalga oshirilishini,
+yaʼni bankning Markaziy bank yoki vakil banklardagi naqd pul mablag‘laridan
+oqilona foydalanish, likvid aktivlarini sotish imkoniyati va hokazolarni anglatadi”,
+deya taʼkidlaydi.
+ Professor N.X. Jumayev bank likvidliligiga “bank tizimi barqarorligini
+ta’minlash uchun kreditlash jarayonini tartibga solish, valyuta siyosatining tijorat
+banklari likvidliligiga ta’sirini nazorat qilish bank tizimi barqarorligini oshiradi.
+Shuningdek, milliy valyuta kursining beqarorligi banklarning likvidlik pozitsiyasiga
+bosim o‘tkazishi mumkin”, deya ta’kidlaydi.
+ Tadqiqotlar va o‘rganishlar natijasi ko‘rsatadiki, har bir mamlakatda bank
+tizimi likvidliligini tartibga solish uning tashkiliy-huquqiy asosini shakllantirish va
+ularni doimiy ravishda takomillashtirib borish zarurligini taqozo etadi. Bu borada
+mamlakatimizda qator ishlar amalga oshrildi. Xususan, tijorat banklari likvidliligini
+tartibga solishning tashkiliy-huquqiy bazasiga oid tegishli hujjatlar mavjudlari
+zamon talabidan kelib chiqib qayta qabul qilinmoqda, markaziy bank tomonidan
+tijorat banklari likvidliligini tartibga solishda bankning ichki siyosatidan kelib
+chiqib, likvidlilikni tartibga solish maqsadida yevrobondlar chiqarish likvidlilik
+siyosatini olib borishning xorij tajribalaridan hisoblanadi. Shunga qaramay, bu
+borada amalga oshiriladigan ishlar juda ko‘p bo‘lib, rivojlanayotgan va rivojlangan
+davlatlar siyosatini chuqur o‘rgangan holda ularni yagona tizimga keltirish orqali
+mahalliy bank tizimini rivojlantirish lozim.
+ Bank tomonidan, o‘z majburiyatlarini o‘z vaqtida, to‘liq hajmda va moliyaviy
+yo‘qotishlarsiz bajarilishi likvidlikka taʼsir ko‘rsatuvchi omillarni doimiy nazorat
+qilib borishni taqozo etadi. Likvidlikni samarali boshqarish bank menejerlari
+tomonidan likvidlik o‘zgaruvchanligiga taʼsir qiluvchi asosiy omillarni aniqlash va
+chuqur anglab yetishni talab qiluvchi jarayondir. Bunday omillarning aniqlanishi
+bank rahbariyatiga faoliyatda yuzaga kelishi mumkin bo‘lgan salbiy tendensiyalarni
+oldindan prognoz qilish va ular sodir bo‘lishidan avval profilaktik choralar ko‘rish
+imkonini beradi.
+
+
+
+
+12
+ 1-jadval
+ Bank likvidliligini makroiqtisodiy ko‘rsatkichlar uchun yaratadigan
+ imkoniyatlari8
+ Bank faoliyatini rivojlantirish maqsadida Kutilmaganda yuzaga keluvchi bank
+ balans shaklini istalgan tarzda oʻzgartira olish, operatsiyalari bo‘yicha zararlardan
+ yaʼni boz
