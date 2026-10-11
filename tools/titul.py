@@ -11,8 +11,8 @@ def P(t='',al='c',b=False,sz=14,sa=0,it=False,sb=0):
   pf=p.paragraph_format; pf.space_after=Pt(sa); pf.space_before=Pt(sb); pf.line_spacing=1.15
   if t: r=p.add_run(t); r.bold=b; r.italic=it; r.font.size=Pt(sz); r.font.name='Times New Roman'
   return p
-P('[OLIY TA’LIM MUASSASASI VA ILMIY KENGASH NOMI]',b=True)
-P('',sa=24)
+P('TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH',b=True,sa=18)
+P('DENOV TADBIRKORLIK VA PEDAGOGIKA UNIVERSITETI',b=True,sa=18)
 P('Qo‘lyozma huquqida',al='r',it=True)
 P('UO‘K: 336.71',al='r',it=True,sa=30)
 P('MAXMUDOV OMON TO‘XTAYEVICH',b=True,sa=24)
@@ -23,7 +23,7 @@ P('ilmiy darajasini olish uchun yozilgan',)
 P('DISSERTATSIYA',b=True,sz=16,sa=36,sb=8)
 p=P('',al='r'); r=p.add_run('Ilmiy rahbar: '); r.bold=True; r.font.size=Pt(14)
 r=p.add_run('Tulakov Ulug‘bek Toshmamatovich'); r.font.size=Pt(14)
-P('[ilmiy darajasi, unvoni]',al='r',it=True,sa=60)
+P('iqtisodiyot fanlari doktori, professor',al='r',sa=48)
 P('Toshkent – 2026')
 p=d.add_paragraph(); p.add_run().add_break(WD_BREAK.PAGE)
 P('MUNDARIJA',b=True,sa=12)
