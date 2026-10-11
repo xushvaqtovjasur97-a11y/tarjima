@@ -9,6 +9,7 @@ R={
 'HEN':('Hendrickson J.M. Regulation and Instability in U.S. Commercial Banking: A History of Crises. – Basingstoke: Palgrave Macmillan, 2011.','P.'),
 'TIAN':('Tian W. Regulatory Capital Requirement in Basel III // Commercial Banking Risk Management: Regulation in the Wake of the Financial Crisis / ed. by W. Tian. – New York: Palgrave Macmillan, 2017.','P.'),
 'IMF145':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025.',''),
+'IMF189':('International Monetary Fund. Republic of Uzbekistan: 2022 Article IV Consultation – Press Release; Staff Report; and Statement by the Executive Director for the Republic of Uzbekistan. IMF Country Report No. 22/189. – Washington, DC: IMF, 2022. – P. 30 (Table 7).',''),
 'IMF227':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Detailed Assessment of Observance – Basel Core Principles for Effective Banking Supervision. IMF Country Report No. 25/227. – Washington, DC: IMF, 2025.',''),
 'WBFSA':('World Bank. Republic of Uzbekistan: Financial Sector Assessment. – Washington, DC: World Bank, 2025.',''),
 'WBPAD':('World Bank. Uzbekistan Financial Sector Reform Project: Project Appraisal Document. Report No. PAD4468. – Washington, DC: World Bank, 2022.',''),
@@ -35,7 +36,7 @@ SYS='Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asos
 BANK=SYS+J(ref('SQBREP','-'),ref('MKREP','-'))
 A={
 'F1':SYS+J(ref('WBPAD','-'),ref('UZD','-')),
-'T1':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
+'T1':SYS+J(ref('BUL','-'),ref('IMF189','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-')),
 'F2':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
 'F3':SYS+J(ref('BUL','-'),ref('CBU22','-'),ref('CBU23','-'),ref('CBU24','-'),ref('CBU25','-'),ref('WBFSA','-')),
 'F4':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
