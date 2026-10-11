@@ -20,7 +20,7 @@ II bob bo‘yicha xulosalar — yozilgan
 
 **III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI**
 
-3.1-§. Moliyaviy barqarorlikni integral indeks asosida baholashning takomillashtirilgan metodikasi
+3.1-§. Moliyaviy barqarorlikni integral indeks asosida baholashning takomillashtirilgan metodikasi — yozilgan
 3.2-§. Tijorat banklari moliyaviy barqarorligini integral indeks asosida reyting baholash
 3.3-§. Tijorat banklari moliyaviy barqarorligiga ta’sir etuvchi omillarning ekonometrik tahlili
 III bob bo‘yicha xulosalar

@@ -98,6 +98,13 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - `paragraflar/I_bob_xulosalar.docx` – 3 bet, 8 band (`tools/build_xb1.py`).
 - `paragraflar/II_bob_xulosalar.docx` – 3 bet, 9 band (`tools/build_xb2.py`). Foydalanuvchi talabi: bob xulosalari 2–3 betdan oshmasin.
 
+## 3.1-§ (integral indeks metodikasi)
+
+- `paragraflar/3.1-paragraf.docx` – 16 bet, 4 rasm, 6 jadval, 37 snoska (`3.1-paragraf.src.md` → `tools/fn31.py` → `tools/build31.py`). Hisob-kitob: `manbalar/hisob_kitob/mbii.py` (14 ko‘rsatkich, chegaralar, vaznlar 0,25/0,30/0,20/0,15/0,10, uzluksiz ball, sinflar 3,25/2,5/1,75), `ind31.json` (valyuta ulushi, xarajat/daromad).
+- 2025 natija: SQB milliy 3,40 (I) → MHXS 2,94 (II); MKB 3,27 (I) → 2,62 (II). ΔMBII ning 83–84% i aktivlar sifati blokida.
+- Tuzatildi: 2021-yil milliy sof foyda soliqdan oldingi qiymat edi → SQB 998,2, MKB 38,4 (2.2, 2.3, II bob xulosalari yangilandi).
+- 3.2 uchun: boshqa banklar ma’lumotlari kerak (banklar saytidagi hisobotlar yoki cbu.uz).
+
 ## Ochiq savollar va keyingi rejalar (11.10.2026)
 
 1. Yakuniy reja (mundarija) tanlanishi kerak: `reja/REJA_yaxlit.docx` va keyingi yozilgan paragraflar nomlari farq qiladi (1.1, 1.3, 2.1, 2.2).
