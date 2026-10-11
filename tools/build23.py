@@ -110,7 +110,7 @@ sh.append(W.box(6.2,4.2,4.2,0.9,'Tafovut: 10–20 foiz',fill='FCE4D6',line='C000
 sh.append(W.box(12.3,4.2,4.3,0.9,'Tafovut: 2–3 foiz punkt',fill='FCE4D6',line='C00000',sz=20,bold=True))
 sh.append(W.box(0.1,5.3,16.5,0.6,'Ta’sir zanjir bo‘ylab kuchsizlanib boradi: aktivlar sifati → daromadlilik → kapital → likvidlik',fill=None,line=None,sz=20,italic=True))
 W.replace_placeholder(d,'{{FIG:1}}',W.group_run_xml(sh,16.7,6.0,'2.3.1-rasm'))
-rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[1228.3,588.9,911.7,1303.2,1880.1],BLUE),('MHXS',[857.0,633.7,856.2,1115.0,1543.8],ORANGE)],
+rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[998.2,588.9,911.7,1303.2,1880.1],BLUE),('MHXS',[857.0,633.7,856.2,1115.0,1543.8],ORANGE)],
   ytitle='mlrd so‘m',ymax=2000,major=500,label_fmt='#,##0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'2.3.2-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[3.6,2.7,2.9,3.4,4.5],BLUE),('MHXS',[4.5,5.6,4.0,4.7,6.0],ORANGE)],
@@ -125,7 +125,7 @@ rid=W.add_chart(d,W.scatter_chart([
   ('Muvofiqlik darajasi (1,0)',[2021,2025],[1,1],GREY,19050,'dash',None,None)],
   'Yillar','Koeffitsiyent',2020.5,2025.5,1,0,4,0.5,xfmt='0',yfmt='0.0',legend=True))
 W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,8.0,'2.3.5-rasm'))
-rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[51.4,21.3,41.1,-1703.8,160.8],GREEN),('MHXS',[5.1,10.4,-471.2,-961.3,42.1],ORANGE)],
+rid=W.add_chart(d,W.bar_chart(Y,[('Milliy hisobot',[38.4,21.3,41.1,-1703.8,160.8],GREEN),('MHXS',[5.1,10.4,-471.2,-961.3,42.1],ORANGE)],
   ytitle='mlrd so‘m',ymax=500,ymin=-2000,major=500,label_fmt='#,##0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,16.0,8.0,'2.3.6-rasm'))
 rid=W.add_chart(d,W.bar_chart(['Muammoli kreditlar ulushi','Kredit zaxiralari','NSFR','Jami aktivlar','CET1 monandligi','Xususiy kapital','Sof foyda'],

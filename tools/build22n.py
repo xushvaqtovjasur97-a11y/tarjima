@@ -106,7 +106,7 @@ rid=W.add_chart(d,W.bar_chart(Y,[('SQB: muammoli kreditlar',[3.8,2.8,2.2,2.8,2.5
   ('MK: muammoli kreditlar',[5.9,4.8,6.0,4.6,4.4],ORANGE),('MK: substandart kreditlar',[9.1,19.3,24.5,21.3,9.0],GOLD)],
   ytitle='Jami kreditlarga nisbatan, %',ymax=28,major=4,label_fmt='0.0',gap=50))
 W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,16.0,8.0,'2.2.6-rasm'))
-rid=W.add_chart(d,W.bar_chart(Y,[('«O‘zsanoatqurilishbank»',[17.1,7.6,11.0,13.9,17.2],BLUE),('«Mikrokreditbank»',[2.5,0.7,1.1,-45.5,3.5],ORANGE)],
+rid=W.add_chart(d,W.bar_chart(Y,[('«O‘zsanoatqurilishbank»',[13.9,7.6,11.0,13.9,17.2],BLUE),('«Mikrokreditbank»',[1.9,0.7,1.1,-45.5,3.5],ORANGE)],
   ytitle='%',ymax=20,ymin=-50,major=10,label_fmt='0.0',gap=70))
 W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,16.0,8.0,'2.2.8-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('SQB: rasmiy muammoli kreditlar',[3.8,2.8,2.2,2.8,2.5],LBLUE),('SQB: MHXS 9 bo‘yicha 3-bosqich',[6.2,7.4,4.8,5.9,7.5],DBLUE),
