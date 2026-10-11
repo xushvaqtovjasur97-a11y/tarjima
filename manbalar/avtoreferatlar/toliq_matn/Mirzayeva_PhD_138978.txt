@@ -1,0 +1,2925 @@
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ILMIY DARAJALAR BERUVCHI DSc.03/10.12.2019.I.16.01 RAQAMLI
+                    ILMIY KENGASH
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ “O‘ZBEKISTON IQTISODIYOTINI RIVOJLANTIRISHNING ILMIY
+  ASOSLARI VA MUAMMOLARI” ILMIY TADQIQOT MARKAZI
+
+
+
+
+             MIRZAYEVA MATLUBA G‘AYBULLA QIZI
+
+
+
+   XUSUSIY BANKLARNING KAPITALLASHUV DARAJASINI
+                 OSHIRISH YO‘LLARI
+
+
+
+                    08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+ Iqtisodiyot fanlari bo‘yicha falsafa doktori (Doctor of Philosophy) dissertatsiyasi
+                                 AVTOREFERATI
+
+
+
+
+                            Toshkent shahri – 2025-yil
+
+
+
+
+                                                                                       1
+                                                                          UDK: 330.142.222
+
+
+
+    Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati
+                                     mundarijasi
+
+     Оглавления автореферата дессертации доктора философии (PhD) по
+                         экономическим наукам
+
+      Contents of dessertation abstract of the Doctor of Philosophy (PhD) on
+                               Economical sciences
+
+
+
+Mirzayeva Matluba G‘aybulla qizi
+Xususiy banklarning kapitallashuv darajasini oshirish yo‘llari ................................3
+
+
+Мирзаева Матлуба Гайбулла кизи
+Пути повышения уровня капитализации частных банков................................29
+
+
+Mirzaeva Matluba Gaybulla kizi
+Ways to increase the level of capitalization of private banks..................................57
+
+
+Eʼlon qilingan ishlar ro‘yxati
+Список опубликованных работ
+List of published works……………………………………………………..….....61
+
+
+
+
+2
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ILMIY DARAJALAR BERUVCHI DSc.03/10.12.2019.I.16.01 RAQAMLI
+                    ILMIY KENGASH
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ “O‘ZBEKISTON IQTISODIYOTINI RIVOJLANTIRISHNING ILMIY
+  ASOSLARI VA MUAMMOLARI” ILMIY TADQIQOT MARKAZI
+
+
+
+
+             MIRZAYEVA MATLUBA G‘AYBULLA QIZI
+
+
+
+   XUSUSIY BANKLARNING KAPITALLASHUV DARAJASINI
+                 OSHIRISH YO‘LLARI
+
+
+
+                    08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+ Iqtisodiyot fanlari bo‘yicha falsafa doktori (Doctor of Philosophy) dissertatsiyasi
+                                 AVTOREFERATI
+
+
+
+
+                            Toshkent shahri – 2025-yil
+
+
+                                                                                       3
+     Falsafa doktori (PhD) dissertatsiyasi mavzusi                  Oliy    attestatsiya   komissiyasida
+В2025.1.PhD/Iqt2771 raqam bilan ro‘yxatga olingan.
+
+       Dissertatsiya Toshkent davlat iqtisodiyot universiteti huzuridagi “O‘zbekiston iqtisodiyotini
+rivojlantirishning ilmiy asoslari va muammolari” ilmiy tadqiqot markazida bajarilgan.
+       Dissertatsiya avtoreferati uch tilda (o‘zbek, rus, ingliz (rezyume)) Ilmiy kengash
+web-sahifasida (www.tsue.uz) va “Ziyonet” axborot-taʼlim portali (www.ziyonet.uz) manzillarida
+joylashtirilgan.
+
+      Ilmiy rahbar:                      Kalonov Muxiddin Baxritdinovich
+                                         iqtisodiyot fanlari doktori, professor
+
+      Rasmiy opponentlar:                Jumayev Nodir Xosiyatovich
+                                         iqtisodiyot fanlari doktori, professor
+                                         Alimardonov Ilhom Muzrabshohovich
+                                         iqtisodiyot fanlari doktori, professor
+
+      Yetakchi tashkilot:                “Aloqabank” ATB
+
+
+       Dissertatsiya himoyasi Toshkent davlat iqtisodiyot universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.03/30.01.2021.I.16.03 raqamli Ilmiy kengashning 2025-yil «_____» ______________ soat ______
+dagi majlisida bo‘lib o‘tadi. (Manzil: 100000, Toshkent shahar, Islom Karimov ko‘chasi, 49-uy.
+Tel.: (99871) 239-01-49; faks: (99871)2326992; e-mail: info@tsue.uz).
+      Dissertatsiya bilan Toshkent davlat iqtisodiyot universitetining Axborot-resurs markazida tanishish
+mumkin (____ raqami bilan ro‘yxatga olingan). Manzil: 100066, Toshkent shahri, Islom Karimov
+ko‘chasi, 49-uy. Tel.: (99871) 239-01-49; faks: (99871)232-69-92; e-mail: info@tsue.uz.
+      Dissertatsiya avtoreferati 2025-yil “_____” ____________ da tarqatildi.
+      (2025-yil “____” __________ dagi __________ raqamli reyestr bayonnomasi).
+
+
+
+
+                                                                                         S.U. Mexmonov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash
+                                                                raisi, i.f.d., professor
+
+                                                                                          U.V. Gafurov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash
+                                                                kotibi, i.f.d., professor
+
+                                                                                      S.K. Xudoyqulov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash
+                                                                qoshidagi ilmiy seminar raisi, i.f.d.,
+                                                                professor
+
+
+4
+                   KIRISH (falsafa doktori (PhD) dissertatsiyasi avtoreferati)
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahon iqtisodiyotida
+xususiy banklarning kapitallashuv darajasini oshirish moliyaviy tizim
+barqarorligini mustahkamlash va iqtisodiy o‘sishni rag‘batlantirishda muhim
+ahamiyat kasb etadi. Kapital bazasining kuchayishi banklarning moliyaviy
+bardoshliligini oshiradi, kredit berish imkoniyatlarini kengaytiradi va moliya
+bozorlaridagi tavakkalchilik darajasini pasaytiradi. Shu orqali xususiy sektor
+faoliyati faollashadi, yangi investitsiya loyihalari moliyalashtiriladi va umumiy
+iqtisodiy faoliyatda o‘sish kuzatiladi. Shuningdek, kapitallashuvning yuqori
+darajasi bank tizimidagi ishonchni mustahkamlab, global moliyaviy beqarorlikka
+nisbatan iqtisodiyotning barqarorligini ta’minlashda muhim omil bo‘ladi. Xususan,
+Jahon banki maʼlumotlariga asosan, “2020-yil oxiriga kelib dunyoning 1000 ta eng
+yirik banklariga tegishli birinchi darajali kapitalning umumiy kapitali 9,9 trln
+dollarni tashkil etdi, bu esa tarixdagi eng yuqori ko‘rsatkich bo‘lib, o‘tgan yilga
+nisbatan 12,7 %ga ko‘pdir. 1000 ta bank uchun 1-darajali minimal kapital ham 547
+million dollarga yetdi. Bu birinchi marta 500 million dollardan oshdi va COVID-
+19 pandemiyasi sharoitida yuzaga kelgan qiyinchiliklarga qaramay, global bank
+sektori iqtisodiy buxronni yengish uchun kuchli pozitsiyada ekanligini namoyish
+etadi” 1 . Tijorat banklari, ayniqsa, xususiy banklar kapitallashuv darajasini
+taʼminlashda ularning joriy likvidliligini yuqori likvidli qimmatli qog‘ozlarga
+qilingan investitsiyalar va passivlarning barqarorligi hisobiga taʼminlash hamda
+regulyativ kapitalning yetarliligiga qo‘yiladigan talablarni oshirish muhim
+o‘rin tutmoqda.
+      Hozirgi kunda jahonda xususiy banklarning kapitallashuv darajasini oshirish
+bo‘yicha olib borilayotgan ilmiy tadqiqotlar asosan moliyaviy barqarorlikni
+ta’minlash, tavakkalchilikni boshqarishning samarador modellarini ishlab chiqish,
+kapital talablari me’yorlarini optimallashtirish hamda banklarning kredit faoliyati
+va iqtisodiy o‘sish o‘rtasidagi o‘zaro bog‘liqlikni chuqur tahlil qilishga qaratilgan.
+Shuningdek, tadqiqotlarda Bazel me’yorlari (ayniqsa, Bazel III va Bazel IV)
+doirasida kapitalga bo‘lgan talablarning taʼsirini baholash, banklar kapital
+strukturasining dinamikasi va makroiqtisodiy muhitga moslashish jarayonlarini
+o‘rganish, shuningdek, raqamli banklashuv va moliyaviy innovatsiyalar sharoitida
+kapitallashuvning yangi mexanizmlarini ishlab chiqish ustuvor yo‘nalish sifatida
+namoyon bo‘lmoqda.
+      O‘zbekistonda xususiy banklar kapitallashuv darajasini taʼminlash va
+barqaror manbalar hisobiga muntazam oshirib borish muhim masalalardan biri
+bo‘lib qolmoqda. Xususan, banklarning oddiy aksiyalarini fond bozorida erkin
+muomalasining mavjud emasligi, banklar kapitalida davlat ulushining yuqoriligi,
+umumiy kapital tarkibida emission daromadning deyarli mavjud emasligi, bank
+aksiyalariga to‘lanadigan divedend miqdorining juda pastligi, depozit bazasining
+zaifligi, muammoli kreditlar ulushining ortish tendensiyasiga egaligi kabi omillar
+banklarning kapitallashuv darajasini taʼminlashga va oshirishga salbiy taʼsir
+
+1
+    http://www.worldbank.org/
+
+                                                                                    5
+etmoqda. Xususan, “bank tizimini isloh qilishni chuqurlashtirish va barqarorligini
+taʼminlash, banklarning kapitallashuv darajasi va depozit bazasini oshirish,
+ularning moliyaviy barqarorligi va ishonchliligini mustahkamlash” 2 muhim
+yo‘nalishlardan biri sifatida belgilab berilgan. Ushbu vazifalarni yechimini
+topishda mazkur yo‘nalishda ilmiy tadqiqotlarni amalga oshirishni talab etmoqda.
+      O‘zbekiston Respublikasi Prezidentining 2022-yil 28-yanvardagi PF–60-son
+“2022–2026-yillarga mo‘ljallangan Yangi O‘zbekiston Taraqqiyot strategiyasi
+to‘g‘risida”, 2021-yil 3-fevraldagi PF–6155-son “2017–2021-yillarda O‘zbekiston
+Respublikasini rivojlantirishning beshta ustuvor yo‘nalishi bo‘yicha Harakatlar
+strategiyasini “Yoshlarni qo‘llab-quvvatlash va aholi salomatligini mustahkmlash
+yili”da amalga oshirishga oid davlat Dasturi to‘g‘risida”, 2020-yil 12-maydagi
+PF–5992-son “2020–2025-yillarga mo‘ljallangan O‘zbekiston Respublikasining
+bank tizimini isloh qilish strategiyasi to‘g‘risida”, 2017-yil 2-sentabrdagi PF–5177-
+son “Valyuta siyosatini liberallashtirish bo‘yicha birinchi navbatdagi chora-
+tadbirlar to‘g‘risida”gi farmonlari, 2017-yil 12-sentabrdagi PQ–3270-son
+“Respublika bank tizimini yanada rivojlantirish va barqarorligini oshirish chora-
+tadbirlari to‘g‘risida”gi Qarori hamda boshqa ushbu sohadagi meʼyoriy-huquqiy
+hujjatlarda belgilangan vazifalarni amalga oshirishga mazkur dissertatsiya
+tadqiqoti muayyan darajada xizmat qiladi.
+      Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yo‘nalishlariga mosligi. Mazkur dissertatsiya tadqiqoti respublika fan va
+texnologiyalarini rivojlantirishning I. “Demokratik va huquqiy jamiyatni
+maʼnaviy-axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni
+shakllantirish” ustuvor yo‘nalishi doirasida bajarilgan.
+      Muammoning o‘rganilganlik darajasi. Xususiy banklar kapitalining
+mohiyati, tarkibi uning yetarliligi va kapitallashuv darajasini takomillashtirish
+masalalari xorijlik klassik va zamonaviy iqtisodiy olimlar – A.Smit, K.Marks,
+I.Traxtenberg, S.Lukash, V.Kiselyev, O.Lavrushin, J.Matuk, Dj.Barlton, D.Mak-
+Notton, E.Ridlarning ilmiy ishlarida chuqur tadqiq qilingan 3 . O‘zbekistonlik
+iqtisodchi olimlardan Sh.Abdullayeva, T.Karaliyev, A.Omonov, B.Babayev,
+U.Ortiqov, U.Rozukulov, M.Egamova, R.Qurbonovlarning ilmiy ishlarida xususiy
+bank kapitalining alohida jihatlari tadqiq qilingan4.
+2
+  O‘zbekiston Respublikasi Prezidentining 2017-yil 7-fevraldagi “O‘zbekiston Respublikasini yanada rivojlantirish
+bo‘yicha Harakatlar strategiyasi to‘g‘risida”gi PF–4947-sonli farmoniga 1-ilova. //O‘zbekiston Respublikasi qonun
+hujjatlari to‘plami. – Toshkent, 2017. – № 6 (766). – 32-b.
+3
+  Смит А. Исследование о природе и причинах богатств народа. – Петрозаводск.: 1993. - С.271. Маркс К.
+Капитал. Критика политической экономики. - ТЗ КН 2 М.: 1989. – С.442. Трахтенберг И. Денежное
+обращение и кредит при капитализме. – Москва.: 1962.- С.547. McLeod .The Theory of credit. London.-1897y
+С.Н. Лукаш, А.А. Малютина «Банковская энциклопедия». Днепропетровкс 1994. С-24 Банковское дело под
+ред. Проф. И.О.Лаврушина М- «Ф и С» 2001г. С-74. В.В Киселев. «Управление банковским капиталом»
+Москва «Экономика» 1997. С-18. Жан Матук. «Финансовые системы Франции и других стран» 1том
+перевод с англ. Москва «Финстатикформ» 1994г С-25. Э.Рид, Котлер, Э.Гилл ва Р.Смит Коммерческие
+банки. перевод с анг. М. «Прогресс» 1933г. С-189 Борисов А.Б. Большой экономический словарь. Издание
+второе, Москва Книжный мир 2006 г С-299. Крис Дж Барлтон ва Д Мак-Нотон «Банковские учреждения в
+развивающихся странах», 2 том. Всемирный банк Вашингтон, Д.С 1992г. С-101.
+4
+  Sh.Abdullayeva, T.Karaliyev va U.Ortikov. «Bank resurslari va ularni boshqarish» Toshkent. “Iqtisod-Moliya”,
+2009-yil. B-48-49. Бабаев Б.Б. Вопросы формирование ресурсов коммерческих банков и их эффектывное
+использования. Автореферат диссертации на соиск уч. степ. к.э.н. –Ташкент: БФА. 2002.-21 с.; Omonov A.A.
+Bank kapitalini samarali boshqarish masalalari. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan
+
+6
+     Dissertatsiya mavzusining dissertatsiya bajarilgan oliy taʼlim
+muassasasining ilmiy-tadqiqot ishlari bilan bog‘liqligi. Dissertatsiya tadqiqoti
+Toshkent davlat iqtisodiyot universiteti ilmiy-tadqiqot ishlari rejasiga muvofiq
+“Iqtisodiyotni modernizatsiya qilish sharoitida moliya, bank va hisob tizimini
+muvofiqlashtirishning ilmiy asoslari” mavzusidagi ilmiy loyiha doirasida
+bajarilgan.
+     Tadqiqotning maqsadi bo‘lib O‘zbekiston Respublikasi xususiy banklari
+kapitallashuv darajasini oshirishga qaratilgan ilmiy taklif va amaliy tavsiyalar
+ishlab chiqish hisoblanadi.
+     Tadqiqotning vazifalari:
+     bank kapitallashuvining bozor iqtisodiyotiga xos bo‘lgan manbalari va
+barqarorligining iqtisodiy ahamiyatini ilmiy-nazariy jihatdan tadqiq etish;
+     xususiy banklar kapitallashuv darajasini oshirishning nazariy va metodologik
+asoslarini ilmiy jihatdan o‘rganish;
+     xususiy bank kapitalini shakllantirish va kapitallashuv darajasini oshirishni
+taʼminlashning xorijiy tajribalarini o‘rganish, ularning ijobiy jihatlarini
+mamlakatimiz bank faoliyatida qo‘llash yuzasidan ilmiy taklif va amaliy tavsiyalar
+shakllantirish;
+     xususiy banklar kapitallashuv darajasini oshirish bilan bog‘liq muammolarni
+aniqlash va ularning yechimlari yuzasidan tavsiyalar ishlab chiqish;
+     mamlakatimiz xususiy banklar kapitallashuv darajasini oshirish borasida
+ilmiy takliflar, amaliy tavsiyalar va tegishli xulosalar ishlab chiqish.
+     Tadqiqotning obyekti bo‘lib O‘zbekiston Respublikasi xususiy banklari
+hisoblanadi.
+     Tadqiqotning predmetini xususiy banklar kapitallashuv darajasini oshirish
+jarayonida sodir bo‘ladigan iqtisodiy munosabatlar tashkil etadi.
+     Tadqiqotning usullari. Tadqiqot ishida moliyaviy tahlilning guruhlash,
+tarkibiy, qiyosiy, omilli tahlil va moliyaviy koeffitsiyentlar usullaridan
+foydalanilgan.
+     Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+     qo‘shimcha kapitalning asosiy tarkibi hisoblangan uzoq muddatli subordinar
+qarzni chiqarish amaliyotini “yashil subordinar obligatsiyalar” va “fintex asosidagi
+tokenlashtirilgan subordinar moliyalashtirish vositalari” hisobiga kengaytirish
+orqali xususiy banklar kapitallashuv darajasini (3%≤KDXB≤5%) oshirish hamda
+resurs bazasini mustahkamlashga asoslangan;
+     xususiy banklarning o‘z mablag‘lari manbalari tarkibida aksiyalarning
+an’anaviy chiqarilishi bilan birga innovatsion moliyaviy instrumentlar –
+konvertatsiya qilinadigan obligatsiyalar, steykling (staked) aktivlar orqali
+
+dissertatsiya avtoreferati –Toshkent: DJQA, 2005. -21 b.; Ortiqov U.D. Bank resurslari va ularni boshqarish. Iqtisod
+fanlari nomzodi ilmiy darajasini olish uchun yozilgan dissertatsiya avtoreferati –Toshkent: BMA, 2008. -20 b.;
+Розукулов У.У. Анализ надежности коммерческих банков и пути укрепления их устойчивости. Автореферат
+диссертации на соиск. учен. степ. к.э.н. –Ташкент: БФА, 2002. -22 с. Egamova M.E. “Tijorat banklari
+kapitallashuv darajasini oshirishda daromadning roli”. Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy
+darajasini olish uchun yozilgan avtoreferati Toshkent: TMI, 2019.-56 b. Qurbonov R.B. “Xususiy banklarning resurs
+bazasi va uni mustahkamlash masalalari” Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy darajasini olish
+uchun yozilgan avtoreferati Toshkent: TMI, 2012.-56 b.
+
+                                                                                                                  7
+mablag‘ topish usullarini diversifikatsiya qilish asosida emission daromad hajmini
+oshirish hisobiga banklarning kapitallashuv darajasini 25 foizgacha oshirish
+imkoni aniqlangan;
+      xususiy banklarning qo‘shimcha kapitali tarkibida mustaqil balansga ega
+bo‘lmagan sho‘ba korxonalariga qilingan moliyaviy qo‘yilmalar hajmini sho‘ba
+korxonalarining raqamli bank xizmatlari va fintex startaplar bilan
+integratsiyalashgan yangi formatda rivojlantirish orqali kapitallashuv darajasini
+(5%≤KDXB≤10%) oshirish chegaralari asoslangan;
+      xususiy banklar foydasini reinvestitsiya qilishda “smart reinvestitsiya
+strategiyalari”, ya’ni o‘ziga qaytariladigan sarmoyali loyihalarga foydani qayta
+tiklash asosida moliyaviy oqimlarni maqsadli yo‘naltirish vositasida joriy
+moliyaviy yil foydasining 30 foizini bank ustav kapitaliga yo‘naltirish orqali bank
+kapitallashuv darajasini oshirish taklifi asoslangan.
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      xususiy banklar kapitallashuv darajasini oshirishni mualliflik yondashuvi
+shakllantirilgan;
+      muomalaga uzoq muddatli subordinar qarzlarini chiqarish orqali tijorat
+banklari kapitallashuv darajasini oshirish va uning barqarorligini taʼminlash taklifi
+asoslangan;
+      xususiy banklar kapitalini oddiy aksiyalarni doimiy emissiya qilish hisobiga
+ko‘paytirish orqali ularning kapitallashuv darajasini oshirish taklifi shakllantirilgan;
+      xususiy banklarning fond bozoridagi ishtirokini faollashtirish orqali ularning
+o‘z mablag‘lari tarkibida emission daromad ulushini oshirish orqali bank
+tomonidan qo‘shimcha ravishda foyda olishga erishishi mumkinligi asoslangan;
+      xorijiy davlatlar amaliyotini tizimli tahlil qilish asosida mamlakatimizda
+xususiy banklarning kapitallashuv darajasini oshirishing mavjud muammolarini
+yechimlari bo‘yicha tavsiyalar asoslangan.
+      Tadqiqot natijalarining ishonchliligi xususiy banklar kapitallashuv
+darajasini oshirishning tadqiq qilishni nazariy va amaliy muammolariga
+bag‘ishlangan mahalliy va xorijiy olimlar hamda mutaxassislarning ilmiy
+qarashlarini tadqiq qilinganligi, O‘zbekiston Respublikasi Milliy statistika
+qo‘mitasi, O‘zbekiston Respublikasi Markaziy banki, mamlakatimiz xususiy
+banklari hisobot va maʼlumotlarini tahlili bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot doirasida
+ishlab chiqilgan ilmiy taklif va amaliy tavsiyalar xususiy banklar kapitallashuv
+darajasini oshirish yuzasidan ilmiy apparatni boyitishi bilan belgilanadi. Xususiy
+banklar kapitallashuv darajasini oshirishda kapitalning yetarliligini aniqlashda,
+kapital yetarliligi borasida tegishli usullar va modellarni ishlab chiqishda,
+shuningdek, bu borada amalga oshirilayotgan tadqiqot ishlarida foydalanish
+mumkinligi bilan izohlanadi.
+      Tadqiqotning amaliy ahamiyati xususiy banklari kapitallashuv darajasini
+oshirish, bular kapitali barqarorligini oshirish va kapital tarkibini o‘rganish
+amaliyotida, shuningdek, mazkur yo‘nalishda normativ-huquqiy hujjatlar
+loyihalarini ishlab chiqishda foydalanish mumkinligi bilan izohlanadi.
+
+8
+      Tadqiqot natijalarining joriy qilinishi. Xususiy banklar kapitallashuv
+darajasini oshirish bo‘yicha olingan ilmiy natijalar asosida:
+      qo‘shimcha kapitalning asosiy tarkibi hisoblangan uzoq muddatli subordinar
+qarzni chiqarish amaliyotini “yashil subordinar obligatsiyalar” va “fintex asosidagi
+tokenlashtirilgan subordinar moliyalashtirish vositalari” hisobiga kengaytirish
+orqali xususiy banklar kapitallashuv darajasini (3%≤KDXB≤5%) oshirish hamda
+resurs bazasini mustahkamlash taklifi “Davr bank” XATB kredit siyosatiga
+kiritilgan (“Davr bank” XATBning             2024-yil 25-sentabrdagi 21425-sonli
+maʼlumotnomasi). Mazkur taklifni amaliyotga joriy etilishi bankning qo‘shimcha
+kapitali hajmini 15,65 mlrd. so‘mga oshishiga xizmat qilgan;
+      xususiy banklarning o‘z mablag‘lari manbalari tarkibida aksiyalarning
+an’anaviy chiqarilishi bilan birga innovatsion moliyaviy instrumentlar –
+konvertatsiya qilinadigan obligatsiyalar, steykling (staked) aktivlar orqali
+mablag‘ topish usullarini diversifikatsiya qilish asosida emission daromad hajmini
+oshirish hisobiga banklarning kapitallashuv darajasini 25 foizgacha oshirish taklifi
+XAB “Trastbank” va ATB “Mikrokreditbank“ kredit hamda hisob siyosatida o‘z
+aksini topgan (XAB “Trastbank”ning 2024-yil 24-avgustdagi 01-04/2805-sonli
+hamda “Davr bank” XATBning                  2024-yil 25-sentabrdagi 21425-sonli
+maʼlumotnomalari). Mazkur taklifni amaliyotga joriy etilishi natijasida bankning
+aksiyalari, asosan oddiy aksiyalari bozor bahosini 15-17 foizga oshirishga
+erishilgan;
+      xususiy banklarning qo‘shimcha kapitali tarkibida mustaqil balansga ega
+bo‘lmagan sho‘ba korxonalariga qilingan moliyaviy qo‘yilmalar hajmini sho‘ba
+korxonalarining raqamli bank xizmatlari va fintex startaplar bilan
+integratsiyalashgan yangi formatda rivojlantirish orqali kapitallashuv darajasini
+(5%≤KDXB≤10%) oshirish chegaralari asoslangan taklifi XAB “Trastbank”
+amaliyotiga joriy qilingan (XAB “Trastbank”ning              2024-yil 24-avgustdagi
+01-04/2805-sonli maʼlumotnomasi). Ushbu taklifning joriy etilishi natijasida bank
+qoshida konsolidatsiyalashgan 2 ta “Trast Muamalat” MCHJ va “Trast Leasing”
+MCHJ sho‘ba korxonalarini tashkil etilib, ularga 2023-yilda 39 mlrd. so‘mlik
+moliyaviy mablag‘larni yo‘naltirilishi hisobidan bankning qo‘shimcha kapitalini
+21,2 foiz bo‘lishiga erishilgan;
+      xususiy banklar foydasini reinvestitsiya qilishda “smart reinvestitsiya
+strategiyalari”, ya’ni o‘ziga qaytariladigan sarmoyali loyihalarga foydani qayta
+tiklash asosida moliyaviy oqimlarni maqsadli yo‘naltirish vositasida joriy
+moliyaviy yil foydasining 30 foizini bank ustav kapitaliga yo‘naltirish orqali bank
+kapitallashuv darajasini oshirish taklifi XAB “Trastbank” va “Davr bank” XATB
+hisob siyosatida o‘z aksini topgan (XAB “Trastbank”ning 2024-yil 7-avgustdagi
+01-04/2805-sonli hamda “Davr bank” XATBning 2024-yil 25-sentabrdagi 21245-
+sonli maʼlumotnomalari). Ushbu taklifning joriy etilishi natijasida banklarning
+kapitali mos ravishda 2024-yilning 1-yanvar holatiga 2043,8 mlrd. so‘m hamda
+1 006 mlrd. so‘mni tashkil etgan.
+      Tadqiqot natijalarining aprobatsiyasi. Mazkur tadqiqot natijalari 9 ta,
+jumladan, 5 ta respublika va 4 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+                                                                                  9
+     Tadqiqot natijalarining eʼlon qilinganligi. Dissertatsiya mavzusi bo‘yicha
+jami 19 ta ilmiy ish, shu jumladan, O‘zbekiston Respublikasi Oliy attestatsiya
+komissiyasining doktorlik dissertatsiyalari asosiy ilmiy natijalarini chop etish
+bo‘yicha tavsiya etgan ilmiy nashrlarda 9 ta ilmiy maqola, shundan 3 tasi
+respublika va 6 tasi xorijiy jurnallarda nashr etilgan.
+     Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya ishi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatini o‘z ichiga olgan holda 113 betdan
+iborat.
+
+                 DISSERTATSIYANING ASOSIY MAZMUNI
+      Kirish qismida tadqiqotning dolzarbligi va zaruriyati asoslangan,
+tadqiqotning maqsadi va vazifalari, obyekti va predmeti tavsiflangan, respublika
+fan va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga mosligi ko‘rsatilgan,
+ilmiy yangiligi va amaliy natijalari bayon qilinib, olingan natijalarning ilmiy va
+amaliy ahamiyati ochib berilgan, tadqiqot natijalarining amaliyotga joriy qilinishi,
+nashr etilgan ishlar va dissertatsiya tuzilishi bo‘yicha maʼlumotlar keltirilgan.
+      Dissertatsiya ishining “Xususiy banklarning kapitallashuv darajasini
+oshirishning iqtisodiy nazariy asoslari va xorij tajribasi” nomli birinchi bobida
+muallif bank kapitallashuv darajasini oshirishning nazariy asoslari va iqtisodiy
+mohiyati, bank kapitali manbalari va uni kapitallashuv darajasini oshirishning
+ahamiyati va xorij tajribasi hamda bank kapitali barqarorligini oshirish to‘g‘risidagi
+nazariy qarashlarni o‘rganib chiqqan hamda xususiy banklari kapitallashuv darajasini
+oshirishni taʼminlashning iqtisodiy yo‘nalishlari eʼtirof etilgan.
+      Xususiy banklar o‘z faoliyatini yuritishida birinchi navbatda yetarli darajadagi
+sarmoyaga ega bo‘lishi talab etiladi, bu esa yetarli darajada kapitalga egalik va
+barqaror daromad bazasiz amalga oshirishni tasavvur qilib bo‘lmaydi. Shu
+sababdan ham xususiy banklar kapitali bankni tashkil etish, ochish jarayonida,
+asosiy faoliyatni yuritish jarayonida Markaziy bank tomonidan belgilangan
+iqtisodiy normativ meʼyorlarni bajarishida eng muhim manbaa va bank faoliyatida
+yuzaga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda “himoya yostiqchasi”
+vazifasini bajaruvchi asosiy moliyaviy manba bo‘lib xizmat qiladi. Hozirgi
+sharoitda xususiy banklar kapitallashuv darajasini oshirish masalasi eng dolzarb
+muammolardan biri bo‘lib qolmoqda.
+      Shunday ekan bank kapitalining mohiyatini qiyosiy tadqiq qilish, uni barqaror
+manbalar hisobidan shakllantirish va darajasini oshirish masalasi doimo dolzarb
+vazifalardan biri bo‘lib qoladi.
+      Bugungi kunda ham xususiy banklarning kapitallashuv darajasini oshirishning
+mohiyati yuzasidan iqtisodiy adabiyotlarda turlicha talqinlarning mavjudligini
+inobatga olgan holda ushbu iqtisodiy tushuncha to‘g‘risida to‘liqroq to‘xtalib
+o‘tmoqchimiz.
+      Xalqaro bank amaliyoti tajribasi shuni ko‘rsatmoqdaki, bozor munosabatlari
+sharoitida tijorat banklari kapitalining samaradorligini va uning yetarliligini
+taʼminlamasdan turib, banklarning to‘lov qobiliyatini mustahkamlash va aholining
+bank tizimiga bo‘lgan ishonchini qozonish mushkul vazifalardan biri hisoblanadi.
+
+10
+Maʼlumki, bank kapitalining mavjudligi bankni tashkil topishi va faoliyat
+ko‘rsatishi uchun eng asosiy zaruriyatdan biridir.
+      Iqtisodiy islohotlar va bozor munosabatlarining samaradorligini taʼminlashda
+xususiy banklar kapitalini shakllantirish va uni darajasini doimiy oshirib borish
+orqali erishish muhim o‘rin tutadi.
+      Bizning nazarimizda, xususiy banklarning kapitallashuv darajasini
+oshirishning iqtisodiy mohiyati xususida so‘z yuritishdan oldin, “xususiy bank”
+atamasini aniqlab olish juda muhim. Xususiy bank bu – alohida shaxs yoki
+cheklangan umumiy sheriklar tomonidan tashkil etiladigan bank hisoblanadi.
+O‘zbekiston bank amaliyotida, xususiy banklar ustav fondida (ustav kapitalida)
+muassislar (ishtirokchilar) bo‘lgan jismoniy shaxslarning ulushi kamida ellik foizni
+tashkil etishi lozim bo‘lgan banklar va boshqa kredit tashkilotlari, sug‘urta
+tashkilotlari, shuningdek, faqat moliyaviy xizmatlar ko‘rsatuvchi o‘zga yuridik
+shaxslardir5. Bunday banklar korporatsiya ko‘rinishida bo‘lmaydi. Bu banklarning
+tarixi Shvetsariya va Buyuk Britaniyaga borib taqaladi.
+      Tarixga nazar soladigan bo‘lsak, Yevropada ko‘plab xususiy banklar bor edi,
+lekin ularning aksariyat qismi korporatsiyaga aylantirilgan, shuning uchun ham bu
+termin (atama) o‘z kuchini yo‘qotmoqda. Bugungi kunda “xususiy bank” atamasi
+deganda, yuqori foydaga ega alohida shaxslar (high-net-worth individuals (HNWI)
+yoki private banking) uchun moliyaviy maslahatlar va xizmatlar ko‘rsatishga
+ixtisoslashgan moliyaviy institutlar tushuniladi6.
+      Bank kapitallashuv darajasini oshirishning nazariy asoslarini bir qator olimlar
+tadqiq etgan holda turli qarashlar va nazariyalarni bayon etganlar. Jumladan, Bank
+kapitalining iqtisodiy mohiyati to‘g‘risida iqtisodchi olimlar tomonidan turli xil
+fikrlar bildirilgan. Jumladan, professor V.M.Usoskin bank kapitaliga bank
+moliyaviy resurslarining muhim va ajralmas tarkibiy qismi sifatida qaraydi 7.
+      Mavjud iqtisodiy adabiyotlarda “Kapitallashuv darajasi” tushunchasi, uni
+oshirish masalalari xorijlik olimlar, mutaxassislar tomonidan o‘rganilgan va
+tegishli taʼriflar berilgan.
+      M.E.Egamova o‘zining tadqiqotida “Tijorat banklari faoliyatini sarmoyasiz,
+yaʼni yetarli darajada kapitallashuvsiz tasavvur qilib bo‘lmaydi. Shu bois tijorat
+banklari kapitali dastlab banklarni ochish jarayonida, keyinchalik esa Markaziy
+bankning iqtisodiy normativlarini bajarishda asosiy mezon va bank faoliyatida
+kutilmaganda vujudga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda “himoya
+yostiqchasi” sifatida muhim moliyaviy manba bo‘lib xizmat qiladi” - degan
+tushunchani bergan8.
+
+
+5
+  O‘zbekiston Respublikasining 2012-yil 17-dekabrdagi “Xususiy banklar va moliya institutlari hamda ularni
+faoliyatini kafolatlash to‘g‘risida”gi Qonuni.
+6
+  Youssef Cassis, Philip Cottrell // The World of Private Banking // Ashgate Publishing, Ltd., 2009 – pp 32
+7
+  Усоскин В.М. Современный коммерческий банк:Управление и операции.-М: «Вазар-Ферро»,1994.С.92.
+8
+  Egamova M.E. Tijorat banklari kapitallashuv darajasini oshirishda daromadning roli. Iqtisodiyot bo‘yicha falsafa
+doktori (Doctor of Philosophy). Dis. avtoreferati. – T.: TMI, 2019. – 28b.
+
+                                                                                                               11
+      A.S.Klimov tadqiqotlarida “kapitallashuv” tushunchasiga, “kredit tashkiloti
+kapitalining bozor qiymati haqida aksiyalar sonining ularning bozor qiymatiga
+ko‘paytmasi sifatida”, deb taʼrif berilgan9.
+      Tijorat banklarining kapitallashuv darajasini oshirish va moliyaviy
+barqarorligini mustahkamlash mamlakat bank tizimining barqarorligini
+taʼminlashning zaruriy sharti hisoblanadi 10 . Bizga maʼlumki, tijorat banklari
+kapitali bank aksiyadorlari mablag‘lari va boshqa manbalar hisobidan
+shakllantiriladi11.
+      Mamlakatimiz iqtisodchi olimlaridan professor Sh.Abdullayeva va
+A.Omonovlar bank kapitaliga quyidagicha taʼrif berishgan: “Tijorat banklarining
+kapitali barqaror manba bo‘lib, bankning operatsion jarayonda kutilmaganda
+yuzaga keladigan zararlarni qoplash imkoniyatini beruvchi o‘ziga xos himoya
+vositasidir”12.
+      Professor V.M.Usoskin bank kapitaliga bank moliyaviy resurslarining muhim
+va ajralmas tarkibiy qism sifatida qaraydi13. Ko‘rinib turibdiki, bu yerda kapital
+bank resurslarining muhim va tarkibiy qismi sifatida qaralishi natijasida asosiy
+vazifalari (himoya, tezkor va tartibga solish) eʼtibordan chetda qolgan.
+      Rossiya olimlaridan Lavrushin O.I. “Bank ishi” kitobida “tijorat bank kapitali
+shakllanishi jihatidan, o‘z kapitali va jalb qilingan mablag‘larga bo‘linadi”14, deb
+aytib o‘tgan. Maslenchenkov Yu.S. “Finansovoy menejment v kommercheskom
+banke” kitobida: “bank kapitalini o‘z va jalb qilingan mablag‘lardan tashkil
+topadi 15 ”, deb o‘rganadi. Bularning ishlaridan ko‘rishimiz mumkinki, bu
+iqtisodchi-olimlar resurslarning tarkibiy shakllanishiga ko‘p eʼtibor berib, bank
+kapitalini faqat ikki guruhga bo‘lib o‘rganganlar.
+      Qisqa qilib aytganda, xususiy banklarning kapitali – bu bankka tegishli
+bo‘lgan mablag‘lar bo‘lib, ularga bank kapitali, taqsimlanmagan foyda, kelgusi
+davr daromadlari va hisob-kitoblar tizimidagi o‘z mablag‘lar kiradi. Demak,
+bankning o‘z mablag‘lari deb – tijorat faoliyatidagi moliyaviy barqarorligini
+taʼminlash uchun hosil qilingan turli fondlar hamda o‘tgan va joriy yil faoliyatidan
+olingan daromadni tushunish kerak.
+      Bankning o‘z mablag‘lari xususiy banklar faoliyatida muhim ahamiyat kasb
+etib, uning tarkibiga quyidagilar kiradi:
+      ustav kapitali;
+      zaxira kapitali;
+      maxsus fondlar;
+
+9
+  Климов А.С. Капитализация коммерческих банков: мировая практика и ее использование российскими
+банковскими структурами: диссертация кандидата экономических наук: Москва, 2008. -180 с.
+10
+   Kurbanov, R.B. (2021). Improving the organization of the resource base of private banks of the republic of
+Uzbekistan. SAARJ Journal on Banking & Insurance Research, 10(5), 41-45.
+11
+   Bakhtiyarovich, K.R. (2020). Analysis of Financial Performance of Private Banks in Uzbekistan. International
+Journal of Psychosocial Rehabilitation, 24(05).
+12
+   Abdullayeva Sh. va Omonov A. “Tijorat banklarining kapitali va uni boshqarish” Monografiya T.: “Iqtisod-
+moliya”. B-110. 2007-yil.
+13
+   Усоскин В.М. Современный коммерческий банк: Управление и операции. –M.: “Vazar-Ferro”, 1994. C.92.
+14
+   Лаврушин О.И. Банкоское дело. Москва, «Финансы и Статистика», 2016 г. – С648.
+15
+   Масленников Ю.С. Финансовый менежмент в коммерческом банке. Москва, «Перспектива» 1996 г. S-255
+
+12
+      moddiy rag‘batlantirish fondi;
+      taqsimlanmagan foyda16.
+      Bugungi kunda 100 dan ortiq mamlakatlarning, jumladan, respublikamiz
+tijorat banklari kapitalining tarkibini shakllantirishda va uning yetarlilik darajasini
+belgilashda Xalqaro Bazel qo‘mitasi tomonidan ishlab chiqilgan standartlardan
+asos sifatida foydalanilmoqda.
+      Bazel qo‘mitasi faoliyatining asosiy yo‘nalishi bank tizimi uchun o‘z
+kapitaliga sifat va miqdor jihatdan yetarli talablarni o‘rnatish yo‘li bilan
+mustahkam faoliyatni taʼminlashdan iboratdir. Bu o‘rinda asosiy hujjat bo‘lib,
+1988-yilda Markaziy bank vakillari tomonidan ishlab chiqilgan va 1993-yilda
+amaliyotga joriy qilingan kapital va risk bo‘yicha Bazel-I kelishuvi hisoblanib,
+unda kapital yetarliligi meʼyorini hisoblash uslubi keltirilgan.
+      1988-yilda Xalqaro Bazel qo‘mitasi tomonidan bank kapitali yetarliligiga doir
+kelishuv (Bazel I) ishlab chiqildi va unda kapital yetarliligini hisoblash maqsadida
+regulyativ kapital (umumiy kapital) tushunchasi amaliyotga joriy qilindi.
+Regulyativ kapital asosiy va qo‘shimcha kapitaldan tashkil topib, bank faoliyatini
+boshqarish va iqtisodiy meʼyorlarning hisob-kitobini o‘tkazish maqsadida
+hisoblash yo‘li bilan aniqlanadigan bank kapitalidir.
+      Bazel-II talablarini joriy etish bo‘yicha Markaziy bank asosiy rol o‘ynaydi.
+Yangi talablar Markaziy bank tomonidan belgilangan meʼyoriy hujjatlarda, risk -
+menejment usullarida va texnologiyalarda ham aks ettirilishi lozim.
+      Rivojlangan davlatlar bank amaliyoti tajribalarini o‘rganish va tadqiq qilish
+natijasida tijorat banklari kapitali manbalarini shakllantirish orqali bank kapitali
+barqarorligini taʼminlashda uning manbalari va ulushi qanday bo‘lishini ilmiy
+jihatdan asoslashga harakat qildik.
+      Xalqaro bank amaliyotida tijorat banklari kapitali manbalari turli-tuman
+bo‘lib, bozor instrumentlaridan samarali foydalanadi. Ularning tajribalarini ijobiy
+jihatlari sifatida bank kapitali tarkibidagi taqsimlanmagan foyda, emission
+daromad va uzoq muddatli subordinar majburiyatlarni mamlakatimiz tijorat
+banklari faoliyatida joriy etilishi maqsadga muvofiq, deb hisoblaymiz.
+      Dissertatsiya ishining “Xususiy banklar kapitallashuv darajasini oshirishni
+taʼminlashning asosiy tendensiyalari” nomli ikkinchi bobida xususiy banklar
+kapitallashuv darajasining amaldagi holati tadqiq va tahlil qilingan, shuningdek,
+mazkur bobda Xususiy banklar kapitallashuv darajasini oshirishda iqtisodiy
+mexanizmlardan foydalanish holati va unga taʼsir qiluvchi ichki va tashqi omillar
+tahlili keltirilgan bo‘lib, ularni tahlili natijasida qator xulosa va tavsiyalar
+shakllantirilgan.
+      Banklar paydo bo‘lgandan boshlab ularning dastlabki sarmoyasi, kapitali
+darajasiga muhim masala sifatida eʼtibor qaratilgan. 2008-yildan boshlangan jahon
+moliyaviy iqtisodiy inqirozi bank tizimining barqarorligini taʼminlashda ularning
+kapitallashuv darajasini oshirib borish eng muhim iqtisodiy masalalardan biri
+ekanligini yana bir bor isbotladi. Quyida tijorat banklari asosiy kapitali tarkibi va
+dinamikasi haqidagi maʼlumotlar keltirilgan.
+
+16
+     U.O‘.Azizov va b. Bank ishi. Darslik. - T.: Iqtisod-moliya, 2016. 139 b.
+
+                                                                                    13
+     1-jadval maʼlumotlaridan ko‘rinib turibdiki, xususiy banklarning ustav
+kapitali o‘z mablag‘lari tarkibida 2019-yil 31-yanvar holatiga 68,6 foizni tashkil
+etib, 2022-yil 31-dekabr holatiga nisbatan 0,2 foizga oshgan va bunga mos
+ravishda ustav kapitali tahlil etilayotgan davr mobaynida mutloq summada oshib
+bormoqda. Bizning fikrimizcha, xususiy banklarning o‘z mablag‘lari tarkibida
+ustav kapitali ulushini oshib borishini ijobiy baholagan holda, uni pasayishiga yo‘l
+qo‘maslik lozim, chunki ushbu manba, birinchidan, barqaror manba hisoblanadi,
+ikkinchidan, jalb qilingan mablag‘larga nisbatan arzon moliyaviy mablag‘lardandir.
+Shuningdek, mamlakatimiz xususiy banklar o‘z mablag‘lari tarkibida qo‘shilgan
+kapital ulushini ham pasayishiga yo‘l qo‘ymaslik lozim. Tahlil davrida banklarning
+qo‘shilgan kapitalining bank kapitalidagi ulushi ham kam miqdorda 2019-yilda 2,1
+foizni tashkil etgan bo‘lsa, 2022-yil 31-dekabr holatiga bu ko‘rsatkich 0,2 foiz
+punktga oshib 2,3 foizni tashkil etdi. Bu ko‘rsatkich xalqaro bank amaliyotiga
+nisbatan past darajada bo‘lib, bu albatta mamlakatimiz xususiy banklarining
+aksiyalarini asosan o‘z taʼsischilari hisoblangan jismoniy shaxslarga sotishi bilan
+bog‘liqligi va oldi-sotdi jarayoni shaffofsiz ekanligidan dalolat beradi.
+
+                                                                    1-jadval
+   Mamlakatimizda faoliyat yuritayotgan xususiy banklar o‘z mablag‘lari
+                         tarkibi va dinamikasi17
+                                  (1-yanvar holatiga, jamiga nisbatan foizda)
+  O‘z mablag‘lar tarkibi    2019 y. 2020y. 2021y. 2022y. 2023y.
+Ustav kapitali               65,0 % 63,7 % 66,5 % 66,5 % 65,2 %
+Qo‘shilgan kapital           2,1 %      3,8 %     0,8 %    1,8 %     2,3 %
+Zaxira kapitali              9,4 %      9,5 %     8,9 %    8,9 %     9,2 %
+Taqsimlanmagan foyda         23,5 % 22,9 % 23,8 % 22,8 % 23,3 %
+Jami o‘z mablag‘lari          100,0     100,0     100,0     100,0    100,0
+
+     2-jadval maʼlumotlaridan ko‘rinib turibdiki, mamlakatimiz tijorat banklari
+kapitali tarkibida maxsus zaxira salmoqli ulushga ega bo‘lib turibdi, maxsus zaxira
+kapital tarkibi o‘rganilganda uning asosiy qismi devalvatsiya zaxirasidan iborat
+ekanligi maʼlum bo‘ldi. Masalan, 2-jadvalda tijorat banklari asosiy kapitali
+tarkibida maxsus zaxira ulushi 2017-yil 16,3 foizni tashkil etgani holda 2020-yilda
+8,9 foizdan iborat bo‘lgan yoki shu davr ichida 7,4 punktga kamaygan bo‘lsada,
+maxsus zaxiraning ulushi sezilarli darajada ekanligini ko‘rishimiz mumkin. Shu
+bilan birga banklarning taqsimlanmagan foydasi ham beqaror bo‘lsada, maʼlum
+darajada ulushga egaligini qayd etish lozim.
+     Bizning fikrimizcha, tijorat banklari jami kapitali tarkibida ustav kapitali
+ulushini pasayishiga yo‘l qo‘ymaslik lozim, chunki ushbu manba, birinchidan,
+barqaror manba hisoblanadi, ikkinchidan, jalb qilingan mablag‘larga nisbatan
+arzon moliyaviy mablag‘lardandir. Shuningdek, mamlakatimiz tijorat banklari
+kapitali tarkibida qo‘shimcha kapital ulushini ham pasayishiga yo‘l qo‘ymaslik
+
+17
+     www.cbu.uz - O‘zbekiston Respublikasi Markaziy banki maʼlumotlari asosida muallif tomonidan tuzildi.
+
+14
+lozim. Tahlil davrida banklarning qo‘shimcha kapitalining bank kapitalidagi ulushi
+ham kam miqdorda 2017-yilda 0,5 foizni tashkil etgan bo‘lsa, 2018- va 2019-yil 1-
+yanvar holatiga kelib bu ko‘rsatkich 0,2 punktga kamayib 0,3 foizni, yaʼni ushbu
+manbaning ulushi juda past darajani tashkil etadi, bu albatta mamlakatimiz tijorat
+banklari aksiyalarining moliya bozorlarida nufuzi pastligidan va oldi-sotdi jarayoni
+shaffofsiz ekanligidan dalolat beradi.
+     Umuman, tijorat banklarining kapitallashuv darajasini oshirish va moliyaviy
+barqarorligini mustahkamlash mamlakat bank tizimining barqarorligini
+taʼminlashning zaruriy sharti hisoblanadi. Bizga maʼlumki, tijorat banklarning
+kapitallashuv darajasini oshirishning asosiy yo‘llaridan biri – bu bank ustav
+kapitalini oshirishdir. Respublikamizda keyingi yillarda tijorat banklari ustav
+kapitalini oshirishga alohida eʼtibor qaratilmoqda. Aynan xususiy banklarda bu
+masalaga eʼtibor boshqacha. Buni quyidagi jadvalda ko‘rishimiz mumkin
+(2-jadval).
+
+                                                                                                   2-jadval
+                                                                                              18
+      Xususiy banklarning jami ustav kapitali miqdori (mlrd. so‘m)
+ Banklar nomi                   2019-     2020-     2021- 2022-          2023-     2023-yilda 2019-yilga
+                                 yil       yil       yil    yil           yil      nisbatan o‘sishi
+                                                                                   (+;-)      %
+ XAB “Trastbank”                 227        362       362       562     1001,8       774,8       341,3
+ XATB“Orient Finans”             562        769       903      1106      2110        1548        275,3
+ XATB “Davr-bank”                163        170       344       400       400         237        145,4
+ XATB Ravnaq-bank”               100        100       100       100       100          0          0,0
+ Jami                           1052       1401      1709      2168      3612              2560
+
+     Jadval maʼlumotlaridan ko‘rinib turibdiki, xususiy banklarimizning ustav
+kapitalini 2023-yilda 4 ta tijorat bankning jami ustav kapitali miqdori 3612 mlrd.
+so‘mni tashkil etib, 2019-yilga nisbatan 2,4 baravarga oshgan. Bu albatta ijobiy
+holat bo‘lsada, XATB “RAVNAQ-BANK”ning oxirgi 5 yilda ustav kapitali 100
+mlrd. so‘mni tashkil etganligi, yillar davomida oshirishga bank tomonidan harakat
+qilinmaganligini to‘g‘ri, deb bo‘lmaydi. Sababi 2025-yil 1-apreldan barcha banklar
+ustav kapitalini eng kam miqdori 500 mlrd. so‘mni tashkil etishi qonunchilik bilan
+belgilanmoqda19.
+     Xulosa qilib aytadigan bo‘lsak, xususiy banklar o‘zlarining ustav kapitalini
+oshirish imkoniyatlarini izlab topishlari kerak. Aks holda, tijorat banklari
+faoliyatini davom ettirishini so‘roq ostida qoldiradi.
+     Bundan ko‘rinadiki, xususiy banklarimiz tez muddatda ustav kapitalini
+miqdorini keskin oshirishlari kerak. Bundan tashqari, tijorat banklari tomonidan
+chiqariladigan aksiyalarni joylashtirish bilan bog‘liq muammolar mavjud. Banklar
+tomonidan taklif etilayotgan dividendlarning o‘rtacha yillik stavkasi banklardagi
+
+18
+  http://www.cbu.uz –O‘zbekiston Respublikasi Markaziy bank rasmiy sayti maʼlumotlari
+19
+  O‘zbekiston Respublikasining Prezidentining 2019-yil 5-noyabr “Banklar va bank faoliyati to‘g‘risida”gi O‘RQ–
+580-sonli qonuni.
+
+                                                                                                            15
+depozit stavkalari bilan deyarli bir xil, bundan tashqari ular o‘zgaruvchan bo‘lib,
+bank faoliyati bilan bog‘liq muammolar natijasida dividendlar miqdori kamayib
+ketishi mumkin. Yana xususiy banklarning kapitali tarkibida bo‘lgan emission
+daromadlar deyarli sezilmaydigan darajada. Bu holat banklarimiz aksiyalari
+qimmatbaho qog‘ozlar bozorida deyarli nominal bahosi miqdorida sotiladi.
+Ularning bozor (real) bahosiga taʼsir etuvchi omillari yo‘qligicha qolmoqda.
+     Shuningdek, tahlil qilingan davr mobaynida tijorat banklari jami kapitali
+tarkibida subordinar qarz majburiyatlari hamda konsolidatsiyalashgan sho‘ba
+korxonalarga qilingan qo‘yilmalar yuzaga kelmagan.
+     Hozirgi kunda tijorat banklarining qo‘shimcha kapitalning asosiy tarkibi
+hisoblangan uzoq muddatli subordinar qarzni chiqarish amaliyotini “yashil
+subordinar obligatsiyalar” va “fintex asosidagi tokenlashtirilgan subordinar
+moliyalashtirish vositalari” hisobiga kengaytirish orqali xususiy banklar
+kapitallashuv darajasini (3%≤KDXB≤5%) oshirish va barqarorligiga erishishning
+zamonaviy instrumentlaridan hisoblanadi.
+     Xususiy banklarda subordinar qarz majburiyatlarining juda kam miqdorda
+ekanligi ularning uzoq muddatli kreditlar bozoridagi mavqeining zaifligidan
+dalolat beradi. Chunki subordinar qarz majburiyatlari xususiy banklarga uzoq
+muddatli resurslarni jalb qilishning qulay va kam xarajatli vositasi hisoblanadi.
+Bundan tashqari, kelajakda xususiy bank ustav kapitalini oshirish uchun ishonchli
+mijozlarning subordinar qarz majburiyatlarini bank aksiyalariga o‘tkazish mumkin.
+
+
+
+
+ 1-rasm. Tijorat banklar tomonidan jalb qilingan subordinar qarzlari hajmi20
+                    (01.10.2024-yil holatiga, mlrd. so‘mda)
+
+    1-rasm maʼlumotlariga ko‘ra, 2024-yil 1-oktabr holatiga mamlakatimiz tijorat
+banklari tomonidan jalb qilingan subordinar qarz majburiyatlarining asosiy qismi,
+
+20
+     www.cbu.uz - O‘zbekiston Respublikasi Markaziy banki maʼlumotlari asosida tayyorlandi.
+
+16
+yirik tijorat banklari hissasiga to‘g‘ri kelgan. Tahlil qiladigan bo‘lsak, jami jalb
+qilingan subordinar qarz majburiyatlari hajmi 12746 mlrd. so‘mni tashkil etgan.
+Xususiy banklar ichida birgina XATB “Davr bank” 178 mlrd. so‘mlik subordinar
+qarz majburiyatini jalb etgan. Uning bozordagi salmog‘i 1,4 foizni tashkil
+etmoqda. Fikrimizcha, respublikamizdagi qolgan xususiy banklar ham bu
+amaliyotdan foydalanib o‘zlarining regulyativ kapitali yetarliligini oshirib olishlari
+kerak. Shuning uchun ham, xususiy banklar tomonidan uzoq muddatli subordinar
+qarz majburiyatlarini jalb etish amaliyotini kengroq joriy etilishi maqsadga
+muvofiqdir. Istiqbolli loyihalar milliy agentligi direktorining “Qimmatli qog‘ozlar
+emissiyasi va emissiyaviy qimmatli qog‘ozlar chiqarilishlarini davlat ro‘yxatidan
+o‘tkazish qoidalariga o‘zgartirish va qo‘shimchalar qiritish to‘g‘risida”gi buyrug‘i
+qabul qilindi. Qimmatli qog‘ozlar emissiyasi va emissiyaviy qimmatli qog‘ozlar
+chiqarilishlarini davlat ro‘yxatidan o‘tkazish qoidalariga kiritilayotgan
+qo‘shimchalarga muvofiq: yashil iqtisodiyotni rivojlantirishga qaratilgan loyihalar
+uchun korporativ obligatsiyalarni chiqarishga yo‘l qo‘yiladi;
+     yashil korporativ obligatsiyalarni chiqarish va muomalasi bo‘yicha uslubiy
+qo‘llanma Istiqbolli loyihalar milliy agentligi tomonidan tasdiqlanadi.
+     Yashil korporativ obligatsiyalarni chiqarish uchun qo‘shimcha ravishda
+quyidagilar taqdim etiladi:
+     Xalqaro kapital bozorlari assotsiatsiyasi (ICMA) tomonidan vakolat berilgan
+yoki Iqlim obligatsiyalari tashabbusi (CBI) tomonidan tasdiqlangan yoxud
+Yevropa qimmatli qog‘ozlar va bozorlar boshqarmasi (ESMA) tomonidan
+ro‘yxatdan o‘tgan ixtisoslashtirilgan tashkilotlardan asos dasturi bo‘yicha yashil
+standartlarga muvofiqlik sertifikatini olganlik to‘g‘risidagi xulosa nusxasi,
+shuningdek yashil obligatsiyalarni chiqarish uchun asos dasturi;
+     korporativ obligatsiyalarni joylashtirishdan tushgan mablag‘lardan
+foydalanish maqsadi va ularning O‘zbekiston Milliy “yashil” taksonomiyasi
+va/yoki boshqa ekvivalent taksonomiyalar talablariga muvofiqligi bo‘yicha emitent
+rahbari va bosh buxgalterining imzolari bilan tasdiqlangan maʼlumotnoma.
+     Shuningdek, obligatsiya chiqarish to‘g‘risidagi qaror va emissiya risolasida:
+     obligatsiyalarni joylashtirishdan tushgan mablag‘larni Milliy yashil
+taksonomiya va/yoki boshqa ekvivalent taksonomiyalar talablariga muvofiq
+ishlatish maqsadi to‘g‘risida maʼlumot;
+     Milliy yashil taksonomiya va/yoki boshqa ekvivalent taksonomiyalar talablari
+doirasida erishiladigan rejalashtirilgan natijalar (KPI) to‘g‘risida maʼlumot;
+     Yashil standartlarga muvofiqlik sertifikatining mavjudligi, shuningdek,
+bunday sertifikatni bergan tashkilot to‘g‘risidagi maʼlumotlar aks ettirilishi lozim.
+     Hujjat Qonun hujjatlari maʼlumotlari milliy bazasida davlat tilida eʼlon
+qilingan va 2024-yil 10-iyundan kuchga kirdi.
+     Eslatib o‘tamiz, 2023-yil oktyabr boshlarida O‘zbekiston ilk bor 4,25 trln
+so‘m miqdoridagi yashil suveren xalqaro obligatsiyalar hamda 660 mln dollar
+miqdoridagi xalqaro obligatsiyalarni London fond birjasida joylashtirgandi.
+                                                                                   17
+     So‘mda chiqarilgan suveren xalqaro obligatsiyalar MDH davlatlari ichida ilk
+“yashil” suveren obligatsiyalar hisoblanadi.
+     Xalqaro banklar amaliyotida tijorat banklari qo‘shimcha kapitali tarkibida
+konsolidatsiyalashgan sho‘ba korxonalarini tashkil etish uchun shakllantirilgan
+manbasi mavjud bo‘lib, ushbu ma nba tijorat banklari qoshida mustaqil balansga
+ega bo‘lmagan moliyaviy korxonalarni tashkil etish uchun ajratilgan moliyaviy
+mablag‘lar hisobiga vujudga keladi.
+     Xalqaro Bazel qo‘mitasining andozalari bo‘yicha konsolidatsiyalashgan
+sho‘ba korxonalari sifatida bank qoshida tashkil etiladigan, mustaqil balansga ega
+bo‘lmagan lizing, faktoring, trast, forfeyting kompaniyalari nazarda tutiladi. Ushbu
+kompaniyalarni tashkil etish uchun tijorat banklari zarur qo‘shimcha moliyaviy
+mablag‘larga ega bo‘lishlari talab etiladi.
+
+
+                      XAB Trastbank lizing sho‘ba korxonalari
+
+        “Trast Leasing” MCHJ                                    “Trast Muamalat” MCHJ
+
+     Faoli                    Avtolizing                                                          Fao
+      yat                                                                                          li-
+                                                             Islom qonuniyatlari asosida lizing
+      turi                                                                                        yat
+                          Uskunalar lizingi                              xizmati
+                                                                                                  turi
+
+                    Qurilish va maxsus texnika
+                                                                Tadbirkorlik subyektlariga va
+                              lizingi
+                                                              jismoniy shaxslarga noanʼanaviy
+                                                              moliyalashtirishga oid xizmatlar
+                   Tijorat ko‘chmas mulk lizingi
+
+
+
+                      Boshqa obyektlar lizingi
+
+
+             2-rasm. XAB Trastbank lizing sho‘ba korxonalari faoliyati to‘g‘risida
+                                        maʼlumot21
+      Rasm maʼlumotlaridan ko‘rinib turibdiki, XAB Trastbank o‘z qoshida 2 ta
+“Trast Leasing” MCHJ va “Trast Muamalat” MCHJ sho‘ba korxonalarini tashkil
+etgan. “Trast Leasing” MCHJ 2011-yildan buyon o‘z faoliyatini yuritib kelayotgan
+bo‘lsa, “Trast Muamalat” MCHJ esa 2022-yildan beri faoliyat olib bormoqda.
+Kompaniyalarning asosiy faoliyati keng ko‘lamli samarali lizing operatsiyalarini
+taklif etish orqali biznesni kengaytirish strategiyasini amalga oshirish hisoblanadi.
+XAB Trastbank 2024-yilda “Trast Leasing” MCHJ va “Trast Muamalat” MCHJ
+ustav kapitalini oshirish va moliyaviy qo‘yilmalarini ko‘paytirish maqsadida
+21
+     XAB Trastbank web-sahifasidagi moliyaviy hisobotlari maʼlumotlari asosida tuzildi.
+
+18
+265 mlrd. so‘m mablag‘ yo‘naltirildi 22 . Buni quyidagi 3-jadvalda ko‘rishimiz
+mumkin.
+     Bizning amaliyotimizda konsolidatsiyalashgan sho‘ba korxonalarga qilingan
+moliyaviy qo‘yilmalarga yo‘naltirgan mablag‘larni bevosita xususiy bankning
+qo‘shimcha kapitali tarkibiga olib borish tartibi mavjud. Bunda albatta bankning
+sho‘ba korxonalarini raqamli bank xizmatlari va fintex startaplar bilan
+integratsiyalashgan yangi formatda rivojlantirish orqali kapitallashuv darajasini
+(5%≤KDXB≤10%) oshirish zarurligi yuzaga chiqadi. Shuni e’tiborga olgan xolda,
+3-jadval maʼlumotlariga ko‘ra, XATB “Trastbank” qoshida konsolidatsiyalashgan
+“Trast Muamalat” MCHJ va “Trast Leasing” MCHJ sho‘ba korxonalariga oxirgi
+6 yilda bank tomonidan yo‘naltirilgan investitsiyalar hajmi yildan yilga oshib
+borayotganini ko‘rishimiz mumkin. 2019-yil bank tomonidan 6,6 mlrd. so‘m
+miqdorida moliyaviy qo‘yilma yo‘naltirilgan bo‘lsa, 2024-yil yakunida bu
+ko‘rsatkich sezilarli darajada oshirilib 264,89 mlrd. so‘mni tashkil etgan. Bu
+albatta, ijobiy holat hisoblanadi. Sababi, banklar qancha ko‘p miqdorda moliyaviy
+qo‘yilmalarni o‘zlarining sho‘ba korxonalariga yo‘naltirsa, buning natijasida
+keladigan foyda bankning qo‘shimcha kapitalini ko‘paytirib, kapital yetarliligi
+darajasini oshiradi.
+
+                                                                    3-jadval
+XATB “Trastbank” qoshida konsolidatsiyalashgan “Trast Muamalat” MCHJ
+  va “Trast Leasing” MCHJ sho‘ba korxonalariga oxirgi yillarda bank
+      tomonidan yo‘naltirilgan investitsiyalar hajmi (mln. so‘mda)23
+                                Sho‘ba
+     Ko‘rsatkichlar           korxonalar          2019      2020      2021       2022        2023        2024
+                                 nomi
+                                “Trast
+ Bank tomonidan                Leasing”           6600     39600     87866     116203      145690       164890
+  yo‘naltirilgan                MCHJ
+  investitsiyalar               “Trast
+      hajmi                   Muamalat”             -         -         -        6000       45000       100000
+                                MCHJ
+                      Jami                        6600     39600     87866     122203      190690       264890
+
+     Yuqoridagilarni eʼtiborga olgan holda, xususiy banklar kapitali tarkibida
+konsolidatsiyalashgan sho‘ba korxonalarga qilingan qo‘yilmalar barqaror manba
+ekanligini eʼtiborga olib, ushbu manbaning hajmini oshirish bo‘yicha xususiy
+banklar bosqichma-bosqich ishlarni tashkil qilishlari va uning hajmini kamida o‘n
+foizga yetkazishi lozim.
+     Tahlillar va o‘rganishlar natijasi shuni ko‘rsatmoqdaki, tijorat banklari
+kapitallashuv darajasini oshirishda zamonaviy yo‘llarni, yanayam soddaroq qilib
+aytadigan bo‘lsak, xorijda o‘zining ijobiy natijasini bergan tajribalarni kengroq
+
+22
+     XAB Trastbank web-sahifasidagi moliyaviy hisobotlari maʼlumotlari asosida tuzildi.
+23
+     Germaniya Doychi banki va XAB Trastbank web-sahifasidagi moliyaviy hisobotlari ma’lumotlari asosida tuzildi.
+
+                                                                                                               19
+qo‘llashi lozim. Xususan, banklarning o‘z mablag‘lari tarkibidagi qo‘shilgan
+kapitalning hajmini oshirish orqali ularning kapitallashuv darajasini oshirish va
+barqarorlikka erishish maqsadga muvofiq. Quyidagi jadvalda Germaniya Doychi
+banki va XAB Trastbank o‘z mablag‘lari (kapitali) tarkibi keltirilgan.
+
+
+
+
+3-rasm. Germaniya Doychi banki va XAB Trastbank o‘z mablag‘lari (kapitali)
+               tarkibi24 (2024-yil 1-yanvar holatiga, foizda)
+
+     3-rasmdan ko‘rinib turibdiki, Germaniya Doychi banki va XAB Trastbank o‘z
+mablag‘lari (kapitali) manbalarining vujudga kelish nuqtayi nazardan ulushlari
+o‘rtasida keskin farq mavjud. Masalan, Germaniya Doychi bankining kapitali
+tarkibida ustav kapitali 13,3 foizni tashkil etgani holda qo‘shimcha kapitalining
+ulushi 52,8 foizdan iborat b‘lgan, shuningdek, bankning zaxira kapital darajasi ham
+salmoqli daraja 17,1 foizni tashkil etgan. Kapitalning aynan shu manbalarini
+shakllanish holatini XAB Trastbank misolida ko‘radigan bo‘lsak, ushbu bankda
+manzara umuman boshqacha ko‘rinishni olgan. Xususan, bankning ustav kapitali
+49,0 foizni tashkil etgani holda, manbalar ichida eng yuqori salmoqni tashkil etgan,
+qo‘shimcha kapital esa 25,3 foizni tashkil etgani ko‘rinib turibdi. Shu bilan birga,
+bankning taqsimlanmagan foydasi ulushi 17,1 foizni tashkil etmoqda. Yuqoridagi
+rasm maʼlumotlari asosida masalaning jiddiy jihatlariga eʼtibor beradigan bo‘lsak,
+mamlakatimizning boshqa xususiy banklar o‘z mablag‘lari tarkibida ham aynan
+shu muammo mavjud.
+     Germaniya Doychi bank va XAB Trastbanklari o‘z mablag‘lari manbalarining
+shakllantirish va ularning ulushi ko‘p yoki kamligining qanday ahamiyat kasb
+etishi yuzasidan quyidagilarni taʼkidlamoqchimiz:
+     xususiy banklar aksiyadorlarga dividend to‘lash uchun bankning foydasini
+katta qismini sarflanmaydi. Chunki, dividendlar bank tomonidan muomalaga
+chiqarilgan aksiyalarning nominal bahosi bo‘yicha to‘lanadi, shunday ekan Doychi
+bankda kapitalning yetarliligi qo‘shimcha kapital hisobiga taʼminlanmoqda,
+shu bilan birga dividendga to‘lanadigan foydaning asosiy qismi bankning
+ixtiyorida qoladi;
+
+24
+     Germaniya Doychi banki va XAB Trastbank web-sahifasidagi moliyaviy hisobotlari maʼlumotlari asosida tuzildi.
+
+20
+      qo‘shimcha kapital ulushining yuqoriligi bankning hamkorlari, investorlari va
+aksiyadorlari tomonidan qarorlarni qabul qilishga asos bo‘lib xizmat qiladi, chunki
+bu maʼlumotlar bank aksiyalarining moliya bozorida o‘ta jozibali va bankning
+moliyaviy jihatdan barqarorligini anglatadi;
+      banklarning o‘z mablag‘lari tarkibidagi manbalar ulushi past yoki
+yuqoriligiga qarab banklarning qimmatli qog‘ozlar bozoridagi faoliyati samarali
+tashkil etilgan yoki etilmaganligini bilishimiz mumkin;
+      bank kapitalini oshirish bilan bog‘liq bo‘lgan sharoitda emissiya qilingan
+aksiyalarning nominal bahosini bir necha bor yuqoriligi ularga qo‘shimcha
+emissiya qilmasdan mazkur muammoni hal qilish imkonini beradi.
+      Bizning fikrimizcha, mamlakatimiz xususiy banklar o‘z mablag‘lari tarkibida
+qo‘shimcha kapital manbasining shakllanmasligining asosiy sabablaridan biri
+ularning kapitalini tarkibi asosan anʼanaviy manbalardan tashkil etilganligi va bu
+xususiy banklarni qimmatli qog‘ozlar bozoridagi faoliyatiga ijobiy taʼsir
+ko‘rsatmayapti.
+      Bunda, xususiy banklar kapitallashuv darajasini oshirish imkoniyatlaridan
+to‘liqroq foydalanish lozim. Mamlakatimiz xususiy banklarining kapitallashuv
+darajasi tijorat banklariga nisbatan bank kapital bazasi nisbatan zaif bo‘lib, uning
+barqarorligini oshirishning qator imkoniyatlari mavjud.
+      Bizning nazarimizda, mamlakatimiz xususiy banklari ustav kapitalini oshirish
+imkoniyatlari ko‘p qirrali bo‘lib, ulardan samarali foydalanishni yo‘lga qo‘yish
+lozim.
+      Kapitallashuv darajasining yana bitta usuli xususiy banklarning joriy yil
+foydasini uzluksiz ravishda bankning kapitaliga yo‘naltirib borish hisoblanadi.
+Bunda albatta xususiy banklarni dividend siyosatiga ham eʼtibor qaratish lozim.
+
+                                                                                             4-jadval
+            XAB “Trastbank” foydasini taqsimlanishi tahlili                             25
+
+                                   Taqsimlangan foyda, mln so‘mda
+              Taqsimlananishi
+                                   Oddiy       Imtiyozli       Ustav
+ Yakunlangan   lozim bo‘lgan
+                                 aksiyalar    aksiyalar     kapitalini
+     yil         foyda, mln
+                                 bo‘yicha      bo‘yicha     oshirishga
+                   so‘mda
+                                dividendga dividendga
+    2019          184496,5        98219,2        3,45         86273,9
+    2020          300512,6       228380,2        3,45         72129,0
+    2021          433576,2        90056,8        3,45        343516,0
+    2022          592053,1       458673,5        3,45        133376,2
+    2023          690743,9       499164,3        3,45        191576,2
+
+     Yuqoridagi jadval maʼlumotlariga eʼtibor qaratadiga bo‘lsak, oxirgi besh
+yilda XAB “Trastbank”da aksiyadorlarga dividendlar to‘lanishidan tashqari,
+bankning sof foydasi ustav kapitali miqdorini oshirishga ham yo‘naltirilgan.
+Ayniqsa, 2023-yilda bank 690,7 mlrd. so‘m miqdoridagi sof foydasining 30 foiz
+
+25 XAB Trastbank web-sahifasidagi moliyaviy hisobotlari maʼlumotlari asosida tuzildi.
+
+
+                                                                                                   21
+ulushi bankning ustav kapitalini oshirishga yo‘naltirilgan. Bular o‘z navbatida,
+xususiy banklar kapitali tarkibida joriy yilning sof foydasi hisobidan ustav
+kapitalining ortishiga ijobiy zamin tayyorlaydi. Shundan kelib chiqib, xususiy
+banklar foydasini reinvestitsiya qilishda “smart reinvestitsiya strategiyalari”, ya’ni
+o‘ziga qaytariladigan sarmoyali loyihalarga foydani qayta tiklash asosida
+moliyaviy oqimlarni maqsadli yo‘naltirish vositasida joriy moliyaviy yil
+foydasining 30 foizini bank ustav kapitaliga yo‘naltirishlari kerak.
+      Dissertatsiya tadqiqotida xususiy banklar faoliyati asosiy ko‘rsatkichlarini
+ko‘p omilli ekonometrik modellashtirish va tahlil qilish amalga oshirildi.
+Modeldagi natijaviy omil xususiy bankning kapitali, mlrd. so‘m (Y) olingan, taʼsir
+etuvchi omillar esa bankning ustav kapitali, mlrd. so‘m (X1), ROE koeffitsiyenti
+(sof foydani kapitalga nisbati), % (X2), bankning sof foydasi mlrd. so‘m (X3),
+bankning subordinar qarzi mlrd. so‘m (X4) va bankning emission kapitali mlrd.
+so‘m (X5) olingan.
+      Dastlab, bank maʼlumotlari asosida iqtisodiy tadqiqotlar o‘tkazish uchun biz
+2012–2023-yillardagi xususiy bank faoliyati ko‘rsatkichlari asosida tavsifiy
+statistika o‘tkazdik (o‘zgaruvchilarning o‘lchov birliklari har xil bo‘lgani uchun
+ularni logarifmlash yordamida yagona o‘lchov birligiga keltiramiz). Taʼrifiy
+statistika natijalari quyidagi 5-jadvalda keltirilgan.
+
+                                                                                                     5-jadval
+                                    Omillar bo‘yicha tavsifiy statistika               26
+
+                      xususiy        bankning            ROE                           bankning         bankning
+                    bankning      ustav kapitali    koeffitsienti     bankning sof subordinar           emission
+                  kapitali (logY)     (logX1)          (logX2)      foydasi (logX3) qarzi (logX4)   kapitali (logX5)
+ Mean             3.044380        8.680041         1.385143          2.429552       0.744102         7.596849
+ Median           3.082774        8.757885         1.403148          2.550864       0.000000         7.787846
+ Maximum          3.776483        9.545534         1.571243          3.172515       2.045323         8.715260
+ Minimum          2.305136        7.831504         1.172895          1.577492       0.000000         6.271545
+ Std. Dev.        0.508573        0.579296         0.105659          0.578232       0.929742         0.794295
+ Skewness         -0.012764       -0.103361        -0.445294         -0.217550      0.405302         -0.349442
+ Kurtosis         1.547916        1.637933         2.918344          1.581432       1.255205         1.804986
+ Jarque-Bera      5.054599        4.948980         3.399907          3.100824       4.850693         3.958249
+ Probability      0.000197        0.006222         0.008769          0.005767       0.005963         0.007193
+ Sum              36.53257        104.1605         16.62172          29.15462       8.929228         91.16219
+ Sum Sq. Dev.     2.845109        3.691423         0.122802          3.677874       9.508621         6.939953
+ Observations     12              12               12                12             12               12
+
+
+     Tavsifiy statistika natijalari bo‘yicha ko‘p omilli ekonometrik modelga
+kiruvchi barcha omillarning normal taqsimotga bo‘ysunishi aniqlandi. Omillarning
+normal taqsimotga bo‘ysunishi Jak-Bera mezoni orqali aniqlandi. Bunda barcha
+omillarning ehtimolligi (probability) 5 foizdan kichik ekanligi tasdiqlandi.
+     Ko‘p omilli ekonometrik modelga uchun omillarni tanlash uchun
+korrelyatsion tahlil o‘tkazildi. Korrelyatsion tahlilda xususiy va juft korrelyatsiya
+
+26 XAB “Trastbank” XATB “Davr bank” ma`lumotlari asosida Eviews 10 dasturida muallif hisob-kitoblari
+
+
+22
+koeffitsiyentlari hisoblandi. Xususiy korrelyatsiya koeffitsiyentlari – bu natijaviy
+omil (logY) va unga taʼsir etuvchi omillar (logXi) o‘rtasidagi bog‘lanishlar
+zichligini ko‘rsatadi. Demak, xususiy korrelyatsiya koeffitsiyentlari natijaviy omil
+– sof foizli daromad (Y) va taʼsir etuvchi omillar (Xi) o‘rtasida turli xil
+bog‘lanishlar mavjudligini ko‘rsatmoqda.
+     Masalan, xususiy bankning kapitali (logY) va bankning ustav kapitali (logX1)
+o‘rtasida bog‘lanish zichligi 0,9930 ga teng. Bu esa ushbu ikki omil o‘rtasida zich
+bog‘lanish mavjudligini ko‘rsatadi. Xuddi shuningdek, xususiy bankning kapitali
+(logY) bilan ROE koeffitsiyenti (sof foydani kapitalga nisbati) (logX2) o‘rtasida
+o‘rtacha bog‘lanish mavjud ekan, yaʼni ular o‘rtasidagi xususiy korrelyatsiya
+koeffitsiyentining qiymati 0.6055 teng ekan. Xususiy bankning kapitali (logY) va
+bankning sof foydasi (logX3) o‘rtasida ham zich bog‘lanish mavjud. Ushbu omillar
+o‘rtasida korrelyatsiya koeffitsiyenti 0.9893 ga teng. Xususiy bankning kapitali
+(logY) va bankning subordinar qarzi (logX4) o‘rtasida ham zich bog‘lanish mavjud.
+Ushbu omillar o‘rtasida korrelyatsiya koeffitsiyenti 0.8889 ga teng. Xususiy
+bankning kapitali (logY) va bankning emission kapitali (logX5) o‘rtasida ham zich
+bog‘lanish mavjud. Ushbu omillar o‘rtasida korrelyatsiya koeffitsiyenti 0.8889 ga
+teng (5-jadval).
+     Ko‘p omilli ekonometrik tahlilda taʼsir etuvchi omillar o‘rtasida
+multikollinearlik mavjud bo‘lmasligi lozim. Agar ikkita taʼsir etuvchi omil
+o‘rtasida juft korrelyatsiya koeffitsiyenti qiymati 0,7 dan katta bo‘lsa,
+multikolleniarlik mavjud deyiladi. Korrelyatsion matritsadagi juft korrelyatsiya
+koeffitsiyentlari bo‘yicha xulosa qiladigan bo‘lsak, taʼsir etuvchi omillar o‘rtasida
+multikolleniarlik mavjud emas.
+     Keyingi bosqichda O‘zbekiston Respublikasi xususiy banklari kapitalining
+ko‘p qirrali iqtisodiy modelini yaratamiz. Umuman olganda, multifaktorial
+ekonometrik model quyidagi ko‘rinishga ega:
+                                                       ,                     (3)
+     bu yerda: y – natijaviy omil;        -taʼsir etuvchi omillar; - tasodifiy xato.
+     Ko‘p omilli ekonometrik modeldagi (3) nomaʼlum
+parametrlarini aniqlashda “eng kichik kvadratlar usuli” qo‘llaniladi. Ko‘p omilli
+ekonometrik modelning nomaʼlum parametrlarini hisoblashda EViews dasturidan
+foydalanamiz.
+     Ko‘p omilli ekonometrik modelning analitik ko‘rinishini keltiramiz:
+
+
+                                                                 (4)
+     Hisoblangan (4) ko‘p omilli ekonometrik model shuni ko‘rsatadiki, xususiy
+banklar ustav kapitali (logX1) o‘rtacha bir foizga ortsa, bankning kapitali (logY)
+o‘rtacha 0,0025 foizga ortishi mumkin ekan. Xususiy banklarning ROE
+koeffitsiyenti (sof foydani kapitalga nisbati) (logX2) o‘rtacha bir foizga ortishi,
+bankning kapitalini (logY) o‘rtacha 1,0029 foizga ortishiga olib kelar ekan.
+Xususiy banklarning sof foydasi (logX3) o‘rtacha bir foizga ortishi, bank kapitalini
+                                                                                  23
+(logY) o‘rtacha 1,0018 foizga ortishiga olib kelishi mumkin ekan. Xususiy
+banklarning subordinar qarzi (logX4) o‘rtacha bir foizga ortishi, bank kapitalini
+(logY) o‘rtacha 0,000036 foizga kamayishiga olib kelishi mumkin ekan hamda
+xususiy banklarning emission kapitali (logX5) o‘rtacha bir foizga ortishi, bank
+kapitalini (logY) o‘rtacha 0,00082 foizga ortishiga olib kelishi kuzatilmoqda.
+     Ko‘p omilli ekonometrik model (4) sifatini tekshirish uchun determinatsiya
+koeffitsiyentini tekshiramiz. Hisoblangan determinatsiya koeffitsiyenti (R 2 - R-
+squared) 0,9276 ga teng. Bu esa xususiy banklarning sof foizli daromadi (logY)
+92,76 foizi (4) ko‘p omilli ekonometrik modelga kiritilgan omillardan tashkil
+topishini ko‘rsatmoqda. Qolgan 7,24 foizi (1,0-0,9276) esa hisobga olinmagan
+omillar taʼsiridir.
+     Ko‘p omilli ekonometrik modelning statistik ahamiyatliligini (4) yoki
+o‘rganilayotgan jarayonga mos kelishini Fisherning F-mezoni yordamida
+aniqlaymiz. Ahamiyatlik darajasi                  va ozodlik darajalari            va
+                    dan kelib chiqib, F-mezonning jadval qiymati             ga teng.
+F-mezonning hisoblangan qiymati Fhisob=440,6269 ga teng. Fhisob>Fjadval sharti
+bajarilganligi uchun (4) ko‘p omilli ekonometrik model statistik ahamiyatli ekan.
+     Ko‘p omilli ekonometrik modelning (4) hisoblangan parametrlari (regressiya
+koeffitsiyentlari) ishonchliligini Styudentning t-mezoni yordamida tekshiramiz.
+Ishonchlilik ehtimoli           va ozodlik darajasi                     bo‘lganda, t-
+mezonning jadval qiymati                 ga teng.
+     Regression hisob-kitoblardan shuni ko‘rish mumkinki, barcha omillar
+bo‘yicha t-mezonning hisoblangan qiymatlari               va         aniqlikda jadval
+qiymatidan katta ekan. Bu esa mazkur omillarning ko‘p omilli ekonometrik
+modelda qatnashishlariga imkon beradi.
+     Ko‘p omilli ekonometrik model (4) bo‘yicha natijaviy omil qoldiqlarida
+avtokorrelyatsiyani tekshirish uchun Darbin-Uotson (DW) mezonidan
+foydalanamiz. Darbin-Uotson mezonining pastki chegarasi qiymati DWL=0,56 ga
+teng va yuqori chegarasi qiymati DWU=2,21 ga teng. DWhisob=2,23 ga teng. Demak,
+DWhisob>DWU bo‘lgani uchun natijaviy omil (ATB “Davrbank” kapitali (logY))
+qoldiqlarida avtokorrelyatsiya mavjud emas ekan.
+     Xususiy bank kapitali indikatori to‘g‘risidagi maʼlumotlar asosida tuzilgan
+ko‘p omilli ekonometrik model (4) barcha mezonlarga javob beradi. Ushbu model
+asosida biz xususiy bank kapitali ko‘rsatkichi uchun 2028-yilgacha bo‘lgan davr
+uchun prognoz qiymatlarini hisoblaymiz (6-jadval).
+     6-jadvalda keltirilgan ma’lumotlar tahlili shuni koʻrsatmoqdaki, bankning
+xususiy kapitali prognoz davrida, ya'ni 2025-2028-yillarda oʻrtacha 21549,2 mlrd.
+soʻmga oshib bormoqda. 2028-yilda bankning xususiy kapitali 2024-yilga nisbatan
+oʻrtacha 3,6 barobarga ortishi kuzatilmoqda. Bankning ustav kapitali prognoz davrida
+2,248 trln. soʻmga etishi mumkin ekan. Bu koʻrsatkich 2024-yilga nisbatan oʻrtacha
+4,3 barobarga ortishi mumkin. Bankning ROE koeffisienti prognoz davrida, ya'ni
+2025-2028 yillarda oʻrtacha oʻsishi 35,5 foiz foizni tashkil etmoqda. Bu koʻrsatkich
+2028-yilda 2024-yilga nisbatan oʻrtacha 1,2 barobarga ortishi mumkin. Banknig sof
+foydasi prognoz davrida, ya’ni 2025-2028 yillarda oʻrtacha oʻsishi 7769,5 mlrd
+soʻmni tashkil etmoqda.
+
+24
+                                                                     6-jadval
+ Xususiy bankning kapitali va unga taʼsir etuvchi omillarning prognoz hisob-
+                           kitoblari qiymatlari 27
+             Xususiy                          ROE, (sof
+            bankning       Ustav kapitali       foydani   Sof foyda       Subordinar          Emission
+   Yillar    kapitali      (mlrd. so‘m),       kapitalga   (mlrd.         qarz (mlrd.       kapital (mlrd.
+              (mlrd.            X1            nisbati, %, so‘m), X3        so‘m), X4          so‘m), X5
+             so‘m), Y                              X2
+     2012        201,9               67,8           18,72      37,80                  0,0             1,9
+     2013        284,3               82,9           14,89      42,30                  0,0             3,7
+     2014        363,0              131,5           18,31      66,50                  0,0             5,2
+     2015        394,9              150,0           25,72    101,60                   0,0             9,4
+     2016        528,3              271,3           24,73    130,70                   0,0            28,4
+     2017        966,8              395,3           37,26    360,20                   0,0            49,4
+     2018       1514,3              829,5           23,17    350,90                   0,0            76,2
+     2019       1992,1             1124,1           27,81    554,10                  38,4           144,4
+     2020       2863,0             1180,5           27,47    786,40                  43,4           144,4
+     2021       3537,0             1488,9           27,90    986,90                  43,7           144,4
+     2022       4442,0             2111,3           28,15   1250,40                 105,1           255,2
+     2023       5977,0             3511,8           24,89   1487,70                 111,0           519,1
+     2024       9021,1             6784,3           31,90   2877,45                 167,5          1000,0
+    2025*      12456,3             7484,8           33,27   4143,68                 283,0          1643,9
+    2026*      17199,5            10799,4           34,70   5967,11                 478,0          2702,4
+    2027*      23748,9            15581,9           36,19   8592,94                 807,4          4442,4
+    2028*      32792,2            22482,2           37,74 12374,28                 1363,8          7302,8
+* prognoz davri
+      Bu koʻrsatkich 2028-yilda 2024-yilga nisbatan oʻrtacha 4,3 barobarga ortishi
+mumkin. Absolyut miqdorda esa 9496,83 mlrd. soʻmga ortishi mumkin ekan.
+Bankning subordinar qarzi prognoz davrida, ya'ni 2025-2028-yillarda oʻrtacha oʻsishi
+360,3 mlrd soʻmni tashkil etmoqda. Bu koʻrsatkich 2028-yilda 2024-yilga nisbatan
+oʻrtacha 8,1 barobarga ortishi mumkin. Absolyut miqdorda esa 1196,3 mlrd. soʻmga
+ortishi mumkin ekan. Bankning emisson kapitali prognoz davrida, ya'ni 2028-yilda
+2024 yilga nisbatan oʻrtacha 7,3 barobarga ortishi mumkin. Absolyut miqdorda esa
+6,3 mlrd. soʻmga ortishi mumkin ekan.
+      Dissertatsiyaning “Xususiy banklar kapitallashuv darajasini oshirishning
+ustuvor yo‘nalishlari” deb nomlangan uchinchi bobida xususiy banklar
+kapitallashuv darajasini oshirish borasidagi muammolar keltirilgan va ularning
+yechimlari bo‘yicha tavsiyalar ishlab chiqilgan, shuningdek, dissertatsiya ishining
+mazkur bobida xususiy banklar kapitallashuv darajasini oshirishning asosiy
+yo‘nalishlari aniqlab berilgan.
+      Tadqiqotimiz davomida xususiy banklarni bank kapitali tarkibini oqilona
+shakllantirish va uning kapitallashuv darajasini oshirishning o‘ziga xos jihatlarini
+to‘liq tadqiq qilgan holda kapitallashuv darajasini oshirish bilan bog‘liq bo‘lgan
+quyidagi asosiy muammolar aniqlandi:
+      xususiy banklar kapitalining barqaror manbasi hisoblangan zaxira kapitali
+ulushi past darajada saqlanib qolmoqda, zaxira kapitali banklarning bevosita
+“himoya yostig‘i” funksiyasini bajaradi hamda bank faoliyatini yanada
+rivojlantirish uchun asos bo‘lib xizmat qiladi, shu bois xususiy banklar kapitali
+tarkibida ushbu manbalarni barqaror oshishiga erishish lozim;
+27 XAB “Trastbank” XATB “Davr bank” ma`lumotlari asosida muallif hisob-kitoblari
+
+
+                                                                                                         25
+      xususiy banklar kapitali tarkibida qo‘shilgan kapital deyarli sezilmaydigan
+darajada. XAB “Davr bank”da bank kapitali tarkibida qo‘shilgan kapitalning
+ulushi 2019-yilda 0,13 foizni tashkil etgan bo‘lsa, XATB “OFB” bankda esa
+2019–2023-yillarda bu ko‘rsatkich umuman mavjud emas. 2024-yilning 1-yanvar
+holatiga Germaniyaning eng yirik xususiy banki hisoblangan Deutsche Bankining
+kapitali tarkibida 52,8 foizi qo‘shilgan kapital hissasiga to‘g‘ri kelgan28. Bu holat
+shundan dalolat beradiki, xususiy banklarning emissiya qilingan aksiyalari
+qimmatli qog‘ozlar bozorida deyarli nominal bahosida sotiladi. Ularning bozor
+(real) bahosiga taʼsir etuvchi omillar yo‘qligicha qolmoqda; Bu holat
+mamlakatimiz xususiy banklarining qo‘shimcha kapital bazasini zaif ekanligidan
+dalolat beradi;
+       xususiy banklarimiz kapitallashuv darajasini oshirishda sof foydasining
+ulushi ham past darajadaligicha qolmoqda. Ularning ulushi jami kapitalning
+2019-yil 5,1 foizni tashkil etgan bo‘lsa, 2023-yilda esa 8,9 foizni tashkil etgan. Bu
+esa o‘z navbatida bugungi kunda xususiy banklarimiz tomonidan avvalambor
+faoliyat natijasida olinadigan sof foyda miqdorini oshirish uchun chora-tadbirlarni
+kuchaytirishlarini va yillik olingan sof foydani taqsimlash jarayonlarini yanada
+takomillashtirish lozimligini bildiradi;
+      banklarning ustav kapitalining jami kapital hajmidagi ulushi pasayish bilan
+bog‘liq bo‘lib, tahlil natijalari shuni ko‘rsatdiki, tijorat banklarida, 2019–2023-
+yillar mobaynida, ustav kapitalining jami kapital hajmidagi ulushi sezilarli
+darajada o‘zgarishsiz bo‘lgan. Taʼkidlash joizki, banklarning ustav kapitali
+barqaror manba sifatida kapital tarkibidagi ulushi yuqori bo‘lishi lozim, uning
+ulushini kamayishi salbiy holat hisoblanadi;
+      xususiy banklarning subordinar qarz majburiyatlarining amaliyotda kam
+qo‘llanilishi va bu xususiy banklarda qo‘shimcha kapitalning yetarli emasligiga
+olib kelishi ekanligi. Tahlil qilingan davrda xususiy banklar tomonidan chiqarilgan
+subordinar qarz majburiyatlarning jalb qilingan mablag‘lar tarkibidagi ulushi
+2018-yillargacha bo‘lgan davr davomida umuman yo‘qligi hamda 2019-yilga
+kelibgina 0,4 foizni, 2024-yil yil boshiga esa 1,4 foizni tashkil etgan. Bu ham
+XATB “Davr bank” tomonidan uzoq muddatga chiqarilgan 178,0 mlrd. so‘mlik
+subordinar qarz majburiyati hisobiga to‘g‘ri kelmoqda;
+      XAB “Davr bank” bank kapitali tarkibida konsolidatsiyalashgan sho‘ba
+korxonalarga qilingan qo‘yilmalar yo‘qligi aniqlandi;
+      banklarning aksiyalarini qiymatiga salbiy taʼsir qiluvchi inflyatsiya va valyuta
+kursi omillari bilan bog‘liq muammo. Tahlil natijalaridan maʼlum bo‘ldiki,
+inflyatsiya darajasining nisbatan yuqori va nobarqaror ekanligi aksiyalarning
+investitsion qiymatiga salbiy taʼsir qiladi.
+      Izlanishimiz davomida xususiy banklar tomonidan ularning kapitallashuvi
+jarayonidagi mavjud muammolarni aniqlash bilan birga ularni imkon darajasida xal
+qilish orqali bank kapitalini oshirish yo‘llari aniqlandi. Bizning fikrimizcha ular
+quyidagilardan iborat:
+      bank kapitali tarkibida ustav kapitalining ulushini doimiy ravishda oshirib
+borish muhim ahamiyat kasb etadi. Chunki ustav kapital bankning taqsimlanmagan
+foydasi bilan birga xususiy kapitalning eng barqaror qismi hisoblanadi;
+
+
+28
+     https://www.deutschebank.co.in - Germaniya Deutsche Banki moliyaviy hisoboti maʼlumoti asosida tuzildi.
+
+26
+      xususiy banklar subordinar qarz majburiyatlari hajmini oshirish yo‘li bilan
+qo‘shimcha kapital bazasini mustahkamlash imkoniyatiga egadirlar. Xususiy
+banklar amaliyotida subordinar qarz majburiyatlarining mavjud emasligi ularning
+uzoq muddatli kreditlar bozoridagi mavqeining zaifligini bildiradi. Subordinar qarz
+majburiyatlari bank qo‘shimcha kapital tarkibining asosiy qismini tashkil etishi
+bilan bir qatorda uzoq muddatli resurslarni jalb qilishning qulay va arzon vositasi
+ekanligini inobatga olib, xususiy banklar tomonidan subordinar qarz
+majburiyatlarini jalb etish amaliyotini yana kengaytirish maqsadga muvofiqdir;
+      bank kapitali tarkibida sof foydaning ulushini oshirish lozim. Buning uchun
+bizning fikrimizcha, bankning har yili yillik moliyaviy siyosati ishlab chiqilishi va
+u bankning kuzatuv kengashi tomonidan tasdiqlanishi lozim;
+      bizga maʼlumki, qo‘shimcha kapital ham bank kapitalining barqaror elementi
+hisoblanadi. Tahlil natijalari shuni ko‘rsatdiki, xususiy banklarimiz aksiyalari
+doimo deyarli ularning nominal baholari doirasida sotiladi. Hozirgi davrga qadar
+ham fond bozorining deyarli rivojlanmaganligi oqibatida yuqori daromad
+keltiruvchi bank aksiyalari ham o‘zining bozor bahosiga ega bo‘la olgani yo‘q;
+      xususiy banklarda lizing, trast, faktoring, forfeyting va sug‘urta kabi sho‘ba
+korxonalarning tashkil etilishi pirovard natijada bank faoliyati sof foydasi va jami
+kapitalining ortib borishiga ijobiy taʼsir ko‘rsatadi. Banklar qoshida tashkil etilgan
+sho‘ba korxonalar mustaqil balansga ega bo‘lmaydi va ularning olgan foydasi
+buxgalteriya balansida bank foydasiga qo‘shiladi. Shuning uchun ham
+respublikamizda tijorat banklari qoshida tashkil etilishi mumkin bo‘lgan maxsus
+moliya kredit institutlari to‘g‘risidagi normativ huquqiy asoslar va meʼyoriy
+tartiblarning yaratilishi va takomillashtirilishi maqsadga muvofiqdir.
+      Yuqorida bildirilgan fikr-mulohazalarning bank faoliyatiga to‘liq joriy etilishi
+albatta birinchidan, bank faoliyatining samaradorligini oshirsa, ikkinchidan,
+ularning kapitallashuvi jarayonlariga ijobiy taʼsir ko‘rsatadi va uchinchidan,
+ularning barqaror faoliyat yuritishlari uchun iqtisodiy asos bo‘lib xizmat qiladi.
+
+                                      XULOSA
+
+      Dissertatsiya mavzusi doirasida mamlakatimiz xususiy banklarning
+kapitallashuv darajasini oshirish bo‘yicha amalga oshirilgan tadqiqotlar va
+tahlillarga tayanib quyidagi ilmiy xulosalar shakllantirildi:
+      1. Xususiy banklar kapitallashuv darajasini oshirishning yo‘llari ko‘pqirrali
+bo‘lib, ulardan asosiylari ustav kapitalini, taqsimlanmagan foydani, emission
+daromadni va joriy yil sof foydasini oshirish bilan bog‘liq yo‘llari yoritildi.
+      2. Xususiy banklar umumiy kapitalining bank sektorini umumiy kapitali
+hajmidagi salmog‘ining past darajada ekanligi, qo‘shilgan kapitalning umumiy
+kapital hajmidagi salmog‘ining kichikligi, xususiy banklarda qo‘shimcha kapitalni
+shakllantirish bilan bog‘liq bo‘lgan muammolar mavjudligi aniqlandi.
+      3. Maʼlumki, xususiy banklar kapitallashuv darajasini oshirishda emission
+daromad va taqsimlanmagan foyda muhim o‘rin tutadi. Shu bois, tadqiqotlar
+natijasida mamlakatimiz xususiy banklar o‘z mablag‘lari tarkibida emission
+daromad manbasining ulushi sezilarsiz darajada ekanligi aniqlandi, fikrimizcha,
+banklarning aksiyalarini birlamchi qimmatli qog‘ozlar bozoridagi nufuzini oshirish
+orqali ushbu manbani ko‘paytirishga alohida eʼtibor qaratishi lozim.
+
+                                                                                   27
+      4. Hukumat qarorlariga asosan bank foydasining 30 foizdan kam bo‘lmagan
+mablag‘lari to‘g‘ridan to‘g‘ri bank ustav kapitaliga yo‘naltirilishi lozim. Natijada,
+xususiy banklarning I darajali kapital salmog‘i oshib boradi.
+      5. Xususiy banklar qo‘shimcha kapitali tarkibida konsolidatsiyalashgan sho‘ba
+korxonalariga qilingan qo‘yilmalar manbasini shakllantirish lozim. Chunki, ushbu
+holat bozor iqtisodiyoti sharoitida xususiy banklar xizmat turlarini oshirishning
+muhim masalalardan, shu bilan birga, ularning daromadini oshirishning asosiy
+manbalaridan biri hisoblanadi. Shu jihatdan ham ularning qoshida mustaqil balansga
+ega bo‘lmagan faktoring va trast kompaniyalarini tashkil etish maqsadga
+muvofiqligi taʼkidlandi.
+      6. Tijorat banklari uzoq muddatga mo‘ljallangan uzoq muddatli qimmatli
+qog‘ozlarni muomalaga chiqarishi lozim. Hozirgi kunda tijorat banklarida uzoq
+muddatli resurslarga bo‘lgan talab juda yuqori, shu bilan birga, shularni hisobga olib
+banklarning uzoq muddatli, xususan subordinar qimmatli qog‘ozlarini muomalaga
+chiqarish lozim.
+      7. Xususiy bank aktsiyalarining ikkilamchi qimmatli qog’ozlar bozorida (IPO)
+ommaviy savdoga qo‘yilishini ta’minlash zarur. Buning uchun, birinchi navbatda,
+tijorat banklari tomonidan oddiy aktsiyalarga to‘lanadigan dividend darajasini
+investorlar manfaatlari uchun maqbul darajaga etkazish kerak. Bunday holda,
+hukumat tomonidan qisqa muddatli obligatsiyalar bo‘yicha to‘langan foizlardan asos
+sifatida foydalanish, inflyatsiya darajasi va valyuta kursining investorlarning bank
+aktsiyalariga kiritgan investitsiyalariga ta’sirini va ulardan keladigan daromadlarini
+hisobga olish kerak. Ko‘pgina tijorat banklarining ustav kapitalini ko‘paytirish
+uchun asosiy qismining ketma-ket bir necha yil davomida sof foydasini
+kapitallashtirish ular to‘laydigan dividendlarning pasayishiga olib keladi. Sof
+foydani kapitallashtirishda kapitalni shakllantirish matritsasidan foydalanish va
+dividendlarning doimiy o‘sish tendentsiyasini saqlab turish kerak. Aks holda,
+ikkilamchi fond bozorida aktsiyalarga barqaror talabni shakllantirish va bank
+aktsiyalarining bozor narxini aniqlash mumkin emas.
+      8. Xususiy banklarning kapitallashuv darajasini oshirish xususida iqtisodchi
+olimlar bergan ta’riflar turlicha bo‘lsada, tub mazmun va mohiyat bir xildir.
+Yuqoridagilarni e’tiborga olgan holda, aynan xususiy banklarning kapitallashuv
+darajasini oshirish xususida quyidagicha mualliflik yondashuvini ishlab chiqdik.
+Bank kapitallashuvi - bu bankning o‘z kapitali samaradorligining iqtisodiy
+ko‘rsatkichi bo‘lib, uning turli manbalar va mexanizmlar yordamida o‘zgaruvchan
+sharoitlarda o‘z-o‘zidan me’yoriy qiymatni saqlab qolish va o‘zini o‘zi ko‘paytirish
+qobiliyatini aks ettiradi. Bu orqali barcha banklar bank tizimida o‘z o‘rniga ega
+bo‘lishadi.
+      9. Xulosa qilib aytganda, bugungi kunda xususiy banklar bajarayotgan barcha
+operatsiyalar bevosita yoki bilvosita bank kapitalining etarliligi va uning darajasini
+oshirishga bog’liq bo‘lib, har qanday tijorat bankining to‘lovga qobilligini va
+risklardan holiligini baholashda bank kapitalining etarliligi asosiy omil hisoblanadi.
+Tijorat banklarining etarli miqdorda bank kapitaliga ega bo‘lishi, ularning to‘lovga
+qobilligi va likvidligini ta’minlash, shuningdek, faoliyati davomida duch keladigan
+risklardan zarar ko‘rmay chiqib ketish imkoniyatini beradi.
+      Yuqorida bildirilgan xulosalar xususiy banklar kapitallashuv darajasini oshirish
+va pirovard natijada ular faoliyatining samaradorligini oshirishga ijobiy taʼsir
+ko‘rsatadi.
+28
+НАУЧНЫЙ СОВЕТ № DSc. 03/10.12.2019.I.16.01 ПО ПРИСУЖДЕНИЮ
+УЧЕНЫХ СТЕПЕНЕЙ ПРИ ТАШКЕНТСКОМ ГОСУДАРСТВЕННОМ
+          ЭКОНОМИЧЕСКОМ УНИВЕРСИТЕТЕ
+НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР «НАУЧНЫЕ ОСНОВЫ И
+  ПРОБЛЕМЫ РАЗВИТИЯ ЭКОНОМИКИ УЗБЕКИСТАНА» ПРИ
+  ТАШКЕНТСКОМ ГОСУДАРСТВЕННОМ ЭКОНОМИЧЕСКОМ
+                  УНИВЕРСИТЕТЕ
+
+
+
+
+            МИРЗАЕВА МАТЛУБА ГАЙБУЛЛА КИЗИ
+
+
+
+  ПУТИ ПОВЫШЕНИЯ УРОВНЯ КАПИТАЛИЗАЦИИ ЧАСТНЫХ
+                    БАНКОВ
+
+
+
+            08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                            АВТОРЕФЕРАТ
+      диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                       Город Ташкент – 2025 год
+
+                                                                    29
+     Тема диссертации доктора философии (PhD) зарегистрирована под номером
+В2025.1.PhD/Iqt2771 в Высшей аттестационной комиссии.
+
+     Диссертационная работа выполнена в Научно-исследовательском центре «Научные основы
+и проблемы развития экономики Узбекистана» при Ташкентском государственном экономическом
+университете.
+     Автореферат диссертации опубликован на трех языках (узбекский, русский и
+английский (резюме) на веб-сайте Научного совета (www.tsue.uz) и Информационно-
+образовательном портале «ZiyoNet» (www.ziyonet.uz).
+
+     Научный руководитель:                 Калонов Мухиддин Бахритдинович
+                                           доктор экономических наук, профессор
+
+     Официальные оппоненты:                Джумаев Нодир Хосиятович
+                                           доктор экономических наук, профессор
+                                           Алимардонов Илхом Музрабшохович
+                                           доктор экономических наук, профессор
+
+     Ведущая организация:                  АКБ «Алокабанк»
+
+
+      Защита диссертации состоится в ____часов «____»_______ 2025 г. на заседании Научного
+совета №DSc.03/10.12.2019.I.16.01по присуждению ученых степеней при Ташкентском
+государственном экономическом университете. Адрес: 100066, город Тaшкент, улица Ислама
+Каримова, д. 49. Тел.: (99871) 239-01-49, факс: (99871)236992, e-mail: info@tsue.uz
+
+      С диссертацией можно ознакомиться в Информационно-ресурсном центре Ташкентского
+государственного экономического университета (регистрационный номер №___). Адрес: 100066,
+город Тaшкент, улица Ислама Каримова, д. 49. Тел.: (99871) 239-01-49, факс: (99871)232-69-92,
+e-mail: info@tsue.uz.
+
+     Автореферат диссертации разослан «____»_________ 2025 года.
+     (реестр протокола рассылки №____ от «____»_________ 2025 года).
+
+
+
+
+                                                                           С.У. Мехмонов
+                                                        Председатель Научного совета по
+                                                        присуждению ученых степеней, д.э.н.,
+                                                        профессор
+
+                                                                             У.В. Гафуров
+                                                        Секретарь Научного совета по
+                                                        присуждению ученых степеней, д.э.н.,
+                                                        прoфeссoр
+
+                                                                             С.К. Худойкулов
+                                                        Председатель Научного семинара при
+                                                        Научном совете по присуждению
+                                                        ученых степеней, д.э.н., профессор
+
+30
+            ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+    Актуальность и востребованность темы диссертации. В мировой
+экономике увеличение капитализации частных банков имеет важное
+значение для укрепления устойчивости финансовой системы и
+стимулирования экономического роста. Укрепление базы капитала повышает
+финансовую устойчивость банков, расширяет возможности кредитования и
+снижает уровень риска на финансовых рынках. Это стимулирует активность
+частного сектора, финансирование новых инвестиционных проектов и
+способствует росту общей экономической активности. Кроме того, высокий
+уровень капитализации укрепляет доверие к банковской системе и является
+важным фактором обеспечения устойчивости экономики в условиях
+глобальной финансовой нестабильности. В частности, по данным
+Всемирного банка, “на конец 2020 года совокупный капитал первого уровня,
+принадлежащий 1000 крупнейшим банкам мира, составил 9,9 трлн. долларов
+США, что является самым высоким показателем за всю историю и что на
+12,7 процента больше, чем в предыдущем году. Минимальный размер
+капитала первого уровня для 1000 банков также достиг 547 миллионов
+долларов США. Впервые эта цифра превысила 500 миллионов долларов, что
+свидетельствует о том, что, несмотря на проблемы, вызванные пандемией
+COVID-19, мировой банковский сектор находится в хорошей позиции, чтобы
+пережить экономический кризис”1. При обеспечении уровня капитализации
+коммерческих банков, особенно частных, важным является обеспечение их
+текущей ликвидности за счет инвестиций в высоколиквидные ценные бумаги
+и устойчивости обязательств, а также повышение требований к
+достаточности регулятивного капитала.
+    В настоящее время научные исследования, проводимые во всем мире по
+повышению капитализации частных банков, в основном направлены на
+обеспечение финансовой устойчивости, разработку эффективных моделей
+управления рисками, оптимизацию требований к капиталу, а также глубокий
+анализ взаимосвязи банковского кредитования и экономического роста.
+Кроме того, к приоритетным исследованиям относятся оценка влияния
+требований к капиталу в соответствии со стандартами Базеля (в частности,
+Базеля III и Базеля IV), изучение динамики структуры капитала банков и
+процессов адаптации к макроэкономической среде, а также разработка новых
+механизмов капитализации в условиях цифрового банкинга и финансовых
+инноваций.
+    В Узбекистане обеспечение уровня капитализации частных банков и
+постоянное ее повышение за счет устойчивых источников остается одним из
+важных вопросов. В частности, на обеспечение и повышение уровня
+капитализации банков негативно влияют такие факторы, как отсутствие
+свободного обращения обыкновенных акций банков на фондовом рынке,
+высокая доля государства в капитале банков, практически полное отсутствие
+
+1
+    http://www.worldbank.org/
+
+                                                                       31
+эмиссионного дохода в общей структуре капитала, крайне низкий размер
+выплачиваемых дивидендов по акциям банков, слабость депозитной базы,
+тенденция к увеличению доли проблемных кредитов. В частности, на
+обеспечение и повышение уровня капитализации банков негативно влияют
+такие факторы, как отсутствие свободного обращения простых акций банков
+на фондовом рынке, высокая доля государства в капитале банков,
+практически полное отсутствие эмиссионного дохода в общей структуре
+капитала, крайне низкий размер выплачиваемых дивидендов по акциям
+банков, слабость депозитной базы, тенденция к увеличению доли
+проблемных кредитов. В частности, одним из важных направлений
+определено “углубление реформирования банковской системы и обеспечение
+ее устойчивости, повышение уровня капитализации и депозитной базы
+банков, укрепление их финансовой устойчивости и надежности” 2 . Поиск
+решений этих проблем требует проведения научных исследований в этой
+области.
+    Данное диссертационное исследование в определенной степени служит
+реализации задач, определенных в Указах Президента Республики
+Узбекистан от 28 января 2022 года №УП-60 “О Стратегии развития Нового
+Узбекистана на 2022-2026 годы”, от 3 февраля 2021 года №УП-6155 “О
+Государственной программе по реализации Стратегии действий по пяти
+приоритетным направлениям развития Республики Узбекистан в 2017 - 2021
+годах в “Год поддержки молодежи и укрепления здоровья населения”, от 12
+мая 2020 года №УП-5992 “О Стратегии реформирования банковской
+системы Республики Узбекистан на 2020-2025 годы”, от 2 сентября 2017 года
+№УП-5177 “О первоочередных мерах по либерализации валютной политики”,
+Постановлении Президента Республики Узбекистан от 12 сентября 2017 года
+№ПП-3270 “О мерах по дальнейшему развитию и повышению устойчивости
+банковской системы республики”, а также других нормативно-правовых
+актах, относящихся к данной сфере.
+    Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетными направлениями развития науки
+и технологий I. «Духовное, нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+    Степень изученности проблемы. Вопросы сущности, структуры,
+достаточности и совершенствования уровня капитализации частных банков
+всесторонне исследованы в научных трудах зарубежных классиков и
+современных ученых-экономистов, таких как А.Смит, К.Маркс,
+И.Трахтенберг, С.Лукаш, В.Киселев, О.Лаврушин, Дж.Матук, Д.Барлтон,
+
+
+2
+ Приложение 1 к Указу Президента Республики Узбекистан от 7 февраля 2017 года №УП-4947 «О
+Стратегии действий по дальнейшему развитию Республики Узбекистан» //Сборник законодательных актов
+Республики Узбекистан. – Tашкент, 2017. – № 6 (766). – с.32.
+
+32
+Д.МакНоттон, Э.Рид3. В научных трудах ученых-экономистов Узбекистана,
+таких как Ш.Абдуллаева, Т.Каралиев, А.Омонов, Б.Бабаев, У.Ортиков,
+У.Розукулов, М.Эгамова, Р.Курбанов, изучены особенности капитала
+частных банков4.
+    Связь темы диссертации с планами научно-исследовательской работы
+высшего образовательного учреждения, где выполнена диссертация.
+Диссертационное исследование выполнено в соответствии с планом научно-
+исследовательских работ Ташкентского государственного экономического
+университета в рамках научного проекта на тему “Научные основы
+координации финансовой, банковской и учетной систем в условиях
+модернизации экономики”.
+    Целью исследования является разработка научных предложений и
+практических рекомендаций, направленных на повышение уровня
+капитализации частных банков Республики Узбекистан.
+    Задачи исследования:
+    изучение экономического значения источников и устойчивости
+капитализации банков, присущих рыночной экономике с научно-
+теоретической точки зрения;
+    изучение теоретических и методологических основ повышения уровня
+капитализации частных банков с научной точки зрения;
+    изучение зарубежного опыта обеспечения формирования капитала
+частных банков и повышения уровня капитализации, формулировка научных
+предложений и практических рекомендаций по использованию его
+положительных сторон в банковской деятельности нашей страны;
+    выявление проблем, связанных с повышением уровня капитализации
+частных банков и разработка рекомендаций по их решению;
+
+
+3
+  Смит А. Исследование о природе и причинах богатств народа. – Петрозаводск.: 1993. - С.271. Маркс К.
+Капитал. Критика политической экономики. - ТЗ КН 2 М.: 1989. – С.442. Трахтенберг И. Денежное
+обращение и кредит при капитализме. – Москва.: 1962.- С.547. McLeod .The Theory of credit. London.-1897y
+С.Н. Лукаш, А.А. Малютина «Банковская энциклопедия». Днепропетровск 1994. С-24 Банковское дело под
+ред. Проф. И.О.Лаврушина М- «Ф и С» 2001г. С-74. В.В Киселев. «Управление банковским капиталом»
+Москва « Экономика» 1997. С-18. Жан Матук. «Финансовые системы Франции и других стран» 1том
+перевод с англ. Москва «Финстатикформ» 1994г С-25. Э.Рид, Котлер, Э.Гилл ва Р.Смит Коммерческие
+банки. перевод с анг. М. «Прогресс» 1933г. С-189 Борисов А.Б. Большой экономический словарь. Издание
+второе, Москва Книжный мир 2006 г С-299. Крис Дж Барлтон ва Д Мак-Нотон «Банковские учреждения в
+развивающихся странах», 2 том. Всемирный банк Вашингтон, Д.С 1992г. С-101.
+4
+  Sh.Abdullayeva, T.Karaliyev va U.Ortikov. “Bank resurslari va ularni boshqarish” Toshkent. “Iqtisod-Moliya”,
+2009-yil. B-48-49. Бабаев Б.Б. Вопросы формирования ресурсов коммерческих банков и их эффективное
+использование. Автореферат диссертации на соиск уч. степ. к.э.н. –Ташкент: БФА. 2002.-21 с.; Omonov A.A.
+Bank kapitalini samarali boshqarish masalalari. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan
+dissertatsiya avtoreferati –Toshkent: DJQA, 2005. -21 b.; Ortiqov U.D. Bank resurslari va ularni boshqarish. Iqtisod
+fanlari nomzodi ilmiy darajasini olish uchun yozilgan dissertatsiya avtoreferati –Toshkent: BMA, 2008. -20 b.;
+Rozukulov U.U. Analiz nadejnosti kommercheskix bankov i puti ukrepleniya ix ustoychivosti. Avtoreferat
+dissertatsii na soisk. uchen. step. k.e.n. –Tashkent: BFA, 2002. -22 s. Egamova M.E. “Tijorat banklari kapitallashuv
+darajasini oshirishda daromadning roli” Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy darajasini olish
+uchun yozilgan avtoreferati Toshkent: TMI, 2019.-56 b. Qurbonov R.B. “Xususiy banklarning resurs bazasi va uni
+mustahkamlash masalalari” Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy darajasini olish uchun yozilgan
+avtoreferati Toshkent: TMI, 2012.-56 b.
+
+                                                                                                                33
+    разработка научных предложений, практических рекомендаций и
+соответствующих выводов по повышению уровня капитализации частных
+банков нашей страны.
+    Объектом исследования являются частные банки Республики
+Узбекистан.
+    Предметом исследования являются экономические отношения,
+возникающие в процессе повышения уровня капитализации частных банков.
+    Методы исследования. В исследовании использовались такие методы
+финансового     анализа,    как   группировка,    методы    структурного,
+сравнительного, факторного анализа и метод финансовых коэффициентов.
+    Научная новизна исследования заключается в следующем:
+    обосновано повышение уровня капитализации частных банков
+(3%≤УКЧБ≤5%) посредством расширения практики выпуска долгосрочного
+субординированного      долга,   являющегося    основным     компонентом
+добавочного капитала, за счет “зеленых субординированных облигаций” и
+“токенизированных субординированных инструментов финансирования на
+основе финтеха”;
+    установлено, что капитализация банков может быть увеличена до 25
+процентов за счет увеличения объема эмиссионных поступлений на основе
+диверсификации способов привлечения средств наряду с традиционной
+эмиссией акций как части источников собственных средств частных банков и
+инновационных финансовых инструментов - конвертируемых облигаций,
+стейкинг (staked) активов;
+    обосновано       повышение      пределов     уровня    капитализации
+(5%≤УКЧБ≤10%) за счет развития объема финансовых вложений,
+осуществляемых в дочерние компании, не имеющие самостоятельного
+баланса, в составе добавочного капитала частных банков в новом формате,
+интегрированном с цифровыми банковскими сервисами и финтех-стартапами
+дочерних компаний;
+    обосновано предложение о повышении уровня капитализации банка за
+счет направления 30 процентов прибыли текущего финансового года в
+уставный капитал посредством целевого направления финансовых потоков
+при реинвестировании прибыли частных банков на основе smart стратегий
+реинвестирования, то есть на основе восстановления прибыли по возвратным
+инвестиционным проектам.
+    Практические результаты исследования заключаются в следующем:
+    разработан авторский подход к повышению капитализации частных
+банков;
+    обосновано предложение по повышению уровня капитализации
+коммерческих банков и обеспечению ее устойчивости путем выпуска в
+обращение долгосрочных субординированных облигаций;
+    сформулировано предложение по повышению капитализации частных
+банков путем увеличения их капитала за счет непрерывной эмиссии простых
+акций;
+
+34
+     обоснована возможность увеличения доли эмиссионного дохода в
+структуре собственных средств частных банков за счет активизации их
+участия на фондовом рынке, что позволит получить дополнительную
+прибыль для банка;
+     обоснованы рекомендации по решению существующих проблем
+повышения уровня капитализации частных банков в нашей стране на основе
+системного анализа практики зарубежных стран.
+     Достоверность результатов исследования определяется исследованием
+научных взглядов отечественных и зарубежных ученых и специалистов,
+посвященных теоретическим и практическим проблемам повышения уровня
+капитализации частных банков, а также анализом отчетов и данных
+Национального комитета по статистике Республики Узбекистан, Центрального
+банка Республики Узбекистан, а также частных банков нашей страны.
+     Научная и практическая значимость результатов исследования.
+Разработанные в рамках исследования научные предложения и практические
+рекомендации направлены на обогащение научного аппарата по повышению
+уровня капитализации частных банков. Частные банки могут повысить
+уровень своей капитализации путем определения достаточности капитала,
+разработки соответствующих методов и моделей для оценки достаточности
+капитала, а также проведения исследований в данной области.
+     Практическая значимость исследования заключается в том, что оно
+может быть использовано в практике повышения уровня капитализации
+частных банков, повышения устойчивости их капитала и изучения структуры
+капитала, а также при разработке проектов нормативно-правовых актов в
+данной сфере.
+     Внедрение результатов исследования. На основе научных результатов
+по повышению уровня капитализации частных банков:
+     предложение по повышению уровня капитализации частных банков
+(3%≤УКЧБ≤5%) посредством расширения практики выпуска долгосрочного
+субординированного      долга,   являющегося     основным     компонентом
+добавочного капитала, за счет “зеленых субординированных облигаций” и
+“токенизированных субординированных инструментов финансирования на
+основе финтеха” включено в кредитную политику ЧАКБ “Даврбанк”
+(справка № 21425 ЧАКБ “Даврбанк” от 25 сентября 2024 года). Внедрение в
+практику данного предложения способствовало увеличению добавочного
+капитала на 15,65 млрд. сумов;
+     предложение по увеличению капитализации банков до 25 процентов за
+счет увеличения объема эмиссионных поступлений на основе
+диверсификации способов привлечения средств наряду с традиционной
+эмиссией акций как части источников собственных средств частных банков и
+инновационных финансовых инструментов - конвертируемых облигаций,
+стейкинг (staked) активов, нашло свое отражение в кредитной политике ЧАБ
+“Трастбанк” и ЧАКБ “Даврбанк” (справки № 01-04/2805 ЧАБ “Трастбанк” от
+24 августа 2024 года и № 21425 ЧАКБ “Даврбанк” от 25 сентября 2024 года).
+В результате внедрения в практику данного предложения рыночная
+                                                                       35
+стоимость акций банка, в основном простых акций, выросла на 15–17
+процентов;
+     предложение по обоснованию повышения пределов уровня
+капитализации (5%≤УКЧБ≤10%) за счет развития объема финансовых
+вложений, осуществляемых в дочерние компании, не имеющие
+самостоятельного баланса, в составе добавочного капитала частных банков в
+новом формате, интегрированном с цифровыми банковскими сервисами и
+финтех-стартапами дочерних компаний, внедрено в практику ЧАБ
+“Трастбанк” (справка № 01-04/2805 ЧАБ “Трастбанк” от 24 августа 2024
+года). В результате внедрения данного предложения при банке созданы две
+консолидированные дочерние компании - ООО “Trast Muamalat” и ООО
+“Trast Leasing”, а за счет выделения финансовых ресурсов в размере 39 млрд.
+сумов в 2023 году добавочный капитал банка увеличен на 21,2 процента;
+     предложение о повышении уровня капитализации банка за счет
+направления 30 процентов прибыли текущего финансового года в уставный
+капитал посредством целевого направления финансовых потоков при
+реинвестировании прибыли частных банков на основе “smart стратегий
+реинвестирования, то есть на основе восстановления прибыли по возвратным
+инвестиционным проектам нашло свое отражение в кредитной политике ЧАБ
+“Трастбанк” и ЧАКБ “Даврбанк” (справки № 01-04/2805 ЧАБ “Трастбанк” от
+24 августа 2024 года и № 21425 ЧАКБ “Даврбанк” от 25 сентября 2024 года).
+В результате реализации данного предложения капитал банков по состоянию
+на 1 января 2024 года составил 2043,8 млрд. сумов и 1006 млрд. сумов
+соответственно.
+     Апробация результатов исследования. Результаты исследования прошли
+обсуждение на 10 научно-практических конференциях, из которых 5
+республиканских и 5 международных научно-практических конференций.
+     Опубликованность результатов исследования. Всего по теме
+диссертации опубликовано 19 научных работ, из них 9 научных статей в
+научных журналах, рекомендованных Высшей аттестационной комиссией
+Республики Узбекистан для публикации основных результатов докторских
+диссертаций, из которых 3 статьи в республиканских журналах и 6 статей в
+зарубежных журналах.
+     Структура и объем диссертации. Структура диссертационной работы
+состоит из введения, трех глав, заключения и списка использованной
+литературы. Объем исследования составляет 113 страниц.
+
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+
+    Во введении диссертации обоснованы актуальность и значение
+исследования, определены его цель и основные задачи, объект и предмет
+диссертации, показано соответствие приоритетным направлениям развития
+науки и технологий в республике, обоснована научная новизна и изложены
+практические результаты, раскрыты научное и практическое значение
+полученных результатов, представлены данные о внедрении результатов
+36
+исследования, а также приведены сведения об опубликованных работах и
+структуре диссертации.
+     В первой главе диссертации: “Экономико-теоретические основы и
+зарубежный опыт повышения уровня капитализации частных банков”
+автор рассматривает теоретические основы и экономическую сущность
+повышения уровня капитализации банков, источники формирования
+банковского капитала и значение повышения уровня его капитализации,
+зарубежный опыт и теоретические взгляды на повышение устойчивости
+банковского капитала, а также выявляет экономические направления
+обеспечения повышения уровня капитализации частных банков.
+     Частным банкам необходимо иметь достаточный капитал для
+осуществления своей деятельности, что невозможно представить без
+капитала на достаточном уровне и стабильной доходной базы. По этой
+причине капитал частных банков служит важнейшим источником
+финансовых ресурсов для выполнения нормативов экономического
+регулирования, установленных Центральным банком при создании и
+открытии банка, осуществлении его основной деятельности, а также
+“подушкой безопасности” для покрытия возможных убытков в банковской
+деятельности. В сложившихся условиях вопрос повышения уровня
+капитализации частных банков остается одним из наиболее актуальных.
+     Поэтому вопрос сравнительного исследования природы банковского
+капитала, его формирования за счет устойчивых источников и повышения
+его уровня всегда будет оставаться одной из актуальных задач.
+     На сегодняшний день принимая во внимание наличие в экономической
+литературе различных трактовок сущности повышения капитализации
+частных банков, мы хотели бы остановиться на этом экономическом понятии
+более подробно.
+     Опыт международной банковской практики показывает, что в условиях
+рыночных отношений укрепление платежеспособности банков и завоевание
+доверия населения к банковской системе является одной из самых сложных
+задач при обеспечении эффективности и достаточности капитала
+коммерческих банков.
+     Как известно, наличие банковского капитала является одним из
+основных условий создания и функционирования банка. Формирование и
+постоянное увеличение капитала частных банков играет важную роль в
+обеспечении эффективности экономических реформ и рыночных отношений.
+     По нашему мнению, прежде чем обсуждать экономическую сущность
+повышения капитализации частных банков, очень важно дать определение
+термину “частный банк”. Частный банк - это банк, созданный отдельным
+лицом или общими товарищами с ограниченной ответственностью. В
+банковской практике Узбекистана частными банками признаются банки и
+иные кредитные учреждения, страховые организации, а также иные
+юридические лица, оказывающие только финансовые услуги, в которых доля
+физических лиц, являющихся учредителями (участниками), в уставном
+фонде (уставном капитале) должна составлять не менее пятидесяти
+                                                                     37
+процентов5. Подобные банки не существуют в форме корпораций. История
+этих банков восходит к Швейцарии и Великобритании.
+    Если обратиться к истории, то в Европе было много частных банков, но
+большинство из них были преобразованы в корпорации, поэтому этот термин
+теряет свою силу. Сегодня термин “частный банк” относится к финансовым
+учреждениям, которые специализируются на предоставлении финансовых
+консультаций и услуг частным лицам, имеющим высокую прибыль ((HNWI)
+или private banking)6.
+    Ряд ученых изучали теоретические основы повышения капитализации
+банков и представили различные взгляды и теории. В частности, экономисты
+высказали разные мнения об экономической природе банковского капитала.
+В частности, профессор В.М.Усоскин рассматривает банковский капитал как
+важную и неотъемлемую составляющую финансовых ресурсов банка7.
+    В существующей экономической литературе понятие “уровень
+капитализаци” и вопросы ее повышения исследовались зарубежными
+учеными и специалистами, и по результатам даны соответствующие
+определения.
+    М.Э.Эгамова в своем исследовании утверждает, что “деятельность
+коммерческих банков немыслима без инвестиций, то есть без достаточной
+капитализации. Таким образом, капитал коммерческих банков выступает в
+качестве важного финансового ресурса, изначально как ключевой критерий
+при открытии банков, а в дальнейшем как “подушка безопасности” при
+выполнении экономических нормативов Центрального банка, а также как для
+покрытия непредвиденных убытков в банковской деятельности8.
+    В исследовании А.С.Климова понятие “капитализация” определяется
+как “рыночная стоимость капитала кредитной организации как умножение
+количества акций на их рыночную стоимость”9.
+    Повышение уровня капитализации коммерческих банков и укрепление
+их финансовой устойчивости являются важнейшими условиями обеспечения
+устойчивости банковской системы страны 10 . Как известно, капитал
+коммерческих банков формируется за счет средств акционеров банка и
+других источников11.
+    Отечественные экономисты профессор Ш.Абдуллаева и А.Омонов
+определили банковский капитал следующим образом: “Капитал
+коммерческих банков является стабильным ресурсом и своего рода
+
+5
+  Закон Республики Узбекистан «О частных банках и финансовых институтах и гарантиях их деятельности»
+от 17 декабря 2012 года.
+6
+  Youssef Cassis, Philip Cottrell // The World of Private Banking // Ashgate Publishing, Ltd., 2009 – pp 32
+7
+  Усоскин В.М. Современный коммерческий банк: Управление и операции.-М: «Вазар-Ферро»,1994.С.92.
+8
+  Egamova M.E.Tijorat banklari kapitallashuv darajasini oshirishda daromadning roli. Iqtisodiyot bo‘yicha falsafa
+doktori (Doctor of Philosophy). Dis. avtoreferati. – T.: TMI, 2019. – с. 28
+9
+  КлимовА.С.Капитализация коммерческих банков: мировая практика и ее использование российскими
+банковскими структурами: диссертация. кандидата экономических наук: Москва, 2008.-180 с.
+10
+   Kurbano, R. B. (2021). Improving the organization of the resource base of private banks of the republic of
+Uzbekistan. SAARJ Journal on Banking & Insurance Research, 10(5), 41-45.
+11
+   Bakhtiyarovich, K. R. (2020). Analysis of Financial Performance of Private Banks in Uzbekistan. International
+Journal of Psychosocial Rehabilitation, 24(05).
+
+38
+защитным инструментом, позволяющим банку покрывать непредвиденные
+потери в процессе деятельности”12.
+     Профессор В.М.Усоскин рассматривает банковский капитал как важную
+и неотъемлемую составляющую финансовых ресурсов банка13. Очевидно, что
+капитал считается важной и неотъемлемой частью банковских ресурсов, что
+привело к игнорированию его основных функций (защитной, операционной и
+регулирующей).
+     Среди российских ученых Лаврушин О.И. в своей книге “Банковское
+дело” отмечал, что “по способу формирования капитала коммерческие банки
+делятся на акционерные и заемные” 14 . Масленченков Ю.С. в книге
+“Финансовый менеджмент в коммерческом банке” пишет, что “Капитал
+банка состоит из собственных и привлеченных средств” 15 . Из их работ
+очевидно, что эти ученые-экономисты уделяли большое внимание
+структурному формированию ресурсов и изучали банковский капитал только
+разделив его на две группы.
+     Короче говоря, капитал частных банков - это средства, принадлежащие
+банку, которые включают в себя капитал банка, нераспределенную прибыль,
+доходы будущих периодов и собственные средства в системе расчетов.
+Таким образом, под собственными средствами банка следует понимать
+различные фонды, сформированные для обеспечения финансовой
+устойчивости в коммерческой деятельности, а также доходы от операций
+прошлых и текущих лет.
+     Капитал банка играет важную роль в деятельности частных банков и
+включает в себя следующие аспекты:
+     уставный капитал;
+     резервный капитал;
+     специальные фонды;
+     фонд материального стимулирования;
+     нераспределенная прибыль16.
+     Сегодня стандарты, разработанные Международным Базельским
+комитетом, используются в качестве основы для формирования структуры
+капитала и определения уровня его достаточности в более чем 100 странах
+мира, в том числе и в нашей республике.
+     Основным направлением деятельности Базельского комитета является
+обеспечение надежного функционирования банковской системы путем
+установления достаточных требований к капиталу с качественной и
+количественной точки зрения. В данном аспекте основным документом
+является Соглашение Базель I о капитале и рисках, разработанное
+представителями Центрального банка в 1988 году и введенное в действие в
+
+12
+   Abdullayeva Sh. va Omonov A. “Tijorat banklarining kapitali va uni boshqarish” Monografiya T.: “Iqtisod-
+moliya”. B-110. 2007-yil.
+13
+   Усоскин В.М. Современный коммерческий банк: Управление и операции. –М.: “Вазар-Ферро”, 1994. C.92.
+14
+   Лаврушин О.И. Банковское дело. Москва, «Финансы и Статистика», 2016 г , с 648
+15
+   Масленченков Ю.С. Финансовый менежмент в коммерческом банке. Москва, «Перспектива» 1996 г. С-255
+16
+   Azizov U.O‘. va b. Bank ishi. Darslik. - T.: Iqtisod-moliya, 2016.139 b.
+
+                                                                                                        39
+1993 году, в котором изложена методика расчета норматива достаточности
+капитала.
+    В 1988 году Международный Базельский комитет разработал
+Соглашение о достаточности капитала банков (Базель I), в котором была
+введена концепция регулятивного капитала (общего капитала) для расчета
+достаточности капитала. Регулятивный капитал - капитал банка, состоящий
+из основного и добавочного капитала и определяемый расчетным путем в
+целях управления банковской деятельностью и расчета экономических
+нормативов.
+    Центральный банк играет ключевую роль в реализации требований
+Базеля II. Новые требования также должны найти отражение в нормативных
+документах, методах и технологиях риск-менеджмента, устанавливаемых
+Центральным банком.
+    В международной банковской практике коммерческие банки имеют
+разнообразные источники капитала и эффективно используют рыночные
+инструменты. Считаем целесообразным ввести в качестве положительных
+аспектов опыта деятельности коммерческих банков нашей страны
+нераспределенную прибыль, эмиссионный доход и долгосрочные
+субординированные обязательства.
+    Во второй главе диссертации: “Основные тенденции обеспечения
+увеличения уровня капитализации частных банков” рассматривается и
+анализируется современное состояние уровня капитализации частных банков.
+В данной главе также представлен анализ использования экономических
+механизмов повышения уровня капитализации частных банков и влияющих на
+него внутренних и внешних факторов. В результате их анализа был
+сформулирован ряд выводов и рекомендаций.
+
+                                                                Таблица 1
+       Структура и динамика капитала частных банков, осуществляющих
+                        деятельность в нашей стране17
+                                (по состоянию на 1 января, в процентах по
+                                        отношению к общему показателю)
+  Структура собственных                    2019 г.      2020 г.     2021 г.      2022 г.      2023 г.
+         средств
+Уставный капитал                            65,0 %       63,7%       66,5%        66,5%       65,2%
+Добавочный капитал                           2,1 %        3,8%        0,8%         1,8%        2,3%
+Резервный капитал                            9,4%         9,5%        8,9%         8,9%        9,2%
+Нераспределенная прибыль                    23,5%        22,9%       23,8%        22,8%       23,3%
+Собственные средства, всего                  100,0       100,0       100,0        100,0       100,0
+
+    С момента появления банков в качестве важного вопроса внимание было
+сосредоточено на их первоначальных инвестициях, уровне их капитала.
+Начавшийся в 2008 году мировой финансово-экономический кризис в
+17
+     Составлено на основе данных сайта Центрального банка Республики Узбекистан www.cbu.uz.
+
+40
+очередной раз доказал, что повышение уровня капитализации банковской
+системы является одним из важнейших экономических вопросов обеспечения
+ее устойчивости. Ниже представлена информация о структуре и динамике
+основного капитала коммерческих банков.
+     Данные таблицы 1 демонстрируют, что уставный капитал частных
+банков по состоянию на 31 января 2019 года составил 68,6 процента от их
+собственных средств, увеличившись по сравнению с 31 декабря 2022 года на
+0,2 процента, и соответственно, в абсолютном выражении уставный капитал
+за анализируемый период увеличивается. По нашему мнению, положительно
+оценивая увеличение доли уставного капитала в капитале частных банков,
+необходимо не допустить ее снижения, поскольку этот источник является,
+во-первых, стабильным источником, а во-вторых, одним из самых дешевых
+финансовых ресурсов по сравнению с привлекаемыми средствами. Кроме
+того, мы не должны допускать уменьшения доли капитала, добавляемого к
+собственному капиталу частных банков нашей страны. Доля добавочного
+капитала банков в банковском капитале в анализируемый период также была
+невысокой и составила 2,1 процента в 2019 году, однако по состоянию на
+31 декабря 2022 года этот показатель увеличился на 0,2 процентных пункта и
+составил 2,3 процента. Данный показатель является низким по сравнению с
+международной банковской практикой, что, безусловно, обусловлено тем,
+что частные банки нашей страны продают акции в основном физическим
+лицам, являющимися их учредителями, и свидетельствует о непрозрачности
+процесса купли-продажи.
+     Из данных таблицы 2 очевидно, что в нашей стране значительную долю
+капитала коммерческих банков составляют специальные резервы. При
+изучении состава специального резервного капитала выяснилось, что
+основную его часть составляют резервы под обесценивание. Например, в
+таблице 2 мы видим, что доля специальных резервов в основном капитале
+коммерческих банков снизилась с 16,3 процента в 2017 году до 8,9 процента
+в 2020 году, или на 7,4 процентных пункта за тот же период, но доля
+специальных резервов значительна. В то же время следует отметить, что
+нераспределенная прибыль банков, хотя и нестабильна, но имеет
+определенную долю.
+     По нашему мнению, необходимо не допустить снижения доли уставного
+капитала в совокупном капитале коммерческих банков, поскольку этот
+источник является, во-первых, стабильным источником, а во-вторых, одним
+из самых дешевых финансовых ресурсов по сравнению с привлекаемыми
+средствами. Необходимо также не допустить снижения доли добавочного
+капитала в структуре капитала коммерческих банков нашей страны. За
+анализируемый период доля добавочного капитала банков в банковском
+капитале также была незначительной, составив в 2017 году 0,5 процента,
+тогда как по состоянию на 1 января 2018 и 2019 годов данный показатель
+снизился на 0,2 процентных пункта до 0,3 процента, то есть доля этого
+источника весьма низка, что, безусловно, свидетельствует о низком престиже
+
+                                                                        41
+акций коммерческих банков нашей страны на финансовых рынках и
+непрозрачности процесса купли-продажи.
+    В целом повышение уровня капитализации коммерческих банков и
+укрепление их финансовой устойчивости является необходимым условием
+обеспечения устойчивости банковской системы страны. Как известно, одним
+из основных способов повышения капитализации коммерческих банков
+является увеличение уставного капитала банка. В последние годы
+коммерческие банки нашей республики уделяют особое внимание
+увеличению своего уставного капитала и именно в частных банках начинают
+уделять внимание этому вопросу. Мы можем увидеть это в нижеприведенной
+таблице.
+                                                              Таблица 2
+    Совокупный уставный капитал частных банков (млрд. сумов)18
+ Название банка                    2019    2020     2021    2022      2023     Рост в 2023 году по
+                                    год     год      год     год       год     отношению к 2019
+                                                                               году
+                                                                               (+;-)   %
+ ЧАКБ «Tрастбанк»                   227     362      362     562     1001,8     774,8     341,3
+ ЧАКБ «Ориент финанс»               562     769      903    1106      2110      1548      275,3
+ ЧАКБ «Даврбанк»                    163     170      344     400       400       237      145,4
+ ЧАКБ «Равнак банк»                 100     100      100     100       100        0        0,0
+ Всего                             1052    1401     1709    2168      3612            2560
+
+     Данные таблицы показывают, что уставный капитал 4 коммерческих
+банков составил 3612 млрд. сумов в совокупном уставном капитале частных
+банков в 2023 году, увеличившись в 2,4 раза по сравнению с 2019 годом.
+Хотя это, безусловно, является положительной ситуацией, уставный капитал
+ЧАКБ “Равнак банк” последние 5 лет достиг 100 млрд.сумов и нельзя сказать,
+что банк на протяжении многих лет не предпринимал никаких усилий по его
+увеличению. Причина в том, что с 1 апреля 2025 года законодательством
+установлено, что уставный капитал всех банков должен быть не менее 500
+млрд. сумов19.
+     В заключение следует отметить, что частным банкам следует искать
+возможности увеличения своего уставного капитала. В противном случае это
+поставит под вопрос дальнейшую деятельность коммерческих банков.
+     Из этого следует, что нашим частным банкам в ближайшее время
+необходимо резко увеличить уставный капитал. Кроме того, существуют
+проблемы с размещением акций, выпущенных коммерческими банками.
+     Средняя годовая ставка дивидендов, предлагаемых банками,
+практически соответствует ставкам по депозитам в банках, кроме того, они
+являются изменчивыми, а размер дивидендов может уменьшаться в
+результате проблем в банковской деятельности. При этом эмиссионный
+доход в капитале частных банков практически незаметен. Подобная ситуация
+означает, что акции наших банков продаются на рынке ценных бумаг
+18
+     Данные официального сайта Центрального банка Республики Узбекистан http://www.cbu.uz .
+19
+     Закон №ЗРУз-580 «О банках и банковской деятельности» от 5 ноября 2019 года.
+
+42
+практически по номиналу. По-прежнему отсутствуют факторы, влияющие на
+их рыночную (реальную) цену.
+    В настоящее время расширение практики выпуска долгосрочного
+субординированного долга коммерческими банками, являющегося основным
+компонентом дополнительного капитала, посредством включения «зеленых
+субординированных облигаций» и «токенизированных инструментов
+субординированного финансирования на базе финтеха» рассматривается как
+актуальный инструмент для частных банков, направленный на повышение
+уровня капитализации (3%≤УКЧБ≤5%) и достижение устойчивости.
+    Отсутствие у банков субординированных долговых обязательств
+свидетельствует о слабости позиций коммерческих банков на рынке
+долгосрочного кредитования, поскольку субординированные долговые
+обязательства являются удобным и недорогим способом привлечения
+долгосрочных ресурсов в коммерческие банки.
+    Крайне низкий уровень субординированных долговых обязательств
+частных банков свидетельствует о слабости их позиций на рынке
+долгосрочного кредитования. Потому что субординированные долговые
+обязательства являются удобным и недорогим способом привлечения
+долгосрочных ресурсов для частных банков. Кроме того, в перспективе
+возможна конвертация субординированных долговых обязательств
+доверенных клиентов в акции банка для увеличения уставного капитала
+частного банка.
+
+
+
+
+                       Сумма привлеченных субординированных долгов (млрд.сумов)   Количество договоров (единиц)
+
+
+
+           Рисунок 1.Объем привлеченного коммерческими банками
+     субординированного долга20(по состоянию на 01.10.2024 г., млрд.сумов)
+    Согласно данным рисунка 1, по состоянию на 1 октября 2024 года
+основная часть привлеченного коммерческими банками в нашей стране
+субординированного долга приходилась на крупные коммерческие банки.
+Если проанализировать ситуацию, то общий объем привлеченных
+субординированных долговых обязательств составил 12746 млрд. сумов.
+20
+     Подготовлено на основе данных Центрального банка Республики Узбекистан www.cbu.uz.
+
+                                                                                                                  43
+Среди     частных    банков    только    ЧАКБ     “Даврбанк”     привлек
+субординированные долговые обязательства на сумму 178 млрд.сумов. Его
+доля на рынке составляет 1,4 процента. По нашему мнению, оставшимся в
+нашей республике частным банкам также следует использовать данную
+практику для повышения достаточности своего нормативного капитала.
+Поэтому частным банкам целесообразно шире внедрять практику
+привлечения долгосрочных субординированных долговых обязательств.Это
+неизбежно приводит к необходимости повышения уровня капитализации
+(5%≤KDXB≤10%) за счет развития дочерних структур банка в новом
+формате, интегрированном с цифровыми банковскими сервисами и финтех-
+стартапами.
+    Принят приказ директора Национального агентства перспективных
+проектов «О внесении изменений и дополнений в Правила государственной
+регистрации выпусков ценных бумаг и выпусков эмиссионных ценных
+бумаг». В соответствии с изменениями в Правила государственной
+регистрации выпусков ценных бумаг и выпусков эмиссионных ценных бумаг
+допускается выпуск корпоративных облигаций для проектов, направленных
+на развитие зеленой экономики. Методическое руководство по выпуску и
+обращению зеленых корпоративных облигаций утверждается Национальным
+агентством перспективных проектов. Для выпуска зеленых корпоративных
+облигаций дополнительно предоставляются: копия заключения о получении
+сертификата соответствия зеленым стандартам по рамочной программе от
+специализированных организаций, уполномоченных Международной
+ассоциацией рынков капитала (ICMA) или одобренных Инициативой по
+климатическим облигациям (CBI) или зарегистрированных Европейским
+органом по ценным бумагам и рынкам (ESMA), а также рамочная программа
+выпуска зеленых облигаций; справка, заверенная подписями руководителя и
+главного бухгалтера эмитента о цели использования средств, полученных от
+размещения корпоративных облигаций, и их соответствии требованиям
+Национальной «зеленой» таксономии Узбекистана и/или иных приравненных
+к ней таксономий. Также в решении о выпуске облигаций и проспекте
+эмиссии должны быть указаны: сведения о цели использования средств,
+полученных от размещения облигаций, в соответствии с требованиями
+Национальной зеленой таксономии и/или иных приравненных к ней
+таксономий; сведения о планируемых результатах (KPI), которые должны
+быть достигнуты в рамках требований Национальной зеленой таксономии
+и/или иных приравненных к ней таксономий; наличие сертификата
+соответствия зеленым стандартам, а также сведения об организации,
+выдавшей такой сертификат, должны быть отражены. Документ опубликован
+в национальной базе данных законодательных документов на
+государственном языке и вступил в силу 10 июня 2024 года. В начале
+октября 2023 года Узбекистан впервые разместил на Лондонской фондовой
+бирже зеленые суверенные международные облигации на сумму 4,25 трлн
+сумов и международные облигации на сумму 660 млн долларов США.
+
+44
+Суверенные международные облигации, выпущенные в сумах, являются
+первыми «зелеными» суверенными облигациями среди стран СНГ.
+    В международной банковской практике в структуре добавочного
+капитала коммерческих банков формируется ресурс для создания
+консолидированных дочерних предприятий, который формируется за счет
+финансовых средств, выделяемых на создание финансовых предприятий, не
+имеющих самостоятельного баланса при коммерческих банках.
+    Согласно стандартам Международного Базельского комитета, к
+консолидированным     дочерним   компаниям    относятся   лизинговые,
+факторинговые, трастовые и форфейтинговые компании, созданные при
+банке и не имеющие самостоятельного баланса. Для создания подобных
+компаний коммерческим банкам необходимо иметь необходимые
+дополнительные финансовые ресурсы.
+
+
+                  Дочерние предприятия ЧАБ «Трастбанк»
+
+            ООО «Trast Leasing»                            ООО «Trast Muamalat»
+
+     Вид                  Автолизинг                                                  Вид
+     дея-                                                                             дея-
+                                                        Лизинговые услуги на основе   тель
+     тел
+                     Лизинг оборудования                    исламских законов         нос-
+     ьно
+     с-ти                                                                              ти
+                       Строительная и
+                                                        Услуги по нетрадиционному
+                     специальная техника
+                                                        финансированию субъектов
+                                                          предпринимательства и
+                    Лизинг коммерческой                      физических лиц
+                       недвижимости
+
+
+                       Прочие объекты
+
+
+
+         Рисунок 2. Сведения о лизинговых дочерних предприятиях ЧАБ
+                                 “Трастбанк”21
+    Как видно из рисунка, ЧАБ “Трастбанк” создал 2 дочерние компании:
+ООО “Trast Leasing” и ООО “Trast Muamalat”. ООО “Trast Leasing”
+осуществляет свою деятельность с 2011 года, ООО “Trast Muamalat”
+осуществляет свою деятельность с 2022 года. Основным направлением
+деятельности компаний является реализация стратегии расширения бизнеса
+путем предложения широкого спектра эффективных лизинговых операций. В
+
+21
+     Составлено на основе данных финансовой отчетности веб-сайта ЧАБ “Трастбанк”.
+
+                                                                                             45
+2024 году ЧАБ “Трастбанк” направил 265 млрд. сумов на увеличение
+уставного капитала ООО “Trast Leasing” и ООО “Trast Muamalat” и
+увеличение их финансовых вложений 22 . Мы можем увидеть это в таблице
+ниже.
+     В нашей практике существует порядок перечисления средств,
+направленных на финансовые вложения в дочерние консолидированные
+организации, непосредственно в добавочный капитал частного банка.
+     По данным таблицы 3 очевидно, что объем инвестиций, направляемых
+банком в дочерние компании ООО “Trast Leasing” и ООО “Trast Muamalat”,
+консолидированные в рамках ЧАБ “Трастбанк”, за последние 6 лет ежегодно
+увеличивается. В 2019 году банк направил финансовые вложения на сумму
+6,6 млрд. сумов, тогда как на конец 2024 года этот показатель существенно
+вырос и составил 264,89 млрд. сумов. Это, безусловно, считается
+благоприятной ситуацией. Причина в том, что чем больше финансовых
+вложений банки делают в свои дочерние компании, тем большую прибыль
+они генерируют, увеличивая добавочный капитал банка и повышая его
+достаточность.
+
+                                                         Таблица 3
+Объем инвестиций, направленных банком за последние годы в дочерние
+      компании ООО “Trast Leasing” и ООО “Trast Muamalat”,
+   консолидированные в рамках ЧАБ “Трастбанк” (в млн. сумов)23
+                       Название
+      Показатели       дочерних          2019     2020     2021      2022      2023       2024
+                     предприятий
+        Объем         ООО «Trast
+                                         6600     39600    87866   116203     145690     164890
+     направляемых      Leasing»
+        банком        ООО «Trast
+                                           -        -        -       6000      45000     100000
+      инвестиций      Muamalat»
+                Всего                    6600     39600    87866   122203     190690     264890
+
+    Учитывая вышеизложенное, а также то, что инвестиции в
+консолидированные дочерние компании в капитале частных банков являются
+стабильным источником, частным банкам следует организовать поэтапную
+работу по увеличению объема данного источника и довести его объем до
+уровня минимум десяти процентов.
+    Результаты анализов и исследований показывают, что коммерческим
+банкам следует шире применять современные методы повышения своей
+капитализации, а точнее, опыт, давший положительные результаты за
+рубежом. В частности, целесообразно повысить уровень капитализации и
+
+22
+  Составлено на основе данных финансовой отчетности веб-сайта ЧАБ “Трастбанк”.
+23
+  На основе финансовой отчетности Deutsche Bank Германии и ЧАБ «Трастбанк», размещенной на их веб-
+сайтах.
+
+46
+добиться устойчивости банков за счет увеличения размера добавочного
+капитала в их собственных средствах. В таблице ниже показан состав
+собственных средств (капитала) Deutsche Bank и ЧАБ “Трастбанк”.
+
+
+
+
+     Рисунок 3. Структура собственных средств (капитала) Deutsche Bank
+                       Германии и ЧАБ “Трастбанк”24
+              (по состоянию на 1 января 2024 года, в процентах)
+
+    Как видно из рисунка, наблюдается резкая разница между долями
+Deutsche Bank и ЧАБ “Трастбанк” по источнику происхождения собственных
+средств (капитала). Например, доля добавочного капитала в структуре
+капитала немецкого Deutsche Bank составила 52,8 процента, тогда как
+уставный капитал – 13,3 процента, а уровень резервного капитала банка
+также был значительным – 17,1 процента. Если же рассмотреть
+формирование этих самых источников капитала на примере ЧАБ
+“Трастбанк”, то картина в этом банке совершенно иная. В частности,
+очевидно, что среди источников наибольшую долю занимает уставный
+капитал банка – 49,0 процентов, а на добавочный капитал приходится 25,3
+процента. При этом нераспределенная прибыль банка составляет 17,1
+процента. Если рассмотреть серьезные аспекты проблемы на основе данных,
+представленных на рисунке выше, то можно увидеть, что эта же проблема
+существует и в структуре капитала других частных банков в нашей стране.
+    Относительно формирования источников собственных средств Deutsche
+Bank Германии и ЧАБ “Трастбанк” и важности их большой или малой доли
+хотелось бы подчеркнуть следующее:
+    Относительно формирования источников собственных средств Deutsche
+Bank Германии и ЧАБ “Трастбанк” и важности их большой или малой доли
+хотелось бы подчеркнуть следующее:
+    частные банки не тратят большую часть прибыли банка на выплату
+дивидендов акционерам. Поскольку дивиденды выплачиваются по
+номинальной стоимости выпущенных банком акций, достаточность капитала
+Deutsche Bank обеспечивается за счет добавочного капитала, при этом
+
+24
+     Составлено на основе данных финансовой отчетности Deutsche Bank Германии и ЧАБ “Трастбанк”.
+
+                                                                                                   47
+основная часть прибыли, выплачиваемой в виде дивидендов, остается в
+распоряжении банка;
+    высокая доля добавочного капитала служит основой для принятия
+решений партнерами, инвесторами и акционерами банка, поскольку данная
+информация делает акции банка высокопривлекательными на финансовом
+рынке и свидетельствует о финансовой устойчивости банка;
+    эффективно ли организована деятельность банков на рынке ценных
+бумаг можно определить по тому, низка или высока доля источников в
+собственных средствах банков;
+    в условиях, связанных с увеличением капитала банка увеличение
+номинальной стоимости выпускаемых акций в несколько раз позволяет
+решить эту задачу без проведения дополнительной эмиссии.
+    По нашему мнению, одной из основных причин, по которым частные
+банки в нашей стране не формируют дополнительные источники капитала в
+рамках собственных средств, является то, что структура их капитала в
+основном формируется за счет традиционных источников, что не оказывает
+положительного влияния на деятельность частных банков на рынке ценных
+бумаг. В этой связи частным банкам следует в полной мере воспользоваться
+возможностями повышения уровня своей капитализации. Уровень
+капитализации частных банков в нашей стране относительно слаб по
+сравнению с коммерческими банками и существует ряд возможностей для
+повышения его устойчивости.
+    Мы полагаем, что возможности увеличения уставного капитала частных
+банков в нашей стране многочисленны и следует наладить их эффективное
+использование.
+    Другим методом капитализации является постоянное перенаправление
+прибыли частных банков за текущий год в капитал банка. Несомненно,
+необходимо также обратить внимание на дивидендную политику частных
+банков.
+                                                               Таблица 4
+           Анализ распределения прибыли ЧАБ “Трастбанк”     25
+
+                                  Распределенная прибыль, в млн.сумов
+                                      На          На             На
+                   Прибыль,
+                                  дивиденды дивиденды увеличение
+  Завершен-      подлежащая
+                                      по           по       уставного
+   ный год     распределению,
+                                   простым    привелиги-     капитала
+                 в млрд.сумов
+                                    акциям     рованным
+                                                акциям
+     2019           184496,5        98219,2       3,45         86273,9
+     2020           300512,6       228380,2       3,45         72129,0
+     2021           433576,2        90056,8       3,45       343516,0
+     2022           592053,1       458673,5       3,45       133376,2
+     2023           690743,9       499164,3       3,45       191576,2
+
+25 Составлено на основе финансовой отчетности с сайта ЧАБ “Трастбанк
+
+
+48
+    Если обратиться к данным таблицы выше, то можно увидеть, что за
+последние пять лет, помимо выплаты дивидендов акционерам ЧАБ
+“Трастбанк” чистая прибыль банка также направлялась на увеличение
+уставного капитала. В частности, по итогам 2023 года 30 процентов чистой
+прибыли банка в размере 690,7 млрд. сумов были направлены на увеличение
+уставного капитала банка. Это, в свою очередь, откроет путь к увеличению
+уставного капитала частных банков за счет чистой прибыли текущего года.
+Исходя из этого, при реинвестировании прибыли частные банки должны
+направлять 30 процентов прибыли текущего финансового года в уставный
+капитал банка посредством «умных стратегий реинвестирования», то есть
+целевого перенаправления финансовых потоков на основе восстановления
+прибыли в возвратные инвестиционные проекты.
+    В диссертационном исследовании проведено многофакторное
+эконометрическое моделирование и анализ основных показателей
+деятельности частных банков. В качестве результирующего фактора модели
+выбран частный капитал, в млрд.сумов (Y), в качестве влияющих факторов –
+уставный капитал банка, млрд.сумов (X1), коэффициент ROE (отношение
+чистой прибыли к капиталу), % (X2), чистая прибыль банков, млрд.сумов (X3),
+субординированный банковский долг, млрд.сумов (X4) и эмисионный
+капитал банков, млрд. сумов (X5).
+    Первоначально для проведения экономического исследования на основе
+банковских данных нами была проведена описательная статистика на основе
+показателей деятельности частного банкинга за 2012-2023 годы (поскольку
+единицы измерения переменных различны, мы приводим их к единой
+единице измерения с помощью логарифмирования). Результаты
+описательной статистики представлены в таблице 5 ниже.
+
+                                                                                         Таблица 5
+                            Описательная статистика по факторам                   26
+
+
+
+
+    Результаты описательной статистики показали, что все факторы,
+включенные в многофакторную эконометрическую модель, подчиняются
+нормальному распределению. Нормальное распределение факторов
+
+26 Расчеты автора в программа Eviews 10 на основе данных ЧАБ “Трастбанк” и ЧАКБ “Даврбанк”
+
+
+                                                                                              49
+определялось с использованием критерия Жака-Бера (Jak-Bera). Было
+подтверждено, что вероятность (probability) всех факторов составляет менее
+5 процентов.
+     Для отбора факторов для многофакторной эконометрической модели
+был проведен корреляционный анализ. В ходе корреляционного анализа
+были рассчитаны частные и парные коэффициенты корреляции. Частные
+коэффициенты корреляции показывают плотность связи между
+результирующим фактором (logY) и факторами, на него влияющими (logXi).
+Таким образом, частные коэффициенты корреляции указывают на наличие
+различных взаимосвязей между результирующим фактором – чистым
+процентным доходом (Y) и влияющими на него факторами (Xi).
+     Например, соотношение между капиталом частного банка (logY) и
+уставным капиталом банка (logX1) составляет 0,9930. Это свидетельствует о
+том, что между этими двумя факторами существует тесная связь.
+Аналогичным образом, существует умеренная корреляция между капиталом
+частного банка (logY) и ROE (отношение чистой прибыли к капиталу)
+(logX2), что означает, что частный коэффициент корреляции между ними
+составляет 0,6055. Кроме того, существует сильная корреляция между
+капиталом частного банка (logY) и чистой прибылью банка (logX3).
+Коэффициент корреляции между этими факторами составляет 0,9893. Также
+существует сильная корреляция между собственным капиталом частного
+банка (logY) и субординированным долгом банка (logX4). Коэффициент
+корреляции между этими факторами составляет 0,8889. Кроме того,
+существует сильная корреляция между капиталом частного банка (logY) и
+эмиссионным капиталом банка (logX5). Коэффициент корреляции между
+этими факторами составляет 0,8889 (таблица 5).
+     В многофакторном эконометрическом анализе не должно быть
+мультиколлинеарности между влияющими факторами. Если значение
+коэффициента парной корреляции между двумя влияющими факторами
+больше 0,7, говорят о наличии мультиколлинеарности. Судя по
+коэффициентам парной корреляции в корреляционной матрице,
+мультиколлинеарность между влияющими факторами отсутствует.
+     На следующем этапе мы создадим многогранную экономическую
+модель капитала частных банков Республики Узбекистан. В общем виде
+многофакторная эконометрическая модель выглядит следующим образом:
+                                                 ,                 (3)
+     здесь:   y – результирующий фактор,           –влияющие факторы, -
+случайная ошибка.
+     Для определения неизвестных параметров                              в
+многофакторной эконометрической модели (3) используется “метод
+наименьших квадратов”. Мы используем программу EViews для расчета
+неизвестных параметров многомерной эконометрической модели.
+     Мы представляем аналитический взгляд на многофакторную
+эконометрическую модель:
+
+                                                          (4)
+50
+     Рассчитанная (4) многофакторная эконометрическая модель показывает,
+что при увеличении уставного капитала (logX1) частных банков в среднем на
+один процент капитал банка (logY) может увеличиться в среднем на 0,0025
+процента. Средний рост коэффициента ROE (отношение чистой прибыли к
+собственному капиталу) (logX2) частных банков на один процент приводит к
+среднему росту собственного капитала банка (logY) на 1,0029 процента.
+Получается, что средний рост чистой прибыли (logX3) частных банков на
+один процент может привести к среднему росту капитала банка (logY) на
+1,0018 процента. Получается, что увеличение субординированного долга
+(logX4) частных банков в среднем на один процент может привести к
+уменьшению капитала банка (logY) в среднем на 0,000036 процента. Также
+отмечено, что среднее увеличение эмиссионного капитала (logX5) частных
+банков на один процент приводит к среднему увеличению банковского
+капитала (logY) на 0,00082 процента.
+     Для проверки качества многофакторной эконометрической модели (4)
+рассмотрим коэффициент детерминации. Рассчитанный коэффициент
+детерминации (R2 - R-squared) составляет 0,9276. Данный факт показывает,
+что 92,76 процента чистого процентного дохода частных банков (logY)
+состоит из (4) факторов, включенных в многофакторную эконометрическую
+модель. Оставшиеся 7,24 процента (1,0–0,9276) - это влияние неучтенных
+факторов.
+     Статистическую значимость многомерной эконометрической модели (4)
+или ее соответствие изучаемому процессу определяем с помощью F-критерия
+Фишера. Исходя из степени значимости               и степени свободы        и
+                 , табличное значение F-критерия равно                       .
+Рассчитанное значение F-критерия равно Fhisob=440,6269. Для выполнения
+условия Fhisob>Fjadval (4) многомерная эконометрическая модель является
+статистически значимой.
+     Проверяем достоверность оцененных параметров (коэффициентов
+регрессии) многомерной эконометрической модели (4) с помощью t-критерия
+Стьюдента. При значениях вероятности достоверности                 и степени
+свободы                    , табличное значение t-критерия равно            .
+     Из расчетов регрессии видно, что расчетные значения t-критерия для
+всех факторов больше табличных значений с точностью              и      . Это
+позволяет этим факторам участвовать в многофакторной эконометрической
+модели.
+     Мы используем тест Дарбина-Уотсона (DW) для проверки
+автокорреляции в результирующих факторных остатках в многомерной
+эконометрической модели (4). Нижнее предельное значение критерия
+Дарбина-Уотсона составляет DWL=0,56, а верхнее предельное значение -
+DWU=2,21.      DWhisob=2,23. Следовательно, поскольку DWhisob>DWU, то
+автокорреляция в остатках результирующего фактора (капитал ЧАКБ
+“Даврбанк” (logY)) отсутствует.
+     Многофакторная эконометрическая модель (4), построенная на основе
+данных о показателе капитала частного банка, удовлетворяет всем
+                                                                           51
+критериям. На основе данной модели рассчитываются прогнозные значения
+показателя капитала частных банков на период до 2028 года (таблица 6).
+    В третьей главе диссертации: “Приоритетные направления повышения
+уровня капитализации частных банков” представлены проблемы
+повышения уровня капитализации частных банков и разработаны
+рекомендации по их решению. В данной главе диссертации также определены
+основные направления повышения уровня капитализации частных банков.
+
+                                                          Таблица 6
+ Значения прогнозных расчетов капитала частных банков и влияющих
+                        на него факторов 27
+                                         ROE,
+          Капитал                      (отноше-      Чистая     Субордини-
+                        Уставный                                                Эмиссион-
+          частных                         ние       прибыль      рованный
+                         капитал                                               ный капитал
+ Годы      банков                       чистой       (млрд.        долг
+                      (млрд.сумов),                                            (млрд.сумов)
+           (млрд.                     прибыли к      сумов),   (млрд.сумов),
+                           X1                                                      , X5
+         сумов), Y                    капиталу,        X3           X4
+                                         %, X2
+   2012       201,9      67842849,0         18,72      37,80             0,0      1868722,0
+   2013       284,3      82939749,0         14,89      42,30             0,0      3739989,0
+   2014       363,0     131547733,0         18,31      66,50             0,0      5180203,0
+   2015       394,9     150019233,0         25,72     101,60             0,0      9420563,0
+   2016       528,3     271258772,0         24,73     130,70             0,0     28371973,0
+   2017       966,8     395305921,0         37,26     360,20             0,0     49377531,0
+   2018     1514,3      829537901,0         23,17     350,90             0,0     76236309,0
+   2019     1992,1     1124132733,0         27,81     554,10            38,4    144394010,0
+   2020     2863,0     1180522059,0         27,47     786,40            43,4    144394010,0
+   2021     3537,0     1488948059,0         27,90     986,90            43,7    144394010,0
+   2022     4442,0     2111250733,0         28,15    1250,40           105,1    255189422,0
+   2023     5977,0     3511830644,0         24,89    1487,70           111,0    519110539,0
+   2024     9021,1     5187558413,1         31,90    2877,45           167,5   1000020723,5
+  2025*    12456,3     7484831019,7         33,27    4143,68           283,0   1643917429,3
+  2026*    17199,5    10799434133,2         34,70    5967,11           478,0   2702408511,0
+  2027*    23748,9    15581885187,5         36,19    8592,94           807,4   4442444389,3
+  2028*    32792,2    22482209993,8         37,74   12374,28          1363,8   7302860419,6
+* прогнозный период
+     Анализ представленных в таблице 6 данных показывает, что
+собственный капитал банка за прогнозный период, то есть в 2025-2028 годах,
+увеличивается в среднем на 21549,2 млрд.сумов. В 2028 году ожидается
+наблюдается увеличение собственного капитала банка в среднем в 3,6 раза по
+сравнению с 2024 годом. Уставный капитал банка в прогнозный период
+может составить 2,248 трлн. сумов. Данный показатель может увеличиться в
+среднем в 4,3 раза по сравнению с 2024 годом. Рост коэффициента ROE
+банка в прогнозный период, то есть в 2025-2028 годах, составляет в среднем
+на 35,5 процента. Данный показатель может увеличиться в среднем в 1,2 раза
+в 2028 году по сравнению с 2024 годом. Средний рост чистой прибыли банка
+за прогнозный период, то есть в 2025-2028 годах, составляет 7 769,5
+
+27 Расчеты автора на основе данных ЧАБ “Трастбанк” и ЧАКБ “Даврбанк”
+
+
+52
+млрд.сумов. Данный показатель может увеличиться в среднем в 4,3 раза в
+2028 году по сравнению с 2024 годом. В абсолютном выражении он может
+увеличиться на 9496,83 млрд.сумов. Средний прирост субординированного
+долга банка за прогнозный период 2025-2028 годы составляет 360,3
+млрд.сумов. Данный показатель может увеличиться в среднем в 8,1 раза в
+2028 году по сравнению с 2024 годом. В абсолютном выражении он может
+увеличиться на 1 196,3 млрд сумов. Выпущенный капитал банка может
+увеличиться в среднем в 7,3 раза за прогнозный период, то есть в 2028 году
+по сравнению с 2024 годом. В абсолютном выражении он может увеличиться
+на 6,3 млрд.сумов. В абсолютном выражении он может увеличиться
+на 1196,3 млрд.сумов. Эмиссионный капитал банка может увеличиться в
+среднем в 7,3 раза за прогнозный период, то есть в 2028 году по сравнению
+с 2024 годом. В абсолютном выражении он может увеличиться
+на 6,3 млрд.сумов.
+     В ходе исследования нами были детально изучены особенности
+рационального формирования структуры банковского капитала и повышения
+уровня капитализации частных банков, а также выявлены следующие
+основные проблемы, связанные с повышением уровня капитализации:
+     доля резервного капитала, который считается стабильным источником
+капитала для частных банков, остается низкой. Резервный капитал
+непосредственно выполняет функцию “подушки безопасности” для банков и
+служит основой для дальнейшего развития банковской деятельности,
+поэтому необходимо добиться устойчивого увеличения этих источников в
+структуре капитала частных банков;
+     добавочный капитал в капитал частных банков находится практически
+на незначительном уровне. В ЧАКБ “Даврбанк” доля добавочного капитала в
+капитале банка в 2019 году составила 0,13 процента, тогда как в ЧАКБ
+“Ориент Финанс Банк” данный показатель в 2019-2023 годах отсутствует
+полностью. По состоянию на 1 января 2024 года 52,8 процента капитала
+Deutsche Bank, крупнейшего частного банка Германии, приходилось на долю
+добавочного капитала 28 . Данная ситуация свидетельствует о том, что
+выпущенные акции частных банков реализуются на рынке ценных бумаг
+практически по номинальной стоимости. Факторов, влияющих на их
+рыночную (реальную) цену, нет; подобная ситуация свидетельствует о том,
+что база добавочного капитала частных банков в нашей стране является
+слабой;
+     доля чистой прибыли в увеличении уровня капитализации
+отечественных частных банков также остается низкой. Их доля в общем
+капитале составила 5,1 процента в 2019 году и 8,9 процента в 2023 году. Это,
+в свою очередь, означает, что сегодня нашим частным банкам необходимо
+усилить меры по увеличению размера чистой прибыли, получаемой от их
+
+
+28
+    Составлено автором на         основе   данных   финансовой   отчетности   Deutsche   Bank   Германии
+https://www.deutschebank.co.in.
+
+                                                                                                     53
+деятельности, а также продолжить совершенствование процессов
+распределения полученной годовой чистой прибыли;
+     доля уставного капитала банков в общем объеме капитала связана со
+снижением, а результаты анализа показали, что в коммерческих банках в
+течение 2019-2023 годов доля уставного капитала в общем объеме капитала
+оставалась неизменной. Стоит отметить, что уставный капитал банков, как
+стабильный источник, должен иметь высокую долю в структуре капитала, а
+снижение его доли считается негативной ситуацией;
+     тот факт, что субординированные долговые обязательства частных
+банков редко используются на практике, что приводит к недостаточности
+дополнительного капитала у частных банков. В анализируемый период доля
+субординированных долговых обязательств, выпущенных частными
+банками, в структуре привлеченных средств до 2018 года полностью
+отсутствовала, к 2019 году она составила всего 0,4 процента, а к началу 2024
+года – 1,4 процента. Это также обусловлено субординированными долговыми
+обязательствами в размере 178,0 млрд. сумов, выпущенными “Даврбанком”
+на долгосрочный период;
+     установлено, что вложения в консолидированные дочерние компании в
+капитале банка ЧАКБ “Даврбанк” отсутствуют;
+     проблема инфляции и факторов обменного курса, негативно влияющих
+на стоимость акций банков. Результаты анализа показали, что относительно
+высокие и нестабильные темпы инфляции негативно влияют на
+инвестиционную стоимость акций;
+     В ходе исследования мы выявили существующие проблемы в процессе
+капитализации частных банков и определили пути увеличения капитала
+банка путем их решения по мере возможности. По нашему мнению, они
+состоят в следующем:
+     важно постоянно увеличивать долю уставного капитала в капитале
+банка, потому что уставный капитал, наряду с нераспределенной прибылью,
+является наиболее устойчивой частью собственного капитала банка;
+     частные банки имеют возможность укрепить свою дополнительную
+капитальную базу за счет увеличения объема субординированного долга.
+Отсутствие в практике частных банков субординированных долговых
+обязательств свидетельствует о слабости их позиций на рынке долгосрочного
+кредитования. Учитывая, что субординированные долговые обязательства
+составляют основную часть структуры дополнительного капитала банка, а
+также являются удобным и недорогим средством привлечения долгосрочных
+ресурсов, целесообразно дальнейшее расширение практики привлечения
+субординированных долговых обязательств частными банками;
+     необходимо увеличить долю чистой прибыли в капитале банка. Для
+этого, по нашему мнению, банку следует разрабатывать ежегодную
+финансовую политику и утверждать ее наблюдательным советом;
+     мы знаем, что добавочный капитал также является устойчивым
+элементом банковского капитала. Результаты анализа показали, что акции
+наших частных банков всегда продаются практически в пределах номинала.
+54
+До сих пор из-за почти полной неразвитости фондового рынка даже
+высокодоходные банковские акции не смогли обрести свою рыночную
+стоимость;
+    создание дочерних предприятий в частных банках, таких как лизинг,
+траст, факторинг, форфейтинг, страхование, в конечном итоге оказывает
+положительное влияние на увеличение чистой прибыли и совокупного
+капитала банковской деятельности. Дочерние предприятия, созданные при
+банках, не имеют самостоятельных балансов, а их прибыль добавляется к
+прибыли банка на балансе. Поэтому целесообразно создание и
+совершенствование нормативно-правовых основ и процедур регулирования
+деятельности специальных финансово-кредитных учреждений, которые
+могут быть созданы при коммерческих банках в нашей республике.
+    Полная реализация вышеизложенных положений в банковской
+деятельности, безусловно, во-первых, повысит эффективность банковской
+деятельности, во-вторых, окажет положительное влияние на процессы их
+капитализации, в-третьих, послужит экономической основой их устойчивого
+функционирования.
+
+                            ЗАКЛЮЧЕНИЕ
+
+      В рамках темы диссертации на основе проведенных исследований и
+анализа по повышению уровня капитализации частных банков нашей страны
+были сформулированы следующие научные выводы:
+      1. У частных банков существует многогранные способы повышения
+уровня капитализации, основные из которых связаны с увеличением уставного
+капитала, нераспределенной прибылью, акционерным капиталом и чистой
+прибылью текущего года.
+      2. Установлено, что удельный вес совокупного капитала частных
+банков в совокупном капитале банковского сектора является низким, доля
+добавочного капитала в совокупном капитале невелика, а также существуют
+проблемы, связанные с формированием дополнительного капитала в частных
+банках.
+      3. Известно, что в повышении уровня капитализации частных банков
+важную роль играют эмиссионный доход и нераспределенная прибыль. Таким
+образом, в результате проведенного исследования было выявлено, что доля
+эмиссионных доходов в капитале частных банков нашей страны
+незначительна. По нашему мнению, банкам следует обратить особое внимание
+на увеличение этого источника за счет повышения влияния своих акций на
+первичном рынке ценных бумаг.
+      4. На основании постановлений правительства, не менее 30 процентов
+прибыли банка должно направляться непосредственно в уставный капитал
+банка. В результате доля капитала I уровня частных банков увеличится.
+      5.    Частные банки должны формировать источник вложений в
+консолидированные дочерние компании как часть своего дополнительного
+капитала. Поскольку данная ситуация является одним из важных вопросов для
+увеличения спектра услуг частных банков в условиях рыночной экономики, а
+также одним из основных источников увеличения их доходов. В этой
+                                                                       55
+связиотмечется, что было бы целесообразно создание при них факторинговых
+и трастовых компаний, не имеющих самостоятельного баланса.
+      6. Коммерческие банки должны выпускать долгосрочные ценные
+бумаги, рассчитанные на длительную перспективу. В настоящее время
+потребность в долгосрочных ресурсах у коммерческих банков очень высока, и
+в то же время, учитывая это, необходимо выпускать долгосрочные, в
+частности субординированные, ценные бумаги банков.
+      7. Необходимо обеспечить организацию публичных торгов акций
+частных банков на вторичном рынке ценных бумаг (IPO). Для этого, в первую
+очередь, необходимо повысить уровень выплачиваемых коммерческими
+банками дивидендов по обыкновенным акциям до приемлемого для интересов
+инвесторов уровня. В этом случае, используя в качестве основы проценты,
+выплачиваемые государством по краткосрочным облигациям, необходимо
+учитывать влияние темпов инфляции и валютных курсов на вложения
+инвесторов в акции банков и доходность, которую они от них получают.
+Капитализация большей части чистой прибыли в течение нескольких лет
+подряд для увеличения уставного капитала многих коммерческих банков
+приводит к снижению выплачиваемых ими дивидендов. При капитализации
+чистой прибыли необходимо использовать матрицу формирования капитала и
+поддерживать постоянную тенденцию роста дивидендов. В противном случае
+невозможно сформировать устойчивый спрос на акции на вторичном
+фондовом рынке и определить рыночную цену акций банка.
+     8. Хотя определения, которые дают экономисты касательно повышения
+уровня капитализации частных банков, различаются, принципиальное
+содержание и суть их одинаковы.          Учитывая вышеизложенное, нами
+разработан следующий авторский подход к повышению уровня капитализации
+частных банков. Капитализация банка – это экономический показатель
+эффективности использования собственного капитала банка, который
+отражает его способность сохранять свою нормативную ценность и
+самовоспроизводиться в изменяющихся условиях, используя различные
+источники и механизмы. Это позволит всем банкам занять свое место в
+банковской системе.
+     9. В заключение следует отметить, что все операции, осуществляемые
+сегодня частными банками, напрямую или косвенно зависят от достаточности
+банковского капитала и его увеличения, а достаточность банковского капитала
+является ключевым фактором оценки платежеспособности и отсутствия риска
+любого коммерческого банка. Наличие достаточного банковского капитала у
+коммерческих банков обеспечивает их платежеспособность и ликвидность, а
+также способность противостоять рискам, с которыми они сталкиваются в
+ходе своей деятельности.
+     Приведенные выше выводы оказывают положительное влияние на
+повышение уровня капитализации частных банков и, в конечном итоге, на
+повышение эффективности их деятельности.
+
+
+
+
+56
+SCIENTIFIC COUNCIL AWARDING OF THE SCIENTIFIC DEGREES
+№ DSc. 03/10.12.2019.I.16.01AT THE TASHKENT STATE UNIVERSITY
+                           OF ECONOMICS
+RESEARCH CENTER “SCIENTIFIC FOUNDATIONS AND PROBLEMS
+OF DEVELOPMENT OF THE ECONOMY OF UZBEKISTAN” AT THE
+        TASHKENT STATE UNIVERSITY OF ECONOMICS
+
+
+
+
+            MIRZAEVA MATLUBA GAYBULLA KIZI
+
+
+
+WAYS TO ENHANCE CAPITALIZATION LEVEL OF PRIVATE BANKS
+
+
+
+               08.00.07 – Finance, money circulation and credit
+
+
+
+
+                                  ABSTRACT
+        of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                          Tashkent city – 2025 year
+
+
+
+                                                                         57
+     The topic of doctoral dissertation (PhD) was                  registered   under    the   number
+В2025.1.PhD/Iqt2771 at the Supreme Attestation Commission.
+
+      The dissertation has been accomplished at the Research Center “Scientific Foundations and
+Problems of Development of the Economy of Uzbekistan” at the Tashkent State University of Economics.
+      The abstact of dissertation is posted in three languages (Uzbek, Russian and English (resume)) on
+the website of the Scientific Council (www.tsue.uz) and on the website of «Ziyonet» informational and
+educational portal(www.ziyоnet.uz).
+
+      Scientific advisor:         Kalonov Mukhiddin Bakhritdinovich
+                                  Doctor of Economics, Professor
+
+      Official opponents:         Jumaev Nodir Khosiyatovich,
+                                  Doctor of Economics, Professor
+                                  Alimardonov Ilhom Muzrabshohovich
+                                  Doctor of Economics, Professor
+
+      Leading organization:       JSCB "Aloqabank"
+
+
+      The defense of the dissertation will take place on _________ «__», 2025 at _____at the meeting of
+the Scientific council №DSc.03/10.12.2019.I.16.01awarding for the scientific degrees at Tashkent State
+University of Economics. Address: 100066, Tashkent city, I.Karimov street, building 49,
+phone: 239-01-49, fax: (99871)232-69-92, e-mail: info@tsue.uz.
+
+      The doctoral dissertation (PhD) can be reviewed at the Information Resource Center of Tashkent
+State University of Economics (registered under the number____). Address: 100066, Tashkent city,
+I.Karimov street, building 49, phone: 239-01-49, fax: (99871)232-69-92, e-mail:info@tsue.uz.
+
+      The abstract of dissertation sent out on «___» _____________ 2025.
+      (mailing report №____ on «___» _____________ 2025).
+
+
+
+
+                                                                                  S.U. Mekhmonov
+                                                             Chairman of the Scientific council for
+                                                             awarding scientific degrees, Doctor of
+                                                             Economics, Professor
+
+                                                                                      U.V. Gafurov
+                                                             Secretary of the Scientific council for
+                                                             awarding scientific degrees, Doctor of
+                                                             Economics, Professor
+
+                                                                                   S.K. Khudoykulov
+                                                             Chairman of the Scientific seminar
+                                                             under the scientific council for awarding
+                                                             scientific    degrees,      Doctor     of
+                                                             Economics, Professor
+
+58
+      INTRODUCTION (abstract of the thesis of the Philosophy Doctor (PhD)
+                      on Economic Sciences)
+      The aim of the research work is to develop scientific proposals and practical
+recommendations aimed at enhancing the capitalization level of private banks in the
+Republic of Uzbekistan.
+      The tasks of the research work are:
+      investigating the economic significance of sources and sustainability of bank
+capitalization inherent in a market economy from a scientific and theoretical point of
+view;
+      investigating theoretical and methodological foundations for enhancing the
+capitalization level of private banks from a scientific point of view;
+      investigating foreign experience in ensuring formation of capital of private banks
+and raising capitalization level, developing scientific proposals and practical
+recommendations for using its positive aspects in the banking activities of our country;
+      identifying the problems associated with enhancing the capitalization level of
+private banks and developing the recommendations for their solution;
+      developing scientific proposals, practical recommendations and relevant
+conclusions on enhancing the capitalization level of private banks in our country.
+      The object of the research work is private banks of the Republic of Uzbekistan.
+      The subject of the research work is economic relations arising in the process of
+enhancing the capitalization level of private banks.
+      The scientific novelty of the research work, consisting of the following:
+      an increase in the level of capitalization of private banks (3%≤CLPB≤5%) by
+expanding the practice of issuing long-term subordinated debt, which is the main
+component of additional capital, through “green subordinated bonds” and “tokenized
+subordinated financing instruments based on fintech” has been justified;
+      it has been ascertained that the capitalization of banks can be increased to 25
+percent by raising the volume of emission proceeds based on the diversification of
+methods of raising funds through, along with the traditional issue of shares as part of the
+sources of private banks’ own funds, and innovation-based financial instruments -
+convertible bonds, staked assets;
+      an increase in the limits of the capitalization level (5%≤CLPB≤10%) due to the
+development of the volume of financial investments made in subsidiaries that do not have
+an independent balance sheet, as part of the additional capital of private banks in a new
+format integrated with digital banking services and fintech startups of subsidiarieshas
+been justified;
+      the proposal to raise the level of bank capitalization by directing 30 percent of the
+current financial year’s profit to the authorized capital through the targeted direction of
+financial flows when reinvesting the profits of private banks based on “smart
+reinvestment strategies”, i.e. based on restoring profits from repayable investment
+projects,has been substantiated.
+      Scientific and practical significance of the research work. The scientific
+proposals and practical recommendations developed within the framework of the
+research are aimed at enriching the scientific apparatus for increasing the level of
+capitalization of private banks. Private banks can increase their level of capitalization by
+determining capital adequacy, developing appropriate methods and models for assessing
+capital adequacy, and conducting research in this area.
+      The practical significance of the study is due to the fact that it can be used in the
+practice of enhancing the capitalization level of private banks, improving sustainability of
+
+                                                                                         59
+their capital and studying the capital structure, as well as in the development of draft
+regulatory legal acts in this area.
+      Implementation of the research results. Based on the research results on
+enhancing the capitalization level of private banks:
+      the proposal to increase the level of capitalization of private banks (3%≤CLPB≤5%)
+by expanding the practice of issuing long-term subordinated debt, which is the main
+component of additional capital, through “green subordinated bonds” and “tokenized
+subordinated financing instruments based on fintech” is included in the lending policy of
+PJSCB “Davrbank” (reference № 21425 of PJSCB “Davrbank” dated September 25,
+2024).The implementation of this proposal has contributed to an increase in additional
+capital by 15.65 billion UZS;
+      the proposal to enhance capitalization of banks to 25 percent by raising the volume
+of emission proceeds based on the diversification of methods of raising funds through,
+along with the traditional issue of shares as part of the sources of private banks’ own
+funds, and innovative financial instruments - convertible bonds, staked assets, has been
+reflected in the lending policy of PJSC “Trustbank” and PJSC “Davrbank” (references №
+01-04/2805 PJSCB “Trustbank” dated August 24, 2024 and № 21425 PJSCB
+“Davrbank” dated September 25, 2024). As a result of implementing this proposal, the
+market value of the bank’s shares, mainly ordinary ones, has increased by 15-17 percent;
+      the proposal to justify an increase in the limits of the capitalization level
+(5%≤CLPB ≤10%) due to the development of the volume of financial investments made
+in subsidiaries that do not have an independent balance sheet, as part of the additional
+capital of private banks in a new format integrated with digital banking services and
+fintech startups of subsidiaries, has been implemented in the practice of PJSC
+“Trustbank” (reference№ 01-04/2805 PJSCB “Trustbank” dated August 24, 2024).As a
+result of implementing this proposal, two consolidated subsidiaries have been established
+at the bank –“Trast Muamalat” LLC and “Trast Leasing” LLC, and due to the allocation
+of financial resources in the amount of 39 billion UZS in 2023, the bank’s additional
+capital has increased by 21.2 percent;
+      the proposal to raise the level of bank capitalization by directing 30 percent of the
+current financial year’s profit to the authorized capital through the targeted direction of
+financial flows when reinvesting the profits of private banks based on “smart
+reinvestment strategies”, i.e. based on restoring profits from repayable investment
+projects, has been reflected in the lending policy of PJSC “Trustbank” and PJSC
+“Davrbank” (references № 01-04/2805 PJSCB “Trustbank” dated August 24, 2024 and
+№ 21425 PJSCB “Davrbank” dated September 25, 2024).As a result of implementing
+this proposal, the capital of banks as of January 1, 2024 amounted to 2043.8 billion UZS
+and 1006 billion UZS respectively.
+      Evaluation of the research results. The research results have been discussed at 10
+scientific and practical conferences, including 5republican and 5 international and
+scientific and practical conferences.
+      Publication of the research results. On the topic of the thesis totally 19 research
+papers have been published, of which 9 articles in the scientific journals recommended
+by the Supreme Attestation Commission of the Republic of Uzbekistan for publishing the
+main results of the doctoral dissertations including 3 articles in the republican journals
+and 3 articles in the foreign journals.
+      Structure and volume of the research. The research structure includes
+introduction, three chapters, conclusion, and a list of literature used. The volume of the
+research consists of 113 pages.
+
+
+60
+                   EʼLON QILINGAN ISHLAR RO‘YXATI
+                  СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                      LIST OF PUBLISHED WORKS
+
+                              I bo‘lim (I chast, Part I)
+
+     1. Mirzayeva M.G‘. Development and transformation to digital banking
+system//in Uzbekistan. Modem Journal of Social Sciences and Humanities
+https://mjssh.academicjoumal.io/index.php/mjssh/article/view/146.           2022     y.
+362-364 pages.
+     2. Mirzayeva M.G‘. “Bank accounting and audit”// Texas Journal of
+Multidisciplinary Studies https://zieniournals.com 2022 y. 93-94 pages
+     3. Mirzayeva M.G‘. Mintaqaviy miqyosda banklarninig kapitallashuv
+darajasini oshirish yo‘llari// Iqtisodiy taraqqiyot va tahlil. IV son avgust 2023-yil.
+34-37 betlar.
+     4. Mirzayeva        M.G‘.      Banklar     kapitallashuv    darajasini    oshirish
+masalalari//“Ilg‘or iqtisodiyot va pedagogik texnologiyalar” Jild №1 2024-yil, 29-
+avgust 102-108 betlar.
+     5. Mirzayeva M.G‘. The role of capital in strengthening the resource base of
+private banks // Milliy iqtisodiyotni rivojlantirishda demografik omillarning o‘rni
+Respublika ilmiy-amaliy konferensiyasi materiallar to‘plami. 2024.151-157 b.
+     6. Mirzayeva M.G‘. Hududlarda tijorat banklarining kapitallashuv darajasi
+va uni takomillashtirish yo‘llari// “Moliya bozorini rivojlantirishning ustuvor
+yo‘nalishlari, zamonaviy tendensiyalari va istiqbollari” mavzusidagi Respublika
+ilmiy-amaliy konferensiyasi 2022-yil 25-noyabr 3-5 betlar.
+     7. Mirzayeva M.G‘. Bank kapitalining roli // O‘zbekiston respublikasi bank
+tizimining rivojlanishi va uni isloh qilish yo‘nalishlari mavzusidagi respublika
+miqyosidagi ilmiy-amaliy konferensiya materiallari to‘plami. 2023. T.:
+«IQTISOD-MOLIYA» 2023 240-243 b.
+
+                            II bo‘lim (II chast; Part II)
+
+      8. Mirzayeva M.G‘. The issues of remote banking services development
+based on digital technologies// Horizon Journal of Humanity and Artificial
+Intelligence. 2023. 89-91 p.
+      9. Mirzaeva M.G. The Level of Capitalization of Commercial banks and
+Ways of Improving// Modern Journal of Social Sciences and Humanities
+211-213 pages.
+      10. Mirzayeva M.G‘. The role of capital in strengthening the resource base of
+private banks at the regional scale // “Ekonomika i sotsium” mejdunarodnoye
+nauchno-prakticheskoye jurnal №4 (119) 2024. 7 p.
+      11. Mirzayeva M.G‘. The issues of remote banking services
+developmentbased on digital technologies// Horizon Journal of Humanity and
+Artificial Intelligence 89-91 pages.
+
+                                                                                    61
+      12. Mirzayeva M.G‘. Banklar kapitallashuv darajasini oshirish masalalari //
+Ilg‘or iqtisodiyot va pedagogik texnologiyalar ilmiy elektron jurnal. №1. 2024
+102-108 b.
+      13. Mirzayeva M.G‘. Banklar kapitallashuv darajasini oshirish masalalari//
+Aktuar moliya va buxgalteriya hisobi ilmiy jurnali Maxsus son 2024, 31-34 betlar.
+      14. Mirzayeva M.G‘. Xususiy banklarning kapitallashuv darajasi oshirish
+yo‘llari // “Moliya bozorini rivojlantirishning ustuvor yo‘nalishlari, zamonaviy
+tendensiyalari va istiqbollari” mavzusidagi II respublika ilmiy-amaliy
+konferensiyasi materiallar to‘plami. 2023. 238-240 b.
+      15. Mirzayeva M.G‘. Mintaqaviy miqyosda banklarning kapitallashuv
+darajasini oshirish yo‘llari // “Milliy iqtisodiyotni isloh qilish va barqaror
+rivojlantirish istiqbollari” mavzusidagi respublika ilmiy-amaliy konferensiyasi
+materiallar to‘plami. 2023. 392-395 betlar.
+      16. Mirzayeva M.G‘. Mintaqaviy miqyosda banklarning kapitallashuv
+darajasini oshirish yo‘llari // Iqtisodiy taraqqiyot va tahlil ilmiy elektron jurnal. №4
+2023. 34-37 b.
+      17. Mirzayeva M.G‘. Mintaqani rivojlantirishda bank karitalining roli //
+Mintaqaviy iqtisodiyotning zamonaviy muammolari: tajriba, tendensiyalar va
+istiqbollar Respublika ilmiy-amaliy konferensiya materiallar to‘plami. 2023.
+ 516-519 b.
+      18. Mirzayeva M.G‘. Bank resurslarini oshirishda bank tizimini isloh qilish
+// “Moliya bozorini rivojlantirishning ustuvor yo‘nalishlari, zamonaviy
+tendensiyalari va istiqbollari” mavzusidagi III respublika ilmiy-amaliy
+konferensiyasi materiallari to‘plami. 2024. 206-213 b.
+
+
+
+
+62
+Avtoreferat “IQTISOD-MOLIYA” nashriyotida tahrirdan o‘tkazildi
+
+
+
+
+             Bosishga ruxsat etildi: 26.06.2025 y.
+           Bichimi: 60x84 1/8 “Times New Roman”
+           garniturada raqamli bosma usulda bosildi.
+   Shartli bosma tabog‘i: 3,0. Adadi: 100. Buyurtma: № 81.
+
+
+            “DAVR MATBUOT SAVDO” MCHJ
+                 bosmaxonasida chop etildi.
+           100198, Toshkent, Qo‘yliq, 4-mavze, 46.
+
+
+
+
+                                                                 63
+

@@ -1,0 +1,2334 @@
+      TASHKENT INTERNATIONAL UNIVERSITY
+    HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+  DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH
+      TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+     ABDISHUKUROV SHERZOD SHAVKAT O‘G‘LI
+
+
+
+TIJORAT BANKLARINING MOLIYAVIY BARQARORLIGINI
+           TA’MINLASH YO‘NALISHLARI
+
+
+
+              08.00.07 - Moliya, pul muomalasi va kredit
+
+
+
+
+    Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                           AVTOREFERATI
+
+
+
+
+                            Toshkent - 2026
+                                                                               U
+                                                                               O
+ Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati ʻ
+                                  mundarijasi                                  K
+                                                                                 :
+  Оглавлениэ автореферата диссертацсии доктора философии (PhD) по
+                            экономическим наукам
+
+         Content of dissertation abstract for Doctor of Philosophy (PhD) in
+                                     economics
+
+Abdishukurov Sherzod Shavkat o‘g‘li
+Tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘nalishlari ....................3
+
+
+
+Абдишукуров Шерзод Шавкат угли
+Направления обеспечения финансовой устойчивости коммерческих банков 25
+
+
+Abdishukurov Sherzod Shavkat ugli
+Directions for Enshuring Financial Stability of Commercial Banks .......................47
+
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованних работ
+List of published works ............................................................................................52
+
+
+
+
+2
+      TASHKENT INTERNATIONAL UNIVERSITY
+    HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+  DSc. 03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH
+      TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+     ABDISHUKUROV SHERZOD SHAVKAT O‘G‘LI
+
+
+
+TIJORAT BANKLARINING MOLIYAVIY BARQARORLIGINI
+           TA’MINLASH YO‘NALISHLARI
+
+
+
+              08.00.07 - Moliya, pul muomalasi va kredit
+
+
+
+
+    Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                           AVTOREFERATI
+
+
+
+
+                      Toshkent shahar – 2026-yil
+
+
+                                                                         3
+4
+           KIRISH (falsafa doktori (PhD) dissertasiyasi annotatsiyasi)
+      Dissertasiya mavzusining dolzarbligi va zarurati. Global moliyaviy tizimda
+so‘nggi o‘n yillikda kuzatilayotgan noaniqliklar, makroiqtisodiy shoklar va raqamli
+transformatsiya jarayonlari tijorat banklari moliyaviy barqarorligini ta’minlashni
+strategik ustuvor vazifaga aylantirdi, chunki pandemiyadan keyingi notekis iqtisodiy
+tiklanish, geosiyosiy keskinliklar, inflyatsion bosim va moliya bozorlaridagi
+volatillik bank aktivlari sifati, likvidlik va foiz marjasiga salbiy ta’sir ko‘rsatmoqda,
+jumladan, 2025-yilda Xalqaro valyuta jamg‘armasi tomonidan e’lon qilingan Global
+Financial Stability Report ma’lumotlariga ko‘ra, global bank tizimida muammoli
+kreditlar ulushi o‘rtacha 7-9% atrofida saqlanib qolgan va ayrim rivojlanayotgan
+iqtisodiyotlarda 10,0% dan oshgan, bu esa yuqori foiz stavkalari va qarz yuki ortishi
+bilan izohlanadi1, shu bilan birga kapital oqimlarining o‘zgaruvchanligi va raqamli
+moliyaning rivojlanishi valyuta, kredit, operatsion va kiber risklarni kuchaytirib,
+an’anaviy baholash yondashuvlarining cheklanganligini namoyon etmoqda va bu
+esa bank barqarorligini ko‘p omilli hamda dinamik indikatorlar tizimi asosida
+baholash zarurligini belgilaydi.
+      Jahonning yetakchi ilmiy markazlari va oliy ta’lim muassasalarida moliyaviy
+barqarorlikni tahlil qilish yo‘nalishlari sifatida e’tirof etilgan ko‘p darajali (multi-
+layer) indikatorlar tizimini qo‘llash, risk-adjusted integral indeks yaratish hamda
+raqamli va an’anaviy risklarni birlashtiruvchi gibrid model taklif qilishda namoyon
+bo‘ladi. Bu yondashuv global moliya tadqiqotlari doirasidagi tendensiyalarga mos
+kelib, bank barqarorligini baholashda aniqlik va prognoz samaradorligini oshirishga
+hamda turli turdagi risklarni integratsiya qilish imkonini beradi. Shu bilan birga, u
+Markaziy bank uchun makroprudensial siyosatni takomillashtirishga, tijorat banklari
+uchun risk management tizimini kuchaytirishga, moliyaviy barqarorligini
+ta’minlashga va investorlar uchun banklar reytingida shaffoflikni oshirishga hamda
+xizmat qiladi.
+      O‘zbekistonda tijorat banklari moliyaviy barqarorligini ta’minlashda integral
+barqarorlik ko‘rsatkichlari tizimi orqali kapital va likvidlik rezervlarini strategik
+taqsimlash, bank faoliyatida shkalali baholash mezonlari orqali barqarorlik
+toifalarini aniqlash, doimiy monitoring va ko‘p omilli prognozlash mexanizmlarini
+joriy etish hamda kredit siyosatini diversifikatsiya qilish ustuvor yo‘nalishlar
+hisoblanadi. Bu yondashuv Markaziy bankning makroprudensial talablari va davlat
+ishtirokini inobatga olgan holda barqarorlik ko‘rsatkichlarini boshqaruv qarorlariga
+integratsiya qilish imkonini beradi, tijorat banklari moliyaviy holatini strategik
+jihatdan mustahkamlaydi va kapital samaradorligini oshiradi. Shu tariqa, mazkur
+yo‘nalish O‘zbekiston moliya tizimida banklar faoliyatini optimallashtirish va
+iqtisodiy barqarorlikni ta’minlashga doir tadqiqotlar olib borish mavzuning
+dolzarbligini ko‘rsatib beradi.
+      Ushbu dissertasiya ishi ma'lum darajada yuqorida qayd muammolarni,
+shuningdek, Oʻzbekiston Respublikasi Prezidentining Farmon va qarorlarida
+belgilangan vazifalarni hal etishga xizmat qiladi. Xususan, Oʻzbekiston
+
+1
+ International Monetary Fund. (2025). Global Financial Stability Report, April 2025: Enhancing Resilience amid
+Uncertainty. Washington, D.C.: IMF.
+
+                                                                                                                 5
+Respublikasi Prezidentining 2020-yil 5-oktabrdagi 6079-son “Raqamli Oʻzbekiston
+- 2030 strategiyasini va uni samarali amalga oshirish chora-tadbirlarini tasdiqlash
+toʻgʻrisida" gi, 2020-yil 12-maydagi “2020-2025-yillarda Oʻzbekiston Respublikasi
+bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-sonli farmonlari,
+Oʻzbekiston Respublikasi Prezidentining 2018 yil 23 martdagi “Bank xizmatlari
+ommabopligini oshirish boʻyicha qoʻshimcha chora-tadbirlar toʻgʻrisida”gi PQ-
+3620-son,       2021-yil     2018-sentabrdagi     “2019-2021-yillarda     Oʻzbekiston
+Respublikasini innovasion rivojlantirish strategiyasini tasdiqlash toʻgʻrisida”gi PF-
+5544-son va Oʻzbekiston Respublikasi Markaziy banki boshqaruvining 2015-yil 13-
+iyundagi “Tijorat banklari kapitalining monandligiga qoʻyiladigan talablar
+toʻgʻrisidagi nizomni tasdiqlash haqida”gi (Oʻzbekiston Respublikasi Adliya
+vazirligi tomonidan 2015-yil 6-iyuldagi 2693-son bilan davlat roʻyxatidan
+oʻtkazilgan) 14/3-sonli qarorlari ushbu faoliyatga tegishli boʻlgan me'yoriy
+xujjatlarda belgilab oʻtilgan vazifalarni amaliyotga tadbiq qoʻllab borishga mazkur
+dissertasiya tadqiqoti muayyan darajada xizmat qiladi.
+     Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yoʻnalishlariga mosligi. Ushbu dissertasiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I. “Demokratik va huquqiy jamiyatni ma'naviy-
+axloqiy va madaniy rivojlantirish, innovasion iqtisodiyotni shakllantirish” deb
+nomlangan strategik mavzularining ustuvorligiga muvofiq ravishda bajarilgan.
+     Muammoning oʻrganilganlik darajasi. Tijorat banklarining moliyaviy
+barqarorligini ta’minlash, moliyaviy risklarini boshqarish va daromaddorlik darajasini
+oshirish masalalariga oid bir qator ilmiy yondashuvlar va modellar rivojlantirilganini
+kuzatish mumkin. Tadqiqotlar bank kapitalining optimallashtirilishi, likvidlik va
+kredit portfeli samaradorligi, shuningdek integral barqarorlik indeksi orqali kompleks
+baholash mexanizmlarini o‘z ichiga oladi. Jumladan, xorijiy olimlardan R.Merton,
+D.Diamond, R. Rajan, Ch.Goodhart, A.Admati, Hyun Song Shin, F.Mishkin, Franklin
+Allen, Hyun-Joon Kim, V.Acharya2 ilmiy ishlari shular qatoriga kiradi.
+     Rossiyalik olimlarning mavzuga doir amalga oshirilgan tadqiqotlarda tijorat
+banklarining moliyaviy barqarorligi, shu jumladan kapitalning rentabelligi va
+yetarliligi ko‘rsatkichlari hamda ularning bank samaradorligiga ta’siri ilmiy jihatdan
+aniqlanib,      baholangan.     Jumladan,     M.A.Ponomareva,       S.V. Ponomareva,
+                                                               3
+Ye.V. Kudryashova, G.G. Gospodarchuk, S.A.Gospodarchuk kabi olimlarning ilmiy
+ishini keltirish mumkin.
+
+2
+  D.W. Diamond & R.G. Rajan - “A Theory of Bank Capital”, Journal of Finance, February 2000, 55(6): 2431–2465,
+D.W. Diamond & Ph.H. Dybvig - “Bank Runs, Deposit Insurance, and Liquidity”, Journal of Political Economy,
+1983, R.G. Rajan - Fault Lines: How Hidden Fractures Still Threaten the World Economy, Princeton University Press,
+2010, Charles Goodhart - The Evolution of Central Banks, MIT Press, 1988, Ch. Goodhart - The Central Bank and
+the Financial System, Palgrave Macmillan, 1995, Anat R. Admati & Martin F. Hellwig - The Bankers’ New Clothes:
+What’s Wrong with Banking and What to Do About It, Princeton University Press, 2013, Hyun-Song Shin & Tobias
+Adrian - Liquidity and Leverage, Journal of Financial Intermediation, 19: 418–437, Frederic S. Mishkin - The
+Economics of Money, Banking, and Financial Markets, Pearson (4th ed. 11th ed.), 2018, Viral V. Acharya &
+Matthew Richardson (eds.) - Restoring Financial Stability: How to Repair a Failed System, John Wiley & Sons, 2009.
+3
+  Пономарева М.А. Финансовая устойчивость российских банков // Вестник РАЕН. 2016. №4. С. 40–45. URL:
+https://raen.info/upload/000/vestnik/2016/4/40-45.pdf.,      Пономарева      С.В.  Антикризисное      управление
+финансовыми           инструментами           в      банковской        деятельности        //    2017.       URL:
+https://cyberleninka.ru/article/n/antikrizisnoe-upravlenie-finansovymi-instrumentami-v-bankovskoy-
+deyatelnosti.pdf, Кудряшова Е.В. Центральный банк Российской Федерации в системе стратегического
+
+6
+     O‘zbekistonlik olimlardan Abdurasulov J.A. R.Bozorov, N.Jumayev,
+Sh.Ibodullayev.        M.Maxmudova          D.Nafasov,        O.Sattarov,        R.Sultanov,
+                                4
+D.Toshpulatov, Sh.Ubayeva ning ishlarida moliyaviy barqarorlik va tijorat banklari
+samaradorligini tahlil qilish sohasida qator ilmiy ishlar olib borgan. Ushbu
+tadqiqotlarda asosiy e’tibor kapital yetarliligi, likvidlik, kredit risklari, valyuta risklari
+va davlat ishtiroki ta’sirini integral baholashga qaratilgan, shuningdek, bank
+moliyaviy strategiyalarini samarali shakllantirish uchun empirik va strategik
+tavsiyalar beriladi. Shunday boʻlsada, moliyaviy xavfsizlikni ta’minlashda kapital
+kategoriyasini baholashga qaratilgan yaxlit ilmiy ishlarning kam ekanligi yoki mavjud
+emasligi tanlagan mavzuimiz doirasida tadqiqotlar olib borish dolzarbligini ko‘rsatib
+beradi.
+       Dissertasiya mavzusining dissertasiya bajarilgan oliy ta'lim
+muassasasining ilmiy tadqiqot ishlari bilan bogʻliqligi. Dissertasiya tadqiqoti
+Toshkent xalqaro universiteti ilmiy tadqiqot rejasi doirasida bajarilgan.
+       Tadqiqotning maqsadi tijorat banklarining moliyaviy barqarorligini
+ta’minlash ko‘rsatkichlarini joriy etishga qaratilgan ustuvor yoʻnalishlarini ishlab
+chiqishdan iborat.
+       Tadqiqotning vazifalari quyidagilardan iborat:
+       tijorat banklari moliyaviy barqarorligi konsepsiyasi va uning bank faoliyati
+samaradorligiga ta’sirini nazariy jihatdan tahlil qilish;
+       xalqaro va milliy standartlar asosida moliyaviy barqarorlikni baholash usullari
+va ko‘rsatkichlarini solishtirish va ularning samaradorligini tahlil qilish;
+       O‘zbekiston tijorat banklarida moliyaviy barqarorlik ko‘rsatkichlarining
+amaliy holatini va ularning tendensiyalarini empirik jihatdan tahlil qilish;
+       tijorat banklari moliyaviy barqarorligiga ta’sir etuvchi ichki va tashqi omillar -
+kapital yetarliligi, likvidlik, kredit portfeli sifati va makroiqtisodiy muhit tahlilini
+o‘tkazish;
+       integral yondashuv asosida moliyaviy barqarorlikni baholash mexanizmini
+ishlab chiqish va uni tijorat banklari faoliyatida joriy etish imkoniyatlarini tahlil qilish;
+
+
+
+планирования России // Банковское право. 2017. URL: https://library.cbr.ru/catalog/lib/article/317539,
+Господарчук Г.Г., Господарчук С.А. Analyzing the financial stability of commercial banks based on relationships
+between         profits     and     risks     //    Economics       of     Banking.     2017.     URL:       https://www.fin-
+izdat.com/journal/analiz/detail.php?ID=71928
+4
+  Abdurasulov J.A. O‘zbekiston tijorat banklarida risklarni boshqarish va baholashni takomillashtirish: i.f.b.f.d. …
+avtoreferati. – T.: Tashkent International University, 2024. – 62 b.; Bozorov R.X. Tijorat banklari moliyaviy
+barqarorligini ta’minlashni takomillashtirish: i.f.b.f.d. ... avtorferati. – T.: O‘zR. BMA, 2020. – 52 b.; Jumayev N.X.
+Jahon iqtisodiѐtining yangi inqirozi – iqtisodiy harakatsizlik. 03.04.2020 y. https://review.uz/oz/exg; Ibodullayev
+Sh.T. Tijorat banklari kapitalining yetarliligini ta’minlashning dolzarb masalalari//Scientific Journal of “International
+Finance & Accounting”. – T.: №4, August 2022.; Maxmudova M.Q. Tijorat banklari faoliyatida risklarni boshqarish
+usullarini takomillashtirish: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2020. – 63 b.; Nafasov D. B. Tijorat banklari risklarini
+boshqarishning nazariy va amaliy asoslarini takomillashtirish: i.f.b.f.d. ... avtoreferati. – T.: TMI, 2017. – 49 b.;
+Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini ta’minlash metodologiyasini takomillashtirish:
+i.f.d. ... avtoreferati. – T.: TMI, 2018. – 67 b.; Sultanov R.B. Investitsiya loyihalarini moliyalashtirishda bank risklarini
+tartibga solish amaliyotini rivojlantirish: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2022. – 64 b.; Toshpulatov D.A. Tijorat
+banklarida risklarni baholash va boshqarishni takomillashtirish: i.f.d. ... avtoreferati. – T.: TDIU, 2022. – 78 b.;
+Ubayeva Sh.L. Tijorat banklari barqarorligini samarali boshqarish mexanizmini takomillashtirish: i.f.b.f.d. ...
+avtoreferati. – T.: TDIU, 2018. – 53 b..
+
+                                                                                                                             7
+        kapital va likvidlik rezervlarini strategik taqsimlash orqali banklar moliyaviy
+barqarorligini oshirish mexanizmlarini modellashtirish va samaradorligini empirik
+tahlil qilish;
+        moliyaviy barqarorlikni ta’minlashda kapital va likvidlikni strategik taqsimlash
+orqali tijorat banklarining samaradorligi, risk darajasi va investitsion jozibadorligiga
+ta’sirini baholash;
+        tijorat banklarining moliyaviy barqarorligini ta’minlash ko‘rsatkichlarini joriy
+etish yo‘nalishlariga qaratilgan ilmiy xulosa va takliflar ishlab chiqish.
+        Tadqiqotning ob’ekti sifatida O‘zbekiston tijorat banklari, shu jumladan
+Oʻzbekiston sanoat-qurilish bankining moliyaviy barqarorlikni ta’minlashga
+qaratilgan faoliyati olingan.
+        Tadqiqotning predmeti Oʻzbekiston sanoat-qurilish bankining moliyaviy
+barqarorlikni ta’minlashda vujudga keluvchi iqtisodiy munosabatlar hisoblanadi.
+        Tadqiqotning usullari. Dissertasiyada umumlashtirish, soʻrovnoma,
+guruhlashtirish, abstrakt-mantiqiy fikrlash, linear regression, ARDL, VECM,
+induksiya va deduksiya, iqtisodiy-matematik modellashtirish singari usullardan
+foydalanilgan.
+        Tadqiqotning ilmiy yangiligi quydagilardan iborat:
+        tijorat banklarining moliyaviy barqarorligini ta’minlashni baholash uslubiyoti
+kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarini o‘zaro bog‘liq holda
+integrallashtiruvchi barqarorlik ko‘rsatkichlari tizimini joriy etish orqali
+takomillashtirish taklifi etilgan;
+        tijorat banklari moliyaviy barqarorligini ifodalovchi ko‘rsatkichlar tizimi
+bank faoliyatida risk darajasi va daromadlar barqarorligini hisobga olgan holda
+“past”, “qoniqarli”, “o‘rta” va “yuqori” barqarorlik toifalarini belgilashga xizmat
+qiluvchi shkalali baholash mezonlarini kiritish orqali takomillashtirish taklif etilgan;
+        tijorat banklari uchun moliyaviy barqarorlik monitoringini tashkil etish
+mexanizmi integral barqarorlik ko‘rsatkichlari dinamikasini doimiy baholashga
+asoslangan riskka yo‘naltirilgan monitoring modeli joriy etilishi orqali
+takomillashtirish taklif etilgan;
+        tijorat banklarining moliyaviy barqarorligini prognozlashtirish modeli
+makroiqtisodiy omillar, kredit portfeli tuzilmasi va likvidlik holatini hisobga olgan
+holda bank moliyaviy holatining o‘rta va uzoq muddatli o‘zgarishlarini bashorat
+qilish imkonini beruvchi ko‘p omilli prognozlash mexanizmini tatbiq etish taklif
+etilgan.
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      tijorat banklarida moliyaviy barqarorlikni ta’minlashda kapital strukturasini
+optimallashtirish va risk darajasiga mos ravishda kapital buferlarini shakllantirishga
+qaratilgan moliyaviy model ishlab chiqilgan;
+      bank faoliyatida likvidlik risklarini kamaytirish va pul oqimlarini samarali
+boshqarishga qaratilgan dinamik likvidlik boshqaruv mexanizmi ilmiy jihatdan
+asoslangan;
+      valyuta va foiz stavkasi xavflarining bank moliyaviy barqarorligiga ta’sirini
+baholash uchun ssenariyli tahlil va stress-test modellari takomillashtirilgan;
+
+8
+      tijorat banklarida kredit portfeli sifati va likvidlik holatini optimal boshqarishga
+qaratilgan risk-menejment instrumentlari tizimi ilmiy jihatdan asoslangan;
+      O‘zbekiston bank sektori sharoitida moliyaviy barqarorlikni ta’minlash uchun
+makroprudensial talablar, valyuta risklari va davlat ishtirokini hisobga olgan holda
+strategik boshqaruv mexanizmi takomillashtirilgan;
+      tijorat banklarida moliyaviy barqarorlikni ta’minlashga qaratilgan kapitalni
+boshqarish, kredit siyosatini diversifikatsiya qilish va likvidlik zaxiralarini
+optimallashtirishga yo‘naltirilgan kompleks strategik yondashuv samaradorligi
+amaliy jihatdan baholangan.
+      Tadqiqot natijalarining ishonchliligi. Dissertasion tadqiqot olib borish
+jarayonida Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi, Oʻzbekiston
+Respublikasi Milliy statistika qoʻmitasi va Oʻzbekiston sanoat-qurilish bankining
+rasmiy ma'lumotlari, shuningdek Xalqaro moliya institutlarining banklarning
+moliyaviy barqarorlikni ta’minlashga ko‘rsatkichlariga doir boʻlgan rasmiy statistik
+ma'lumotlaridan foydalanilganligi, me'yoriy-huquqiy hujjatlarning mavzuga tegishli
+qismlari atroflicha koʻrib chiqilganligi bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati mamlakatimizda banklarning moliyaviy barqarorligini ta’minlashga
+qaratilgan ustuvor yoʻnalishlarni belgilash, bu borada moliyaviy barqarorlikni
+oshirish va bank tizimi barqarorligini metodologik asoslarini tadqiq etish va
+moliyaviy siyosatning rolini rivojlantirishga bagʻishlangan ilmiy tadqiqotlarni olib
+borishda keng foydalanish mumkinligi bilan belgilanadi.
+      Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy taklif va amaliy
+tavsiyalardan Oʻzbekistonda banklarning moliyaviy barqarorligiga qaratilgan
+ustuvorligini ta'minlashni orqali bank tizimi barqarorligini oshirishga qaratilgan
+tizimni isloh etishga bagʻishlangan ilmiy konsepsiya, qonunosti hujjatlarni ishlab
+chiqish, oliy ta'lim muassasalarida “Bank ishi”, “Bank, pul va kredit» va «Monetar
+siyosat» singari fanlarning oʻquv dasturini ishlab chiqish va uning amaliy bazasini
+mustahkamlash mumkinligi bilan izohlanadi.
+        Tadqiqot natijalarining joriy qilinishi. Tijorat banklari moliyaviy
+barqarorligini ta’minlash yo‘nalishlari boʻyicha olingan ilmiy natijalar asosida:
+        tijorat banklarining moliyaviy barqarorligini ta’minlashni baholash uslubiyoti
+kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarini o‘zaro bog‘liq holda
+integrallashtiruvchi barqarorlik ko‘rsatkichlari tizimini joriy etish orqali
+takomillashtirish taklifi O‘zbekiston Respublikasi Prezidentining “2020-2025-
+yillarga mo‘ljallangan bank tizimini isloh qilish strategiyasi to‘g‘risida”gi
+PF-5992-sonli Farmoni farmoni 1-ilovasi 3-bobi 1-xatboshida keltirilgan vazifalar
+ijrosini ta’minlashga xizmat qildi (“O‘zbekiston sanoat-qurilish banki” ATBning
+2026-yil 3-martdagi 43-07/21-son ma’lumotnomasi). Mazkur taklif asosida tijorat
+bankda moliyaviy barqarorlikni baholashning kompleks mexanizmi shakllanib,
+integral barqarorlik indeksi qiymati 0,61 dan 0,78 gacha oshdi, kapital yetarliligi
+13,2 foizdan 14,1 foizga yaxshilanishga erishildi.
+        tijorat banklari moliyaviy barqarorligini ifodalovchi ko‘rsatkichlar tizimi
+bank faoliyatida risk darajasi va daromadlar barqarorligini hisobga olgan holda
+“past”, “qoniqarli”, “o‘rta” va “yuqori” barqarorlik toifalarini belgilashga xizmat
+                                                                                        9
+qiluvchi shkalali baholash mezonlarini kiritish orqali takomillashtirish taklifi
+O‘zbekiston Respublikasi Prezidentining “2020-2025-yillarga mo‘ljallangan bank
+tizimini isloh qilish strategiyasi to‘g‘risida”gi PF-5992-sonli Farmoni farmoni 1-
+ilovasi 3-bobi 1-xatboshida keltirilgan vazifalar ijrosini ta’minlashga xizmat qildi
+(“O‘zbekiston sanoat-qurilish banki” ATBning 2026-yil 3-martdagi 43-07/21-son
+ma’lumotnomasi). Mazkur taklif asosida risk darajasi va daromadlar barqarorligini
+hisobga olgan holda joriy etilgan shkalali baholash mezonlari tijorat banki
+amaliyotida moliyaviy barqarorlikni aniq differensial baholash imkonini yaratib,
+riskka moyil operatsiyalar ulushini 18 foizga qisqartirdi, daromadlar
+o‘zgaruvchanligini 1,4 barobar kamaytirdi hamda bank barqarorligini “qoniqarli”
+toifadan “o‘rta” darajaga olib chiqish orqali monitoring va boshqaruv qarorlari
+samaradorligini oshirgani amaliy natijalar bilan asoslandi.
+        tijorat banklari uchun moliyaviy barqarorlik monitoringini tashkil etish
+mexanizmi integral barqarorlik ko‘rsatkichlari dinamikasini doimiy baholashga
+asoslangan riskka yo‘naltirilgan monitoring modeli joriy etilishi orqali
+takomillashtirish taklifi O‘zbekiston Respublikasi Prezidentining “2020-2025
+yillarga mo‘ljallangan bank tizimini isloh qilish strategiyasi to‘g‘risida”gi
+PF-5992-sonli Farmoni farmoni 1-ilovasi 3-bobi 1-xatboshida keltirilgan vazifalar
+ijrosini ta’minlashga xizmat qildi (“O‘zbekiston sanoat-qurilish banki” ATBning
+2026-yil 3-martdagi 43-07/21-son ma’lumotnomasi). Mazkur taklif asosida tijorat
+banklari uchun joriy etilgan riskka yo‘naltirilgan monitoring modeli integral
+barqarorlik ko‘rsatkichlari dinamikasini doimiy baholash imkonini berib, tijorat
+banki amaliyotida moliyaviy barqarorlikni monitoring qilish samaradorligini
+sezilarli oshirdi; natijada muammoli kreditlar ulushi 6,8 foizdan 4,1 foizgacha
+pasaydi, risklarni 15,0 foizga kamaytirish hamda bank boshqaruvi qarorlarining
+ishonchliligi va samaradorligini oshirish imkoniyati ta’minlandi.
+        tijorat banklarining moliyaviy barqarorligini prognozlashtirish modeli
+makroiqtisodiy omillar, kredit portfeli tuzilmasi va likvidlik holatini hisobga olgan
+holda bank moliyaviy holatining o‘rta va uzoq muddatli o‘zgarishlarini bashorat
+qilish imkonini beruvchi ko‘p omilli prognozlash mexanizmini tatbiq etish taklifi
+O‘zbekiston Respublikasi Prezidentining “2020-2025-yillarga mo‘ljallangan bank
+tizimini isloh qilish strategiyasi to‘g‘risida”gi PF-5992-sonli Farmoni farmoni 1-
+ilovasi 3-bobi 1-xatboshida keltirilgan vazifalar ijrosini ta’minlashga xizmat qildi
+(“O‘zbekiston sanoat-qurilish banki” ATBning 2026-yil 3-martdagi 43-07/21-son
+ma’lumotnomasi). Mazkur taklif asosida tijorat banklari moliyaviy barqarorligini
+prognozlashtirish uchun joriy etilgan ko‘p omilli model makroiqtisodiy indikatorlar,
+kredit portfeli tuzilmasi va likvidlik holatiga asoslanib, bank moliyaviy holatining
+o‘rta va uzoq muddatli o‘zgarishlarini aniq bashorat qilish imkonini berdi; natijada
+tijorat banki amaliyotida kredit faoliyatining ehtimoliy samaradorligi 12 %ga oshdi,
+likvidlik zaxiralarini optimallashtirish orqali majburiyatlarni bajarish xavfi 30 %ga
+kamaydi va strategik investitsiya qarorlari prognoz asosida qabul qilinish orqali
+moliyaviy strategiya samaradorligi sezilarli darajada mustahkamlandi.
+      Tadqiqot natijalarining aprobasiyasi. Ushbu tadqiqot natijalari 4 ta, jumladan,
+2 ta respublika va 2 ta xalqaro ilmiy-amaliy konferensiyalarda aprobasiyada
+oʻtkazilgan.
+10
+      Tadqiqot natijalarining e'lon qilinishi. Dissertasiya mavzusi boʻyicha jami 8
+ta ilmiy ish, shu jumladan, Oʻzbekiston Respublikasi Oliy attestasiya komissiyasining
+doktorlik dissertasiyalari asosiy ilmiy natijalarini chop etish boʻyicha tavsiya etilgan
+ilmiy nashrlarda 3 ta ilmiy maqola, jumladan, 2 tasi respublika va 1 tasi xorijiy
+jurnallarda, ilmiy-amaliy konferensiyalarda 4 ta ma'ruza tezislari nashr etilgan.
+      Dissertasiyaning tuzilishi va hajmi. Dissertasiya ishi kirish, uchta bob, xulosa,
+foydalanilgan adabiyotlar roʻyxati va ilovalardan tarkib topgan. Dissertasiya hajmi
+128 betni tashkil etadi.
+
+                          DISSERTASIYANING ASOSIY MAZMUNI
+      Dissertasiyaning kirish qismida tadqiqot mavzusining dolzarbligi va zaruriyati
+asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi, vazifalari
+hamda ob’ekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertasiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+      Dissertatsiyaning “Tijorat banklari moliyaviy barqarorligining nazariy -
+metodologik asoslari” deb nomlangan birinchi bobida mamlakat iqtisodiy
+taraqqiyoti va moliyaviy tizimining muvaffaqiyati tijorat banklarining barqaror
+faoliyati bilan chambarchas bog‘liqligi bayon etilib, mazkur bobda moliyaviy
+barqarorlik bank faoliyati samaradorligini belgilovchi mezon sifatida butun
+moliyaviy tizim barqarorligini ta’minlovchi asosiy omil sifatida qaralmoqda.
+Bankning moliyaviy barqarorligi bir necha asosiy mezonlar orqali baholanadi:
+likvidlik darajasi, kapital yetarliligi, daromadlilik, aktivlar sifati hamda xavflarni
+boshqarish qobiliyati. Likvidlik - bankning qisqa muddatli majburiyatlarni qoplash
+qobiliyatini anglatsa, kapital yetarliligi bankning potensial zararlarni bartaraf
+etishdagi zaxira salohiyatini ifoda etadi. Daromadlilik esa bankning moliyaviy
+samaradorligini aks ettiradi. Shuningdek, aktivlar sifati va diversifikatsiya darajasi
+hamda xavflarni aniqlash, baholash va samarali boshqarish mexanizmlari moliyaviy
+barqarorlikning tarkibiy qismlaridir.
+       Qayd etish kerakki, moliyaviy barqarorlik tushunchasiga nisbatan turli ilmiy
+maktab va olimlar tomonidan turlicha yondashuvlar mavjud. Masalan, Frederik
+Mishkin o‘z tadqiqotlarida moliyaviy barqarorlikni moliya institutlarining o‘z
+funksiyalarini uzluksiz bajarish qobiliyati sifatida ta’riflaydi. Uning fikricha,
+moliyaviy tizimdagi har qanday izdan chiqish holati (likvidlik inqirozi, bankrotlik,
+ishonchsizlik va h.k.) iqtisodiyot faolligiga jiddiy salbiy ta’sir ko‘rsatadi5.
+       King va Levinning ilmiy qarashlarida moliyaviy barqarorlik iqtisodiy
+o‘sishning asosiy drayveri sifatida talqin qilinadi. Ularning nazariyasiga ko‘ra,
+barqaror moliya institutlari orqali sarmoyalar manzilli va samarali taqsimlanadi, bu
+esa iqtisodiy rivojlanishga ijobiy ta’sir ko‘rsatadi6.
+
+
+5
+  Mishkin F. Экономика денег, банковского дела и финансовых рынков. - M.: Вильямс, 2014. - 832 с.
+6
+  King R.G., Levine R. Finance and Growth: Schumpeter Might Be Right // The Quarterly Journal of Economics. -
+1993. - Vol. 108, No. 3. - P. 717-737., Levine R. Financial Development and Economic Growth: Views and Agenda
+// Journal of Economic Literature. - 1997. - Vol. 35, No. 2. - P. 688-726.
+
+                                                                                                         11
+        Xalqaro amaliyotda esa Bazel qo‘mitasining standartlari asos bo‘lib xizmat
+qiladi. Bazel III talablariga muvofiq, banklar stress holatlarda ham barqaror faoliyat
+yuritish uchun yuqori sifatli kapital zaxiralariga ega bo‘lishi shart. Bu talablar
+moliyaviy xavflarning oldini olish va to‘g‘ri boshqarishni ta’minlashga qaratilgan 7.
+        Skott va Rouz esa moliyaviy barqarorlikni mijozlar ishonchini ta’minlovchi
+omil sifatida ta’riflaydi. Ularga ko‘ra, bank o‘z mijozlarining mablag‘larini himoya
+qilishi va o‘z faoliyatini bozordagi o‘zgarishlarga qaramay uzluksiz amalga oshirishi
+lozim8.
+        Jahon bankining sobiq bosh iqtisodchisi J.Stiglis esa bank barqarorligini
+umummilliy iqtisodiy barqarorlikning asosi sifatida qarab, davlat nazorati va
+tartibga solishning rolini kuchaytirish zarurligini ta’kidlaydi9.
+        O‘zbekistonlik olimlar - Sh.Abdullayeva, C.Tog‘ayev, M.Axmedov va
+boshqalar o‘z tadqiqotlarida moliyaviy barqarorlikni milliy xususiyatlardan kelib
+chiqqan holda baholash zarurligini ta’kidlaydilar. Ularning fikriga ko‘ra 10 ,
+O‘zbekiston bank tizimi uchun faqatgina xalqaro mezonlar yetarli emas, balki davlat
+siyosatining yo‘nalishlari, infratuzilmaning rivojlanganlik darajasi, axborot
+texnologiyalaridan foydalanish imkoniyatlari ham e’tiborga olinishi zarur.
+        Moliyaviy jihatdan barqaror tijorat banklari keng ko‘lamdagi moliyaviy
+xizmatlar ko‘rsatishga, aholi va biznesning ishonchini qozonishga, moliyaviy
+resurslarni samarali taqsimlashga va iqtisodiy o‘sish jarayonlariga turtki berishga
+qodir bo‘ladi. Bank o‘z mijozlaridan jamg‘armalarni jalb qilib, ularni qayta
+moliyalashtirish orqali iqtisodiyotda aylanadigan kapitalning hayot siklda faol
+ishtirok etadi. Bu esa bankka nisbatan ishonch darajasini oshirib, depozitlar bazasini
+mustahkamlash imkonini yaratadi. S.Tog‘ayev ta’kidlaganidek, likvidlik va
+kapitalning yetarli bo‘lishi bankning mablag‘ jalb qilish salohiyatini belgilaydi va
+bu uning umumiy barqarorligiga xizmat qiladi11.
+        Shuningdek, moliyaviy barqaror banklar uzoq muddatli, ijtimoiy ahamiyatga
+ega bo‘lgan investitsiya loyihalarini moliyalashtirish orqali real sektorda faol
+ishtirok etadi. Sh.Abdullayevaning fikricha, bank kapitalining yetarliligi va aktivlar
+sifati to‘g‘ridan-to‘g‘ri kredit salohiyatini shakllantiradi. Bunday banklar xavflarni
+oldindan baholay oladi, tavakkalchilikni pasaytiruvchi instrumentlardan foydalanadi
+va iqtisodiyotning turli sohalariga yo‘naltirilgan kredit faoliyatini amalga oshiradi12.
+        Fikrimizcha, moliyaviy barqarorlik - bankning uzluksiz, xavfsiz va daromadli
+faoliyatini ta’minlovchi asosiy holat bo‘lib, uning mohiyatini tushunish va to‘g‘ri
+baholash zamonaviy moliyaviy tizim uchun hal qiluvchi ahamiyatga ega. Moliyaviy
+barqarorlikka oid ilmiy yondashuvlar tahlili shuni ko‘rsatadiki, mazkur tushuncha
+
+7
+  Basel Committee on Banking Supervision. Basel III: A global regulatory framework for more resilient banks and
+banking systems. - Basel: Bank for International Settlements, 2011. - 76 p.
+8
+  Скотт Д., Роуз П. Банковский менеджмент. - М.: Дело, 2010. - 784 с.
+9
+  Stiglitz J.E. Globalization and Its Discontents. - New York: W.W. Norton & Company, 2002. - 288 p.
+10
+   Abdullayeva Sh. Bank ishi. - T.: “Iqtisod-moliya”, 2017. - 732 b., Tog‘ayev S.S. Tijorat banklarining moliyaviy
+barqarorligini ta’minlash yo‘llari // Servis ilmiy-amaliy jurnal, 2021, maxsus son, Axmedov M.U. Tijorat banklari
+moliyaviy barqarorligini ta’minlash va investitsion faolligini oshirish masalalari // Iqtisodiyot va moliya. 2011.
+№10.
+11
+   Tog‘ayev S.S. Tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘llari // Servis ilmiy-amaliy jurnal,
+2021, maxsus son,
+12
+   Abdullayeva Sh. Bank ishi. - T.: “Iqtisod-moliya”, 2017. - 732 b.
+
+12
+universal bo‘lib, u bank faoliyatining barcha jabhalarida muhim o‘rin tutadi va jahon
+hamjamiyatida ham, milliy iqtisodiyotlarda ham yagona strategik maqsad
+hisoblanadi.
+       Moliyaviy barqarorlik, shu bilan birga, bankning zamonaviy to‘lov
+infratuzilmasini ta’minlashda ham muhim ahamiyatga ega. Banklar hisob-kitob va
+to‘lov tizimlari orqali iqtisodiyotdagi pul aylanmasini kafolatlaydi. M.Xalilova o‘z
+tadqiqotlarida bank axborot texnologiyalariga investitsiya kiritish orqali xavflarni
+boshqarish va likvidlikni ta’minlash vazifalarini samarali amalga oshirishini
+ta’kidlaydi13.
+       Tijorat banklari faoliyati turli xavflar bilan bog‘liq. Shu bois, moliyaviy
+barqarorlik xavf-xatarlarni aniqlash, baholash va samarali boshqarish qobiliyati
+bilan ham ifodalanadi. Barqaror banklar xavflarni diversifikatsiyalash, sug‘urta va
+xedjing kabi mexanizmlar orqali qayta taqsimlaydi. Sh. Kamolova ta’kidlaganidek,
+O‘zbekiston bank tizimida xavflar boshqaruvini institutsional jihatdan rivojlantirish
+- moliyaviy barqarorlikning uzviy qismidir14.
+       Nihoyat, barqaror banklar jamiyatning turli qatlamlariga moliyaviy
+xizmatlarni keng qamrovda taqdim etishi, iqtisodiy inklyuzivlikni kuchaytirishi
+mumkin. J.Stiglis bu holatni ijtimoiy barqarorlikning kafolati sifatida ko‘radi 15 .
+G‘.T.Norbayev esa O‘zbekistonda qishloq hududlarida mikromoliya xizmatlarini
+kengaytirish, ayniqsa, kichik tadbirkorlikni rivojlantirishda bank barqarorligining
+ahamiyatini alohida qayd etadi16.
+       Fikrimizcha, tijorat banklarining moliyaviy barqarorligi ularning barcha
+asosiy vazifalarini amalga oshirishda, ya’ni jamg‘armalarni jalb qilish, kreditlash,
+to‘lov xizmatlari, investitsiya, xavflarni boshqarish va moliyaviy inklyuzivlikni
+ta’minlashda hal qiluvchi omil hisoblanadi. Bu barqarorlik bankning ichki
+boshqaruv madaniyati, makroiqtisodiy muhitga moslashuvchanligi va davlat
+tomonidan tartibga solish darajasi bilan chambarchas bog‘liqdir. Shu bois,
+moliyaviy barqarorlik nafaqat bankning, balki butun moliya tizimining funksional
+va institutsional poydevorini tashkil etadi.
+       Moliyaviy barqarorlik tijorat banklarining likvidligi, kapital yetarliligi va
+daromadliligi bilan bevosita bog‘liq bo‘lib, bank faoliyatining tizimli hamda
+uzluksiz amalga oshirilishi, iqtisodiy turbulentlikka qarshi bardosh berishi, mijozlar
+va bozor ishtirokchilari ishonchiga sazovor bo‘lishiga xizmat qiluvchi asosiy
+strategik holat hisoblanadi. Ushbu barqarorlikni shakllantirishda va
+mustahkamlashda bankning likvidlik, kapital yetarliligi va daromadliligi
+(rentabelligi) kabi ko‘rsatkichlari hal qiluvchi o‘rin tutadi. Ularning har biri
+moliyaviy barqarorlikning funksional omili bo‘lib, ular o‘rtasidagi dinamik
+muvozanatning buzilishi tijorat bankining xavfli holatlarga tushib qolishiga sabab
+bo‘lishi mumkin.
+
+13
+   Xalilova M.A. Tijorat banklarining moliyaviy barqarorligini oshirish yo‘llari // CAJMRMS. 2025. №5-2.
+14
+   Kamolova, Sh.A. Tijorat banklarida xavflarni boshqarish tizimini takomillashtirish masalalari // Moliya va bank. -
+2021. - №2. - B. 41-48.
+15
+   Stiglitz, J.E., & Weiss, A. Credit Rationing in Markets with Imperfect Information // The American Economic
+Review. - 1981. - Vol. 71, No. 3. - P. 393-410.
+16
+   Norbayev G‘.T. Qishloq xo‘jalik tuzilmalarini moliyalashtirish va kreditlash mexanizmining nazariy asoslari //
+CAJEI. 2024. №2-1.
+
+                                                                                                                 13
+                                                                     1-jadval
+Moliyaviy barqarorlikni ta’minlovchi asosiy ko‘rsatkichlar va ularning o‘zaro
+                                  ta’siri17
+ Ko‘rsatkich                                                         Moliyaviy                 O‘zaro
+                                       Ta’rifi
+ nomi                                                           barqarorlikka ta’siri      bog‘liqliklari
+                            Bankning qisqa                    To‘lov qobiliyatini       Kapital va
+                            muddatli                          ta’minlaydi, ishonchni    rentabellik likvid
+ Likvidlik                  majburiyatlarini o‘z              mustahkamlaydi            aktivlarni
+                            vaqtida ado etish                                           ta’minlaydi
+                            qobiliyati
+                            Xavf-xatarlarni qoplash           Bank xavflarga qarshi     Foyda kapitalni
+ Kapital
+                            va yo‘qotishlarni                 immunitetga ega bo‘ladi   to‘ldiradi; kapital
+ yetarliligi
+                            bartaraf etish imkoniyati                                   yesa likvidlik buferi
+                            Bankning daromad olish            Uzoq muddatli             Kapital va
+ Rentabellik                qobiliyati va faoliyat            rivojlanish va kapital    likvidlikni saqlash
+ (Daromadlilik)             samaradorligi                     qayta shakllanishiga      uchun foyda zarur
+                                                              asos bo‘ladi
+       1-jadvaldan ko‘rinib turibdiki, moliyaviy barqarorlik tijorat banklari
+faoliyatining eng muhim mezoni bo‘lib, uning asosiy ustunlari - likvidlik, kapital
+yetarliligi va rentabellikdir. Ushbu ko‘rsatkichlar bir-birini to‘ldiruvchi va o‘zaro
+bog‘liq mexanizm sifatida faoliyat yuritadi.
+       Likvidlik - bankning qisqa muddatli majburiyatlarni o‘z vaqtida to‘lash
+qobiliyati bo‘lib, mijozlar ishonchi va kundalik faoliyatning uzluksizligini
+ta’minlaydi. Agar likvidlik yetarli bo‘lmasa, bank o‘z majburiyatlarini bajara
+olmaydi va ishonchni yo‘qotadi.
+       Kapital yetarliligi esa bankning xavf-xatarlarga qarshi tura olish qobiliyatini
+aks ettiradi. U likvidlikni himoya qiladi, bankni turli iqtisodiy shoklardan saqlaydi
+va barqaror faoliyat yuritishga zamin yaratadi.
+       Rentabellik - bank faoliyati samaradorligini ko‘rsatuvchi ko‘rsatkich bo‘lib,
+foyda yetarli bo‘lsa, kapital tiklanadi, likvidlik bazasi mustahkamlanadi. Agar
+rentabellik past bo‘lsa, bu boshqa ko‘rsatkichlarning ham zaiflashishiga olib kelishi
+mumkin.
+       Shu bois, ushbu ko‘rsatkichlar o‘rtasidagi muvozanat moliyaviy barqarorlikni
+ta’minlashda hal qiluvchi ahamiyat kasb etadi. Ulardan biri yetishmasligi yoki
+noto‘g‘ri boshqarilishi bankning barqarorligiga tahdid solishi mumkin. Shuning
+uchun, tijorat banklari moliyaviy barqarorlikni ta’minlashda ushbu ko‘rsatkichlarni
+tizimli ravishda monitoring qilish va ularga kompleks yondashuvni qo‘llashlari
+shart.
+       Likvid aktivlar miqdori yetarli bo‘lmagan banklarda pul aylanmasi uziladi,
+ishonch pasayadi va bu moliyaviy barqarorlikni izdan chiqarishi mumkin. Ikkinchi
+muhim ko‘rsatkich - kapital yetarliligi. Bu bankning xavf-xatarlarga qarshi qoplama
+buferi hisoblanib, ehtimoliy yo‘qotishlarni o‘z kapital hisobidan to‘lash qobiliyatini
+belgilaydi. Basel III standartida kapital yetarliligi barqarorlikni saqlab qolishning
+
+
+17
+     tadqiqotlar asosida muallif tomonidan shakllantirildi.
+
+14
+institutsional asosi sifatida ko‘riladi 18 . I.Munteanuning ta’kidlashicha, kapital
+yetarliligi likvidlikka ham ta’sir ko‘rsatadi: kapital necha barobar mustahkam bo‘lsa,
+shuncha ko‘proq likvid aktivlarga sarmoya kiritish imkoni tug‘iladi 19 .
+O‘zbekistonda F.Dodiyev tadqiqotida Banklar o‘z majburiyatlarini to‘liq ba jarishi
+uchun mijozlari oldida ishonchli imijiga ega bo‘lishi lozim deb hiosblaydi. chunki
+uning fikricha bu ishonch esa banklarning likvidligi negizidan kelib chiqadi20.
+       Uchinchi jihat - daromadlilik (rentabellik). Ushbu ko‘rsatkich bankning foyda
+olish salohiyatini va biznes modelining samaradorligini aks ettiradi. Daromadli
+faoliyat olib boradigan banklar o‘z kapital bazasini oshirish, zaxiralar yaratish va
+faol xavf boshqaruvini amalga oshirish imkoniga ega bo‘ladi.
+       Bularning barchasi shundan dalolat beradiki, moliyaviy barqarorlikni
+ta’minlovchi mazkur uch ko‘rsatkich o‘zaro chambarchas bog‘liqdir. Biridagi salbiy
+o‘zgarish ikkinchisiga ham ta’sir qiladi. Masalan, past rentabellik kapitalni tiklash
+imkoniyatini cheklaydi, kapital yetarli emasligi esa likvidlikni ta’minlash uchun
+jamg‘arma manbalarini tugashiga olib keladi. Shu sababli, zamonaviy tahlillarda
+“moliyaviy barqarorlik uchburchagi” (Financial Stability Triangle) tushunchasi
+keng qo‘llaniladi. Ushbu modelda likvidlik - qisqa muddatli barqarorlik, kapital -
+xavflarga qarshi immunitet, rentabellik - uzoq muddatli rivojlanish poydevori
+sifatida ko‘riladi.
+       Fikrimizcha, moliyaviy barqarorlik - bu faqat ma’lum bir ko‘rsatkichni
+optimal darajada ushlab turish emas, balki ularning o‘zaro muvozanatini ta’minlash,
+iqtisodiy sharoitlarga muvofiqlashtirish va xavflarga to‘liq javob bera olish
+qobiliyatidir. Likvidlik, kapital yetarliligi va rentabellik - bu moliyaviy mustaqillik,
+ishonch va uzluksiz rivojlanishning asosiy tayanch nuqtalari hisoblanadi. Ularning
+har biri mustaqil qiymatga ega bo‘lgan holda, bir-birini to‘ldiradi va moliyaviy
+barqarorlikni real ifodalaydi.
+      Dissertasiya ishining ikkinchi bobi “O‘zbekiston tijorat banklarida
+moliyaviy barqarorlik ko‘rsatkichlarining holati va tendensiyalari” deb
+nomlangan bo‘lib, unda dissertasiyaning tahliliy qismlari bayon etilgan. Xususan,
+O‘zbekiston tijorat banklarida moliyaviy barqarorlik ko‘rsatkichlarining holati va
+tendensiyalarini kompleks tahlil qilish natijalari shuni ko‘rsatadiki, so‘nggi yillarda
+bank tizimida institutsional islohotlar va makroprudensial siyosat mexanizmlarini
+takomillashtirish hisobiga barqaror ijobiy dinamika shakllangan. Xususan, kapital
+yetarliligi koeffitsienti (CAR)ning xalqaro Bazel III talablaridan yuqori darajada
+saqlanishi banklarning shoklarga nisbatan bardoshliligini oshirib, ularning
+moliyaviy xavflarni o‘z vaqtida qoplash imkoniyatlarini kengaytirmoqda. Shu bilan
+birga, muammoli kreditlar ulushining (NPL) izchil pasayish tendensiyasi kredit
+risklarini boshqarish tizimida sifat o‘zgarishlari yuz berayotganini ko‘rsatadi.
+Likvidlik ko‘rsatkichlarining yuqori darajada shakllanishi esa bank tizimida to‘lov
+18
+   Basel Committee on Banking Supervision. Basel III: A global regulatory framework for more resilient banks and
+banking systems. - Basel: Bank for International Settlements, 2011. - 76 p.
+19
+   Munteanu, I. Capital adequacy and banking performance. // Financial Studies Journal. - 2017. - Vol. 21, No. 3. -
+P. 63-75.
+20
+   Dodiyev F.O‘., Abdusaidov A.A. Tijorat banklari likvidligini ta’minlash borasidagi xalqaro tajriba // Iqtisodiyot
+va moliya. 2015. №4.
+
+                                                                                                                  15
+qobiliyati va majburiyatlarni bajarish intizomi mustahkamlanayotganini anglatadi.
+Mazkur holatlar milliy bank tizimining moliyaviy vositachilik funksiyasini samarali
+bajarishini ta’minlash bilan birga, uning makroiqtisodiy barqarorlikni qo‘llab-
+quvvatlashdagi rolini kuchaytirmoqda.
+        Mazkur ko‘rsatkich orqali bankning xavf darajasiga mos aktivlarini o‘z
+kapital hisobiga qoplash imkoniyati aniqlanadi. Mishkin (2019) ta’kidlaganidek,
+kapital yetarliligi - bank tizimining “xavflarni yutish qobiliyati”sifatida xizmat
+qiladi 21 . Masalan, O‘zbekistonda 2025-yil holatiga ko‘ra tijorat banklari kapital
+yetarliligi koeffitsienti (CAR) o‘rtacha 18,0-18,5 % atrofida shakllangan bo‘lib22, bu
+ko‘rsatkich Basel Committee on Banking Supervision tomonidan belgilangan Bazel
+III minimal talablari (10,5 %)dan sezilarli darajada yuqori hisoblanadi . Ushbu holat
+milliy bank tizimining kapital buferi yetarlicha mustahkam ekanligini va turli
+moliyaviy shoklarga nisbatan bardoshlilik darajasi yuqori ekanini ko‘rsatadi.
+Xalqaro tajribaga murojaat qilinganda, 2024-2025 yillar ma’lumotlariga ko‘ra,
+Yevropa Ittifoqi mamlakatlarida tijorat banklari CAR ko‘rsatkichi o‘rtacha 15,5-
+16,0 % atrofida , AQSh bank tizimida esa 13,5-14,5 % darajasida saqlanmoqda23.
+        Ikkinchidan, aktivlar sifati bank moliyaviy barqarorligining muhim
+ko‘rsatkichi bo‘lib, u asosan muammoli kreditlar ulushi (NPL) orqali baholanadi.
+Ilmiy qarashlarga ko‘ra, aktivlar sifati kredit portfelidagi risk darajasi va bankning
+uzoq muddatli barqarorligini belgilaydi. 2025-yil holatiga O‘zbekistonda NPL
+darajasi 3,8-4,0% atrofida shakllangan bo‘lib, bu Rossiya (5,5-6,0%) va Qozog‘iston
+(6,5-7,0%)ga nisbatan yaxshiroq, ammo Yevropa Ittifoqi (1,8-2,2%)dan yuqori
+hisoblanadi. Bu holat kredit risklarini boshqarish samaradorligi oshganini ko‘rsatsa-
+da, uni yanada takomillashtirish zarurligini anglatadi.
+        Uchinchidan, likvidlik siyosati bankning qisqa muddatli majburiyatlarni
+bajarish qobiliyatini ta’minlaydi va moliyaviy barqarorlikning muhim omili
+hisoblanadi. Likvidlik darajasining yetarliligi mijozlar ishonchini ta’minlaydi
+hamda bank tizimining barqaror ishlashini kafolatlaydi. 2025-yilda O‘zbekiston
+bank tizimida likvidlik va kapital ko‘rsatkichlari xalqaro standartlarga mos holda
+saqlanib, milliy banklarning tashqi shoklarga nisbatan bardoshliligini namoyon
+etmoqda.
+        To‘rtinchidan, bank faoliyati samaradorligi ROA va ROE ko‘rsatkichlari
+orqali baholanadi. 2025-yil holatiga O‘zbekistonda ROA 2,0-2,2%, ROE esa 17,5-
+18,5% atrofida bo‘lib, bu AQSh bank tizimi (ROA: 1,1-1,3%, ROE: 11-13%)ga
+nisbatan yuqori. Bu holat milliy banklar rentabelligi va investitsion jozibadorligi
+nisbatan yuqori ekanini ko‘rsatadi.
+        2-jadval ma’lumotlari 2024-yilda O‘zbekiston bank tizimi moliyaviy
+barqarorligining nisbatan barqaror va ijobiy dinamikasi saqlanib qolayotganini
+ko‘rsatadi24. Biroq mazkur barqarorlikni chuqurroq tahlil qilish uchun uning tarkibiy
+
+        21
+            Mishkin F. S. The Economics of Money, Banking and Financial Markets. – 12th ed. – New York:
+Pearson, 2019. – 720 p.
+         22
+            Moliyaviy barqarorlik hisoboti / O‘zbekiston Respublikasi Markaziy banki. – Toshkent, 2025. – 85 b.
+         23
+            Financial Stability Report. – Washington, D.C.: Board of Governors of the Federal Reserve System,
+2025. - 95 p.
+         24
+            O‘zbekiston Respublikasi Markaziy banki. Moliyaviy barqarorlik hisoboti. - Toshkent, 2024.
+
+16
+elementlari o‘rtasidagi o‘zaro bog‘liqlik va transmissiya mexanizmlarini hisobga
+olish muhimdir. Zamonaviy yondashuvlarga ko‘ra, moliyaviy barqarorlikni
+baholashda alohida indikatorlar emas, balki ularning o‘zaro ta’siri hal qiluvchi
+ahamiyatga ega25.
+                                                                        2-jadval
+ O‘zbekiston tijorat banklari moliyaviy barqarorligiga ta’sir etuvchi ichki va
+                      tashqi omillarning taqqoslama tahlili
+                                          Ijobiy ta’sir                                            Xalqaro
+   Omil                                                                Salbiy xavf-
+                 Aniq yo‘nalish             misollari                                            solishtirma
+   turi                                                                 xatarlar
+                                       (O‘zbekiston, 2024)                                      ma’lumotlar
+                                                                   Davlat banklarida         Bazel III: ≥10,5%;
+                 Kapital               CAR - 17,0-17,4%
+ Ichki                                                             kapital                   rivojlanayotgan
+                 yetarliligi           (minimal talab -
+ omillar                                                           samaradorligi past        mamlakatlar: 10-
+                 (CAR)                 8%).
+                                                                   bo‘lishi mumkin.          12%.
+                                                                   Ayrim tarmoqlarda
+                                       NPL - 3,8-4,0%                                        YeI - 2,1%;
+                 Aktivlar sifati                                   kredit
+                                       (pasayish                                             Turkiya - 5,2%
+                 (NPL)                                             konsentratsiyasi
+                                       tendensiyasi).                                        (2024).
+                                                                   yuqori.
+                 Likvidlik                                         Valyuta likvidligiga
+                                       LCR ≈ 190-195%,                                       AQSh: LCR ≈
+                 darajasi                                          bog‘liq risklar
+                                       NSFR ≈ 110-115%.                                      120-130%.
+                 (LCR/NSFR)                                        saqlanmoqda.
+                 Raqamli                                                                Janubiy Koreya:
+                                       30 mln+ mobil bank          Kiberxavflar va
+                 infratuzilma va                                                        90%+ raqamli
+                                       foydalanuvchilari.          operatsion risklar.
+                 IT                                                                     banklashuv.
+                                                                                        OECD
+                                       Komplaens va risk-          Insayder kreditlar
+                 Korporativ                                                             standartlari:
+                                       menejment tizimlari         va shaffoflik
+                 boshqaruv                                                              governance -
+                                       joriy etilgan.              muammolari.
+                                                                                        asosiy talab.
+                                       Qayta                       Qimmat resurslar     AQSh - 5,25-
+ Tashqi
+                 Monetar siyosat       moliyalashtirish            kreditlashni         5,5%; YeI - ~4,0%
+ omillar
+                                       stavkasi: 13,5-14%.         cheklaydi.           (2024).
+                                                                                        Jahon o‘sishi -
+                                       YaIM o‘sishi - 5,7-
+                 Makroiqtisodiy                                    Inflyatsiya hali ham ~3,0%; inflyatsiya
+                                       5,8%; inflyatsiya -
+                 muhit                                             yuqori.              - ~5,8% (IMF,
+                                       8,5-9%.
+                                                                                        2024).
+                 Soliq va                                          Davlat ishtirokining
+                                       Davlat ulushi ~60%                               YeI davlatlarida
+                 regulyator                                        yuqoriligi
+                                       gacha qisqargan.                                 <15%.
+                 siyosat                                           saqlanmoqda.
+                 Xalqaro               3 mlrd.$ gacha                                   EMDE davlatlarda
+                                                                   Tashqi qarz va
+                 moliyaviy             tashqi resurslar jalb                            qarz o‘sishi ~10-
+                                                                   global risklar.
+                 bozorlar              qilingan.                                        12%.
+      Avvalo, kapital yetarliligi koeffitsienti (CAR)ning 17% atrofida saqlanishi
+bank tizimining kredit va bozor xavflariga nisbatan yuqori buferga ega ekanligini
+anglatadi. Bazel III standartlariga ko‘ra, umumiy kapital yetarliligi minimal darajasi
+10,5% ni tashkil etadi, shu nuqtai nazardan O‘zbekiston banklari kapitalizatsiya
+darajasi bo‘yicha xalqaro talablardan sezilarli yuqori pozitsiyada turibdi. Biroq ilmiy
+tadqiqotlar shuni ko‘rsatadiki, kapitalning yuqori darajasi har doim ham
+
+         25
+              Basel Committee on Banking Supervision. Basel III: Finalising post-crisis reforms. - Basel: BIS, 2019. -
+160 p.
+
+                                                                                                                  17
+samaradorlikni     anglatmaydi,      balki     ba’zan     aktivlardan     foydalanish
+samaradorligining pastligini ham bildirishi mumkin . Demak, CAR ko‘rsatkichini
+                                                      26
+
+rentabellik (ROA, ROE) bilan integral tahlil qilish zarur.
+       Tadqiqot tahlillari moliyaviy barqarorlikka ta’sir etuvchi ichki va tashqi
+omillarning o‘zaro bog‘liqligi va ularning sinergetik ta’sirini nazariy hamda
+ekonometrik jihatdan asoslab berdi. Shunday qilib, tadqiqot maqsadi - 2020-2025
+yillar kesimida bank samaradorligi (CIR), kredit risklari (NPL) va rentabellik (ROA
+va ROE) ko‘rsatkichlari o‘rtasidagi sabab-oqibat munosabatlarini empirik tahlil
+qilish va DEA usuli orqali samaradorlikni baholashdir.
+       Tadqiqot uchun 12 ta tijorat bank (4 ta davlat va 8 ta xususiy) bo‘yicha 2018-
+2025 yillar choraklik panel ma’lumotlari tuzildi. Jami kuzatuvlar soni:
+                                𝑁 = 12 × 32 = 384
+
+       Tahlilga quyidagi ko‘rsatkichlar kiritildi:
+        CIR     - xarajatlar samaradorligi koeffitsienti, bank operatsion
+samaradorligini baholashda asosiy indikator;
+        ROA - aktivlar rentabelligi, bank aktivlaridan foydalanish samaradorligini
+ko‘rsatuvchi moliyaviy indikator;
+        ROE - kapital rentabelligi, investorlar uchun moliyaviy qaytarimni
+baholaydi;
+        CAR - kapital yetarliligi, bank barqarorligining asosiy ko‘rsatkichlaridan
+biri;
+        NPL - muammoli kreditlar ulushi, kredit portfeli sifati va risk darajasini
+ko‘rsatadi;
+        LDR - likvidlik koeffitsienti, bank likvidligi va aktivlar-javobgarlik balansi
+samaradorligini ifodalaydi.
+       Panel data tahlili uchun avvalambor Hausman testini o’tkazamiz. Bu test
+Fixed effects va Random effects modellaridan eng optimalini tanlab beradi. Test
+natijalari:
+
+        Model          χ² Statistik qiymati              d.f. p-qiymat            Tanlangan model
+       ROA                      18,74                     6     0,0047            Fixed Effects (FE)
+       ROE                      24,61                     6     0,0004            Fixed Effects (FE)
+
+       Tahlil uchun Fixed Effects (FE) modeli qo‘llanildi, bu model banklarga xos
+ta’sirni hisobga olish va vaqtga bog‘liq faktorlarni tahlil qilish imkonini beradi.
+Modellar quyidagicha ko‘rsatildi:
+        𝑅𝑂𝐴𝑖𝑡 = 𝛼 + 𝛽1 𝐶𝐼𝑅𝑖𝑡 + 𝛽2 𝐶𝐴𝑅𝑖𝑡 + 𝛽3 𝑁𝑃𝐿𝑖𝑡 + 𝛽4 𝐿𝐷𝑅𝑖𝑡 + 𝜇𝑖 + 𝜖𝑖𝑡
+        𝑅𝑂𝐸𝑖𝑡 = 𝛾 + 𝛿1 𝑅𝑂𝐴𝑖𝑡 + 𝛿2 𝐶𝐴𝑅𝑖𝑡 + 𝛿3 𝑁𝑃𝐿𝑖𝑡 + 𝜇𝑖 + 𝜖𝑖𝑡
+
+
+
+
+        26
+          Demirgüç-Kunt A., Detragiache E., Merrouche O. Bank capital: Lessons from the financial crisis // Journal
+of Money, Credit and Banking. - 2020. - Vol. 52. - P. 1-38.
+
+18
+      Bu yerda 𝜇𝑖 - banklarga xos individual ta’sir, 𝜖𝑖𝑡 - tasodifiy xato qatori
+hisoblanadi. Ushbu modellar orqali CIR → ROA → ROE transmissiya mexanizmi
+va kredit risklarining rentabellikka ta’siri empirik tasdiqlandi.
+                                                                        3-jadval
+                          Panel regression natijalari (2020-2025)
+   O‘zgaruvchi           ROA modeli (β)     t-stat      ROE modeli (β)         t-stat
+ CIR                     -0,043***          -3,87       -                      -
+ CAR                     0,019**            2,64        0,21**                 2,32
+ NPL                     -0,068***          -3,15       -0,58**                -2,84
+ LDR                     0,013*             1,98        -                      -
+ ROA                     -                  -           7,48***                5,76
+ Konstanta               3,92               -           -2,14*                 -
+ R²                      0,71               -           0,76                   -
+ F-stat                  18,6               -           21,3                   -
+        (* p<0.1, ** p<0.05, *** p<0.01)
+       Ekonometrik tahlil natijalari bank samaradorligi va rentabelligi o‘rtasidagi
+sabab-oqibat munosabatlarini aniq ko‘rsatdi. CIR (Cost-to-Income Ratio)
+koeffitsientining manfiy ta’siri (β = -0,043; p<0.01) bank aktivlar rentabelligiga
+salbiy ta’sir ko‘rsatishini tasdiqlab, operatsion xarajatlarni qisqartirish orqali
+samaradorlik va rentabellikni oshirish mumkinligini ko‘rsatadi. Bu esa xarajatlar
+darajasi foyda marjasini shakllantirishda muhim drayver ekanini anglatadi.
+       Shu bilan birga, NPL (Non-Performing Loans) ko‘rsatkichining manfiy ta’siri
+(β = -0,068) kredit portfeli sifati pasayishi rentabellikka salbiy ta’sir ko‘rsatishini
+aniqlaydi. Muammoli kreditlar ulushining oshishi aktivlardan samarali
+foydalanishni cheklaydi, bu esa risk-menejment tizimlarini kuchaytirish zarurligini
+ko‘rsatadi.
+       Bundan tashqari, ROAning ROEga ta’siri yuqori va statistik ahamiyatli (β =
+7,48; p<0,01) bo‘lib, aktivlar samaradorligini oshirish kapital rentabelligini
+multiplikativ ravishda kuchaytirishini tasdiqlaydi.
+       Umuman, natijalar operatsion xarajatlarni optimallashtirish, kredit risklarini
+nazorat qilish va aktivlarni samarali boshqarish orqali bank rentabelligi va moliyaviy
+barqarorligini oshirish mumkinligini ilmiy jihatdan asoslaydi. Tadqiqotlar tahlillari
+bank tizimidagi xavf-xatarlar va muammolarning ko‘p qirrali va tizimli xarakterga
+ega ekanini ochib berdi. Xususan, kredit risklari (qarzdorlarning to‘lov qobiliyati
+pasayishi), likvidlik risklari (resurslar muddatlari nomutanosibligi), valyuta risklari
+(kurs o‘zgaruvchanligi) va foiz stavkasi risklari bank moliyaviy barqarorligiga
+asosiy tahdidlar sifatida namoyon bo‘lmoqda. Ayrim banklarda risk-menejment
+tizimlarining yetarli darajada institutsionallashmagani, kredit portfelining tarkibiy
+diversifikatsiyasi pastligi va operatsion xarajatlarning yuqoriligi mavjud xavflarni
+yanada kuchaytirmoqda. Shu bilan birga, global iqtisodiy noaniqliklar, geosiyosiy
+omillar va tashqi moliyaviy bozorlardagi volatillik milliy bank tizimi uchun
+qo‘shimcha sistemaviy risklarni yuzaga keltirmoqda. Bu esa makroprudensial
+siyosat instrumentlarini takomillashtirish va stress-test modellarini keng joriy etish
+zarurligini ko‘rsatadi.
+
+
+                                                                                        19
+      Dissertasiya ishining “Tijorat banklari moliyaviy barqarorligini
+ta’minlashda ko‘rsatkichlarni joriy etish va takomillashtirish yo‘nalishlari”
+deb nomlangan uchinchi bobida
+       Tijorat banklarining moliyaviy barqarorligini baholashda an’anaviy
+yondashuvlar kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarini alohida
+tahlil qilishga asoslanadi, biroq ATB “O‘zsanoatqurilishbank” misolida bu usulning
+cheklanganligi aniqlandi. Shu asosda tadqiqotda ushbu ko‘rsatkichlarni o‘zaro
+bog‘liq holda integrallashtiruvchi barqarorlik indeksi (IBI) taklif etildi.
+       IBI hisoblash formulasi:
+                   IBI = 𝑤1 ⋅ 𝐶𝐴𝑅𝑛 + 𝑤2 ⋅ (1 − 𝑁𝑃𝐿𝑛 ) + 𝑤3 ⋅ 𝐿𝑄𝑛
+       Bunda:
+        𝐶𝐴𝑅𝑛 - kapital yetarliligining normallashtirilgan qiymati;
+        𝑁𝑃𝐿𝑛 - muammoli kreditlar ko‘rsatkichining normallashtirilgan qiymati;
+        𝐿𝑄𝑛 - likvidlik ko‘rsatkichining normallashtirilgan qiymati;
+        𝑤1 , 𝑤2 , 𝑤3 - har bir ko‘rsatkichning vazn koeffitsienti (hisoblashda ekspert
+baholari va moliyaviy modellar asosida belgilandi);
+        Barqarorlik indeksi 0-1 oralig‘ida hisoblanadi, qiymati qiyinchilik
+darajasini aks ettiradi.
+       Tadqiqot natijalarga ko‘ra, mazkur yondashuvni joriy etish natijasida bankda
+IBI qiymati 0,61 dan 0,78 gacha o‘sdi, kapital yetarliligi esa 13,2% dan 14,1% ga
+yaxshilandi. Bu holat bankning moliyaviy barqarorligi mustahkamlanganini va
+risklarni boshqarish samaradorligi oshganini ko‘rsatadi. Mazkur integral
+yondashuvning ustunligini tasdiqlaydi: ko‘rsatkichlarni birgalikda baholash
+barqarorlikni aniqroq ifodalaydi, IBI dinamikasi esa strategik qarorlar uchun
+ishonchli instrument vazifasini bajaradi. Shu jihatdan, mazkur yondashuv ilmiy
+jihatdan konseptual yangilikni, amaliy jihatdan esa banklarda risk-menejment va
+moliyaviy monitoring tizimini takomillashtirish imkonini ta’minlaydi.
+       Tadqiqot tijorat banklarda kapital yetarliligi, likvidlik va aktivlar sifati
+ko‘rsatkichlarini integrallashtiruvchi barqarorlik indeksi joriy etish bank moliyaviy
+barqarorligini aniq va samarali baholash imkonini beradi.
+       Moliyaviy barqarorlikni baholashda an’anaviy usullar ko‘pincha bankning
+faqatgina kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlariga tayangani
+bois, bankning risk darajasi va daromadlar o‘zgaruvchanligini to‘liq inobatga
+olmaydi. Shu nuqtai nazardan, ushbu tadqiqotda tijorat banklari moliyaviy
+barqarorligini ifodalovchi ko‘rsatkichlar tizimiga shkalali baholash mezonlari
+kiritish taklif qilindi. Bu mezonlar “past”, “qoniqarli”, “o‘rta” va “yuqori”
+barqarorlik toifalarini ajratish imkonini beradi va bankning risk darajasi hamda
+daromadlar barqarorligini kompleks baholashga xizmat qiladi.
+       Qayd etish kerakki, ATB “O‘zsanoatqurilishbank” misolida joriy etilgan
+shkalali baholash mezonlari bankning riskka moyil operatsiyalar ulushini 18 foizga
+qisqartirishga, daromadlar o‘zgaruvchanligini 1,4 barobar kamaytirishga va
+barqarorlik darajasini “qoniqarli” toifadan “o‘rta” toifaga ko‘tarishga yordam berdi.
+Bu esa moliyaviy barqarorlikni monitoring qilish va boshqaruv qarorlarini qabul
+qilish samaradorligini sezilarli darajada oshirdi.
+
+20
+                                                                       4-jadval
+      Integral barqarorlik indeksi va kapital yetarliligi dinamikasi (ATB
+                    “O‘zsanoatqurilishbank”, 2022-2025)
+       Yil           Integral barqarorlik indeksi (IBI)      Kapital yetarliligi, %
+      2022                         0,61                              13,2
+      2023                         0,66                              13,5
+      2024                         0,72                              13,8
+      2025                         0,78                              14,1
+
+
+       Ushbu yondashuv ilmiy jihatdan ham ahamiyatli bo‘lib, tijorat banklarida
+moliyaviy barqarorlikni differensial baholashni amalga oshirish, risklarni va
+daromadlar o‘zgaruvchanligini hisobga olgan holda qaror qabul qilish hamda
+barqarorlikni strategik monitoring qilish imkoniyatini taqdim etadi. Bu jihatlarning
+barchasi ilmiy yangilik va amaliy samaradorlikni birlashtiruvchi natija sifatida
+e’tirof etilishi mumkin.
+       Tijorat banklarida moliyaviy barqarorlikni baholash an’anaviy kapital
+yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlariga asoslangan. Biroq, bu
+ko‘rsatkichlar bankning risk darajasi va daromadlar barqarorligini to‘liq aks
+ettirmaydi. Shu bois, shkalali baholash mezonlarini joriy qilishning ilmiy va amaliy
+ahamiyati katta hisoblanadi. Yaqindan nazar solganda, shkala “past”, “qoniqarli”,
+“o‘rta” va “yuqori” barqarorlik toifalari orqali bank faoliyatidagi turli risk va
+daromad parametrlarini integratsiyalash imkonini beradi. Bu yondashuv riskka
+moyil operatsiyalar va daromadlar o‘zgaruvchanligini aniq dinamik kuzatishga
+asoslangan.
+       Shkalali baholash tizimi ilmiy jihatdan bankning moliyaviy holatini ob’ektiv
+va qaytalanadigan mezonlar asosida baholash imkonini yaratadi. Bu tizim puling
+balansini samarali boshqarish, kredit risklarini ranjirovka qilish va kapital
+rejalashtiruvi strategiyasini aniqlashda muhim instrument bo‘lib xizmat qiladi. Shu
+bilan birga, Markaziy bankning moliyaviy barqarorlik hisobotlariga ko‘ra,
+O‘zbekiston bank tizimida kapital yetarliligi va likvidlik darajasi yuqori, stress-
+testlar natijalarida moliyaviy barqarorlik saqlanib qolgan.
+       Shu tarzda, ATB “O‘zsanoatqurilishbank” misolida ilmiy taklif qilingan
+shkalali baholash mezonlari amaliyotda tijorat banklari moliyaviy barqarorligini
+differensial, ma’lumotlarga asoslangan va strategik boshqaruv uchun samarali
+monitoring qilish imkoniyatini yaratganligi isbotlandi. Bu yondashuv an’anaviy
+baholash usullaridan farqli ravishda, risk va daromadlar o‘zgaruvchanligini
+integratsiyalaydi va bank faoliyatini strategik, prognozlangan va barqaror tarzda
+boshqarishga xizmat qiladi.
+       Bankning riskka moyil operatsiyalar ulushi (RMOU) umumiy aktivlardan
+tashkil topgan riskli aktivlar hissasini ko‘rsatadi. Bazaviy holatda bu ko‘rsatkich
+40 % ni tashkil qilib, aktivlar portfelida yuqori riskni aks ettirgan. Mazkur shkalaga
+ko‘ra, bazaviy holatda bankning RMOU = 40 % bo‘lgani uchun u “past barqarorlik”
+
+                                                                                      21
+toifasiga kirgan, ya’ni yuqori riskli aktivlar ulushi katta bo‘lgan. Shkalali baholash
+tizimi joriy qilingach, riskli operatsiyalar ulushi 18 %ga kamayib, 22 %ga tushdi:
+
+                      𝑅1 = 𝑅0 − 0,18 = 0,40 − 0,18 = 0,22
+
+       Ya’ni RMOU = 22 % ga tushgan va bu ko‘rsatkich yuqoridagi shkalaga
+muvofiq “o‘rta barqarorlik” toifasiga o‘tganligini anglatadi. Bu pasayish aktivlar
+portfelining risk darajasini 55 %ga kamaytirib, bankning moliyaviy xavfini sezilarli
+darajada barqarorlashtirdi.
+       Shu bilan birga, daromadlar o‘zgaruvchanligi (Volatility) ham muhim
+indikator sifatida hisobga olindi. Bazaviy holatda sof foyda va umumiy daromadning
+standart chetlashishi 28 % ni tashkil qilgan bo‘lsa, shkalali baholash tizimi joriy
+qilingach u 1,4 barobar kamayib, 20 %ga tushdi:
+
+                                    𝜎0    0,28
+                             𝜎1 =       =      = 0,200
+                                    1,4   1,4
+
+       Bu daromadlar barqarorligini oshirib, bankning moliyaviy samaradorligini
+mustahkamladi.
+       Moliyaviy natijalarni yanada aniqlashtirish uchun ROA (Return on Assets) va
+ROE (Return on Equity) indikatorlari qo‘llanildi. Bankning umumiy daromadi 13,8
+trln so‘m, sof foydasi esa 1,3 trln so‘mni tashkil qildi. Umumiy aktivlar 100 trln
+so‘m, ustav kapitali esa 12 trln so‘m deb olinsa, ko‘rsatkichlar quyidagicha
+hisoblanadi:
+
+                             𝑁𝑃 1,3
+                       𝑅𝑂𝐴 =    =     = 0,013 = 1,3%
+                              𝐴   100
+                             𝑁𝑃 1,3
+                       𝑅𝑂𝐸 =    =    ≈ 0,108 = 10,8%
+                              𝐸   12
+
+      Bu natijalar bankning aktivlar va aksioner kapitali bo‘yicha samaradorligini
+aniq ko‘rsatadi.
+                                                                         5-jadval
+  Barqarorlik toifasini shkala asosida differensiallashtirish uchun mezonlar
+ Toifa            RMOU (%)               Volatility (%)            ROA (%)
+
+ Past                      >35                     >30                    <1
+ Qoniqarli                25-35                   25-30                  1-1,5
+ O‘rta                    15-25                   20-25                 1,5-2,5
+ Yuqori                    <15                     <20                   >2,5
+
+
+
+
+22
+       ATB SQB natijalari: RMOU 22 %, Volatility 20 %, ROA 1,3 % bo‘lib, barcha
+ko‘rsatkichlar “o‘rta” barqarorlik toifasiga to‘g‘ri keladi. Bu shkala bankning
+moliyaviy barqarorligini ob’ektiv va differensial ravishda baholash imkonini berdi.
+       Shkala joriy qilingandan so‘ng, monitoring va boshqaruv jarayonlari ham
+samaralilashdi: riskli operatsiyalar ulushi 18 %ga kamaydi, daromadlar
+o‘zgaruvchanligi 1,4 barobar pasaydi va ROA/ROE indikatorlari aniq
+fiksatsiyalanib, qaror qabul qilish jarayonini qo‘llab-quvvatladi. Bu o‘zgarishlar
+bankning moliyaviy barqarorligini yaxshilash, kapital va daromad samaradorligini
+oshirishga xizmat qildi.
+       Shu tariqa, shkalali baholash tizimi ATB “O‘zsanoatqurilishbank” misolida
+ham ilmiy va amaliy jihatdan samarali ekanligi, bank faoliyatida risk va
+daromadlarning barqarorligini ta’minlashda muhim ahamiyatga ega ekanligi
+isbotlandi.
+
+                                     XULOSA
+
+      Tadqiqotlarimiz asosida quyidagi ilmiy xulosa va takliflarni ishlab chiqishga
+muvaffaq boʻldik:
+       1. tijorat banklarining moliyaviy barqarorligi iqtisodiy o‘zgarishlarga
+moslashuvchanlik, risklarga bardoshlilik va faoliyat uzluksizligini ta’minlovchi
+kompleks iqtisodiy kategoriya sifatida namoyon bo‘lishi aniqlangan;
+       2. moliyaviy barqarorlikni baholashda an’anaviy ko‘rsatkichlarga asoslangan
+fragmentar yondashuvlar bank faoliyatining tizimli mohiyatini to‘liq aks ettira
+olmasligi ilmiy jihatdan asoslangan;
+       3. kapital yetarliligi, aktivlar sifati va likvidlik ko‘rsatkichlarining o‘zaro
+bog‘liqligi bank moliyaviy barqarorligini shakllantiruvchi asosiy faktorlar ekanligi
+aniqlangan;
+       4. xalqaro amaliyotda (Bazel standartlari, CAMELS tizimi) moliyaviy
+barqarorlikni kompleks baholashga qaratilgan yondashuvlar ustuvor ahamiyat kasb
+etishi asoslangan;
+       5. O‘zbekiston bank tizimida moliyaviy barqarorlik ko‘rsatkichlari so‘nggi
+yillarda ijobiy dinamikaga ega bo‘lib, kapitallashuv darajasi va likvidlik
+ko‘rsatkichlari xalqaro me’yorlarga mos kelishi aniqlangan;
+       6. banklar o‘rtasida samaradorlik va rentabellik ko‘rsatkichlari (ROA, ROE,
+CIR) bo‘yicha farqlar mavjudligi va bu holat resurslardan foydalanish
+samaradorligida nomutanosibliklarni keltirib chiqarishi ilmiy jihatdan asoslangan;
+       7. ichki omillar (kapital, likvidlik, korporativ boshqaruv) va tashqi omillar
+(inflyatsiya, valyuta kursi, monetar siyosat) o‘rtasidagi o‘zaro bog‘liqlik bank
+barqarorligini belgilashda hal qiluvchi ahamiyatga ega ekanligi aniqlangan;
+       8. ekonometrik tahlil natijalariga ko‘ra, operatsion samaradorlik (CIR) va
+kredit risklari (NPL) bank rentabelligiga statistik ahamiyatli ta’sir ko‘rsatishi
+isbotlangan;
+       9. tijorat banklarida kredit xavfi, likvidlik xavfi, valyuta va foiz stavkasi
+xavflari moliyaviy barqarorlikka asosiy tahdidlar sifatida namoyon bo‘lishi
+aniqlangan;
+                                                                                   23
+       10. integral barqarorlik indeksi usuli bank moliyaviy holatini kompleks
+baholash va risklarni barvaqt aniqlash imkonini beruvchi samarali instrument ekanligi
+ilmiy jihatdan asoslangan;
+       11. riskka yo‘naltirilgan monitoring va prognozlash modellarini joriy etish
+banklarda qaror qabul qilish samaradorligini oshirishga xizmat qilishi aniqlangan;
+       12. tijorat banklarida moliyaviy barqarorlikni ta’minlash kapitalni boshqarish,
+kredit portfelini diversifikatsiya qilish va likvidlikni optimallashtirishga qaratilgan
+kompleks strategik yondashuvni talab qilishi asoslangan.
+
+
+
+
+24
+    НАУЧНЫЙ СОВЕТ DSc. 03/2025.27.12.I.30.01 ПО
+    ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+ ТАШКЕНТСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ
+
+
+
+
+      АБДИШУКУРОВ ШЕРЗОД ШАВКАТ УГЛИ
+
+
+
+  НАПРАВЛЕНИЯ ОБЕСПЕЧЕНИЯ ФИНАНСОВОЙ
+   УСТОЙЧИВОСТИ КОММЕРЧЕСКИХ БАНКОВ
+
+
+
+       08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                       АВТОРЕФЕРАТ
+ диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                   город Ташкент – 2026 год
+
+                                                               25
+26
+      ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+      Актуальность      и     востребованность          темы    диссертации.
+Неопределённость, макроэкономические шоки и процессы цифровой
+трансформации, наблюдаемые в глобальной финансовой системе в последнее
+десятилетие,    превратили      обеспечение       финансовой     устойчивости
+коммерческих банков в стратегически приоритетную задачу, поскольку
+неравномерное посткризисное восстановление экономики, геополитическая
+напряжённость, инфляционное давление и волатильность финансовых рынков
+оказывают негативное влияние на качество банковских активов, ликвидность
+и процентную маржу; в частности, согласно данным Global Financial Stability
+Report, опубликованного Международным валютным фондом в 2025 году,
+доля проблемных кредитов в мировой банковской системе сохраняется в
+среднем на уровне 7–9%, а в отдельных развивающихся экономиках
+превышает 10,0%, что объясняется высокими процентными ставками и ростом
+долговой нагрузки, при этом изменчивость потоков капитала и развитие
+цифровых финансов усиливают валютные, кредитные, операционные и
+киберриски, обнажая ограниченность традиционных подходов к оценке, что
+определяет необходимость оценки банковской устойчивости на основе
+многофакторной и динамической системы индикаторов.
+      Это проявляется в применении признанных ведущими мировыми
+научными центрами и вузами направлений анализа финансовой устойчивости
+– системы многоуровневых (multi-layer) индикаторов, создании интегрального
+индекса с поправкой на риск (risk-adjusted), а также в предложении гибридной
+модели, объединяющей цифровые и традиционные риски. Данный подход
+соответствует тенденциям в рамках глобальных финансовых исследований и
+позволяет повысить точность и прогностическую эффективность оценки
+банковской устойчивости, а также интегрировать различные виды рисков.
+Вместе с тем он служит совершенствованию макропруденциальной политики
+для центрального банка, укреплению системы риск-менеджмента для
+коммерческих банков, обеспечению финансовой устойчивости, а также
+повышению прозрачности в рейтинговании банков для инвесторов.
+      В обеспечении финансовой устойчивости коммерческих банков
+Узбекистана приоритетными направлениями являются стратегическое
+распределение капитальных и ликвидных резервов посредством системы
+интегральных     показателей     устойчивости,       определение    категорий
+устойчивости через шкальные критерии оценки в банковской деятельности,
+внедрение механизмов постоянного мониторинга и многофакторного
+прогнозирования, а также диверсификация кредитной политики. Данный
+подход, учитывающий макропруденциальные требования Центрального банка
+и участие государства, позволяет интегрировать показатели устойчивости в
+управленческие решения, стратегически укрепляет финансовое положение
+коммерческих банков и повышает эффективность использования капитала.
+Таким образом, проведение исследований по оптимизации деятельности
+банков и обеспечению экономической устойчивости в финансовой системе
+
+                                                                          27
+Узбекистана в рамках данного направления свидетельствует об актуальности
+темы.
+      Настоящая диссертационная работа в определённой степени служит
+решению вышеуказанных проблем, а также задач, определённых в указах и
+постановлениях Президента Республики Узбекистан. В частности, Указ
+Президента Республики Узбекистан от 5 октября 2020 года № УП-6079 «Об
+утверждении Стратегии «Цифровой Узбекистан – 2030» и мер по её
+эффективной реализации», Указ от 12 мая 2020 года № УП-5992 «О Стратегии
+реформирования банковской системы Республики Узбекистан на 2020–2025
+годы», Постановление Президента Республики Узбекистан от 23 марта 2018
+года № ПП-3620 «О дополнительных мерах по повышению доступности
+банковских услуг», Указ от 21 сентября 2018 года № УП-5544 «Об
+утверждении Стратегии инновационного развития Республики Узбекистан на
+2019–2021 годы», а также Постановление Правления Центрального банка
+Республики Узбекистан от 13 июня 2015 года № 14/3 «Об утверждении
+Положения о требованиях к достаточности капитала коммерческих банков»
+(зарегистрировано Министерством юстиции Республики Узбекистан 6 июля
+2015 года за № 2693) определяют задачи, относящиеся к данной сфере
+деятельности, реализации которых в определённой степени служит настоящее
+диссертационное исследование.
+      Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Настоящее диссертационное исследование
+выполнено в соответствии с приоритетным направлением развития науки и
+технологий республики I. «Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+      Степень изученности проблемы. Можно отметить, что по вопросам
+обеспечения финансовой устойчивости коммерческих банков, управления их
+финансовыми рисками и повышения уровня доходности разработан ряд
+научных подходов и моделей. Исследования охватывают оптимизацию
+банковского капитала, эффективность ликвидности и кредитного портфеля, а
+также механизмы комплексной оценки посредством интегрального индекса
+устойчивости. В частности, к их числу относятся научные труды зарубежных
+учёных Р. Мертона, Д. Даймонда, Р. Раджана, Ч. Гудхарта, А. Адмати, Хюн
+Сон Шина, Ф. Мишкина, Франклина Аллена, Хюн-Джун Кима, В. Ачарьи.
+      В исследованиях российских учёных по данной теме научно определена
+и оценена финансовая устойчивость коммерческих банков, в том числе
+показатели рентабельности и достаточности капитала, а также их влияние на
+эффективность банков. В частности, можно привести научные работы таких
+учёных, как М.А. Пономарева, С.В. Пономарева, Е.В. Кудряшова, Г.Г.
+Господарчук, С.А. Господарчук.
+      Узбекистанские учёные Абдурасулов Дж.А., Бозоров Р.Х., Джумаев
+Н.Х., Ибодуллаев Ш.Т., Махмудова М.К., Нафасов Д.Б., Саттаров О.Б.,
+Султанов Р.Б., Тошпулатов Д.А., Убаева Ш.Л. в своих трудах провели ряд
+научных исследований в области анализа финансовой устойчивости и
+28
+эффективности коммерческих банков. В данных исследованиях основное
+внимание уделено интегральной оценке достаточности капитала,
+ликвидности, кредитных рисков, валютных рисков и влияния участия
+государства, а также предлагаются эмпирические и стратегические
+рекомендации по эффективному формированию финансовых стратегий
+банков. Вместе с тем недостаточность или отсутствие целостных научных
+работ, направленных на оценку категории капитала при обеспечении
+финансовой безопасности, свидетельствует об актуальности проведения
+исследований в рамках выбранной нами темы.
+      Связь темы диссертации с научно-исследовательскими работами
+высшего образовательного учреждения, в котором выполнена
+диссертация. Диссертационное исследование выполнено в рамках плана
+научно-исследовательских      работ     Ташкентского      международного
+университета.
+      Цель исследования заключается в разработке приоритетных
+направлений, направленных на внедрение показателей обеспечения
+финансовой устойчивости коммерческих банков.
+      Задачи исследования состоят в следующем:
+      теоретический    анализ   концепции     финансовой     устойчивости
+коммерческих банков и её влияния на эффективность банковской
+деятельности;
+      сравнение методов и показателей оценки финансовой устойчивости на
+основе международных и национальных стандартов и анализ их
+эффективности;
+      эмпирический анализ практического состояния и тенденций показателей
+финансовой устойчивости коммерческих банков Узбекистана;
+      проведение анализа внутренних и внешних факторов, влияющих на
+финансовую устойчивость коммерческих банков, – достаточности капитала,
+ликвидности, качества кредитного портфеля и макроэкономической среды;
+      разработка механизма оценки финансовой устойчивости на основе
+интегрального подхода и анализ возможностей его внедрения в деятельность
+коммерческих банков;
+      моделирование механизмов повышения финансовой устойчивости
+банков посредством стратегического распределения капитальных и
+ликвидных резервов и эмпирический анализ их эффективности;
+      оценка влияния стратегического распределения капитала и ликвидности
+при обеспечении финансовой устойчивости на эффективность, уровень риска
+и инвестиционную привлекательность коммерческих банков;
+      разработка научных выводов и предложений, направленных на
+определение направлений внедрения показателей обеспечения финансовой
+устойчивости коммерческих банков.
+      Объектом исследования являются коммерческие банки Узбекистана, в
+том числе деятельность Узбекского промышленно-строительного банка,
+направленная на обеспечение финансовой устойчивости.
+
+                                                                      29
+     Предметом исследования являются экономические отношения,
+возникающие при обеспечении финансовой устойчивости Узбекского
+промышленно-строительного банка.
+     Методы исследования. В диссертации использованы такие методы, как
+обобщение, анкетирование, группировка, абстрактно-логическое мышление,
+линейная регрессия, ARDL, VECM, индукция и дедукция, экономико-
+математическое моделирование.
+     Научная новизна исследования заключается в следующем:
+     предложено совершенствование методологии оценки обеспечения
+финансовой устойчивости коммерческих банков путём внедрения системы
+показателей устойчивости, взаимосвязанно интегрирующей показатели
+достаточности капитала, качества активов и ликвидности;
+     предложено совершенствование системы показателей, выражающих
+финансовую устойчивость коммерческих банков, путём введения шкальных
+критериев оценки, служащих определению категорий устойчивости «низкая»,
+«удовлетворительная», «средняя» и «высокая» с учётом уровня риска и
+стабильности доходов в банковской деятельности;
+     предложено совершенствование механизма организации мониторинга
+финансовой устойчивости коммерческих банков путём внедрения модели
+риск-ориентированного мониторинга, основанной на постоянной оценке
+динамики интегральных показателей устойчивости;
+     предложено внедрение многофакторного механизма прогнозирования
+модели прогнозирования финансовой устойчивости коммерческих банков,
+позволяющего прогнозировать средне- и долгосрочные изменения
+финансового состояния банка с учётом макроэкономических факторов,
+структуры кредитного портфеля и состояния ликвидности.
+     Практические результаты исследования состоят в следующем:
+     разработана финансовая модель, направленная на оптимизацию
+структуры капитала и формирование капитальных буферов, соответствующих
+уровню риска, при обеспечении финансовой устойчивости коммерческих
+банков;
+     научно обоснован механизм динамического управления ликвидностью,
+направленный на снижение рисков ликвидности и эффективное управление
+денежными потоками в банковской деятельности;
+     усовершенствованы модели сценарного анализа и стресс-тестирования
+для оценки влияния валютных рисков и рисков процентных ставок на
+финансовую устойчивость банка;
+     научно обоснована система инструментов риск-менеджмента,
+направленная на оптимальное управление качеством кредитного портфеля и
+состоянием ликвидности в коммерческих банках;
+     усовершенствован механизм стратегического управления с учётом
+макропруденциальных требований, валютных рисков и участия государства
+для обеспечения финансовой устойчивости в условиях банковского сектора
+Узбекистана;
+
+30
+      на практике оценена эффективность комплексного стратегического
+подхода, направленного на управление капиталом, диверсификацию
+кредитной политики и оптимизацию резервов ликвидности при обеспечении
+финансовой устойчивости коммерческих банков.
+      Достоверность      результатов      исследования      определяется
+использованием в ходе диссертационного исследования официальных данных
+Министерства     экономики    и   финансов     Республики    Узбекистан,
+Государственного комитета Республики Узбекистан по статистике и
+Узбекского промышленно-строительного банка, а также официальных
+статистических данных международных финансовых институтов по
+показателям обеспечения финансовой устойчивости банков, а также
+всесторонним рассмотрением относящихся к теме частей нормативно-
+правовых документов.
+      Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования определяется возможностью
+их широкого использования при определении приоритетных направлений
+обеспечения финансовой устойчивости банков в нашей стране, исследовании
+методологических основ повышения финансовой устойчивости и
+устойчивости банковской системы в данной сфере, а также при проведении
+научных исследований, посвящённых развитию роли финансовой политики.
+      Практическая значимость результатов исследования объясняется тем,
+что на основе разработанных научных предложений и практических
+рекомендаций возможны разработка научной концепции, посвящённой
+реформированию системы, направленной на повышение устойчивости
+банковской системы путём обеспечения приоритетности финансовой
+устойчивости банков в Узбекистане, разработка подзаконных актов, а также
+разработка учебных программ таких дисциплин, как «Банковское дело»,
+«Банки, деньги и кредит» и «Монетарная политика» в высших
+образовательных учреждениях и укрепление их практической базы.
+      Внедрение результатов исследования. На основе научных
+результатов, полученных по направлениям внедрения показателей
+обеспечения финансовой устойчивости банков:
+      предложение о совершенствовании методологии оценки обеспечения
+финансовой устойчивости коммерческих банков путём внедрения системы
+показателей устойчивости, взаимосвязанно интегрирующей показатели
+достаточности капитала, качества активов и ликвидности, послужило
+обеспечению исполнения задач, указанных в пункте 1 главы 3 приложения 1
+Указа Президента Республики Узбекистан № УП-5992 «О Стратегии
+реформирования банковской системы на 2020–2025 годы» (справка АКБ
+«Узбекский промышленно-строительный банк» от 3 марта 2026 года № 43-
+07/21). На основе данного предложения в коммерческом банке сформирован
+комплексный механизм оценки финансовой устойчивости, значение
+интегрального индекса устойчивости выросло с 0,61 до 0,78, достигнуто
+улучшение достаточности капитала с 13,2% до 14,1%;
+
+                                                                     31
+      предложение о совершенствовании системы показателей, выражающих
+финансовую устойчивость коммерческих банков, путём введения шкальных
+критериев оценки, служащих определению категорий устойчивости «низкая»,
+«удовлетворительная», «средняя» и «высокая» с учётом уровня риска и
+стабильности доходов в банковской деятельности, послужило обеспечению
+исполнения задач, указанных в пункте 1 главы 3 приложения 1 Указа
+Президента Республики Узбекистан № УП-5992 «О Стратегии
+реформирования банковской системы на 2020–2025 годы» (справка АКБ
+«Узбекский промышленно-строительный банк» от 3 марта 2026 года № 43-
+07/21). На основе данного предложения внедрённые с учётом уровня риска и
+стабильности доходов шкальные критерии оценки создали в практике
+коммерческого банка возможность чёткой дифференциальной оценки
+финансовой устойчивости, что подтверждено практическими результатами:
+доля операций, склонных к риску, сократилась на 18%, изменчивость доходов
+снизилась в 1,4 раза, а перевод устойчивости банка из категории
+«удовлетворительная» в категорию «средняя» повысил эффективность
+мониторинга и управленческих решений;
+      предложение      о   совершенствовании     механизма   организации
+мониторинга финансовой устойчивости коммерческих банков путём
+внедрения модели риск-ориентированного мониторинга, основанной на
+постоянной оценке динамики интегральных показателей устойчивости,
+послужило обеспечению исполнения задач, указанных в пункте 1 главы 3
+приложения 1 Указа Президента Республики Узбекистан № УП-5992 «О
+Стратегии реформирования банковской системы на 2020–2025 годы» (справка
+АКБ «Узбекский промышленно-строительный банк» от 3 марта 2026 года №
+43-07/21). На основе данного предложения внедрённая для коммерческих
+банков модель риск-ориентированного мониторинга обеспечила возможность
+постоянной оценки динамики интегральных показателей устойчивости, что
+значительно повысило эффективность мониторинга финансовой устойчивости
+в практике коммерческого банка; в результате доля проблемных кредитов
+снизилась с 6,8% до 4,1%, обеспечена возможность снижения рисков на 15,0%
+и повышения достоверности и эффективности управленческих решений
+банка;
+      предложение       о    внедрении     многофакторного     механизма
+прогнозирования модели прогнозирования финансовой устойчивости
+коммерческих банков, позволяющего прогнозировать средне- и долгосрочные
+изменения финансового состояния банка с учётом макроэкономических
+факторов, структуры кредитного портфеля и состояния ликвидности,
+послужило обеспечению исполнения задач, указанных в пункте 1 главы 3
+приложения 1 Указа Президента Республики Узбекистан № УП-5992 «О
+Стратегии реформирования банковской системы на 2020–2025 годы» (справка
+АКБ «Узбекский промышленно-строительный банк» от 3 марта 2026 года №
+43-07/21). На основе данного предложения внедрённая многофакторная
+модель для прогнозирования финансовой устойчивости коммерческих банков,
+основанная на макроэкономических индикаторах, структуре кредитного
+32
+портфеля и состоянии ликвидности, позволила точно прогнозировать средне-
+и долгосрочные изменения финансового состояния банка; в результате
+вероятностная эффективность кредитной деятельности в практике
+коммерческого банка выросла на 12%, риск невыполнения обязательств
+снизился на 30% за счёт оптимизации резервов ликвидности, а эффективность
+финансовой стратегии значительно укрепилась благодаря принятию
+стратегических инвестиционных решений на основе прогноза.
+      Апробация результатов исследования. Результаты настоящего
+исследования апробированы на 4 научно-практических конференциях, в том
+числе на 2 республиканских и 2 международных.
+      Опубликованность результатов исследования. По теме диссертации
+опубликовано всего 8 научных работ, в том числе 3 научные статьи в изданиях,
+рекомендованных Высшей аттестационной комиссией Республики
+Узбекистан для публикации основных научных результатов докторских
+диссертаций, из них 2 – в республиканских и 1 – в зарубежном журнале, а
+также 4 тезиса докладов на научно-практических конференциях.
+      Структура и объём диссертации. Диссертационная работа состоит из
+введения, трёх глав, заключения, списка использованной литературы и
+приложений. Объём диссертации составляет 128 страниц.
+
+             ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во введении диссертации обоснованы актуальность и необходимость
+темы исследования, приведены сведения о степени изученности проблемы,
+цели, задачах, объекте и предмете исследования, научной новизне и
+практических результатах, достоверности и внедрении результатов
+исследования, а также о структуре и объёме диссертации.
+     В    первой    главе    диссертации,    озаглавленной   «Теоретико-
+методологические основы финансовой устойчивости коммерческих
+банков», изложено, что успех экономического развития страны и финансовой
+системы тесно связан с устойчивой деятельностью коммерческих банков; в
+данной главе финансовая устойчивость рассматривается как критерий,
+определяющий эффективность банковской деятельности, и как основной
+фактор, обеспечивающий устойчивость всей финансовой системы.
+Финансовая устойчивость банка оценивается посредством нескольких
+основных критериев: уровня ликвидности, достаточности капитала,
+доходности, качества активов, а также способности управлять рисками.
+Ликвидность означает способность банка покрывать краткосрочные
+обязательства, тогда как достаточность капитала выражает резервный
+потенциал банка в устранении потенциальных убытков. Доходность же
+отражает финансовую эффективность банка. Также качество активов и
+уровень диверсификации, а также механизмы выявления, оценки и
+эффективного управления рисками являются составными элементами
+финансовой устойчивости.
+     Следует отметить, что различные научные школы и учёные имеют
+различные подходы к понятию финансовой устойчивости. Например,
+                                                                         33
+Фредерик Мишкин в своих исследованиях определяет финансовую
+устойчивость как способность финансовых институтов непрерывно
+выполнять свои функции. По его мнению, любое отклонение в финансовой
+системе (кризис ликвидности, банкротство, недоверие и т.п.) оказывает
+серьёзное негативное влияние на экономическую активность.
+      В научных взглядах Кинга и Левина финансовая устойчивость
+трактуется как основной драйвер экономического роста. Согласно их теории,
+посредством      устойчивых     финансовых      институтов     сбережения
+распределяются целенаправленно и эффективно, что оказывает
+положительное влияние на экономическое развитие.
+      В международной практике же основой служат стандарты Базельского
+комитета. В соответствии с требованиями Базель III банки обязаны обладать
+высококачественными капитальными резервами для устойчивой деятельности
+даже в стрессовых ситуациях. Данные требования направлены на
+предотвращение финансовых рисков и обеспечение их правильного
+управления.
+      Скотт и Роуз определяют финансовую устойчивость как фактор,
+обеспечивающий доверие клиентов. По их мнению, банк должен защищать
+средства своих клиентов и осуществлять свою деятельность непрерывно,
+независимо от изменений на рынке.
+      Бывший главный экономист Всемирного банка Дж. Стиглиц,
+рассматривая устойчивость банков как основу общенациональной
+экономической устойчивости, отмечает необходимость усиления роли
+государственного контроля и регулирования.
+      Узбекистанские учёные – Ш. Абдуллаева, С. Тогаев, М. Ахмедов и
+другие – в своих исследованиях подчёркивают необходимость оценки
+финансовой устойчивости исходя из национальных особенностей. По их
+мнению, для банковской системы Узбекистана недостаточно лишь
+международных критериев – необходимо также учитывать направления
+государственной политики, уровень развития инфраструктуры и возможности
+использования информационных технологий.
+      Финансово устойчивые коммерческие банки способны оказывать
+широкий спектр финансовых услуг, завоёвывать доверие населения и бизнеса,
+эффективно распределять финансовые ресурсы и стимулировать процессы
+экономического роста. Банк, привлекая сбережения от своих клиентов и
+рефинансируя их, активно участвует в жизненном цикле капитала,
+обращающегося в экономике. Это, в свою очередь, повышает уровень доверия
+к банку и создаёт возможность укрепления депозитной базы. Как отмечает С.
+Тогаев, достаточность ликвидности и капитала определяет потенциал банка по
+привлечению средств, что служит его общей устойчивости.
+      Также финансово устойчивые банки активно участвуют в реальном
+секторе, финансируя долгосрочные, социально значимые инвестиционные
+проекты. По мнению Ш. Абдуллаевой, достаточность банковского капитала и
+качество активов напрямую формируют кредитный потенциал. Такие банки
+способны заблаговременно оценивать риски, использовать инструменты
+34
+снижения рисков и осуществлять кредитную деятельность, направленную в
+различные сферы экономики.
+     По нашему мнению, финансовая устойчивость – это основное состояние,
+обеспечивающее непрерывную, безопасную и доходную деятельность банка,
+понимание сущности и правильная оценка которого имеет решающее
+значение для современной финансовой системы. Анализ научных подходов к
+финансовой устойчивости показывает, что данное понятие носит
+универсальный характер, занимает важное место во всех аспектах банковской
+деятельности и является единой стратегической целью как в мировом
+сообществе, так и в национальных экономиках.
+     Финансовая устойчивость также имеет важное значение в обеспечении
+современной платёжной инфраструктуры банка. Банки через расчётно-
+платёжные системы гарантируют денежный оборот в экономике. М. Халилова
+в своих исследованиях отмечает, что банк, инвестируя в информационные
+технологии, эффективно осуществляет задачи управления рисками и
+обеспечения ликвидности.
+     Деятельность коммерческих банков связана с различными рисками.
+Поэтому финансовая устойчивость выражается также способностью выявлять,
+оценивать и эффективно управлять рисками. Устойчивые банки
+перераспределяют      риски   посредством    таких     механизмов,     как
+диверсификация, страхование и хеджирование. Как отмечает Ш. Камолова,
+институциональное развитие управления рисками в банковской системе
+Узбекистана является неотъемлемой частью финансовой устойчивости.
+     Наконец, устойчивые банки способны оказывать финансовые услуги
+широкому кругу слоёв общества, усиливая экономическую инклюзивность.
+Дж. Стиглиц рассматривает данное состояние как гарантию социальной
+устойчивости. Г.Т. Норбаев особо отмечает значение устойчивости банков в
+расширении услуг микрофинансирования в сельских районах Узбекистана, в
+особенности в развитии малого предпринимательства.
+     По нашему мнению, финансовая устойчивость коммерческих банков
+является решающим фактором в реализации всех их основных задач, а именно
+привлечения сбережений, кредитования, платёжных услуг, инвестиций,
+управления рисками и обеспечения финансовой инклюзивности. Данная
+устойчивость тесно связана с культурой внутреннего управления банка,
+адаптивностью к макроэкономической среде и уровнем государственного
+регулирования.      Поэтому    финансовая     устойчивость      составляет
+функциональную и институциональную основу не только банка, но и всей
+финансовой системы.
+     Финансовая устойчивость непосредственно связана с ликвидностью,
+достаточностью капитала и доходностью коммерческих банков и
+представляет собой основное стратегическое состояние, служащее
+обеспечению системного и непрерывного осуществления банковской
+деятельности, устойчивости к экономической турбулентности, а также
+доверию клиентов и участников рынка. В формировании и укреплении данной
+устойчивости решающую роль играют такие показатели банка, как
+                                                                       35
+ликвидность, достаточность капитала и доходность (рентабельность). Каждый
+из них является функциональным фактором финансовой устойчивости, а
+нарушение динамического баланса между ними может привести
+коммерческий банк к рискованным состояниям.
+                                                               Таблица 1
+Основные показатели, обеспечивающие финансовую устойчивость, и их
+                           взаимное влияние27
+                                                         Влияние на
+       Показатель            Определение                 финансовую            Взаимосвязи
+                                                        устойчивость
+                          Способность банка
+                                                                             Капитал и
+                          своевременно              Обеспечивает
+                                                                             рентабельность
+ Ликвидность              выполнять                 платёжеспособность,
+                                                                             обеспечивают
+                          краткосрочные             укрепляет доверие
+                                                                             ликвидные активы
+                          обязательства
+                                                                             Прибыль
+                          Возможность
+                                                                             пополняет капитал;
+ Достаточность            покрытия рисков и         Банк приобретает
+                                                                             капитал же служит
+ капитала                 устранения                иммунитет к рискам
+                                                                             буфером
+                          убытков
+                                                                             ликвидности
+                                                                             Прибыль
+                          Способность банка         Служит основой
+                                                                             необходима для
+ Рентабельность           получать доход и          долгосрочного развития
+                                                                             сохранения
+ (доходность)             эффективность             и восстановления
+                                                                             капитала и
+                          деятельности              капитала
+                                                                             ликвидности
+      Из таблицы 1 видно, что финансовая устойчивость является важнейшим
+критерием деятельности коммерческих банков, а её основными столпами
+являются ликвидность, достаточность капитала и рентабельность. Данные
+показатели функционируют как взаимодополняющий и взаимосвязанный
+механизм.
+      Ликвидность – это способность банка своевременно выполнять
+краткосрочные обязательства, обеспечивающая доверие клиентов и
+непрерывность повседневной деятельности. Если ликвидность недостаточна,
+банк не может выполнить свои обязательства и теряет доверие.
+      Достаточность капитала, в свою очередь, отражает способность банка
+противостоять рискам. Она защищает ликвидность, оберегает банк от
+различных экономических шоков и создаёт основу для устойчивой
+деятельности.
+      Рентабельность – показатель, отражающий эффективность деятельности
+банка: при достаточной прибыли капитал восстанавливается, укрепляется база
+ликвидности. Если рентабельность низкая, это может привести к ослаблению
+и других показателей.
+      Поэтому баланс между данными показателями имеет решающее
+значение при обеспечении финансовой устойчивости. Недостаточность
+одного из них либо неправильное управление им может создать угрозу
+
+27
+     сформировано автором на основе исследований.
+
+36
+устойчивости банка. Поэтому коммерческие банки должны систематически
+мониторить данные показатели и применять к ним комплексный подход при
+обеспечении финансовой устойчивости.
+       В банках с недостаточным объёмом ликвидных активов денежный
+оборот прерывается, доверие снижается, что может нарушить финансовую
+устойчивость. Второй важный показатель – достаточность капитала. Это
+буфер покрытия рисков банка, определяющий его способность покрывать
+потенциальные убытки за счёт собственного капитала. В стандарте Базель III
+достаточность капитала рассматривается как институциональная основа
+сохранения устойчивости. По мнению И. Мунтяну, достаточность капитала
+влияет и на ликвидность: чем более устойчив капитал, тем больше
+возможностей для инвестирования в ликвидные активы. В исследовании Ф.
+Додиева в Узбекистане отмечается, что для полного выполнения своих
+обязательств банки должны обладать доверительным имиджем перед
+клиентами, поскольку, по его мнению, данное доверие исходит из основы
+ликвидности банков.
+       Третий аспект – доходность (рентабельность). Данный показатель
+отражает потенциал банка по получению прибыли и эффективность бизнес-
+модели. Доходные банки получают возможность увеличивать свою
+капитальную базу, создавать резервы и осуществлять активное управление
+рисками.
+       Всё это свидетельствует о том, что данные три показателя,
+обеспечивающие финансовую устойчивость, тесно взаимосвязаны между
+собой. Негативное изменение в одном влияет и на другой. Например, низкая
+рентабельность ограничивает возможность восстановления капитала, а
+недостаточность капитала приводит к истощению источников сбережений для
+обеспечения ликвидности. Поэтому в современных исследованиях широко
+применяется понятие «треугольник финансовой устойчивости» (Financial
+Stability Triangle). В данной модели ликвидность рассматривается как
+краткосрочная устойчивость, капитал – как иммунитет к рискам,
+рентабельность – как фундамент долгосрочного развития.
+       По нашему мнению, финансовая устойчивость – это не просто
+удержание определённого показателя на оптимальном уровне, а способность
+обеспечивать их взаимный баланс, адаптироваться к экономическим условиям
+и полноценно реагировать на риски. Ликвидность, достаточность капитала и
+рентабельность являются основными опорными точками финансовой
+независимости, доверия и непрерывного развития. Каждый из них, обладая
+самостоятельной ценностью, дополняет друг друга и реально выражает
+финансовую устойчивость.
+       Вторая глава диссертационной работы озаглавлена «Состояние и
+тенденции показателей финансовой устойчивости коммерческих банков
+Узбекистана», в ней изложены аналитические разделы диссертации. В
+частности, результаты комплексного анализа состояния и тенденций
+показателей финансовой устойчивости коммерческих банков Узбекистана
+                                                                       37
+показывают, что в последние годы в банковской системе за счёт
+совершенствования      институциональных      реформ     и    механизмов
+макропруденциальной политики сформировалась устойчивая позитивная
+динамика. В частности, сохранение коэффициента достаточности капитала
+(CAR) на уровне выше международных требований Базель III повышает
+устойчивость банков к шокам, расширяя их возможности своевременно
+покрывать финансовые риски. Вместе с тем последовательная тенденция
+снижения доли проблемных кредитов (NPL) показывает, что в системе
+управления кредитными рисками происходят качественные изменения.
+Высокий уровень формирования показателей ликвидности означает
+укрепление платёжеспособности и дисциплины выполнения обязательств в
+банковской системе. Данные обстоятельства, наряду с обеспечением
+эффективного выполнения национальной банковской системой функции
+финансового посредничества, усиливают её роль в поддержании
+макроэкономической устойчивости.
+      Посредством данного показателя определяется возможность покрытия
+активов банка, соответствующих уровню риска, за счёт собственного
+капитала. Как отмечает Мишкин (2019), достаточность капитала служит
+«способностью поглощения рисков» банковской системы. Например, по
+состоянию на 2025 год в Узбекистане коэффициент достаточности капитала
+(CAR) коммерческих банков сформировался в среднем на уровне 18,0–18,5%,
+что значительно превышает минимальные требования Базель III (10,5%),
+установленные Базельским комитетом по банковскому надзору. Данное
+обстоятельство показывает, что капитальный буфер национальной банковской
+системы достаточно прочен, а уровень устойчивости к различным
+финансовым шокам высок. Обращаясь к международному опыту, по данным
+за 2024–2025 годы, показатель CAR коммерческих банков стран Европейского
+союза сохраняется в среднем на уровне 15,5–16,0%, а в банковской системе
+США – на уровне 13,5–14,5%.
+      Во-вторых, качество активов является важным показателем финансовой
+устойчивости банка, оцениваемым главным образом через долю проблемных
+кредитов (NPL). Согласно научным взглядам, качество активов определяет
+уровень риска в кредитном портфеле и долгосрочную устойчивость банка. По
+состоянию на 2025 год уровень NPL в Узбекистане сформировался на уровне
+3,8–4,0%, что лучше показателей России (5,5–6,0%) и Казахстана (6,5–7,0%),
+однако выше, чем в Европейском союзе (1,8–2,2%). Данное обстоятельство,
+хотя и свидетельствует о повышении эффективности управления кредитными
+рисками, указывает на необходимость его дальнейшего совершенствования.
+      В-третьих, политика ликвидности обеспечивает способность банка
+выполнять краткосрочные обязательства и является важным фактором
+финансовой устойчивости. Достаточность уровня ликвидности обеспечивает
+доверие клиентов и гарантирует устойчивую работу банковской системы. В
+2025 году показатели ликвидности и капитала в банковской системе
+
+38
+Узбекистана сохранялись в соответствии с международными стандартами,
+демонстрируя устойчивость национальных банков к внешним шокам.
+                                                            Таблица 2
+ Сравнительный анализ внутренних и внешних факторов, влияющих на
+     финансовую устойчивость коммерческих банков Узбекистана
+                                    Примеры
+                                                                     Международны
+                                положительного
+    Тип        Конкретное                           Негативные              е
+                                    влияния
+  фактора      направление                            риски          сравнительные
+                                  (Узбекистан,
+                                                                         данные
+                                      2024)
+                                                   В
+                                                   государственны    Базель III:
+                                CAR – 17,0–17,4%
+Внутренни   Достаточность                          х банках          ≥10,5%;
+                                (минимальное
+е факторы   капитала (CAR)                         эффективность     развивающиеся
+                                требование – 8%)
+                                                   капитала может    страны: 10–12%
+                                                   быть низкой
+                                                   В отдельных
+                                NPL – 3,8–4,0%     отраслях          ЕС – 2,1%;
+            Качество активов
+                                (тенденция         высокая           Турция – 5,2%
+            (NPL)
+                                снижения)          концентрация      (2024)
+                                                   кредитов
+                                                   Сохраняются
+            Уровень                                риски,
+                                LCR ≈ 190–195%,                      США: LCR ≈
+            ликвидности                            связанные с
+                                NSFR ≈ 110–115%                      120–130%
+            (LCR/NSFR)                             валютной
+                                                   ликвидностью
+                                30 млн+
+            Цифровая                               Киберугрозы и     Южная Корея:
+                                пользователей
+            инфраструктура и                       операционные      90%+ цифровой
+                                мобильного
+            ИТ                                     риски             банкинг
+                                банкинга
+                                                                     Стандарты
+                                                   Проблемы
+                                Внедрены системы                     ОЭСР:
+            Корпоративное                          инсайдерских
+                                комплаенса и                         governance –
+            управление                             кредитов и
+                                риск-менеджмента                     ключевое
+                                                   прозрачности
+                                                                     требование
+                                                   Дорогие
+                                Ставка                               США – 5,25–
+Внешние     Монетарная                             ресурсы
+                                рефинансирования                     5,5%; ЕС –
+факторы     политика                               ограничивают
+                                : 13,5–14%                           ~4,0% (2024)
+                                                   кредитование
+                                                                     Мировой рост –
+                                Рост ВВП – 5,7–
+            Макроэкономическа                      Инфляция всё      ~3,0%; инфляция
+                                5,8%; инфляция –
+            я среда                                ещё высокая       – ~5,8% (МВФ,
+                                8,5–9%
+                                                                     2024)
+                                                   Сохраняется
+            Налоговая и         Доля государства
+                                                   высокий           В странах ЕС
+            регуляторная        сократилась
+                                                   уровень участия   <15%
+            политика            примерно до 60%
+                                                   государства
+                                Привлечено до 3    Внешний долг и    В странах EMDE
+            Международные
+                                млрд долл.         глобальные        рост долга ~10–
+            финансовые рынки
+                                внешних ресурсов   риски             12%
+
+     В-четвёртых, эффективность банковской деятельности оценивается
+посредством показателей ROA и ROE. По состоянию на 2025 год в
+Узбекистане ROA составляет 2,0–2,2%, ROE – 17,5–18,5%, что выше, чем в
+
+                                                                                     39
+банковской системе США (ROA: 1,1–1,3%, ROE: 11–13%). Данное
+обстоятельство показывает относительно высокую рентабельность и
+инвестиционную привлекательность национальных банков.
+      Данные таблицы 2 показывают, что в 2024 году в банковской системе
+Узбекистана сохраняется относительно устойчивая и позитивная динамика
+финансовой устойчивости. Однако для более глубокого анализа данной
+устойчивости важно учитывать взаимосвязь между её структурными
+элементами и механизмы передачи (трансмиссии). Согласно современным
+подходам, при оценке финансовой устойчивости решающее значение имеют
+не отдельные индикаторы, а их взаимное влияние.
+      Прежде всего, сохранение коэффициента достаточности капитала (CAR)
+на уровне около 17% означает, что банковская система обладает высоким
+буфером по отношению к кредитным и рыночным рискам. Согласно
+стандартам Базель III, минимальный уровень общей достаточности капитала
+составляет 10,5%, и с этой точки зрения узбекские банки по уровню
+капитализации находятся значительно выше международных требований.
+Однако научные исследования показывают, что высокий уровень капитала не
+всегда означает эффективность, а иногда может свидетельствовать и о низкой
+эффективности использования активов. Следовательно, необходим
+интегральный анализ показателя CAR совместно с рентабельностью (ROA,
+ROE).
+      Анализ исследования теоретически и эконометрически обосновал
+взаимосвязь внутренних и внешних факторов, влияющих на финансовую
+устойчивость, и их синергетическое воздействие. Таким образом, цель
+исследования заключалась в эмпирическом анализе причинно-следственных
+связей между показателями эффективности банка (CIR), кредитных рисков
+(NPL) и рентабельности (ROA и ROE) за период 2020–2025 годов, а также в
+оценке эффективности методом DEA.
+      В целях проведения эмпирического исследования была сформирована
+панельная выборка, включающая квартальные данные за 2020–2025 гг. по 12
+коммерческим банкам, из которых 4 являются государственными и 8 -
+частными. Общее число наблюдений:
+                            𝑁 = 12 × 32 = 384
+      В анализ были включены следующие показатели:
+        - CIR – коэффициент эффективности расходов, основной индикатор
+  оценки операционной эффективности банка;
+        - ROA – рентабельность активов, финансовый индикатор,
+  показывающий эффективность использования активов банка;
+        - ROE – рентабельность капитала, оценивает финансовую отдачу для
+  инвесторов;
+        - CAR – достаточность капитала, один из основных показателей
+  устойчивости банка;
+        - NPL – доля проблемных кредитов, показывает качество кредитного
+  портфеля и уровень риска;
+
+40
+       - LDR – коэффициент ликвидности, выражает эффективность
+  ликвидности банка и баланса активов-обязательств.
+     Панельный анализ данных следует начать с проведения теста Хаусмана.
+Данный тест позволяет выбрать наиболее оптимальную модель между
+моделью с фиксированными эффектами (Fixed Effects) и моделью со
+случайными эффектами (Random Effects).
+
+ Модель    Значение χ²-статистики         d.f. p-значение     Выбранная модель
+  ROA              18,74                   6      0,0047  Фиксированные эффекты (FE)
+  ROE              24,61                   6      0,0004  Фиксированные эффекты (FE)
+
+      Для эконометрического анализа применена модель с фиксированными
+эффектами (Fixed Effects, FE), которая позволяет учитывать специфическое
+для банков влияние и анализировать зависящие от времени факторы. Модели
+представлены следующим образом:
+       𝑅𝑂𝐴𝑖𝑡 = 𝛼 + 𝛽1 𝐶𝐼𝑅𝑖𝑡 + 𝛽2 𝐶𝐴𝑅𝑖𝑡 + 𝛽3 𝑁𝑃𝐿𝑖𝑡 + 𝛽4 𝐿𝐷𝑅𝑖𝑡 + 𝜇𝑖 + 𝜖𝑖𝑡
+            𝑅𝑂𝐸𝑖𝑡 = 𝛾 + 𝛿1 𝑅𝑂𝐴𝑖𝑡 + 𝛿2 𝐶𝐴𝑅𝑖𝑡 + 𝛿3 𝑁𝑃𝐿𝑖𝑡 + 𝜇𝑖 + 𝜖𝑖𝑡
+      Здесь 𝜇𝑖 – специфическое для банка индивидуальное влияние, 𝜖𝑖𝑡 – ряд
+случайных ошибок. С помощью данных моделей эмпирически подтверждён
+механизм передачи CIR → ROA → ROE и влияние кредитных рисков на
+рентабельность.
+                                                                   Таблица 3
+      Результаты панельной регрессии (2020–2025)
+Переменная           Модель ROA (β)            t-stat   Модель ROE (β)      t-stat
+CIR                  -0,043***                 -3,87    -                   –
+CAR                  0,019**                   2,64     0,21**              2,32**
+NPL                  -0,068***                 -3,15    -0,58**             -2,84**
+LDR                  0,013*                    1,98     -                   –
+ROA                  -                         -        7,48***             5,76***
+Константа            3,92                      -        -2,14*              –
+R²                   0,71                      -        0,76                –
+F-stat               18,6                      -        21,3                –
+       (* p<0,1, ** p<0,05, *** p<0,01)
+     Результаты эконометрического анализа чётко показали причинно-
+следственную связь между эффективностью и рентабельностью банка.
+Отрицательное влияние коэффициента CIR (Cost-to-Income Ratio) (β = -0,043;
+p<0,01) подтверждает, что он оказывает негативное воздействие на
+рентабельность активов банка, показывая, что за счёт сокращения
+операционных расходов возможно повышение эффективности и
+рентабельности. Это означает, что уровень расходов является важным
+драйвером формирования маржи прибыли.
+     Вместе с тем отрицательное влияние показателя NPL (Non-Performing
+Loans) (β = -0,068) определяет, что снижение качества кредитного портфеля
+оказывает негативное влияние на рентабельность. Рост доли проблемных
+кредитов ограничивает эффективное использование активов, что указывает на
+необходимость усиления систем риск-менеджмента.
+
+                                                                                      41
+     Кроме того, влияние ROA на ROE является высоким и статистически
+значимым (β = 7,48; p<0,01), что подтверждает, что повышение эффективности
+активов мультипликативно усиливает рентабельность капитала.
+     В целом результаты научно обосновывают возможность повышения
+рентабельности и финансовой устойчивости банка посредством оптимизации
+операционных расходов, контроля кредитных рисков и эффективного
+управления активами. Анализ исследований раскрыл многогранный и
+системный характер рисков и проблем в банковской системе. В частности,
+кредитные риски (снижение платёжеспособности заёмщиков), риски
+ликвидности (несоответствие сроков ресурсов), валютные риски
+(изменчивость курса) и риски процентных ставок проявляются как основные
+угрозы финансовой устойчивости банка. Недостаточная институционализация
+систем риск-менеджмента в отдельных банках, низкая структурная
+диверсификация кредитного портфеля и высокие операционные расходы
+дополнительно усиливают существующие риски. Вместе с тем глобальная
+экономическая неопределённость, геополитические факторы и волатильность
+внешних финансовых рынков создают дополнительные системные риски для
+национальной банковской системы. Это свидетельствует о необходимости
+совершенствования инструментов макропруденциальной политики и
+широкого внедрения моделей стресс-тестирования.
+     В      третьей     главе   диссертационной     работы,    озаглавленной
+«Направления внедрения и совершенствования показателей при
+обеспечении финансовой устойчивости коммерческих банков»,
+отмечается следующее.
+     Традиционные подходы к оценке финансовой устойчивости
+коммерческих банков основаны на отдельном анализе показателей
+достаточности капитала, качества активов и ликвидности, однако на примере
+АКБ «Узпромстройбанк» установлена ограниченность данного метода. На
+этой основе в исследовании предложен индекс интегральной устойчивости
+(ИИУ), взаимосвязанно интегрирующий данные показатели.
+     Формула расчёта ИИУ:
+                 ИИУ = 𝑤1 ⋅ 𝐶𝐴𝑅𝑛 + 𝑤2 ⋅ (1 − 𝑁𝑃𝐿𝑛 ) + 𝑤3 ⋅ 𝐿𝑄𝑛
+     где:
+     • 𝐶𝐴𝑅𝑛 – нормализованное значение достаточности капитала;
+     • 𝑁𝑃𝐿𝑛 – нормализованное значение показателя проблемных кредитов;
+     • 𝐿𝑄𝑛 – нормализованное значение показателя ликвидности;
+     • 𝑤1 , 𝑤2 , 𝑤3 – весовой коэффициент каждого показателя (определён на
+основе экспертных оценок и финансовых моделей при расчёте);
+     • индекс устойчивости рассчитывается в диапазоне 0–1, значение
+отражает уровень устойчивости.
+     Согласно результатам исследования, в результате внедрения данного
+подхода значение ИИУ в банке выросло с 0,61 до 0,78, а достаточность
+капитала улучшилась с 13,2% до 14,1%. Данное обстоятельство показывает
+укрепление финансовой устойчивости банка и повышение эффективности
+управления рисками. Это подтверждает преимущество данного интегрального
+42
+подхода: совместная оценка показателей более точно отражает устойчивость,
+а динамика ИИУ выполняет функцию надёжного инструмента для
+стратегических решений. В этом отношении данный подход обеспечивает
+концептуальную научную новизну, а на практике – возможность
+совершенствования систем риск-менеджмента и финансового мониторинга в
+банках.
+      Исследование показывает, что внедрение индекса устойчивости,
+интегрирующего показатели достаточности капитала, ликвидности и качества
+активов в коммерческих банках, позволяет точно и эффективно оценивать
+финансовую устойчивость банка.
+      Поскольку традиционные методы оценки финансовой устойчивости
+зачастую опираются лишь на показатели достаточности капитала, качества
+активов и ликвидности банка, они не полностью учитывают уровень риска и
+изменчивость доходов банка. С этой точки зрения в настоящем исследовании
+предложено введение в систему показателей, выражающих финансовую
+устойчивость коммерческих банков, шкальных критериев оценки. Данные
+критерии позволяют выделить категории устойчивости «низкая»,
+«удовлетворительная», «средняя» и «высокая» и служат комплексной оценке
+уровня риска и стабильности доходов банка.
+                                                               Таблица 4
+      Динамика индекса интегральной устойчивости и достаточности
+капитала (АКБ «Узпромстройбанк», 2022–2025)
+Год    Индекс интегральной устойчивости (ИИУ)   Достаточность капитала, %
+2022                     0,61                              13,2
+2023                     0,66                              13,5
+2024                     0,72                              13,8
+2025                     0,78                              14,1
+
+      Необходимо отметить, что внедрённые на примере АКБ
+«Узпромстройбанк» шкальные критерии оценки способствовали сокращению
+доли операций, склонных к риску, на 18%, снижению изменчивости доходов в
+1,4 раза, а также повышению уровня устойчивости из категории
+«удовлетворительная» в категорию «средняя». Это, в свою очередь,
+значительно повысило эффективность мониторинга финансовой устойчивости
+и принятия управленческих решений.
+      Данный подход имеет значение и с научной точки зрения, предоставляя
+возможность осуществления дифференциальной оценки финансовой
+устойчивости в коммерческих банках, принятия решений с учётом рисков и
+изменчивости доходов, а также стратегического мониторинга устойчивости.
+Все данные аспекты могут быть признаны результатом, объединяющим
+научную новизну и практическую эффективность.
+      Оценка финансовой устойчивости в коммерческих банках традиционно
+основана на показателях достаточности капитала, качества активов и
+ликвидности. Однако данные показатели не полностью отражают уровень
+риска и устойчивость доходов банка. Поэтому научная и практическая
+
+                                                                        43
+значимость внедрения шкальных критериев оценки является высокой. При
+ближайшем рассмотрении шкала через категории устойчивости «низкая»,
+«удовлетворительная», «средняя» и «высокая» позволяет интегрировать
+различные параметры риска и дохода в деятельности банка. Данный подход
+основан на точном динамическом отслеживании операций, склонных к риску,
+и изменчивости доходов.
+      Система шкальной оценки научно создаёт возможность объективной и
+воспроизводимой оценки финансового состояния банка на основе
+объективных и повторяемых критериев. Данная система служит важным
+инструментом при эффективном управлении денежным балансом,
+ранжировании кредитных рисков и определении стратегии планирования
+капитала. Вместе с тем, согласно отчётам Центрального банка о финансовой
+устойчивости, в банковской системе Узбекистана уровень достаточности
+капитала и ликвидности высокий, а результаты стресс-тестов показывают
+сохранение финансовой устойчивости.
+      Таким образом, доказано, что научно предложенные на примере АКБ
+«Узпромстройбанк» шкальные критерии оценки на практике создали
+возможность дифференциального, основанного на данных и эффективного для
+стратегического управления мониторинга финансовой устойчивости
+коммерческих банков. Данный подход, в отличие от традиционных методов
+оценки, интегрирует риск и изменчивость доходов и служит стратегическому,
+прогнозируемому и устойчивому управлению деятельностью банка.
+      Доля операций банка, склонных к риску (ДОСР), показывает долю
+рискованных активов в общих активах. В базовом состоянии данный
+показатель составлял 40%, отражая высокий риск в портфеле активов.
+Согласно данной шкале, поскольку в базовом состоянии ДОСР банка
+составлял 40%, он относился к категории «низкая устойчивость», то есть доля
+высокорисковых активов была велика. После внедрения системы шкальной
+оценки доля рискованных операций сократилась на 18%, снизившись до 22%:
+                    𝑅1 = 𝑅0 − 0,18 = 0,40 − 0,18 = 0,22
+      То есть ДОСР снизился до 22%, и данный показатель в соответствии с
+вышеуказанной шкалой означает переход в категорию «средняя
+устойчивость». Данное снижение уменьшило уровень риска портфеля активов
+на 55%, значительно стабилизировав финансовый риск банка.
+      Вместе с тем в качестве важного индикатора учитывалась и
+изменчивость доходов (Volatility). В базовом состоянии стандартное
+отклонение чистой прибыли и общего дохода составляло 28%, а после
+внедрения системы шкальной оценки оно снизилось в 1,4 раза, до 20%:
+                                𝜎0   0,28
+                          𝜎1 =     =      = 0,200
+                               1,4    1,4
+      Это повысило стабильность доходов и укрепило финансовую
+эффективность банка.
+      Для дальнейшего уточнения финансовых результатов применены
+индикаторы ROA (Return on Assets) и ROE (Return on Equity). Общий доход
+банка составил 13,8 трлн сумов, чистая прибыль – 1,3 трлн сумов. При общих
+44
+активах в 100 трлн сумов и уставном капитале в 12 трлн сумов показатели
+рассчитываются следующим образом:
+                           𝑁𝑃 1,3
+                    𝑅𝑂𝐴 =      =     = 0,013 = 1,3%
+                            𝐴    100
+                           𝑁𝑃 1,3
+                    𝑅𝑂𝐸 =      =    ≈ 0,108 = 10,8%
+                            𝐸    12
+      Данные результаты чётко показывают эффективность банка по активам
+и акционерному капиталу.
+                                                             Таблица 5
+      Критерии для дифференциации категории устойчивости на основе
+шкалы
+Категория                 ДОСР (%)       Volatility (%)    ROA (%)
+Низкая                    >35            >30               <1
+Удовлетворительная        25–35          25–30             1–1,5
+Средняя                   15–25          20–25             1,5–2,5
+Высокая                   <15            <20               >2,5
+      Результаты АКБ «Узпромстройбанк»: ДОСР – 22%, Volatility – 20%,
+ROA – 1,3%, все показатели соответствуют категории «средняя»
+устойчивость. Данная шкала позволила объективно и дифференциально
+оценить финансовую устойчивость банка.
+      После внедрения шкалы процессы мониторинга и управления также
+стали более эффективными: доля рискованных операций сократилась на 18%,
+изменчивость доходов снизилась в 1,4 раза, а индикаторы ROA/ROE были
+чётко зафиксированы, что поддержало процесс принятия решений. Данные
+изменения послужили улучшению финансовой устойчивости банка,
+повышению эффективности капитала и доходов.
+      Таким образом, доказано, что система шкальной оценки на примере АКБ
+«Узпромстройбанк» является эффективной как с научной, так и с
+практической точки зрения и имеет важное значение в обеспечении
+устойчивости риска и доходов в деятельности банка.
+
+                               ЗАКЛЮЧЕНИЕ
+
+     На основе проведённых исследований нам удалось разработать
+следующие научные выводы и предложения:
+     1. установлено, что финансовая устойчивость коммерческих банков
+проявляется как комплексная экономическая категория, обеспечивающая
+адаптивность к экономическим изменениям, устойчивость к рискам и
+непрерывность деятельности;
+     2. научно обосновано, что фрагментарные подходы, основанные на
+традиционных показателях при оценке финансовой устойчивости, не могут
+полностью отразить системную сущность банковской деятельности;
+     3. установлено, что взаимосвязь показателей достаточности капитала,
+качества активов и ликвидности является основными факторами,
+формирующими финансовую устойчивость банка;
+                                                                      45
+      4. обосновано, что в международной практике (стандарты Базель,
+система CAMELS) приоритетное значение приобретают подходы,
+направленные на комплексную оценку финансовой устойчивости;
+      5. установлено, что показатели финансовой устойчивости в банковской
+системе Узбекистана в последние годы имеют позитивную динамику, а
+уровень капитализации и показатели ликвидности соответствуют
+международным нормам;
+      6. научно обосновано наличие различий между банками по показателям
+эффективности и рентабельности (ROA, ROE, CIR), что приводит к
+диспропорциям в эффективности использования ресурсов;
+      7. установлено, что взаимосвязь между внутренними факторами
+(капитал, ликвидность, корпоративное управление) и внешними факторами
+(инфляция, валютный курс, монетарная политика) имеет решающее значение
+в определении устойчивости банка;
+      8. согласно результатам эконометрического анализа, доказано, что
+операционная эффективность (cir) и кредитные риски (npl) оказывают
+статистически значимое влияние на рентабельность банка;
+      9. установлено, что кредитный риск, риск ликвидности, валютный риск
+и риск процентной ставки проявляются в коммерческих банках как основные
+угрозы финансовой устойчивости;
+      10. научно обосновано, что метод индекса интегральной устойчивости
+является эффективным инструментом, позволяющим комплексно оценивать
+финансовое состояние банка и своевременно выявлять риски;
+      11. установлено, что внедрение риск-ориентированных моделей
+мониторинга и прогнозирования служит повышению эффективности
+принятия решений в банках;
+      12. обосновано, что обеспечение финансовой устойчивости в
+коммерческих банках требует комплексного стратегического подхода,
+направленного на управление капиталом, диверсификацию кредитного
+портфеля и оптимизацию ликвидности.
+
+
+
+
+46
+       SCIENTIFIC COUNCIL AWARDING OF THE
+      SCIENTIFIC DEGREES DSc.03/2025.27.12.I.30.01
+      AT TASHKENT INTERNATIONAL UNIVERSITY
+       TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+        ABDISHUKUROV SHERZOD SHAVKAT UGLI
+
+
+
+DIRECTIONS FOR ENSHURING THE FINANCIAL STABILITY OF
+                COMMERCIAL BANKS
+
+
+
+             08.00.07 – Finance, money circulation and credit
+
+
+
+
+                                ABSTRACT
+      of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                        Tashkent city – 2026 year
+
+
+                                                                       47
+48
+   INTRODUCTION (Dissertation Abstract for Doctor of Philosophy (PhD))
+        Purpose of the study. The goal is to develop priority areas aimed at introducing
+indicators to ensure the financial stability of commercial banks .
+        The objectives of the study are as follows:
+        theoretical analysis of the concept of financial stability of commercial banks and
+its impact on the efficiency of banking activities;
+        compare methods and indicators for assessing financial stability based on
+international and national standards and analyze their effectiveness;
+        Empirical analysis of the current state of financial stability indicators and their
+trends in commercial banks of Uzbekistan;
+        conducting an analysis of internal and external factors affecting the financial
+stability of commercial banks - capital adequacy, liquidity, loan portfolio quality, and
+the macroeconomic environment;
+        develop a financial stability assessment mechanism based on an integrated
+approach and analyze the possibilities of its implementation in the activities of
+commercial banks;
+        modeling and empirical analysis of the effectiveness of mechanisms for
+increasing the financial stability of banks through the strategic allocation of capital and
+liquidity reserves;
+        assessing the impact on the efficiency, risk level and investment attractiveness
+of commercial banks through the strategic allocation of capital and liquidity in ensuring
+financial stability;
+        development of scientific conclusions and proposals aimed at introducing
+indicators to ensure the financial stability of commercial banks .
+        Object of research. The object of the research comprises the commercial banks
+of the Republic of Uzbekistan, including the activities of the Joint-Stock Commercial
+Bank Uzsanoatqurilishbank aimed at ensuring financial stability.
+        Subject of the study. The subject of the research is the economic relations
+arising in the process of ensuring the financial stability of the Joint-Stock Commercial
+Bank Uzsanoatqurilishbank.
+        Research methods. The dissertation employs a combination of general scientific
+and econometric research methods, including generalization, questionnaire survey,
+grouping, abstract-logical reasoning, linear regression analysis, the Autoregressive
+Distributed Lag (ARDL) model, the Vector Error Correction Model (VECM),
+induction and deduction, and economic-mathematical modelling.
+        Scientific novelty of the research consists of the following:
+        it is proposed to improve the methodology for assessing the financial stability of
+commercial banks by introducing a system of stability indicators that integrate capital
+adequacy, asset quality, and liquidity indicators in an interdependent manner;
+        it is proposed to improve the system of indicators expressing the financial
+stability of commercial banks by introducing scale assessment criteria that serve to
+determine the categories of “low”, “satisfactory”, “medium” and “high” stability, taking
+into account the level of risk in banking activities and the stability of income;
+        it is proposed to improve the mechanism for organizing financial stability
+monitoring for commercial banks through the introduction of a risk-oriented monitoring
+                                                                                        49
+model based on continuous assessment of the dynamics of integrated stability
+indicators;
+        the model for forecasting the financial stability of commercial banks proposes
+the implementation of a multi-factor forecasting mechanism that allows predicting
+medium- and long-term changes in the financial position of a bank, taking into account
+macroeconomic factors, the structure of the loan portfolio, and the liquidity situation.
+      Scientific and practical significance of the research results. The scientific
+significance of the research results is determined by the fact that they can be widely
+used in conducting scientific research aimed at determining priority areas aimed at
+ensuring the financial stability of banks in our country , increasing financial stability in
+this regard, studying the methodological foundations of the stability of the banking
+system, and developing the role of financial policy.
+      The practical significance of the research results is explained by the fact that the
+developed scientific proposals and practical recommendations can be used to develop
+a scientific concept and legal documents dedicated to reforming the banking system in
+Uzbekistan, aimed at increasing the stability of the system by ensuring the priority of
+banks' financial stability, as well as to develop a curriculum for subjects such as
+“Banking’, “Banking, Money and Credit” and “Monetary Policy” in higher educational
+institutions and strengthen its practical base .
+        Implementation of research results. Based on the scientific results obtained in
+the areas of ensuring the financial stability of banks:
+        The proposal to improve the methodology for assessing the financial stability of
+commercial banks by introducing a system of stability indicators that interrelate capital
+adequacy, asset quality and liquidity indicators -served to ensure the implementation of
+the tasks set out in paragraph 1 of Chapter 3 of Appendix 1 to the Decree of the
+President of the Republic of Uzbekistan No. 5992 “On the Strategy for Reforming the
+Banking System for 2020-2025” (Reference of the JSCB “Industrial and Construction
+Bank of Uzbekistan” No. 43-07/21 dated March 3, 2026). Based on this proposal, a
+comprehensive mechanism for assessing financial stability in a commercial bank was
+formed, the value of the integral stability index increased from 0.61 to 0.78, and capital
+adequacy improved from 13.2 percent to 14.1 percent.
+        The proposal to improve the system of indicators expressing the financial
+stability of commercial banks by introducing scale assessment criteria that serve to
+determine the categories of “low”, “satisfactory”, “medium” and “high’ stability, taking
+into account the level of risk in banking activities and the stability of income, served -to
+ensure the implementation of the tasks set out in paragraph 1 of Chapter 3 of Appendix
+1 to the Decree of the President of the Republic of Uzbekistan No. 5992 “On the
+Strategy for Reforming the Banking System for 2020-2025” (Reference of JSCB
+“Industrial and Construction Bank of Uzbekistan” No. 43-07/21 dated March 3, 2026).
+Based on this proposal, the scale assessment criteria introduced, taking into account the
+level of risk and the stability of income, allowed for a clear differential assessment of
+financial stability in commercial banking practice, reduced the share of risky operations
+by 18 percent, reduced income volatility by 1.4 times, and increased the effectiveness
+of monitoring and management decisions by raising the bank’s stability from the
+
+50
+“satisfactory’ category to the “medium” level, which was substantiated by practical
+results.
+       The proposal to improve the mechanism for organizing financial stability
+monitoring for commercial banks through the introduction of a risk-based monitoring
+model based on a continuous assessment of the dynamics of integrated stability
+indicators -served to ensure the implementation of the tasks set out in paragraph 1 of
+Chapter 3 of Appendix 1 to the Decree of the President of the Republic of Uzbekistan
+No. 5992 “On the Strategy for Reforming the Banking System for 2020-2025”
+(Reference of the JSCB “Industrial and Construction Bank of Uzbekistan” No. 43-
+07/21 dated March 3, 2026 ). The risk-based monitoring model introduced for
+commercial banks on the basis of this proposal significantly increased the effectiveness
+of financial stability monitoring in commercial banking practice, allowing for a
+continuous assessment of the dynamics of integrated stability indicators; As a result,
+the share of problem loans decreased from 6.8 percent to 4.1 percent, providing an
+opportunity to reduce risks by 15.0 percent, and increase the reliability and efficiency
+of bank management decisions.
+       The proposal to implement a multi-factor forecasting mechanism that allows
+predicting medium- and long-term changes in the financial position of commercial
+banks, taking into account macroeconomic factors, the structure of the loan portfolio
+and the liquidity situation, served to ensure the implementation of -the tasks set out in
+paragraph 1 of Chapter 3 of Appendix 1 to the Decree of the President of the Republic
+of Uzbekistan No. PF 5992 “On the Strategy for Reforming the Banking System for
+2020-2025” (Reference of the JSCB “Industrial and Construction Bank of Uzbekistan”
+No. 43-07/21 dated March 3, 2026). The multi-factor model introduced on the basis of
+this proposal to forecast the financial stability of commercial banks made it possible to
+accurately predict medium and long-term changes in the financial position of the bank,
+based on macroeconomic indicators, the structure of the loan portfolio and the liquidity
+situation; As a result, the potential efficiency of credit activities in commercial banking
+practice increased by 12%, the risk of fulfilling obligations was reduced by 30%
+through optimization of liquidity reserves, and the effectiveness of the financial strategy
+was significantly strengthened through the adoption of strategic investment decisions
+based on forecasts.
+      Approbation of research results. The findings of this research were presented
+and discussed at four scientific and practical conferences, including two national and
+two international conferences.
+      Publication of research results. A total of eight scientific publications have been
+produced on the dissertation topic. These include four scientific articles published in
+journals recommended by the Higher Attestation Commission of the Republic of
+Uzbekistan for disseminating the principal findings of doctoral dissertations, of which
+three appeared in national journals and one in an international journal, as well as four
+conference papers presented at scientific and practical conferences.
+      The structure and size of the dissertation. The dissertation consists of an
+introduction, three chapters, a conclusion, a list of references, and appendices. The total
+length of the dissertation is 128 pages.
+
+                                                                                        51
+                     E’LON QILINGAN ISHLAR RO‘YXATI
+                    СПИСОК ОПУБЛИКОВАННИХ РАБОТ
+                        LIST OF PUBLISHED WORKS
+                                 I bo‘lim (I част; Part I)
+       1. Abdishukurov Sh.Sh. Risks And Challenges Of Commercial Banks’
+Financial Stability // Web of Semantic: Universal Journal on Innovative Education.
+Vol. 5 No. 3, 2026. (Index Copernicus, Index Google Scholar).
+https://journal.univerpublishing.org/index.php/semantic/article/view/3420
+         2. Abdishukurov Sh.Sh. Tijorat banklarining moliyaviy barqarorligiga oid
+ilmiy qarashlar va nazariy yondashuvlar // Moliya, pul va kredit – mahalliy va
+xalqaro miqyosdagi ilmiy-ommabop elektron jurnal. T.: 2025. Iyul-avgust, №6.
+(08.00.00, OAK rayosatining 2023-yil 1-apreldagi 336/3-son qarori).
+https://mpkjournal.com/index.php/MPK/article/view/194/198
+        3. Абдишукуров Ш.Ш. Экономическая безопасность                  и факторы
+влияющие на неё // Yashil iqtisodiyot va taraqqiyot – ijtimoiy, iqtisodiy, texnologik,
+ilmiy, ommabop jurnal. Vol. 1 No. 10 (2023); 602-607 b. (№12, Index Copernicus,
+08.00.00, OAK rayosatining 2023-yil 1-apreldagi 336/3-son qarori). https://yashil-
+iqtisodiyot-taraqqiyot.uz/journal/index.php/GED/article/view/115
+        4. Abdishukurov Sh.Sh. Tijorat banklarining barqarorligini ta’minlashda
+riskka asoslangan ko‘rsatkichlar tizimini joriy etish samaradorligi // “Sun’iy intellekt
+hamda fintech orqali tadbirkorlikni rivojlantirish zamonaviy tendensiyalar va
+yechimlar” mavzusidagi respublika ilmiy-amaliy konferensiya materiallari. 2026-yil
+4-mart, 512–515 b., https://bfa.uz/files/Konferensiyalar/suniy-intellekt-hamda-fintech-orqali-
+tadbirkorlikni-rivojlantirish-zamonaviy-tendensiyalar-va-yechimlar-mavzusidagi-respublika-
+ilmiy-amaliy-konferensiyasi.pdf
+       5. Abdishukurov Sh.Sh. Bank tizimida moliyaviy barqarorlikni monitoring
+qilish indikatorlarini takomillashtirish va joriy etish strategiyalari // “Moliyani qayta
+tasavvur qilish: barqaror va inklyuziv tizimlar sari yo‘llar” xalqaro ilmiy-amaliy
+konferensiya materiallari. Bank-moliya akademiyasi, 2025. 27-oktabr; 407-410 b.,
+https://www.bfa.uz/files/files/%D1%81ollection-of-materials-of-the-international-scientific-and-
+practical-conference-on-the-theme-keimagining-finance-pathways-to-resilient-and-inclusive-
+systems.pdf
+        6. Abdishukurov Sh.Sh. Bazel III standartlari asosida tijorat banklari
+moliyaviy barqarorligini ta’minlash ko‘rsatkichlarini joriy etish mexanizmlari //
+“Banklarni transformatsiya qilish va bank xizmatlari bozorida raqobatni
+rivojlantirish: muammo va yechimlar” mavzusidagi respublika ilmiy amaliy
+anjuman materiallari. Samarqand, SamISI, 2025. 11-oktabr: 558-561 b.,
+https://arm.sies.uz/books/banklarni-transformatsiya-qilish-va-bank-xizmatlari-bozorida-
+raqobatni-rivojlantirish-muammo-va-yechimlar
+      7. Abdishukurov Sh.Sh. Iqtisodiy xavfsizlik turlarining oʻziga xos jihatlari //
+“Raqamli iqtisodiyot sharoitida kapital bozorini rivojlantirish va boshqarish:
+muammolar va zamonaviy yechimlar” xalqaro ilmiy-amaliy onlayn-oflayn
+konferensiya materiallari. - T.: BTOM, 2024. 2-fevral, 435-439 b.
+https://ucp.gsbe.uz/storage/website//z7JTh9esjGe9urIx3wn4ittd8DZOiNTPiMihnWtO.pdf
+
+
+52
+                              II boʻlim (I част, part I)
+
+      8. Abdishukurov Sh.Sh. Raqamli transformatsiya sharoitida tijorat banklari
+moliyaviy barqarorligini baholash ko‘rsatkichlarini takomillashtirish // “Banklarni
+transformatsiya qilish va bank xizmatlari bozorida raqobatni rivojlantirish: muammo
+va yechimlar” mavzusidagi respublika ilmiy amaliy anjuman materiallari.
+Samarqand, SamISI, 2025. 11-oktabr, – 561-565 b. https://arm.sies.uz/books/banklarni-
+transformatsiya-qilish-va-bank-xizmatlari-bozorida-raqobatni-rivojlantirish-muammo-va-
+yechimlar
+        9. Абдишукуров         Ш.Ш. Аспекты обеспечения экономической
+безопасности в новых условиях // “Raqamli iqtisodiyot sharoitida korporativ
+tuzilmalar va tadbirkorlik faoliyatini rivojlantirish istiqbollari” mavzusidagi xalqaro
+ilmiy-amaliy onlayn konferensiya materiallari to‘plami. - T.: BTOM, 2021. 23-
+dekabr, 252-254 b., https://ucp.gsbe.uz/storage/website//68P25BfjE5IdlWGkywps
+5USzkQfCMmmTqMOknXtl.pdf
+     10. Abdishukurov Sh.Sh. - Bank sohasida iqtisodiy xavfsizligini ta’minlash
+omillari va shartlari // “Korporativ va loyiha boshqaruvi: joriy holat, muammolar va
+zamonaviy mexanizmlar” mavzusidagi xalqaro ilmiy-amaliy konferensiya
+materiallari. – T.: BTOM, 2021. 18-may, 81-83 b, https://ucp.gsbe.uz/storage/
+website//f4RfSxUov9Iuu6ZHMxqDj6okSewhaMzLSd0fGHyt.pdf
+
+
+
+
+                                                                                    53
+       Avtoreferat “Public Publish Printing” nashriyotida
+                      tahrirdan oʻtkazildi
+
+
+
+
+              Bosishga ruxsat etildi: 31.07.2026-yil
+            Bichimi 60x84 1/16 , “Times New Roman”
+            garniturada raqamli bosma usulida bosildi.
+     Shartli bosma tabogʻi 3,2. Adadi: 100. Buyurtma: №90.
+
+
+              «Public Publish Printing» MChJ
+                bosmaxonasida chop etildi.
+          Toshkent, M.Ulug‘bek tum., Moylisoy, 22.
+
+
+54
+

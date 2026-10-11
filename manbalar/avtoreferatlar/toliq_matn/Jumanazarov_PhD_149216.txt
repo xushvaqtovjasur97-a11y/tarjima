@@ -1,0 +1,2600 @@
+     TOSHKENT INTERNATIONAL UNIVERSITY
+   HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+ TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+ JUMANAZAROV MUZAFFAR JUMANAZAR OʻGʻLI
+
+
+
+     RISKKA ASOSLANGAN BANK NAZORATINI
+             TAKOMILLASHTIRISH
+
+
+
+           08.00.07 – “Moliya, pul muomalasi va kredit”
+
+
+
+
+  Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                         AVTOREFERATI
+
+
+
+
+                     Toshkent shahar – 2026 yil
+                                                                       1
+                                                                           UO‘K: 336.71.078.3(575.1)
+
+
+ Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati
+                                   mundarijasi
+
+     Оглавление автореферата диссертатсии доктора философии (PhD)
+                       по экономическим наукам
+
+      Contents of the dissertation abstract of the doctor of philosophy (PhD)
+                              on economics sciyences
+
+
+Jumanazarov Muzaffar Jumanazar oʻgʻli
+Riskka asoslangan bank nazoratini takomillashtirish........................................                 3
+
+
+Жуманазаров Музаффар Жуманазар угли
+Совершенствование банковского надзора, основанного на рисках............ 27
+
+
+Jumanazarov Muzaffar Jumanazar ugli
+Improving risk-based banking supervision........................................................ 53
+
+
+Eʼlon qilingan ishlar roʻyxati
+Список опубликованных работ
+List of published works...................................................................................... 58
+
+
+
+
+2
+   TASHKENT INTERNATIONAL UNIVERSITY
+    HUZURIDAGI ILMIY DARAJA BERUVCHI
+  DSc.03/2025.27.12.I.30.01 RAQAMLI KENGASH
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+ JUMANAZAROV MUZAFFAR JUMANAZAR OʻGʻLI
+
+
+
+    RISKKA ASOSLANGAN BANK NAZORATINI
+            TAKOMILLASHTIRISH
+
+
+
+          08.00.07 – “Moliya, pul muomalasi va kredit”
+
+
+
+
+ Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                        AVTOREFERATI
+
+
+
+
+                    Toshkent shahar – 2026 yil
+
+
+                                                                      3
+4
+          KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+
+      Dissertatsiya mavzusining dolzarbligi va zaruriyati. Jahonda moliyaviy
+tizim barqarorligini taʼminlash jarayonida riskka asoslangan bank nazoratini
+takomillashtirish masalasi dolzarb ilmiy-amaliy yoʻnalishlardan biri sifatida eʼtirof
+etilmoqda. Soʻnggi yillarda global moliyaviy bozorlarning volatilligi (tebranishlari)
+ortib borayotgani sababli, xalqaro nazorat institutlari tomonidan olib borilgan
+tadqiqotlar Markaziy banklarning qariyb 90 foizi nazorat faoliyatini risk-
+yoʻnaltirilgan yondashuv asosida qayta koʻrib chiqqanini koʻrsatadi. Basel qoʻmitasi
+statistik maʼlumotlariga koʻra, ushbu yondashuvni joriy qilgan mamlakatlarda bank
+aktivlari sifati oʻrtacha 15-20 foizga yaxshilangani kuzatilgan. Raqamli
+transformatsiyaning jadallashuvi esa operatsion va kiberxavflarning yangi
+shakllarini yuzaga keltirib, nazorat organlarini murakkab risk indikatorlari asosida
+chuqurlashtirilgan tahliliy monitoringni qoʻllashga undamoqda. Bundan tashqari,
+rivojlanayotgan iqtisodiyotlarda kredit riskining umumiy risk portfelidagi ulushi
+60 foizdan yuqori ekani tizimli nazorat mexanizmlarini yanada optimallashtirish
+zaruratini kuchaytirmoqda. Banklararo raqobatning keskinlashuvi, likvidlik
+sharoitlarining oʻzgaruvchanligi va foiz stavkalari dinamikasi sharoitida riskka
+asoslangan nazoratni takomillashtirish milliy va global moliyaviy barqarorlikning
+asosiy omili sifatida namoyon boʻlmoqda.
+      Jahonda moliyaviy tizimning raqamlashtirilishi, transchegaraviy kapital
+harakatlarining faollashuvi va bank operatsiyalarining murakkablashuvi sharoitida
+risklarni samarali boshqarish va ularni nazorat qilish masalasi tobora dolzarb
+ahamiyat kasb etmoqda. Zamonaviy bank amaliyotida risklar nafaqat ko‘lami
+jihatidan, balki o‘zaro bog‘liqligi va tez tarqalish xususiyati bilan ham ajralib turadi.
+Bu esa an’anaviy nazorat yondashuvlaridan riskka asoslangan bank nazoratiga o‘tish
+zaruratini yuzaga keltirmoqda. Riskka asoslangan yondashuv regulyator
+resurslaridan samarali foydalanish va nazorat tekshiruvlarining sifatini yaxshilash
+imkonini beradi. Xalqaro amaliyotda mazkur yondashuvni institutsional va huquqiy
+jihatdan mustahkamlash tendensiyasi kuzatilmoqda. Jumladan, Bazel qo‘mitasi
+tomonidan ishlab chiqilgan so‘nggi tartib-taomillar doirasida banklarning risk
+profiliga asoslangan nazorat tizimini joriy etish va takomillashtirish ustuvor
+vazifalardan biri sifatida belgilanmoqda. Riskka asoslangan yondashuv
+makroprudensial siyosatni shakllantirishda muhim tahlil vositasi boʻlib xizmat
+qiladi. Mazkur tizimni takomillashtirish mamlakat bank sektorida barqaror
+rivojlanishni taʼminlashda ustuvor vazifalardan biri sifatida koʻrilayotgani bejiz
+emas.
+      Oʻzbekistonda barqaror iqtisodiyot masalasi soʻnggi yillarda davlat
+siyosatining muhim yoʻnalishlaridan biriga aylangan. “Oʻzbekiston Respublikasi
+Prezidentining 2023-yil 11-sentyabrdagi PF-158-son “Oʻzbekiston-2030”
+strategiyasi toʻgʻrisida”gi, Oʻzbekiston Respublikasi Prezidentining 2022-yil
+28 – yanvardagi PF-60-son “2022 – 2026-yillarga moʻljallangan Yangi
+Oʻzbekistonning taraqqiyot strategiyasi toʻgʻrisida”, 2017 – yil 7-fevraldagi
+PF – 4947-son “Oʻzbekiston Respublikasini yanada rivojlantirish boʻyicha
+Harakatlar strategiyasi”, 2020-yil 12-maydagi PF – 5992-son “2020-2025-yillarga
+                                                                                       5
+moʻljallangan Oʻzbekiston Respublikasining bank tizimini isloh qilish strategiyasi
+toʻgʻrisida”gi Farmoni 2-bandida bank sektori nazoratini takomillashtirish va
+banklarda tavakkalchiliklarni boshqarishning zamonaviy tizimini tatbiq etish
+masalasi ilgari surilgan boʻlib, bugungi kunda bank sektorida barqaror iqtisodiyot
+masalalari kun tartibiga aylanib bormoqda.
+     Oʻzbekistonda bank tizimida barqaror rivojlanishni taʼminlash,
+tavakkalchiliklarni samarali boshqarish va nazorat organlarining imkoniyatlarini
+optimallashtirish maqsadida riskka asoslangan nazorat konsepsiyasini joriy etish
+dolzarb vazifaga aylanmoqda. Markaziy bank tomonidan ushbu yondashuv asosida
+banklar faoliyatini xavf profili boʻyicha tahlil qilish va individual baholash amaliyoti
+yoʻlga qoʻyilmoqda. Bunda kredit xavfi, likvidlik muammolari, kapital yetarliligi
+hamda korporativ boshqaruv tizimining samaradorligi kabi yoʻnalishlar asosiy
+mezon sifatida eʼtirof etilmoqda. Mazkur yondashuv orqali tekshiruvlarni
+tavakkalchilik darajasiga qarab ustuvorlash va resurslarni maqsadli yoʻnaltirish
+imkoni paydo boʻladi.
+     Shu nuqtayi nazardan banklarning transformatsiyasi doirasida, banklar resurs
+bazasi va moliyaviy barqarorligini mustahkamlash, investitsion jozibadorlikni
+oshirish, daromad manbalarini diversifikatsiya qilish maqsadida bank nazorati
+boʻyicha mukammal mexanizmlarni joriy etilishi mazkur tadqiqot mavzusi dolzarb
+hisoblanadi.
+     Tadqiqotning respublika fan va texnologiyalari rivojlanishi-ning ustuvor
+yoʻnalishlariga mosligi. Dissertatsiya tadqiqoti respublika fani va texnologiyalari
+rivojlanishining I. “Demokratik va huquqiy jamiyatni maʼnaviy-axloqiy hamda
+madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor
+yoʻnalishiga muvofiq bajarilgan.
+     Muammoning oʻrganilganlik darajasi. Riskka asoslangan bank nazorati
+yoʻnalishida koʻplab xorijiy iqtisodchi olimlar tomonidan ilmiy izlanishlar olib
+borilgan. Ular jumlasiga James R. Barth, Gerard Caprio, Jr. Ross Levine, Nergiz
+Dincer, Bilin Neyapti, Gavalda K, K. Gavalda, J. Stufle. Red, V.Ya.Lisnyak,
+M.A. Kotlyarov, Seed Mojtaba Hassani Shahi Sara, Seed Mohammad Reza
+Reiszadeh, Ali Fallah. Piter S, Rous. Fetisov G.G, A. Sheng, M. Knorus,
+Kalashnikovoj M.V. E.A. Arens, N.D. Brovkina, A.F. Ionova, P.I.Kamыshanov,
+A.P.Kovalev, M.N. Kreynina, A.Kristofer, O.I.Lavrushin, Dj.K.Lobbek,
+N.N.Selezneva, V.V.Skobara, V.P.Suislar1 kabi xorijlik iqtisodchi olimlarning ilmiy
+tadqiqot ishlarini kiritish mumkin.
+
+
+1
+  James R. Barth, Gerard Caprio, Jr. Ross Levine “The regulation and supervision off banks around the world” A New
+Database February 2001. Nergiz Dincer, Bilin Neyapti «Jegal quality off bank regulation and supervision and
+determinant a mixed sample» Bilcate University, 2005. Gavalda K. Bankovskoye pravo. (Uchrejdeniya, scheta,
+operatsii, uslugi) : Per.s fr./ K. Gavalda, J. Stufle; Red. V.Ya.Lisnyak. -M.: AO Finstatinform, 1996. Katishanov
+P.I.Prakticheskoye posobiye po auditu/ P.I.Katishanov. -M.: INFRA-M, 1996. -522 c. M.A. Kotlyarov. Problemi
+sovershenstvovaniya prudensialnogo bankovskogo nadzora a Rossii // Bankovskoye delo. 2004. №3. Seed Mojtaba
+Hassani Shahi Sara, Seed Mohammad Reza Reiszadeh, Ali Fallah “Assessing the effect of central bank supervision
+interaction with audit and internal inspection units of banks on the efficiyency of banking supervision”
+http://dx.doi.org/10.22075/ijnaa.2022.27159.3517 Piter S. Rous “Bankovskiy Menedjment” per. s angl. “Delo”,
+Moskva, 1997. 45 str. Fetisov G.G. Ustoychivost, stabilnost, ravnovesiye i nadejnost bankovskoy sistemi: ponyatiya
+i kriterii otsenki // Zakonodatelstvo i ekonomika. – № 8. — avgust 2002 g. A. Sheng, Bank Supervision: Principles
+
+6
+      Respublikamizdagi         iqtisodchi     olimlardan        M.Sh. Sharifxoʻjayev,
+S.P. Abdullayev,       T.I. Boboqulov,      R.D. Doʻstmuhamedov,          T.S. Malikov,
+S. Norqobilov, O.O. Olimjonov, A.A. Omonov, M.M. Toʻlaxodjayeva, B. Hasanov,
+A.Q.Qodirov, Oʻ. Joʻrayev, S.S. Togʻayev, G.D. Axmetova, Z. Qurbonov,
+A. Raximov,       A.Ya. Abdullayev,        Sh.Z. Abdullayeva,       G.T. Baymuratova,
+B.T. Berdiyarov, S.J. Gadoyev, N.X. Jumayev, N.F. Karimov, F.I. Mirzayev,
+F.J. Nasriddinov, D.B. Nafasov, D.R. Rustamov, O.B. Sattarov, R.B. Sultanov,
+M.Q. Maxmudova, G.R. Tashmuxamedova, Q. Qurbonov, N.K. Choriyev,
+J.Y. Isakov, D. Baymirzayev, D.A. Toshpulatov2 bank nazorati boʻyicha ilmiy
+tadqiqotlar olib borgan va oʻz asarlari, darsliklar va ilmiy maqolalarida keltirib
+oʻtgan.
+      Dissertatsiya tadqiqotning dissertatsiya bajarilgan oliy taʼlim
+muassasasining ilmiy tadqiqot ishlari rejalari bilan bogʻliqligi. Dissertatsiya
+tadqiqoti Toshkent davlat iqtisodiyot universitetining “Oʻzbekistonda ijtimoiy-
+iqtisodiy rivojlanishning makroiqtisodiy barqarorligi va prognozlashtirilishini
+taʼminlashning ilmiy-uslubiy asoslari va uslubiyatlarini takomillashtirish” tadqiqot
+loyihasi bilan bogʻliq holda bajarilgan.
+      Tadqiqotning maqsadi. Riskka asoslangan bank nazoratini samaradorligini
+oshirishga qaratilgan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+      Tadqiqotning vazifalari. Tadqiqot maqsadiga muvofiq quyidagi vazifalar
+belgilab olindi:
+      bank faoliyatini tartibga solish va bank nazoratining nazariy-uslubiy asoslarini
+o‘rganish;
+      xorijiy mamlakatlar bank nazoratida qo‘llanilayotgan CAMELS reyting tizimi
+amaliyotini tahlil qilish;
+      bank faoliyatiga ta’sir qiluvchi asosiy risklarni aniqlash va ularning bank
+barqarorligiga ta’sirini baholash;
+      bank risklarini erta aniqlash va monitoring qilish mexanizmlarini
+takomillashtirish bo‘yicha takliflar ishlab chiqish;
+      riskka asoslangan bank nazoratini takomillashtirishga qaratilgan ilmiy-amaliy
+tavsiyalar ishlab chiqish.
+      Tadqiqotning obyekti boʻlib, tijorat banklari faoliyati hisoblanadi.
+      Tadqiqot predmeti banklar faoliyatini nazorat qilish jarayonida yuzaga
+keladigan moliyaviy – iqtisodiy munosabatlar hisoblanadi.
+      Tadqiqotning usullari kuzatish, tizimli tahlil, oʻrganish va tekshirish, ekspert
+baholash.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+      bank barqarorligini nazorat qilishda kapital yetarliligi, aktivlar sifati, likvidlik
+holati va konsentratsiya darajasi kabi asosiy risk-indikatorlarni real vaqt rejimida
+
+
+and Practice, Economic Development Institute of the World Bank, 1990, p-5. Lavrushina. O.I. Bankovskoye delo.
+Pod red. – M., Knorus. 2011. https://dspace.spbu.ru/bitstream/11701/10171/1/VKR_Kalashnikovoj_M__V_.
+2
+  Norqobilov S, Dadaboyeva H, Joʻrayev Oʻ, Xalqaro amaliyotda bank nazorati. – T.: “Iqtisod-moliya”. 2007. “Bank
+risklari” oʻquv qoʻllanma. S.S Togʻayev. Samarqand 2019-yil. 7-8 bet. Axmetova. G.D. III Mejdunarodnaya
+nauchnaya konferensiya: Aktualnыe voprosы ekonomicheskix nauk //80-88 stranitsa, Kollektiv avtorov, 2014 g.
+Z. Qurbonov, A. Raximovlar tomonidan “Bank nazorati va tahlili”. Darslik – Toshkent.: 2022. 5-bet.
+
+                                                                                                              7
+avtomatlashtirilgan tarzda kuzatish asosida bank faoliyatini dinamik baholash
+mexanizmini ishlab chiqish taklif etilgan;
+      bank inspeksiyasida risk darajasi yuqori bo‘lgan obyektlarni aniqlashda tijorat
+banklarining prudensial me’yorlari hamda individual risk profiliga mos ravishda
+bank tizimining o‘rtacha ko‘rsatkichlariga nisbatan ijobiy ±10 foiz chetlanish
+darajasini erta ogohlantirish signallari sifatida belgilash taklif etilgan;
+      bank inspeksiyasi jarayonida aniqlangan kamchiliklar yuzasidan Markaziy
+bank tomonidan taqdim etilgan talab va tavsiyalarning bajarilishini samarali
+monitoring qilishda ularning bajarilish darajasini “yashil”, “sariq” va “qizil”
+reytinglar asosida baholash tizimini joriy etish asoslangan;
+      bank tizimini ehtimoliy risklardan oldindan ogohlantirish hamda profilaktik
+nazorat samaradorligini oshirishda alohida banklarda inspeksiya jarayonlari
+davomida aniqlangan jiddiy xato va kamchiliklarni bank yoki mas’ul shaxs nomini
+oshkor etmagan holda anonim shaklda umumlashtirib, ularni barcha tijorat
+banklariga muntazam ravishda tarqatish amaliyotini joriy etish taklif etilgan.
+      Tadqiqotning amaliy natijasi quyidagilardan iborat:
+      Banklarni masofadan nazorat qilish hamda joyiga chiqqan holda inspeksiya
+oʻtkazish natijalari asosida risk darajasi boʻyicha toifalarga ajratish orqali maqsadli
+nazorat choralarini qoʻllash taklifi amaliyotda foydalanilgan;
+      Markaziy bankning nazorat boʻlinmalari xodimlari malakasini xalqaro
+standartlar asosida oshirish va xalqaro moliya institutlari bilan tajriba almashish
+dasturlarini yoʻlga qoʻyish taklifi asosida 2024-yil davomida Markaziy bank
+Inspeksiya departamentining 10 nafar xodimi xalqaro moliya markazlarida tashkil
+etilgan seminar va treninglarda ishtirok etib, oʻz bilim va koʻnikmalarini oshirdi;
+      Bank nazorat tizimini yanada samarali tashkil etish va soddalashtirish,
+shuningdek, tekshiruv jarayonlarida takroriylik hamda ortiqcha byurokratik
+jarayonlarni qisqartirish maqsadida tekshiruv intervallarini jami bank tizimida
+aniqlangan umumiy kamchiliklar soni va risk profilidan kelib chiqqan holda qayta
+koʻrib chiqib, differensial yondashuvni joriy etish taklifi amaliyotda foydalanildi.
+      Bank tizimini moliyaviy barqarorlikni taʼminlash maqsadida Basel II/III,
+COSO va IFRS standartlari talablarini yagona tizimda uygʻunlashtiruvchi integral
+nazorat modelini ishlab chiqish taklifi joriy qilindi.
+      Banklar faoliyatini nazorat qilish samaradorligini oshirish maqsadida
+moliyaviy jazolar, penyalar va shtraflar miqdorini sezilarli darajada oshirish
+taʼsirchan javobgarlik tizimini kuchaytirish taklifi amaliyotda qoʻllanildi.
+      Tadqiqot natijalarining ishonchliligi amalga oshirilgan yondashuv, usullar
+va nazariy maʼlumotlarning rasmiy manbalardan olinganligi, keltirilgan tahlillar va
+tajriba — sinov ishlari samaradorligining ishonchlilik talablariga javob berishi
+Markaziy bankning amaliy maʼlumotlariga asoslanganligi bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Ushbu tadqiqot natijalari
+manfaatdor tomonlar uchun muhim ahamiyatga ega boʻladi. Markaziy bank tijorat
+banklarning asosiy tartibga soluvchisi sifatida banklarda va kredit tashkilotlarida
+paydo boʻlayotgan xavflarni erta aniqlashda va tuzatish choralarini koʻrish
+imkoniyatini oʻrganishda yordam beradi.
+
+8
+     Tadqiqot natijalarining joriy qilinishi. Riskka asoslangan bank nazoratini
+takomillashtirish bо‘yichа оlingаn ilmiy nаtijаlаr аsоsidа:
+     bank barqarorligini nazorat qilishda kapital yetarliligi, aktivlar sifati, likvidlik
+holati va konsentratsiya darajasi kabi asosiy risk-indikatorlarni real vaqt rejimida
+avtomatlashtirilgan tarzda kuzatish asosida bank faoliyatini dinamik baholash
+mexanizmini ishlab chiqish taklifi O‘zbekiston Respublikasi Markaziy banki
+tomonidan amaliyotga qabul qilingan (O‘zbekiston Respublikasi Markaziy
+bankining 2025 yil 23 oktabrdagi 18-10/1507-sonli ma’lumotnomasi). Natijada,
+Markaziy bankning nazorat jarayonlarida inson omili 20 foizga qisqarib,
+samaradorlik yanada oshirilgan hamda faoliyatning shaffofligi ta’minlangan;
+     bank inspeksiyasida risk darajasi yuqori bo‘lgan obyektlarni aniqlashda tijorat
+banklarining prudensial me’yorlari hamda individual risk profiliga mos ravishda
+bank tizimining o‘rtacha ko‘rsatkichlariga nisbatan ijobiy ±10 foiz chetlanish
+darajasini erta ogohlantirish signallari sifatida belgilash taklifi O‘zbekiston
+Respublikasi Markaziy banki tomonidan amaliyotga qabul qilingan (O‘zbekiston
+Respublikasi Markaziy bankining 2025 yil 23 oktabrdagi 18-10/1507-sonli
+ma’lumotnomasi). Natijada, masofaviy kuzatuv tizimlarida avtomatlashtirilgan
+“signallar” orqali inspeksiya zaruriyati va ustuvorligi belgilangan holda nazorat
+resurslari maqsadli yo‘naltirilgan hamda 86 ta riskka moyil obyekt aniqlanib,
+tekshiruvlar samaradorligi oshirilgan;
+     bank inspeksiyasi jarayonida aniqlangan kamchiliklar yuzasidan Markaziy
+bank tomonidan taqdim etilgan talab va tavsiyalarning bajarilishini samarali
+monitoring qilishda ularning bajarilish darajasini “yashil”, “sariq” va “qizil”
+reytinglar asosida baholash tizimini joriy etish taklifi O‘zbekiston Respublikasi
+Markaziy banki tomonidan amaliyotga qabul qilingan (O‘zbekiston Respublikasi
+Markaziy bankining 2025 yil 23 oktabrdagi 18-10/1507-sonli ma’lumotnomasi).
+Natijada, ushbu mexanizm orqali har bir tijorat banki bo‘yicha berilgan ko‘rsatma
+va tavsiyalarning bajarilish holati baholanib, ularning o‘z vaqtida va to‘liq amalga
+oshirilganligi yuzasidan tegishli reyting belgilangan;
+     bank tizimini ehtimoliy risklardan oldindan ogohlantirish hamda profilaktik
+nazorat samaradorligini oshirishda alohida banklarda inspeksiya jarayonlari
+davomida aniqlangan jiddiy xato va kamchiliklarni bank yoki mas’ul shaxs nomini
+oshkor etmagan holda anonim shaklda umumlashtirib, ularni barcha tijorat
+banklariga muntazam ravishda tarqatish amaliyotini joriy etish taklifi O‘zbekiston
+Respublikasi Markaziy banki tomonidan amaliyotga qabul qilingan (O‘zbekiston
+Respublikasi Markaziy bankining 2025 yil 23 oktabrdagi 18-10/1507-sonli
+ma’lumotnomasi). Natijada, bank tizimini ehtimoliy risklardan oldindan
+ogohlantirish orqali nazorat samaradorligi oshirilib, 2025 yil davomida boshqa
+banklarda yuzaga kelgan 24 ta o‘xshash jiddiy xatolar takrorlanishining oldi olingan.
+     Tadqiqot natijalarining aprobatsiyasi. Ushbu tadqiqot natijalari 8 ta
+respublika va 3 ta xalqaro ilmiy-amaliy anjumanlarida muhokamadan oʻtkazilgan.
+     Tadqiqot natijalarining eʼlon qilinganligi. Dissertatsiya mavzusi boʻyicha
+jami 11 ta ilmiy ish, jumladan, Oʻzbekiston Respublikasi Oliy attestatsiyasi
+komissiyasining dissertatsiyalarni asosiy ilmiy natijalarini chop etish tavsiya etilgan
+ilmiy nashrlarda 8 ta ilmiy maqola, jumladan 3 tasi xorijiy jurnallarda nashr etilgan.
+                                                                                       9
+     Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya kirish, uchta bob, xulosa,
+foydalanilgan adabiyotlar roʻyxatidan tarkib topgan. Dissertatsiya hajmi 141 betni
+tashkil etadi.
+                 DISSERTATSIYANING ASOSIY MAZMUNI
+      Dissertatsiyaning kirish qismida dissertatsiya mavzusining dolzarbligi va
+zarurati asoslangan, tadqiqotning respublika fan va texnologiyalari rivojlanishining
+ustuvor yoʻnalishlariga bogʻliqligi, dissertatsiya mavzusi boʻyicha xorijiy ilmiy-
+tadqiqotlar sharhi, muammoning oʻrganilganlik darajasi, tadqiqotning dissertatsiya
+bajarilgan oliy taʼlim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bogʻliqligi
+bayon qilingan, tadqiqotning maqsadi va vazifalari, obyekti va predmeti
+belgilangan, tadqiqotning usullari keltirilgan, tadqiqotning ilmiy yangiligi,
+tadqiqotning amaliy natijasi bayon qilingan, tadqiqot natijalarining ishonchliligi,
+tadqiqot natijalarining ilmiy va amaliy ahamiyati, tadqiqot natijalarining joriy
+qilinishi, tadqiqot natijalarining aprobatsiyasi, tadqiqot natijalarining eʼlon
+qilinganligi, dissertatsiyaning tuzilishi va hajmi keltirilgan.
+      Dissertatsiyaning “Bank nazoratining mohiyati, iqtisodiy va nazariy
+asoslari” deb nomlangan dissertatsiyaning birinchi bobida bank nazoratining
+mohiyati va ilmiy ahamiyati, bank tizimini nazorat qilish usullari va ularning nazariy
+asoslari, bank barqarorligini taʼminlashda bank nazoratining oʻrni hamda ularning
+nazariy-uslubiy masalalari tadqiq qilingan.
+      Maʼlumki, banklar faoliyati ustidan nazoratning yetarliligi va samaradorligi
+bank tizimi barqarorligini taʼminlash va banklarga boʻlgan ishonchni
+mustahkamlashning asosiy omilidir. Kredit tashkilotlarining, ayniqsa banklarning
+tanazzulga uchrash xavfining yuqoriligi bank faoliyati nazoratining uzluksiz amalga
+oshirilishi shartligini taqozo qiladi.
+      Faqat kuchli bank nazorati iqtisodiyotning qon tomiri boʻlgan bank-moliya
+tizimining barqaror faoliyat yuritishi, iqtisodiy inqirozlarning oldini olish, xususiy
+kapitalni jalb etish, xorijiy investorlarning bank-moliya tizimiga ishonchini yanada
+oshirish imkonini beradi.
+      Barcha mamlakatlarda bank nazoratining asosiy obyekti kredit muassasalar,
+yaʼni tijorat banklari hisoblanadi. Jahonning rivojlangan davlatlari tajribasiga koʻra,
+emissiya banki va tijorat banklari tarmogʻini o ʼz ichiga olgan ikki pogʻonali bank
+tizimini samarali faoliyat koʻrsatishini yoʻlga qoʻymay turib, davlat iqtisodiyotini
+yuksaltirish va uning barqarorligiga erishish mumkin emas.
+      Bunda birinchi pogʻonada Markaziy bank boʻlib, u mamlakatning pul
+muomalasini va barcha kredit muassasalarining faoliyatini tartibga solib turadi.
+      Ikkinchi pogʻonani esa tijorat banklari va boshqa kredit tashkilotlari tashkil
+etadi. Bank nazorati boʻyicha milliy tizimlarning makro va mikroyondashuvda
+maqsadlarining umumiyligini kuzatish mumkin.
+      Bank nazorati huquqiy bazasining asosi boʻlib bank faoliyatini tartibga
+soluvchi qonunchilik hujjatlar hisoblanadi. Aksariyat mamlakatlarda “Markaziy
+bank toʻgʻrisida”gi, “Banklar va bank faoliyati toʻgʻrisida”gi, “Valyutani tartibga
+solish toʻgʻrisida”gi, “Aksiyadorlik jamiyatlari toʻgʻrisida”gi, “Qimmatli qogʻozlar
+
+
+10
+bozori toʻgʻrisida”gi qonunlar bank faoliyatini tartibga soluvchi asosiy qonunlar
+hisoblanadi.
+      Bank faoliyatini idoraviy tartibga solish Markaziy bank, vazirliklar va idoralar
+meʼyoriy-huquqiy hujjatlari asosida amalga oshiriladi.
+      Markaziy bank bank sohasiga kirish, undan chiqish, bank faoliyatini amalga
+oshirish, tavakkalchiliklarni boshqarish borasidagi barcha kredit tashkilotlari uchun
+majburiy boʻlgan talablarni oʻrnatadi.
+      Tijorat banklari aksiyadorlari umumiy yigʻilishi hamda kengashlari tomonidan
+oʻzini-oʻzi nazorat qilish tamoyili asosida ishlab chiqiladigan ichki siyosatlar, tartib
+va taomillar ham har bir bank faoliyatini huquqiy jihatdan tartibga soluvchi
+hujjatlardir.
+      Banklar faoliyatini rivojlanish tarixi va rivojlangan bank tizimini nazorat
+qilishni tashkil etish tajribasiga koʻra hozirgi kunda bank faoliyatini nazorati uchta
+usul bilan amalga oshirilmoqda.
+      Bank nazoratining birinchi usuli – bu Markaziy bank tomonidan tijorat banklari
+faoliyatini masofadan (distansion nazorat), yaʼni ularni moliyaviy hisobotlarini tahlil
+qilish orqali amalga oshirilsa, ikkinchi usuli – bu joylarda inspeksiya (inspeksion
+nazorat), yaʼni barcha moliyaviy hisobotlar va ularga tegishli qoʻshimcha
+maʼlumotlar tijorat banklarining oʻzida tekshirish oʻtkazish orqali amalga oshiriladi.
+      Uchinchi usul – bu masofadan turib va joylarda tekshirish usullaridan bir
+vaqtda foydalanishdan iborat. Bank faoliyatini nazorat qilishni usullarini ikkiga
+ajratib (distansion va inspeksion) oʻrganish maqsadga muvofiq.
+      Respublikamizda bank tizimini nazorat qilish har ikkala usuldan foydalangan
+holda amalga oshiriladi. Shu usullarga mos ravishda Markaziy bankda Prudensial
+nazorat departamenti va Inspeksiya departamenti tashkil etilgan.
+                                                                              1-jadval
+                                                     3
+                                  Tekshirish turlari:
+    №          Tekshirish turi                                     Tartibi
+     1     Kompleks inspeksiya Banklarni haqiqiy moliyaviy ahvolini va bank faoliyatiga xos boʻlgan
+           qilish (tekshirish) xavf-xatarlarni bevosita joyiga chiqish orqali oʻrgangan holda
+                               ularning faoliyatiga umumiy baho berish maqsadida bir vaqtda
+                               inspeksiya oʻtkazilishini nazarda tutuvchi nazorat turidir.
+     2     Alohida       masalalar Bank va uning filiallarida ayrim bank operatsiyalarini inspeksiya
+           yuzasidan inspeksiya qilishni koʻzda tutuvchi nazorat turidir.
+           qilish (tekshirish)
+     3     Masofadan         nazorat Muammolarni boshlangʻich davrida aniqlash maqsadida banklar
+           qilish                    tomonidan Markaziy bankka taqdim etiladigan hisobotlar tahlili, shu
+                                     jumladan, ularning moliyaviy holatining monitoringiga asoslangan
+                                     nazorat turidir.
+     4     Nazorat     tartibidagi Bankda tekshirish oʻtkazuvchi tarkibiy tuzilma tomonidan oxirgi
+           inspeksiya qilish       inspeksiyada aniqlangan xato va kamchiliklarni bartaraf etilishi
+                                   ahvolini nazorat qilish maqsadida amalga oshiriladigan tekshirish.
+
+
+3
+    https://lex.uz/uz/docs/-1770790.
+
+                                                                                                  11
+      Maʼlumki, Markaziy bankning “Oʻzbekiston Respublikasi Markaziy banki
+tomonidan banklar va ularning filiallarida inspeksiya (tekshirish) oʻtkazish tartibi
+toʻgʻrisida”gi (roʻyxat raqami: 2217, 14.04.2011y) Nizomga asosan Markaziy bank
+moliya-tizimi barqarorligini saqlab turish, omonatchilar, qarz oluvchilar va
+kreditorlarning manfaatlari himoya qilinishini taʼminlash, banklar faoliyatini
+tartibga solish hamda nazorat qilish borasidagi maqsad va vazifalarini amalga
+oshirish uchun banklar va ularning filiallarida inspeksiya (tekshiruv)lar oʻtkazishi
+belgilangan.
+      Bank nazorati va tahlilidan bosh maqsad bank faoliyati samaradorligini
+oshirishdan iborat. Respublikamizda Markaziy bankka bank tizimini boshqarish
+huquqi qonun asosida yuklatilgan. Markaziy bank tijorat banklarini boshqarish, bank
+faoliyatini tartibga solish maqsadida turli iqtisodiy nomativlar oʻrnatadi. Ushbu
+normativlar bank faoliyatini turli tomonlarini qamrab oladi.
+      Unda bank kapitaliga, aktivlariga beriladigan yirik kreditlar va investitsiyalarga
+hamda bankka aloqador shaxslar bilan amalga oshiriladigan operatsiyalarga
+cheklovlar oʻrnatilgan. Bu oʻrnatilgan normativlar banklar tomonidan bajarilishi va
+amal qilinishi Markaziy bank tomonidan doimiy ravishda nazorat qilib boriladi.
+      Ularning biri talabga javob bermaydigan boʻlsa, Markaziy bank tomonidan
+ushbu bank faoliyatini chegaralash boʻyicha qonun doirasida sanksiyalar qoʻllanishi
+mumkin.
+      Bank barqarorligini nazorat qilishda risk-indikatorlarni kuzatish asosida bank
+faoliyatini baholash muhim hisoblanadi.
+      Bugungi kunda xorijiy tajriba va xalqaro standartlarda riskka asoslangan
+nazorat samaraliroq ekanligi, unda doimiy monitoring amalga oshirilishi lozimligi,
+avtomatlashtirilgan risk indikatorlaridan foydalanish tavsiya etilmoqda.
+      Jumladan, Bazel (Basel Committee on Banking Supervision) tavsiyalariga
+koʻra, banklarda riskka asoslangan nazorat (risk-based supervision) va doimiy
+monitoring tizimi boʻlishi shartligi, Xalqaro audit tashkilotlari (International
+Organization of Supreme Audit Institutions) standartlari audit jarayonida risk-
+yoʻnaltirilgan yondashuvni talab qilishi, Yevropa markaziy banki (European Central
+Bank) AQR va SREP amaliyotida avtomatlashtirilgan risk-indikatorlardan
+foydalanishi, Moliyaviy hisobotlarning xalqaro stardartlari (International
+Accounting Standards Board) tomonidan chiqarilgan IFRS 9 kredit risklarini
+dinamik baholashni talab qiladi.
+      Zamonaviy nazoratda hisobotlar statik emas, balki dinamik risk monitoringni
+talab qiladi. Yaʼni, anʼanaviy tekshiruvlardan inson xatosi yuqori boʻladi. Agarda
+subyektiv baholash natijasida risklar kech aniqlanishi mumkin. Avtomatlashtirilgan
+risk-indikatorlar aniq mezonlarga asoslanadi. Natijada, inson omili va subyektiv
+yondashish kamayib, xolislik va shaffoflik oshadi.
+      Bugungi kunda anʼanaviy tekshiruvlar yilda 1-2-marta oʻtkaziladi. Tekshiruv
+natijalariga koʻra kamchiliklar kech aniqlanadi. Dinamik mexanizmda aniq vaqtdagi
+monitoring (Real-time monitoring) erta ogohlantiruvchi signallar (Early warning
+system), doimiy kuzatuv natijasida muammolar paydo boʻlishidan oldin aniqlanadi.
+
+12
+      Risk konsentratsiyasi va tizimli xavflarni kamaytirishda kredit portfel
+konsentratsiyasi, likvidlik uzilish xavfi, kredit risk oʻsishi, kapital yetarlilik darajasi
+pasayishi orqali kuzatib borish mumkin. Bunda, avtomatlashtirilgan tizim ushbu
+koʻrsatkichlar orqali signal beradi.
+      Banklarda risk appetitini (risk appetite) belgilashda asos boʻladigan omillarga
+bank biznes modeli, bank strategiyasi, bunda oʻsish surʼati maqsadli segment (kichik
+biznes, ipoteka, korporativ va boshqalar) geografik kengayishi agressiv oʻsish
+strategiyasi yuqoriroq risk appetitini talab qiladi.
+      Bank risk appetiti kapital buferi bilan mos boʻlishi kerak. Shuningdek, bankda
+muammoli kreditlar (NPL) risk appetitini cheklash zarurligini bildiradi.
+                                                                                  2-jadval
+                                                              4
+                           Bank risklarini nazorat qilish
+                                                             Belgilangan meʼyor       Past    Oʻrta    Yuqori
+    №                Koʻrsatkichlar nomi
+                                                            Hujjati   Koʻrsatkichi    risk    risk      risk
+                 Bufer (toʻgʻri proporsional)                                         5%       10%      15%
+    1    Kredit riski
+         Avtokreditning bank jami kredit portfelidagi
+    1                                                        3618      max 15%       15,8%    16,5%    17,3%
+         ulushining eng yuqori miqdori
+         Ipoteka kreditning bank jami kredit
+    2                                                        3618      max 15%       15,8%    16,5%    17,3%
+         portfelidagi ulushining eng yuqori miqdori
+    2    Konsentratsiya riski
+
+         Bir qarz oluvchi, oʻzaro aloqador qarz
+         oluvchilar guruhi uchun shaxslar uchun
+    1                                                        3283      max 25%       26,3%    27,5%    28,8%
+         tavakkalchilikning bank birinchi darajali
+         kapitaliga nisbatining eng koʻp miqdori
+
+         Bankka aloqador shaxslar uchun
+    2    tavakkalchilikning bank birinchi darajali           3283      max 25%       26,3%    27,5%    28,8%
+         kapitaliga nisbatining eng koʻp miqdori
+                 Bufer (teskari proporsional)                                         15%      10%      5%
+    3    Kapital yetarlilik riski
+
+    1    Kapitalning yetarlilik koeffitsiyenti               3697      min 13%       15,0%    14,3%    13,7%
+
+    2    1-darajali kapitalning yetarlilik koeffitsiyenti    3697      min 10%       11,5%    11,0%    10,5%
+
+    4    Likvidlilik riski
+         Likvidlilikni qoplash meʼyori
+    1                                                        2709      min 100%      115,0%   110,0%   105,0%
+         koeffitsiyentining chegara koʻrsatkichlari
+         Sof barqaror moliyalashtirish meʼyori
+    2                                                        2709      min 100%      115,0%   110,0%   105,0%
+         koeffitsiyentining chegara koʻrsatkichlari
+     Yuqoridagi taklif orqali, Markaziy bankda (regulyatorda) tekshiruvchilar
+sonini optimallashadi, qayta tekshiruvlar kamayadi, kamchiliklarni erta bartaraf
+etish orqali moliyaviy yoʻqotishlarni qisqartiradi, tijorat bankida esa dinamik risk
+monitoring natijasida kredit sifatini yaxshilanadi, NPL oʻsishini oldini olinadi,
+
+4
+    Muallif tomonidan ishlab chiqildi.
+
+                                                                                                          13
+bank kapitali himoya qilinadi, bu esa umumiy moliyaviy barqarorlikni
+mustahkamlaydi.
+     Misol uchun “Biznesni rivojlantirish banki” bank risk appetiti 10 ta koʻrsatkich
+boʻyicha oʻrnatilgan limitlar va amaldagi holatini tahlilini koʻrishimiz mumkin.
+     Avtokreditlar boʻyicha muammoli kreditlarni maksimal miqdori kredit
+portfelga nisbatan 9,2 foizni tashkil qilib, belgilangan limit (6 foiz) dan oshib ketgan.
+                                                                                3-jadval
+        “Biznesni rivojlantirish banki ” bank risk appetiti koʻrsatkichi
+                                           5
+                                                                                                        01.01.26
+                                                   Max/     Limit                              Yuqori
+  №               Koʻrsatikichlar                                     Past risk   Oʻrta risk            maʼlum
+                                                   min    chegarasi                             risk
+                                                                                                           ot
+  1     K-1                                        min      13%        >15%       13%-15%       <13%     17,7%
+  2     K-2                                        min      10%        >11%       10%-11%       <10%     12,9%
+  3     Kredit portfel oʻsishi                     max      35%        < 30%      35%-30%       >35%     8,9%
+        Balansdan tashqari h/vga
+  4     oʻtkazilgan kreditlarni (95413)            max      18%       < 16,2% 18%-16,2%         >18%    19,7%
+        kredit portfelga nisbati
+        Avtokreditlar boʻyicha muammoli
+  5     kreditlarni maksimal miqdori,              max       6%        < 5%        6%-5%        >6%      9,2%
+        portfelga nisbatan
+   6    LCR                                        min     < 105%     > 115% 105%-115%         < 105%   221,2%
+   7    NCFR                                       min     < 105%     > 115% 105%-115%         < 105%   228,6%
+   8    Valyuta pozitsiyasi                        max      >15%      < 13,2% 15%-13,2%         >15%     12,7%
+   9    Sof foizli marja                           min     < 3,5%      > 4%     3,5%-4%        < 3,5%    4,09%
+  10    Xodimlarni qoʻnimsizligi                   max      >10%        <8%     10%-8%          >10%     1,01%
+
+
+      Shu bilan birga, balansdan tashqari hisobvaraqlarga oʻtkazilgan kreditlarni
+(95413) kredit portfelga nisbatan 19,7 foizni tashkil qilib belgilangan 18 foizga
+nisbatan oshgan.
+      Bankda avtokreditlar boʻyicha muammoli qarzdorliklarni hamda, balansdan
+tashqari hisobvaraqlarga oʻtkazilgan kreditlar ulushi oshib ketganligi sababli tegishli
+choralar koʻrish lozim boʻladi.
+      Dissertatsiyaning “Riskka asoslangan bank nazoratini tashkil etishning
+amaldagi holati tahlili” deb nomlangan ikkinchi bobida riskka asoslangan bank
+nazoratini tashkil qilish masalalari, banklarda risklarni baholash va nazorat qilish
+usullari va riskka asoslangan bank nazoratining amaliy holati tahlili oʻrganilgan.
+      Banklar tomonidan berilgan kreditlarning oʻz vaqtida qaytarilmasligi,
+birinchidan, bank likvidligiga salbiy taʼsir koʻrsada, ikkinchi tomondan, bankning
+yoʻqotishlarni qoplash zaxiralarining koʻpayishiga va pirovardida bank
+xarajatlarining oshishiga olib keladi. Bank xarajatlarining oshishi, oʻz navbatida,
+bankning rentabelligi, rentabelligi va toʻlov qobiliyatiga salbiy taʼsir koʻrsatadi.
+      Baʼzi mamlakatlar “nazorat”ni kapitalning yetarliligi, likvidlik, katta risklar va
+boshqalar kabi ehtiyotkorona qoidalarning bajarilishi deb taʼriflashi mumkin. Biroq,
+nazorat bundan ham koʻproq. Chunki “Tartibga solish”ni qoidalarni qoʻllash va
+“nazorat”ni bankning risklarni boshqarish sifati samaradorligini nazorat qilish
+sifatida belgilash mumkin. Nazoratning ushbu ikkita taʼrifi oʻrtasidagi farq juda
+katta.
+
+
+5 “Biznesni rivojlantirish banki” risk appetiti.
+
+14
+     Birinchisi muvofiqlik yondashuvini, ikkinchisi esa riskka asoslangan
+yondashuvni oʻzida aks ettiradi. Riskga asoslangan nazorat (RAN), nomidan
+koʻrinib turibdiki, nazoratchilardan qoidalar bilan cheklanmasliklarini talab qilib, u
+barcha jiddiy risklar, prudensial meʼyorlar bilan tavsiflangan yoki
+tavsiflanmaganligidan qatʼi nazar, banklar tomonidan toʻgʻri aniqlanishi va
+boshqarilishini taʼminlash uchun nazorat organlarining vakolatlarini ushbu
+qoidalardan tashqariga kengaytiradi.
+     Nazorat yondashuvlari har bir mamlakatda ularning moliyaviy tizimining
+oʻziga xos xususiyatlariga qarab farqlanadi. Biroq, riskka asoslangan nazoratni
+asoslab beruvchi bir qancha tamoyillar mavjud va shuning uchun butun dunyo
+boʻylab nazorat organlari tomonidan rioya qilinishi kerak.
+     Ushbu tamoyillar quyida keltirilgan va global moliyaviy inqiroz taʼsirida
+yuzaga kelgan kamchiliklarga asoslanib, yaxshi nazorat nimadan iborat ekanligi
+haqidagi muhim prinsiplarga asoslanadi.
+                                                                            4-jadval
+                                                           6
+                               Nazorat qilish tamoyillari
+          Tamoyi
+    №                                                     Tartibi
+            llar
+     1    Intruziv Nazorat qiluvchilar banklar toʻgʻrisida chuqur va har tomonlama bilimga ega
+                   boʻlishlari, ular joylardagi tekshiruvlar va joylardan tashqari tahlillar natijasida
+                   olingan boʻlishi kerakligi
+     2    Skeptik, nazoratchilar yaxshi paytlarda “konsiklilik” boʻlishi kerak, yaʼni nazoratchilar
+          lekin    banklar uchun tanqidiy boʻlishi va hatto yaxshi paytlarda ham “normal” ni shubha
+          faol     ostiga qoʻyishi kerakligi
+     3    Keng     Nazorat qiluvchilar moliyaviy tizimni banklar uchun ham, butun tizim uchun ham
+          qamrovli yangi oʻzgarishlar va risklar uchun doimiy ravishda skanerlashi kerak. RAN
+                   tavakkalchiliklar turli manbalardan kelib chiqishi mumkinligini tan oladi va
+                   buning uchun keng nuqtayi nazardan qarash zarurligi
+     4    Moslash Bank sektori doimiy ravishda rivojlanib borayotgan va innovatsion sohadir.
+          uvchan Nazoratchilar doimiy oʻrganish rejimida boʻlishi kerak, shunda ular yangi
+                   mahsulotlar, bozorlar va xizmatlarga xos boʻlgan xavflarni tezda aniqlashlari va
+                   tegishli xavflarni kamaytirish choralarini koʻrishlari yoki muayyan ishlanmalarni
+                   toʻxtatishga chaqirishlari mumkin
+     5    Yakuniy Har qanday tizim eng zaif boʻgʻini kabi kuchli. Butun dunyo boʻylab nazoratchilar
+                   koʻpincha banklarning moliyaviy ahvoli toʻgʻrisida yetarli maʼlumotga va tahlilga
+                   ega emaslar, lekin koʻpincha ularda aniq, adekvat va/yoki oʻz vaqtida choralar
+                   koʻrilmaydi. Nazoratchilar chora koʻrish orqali tahlillarini kuzatib borishlari va
+                   “tahlil falajidan” qochishlari kerakligini koʻrsatadi
+
+      Nazorat jarayonini tasvirlashning turli usullari mavjud boʻlib, ular hisobot davri
+uchun nazorat ishlari (shu jumladan xavflarni aniqlash, baholash va kamaytirish)
+rejalashtirilgan, bajariladigan, koʻrib chiqiladigan va tuzatiladigan anʼanaviy
+“Rejalashtirish-bajarish-tekshirish-harakat qilish” sikliga oʻxshab koʻrinishi
+mumkin.
+
+
+
+6
+    Muallif ishlanmasi.
+
+                                                                                                   15
+                                                                        Risklarni
+                                                                        kamaytirish va
+                                                       Korib chiqish    risk profilini
+                                                       xavfni           kuzatib borish
+                                       Joyida/masofa   kamaytirish
+                                       dan nazoratni   boyicha
+                      Nazorat          amalga          kelishib olish
+                      ishlarini        oshirish risk
+                      rejalashtirish   profilini
+                                       yangilash
+
+
+    1-rasm. Banklarda risklarni “Rejalashtirish-bajarish-tekshirish-harakat
+                                       qilish” sikli7
+      Taʼkidlash kerakki, riskka asoslangan nazorat yondashuvidagi nazorat sikli
+dinamik va uzluksiz boʻlib, u joyida tekshirish bilan boshlanmaydi yoki tugamaydi.
+Joyda tekshirish nazoratchilarning nazorat maqsadlariga erishish vositalaridan faqat
+bittasi (muhim boʻlsa ham) va butun nazorat davrining faqat bir qismini tashkil etadi.
+      Nazorat qiluvchi organlar ham kichik banklar bilan ishlash strategiyasini ishlab
+chiqishi kerak. Chunki RAN mantigʻi shundan iboratki, bunday banklar individual
+ravishda yuqori taʼsirli banklarga qaraganda kamroq nazorat eʼtiboriga ega
+boʻladilar. Amalda ular koʻpincha kattaroqlarga ajratilgan resurslarning juda kichik
+qismini alohida jalb qiladilar.
+      Xalqaro bank nazoratida asosiy ikkita maqsadi mavjud boʻlib, kredit institutlari
+xususiy kapitali miqdori va sifatiga qoʻyiladigan talablarni ishlab chiqish va bank
+tavakkalchiliklarini boshqarish va nazorat qilish boʻyicha talablar va tavsiyalar ishlab
+chiqishdan iborat. Banklarni tartibga solish va nazorat qilish jarayoniga aktiv taʼsir
+qiluvchi – xalqaro standartlarni joriy qiluvchi muhim tashkilot bank nazorati boʻyicha
+Bazel qoʻmitasidir.
+      Dunyoda rivojlangan 20 talik mamlakatlar vakillari oʻrtasidagi yigʻilishlarda
+dunyoda roʻy bergan moliyaviy inqirozining kelib chiqish sabablari va uni oqibatlari,
+bartaraf etish yoʻllari ishlab chiqilgan. Oʻtgan yigʻilishlarda xalqaro moliya institutlari
+obroʻsini yanada oshirish koʻzda tutilgan. Jumladan, Xalqaro valyuta fondi, Xalqaro
+tiklanish va tarqqiyot banki hamda Bazel qoʻmitasini bank tizimini barqarorligini
+taʼminlashdagi talablarini qayta koʻrib chiqish taklifi maʼqullangan.
+      Bugungi kunda risk darajasi yuqori bo‘lgan banklarni aniqlashda prudensial
+me’yorlar hamda boshqa risk profilga mos ravishda bank tizimining o‘rtacha
+ko‘rsatkichlariga nisbatan ijobiy ±10 foiz chetlanishini ko‘rib chiqish mumkin.
+      Maʼlumki, xalqaro amaliyotda bank nazorati riskga asoslanadi. Bazel
+tomonidan ishlab chiqilgan Basel standartlarida nazorat organlari banklarning
+individual risk profili asosida monitoring olib borishi kerakligi belgilangan. EWS
+tizimi aynan shu yondashuvni amaliy mexanizmga aylantiradi.
+      Amalda koʻp hollarda muammo aktiv sifati yomonlashgandan keyin yoki
+likvidlik muammosi yuzaga kelgandan keyin aniqlanadi. Xalqaro valyuta jamgʻarma
+(International Monetary Fund) tadqiqotlariga koʻra, moliyaviy inqirozlarning asosiy
+sabablaridan biri – kechikkan nazorat reaksiyasidir.
+
+7
+    Muallif ishlanmasi.
+
+16
+     Individual EWS orqali, kredit portfelida defolt ehtimoli (PD) oshishi,
+konsentratsiya xavfi, likvidlik GEP tahlillari, kapital yetarliligi dinamikasi erta
+signal sifatida qayd etiladi.
+     Bunda barcha banklar uchun bir xil yondashuv samarasiz boʻlishi mumkin.
+Chunki har bir tijorat bankining biznes-modeli, mijoz segmenti, tarmoq yoʻnalishi,
+aktivlar strukturasi turlicha boʻladi. Shuning uchun universal indikatorlar oʻrniga
+individual risk profiliga mos signallar samaraliroq natija beradi.
+     Inspeksiya resurslaridan samarali foydalanish maqsadida nazorat organining
+resurslari cheklangan sababli, EWS asosida yuqori riskli banklar ustuvor
+tekshiriladi, past riskli banklarga kamroq tekshirish oʻtkaziladi.
+     Tekshiriladigan bankni tanlashda trend tahlili, stress-indikatorlar muhim
+hisoblanadi. Moliyaviy barqarorlikni taʼminlash obyektivlikni oshirish maqsadida
+inspeksiya obyektini tanlash subyektiv qaror emas, balki aniq indikatorlar orqali
+amalga oshiriladi.
+                                                                          5-jadval
+                   Erta ogohlantirish koʻrsatkichlari (signallari)
+                                                        8
+
+ №                                     Koʻrsatkichlar                                  Trigger
+       Kredit riski signallari
+       Umumiy kredit portfelida 60-90 kun oraligʻidagi muddati oʻtgan kreditlar
+  1                                                                                     >10%
+       summasining ulushi 10 foizdan oshishi;
+  2    Umumiy kredit portfelida muammoli kreditlar ulushi 10 foizdan oshishi;           >10%
+       Likvidlik riski boʻyicha erta ogohlantirish signallari
+       Banklardan olinishi mumkin boʻlgan kredit liniyalarining 25 foizdan ortiq
+  1                                                                                     <25%
+       qisqarishi;
+  2    Bank omonatlarining 25 foizdan ortiq qisqarishi;                                 >25%
+       Bozor riski boʻyicha erta ogohlantirish signallari
+       Milliy valyutaning AQSH dollariga nisbatan bir oy davomida 5% dan ortiq
+  1                                                                                    +/- 5%
+       oʻzgarishi
+       Banklararo depozit joylashtirish boʻyicha foiz stavkalarining bir oy davomida
+  2                                                                                    +/- 10%
+       10% dan ortiq oʻzgarishi (milliy)
+
+      Misol uchun, bir bankda 1 hafta ichida omonatlar 10%ga kamaydi yoki
+Markaziy bank vakillik hisobvaragʻidagi mablagʻlar 30%ga tushib ketdi. EWS
+tizimi shunday xabar beradi. Bu bankda likvidlik xavfi oshmoqda / tezkor tekshiruv
+kerak.
+      Agar bankning muammoli (NPL) kreditlari 1 oyda 4% dan 6% gacha oshib
+ketdi. EWS avtomatik ravishda sariq signal qoʻyadi. Kredit sifati buzilyapti – xavf
+yuqori. Markaziy bank shu bankni inspeksiyasini birinchi qoʻyadi.
+      Agar bank bir necha kun davomida. Valyuta aktivlar ulushini keskin oshirsa,
+valyuta kursining tebranishi yuqori boʻlsa. EWS avtomatik signal beradi. Valyuta
+riski kuchaydi tekshiruv tavsiya etiladi.
+      Bir bankning avtokreditlarining kredit portfeldagi ulushi (25 %) keskin oshib
+ketdi. EWS avtomatik ravishda signal beradi. Kredit konsentrasiya – xavf yuqori.
+Markaziy bank shu bankni kredit portfelini tekshirishni birinchi qoʻyadi.
+
+8 Muallif tomonidan ishlab chiqildi.
+
+                                                                                           17
+      Bu taklif natijasida Risklar erta aniqlanadi. Markaziy bank qayerga tezkor
+yetish kerakligini bilib turadi. Inspeksiyalar sifatli va maqsadli boʻladi Banklar
+barqarorligi oshadi. Tizimda “kech qolib chora koʻrish” xavfi yoʻqoladi.
+      Dissertatsiyaning “Riskka asoslangan bank nazoratini takomillashtirish
+yoʻllari” deb nomlangan uchinchi bobida xalqaro standartlar va talablarga muvofiq
+riskka asoslangan bank nazoratini takomillashtirishda xorijiy mamlakatlar tajribasi,
+riskka asoslangan bank nazoratini takomillashtirish orqali bank barqarorligini
+taʼminlash va riskka asoslangan bank nazorati samaradorligini baholash
+masalalariga toʻxtalib oʻtilgan.
+      Riskka asoslangan bank nazorati (Risk-Based Supervision, RBS) – bu bank
+nazorat organlari tomonidan banklarning umumiy xavf darajasiga qarab, resurslarni
+samarali taqsimlash va ustuvor nazorat yoʻnalishlarini belgilash strategiyasidir.
+      Bu strategiya toʻgʻrisidagi asosiy yondashuvlar Bazel qoʻmitasining bank
+faoliyatini samarali nazorat qilishning asosiy tamoyillari (2012)ning 19 prinsipida
+keltirilgan. Riskga asoslangan nazorat yondashuvi (Risk-Based Supervision)
+“Nazorat organlari oʻz nazorat faoliyatini bankning risk darajasi va profili asosida
+shakllantirishi, resurslarni ushbu risklarga qarab ustuvorlashtirishi lozim.”
+      Bunda asosiy holatlar quyidagilar hisoblanadi: Nazoratchi tashkilotlar oʻz
+nazorat strategiyasini bankning risk profili, institutsional strukturasi va muhitdagi
+xavf omillariga asosan shakllantiradi; Katta riskga ega banklar – koʻproq va
+chuqurroq nazoratga tortiladi; Nazorat dasturi statik emas, balki dinamik boʻlishi
+kerak – yaʼni bankdagi va bozordagi oʻzgarishlarga moslashishi lozim; RBS – bank
+ichki boshqaruv tizimini, risk madaniyatini va korporativ boshqaruvni baholashga
+katta urgʻu beradi.
+      Bu prinsiplar Oʻzbekiston Respublikasi Markaziy banki uchun ham asosiy
+strategik yoʻnalish sifatida xizmat qiladi.
+      Shuningdek, Bazel yoʻriqnomalarida Riskka asoslangan bank nazorati (RABN)
+tizimini takomillashtirishda xalqaro moliyaviy standartlar, xususan, Bazel qoʻmitasi
+tomonidan ishlab chiqilgan prudensial meʼyorlar muhim oʻrin tutadi.
+      Bazel yoʻriqnomalari – bu bank tizimidagi risklarni aniqlash, baholash va
+samarali boshqarishga qaratilgan xalqaro mezonlar toʻplamidir. Ushbu
+yoʻriqnomalar toʻrt bosqichda shakllangan: Bazel I (1988), Bazel II (2004), Bazel
+III (2010), Bazel IV (2017–2022).
+      Bazel II – Uch ustunli yondashuv. 2004-yilda qabul qilingan Bazel II
+yoʻriqnomasi riskka asoslangan nazoratga yangicha tizimli yondashuvni joriy etdi.
+Bu yoʻriqnoma uch ustunga asoslangan: 1. Kapitalning minimal talablari: kredit,
+bozor va operatsion risklarni qamrab olgan. 2. Nazorat organining koʻrib chiqish
+jarayoni: bank ichki risklarini baholash, stress testlar oʻtkazish. 3. Bozor intizomi:
+axborot oshkoraligini taʼminlash, foydalanuvchilar uchun toʻliq maʼlumotlarni
+taqdim etishdir.
+      Bazel III – Moliyaviy barqarorlik va likvidlik. 2008-yil global moliyaviy
+inqirozidan soʻng Bazel qoʻmitasi bank tizimining zaifliklarini bartaraf etish
+maqsadida Bazel III yoʻriqnomasini ishlab chiqdi. Unda nafaqat kapital, balki
+likvidlik risklari va leveraj (moliyaviy tayanch) hisobga olindi. Asosiy yangiliklar:
+
+18
+      CET1 (Common Equity Tiyer 1) darajasini oshirish: yuqori sifatli kapital
+talablari. LCR (Liquidity Coverage Ratio) va NSFR (Net Stable Funding Ratio) kabi
+likvidlik indikatorlari joriy etildi. Protsiklik rezervlar va “systemically important
+banks” (SIVs) uchun kapital buferlaridir.
+      Bazel IV – Standardizatsiyalashgan yondashuvlarni kuchaytirish. Bazel 4 deya
+atalayotgan soʻnggi islohotlar turkumi 2017-yilda eʼlon qilingan va 2023 – yildan
+toʻliq kuchga kirmoqda. Bu bosqichda, asosan, risklarni baholash usullarini yanada
+puxta va standartlashtirilgan qilish, ichki modellarga haddan tashqari suyanishning
+oldini olish maqsad qilingan.
+      Bazel IV yangiliklari: Kredit risklarini hisoblashda standart yondashuvlar
+afzallikka ega boʻladi. IRB (Internal Ratings-Based) modellarining cheklangan
+qoʻllanilishi. “Output floor” joriy etiladi – ichki modellar orqali hisoblangan kapital
+minimal standartning 72,5% dan kam boʻlmasligi kerak.
+      Oʻzbekiston bank tizimiga tatbiq qilish imkoniyatlarini koʻradigan boʻlsak.
+Oʻzbekiston bank sektorida riskka asoslangan nazorat tizimi bosqichma-bosqich
+rivojlanmoqda. Ayni paytda, Markaziy bank Bazel II tamoyillarini joriy etish
+boʻyicha huquqiy asoslarni yaratmoqda. Biroq, Bazel 3 va 4 boʻyicha toʻliq
+moslashuv hali boshlangʻich bosqichda.
+      Takomillashtirish yoʻnalishlari: Kapital yetarliligi bahosini kredit riskidan
+tashqari boshqa risklar boʻyicha ham joriy qilish; Ichki stress-test tizimlarini
+rivojlantirish; LCR va NSFR hisob-kitoblarini barcha tijorat banklarida talab sifatida
+joriy qilish; Ichki audit va risk-menejment tizimlarini xalqaro standartlarga
+muvofiqlashtirish lozim.
+      Bazel II ning ikkinchi ustunida riskka asoslangan nazorat strategiyasi
+quyidagicha taʼriflanadi: “Nazoratchilar banklar oʻzlarining kapital ehtiyojlarini oʻz
+risklariga nisbatan qanchalik toʻgʻri baholashlarini baholashlari va kerak boʻlganda
+aralashishlari kerak.”
+      Bunda asosiy yoʻnalishlar: Riskka asoslangan nazorat – bankning ichki
+kapitalini risklarga mosligini nazoratchi baholashi shart; Nazorat organlari bankning
+risk menejment tizimini tekshirishi, zarur boʻlsa, kapital talablarini oshirishi
+mumkin; Banklarning ichki nazorat tizimi, stress-testlari va risk baholash modellari
+tekshiruv doirasiga kiradi; SRP – passiv (koʻzlovchi) nazorat emas, balki proaktiv
+(faol taʼsir qiluvchi) yondashuvni talab qiladi.
+      Rivojlangan mamlakatlarning riskka asoslangan nazorat amaliyoti tahlil
+qilingan. Quyida baʼzi xulosalar keltirilgan: RBS strategiyasi asosan 4 bosqichda
+amalga oshiriladi: 1. Bank profili va risklar identifikatsiyasi. 2. Risklarni baholash
+va reytinglash (risk scoring). 3. Nazorat strategiyasi ishlab chiqish (supervisory
+plan). 4. Monitoring va chora-tadbirlar (intervensiya)
+      Unga koʻra nazoratchilar resurslarini yuqori xavfli sektorlarga yoʻnaltiradi,
+barcha banklarga bir xil yondashuv emas, balki individual va riskka moslashtirilgan
+boʻlishi kerak.
+      08. Bank profili va risklar identifikatsiyasi
+      Bu RANning boshlangʻich va eng muhim bosqichi hisoblanadi. Bu bosqichda
+nazoratchi organ har bir bankni individual tahlil qilib, uning tuzilmaviy
+                                                                                    19
+xususiyatlari, ish uslubi, strategik maqsadlari, va bozordagi roli asosida umumiy
+“profil”ini shakllantiradi.
+      Bu yerda asosiy qamrab olinadigan omillar quyidagilardir: Bankning oʻlchami
+(aktivlar hajmi, filiallar soni, bozor ulushi). Tijorat modeli (universal, chakana,
+korporativ, investitsion). Faoliyat sohalari (MSB, yirik biznes, chakana, xalqaro
+operatsiyalar). Ichki boshqaruv strukturasi, tizimiy ahamiyatga ega yoki yoʻqligi
+hisoblanadi.
+      Bankdagi asosiy risklar quyidagilardir boʻlib, kredit riski, likvidlik riski, bozor
+riski, operatsion riski, tashqi xavflar (kiber xavflar, regulyativ oʻzgarishlar). Natijada
+bank profili (risk mapping ) orqali har bir bank uchun (risk exposure) risk xaritasi
+shakllanadi. Bu keyingi bosqichlarda nazoratni maqsadli tashkil etishga asos boʻladi.
+      2. Risklarni baholash va reytinglash (risk scoring)
+      Bu bosqichda har bir aniqlangan risk kategoriyasi boʻyicha bank qanday
+darajada taʼsirda qolmoqda, deb baholanadi. Bu baholash subyektiv (ekspert bahosi)
+va obyektiv (metrikalar asosida) usullar bilan amalga oshiriladi.
+      Bunda asosiy koʻrsatkichlar quyidagilar hisoblanadi: Kredit portfelidagi
+konsentratsiya darajasi, kechikishlar, NPL. Kapitalning yetarliligi (CAR, Tiyer-1),
+buferlar. Likvidlik koʻrsatkichlari: LCR, NSFR. Operatsion tavakkalchiliklar
+boʻyicha aniqlangan holatlar soni. Ichki audit, risk menejment va komplayens
+tizimlari samaradorligi. Sistemaviy muhimlikdir.
+      Natijalarni reytinglashda har bir riskga oʻrtacha, yuqori yoki past darajadagi
+tahdid belgilab chiqiladi. Jahon amaliyotida ABC yoki raqamli shkala (1–5)
+ishlatiladi.
+      3. Nazorat strategiyasi ishlab chiqish (supervisory plan)
+      Bu bosqichda nazoratchi organ yuqori baholangan risklarga mos ravishda
+maqsadli va resursni tejaydigan nazorat dasturini shakllantiradi. Bu bir xil shablon
+emas, balki har bir bank uchun individual nazorat rejasidir.
+      Nazorat strategiyasi tarkibi quyidagicha:
+      08. Yillik nazorat dasturi (annual supervisory program)
+      Inspeksiyalar soni va mavzulari. Distansion monitoring parametrlari. Axborot
+taqdim etish grafigi
+      2. Maqsadli tekshiruvlar (thematic inspections)
+      Masalan, faqat likvidlik risklariga oid
+      3. Bank rahbariyati bilan muloqot grafigi
+      Nazoratni sikl asosida (supervisory cycle) tashkil qilish – yaʼni baholash,
+tekshirish, fikr berish, intervensiya orqali.
+      4. Intervensiya uchun indikatorlar:
+      ICAAP (Internal Capital Adequacy Assessment Process) hisobotlari. Stress-
+test natijalari. Risk ichidagi ifodalangan anomaliyalardir.
+      5. Monitoring va chora-tadbirlar (intervention).
+      Bu RABNning doimiy va dinamik fazasi hisoblanadi. Bunda nazorat organi
+aniqlangan xavflar oʻzgarib borayotganini real vaqtda kuzatib, zarur hollarda
+proaktiv intervensiya amalga oshiradi.
+
+20
+                                                                     6-jadval
+         Yuqoridagilardan kelib chiqib, quyidagicha xulosa qilish mumkin.
+
+       Bosqich                       Mazmun                             Asosiy natija
+ 1. Bank profili va risklar Bankning        faoliyati      va       Xavfga taʼsir qilish
+ identifikatsiyasi          tavakkalchilik          xaritasini      profili
+                            shakllantirish
+ 2. Risklarni baholash va Har bir riskni darajalab baholash         Xavf reytingi/ball
+ reytinglash
+ 3. Nazorat strategiyasi Individual        nazorat    rejasini      Nazorat rejasi
+ ishlab chiqish             belgilash
+
+ 4. Monitoring va chora- Nazoratni      davom             ettirish, Doimiy nazorat va
+ tadbirlar               intervensiya qilish                        korrektirlovchi taʼsir
+
+
+     Riskka asoslangan yondashuv hujjati aynan nimani oʻz ichiga olishini koʻrib
+chiqadigan boʻlsak. Quyida qisqacha keltirib oʻtilgan.
+     Bankning profil risklarini baholash uslubi (kredit, bozor, operatsion, likvidlik,
+IT/kiber, iqlim va boshqalar). 2. Risk darajasi mezonlari (low/medium/high) va
+kuchaytirilgan nazorat uchun triggerlar. 3. SREP/reviyew protseduralari (jumladan,
+stress-testlar, ichki boshqaruv tekshiruvi va kapital/likvidlik). 4. Nazorat resurslarini
+taqsimlash qoidalari – koʻproq xavfli obyektlarga eʼtibor qaratish. 5. Monitoring,
+hisobot va sanksiya/tuzatish choralari hisoblanadi.
+                                                                                7-jadval
+                   Bazelda RAN strategiyasi quyidagicha taʼriflanadi
+
+      Element                                        Taʼrifi
+
+ Maqsad                 Bankning risk darajasini baholab, nazorat resurslarini samarali
+                        taqsimlash
+ Tayanch nuqtalar       Risk profili, institutsional struktura, bozor sharoiti
+ Asosiy yoʻnalishlar Ichki boshqaruv, stress-test, risk baholash, kapital mosligi
+ Nazorat uslubi         Proaktiv, differensial, monitoringga asoslangan
+ Huquqiy asos           Bazel (19-prinsip), Bazel II – Pillar 2, BCBS SRP hujjatlari
+      Banklarni tekshirish natijalarini monitoring qilib borish dolzarb masala
+hisoblanadi. Masalan tekshirishda aniqlangan kamchiliklar bajarilishini samarali
+monitoring qilish maqsadida ularning bajarilish darajasini “yashil”, “sariq” va
+“qizil” reytinglar asosida baholash mumkin.
+      Nazorat natijalarining ijrosini taʼminlash zarurati amaliyotda tekshiruv
+natijalari boʻyicha koʻrsatmalar beriladi, lekin ularning oʻz vaqtida va toʻliq
+bajarilishi ustidan nazorat doim ham tizimli emas.
+
+                                                                                      21
+     Inspeksiyadan keyingi kuchaytirilgan monitoring natijasida “yashil”, “sariq” va
+“qizil” reytinglar bilan baholash mexanizmlarini joriy etish bu nazoratni “bir
+martalik tekshiruv”dan “uzluksiz kuzatuv” formatiga oʻtkazadi.
+     Bunda “yashil–sariq–qizil” reytinglar asosida past risk – standart monitoring,
+oʻrta risk – kuchaytirilgan nazorat, yuqori risk – doimiy va chuqur monitoring
+mexanizmini yaratadi.
+     Reyting tizimi bank rahbariyati uchun aniq signal boʻlib xizmat qiladi. “Qizil”
+reytingda kapitalga qoʻshimcha talab, dividend cheklovlari, operatsiyaviy
+cheklovlar kabi choralarni qoʻllashga asos boʻlishi mumkin. Bu intizomiy taʼsir
+mexanizmlarini kuchaytiradi.
+     “Sariq” reyting – potensial xatar signali. Muammo “qizil” darajaga yetmasdan
+chora koʻrish imkoni yaratiladi. Bu tizim moliyaviy barqarorlikni saqlashga xizmat
+qiladi. Xalqaro amaliyotga koʻp davlatlarda supervisory rating framework
+qoʻllaniladi (masalan CAMELS tizimi). Federal Reserve System va boshqa
+regulyatorlar banklarni reyting asosida nazorat qiladi. Bu amaliyot milliy nazorat
+tizimini xalqaro standartlarga yaqinlashtiradi.
+     “Yashil” reytingli banklarga kamroq inspeksiya resursi sarflanadi. “Qizil”
+reytingli banklar ustuvor tekshiriladi. Bu nazorat organi samaradorligini oshiradi.
+Ochiq reyting tizimi banklarni ichki nazoratni kuchaytirishga, risk-menejmentni
+takomillashtirishga, komplayensni yaxshilashga undaydi.
+                                                                           8-jadval
+                                                                       9
+                   Inspeksiyadan keyingi kuchaytirilgan monitoring
+
+                      Yashil                  Sariq                      Qizil
+
+
+
+                                                                   Xavf yuqori jiddiy
+               Xavf past tavsiyalar      Xavf orta ayrim
+                                                                      tavsiyalar
+                   bajarilgan            kamchiliklar bor
+                                                                     bajarilmagan
+
+
+                  Kamchiliklar           Kamchiliklar bor             Ichki nazorat
+                 bartaraf etilgan        lekin jiddiy emas            ishlamayapti
+
+
+                Ichki audit tizimi          Bartataf etish             Hisobotlar
+                 yaxshilab qoydi         jarayoni kelmoqda          soxtalashtirilgan
+
+
+    Baholash toifasiga qarab, yashil-minimal risk, sariq-oʻrta xavfli risk, qizil-
+yuqori risk hisoblanadi. Toifalarga qarab choralar koʻrilishi mumkin.
+    Qizil – qoʻshimcha inspeksiya sanksiyalar boshqaruv tarkibiga ogohlantirish
+choralari qoʻllaniladi.
+    Sariq – bu bankka 3 oy muddat beriladi bajarmasa qizilga tushadi.
+    Yashil – bu bankda qoʻshimcha tekshiruvlar kam boʻladi.
+
+
+9
+    Muallif tomonidan ishlab chiqildi.
+
+22
+     Bu taklif Markaziy bankka inspeksiya tugaganidan keyin ham banklarni real
+vaqt kuzatib borish imkonini beradi. Banklar esa yashil, sariq, qizil reytinglar
+asosida baholanib, xavf darajasi aniq koʻrinib turadi va intizom sezilarli darajada
+oshadi.
+     Bundan tashqari, bank tizimini risklardan ogohlantirish va barqarorligini
+ta’minlash maqsadida tekshirishda aniqlangan kamchiliklarni “case” (misol)
+ko‘rinishida tayyorlab, barcha tijorat banklariga tarqatilsa ayrim risklarni oldi
+olinardi.
+     Tekshirish natijasida bir bankda aniqlangan xato butun tizim uchun saboq
+boʻlishi mumkin. Chunki kamchiliklar faqat oʻsha bank doirasida qolsa, boshqa
+banklar oʻsha xatoni takrorlash ehtimoli yuqori boʻladi.
+     Misol uchun, umumlashtirilgan “case”lar, amaliyotdagi real xatar
+ssenariylarini koʻrsatadi, normativ talablarni qoʻllashdagi xatolarni ochib beradi,
+ichki nazorat tizimini kuchaytirishga yordam beradi.
+     Nazorat faqat jazolash emas, profilaktika funksiyasini ham bajarishi lozim
+boʻladi. Anonim case-tahlillar natijasida risklarni erta aniqlash, ichki audit va
+komplayens funksiyasini faollashtirish, ichki siyosatlarni qayta koʻrib chiqishga
+turtki beradi. Bu profilaktik taʼsirni kuchaytiradi.
+     “Bank siri toʻgʻrisida”gi qonun talablariga muvofiq, bank mijozlari va
+operatsiyalari haqidagi maʼlumotlar maxfiy hisoblanadi. Taklif etilayotgan
+mexanizmda bank nomi koʻrsatilmaydi, mijoz identifikatsiyasi ochilmaydi, faqat
+xato turi va risk ssenariysi bayon qilinadi. Bu shaffoflik va maxfiylik oʻrtasidagi
+balansni taʼminlaydi.
+     Ushbu amaliyot Bazel va koʻplab regulyatorlar tomonidan ham qoʻllanilgan
+ular tomonidan umumiy shaklida umumlashtirilgan xulosalarni eʼlon qiladi. Bu
+amaliyot, bozor intizomini kuchaytiradi, tarmoq boʻyicha umumiy risk
+tendensiyalarini koʻrsatadi.
+     Tekshirish natijalari faqat akt yoki jarima qoʻllash emas, balki tahliliy
+materialga aylanadi. Bunda tizimli kamchiliklar yaʼni korporativ boshqaruvda,
+kredit anderraytingda, risk-menejmentdagi kamchiliklar aniq koʻrinadi.
+     Keys tahlillari amaldagi normativ hujjatlardagi boʻshliqlarni, talqin
+muammolarini koʻrsatib beradi. Bu regulyatorga normativ bazani
+takomillashtirish imkonini beradi.
+     Masalan, Markaziy bank inspeksiyasi banklarda tekshiruv oʻtkazganda turli
+kamchiliklar topadi. Lekin bu kamchiliklar koʻpincha faqat oʻsha bankning oʻziga
+aytiladi, boshqa banklar esa bu xatolarni bilmaydi, shuning uchun oʻsha xatolarni
+takrorlayveradi.
+     Bu orqali banklar bir-birining xatosidan oʻrganadi, xatolar umumiy tartibda
+kamayadi.
+     Misol: Kredit riskini notoʻgʻri baholash (Case)
+     Inspeksiyada aniqlangan holat quyidagicha, bir bankda yirik korporativ
+kredit berishda mijozning real moliyaviy hisobotlari tekshirilmagan. Naqd pul
+oqimlari koʻpaytirib koʻrsatilgan. Taʼminot qiymati qayta baholanmagan.
+     Markaziy bank “Case” koʻrinishida barcha banklarga yuboriladi:
+                                                                                23
+     “Bir tijorat bankida kredit riskini baholash jarayonida hisobot
+soxtalashtirilgani aniqlangan. Kredit komissiyasi dastlabki tekshiruvsiz
+tasdiqlagan. Shu sabab kredit toʻlovlari 6 oyda muammoli kreditga aylangan”.
+     Natijada, barcha banklar shunday xatoni takrorlamaslik uchun ichki
+tekshiruvni kuchaytiradi. Bu amaliyotning natijasida banklar boshqalarning
+xatosidan oʻrganadi. Yaʼni “bizning bankda muammo yoʻq” degan yolgʻon
+tasavvur yoʻqoladi.
+     Har bir bankda korporativ madaniyat va kompiayens madaniyati oshadi.
+Bank sirlari saqlanadi, lekin xatolar umumiy oʻrgatuvchi materialga aylanadi. Bu
+bank tizimining barqarorligini oshiradi.
+     Riskka asoslangan bank nazorati samaradorligini iqtisodiy jihatdan
+baholashda, tadqiqotning asosiy maqsadi Oʻzbekiston Respublikasi tijorat
+banklari misolida riskka asoslangan bank nazoratining iqtisodiy samaradorligini
+baholash va uning bank aktivlari sifati hamda moliyaviy barqarorlikka taʼsirini
+empirik baholashdan iborat.
+                                                                        9-jadval
+       Muammoli kreditlar (NPL) oʻsishiga taʼsir koʻrsatuvchi omillar tahlili10
+          Oʻzgaruvchilar                        (1)                 (2)         (3)         (4)
+  Bank risk darajasi indeksi
+  (RBSI)                                       8.473              9.861*        8.090      9.487*
+                                              (5.913)            (5.331)       (6.229)     (5.574)
+  ROA                                          0.088               0.090        0.078       0.069
+                                              (0.092)            (0.098)       (0.092)     (0.095)
+  CAR                                         0.392*              0.360*       0.397*      0.363*
+                                              (0.210)            (0.207)       (0.207)     (0.196)
+  ∆ ln(Kreditlar oʻsishi)                   -4.273***           -2.658**     -4.455***   -2.552***
+                                              (1.346)            (1.035)       (1.280)     (0.943)
+  ∆ Sof foyda                                  0.000               0.000        0.000       0.000
+                                              (0.000)            (0.000)       (0.000)     (0.000)
+  ∆ ln(Kapital oʻsishi)                       -0.012              -0.015       -0.003       0.001
+                                              (0.079)            (0.076)       (0.081)     (0.079)
+  ∆ ln(Daromad oʻsishi)                       -0.012              -0.313        0.087      -0.198
+                                              (0.240)            (0.314)       (0.204)     (0.260)
+  Real YAIM oʻsishi (y/y)                                        1.040**                  1.348**
+                                                                 (0.411)                   (0.546)
+  Inflyatsiya (y/y)                                                            0.224       0.459*
+                                                                              (0.170)      (0.244)
+
+  Model statistikalari
+  Kuzatuvlar soni                               198                198          198         198
+  Banklar soni                                  18                  18           18          18
+  Davrlar soni                                  11                  11           11          11
+  R-kvadrat                                    0.676              0.699        0.68        0.715
+  Tuzatilgan R-kvadrat                         0.631              0.656        0.634       0.672
+
+Izoh: Erksiz oʻzgaruvchi – Muammoli kreditlar ulushi (NPL). Barcha modellarda bankning oʻzgarmas
+taʼsirlari kiritilgan.
+Ahamiyatlilik darajasi: *** p<0.01, ** p<0.05, * p<0.1
+
+10 Muammoli kreditlar (NPL) oʻsishiga taʼsir koʻrsatuvchi omillar tahlili.
+
+24
+      Ushbu tadqiqot banklarning panel oʻzgarmas taʼsirlari (Panel Fixed Effects)
+modeli asosida banklar kesimida muammoli kreditlarga (NPL) taʼsir etuvchi omillar
+baholandi. Mazkur yondashuv har bir bankning vaqt davomida oʻzgarmaydigan
+xususiyatlarini (institutsional muhit, xatar madaniyati, kredit siyosatining oʻziga xos
+jihatlari va boshqalar) nazorat qilish imkonini beradi.
+      Standart xatolar banklar kesimida klasterlangan. Barcha modellarda 18 ta bank
+boʻyicha 2023-yilning birinchi choragidan 2025-yilning toʻrtinchi choragigacha
+boʻlgan davrni qamrab olgan boʻlib, jami 198 ta kuzatuvlardan iborat.
+      Baholangan toʻrtta modelning natijalari oʻzaro taqqoslandi. Bunda, 2 – 4
+modellarda makroiqtisodiy omillar (real YAIM oʻsishi va inflyatsiya) qoʻshimcha
+nazorat sifatida kiritildi. Modellarning izohlash darajasi (Tuzatilgan R-kvadrat)
+0,63 – 0,67 foiz oraligʻida boʻlib, bu muammoli kreditlar dinamikasini
+tushuntirishda tanlangan omillar muhim ahamiyatga ega ekanini koʻrsatadi.
+      Bank risk darajasi indeksi (RBSI). Model natijalariga koʻra, RBSI indeksi va
+muammoli kreditlar (NPL) oʻrtasida ijobiy bogʻliqlik kuzatilgan. Modellarda RBSI
+koeffitsiyenti musbat belgiga ega boʻlib, ayrim modellarda statistik ahamiyatli
+hisoblanadi. Bu bankda xatar darajasi oshgan holatlarda muammoli kreditlar ulushi
+ham ortishini anglatadi.
+      Ushbu indeks qiymatining oshishi moliyaviy bosim kuchayishini anglatsa,
+bunday sharoitda kredit portfeli sifati yomonlashib, muammoli kreditlar ulushi
+ortishi yuz beradi.
+      Kreditlar oʻsishi. Barcha modellarda kreditlar oʻsishi koeffitsiyenti manfiy va
+statistik jihatdan ahamiyatli topildi. Bu natija kredit portfeli tez oʻsgan davrlarda
+muammoli kreditlar ulushi pasayishini anglatadi.
+      Ushbu holatni iqtisodiy jihatdan quyidagicha izohlash mumkin. Birinchidan,
+“maxraj effekti” – jami kreditlar hajmi oshganda muammoli kreditlar ulushi statistik
+jihatdan kamayishi mumkin. Ikkinchidan, portfel yangilanishi sharoitida yangi
+berilgan kreditlar sifatli boʻlsa, umumiy portfel tarkibi yaxshilanadi.
+      Model baholariga koʻra, kreditlar 10 foizga oshganda, muammoli kreditlar
+koʻrsatkichi taxminan 0,25-0,45 birlikka kamayishi mumkin. Bu kreditlar oʻsishi
+muammoli kreditlar dinamikasining eng kuchli omili sifatida namoyon boʻlmoqda.
+Shu bilan birga, yuqori darajadagi kreditlash uzoq muddatda teskari natija berishi va
+muammoli kreditlarning sezilarli darajada oshishiga olib kelishi mumkin.
+      Kapital yetarliligi (CAR). Barcha modellarda CAR koeffitsiyenti ijobiy va 10
+foiz darajada ahamiyatli baholandi. Yaʼni kapital yetarliligi oshgan davrlarda
+muammoli kreditlar ulushi ham oshishi kuzatilgan.
+                                      XULOSA
+     O‘zbekiston Respublikasi Prezidentining PF–5992-son Farmoniga muvofiq
+bank tizimini isloh qilish jarayonida bank nazoratini xalqaro standartlar asosida
+takomillashtirish muhim yo‘nalishlardan biri hisoblanadi. Shu bois bank nazorati
+tizimini riskka asoslangan yondashuv asosida rivojlantirish zarur.
+     Xorijiy mamlakatlar tajribasi shuni ko‘rsatadiki, Yevropa mamlakatlarida bank
+nazorati asosan masofaviy (distansion) nazorat orqali amalga oshirilsa, AQSHda
+joyiga chiqib inspeksiya qilish (CAMELS) tizimi ustun hisoblanadi. O‘zbekiston
+
+                                                                                    25
+bank tizimida ushbu ikki usulni uyg‘unlashtirgan aralash nazorat modeli
+qo‘llanilishi nazorat samaradorligini oshirishga xizmat qiladi.
+      Bank nazoratining samaradorligini oshirish maqsadida tekshiruv jarayonlarini
+dinamik baholash hamda risk indikatorlari asosida real vaqt rejimida monitoringni
+ta’minlovchi kompleks avtomatlashtirilgan nazorat mexanizmini joriy etish
+maqsadga muvofiq.
+      Tijorat banklarining individual risk profiliga mos erta ogohlantirish signallari
+(EWS) tizimini joriy etish orqali riskga moyil obyektlarni erta aniqlash va inspeksiya
+obyektlarini tanlash mexanizmini takomillashtirish zarur.
+      Inspeksiya natijalari asosida berilgan Markaziy bank talab va tavsiyalarining
+bajarilishini nazorat qilishni kuchaytirish hamda ularning ijrosini “yashil”, “sariq”
+va “qizil” reytinglar asosida baholash tizimini joriy etish nazorat samaradorligini
+oshirishga xizmat qiladi.
+      Inspeksiya davomida aniqlangan jiddiy xato va kamchiliklarni bank yoki shaxs
+nomini ko‘rsatmasdan umumlashtirilgan “case” (misol) shaklida barcha tijorat
+banklariga tarqatish amaliyotini joriy etish bank tizimida risklar bo‘yicha
+xabardorlikni oshiradi va takroriy xatolarning oldini olishga yordam beradi.
+      Banklarni masofadan nazorat qilish hamda joyiga chiqib o‘tkazilgan inspeksiya
+natijalari asosida ularni risk darajasi bo‘yicha toifalarga ajratish va differensial
+nazorat choralarini qo‘llash tizimini joriy etish nazorat resurslaridan samarali
+foydalanishga imkon beradi.
+      Markaziy bank nazorat bo‘linmalari xodimlarining malakasini xalqaro
+standartlar asosida oshirish, shuningdek xalqaro moliya institutlari bilan tajriba
+almashish dasturlarini kengaytirish bank nazoratining sifatini oshirishda muhim
+ahamiyatga ega.
+      Bank nazorati jarayonlarida ortiqcha byurokratik tartib-taomillarni qisqartirish
+hamda tekshiruv intervallarini banklarning risk profilidan kelib chiqib differensial
+yondashuv asosida belgilash nazorat tizimini soddalashtirish va samaradorligini
+oshirishga xizmat qiladi.
+      Bank tizimida moliyaviy barqarorlikni mustahkamlash maqsadida Basel II/III,
+COSO va IFRS standartlari talablarini uyg‘unlashtiruvchi integral nazorat modelini
+joriy etish zarur.
+      Banklar faoliyatida yo‘l qo‘yilayotgan qonunbuzarliklar uchun javobgarlik
+mexanizmlarini kuchaytirish, xususan moliyaviy jarimalar, penyalar va boshqa
+sanksiyalarni takomillashtirish nazorat tizimining ta’sirchanligini oshiradi.
+      Banklar tomonidan noto‘g‘ri yoki yolg‘on ma’lumot taqdim etish holatlarining
+oldini olish maqsadida bank rahbariyati va mas’ul shaxslarning shaxsiy
+javobgarligini kuchaytirish bank tizimida shaffoflikni oshirish va moliyaviy
+barqarorlikni ta’minlashga xizmat qiladi.
+
+
+
+
+26
+       НАУЧНЫЙ СОВЕТ DSc.03/2025.27.12.I.30.01
+    ПО ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+  ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+ТАШКЕНТСКИЙ ГОСУДАРСТВЕННЫЙ ЭКОНОМИЧЕСКИЙ
+                УНИВЕРСИТЕТ
+
+
+
+
+     ЖУМАНАЗАРОВ МУЗАФФАР ЖУМАНАЗАР УГЛИ
+
+
+
+   СОВЕРШЕНСТВОВАНИЕ БАНКОВСКОГО НАДЗОРА
+           ОСНОВАННОГО НА РИСКАХ
+
+
+
+         08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                         АВТОРЕФЕРАТ
+   диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                     город Ташкент – 2026 год
+
+
+
+                                                                 27
+28
+    ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+     Актуальность и востребованность темы диссертации. Вопрос
+совершенствования риск-ориентированного банковского надзора в процессе
+обеспечения стабильности финансовой системы в мире признается одним из
+актуальных научно-практических направлений. В связи с ростом волатильности
+(колебаний) глобальных финансовых рынков в последние годы, исследования,
+проведенные международными надзорными институтами, показывают, что
+около 90% центральных банков пересмотрели свою надзорную деятельность на
+основе риск-ориентированного подхода. Согласно статистике Базельского
+комитета, в странах, внедривших этот подход, качество банковских активов
+улучшилось в среднем на 15-20 процентов. А ускорение цифровой
+трансформации порождает новые формы операционных и киберрисков,
+побуждая контролирующие органы применять углубленный аналитический
+мониторинг на основе сложных индикаторов рисков. Кроме того, тот факт, что
+доля кредитного риска в общем портфеле рисков развивающихся экономик
+превышает 60 процентов, усиливает необходимость дальнейшей оптимизации
+механизмов системного контроля. В условиях обострения межбанковской
+конкуренции, изменчивости условий ликвидности и динамики процентных
+ставок совершенствование риск-ориентированного контроля проявляется как
+ключевой фактор национальной и глобальной финансовой стабильности.
+     В мире в условиях цифровизации финансовой системы, активизации
+трансграничных движений капитала и усложнения банковских операций вопрос
+эффективного управления рисками и их контроля приобретает все более
+актуальное значение. В современной банковской практике риски отличаются не
+только масштабом, но и взаимосвязью и быстротой распространения. Это
+обуславливает необходимость перехода от традиционных подходов контроля к
+банковскому надзору, основанному на риске. Риск-ориентированный подход
+позволяет эффективно использовать ресурсы регулятора и улучшить качество
+контрольных проверок. В международной практике наблюдается тенденция
+институционального и правового укрепления данного подхода. В частности, в
+рамках последних процедур, разработанных Базельским комитетом, внедрение и
+совершенствование системы надзора, основанной на профиле рисков банков,
+определяется как одна из приоритетных задач. Рисковый подход служит важным
+инструментом анализа при формировании макропруденциальной политики.
+Неслучайно совершенствование этой системы рассматривается как одна из
+приоритетных задач в обеспечении устойчивого развития банковского сектора
+страны.
+     В последние годы вопрос устойчивой экономики в Узбекистане стал одним
+из важных направлений государственной политики. В Указах Президента
+Республики Узбекистан No УП-158 от 11 сентября 2023 года «О Стратегии
+«Узбекистан-2030», No УП-60 от 28 января 2022 года «О Стратегии развития
+Нового Узбекистана на 2022-2026 годы», No УП-4947 от 7 февраля 2017 года «О
+Стратегии действий по дальнейшему развитию Республики Узбекистан», No УП-
+5992 от 12 мая 2020 года «О Стратегии реформирования банковской системы
+Республики Узбекистан на 2020-2025 годы» в пункте 2 поставлен вопрос о
+                                                                         29
+совершенствовании надзора за банковским сектором и внедрении современной
+системы управления рисками в банках, и сегодня вопросы устойчивой
+экономики в банковском секторе становятся повесткой дня.
+     В целях обеспечения устойчивого развития банковской системы
+Узбекистана, эффективного управления рисками и оптимизации возможностей
+контролирующих органов актуальной задачей становится внедрение концепции
+риск-ориентированного контроля. На основе этого подхода Центральный банк
+внедряет практику анализа и индивидуальной оценки деятельности банков по
+профилю рисков. При этом основными критериями признаются такие
+направления, как кредитный риск, проблемы ликвидности, достаточность
+капитала и эффективность системы корпоративного управления. Благодаря
+такому подходу появится возможность приоритизировать проверки в
+зависимости от уровня риска и целенаправленно направлять ресурсы.
+     С этой точки зрения в рамках трансформации банков актуальным является
+внедрение совершенных механизмов банковского надзора с целью укрепления
+ресурсной базы и финансовой устойчивости банков, повышения
+инвестиционной привлекательности, диверсификации источников доходов.
+     Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Диссертационное исследование выполнено в
+соответствии с приоритетным направлением развития науки и технологий
+республики I. «Духовно-нравственное и культурное развитие демократического
+и правового общества, формирование инновационной экономики».
+     Степень изученности проблемы. Многие зарубежные ученые-экономисты
+проводили научные исследования в области риск-ориентированного
+банковского надзора. К ним относятся Джеймс Р. Барт, Джерард Каприо-
+младший. Росс Левайн, Наргиз Динсер, Биллин Нейди, Гавальд К, К. Гавальд,
+Дж. Стуфле. Ред, В.Я.Лисняк, М.А. Котляров, Сеид Моджтаба Хассани Шахи
+Сара, Сеид Мохаммад Реза Рейсзаде, Али Фаллах. Питер С. Роуз. К ним можно
+отнести научно-исследовательские работы таких зарубежных ученых-
+экономистов, как Фетисов Г.Г., А. Шенг, М. Кнорус, Калашникожож М.В., Е.А.
+Аренц, Н.Д. Бровкина, А.Ф. Ионова, П.И. Камышанов, А.П. Ковалев, М.Н.
+Крейнина, А. Кристофер, О.И. Лаврушин, Дж.К. Лоббек, Н.Н. Селезнева, В.В.
+Скобара, В.П. Суис.11
+     Один из ученых-экономистов нашей республики М.Ш. Шарифходжаев,
+С.П. Абдуллаев, Т.И. Бобокулов, Р.Д. Дустмухамедов, Т.С. Маликов, С.
+
+11
+   James R. Barth, Gerard Caprio, Jr. Ross Levine “The regulation and supervision off banks around the world” A
+New Database February 2001. Nergiz Dincer, Bilin Neyapti «Jegal quality off bank regulation and supervision and
+determinant a mixed sample» Bilcate University, 2005. Gavalda K. Bankovskoye pravo. (Uchrejdeniya, scheta,
+operatsii, uslugi) : Per.s fr./ K. Gavalda, J. Stufle; Red. V.Ya.Lisnyak. -M.: AO Finstatinform, 1996. Katishanov
+P.I.Prakticheskoye posobiye po auditu/ P.I.Katishanov. -M.: INFRA-M, 1996. -522 c. M.A. Kotlyarov. Problemi
+sovershenstvovaniya prudensialnogo bankovskogo nadzora a Rossii // Bankovskoye delo. 2004. №3. Seed Mojtaba
+Hassani Shahi Sara, Seed Mohammad Reza Reiszadeh, Ali Fallah “Assessing the effect of central bank supervision
+interaction with audit and internal inspection units of banks on the efficiyency of banking supervision”
+http://dx.doi.org/10.22075/ijnaa.2022.27159.3517 Piter S. Rous “Bankovskiy Menedjment” per. s angl. “Delo”,
+Moskva, 1997. 45 str. Fetisov G.G. Ustoychivost, stabilnost, ravnovesiye i nadejnost bankovskoy sistemi: ponyatiya
+i kriterii otsenki // Zakonodatelstvo i ekonomika. – № 8. — avgust 2002 g. A. Sheng, Bank Supervision: Principles
+and Practice, Economic Development Institute of the World Bank, 1990, p-5. Lavrushina. O.I. Bankovskoye delo.
+Pod red. – M., Knorus. 2011. https://dspace.spbu.ru/bitstream/11701/10171/1/VKR_Kalashnikovoj_M__V_.
+
+30
+Норкобилов, О.О. Олимжонов, А.А. Омонов, М.М. Тулаходжаева, Б. Хасанов,
+А.К. Кодиров, У. Джураев, С.С. Тогаев, Г.Д. Ахметова, З. Курбанов, А. Рахимов,
+А.Я. Абдуллаев, Ш.З. Абдуллаева, Г.Т. Баймуратова, Б.Т. Бердияров, С.Ж.
+Гадоев, Н.Х. Жумаев, Н.Ф. Каримов, Ф.И. Мирзаев, Ф.Ж. Насриддинов, Д.Б.
+Нафасов, Д.Р. Рустамов, О.Б. Саттаров, Р.Б. Султанов, М.К. Махмудова, Г.Р.
+Ташмухамедова, К. Курбанов, Н.К. Чориев, Ж.Ю. Исаков, Д. Баймирзаев, Д.А.
+Тошпулатов12 проводили научные исследования по банковскому надзору и
+приводили их в своих работах, учебниках и научных статьях.
+     Связь диссертационного исследования с планами научно-
+исследовательских работ высшего образовательного учреждения, где
+выполнена диссертация. Диссертационное исследование выполнено в рамках
+научно-исследовательского      проекта     Ташкентского      государственного
+экономического университета «Совершенствование научно-методических основ
+и методик обеспечения макроэкономической устойчивости и прогнозирования
+социально-экономического развития в Узбекистане».
+     Цель исследования. Целью исследования является разработка научных
+предложений и практических рекомендаций, направленных на повышение
+эффективности риск-ориентированного банковского надзора.
+     Задачи исследования. В соответствии с целью исследования были
+определены следующие задачи:
+     изучение теоретико-методологических основ регулирования банковской
+деятельности и банковского надзора;
+     анализ практики рейтинговой системы CAMELS, применяемой в
+банковском надзоре зарубежных стран;
+     выявление основных рисков, влияющих на деятельность банка, и оценка их
+влияния на устойчивость банка;
+     разработка предложений по совершенствованию механизмов раннего
+выявления и мониторинга банковских рисков;
+     разработка научно-практических рекомендаций, направленных на
+совершенствование риск-ориентированного банковского надзора.
+     Объектом исследования является деятельность коммерческих банков.
+     Предметом      исследования       являются    финансово-экономические
+отношения, возникающие в процессе надзора за деятельностью банков.
+     Методы исследования: наблюдение, системный анализ, изучение и
+проверка, экспертная оценка.
+     Научная новизна исследования состоит в следующем:
+     предложено разработать механизм динамической оценки деятельности
+банка на основе автоматизированного мониторинга в режиме реального времени
+таких основных риск-индикаторов, как достаточность капитала, качество
+активов, состояние ликвидности и уровень концентрации при контроле
+устойчивости банка;
+
+
+12
+   Norqobilov S, Dadaboyeva H, Joʻrayev Oʻ, Xalqaro amaliyotda bank nazorati. – T.: “Iqtisod-moliya”. 2007. “Bank
+risklari” oʻquv qoʻllanma. S.S Togʻayev. Samarqand 2019-yil. 7-8 bet. Axmetova. G.D. III Mejdunarodnaya
+nauchnaya konferensiya: Aktualnыe voprosы ekonomicheskix nauk //80-88 stranitsa, Kollektiv avtorov, 2014 g.
+Z. Qurbonov, A. Raximovlar tomonidan “Bank nazorati va tahlili”. Darslik – Toshkent.: 2022. 5-bet.
+
+                                                                                                              31
+     при выявлении объектов с высоким уровнем риска в банковской инспекции
+предложено установить уровень положительного отклонения ±10 процентов от
+средних показателей банковской системы в соответствии с пруденциальными
+нормами коммерческих банков и индивидуальным профилем риска в качестве
+сигналов раннего предупреждения;
+     обосновано внедрение системы оценки уровня выполнения требований и
+рекомендаций Центрального банка на основе «зеленого», «желтого» и
+«красного» рейтингов при эффективном мониторинге выполнения требований и
+рекомендаций, представленных Центральным банком по выявленным в ходе
+банковской инспекции недостаткам;
+     в целях заблаговременного предупреждения банковской системы о
+возможных рисках и повышения эффективности профилактического контроля
+предложено внедрить практику обобщения серьезных ошибок и недостатков,
+выявленных в ходе инспекционных процессов в отдельных банках, в анонимной
+форме без разглашения имени банка или ответственного лица, а также их
+регулярного распространения во всех коммерческих банках.
+     Практические результаты исследования заключаются в следующем:
+     предложение о применении целевых мер контроля путем разделения банков
+на категории по уровню риска на основе результатов дистанционного контроля
+и инспекции с выездом на место было использовано на практике;
+     на основании предложения о повышении квалификации сотрудников
+контрольных подразделений Центрального банка на основе международных
+стандартов и запуске программ обмена опытом с международными
+финансовыми институтами, в течение 2024 года 10 сотрудников Департамента
+инспекции Центрального банка приняли участие в семинарах и тренингах,
+организованных в международных финансовых центрах, и повысили свои
+знания и навыки;
+     в целях более эффективной организации и упрощения системы банковского
+контроля, а также сокращения дублирования и излишних бюрократических
+процедур      в    процессах     проверки,   предложение    о    внедрении
+дифференцированного подхода было использовано на практике путем
+пересмотра интервалов проверок исходя из общего количества недостатков и
+профиля рисков, выявленных в банковской системе в целом.
+     В целях обеспечения финансовой устойчивости банковской системы
+предложено разработать модель интегрального контроля, гармонизирующую
+требования стандартов Базель II/III, COSO и МСФО в единой системе.
+     В целях повышения эффективности надзора за деятельностью банков на
+практике было применено предложение о значительном увеличении размера
+финансовых санкций, пеней и штрафов, усилении действенной системы
+ответственности.
+     Достоверность результатов исследования определяется тем, что
+реализованные подходы, методы и теоретические данные получены из
+официальных источников, а эффективность представленных анализов и опытно-
+экспериментальных работ отвечает требованиям достоверности и основана на
+практических данных Центрального банка.
+
+32
+     Научная и практическая значимость результатов исследования.
+Результаты данного исследования будут иметь важное значение для
+заинтересованных сторон. Центральный банк, как основной регулятор
+коммерческих банков, помогает раннему выявлению рисков, возникающих в
+банках и кредитных организациях, и изучению возможности принятия
+корректирующих мер.
+     Внедрение результатов исследования. На основе полученных научных
+результатов по совершенствованию риск-ориентированного банковского
+надзора:
+     предложение по разработке механизма динамической оценки деятельности
+банка на основе автоматизированного мониторинга в режиме реального времени
+основных риск-индикаторов, таких как достаточность капитала, качество
+активов, состояние ликвидности и уровень концентрации, при контроле
+устойчивости банка принято на практику Центральным банком Республики
+Узбекистан (справка Центрального банка Республики Узбекистан от 23 октября
+2025 года No 18-10/1507). В результате человеческий фактор в контрольных
+процессах Центрального банка сократился на 20 процентов, повысилась
+эффективность и обеспечена прозрачность деятельности;
+     предложение по определению уровня положительного отклонения ±10
+процентов от средних показателей банковской системы в соответствии с
+пруденциальными нормами коммерческих банков и индивидуальным профилем
+риска при выявлении объектов с высоким уровнем риска в банковской
+инспекции в качестве сигналов раннего предупреждения было принято
+Центральным банком Республики Узбекистан (справка Центрального банка
+Республики Узбекистан от 23 октября 2025 года No 18-10/1507). В результате
+посредством автоматизированных «сигналов» в системах дистанционного
+наблюдения была определена необходимость и приоритетность инспекции,
+целевое направление ресурсов контроля и выявление 86 объектов,
+подверженных риску, что повысило эффективность проверок;
+     предложение о внедрении системы оценки уровня выполнения требований
+и рекомендаций Центрального банка на основе «зеленого», «желтого» и
+«красного» рейтингов при эффективном мониторинге выполнения требований и
+рекомендаций, представленных Центральным банком в связи с недостатками,
+выявленными в ходе банковской инспекции, принято на практику Центральным
+банком Республики Узбекистан (справка Центрального банка Республики
+Узбекистан от 23 октября 2025 года No 18-10/1507). В результате посредством
+данного механизма оценивается состояние выполнения предписаний и
+рекомендаций, выданных по каждому коммерческому банку, и определяется
+соответствующий рейтинг по их своевременной и полной реализации;
+     предложение о внедрении практики обобщения серьезных ошибок и
+недостатков, выявленных в ходе инспекционных процессов в отдельных банках
+без разглашения имени банка или ответственного лица, в анонимной форме и их
+регулярного распространения во все коммерческие банки для заблаговременного
+предупреждения банковской системы о возможных рисках и повышения
+эффективности профилактического контроля было принято Центральным
+банком Республики Узбекистан (справка Центрального банка Республики
+                                                                         33
+Узбекистан от 23 октября 2025 года No 18-10/1507). В результате была повышена
+эффективность контроля за счет заблаговременного предупреждения банковской
+системы о возможных рисках и предотвращено повторение 24 аналогичных
+серьезных ошибок, возникших в других банках в течение 2025 года.
+     Апробация результатов исследования. Результаты данного исследования
+были обсуждены на 8 республиканских и 3 международных научно-
+практических конференциях.
+     Публикация результатов исследования. Всего по теме диссертации
+опубликовано 11 научных работ, в том числе 8 научных статей, в том числе 3 в
+зарубежных журналах, рекомендованных Высшей аттестационной комиссией
+Республики Узбекистан для публикации основных научных результатов
+диссертаций.
+     Структура и объем диссертации. Диссертация состоит из введения, трех
+глав, заключения и списка использованной литературы. Объем диссертации
+составляет 141 страницу.
+             ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во введении обоснованы актуальность и востребованность темы
+диссертации, изложена связь исследования с приоритетными направлениями
+развития науки и технологий республики, обзор зарубежных научных
+исследований по теме диссертации, степень изученности проблемы, связь
+исследования с планами научно-исследовательских работ высшего
+образовательного учреждения, где выполнена диссертация, определены цель
+и задачи, объект и предмет исследования, приведены методы исследования,
+изложены научная новизна исследования, практические результаты
+исследования, достоверность результатов исследования, научная и
+практическая значимость результатов исследования, внедрение результатов
+исследования, апробация результатов исследования, публикация результатов
+исследования, структура и объем диссертации.
+     В первой главе диссертации, озаглавленной «Сущность, экономические
+и теоретические основы банковского надзора», исследованы сущность и
+научное значение банковского надзора, методы надзора за банковской
+системой и их теоретические основы, роль банковского надзора в обеспечении
+устойчивости банка, а также их теоретико-методологические вопросы.
+     Известно, что адекватность и эффективность контроля за деятельностью
+банков является ключевым фактором обеспечения стабильности банковской
+системы и укрепления доверия к банкам. Высокий риск банкротства
+кредитных организаций, особенно банков, требует непрерывного контроля за
+банковской деятельностью.
+     Только сильный банковский надзор позволит обеспечить стабильное
+функционирование       банковско-финансовой      системы,      являющейся
+кровеносным сосудом экономики, предотвратить экономические кризисы,
+привлечь частный капитал, еще больше повысить доверие иностранных
+инвесторов к банковско-финансовой системе.
+     Во всех странах основным объектом банковского надзора являются
+кредитные учреждения, то есть коммерческие банки. Согласно опыту
+34
+развитых стран мира, без налаживания эффективного функционирования
+двухступенчатой банковской системы, включающей эмиссионный банк и сеть
+коммерческих банков, невозможно повысить экономику государства и
+достичь ее устойчивости.
+    При этом на первом уровне находится Центральный банк, который
+регулирует денежное обращение страны и деятельность всех кредитных
+учреждений.
+    Второе место занимают коммерческие банки и другие кредитные
+организации. Можно наблюдать общность целей национальных систем
+банковского надзора в макро-и микроподходе.
+    Основой правовой базы банковского надзора являются законодательные
+акты, регулирующие банковскую деятельность. В большинстве стран
+основными законами, регулирующими банковскую деятельность, являются
+законы «О Центральном банке», «О банках и банковской деятельности», «О
+валютном регулировании», «Об акционерных обществах», «О рынке ценных
+бумаг».
+    Ведомственное регулирование банковской деятельности осуществляется
+на основе нормативно-правовых актов Центрального банка, министерств и
+ведомств.
+    Центральный банк устанавливает обязательные для всех кредитных
+организаций требования по вхождению в банковскую сферу, выходу из нее,
+осуществлению банковской деятельности, управлению рисками.
+    Внутренняя политика, порядок и процедуры, разрабатываемые общим
+собранием акционеров и советами коммерческих банков на основе принципа
+самоконтроля, также являются документами, правовым регулированием
+деятельности каждого банка.
+    Согласно истории развития банковской деятельности и опыту
+организации надзора за развитой банковской системой, в настоящее время
+надзор за банковской деятельностью осуществляется тремя способами.
+    Первый метод банковского надзора – это дистанционный контроль
+деятельности коммерческих банков со стороны Центрального банка, то есть
+анализ их финансовой отчетности, а второй метод – это инспекция на местах
+(инспекционный контроль), то есть проверка всех финансовых отчетов и
+относящейся к ним дополнительной информации в самих коммерческих
+банках.
+    Третий способ заключается в одновременном использовании методов
+проверки дистанционно и на местах. Методы контроля банковской
+деятельности целесообразно изучать, разделив их на две группы
+(дистанционный и инспекционный).
+    В нашей республике надзор за банковской системой осуществляется с
+использованием обоих методов. В соответствии с этими методами в
+Центральном банке созданы Департамент пруденциального надзора и
+Департамент инспекции.
+    Как известно, в соответствии с Положением Центрального банка «О
+порядке проведения инспекции (проверки) Центральным банком Республики
+Узбекистан в банках и их филиалах» (рег. No 2217 от 14.04.2011 г.)
+
+                                                                       35
+установлено, что Центральный банк проводит инспекции (проверки) в банках
+и их филиалах для реализации целей и задач по поддержанию стабильности
+финансовой системы, обеспечению защиты интересов вкладчиков, заемщиков
+и кредиторов, регулированию и контролю деятельности банков.
+
+                                                                               Таблица 1
+                                           Виды проверок   13
+
+     №         Тип проверки                                     Порядок
+                                        Это вид контроля, предусматривающий проведение
+                                        одновременной инспекции с целью общей оценки
+           Комплексная
+     1                                  деятельности банков путем изучения их реального
+           инспекция
+                                        финансового состояния и рисков, присущих их
+                                        деятельности, непосредственно с выездом на место.
+           Инспекция
+                               Вид контроля, предусматривающий инспекцию отдельных
+     2     (проверка)       по
+                               банковских операций в банке и его филиалах.
+           отдельным вопросам
+                               Это вид контроля, основанный на анализе отчетов,
+           Дистанционный       представляемых банками в Центральный банк с целью
+     3
+           контроль            выявления проблем на начальном этапе, включая
+                               мониторинг их финансового состояния.
+                               Проверка,    проводимая      в     банке    структурным
+           Инспекция в порядке подразделением, проводящим проверку, в целях контроля
+     4
+           контроля            за состоянием устранения ошибок и недостатков,
+                               выявленных в ходе последней инспекции.
+     Основной целью банковского контроля и анализа является повышение
+эффективности банковской деятельности. В нашей республике право
+управления банковской системой возложено на Центральный банк на
+основании закона. Центральный банк             устанавливает различные
+экономические нормативы с целью управления коммерческими банками и
+регулирования банковской деятельности. Эти нормативы охватывают
+различные аспекты банковской деятельности.
+     В нем установлены ограничения на крупные кредиты и инвестиции в
+капитал, активы банка, а также на операции с лицами, связанными с банком.
+Выполнение и соблюдение банками этих установленных нормативов
+постоянно контролируется Центральным банком.
+     Если один из них не соответствует требованиям, Центральный банк
+может применить санкции в рамках закона по ограничению деятельности
+этого банка.
+     При контроле устойчивости банка важно оценивать деятельность банка
+на основе мониторинга риск-индикаторов.
+     На сегодняшний день зарубежный опыт и международные стандарты
+показывают, что риск-ориентированный контроль более эффективен,
+необходимо осуществлять постоянный мониторинг, рекомендуется
+использовать автоматизированные индикаторы риска.
+     В частности, согласно рекомендациям Базельского комитета по
+банковскому надзору (Basel Committee on Banking Supervision), банки должны
+
+13
+     https://lex.uz/uz/docs/-1770790.
+
+36
+иметь систему риск-ориентированного надзора (risk-based supervision) и
+постоянного мониторинга, стандарты Международных аудиторских
+организаций (International Organization of Supreme Audit Institutions) требуют
+риск-ориентированного подхода в процессе аудита, Европейский
+центральный банк (European Central Bank) использует автоматизированные
+риск-индикаторы в практике AQR и SREP, Международные стандарты
+финансовой отчетности (International Accounting Standards Board) требуют
+динамической оценки кредитных рисков IFRS 9.
+    В современном контроле отчетность требует динамического, а не
+статического мониторинга рисков. То есть, человеческая ошибка будет выше,
+чем при традиционных проверках. Если в результате субъективной оценки
+риски могут быть выявлены поздно. Автоматизированные индикаторы риска
+основаны на конкретных критериях. В результате человеческий фактор и
+субъективный подход уменьшаются, а объективность и прозрачность
+повышаются.
+                                                                    Таблица 2
+                      Контроль банковских рисков     14
+
+                                                 Установленная норма     Низкий   Низкий   Высокий
+     №         Наименование показателей
+                                                 Документ   Показатель    риск     риск     риск
+            Буфер (прямо пропорциональный)                                5%       10%      15%
+     1   Кредитный риск
+         Максимальный размер доли автокредита
+     1   в общем кредитном портфеле банка          3618     max 15%      15,8%    16,5%     17,3%
+         Максимальный размер доли ипотечного
+     2   кредита в общем кредитном портфеле        3618     max 15%      15,8%    16,5%     17,3%
+         банка
+     2   Риск концентрации
+         Максимальный размер отношения риска к
+         капиталу первого уровня банка для
+     1   одного заемщика, группы                   3283     max 25%      26,3%    27,5%     28,8%
+         взаимосвязанных заемщиков для лиц
+         Максимальный размер отношения риска к
+     2   капиталу первого уровня банка для         3283     max 25%      26,3%    27,5%     28,8%
+         связанных с банком лиц
+           Буфер (обратно пропорциональный)                               15%      10%       5%
+     3   Риск достаточности капитала
+     1   Коэффициент достаточности капитала        3697     min 13%      15,0%    14,3%     13,7%
+         Коэффициент достаточности капитала 1
+     2   уровня                                    3697     min 10%      11,5%    11,0%     10,5%
+
+     4   Риск ликвидности
+         Пороговые показатели коэффициента
+     1   нормы покрытия ликвидности                2709     min 100%     115,0%   110,0%   105,0%
+         Пороговые показатели коэффициента
+     2   нормы чистого устойчивого                 2709     min 100%     115,0%   110,0%   105,0%
+         финансирования
+
+
+    Сегодня традиционные проверки проводятся 1-2 раза в год. По
+результатам проверки недостатки выявляются с опозданием. В динамическом
+механизме мониторинг в реальном времени (Real-time monitoring) ранние
+
+14
+     Разработан автором.
+
+                                                                                               37
+предупреждающие сигналы (Early warning system), в результате постоянного
+наблюдения выявляются до возникновения проблем.
+     Концентрацию риска и снижение системных рисков можно отслеживать
+через концентрацию кредитного портфеля, риск разрыва ликвидности, рост
+кредитного риска, снижение уровня достаточности капитала. При этом
+автоматизированная система подает сигнал по этим показателям.
+     К факторам, лежащим в основе определения аппетита к риску (risk
+appetite) в банках, относятся бизнес-модель банка, банковская стратегия,
+географическое расширение целевого сегмента (малый бизнес, ипотека,
+корпоративная и др.), агрессивная стратегия роста требует более высокого
+аппетита к риску.
+     Банковский аппетит к риску должен соответствовать буферу капитала.
+Кроме того, проблемные кредиты (NPL) в банке означают необходимость
+ограничения аппетита к риску.
+                                                               Таблица 3
+     Показатель аппетита к риску банка «Банк развития бизнеса» 15
+                                                                                     Инфор-
+                                       Max/   Граница   Низкий    Средний Высоки      мация
+ №             Показатели
+                                       min    предела    риск      риск   й риск        от
+                                                                                     01.01.26
+  1   K-1                               min    13%      >15%      13%-15%   <13%      17,7%
+  2   K-2                               min    10%      >11%      10%-11%   <10%      12,9%
+  3   Рост кредитного портфеля          max    35%      < 30%     35%-30%   >35%       8,9%
+      Отношение внебалансовых
+      кредитов, переведенных в
+                                                                  18%-
+  4   жилищно-коммунальное              max    18%      < 16,2%             >18%     19,7%
+                                                                  16,2%
+      хозяйство (95413) к
+      кредитному портфелю
+      Максимальный размер
+      проблемных кредитов по
+  5                                     max     6%       < 5%     6%-5%      >6%      9,2%
+      автокредитам, по
+      отношению к портфелю
+                                                                   105%-
+  6   LCR                               min   < 105%    > 115%              < 105%   221,2%
+                                                                   115%
+                                                                   105%-
+  7   NCFR                              min   < 105%    > 115%              < 105%   228,6%
+                                                                   115%
+      Валютная позиция                                             15%-
+  8                                     max    >15%     < 13,2%             >15%      12,7%
+                                                                   13,2%
+  9   Чистая процентная маржа           min   < 3,5%     > 4%     3,5%-4%   < 3,5%    4,09%
+ 10   Нестабильность персонала          max   >10%       <8%      10%-8%    >10%      1,01%
+
+     Посредством вышеуказанного предложения в Центральном банке
+(регуляторе) оптимизируется количество проверяющих, сокращается
+количество повторных проверок, сокращаются финансовые потери за счет
+раннего устранения недостатков, а в коммерческом банке в результате
+динамического мониторинга рисков улучшается качество кредита,
+предотвращается рост NPL, защищается капитал банка, что укрепляет общую
+финансовую стабильность.
+
+15 "Банк развития бизнеса" аппетит к риску.
+
+38
+     Например, «Банк развития бизнеса» проанализировал установленные
+лимиты и текущее состояние банковского аппетита к риску по 10 показателям.
+     Максимальная сумма проблемных кредитов по автокредитам составила
+9,2% по отношению к кредитному портфелю, превысив установленный лимит
+(6%).
+     В то же время кредиты, переведенные на забалансовые счета (95413),
+увеличились на 19,7% по отношению к кредитному портфелю по сравнению с
+установленными 18%.
+     В связи с увеличением проблемной задолженности по автокредитам в
+банке и доли кредитов, переведенных на забалансовые счета, необходимо
+принять соответствующие меры.
+     Во второй главе диссертации под названием «Анализ текущего
+состояния организации риск-ориентированного банковского надзора»
+изучены вопросы организации риск-ориентированного банковского надзора,
+методы оценки и контроля рисков в банках и анализ практического состояния
+риск-ориентированного банковского надзора.
+     Несвоевременный возврат кредитов, выданных банками, во-первых,
+отрицательно влияет на ликвидность банка, а во-вторых, приводит к
+увеличению резервов банка для покрытия убытков и, в конечном итоге, к
+увеличению расходов банка. Увеличение банковских расходов, в свою
+очередь, отрицательно сказывается на рентабельности, рентабельности и
+платежеспособности банка.
+     Некоторые страны могут определить «контроль» как соблюдение
+осторожных правил, таких как достаточность капитала, ликвидность, большие
+риски и т. Д. Однако контроль еще больше. Потому что «регулирование»
+можно определить как применение правил, а «контроль» - как контроль
+эффективности качества управления рисками банка. Разница между этими
+двумя определениями контроля огромна.
+     Первый отражает подход соответствия, а второй – подход, основанный на
+риске. Риск-ориентированный надзор (РАН), как следует из названия, требуя
+от регуляторов не ограничиваться правилами, расширяет полномочия
+надзорных органов за пределами этих правил, чтобы обеспечить надлежащее
+выявление и управление банками всеми существенными рисками, независимо
+от того, характеризуются они пруденциальными нормами или нет.
+     Подходы к контролю различаются в каждой стране в зависимости от
+специфики их финансовой системы. Однако существует несколько
+принципов, обосновывающих риск-ориентированный надзор, и поэтому они
+должны соблюдаться регулирующими органами по всему миру.
+     Эти принципы основаны на ключевых принципах того, что представляет
+собой хороший контроль, которые приведены ниже и основываются на
+недостатках, вызванных глобальным финансовым кризисом.
+
+
+
+
+                                                                        39
+                                                                                 Таблица 4
+                                     Принципы контроля         16
+
+     №       Принципы                                    Порядок
+                         Контролеры должны обладать глубокими и всесторонними знаниями о
+     1       Интрузив    банках, которые должны быть получены в результате проверок на местах и
+                         внеочередных анализов.
+                         контролеры должны быть «консистентными» в хорошие времена, то есть
+           Скептический,
+     2                   контролеры должны быть критичными к банкам и даже в хорошие времена
+            но активный
+                         подвергать сомнению «нормальность»
+                         Регуляторы должны постоянно сканировать финансовую систему на
+                         наличие новых изменений и рисков как для банков, так и для системы в
+     3     Всеобъемлющий
+                         целом. РАН признает, что риски могут возникать из различных источников,
+                         и для этого необходимо смотреть с широкой точки зрения.
+                         Банковский сектор – это постоянно развивающаяся и инновационная сфера.
+                         Контролеры должны находиться в режиме постоянного обучения, чтобы
+     4         Гибкий    они могли быстро выявлять риски, характерные для новых продуктов,
+                         рынков и услуг, и принимать соответствующие меры по снижению рисков
+                         или призывать к приостановке определенных разработок.
+                          Любая система сильна как самое слабое звено. Контролеры по всему миру
+                          часто не обладают достаточной информацией и анализом финансового
+     5     Заключительный состояния банков, но зачастую не принимают четких, адекватных и/или
+                          своевременных мер. Указывает на то, что контролерам следует следить за
+                          анализом и избегать «аналитического паралича» путем принятия мер.
+
+
+    Существуют различные способы описания процесса контроля, которые
+могут выглядеть как традиционный цикл «Планирование-выполнение-
+проверка-действие», в котором контрольные мероприятия (включая
+выявление, оценку и снижение рисков) планируются, выполняются,
+пересматриваются и корректируются за отчетный период.
+
+                                                                     Снижение
+                                                                     рисков и
+                                                     Рассмотрение    отслеживание
+                                                     Согласование    профиля
+                                    Обновить         по снижению     рисков
+                                    профиль          риска
+                     Планирование   риска
+                     контрольных    осуществлени
+                     работ          я контроля на
+                                    месте/дистанц
+                                    ионно
+
+            Рисунок 1. Цикл «Планирование-исполнение-проверка-действие»
+                              по рискам в банках 17
+
+
+    Следует отметить, что цикл контроля при подходе контроля, основанном
+на риске, динамичен и непрерывен, он не начинается и не заканчивается
+проверкой на месте. Проверка на месте является лишь одним из (хотя и
+16
+     Разработка автора.
+17
+     Разработка автора.
+
+40
+важным) средств достижения контролерами целей контроля и составляет лишь
+часть всего периода контроля.
+     Контролирующие органы также должны разработать стратегию работы с
+малыми банками. Потому что логика RAN заключается в том, что такие банки
+в индивидуальном порядке имеют меньше надзорного внимания, чем банки с
+высоким влиянием. На практике они зачастую отдельно привлекают очень
+небольшую часть ресурсов, выделяемых на более крупные предприятия.
+     Международный банковский надзор имеет две основные цели: разработка
+требований к размеру и качеству собственного капитала кредитных
+институтов и разработка требований и рекомендаций по управлению и
+контролю банковских рисков. Важной организацией, которая активно влияет
+на процесс регулирования и надзора банков – внедряет международные
+стандарты, является Базельский комитет по банковскому надзору.
+     На встречах между представителями 20 развитых стран мира были
+разработаны причины возникновения мирового финансового кризиса и его
+последствия, пути устранения. На прошлых заседаниях предусматривалось
+дальнейшее повышение авторитета международных финансовых институтов.
+В частности, одобрено предложение Международного валютного фонда,
+Международного банка реконструкции и развития и Базельского комитета о
+пересмотре требований по обеспечению устойчивости банковской системы.
+     На сегодняшний день при определении банков с высоким уровнем риска
+можно рассматривать положительное отклонение ±10% от средних
+показателей банковской системы в соответствии с пруденциальными нормами
+и другим профилем риска.
+     Известно, что в международной практике банковский надзор основан на
+риске. В Базельских стандартах, разработанных Базелем, установлено, что
+надзорные органы должны осуществлять мониторинг на основе
+индивидуального профиля рисков банков. Система EWS превращает именно
+этот подход в практический механизм.
+     На практике в большинстве случаев проблема выявляется после
+ухудшения качества актива или возникновения проблемы ликвидности.
+Согласно исследованиям Международного валютного фонда (International
+Monetary Fund), одной из основных причин финансовых кризисов является
+запоздалая контрольная реакция.
+     Посредством индивидуальной EWS в качестве ранних сигналов
+фиксируется рост вероятности дефолта (PD) в кредитном портфеле, риск
+концентрации, анализ ликвидности GEP, динамика достаточности капитала.
+     При этом одинаковый подход для всех банков может оказаться
+неэффективным. Потому что бизнес-модель, клиентский сегмент, отраслевое
+направление, структура активов каждого коммерческого банка будут разными.
+Поэтому сигналы, соответствующие индивидуальному профилю риска, дают
+более эффективные результаты вместо универсальных индикаторов.
+     В целях эффективного использования ресурсов Инспекции, в связи с
+ограниченностью ресурсов контролирующего органа, на основе EWS в
+
+                                                                       41
+приоритетном порядке будут проверяться высокорискованные банки, а
+низкорискованные банки будут проверяться реже.
+    При выборе проверяемого банка важным является анализ трендов, стресс-
+индикаторов. В целях повышения объективности обеспечения финансовой
+устойчивости выбор объекта инспекции осуществляется не через
+субъективное решение, а через конкретные индикаторы.
+                                                              Таблица 5
+           Показатели раннего предупреждения (сигналы)     18
+
+ №                               Показатели                                Trigger
+      Сигналы кредитного риска
+      Доля суммы просроченных кредитов в общем кредитном портфеле в
+  1                                                                         >10%
+      диапазоне 60-90 дней превышает 10%;
+  2   Доля проблемных кредитов в общем кредитном портфеле превышает 10%;    >10%
+      Ранние оповещения о риске ликвидности
+      Сокращение кредитных линий, которые могут быть получены от банков,
+  1                                                                         <25%
+      более чем на 25 процентов;
+  2   Сокращение банковских вкладов более чем на 25%;                       >25%
+      Ранние оповещения о рыночных рисках
+      Изменение национальной валюты по отношению к доллару США более
+  1                                                                        +/- 5%
+      чем на 5% в течение месяца
+      Изменение процентных ставок по размещению межбанковских депозитов
+  2                                                                        +/- 10%
+      более чем на 10% в течение месяца (национальный)
+
+    Например, вклады в одном банке за неделю сократились на 10% или
+средства на корреспондентском счете Центрального банка упали на 30%. Так
+сообщает система EWS. У этого банка повышенный риск ликвидности /
+требуется быстрая проверка.
+    Если проблемные (NPL) кредиты банка за 1 месяц выросли с 4% до 6%.
+EWS автоматически ставит желтый сигнал. Качество кредита ухудшается –
+риск высок. Центральный банк ставит инспекцию этого банка на первое место.
+    Если банк в течение нескольких дней. Если валюта резко увеличивает
+долю активов, если колебания валютного курса высоки. EWS подаст
+автоматический сигнал. Валютный риск увеличился, рекомендуется
+проверить.
+    Доля автокредитов одного банка в кредитном портфеле (25%) резко
+возросла. EWS автоматически подаст сигнал. Кредитная концентрация –
+высокий риск. Центральный банк в первую очередь проверяет кредитный
+портфель этого банка.
+    В результате этого предложения риски будут выявлены на ранней стадии.
+Центральный банк знает, куда нужно быстро добраться. Инспекции будут
+качественными и целенаправленными Стабильность банков повысится. В
+системе исчезает риск «позднего реагирования».
+    В третьей главе диссертации под названием «Пути совершенствования
+риск-ориентированного банковского надзора» рассмотрен опыт зарубежных
+
+18 Разработан автором.
+
+42
+стран в совершенствовании риск-ориентированного банковского надзора в
+соответствии с международными стандартами и требованиями, вопросы
+обеспечения устойчивости банка путем совершенствования риск-
+ориентированного банковского надзора и оценки эффективности риск-
+ориентированного банковского надзора.
+     Риск-ориентированный банковский надзор (Risk-Based Supervision, RBS)
+– это стратегия эффективного распределения ресурсов и определения
+приоритетных направлений контроля банковскими надзорными органами в
+зависимости от общего уровня риска банков.
+     Основные подходы к этой стратегии представлены в принципе 19
+Базельского комитета Основные принципы эффективного надзора за
+банковской деятельностью (2012). Подход к надзору, основанный на рисках
+(Risk-Based Supervision) «Надзорные органы должны формировать свою
+надзорную деятельность на основе уровня и профиля рисков банка,
+приоритизировать ресурсы в зависимости от этих рисков».
+     При этом основными обстоятельствами являются следующие:
+Контролирующие организации формируют свою стратегию надзора на основе
+профиля риска банка, институциональной структуры и факторов риска в
+среде; Банки с высоким риском – подвергаются большему и более глубокому
+надзору; Программа контроля должна быть динамичной, а не статичной – то
+есть адаптироваться к изменениям в банке и на рынке; RBS уделяет большое
+внимание оценке системы внутреннего управления банка, культуры рисков и
+корпоративного управления.
+     Эти принципы также служат основным стратегическим направлением для
+Центрального банка Республики Узбекистан.
+     Также в Базельских руководящих принципах важное место в
+совершенствовании системы банковского надзора, основанного на рисках
+(RABN), занимают международные финансовые стандарты, в частности,
+пруденциальные нормы, разработанные Базельским комитетом.
+     Базельские рекомендации – это набор международных критериев,
+направленных на выявление, оценку и эффективное управление рисками в
+банковской системе. Эти руководящие принципы были сформированы в
+четыре этапа: Базель I (1988), Базель II (2004), Базель III (2010), Базель IV
+(2017–2022).
+     Базель II – Трёхстолбиковый подход. Принятая в 2004 году Базельская
+директива II внедрила новый системный подход к контролю, основанному на
+рисках. Эта инструкция основана на трех столпах: 1. Минимальные
+требования к капиталу: охватывают кредитные, рыночные и операционные
+риски. 2. Процесс рассмотрения контролирующим органом: оценка
+внутренних рисков банка, проведение стресс-тестов. 3. Рыночная дисциплина:
+обеспечение информационной прозрачности, предоставление пользователям
+полной информации.
+     Базель III – Финансовая устойчивость и ликвидность. После глобального
+финансового кризиса 2008 года Базельский комитет разработал Базельскую
+директиву III с целью устранения уязвимостей банковской системы. В нем
+                                                                          43
+учитывались не только капитал, но и риски ликвидности и леверидж
+(финансовая опора). Главные новости:
+     Повышение уровня CET1 (Common Equity Tier 1): требования к капиталу
+высокого качества. Внедрены такие индикаторы ликвидности, как LCR
+(Liquidity Coverage Ratio) и NSFR (Net Stable Funding Ratio). Проциклические
+резервы и буферы капитала для «системно важных банков» (SIVs).
+     Базель IV – Усиление стандартизированных подходов. Последняя серия
+реформ, называемая Базель 4, была объявлена в 2017 году и полностью
+вступает в силу с 2023 года. На этом этапе в основном ставится цель сделать
+методы оценки рисков более тщательными и стандартизированными,
+предотвратить чрезмерную опору на внутренние модели.
+     Новости Базеля IV: При расчете кредитных рисков преимущество будут
+иметь стандартные подходы. Ограниченное применение моделей IRB (Internal
+Ratings-Based). Внедряется «output floor» - капитал, рассчитанный с помощью
+внутренних моделей, должен составлять не менее 72,5% от минимального
+стандарта.
+     Если рассматривать возможности внедрения в банковскую систему
+Узбекистана. В банковском секторе Узбекистана поэтапно развивается риск-
+ориентированная система надзора. В настоящее время Центральный банк
+создает правовые основы для внедрения принципов Базеля II. Однако полная
+адаптация к Базелю 3 и 4 все еще находится на начальном этапе.
+     Направления совершенствования: Внедрение оценки достаточности
+капитала по другим рискам, кроме кредитного; Развитие внутренних систем
+стресс-тестирования; Внедрение расчетов LCR и NSFR во всех коммерческих
+банках в качестве требования; Необходимо привести системы внутреннего
+аудита и управления рисками в соответствие с международными стандартами.
+     Вторая колонка Базеля II описывает стратегию риск-ориентированного
+надзора следующим образом: «Наблюдатели должны оценивать, насколько
+правильно банки оценивают свои потребности в капитале в отношении своих
+рисков, и вмешиваться, когда это необходимо».
+     При этом основные направления: Рисковый контроль – контролер обязан
+оценить соответствие внутреннего капитала банка рискам; Надзорные органы
+могут проверять систему управления рисками банка и, при необходимости,
+повышать требования к капиталу; Система внутреннего контроля банков,
+стресс-тесты и модели оценки рисков входят в сферу проверки; SRP требует
+не пассивного (наблюдательного) контроля, а проактивного (активно
+действующего) подхода.
+     Проанализирована практика риск-ориентированного контроля развитых
+стран. Ниже приведены некоторые выводы: Стратегия RBS в основном
+реализуется в 4 этапа: 1. Банковский профиль и идентификация рисков. 2.
+Оценка и рейтинг рисков (risk scoring). 3. Разработка стратегии контроля
+(supervisory plan). 4. Мониторинг и меры (интервенции).
+     По его словам, регуляторы направляют ресурсы в высокорискованные
+секторы, и подход ко всем банкам должен быть не одинаковым, а
+индивидуальным и адаптированным к рискам.
+44
+    08. Банковский профиль и идентификация рисков.
+     Это начальный и самый важный этап РАН. На этом этапе надзорный
+орган анализирует каждый банк индивидуально и формирует общий
+«профиль» на основе его структурных особенностей, стиля работы,
+стратегических целей и роли на рынке.
+     Основными факторами, которые здесь учитываются, являются: Размер
+банка (объем активов, количество филиалов, доля рынка). Коммерческая
+модель (универсальная, розничная, корпоративная, инвестиционная). Сферы
+деятельности (МСБ, крупный бизнес, розничная торговля, международные
+операции). Структура внутреннего управления, имеет ли она системное
+значение или нет.
+     Основными рисками в банке являются кредитный риск, риск
+ликвидности, рыночный риск, операционный риск, внешние риски
+(киберриски, регулятивные изменения). В результате посредством
+банковского профиля (risk mapping) формируется карта риска (risk exposure)
+для каждого банка. Это станет основой для целевой организации контроля на
+последующих этапах.
+     2. Оценка и рейтинг рисков (risk scoring).
+     На этом этапе оценивается степень влияния банка на каждую выявленную
+категорию риска. Эта оценка осуществляется субъективным (экспертная
+оценка) и объективным (на основе метрик) методами.
+     При этом основными показателями являются: Уровень концентрации в
+кредитном портфеле, просрочки, NPL. Достаточность капитала (CAR, Tier-1),
+буферы. Показатели ликвидности: LCR, NSFR. Количество выявленных
+случаев по операционным рискам. Эффективность систем внутреннего аудита,
+управления рисками и комплаенса. Системная важность.
+     При рейтинге результатов каждому риску присваивается средний,
+высокий или низкий уровень угрозы. В мировой практике используется ABC
+или цифровая шкала (1-5).
+     3. Разработка стратегии контроля (supervisory plan).
+     На этом этапе контролирующий орган формирует целевую и
+ресурсосберегающую        программу      контроля     в   соответствии   с
+высокооцененными рисками. Это не единый шаблон, а индивидуальный план
+контроля для каждого банка.
+                                                                 Таблица 6
+        Исходя из вышеизложенного, можно сделать следующий вывод
+      Этап                     Содержание                   Основной результат
+1. Банковский профиль и Формирование карты деятельности и   Профиль воздействия
+идентификация рисков       рисков банка                     риска
+2. Оценка и рейтинг рисков Градуированная оценка каждого    Оценка риска / балл
+                           риска
+3. Разработка стратегии Установить индивидуальный план      Контрольный план
+контроля                   контроля
+4. Мониторинг и меры       Продолжение          контроля,   Постоянный контроль
+                           интервенция                      и     корректирующее
+                                                            воздействие
+
+                                                                          45
+    Структура стратегии контроля следующая:
+    08. Годовая программа надзора (annual supervisory program).
+    Количество и тематика инспекций. Параметры дистанционного
+мониторинга. График представления информации.
+    2. Целевые проверки (thematic inspections).
+    Например, только в отношении рисков ликвидности.
+    3. График диалога с руководством банка.
+    Организация контроля на основе цикла (supervisory cycle) – то есть через
+оценку, проверку, отзыв, интервенцию.
+    4. Индикаторы для интервенции:
+    Отчеты ICAAP (Internal Capital Adequacy Assessment Process). Результаты
+стресс-теста. Это выраженные внутририсковые аномалии.
+    5. Мониторинг и меры (intervention).
+    Это постоянная и динамическая фаза РАБН. При этом контролирующий
+орган отслеживает изменение выявленных рисков в режиме реального
+времени и при необходимости осуществляет проактивные интервенции.
+                                                                 Таблица 7
+           В Базеле стратегия RAN описывается следующим образом
+       Элемент                                  Описание
+Цель                Оценка уровня риска       банка и эффективное         распределение
+                    контрольных ресурсов
+Опорные точки       Профиль риска, институциональная структура, рыночные условия
+Основные            Внутреннее управление, стресс-тестирование, оценка рисков,
+направления         соответствие капиталу
+Метод контроля      Проактивный, дифференциальный, основанный на мониторинге
+Правовая основа     Базель (Принцип 19), Базель II – Pillar 2, документы BCBS SRP
+
+     Давайте рассмотрим, что именно включает в себя документ риск-
+ориентированного подхода. Ниже приведены краткие сведения.
+     Методика оценки профильных рисков банка (кредитные, рыночные,
+операционные, ликвидность, IT/кибер, климатические и другие). 2. Критерии
+уровня риска (low/medium/high) и триггеры для усиленного контроля. 3.
+Процедуры SREP/review (включая стресс-тесты, внутренние управленческие
+проверки и капитал/ликвидность). 4. Правила распределения ресурсов
+контроля – уделять больше внимания опасным объектам. 5. Мониторинг,
+отчетность и санкции/корректирующие меры.
+     Актуальным вопросом является мониторинг результатов проверок
+банков. Например, в целях эффективного мониторинга выполнения
+недостатков, выявленных при проверке, можно оценить уровень их
+выполнения на основе «зеленого», «желтого» и «красного» рейтингов.
+     Необходимость обеспечения исполнения результатов контроля
+заключается в том, что на практике даются указания по результатам проверки,
+но контроль за их своевременным и полным исполнением не всегда системен.
+     Внедрение механизмов оценки с «зеленым», «желтым» и «красным»
+рейтингами в результате усиленного постинспекционного мониторинга
+46
+переведет этот контроль из формата «одноразовой проверки» в формат
+«непрерывного наблюдения».
+    При этом на основе рейтингов «зеленый-желтый-красный» создается
+механизм низкого риска – стандартного мониторинга, среднего риска –
+усиленного контроля, высокого риска – постоянного и глубокого
+мониторинга.
+    Рейтинговая система служит четким сигналом для руководства банка.
+«Красный» рейтинг может служить основанием для применения таких мер,
+как дополнительные требования к капиталу, ограничения на дивиденды,
+операционные ограничения. Это усиливает механизмы дисциплинарного
+воздействия.
+    Желтый рейтинг — это сигнал потенциального риска. Будет создана
+возможность принять меры до того, как проблема достигнет «красного»
+уровня. Эта система служит поддержанию финансовой стабильности. В
+международной практике во многих странах применяется supervisory rating
+framework (например, система CAMELS). Федеральная резервная система и
+другие регуляторы контролируют банки на основе рейтинга. Эта практика
+приближает национальную систему контроля к международным стандартам.
+    Банки с «зеленым» рейтингом будут тратить меньше инспекционных
+ресурсов. Банки с «красным» рейтингом проверяются в приоритетном
+порядке. Это повысит эффективность надзорного органа. Открытая
+рейтинговая система побуждает банки усиливать внутренний контроль,
+совершенствовать риск-менеджмент, улучшать комплаенс.
+
+                                                                  Таблица 8
+                     Усиленный постинспекционный мониторинг19
+
+
+
+
+                   Зеленый                Желтый                 Красный
+
+
+
+                                                               Высокий риск
+               Рекомендации с         Риск умеренный,
+                                                                 Серьезные
+               низким риском           есть некоторые
+                                                              рекомендации не
+                 выполнены               недостатки
+                                                                 выполнены
+
+                                                                Внутренний
+                 Недостатки          Есть недостатки, но
+                                                                 контроль
+                 устранены              не серьёзные
+                                                                недоступен
+
+                  Система               Идет процесс
+                                                                Отчеты
+             внутреннего аудита          устранения
+                                                           фальсифицированы
+                улучшилась               неполадок
+
+
+
+19
+     Разработан автором.
+
+                                                                             47
+    В зависимости от категории оценки зеленый – минимальный риск,
+желтый – средний риск, красный – высокий риск. В зависимости от категорий
+могут применяться меры.
+    Красный – дополнительные инспекционные санкции применяются к
+управленческому составу предупредительными мерами.
+    Желтый – банку дают 3 месяца, если он не выполнит, то он попадает в
+красный.
+    Зеленый – в этом банке будет меньше дополнительных проверок.
+    Это предложение позволит Центральному банку отслеживать банки в
+режиме реального времени даже после завершения инспекции. Банки будут
+оцениваться на основе зеленого, желтого и красного рейтингов, уровень риска
+будет четко виден, а дисциплина значительно повысится.
+    Кроме того, в целях предупреждения рисков и обеспечения устойчивости
+банковской системы некоторые риски были бы предотвращены, если бы
+недостатки, выявленные при проверке, были подготовлены в виде «кейсов»
+(примеров) и распространены во всех коммерческих банках.
+    Ошибка, выявленная в результате проверки в одном банке, может стать
+уроком для всей системы. Потому что, если недостатки останутся только в
+пределах этого банка, высока вероятность того, что другие банки повторят ту
+же ошибку.
+    Например, обобщенные «кейсы» показывают реальные сценарии риска на
+практике, выявляют ошибки в применении нормативных требований,
+способствуют укреплению системы внутреннего контроля.
+    Контроль должен выполнять не только карательную, но и
+профилактическую функцию. Результаты анонимного кейс-анализа
+способствуют раннему выявлению рисков, активизации функций внутреннего
+аудита и комплаенса, а также пересмотру внутренней политики. Это усиливает
+профилактический эффект.
+    В соответствии с требованиями закона «О банковской тайне»
+информация о клиентах и операциях банка является конфиденциальной. В
+предлагаемом механизме не указывается название банка, не раскрывается
+идентификация клиента, описывается только тип ошибки и сценарий риска.
+Это обеспечивает баланс между прозрачностью и конфиденциальностью.
+    Эта практика также применялась Базелем и многими регуляторами,
+которые публикуют обобщенные выводы в общей форме. Эта практика
+усиливает рыночную дисциплину, показывает общие тенденции риска по
+отрасли.
+    Результаты проверки станут аналитическим материалом, а не только
+актом или штрафом. При этом отчетливо видны системные недостатки, то есть
+недостатки в корпоративном управлении, кредитном андеррайтинге, риск-
+менеджменте.
+    Кейс-анализ показывает пробелы в действующих нормативных
+документах, проблемы интерпретации. Это позволит регулятору
+совершенствовать нормативную базу.
+
+48
+    Например, инспекция Центрального банка при проведении проверок в
+банках находит различные недостатки. Но эти недостатки часто говорят
+только о самом банке, а другие банки не знают об этих ошибках и поэтому
+повторяют их.
+    Благодаря этому банки учатся на ошибках друг друга, а ошибки в целом
+уменьшаются.
+    Пример: Неправильная оценка кредитного риска (Case)
+    Инспекция выявила следующую ситуацию: при выдаче крупного
+корпоративного кредита в одном банке не были проверены реальные
+финансовые отчеты клиента. Денежные потоки завышены. Стоимость
+обеспечения не была переоценена.
+    Центральный банк направляет во все банки в виде «Case»:
+    В одном коммерческом банке в процессе оценки кредитного риска была
+выявлена фальсификация отчета. Кредитная комиссия одобрила без
+предварительной проверки. По этой причине платежи по кредиту за 6 месяцев
+превратились в проблемный кредит.
+                                                               Таблица 9
+     Анализ факторов, влияющих на рост проблемных кредитов (NPL)20
+                 Переменные                         (1)            (2)       (3)         (4)
+    Индекс уровня банковского риска (RBSI)         8.473       9.861*        8.090      9.487*
+                                                  (5.913)     (5.331)       (6.229)     (5.574)
+    ROA                                            0.088        0.090        0.078       0.069
+                                                  (0.092)     (0.098)       (0.092)     (0.095)
+    CAR                                           0.392*       0.360*       0.397*      0.363*
+                                                  (0.210)     (0.207)       (0.207)     (0.196)
+    ∆ ln(Рост кредитов)                         -4.273***    -2.658**     -4.455***   -2.552***
+                                                  (1.346)     (1.035)       (1.280)     (0.943)
+    ∆ Чистая прибыль                               0.000        0.000        0.000       0.000
+                                                  (0.000)     (0.000)       (0.000)     (0.000)
+    ∆ ln(Рост капитала)                           -0.012       -0.015       -0.003       0.001
+                                                  (0.079)     (0.076)       (0.081)     (0.079)
+    ∆ ln(Рост прибыли)                            -0.012       -0.313        0.087      -0.198
+                                                  (0.240)     (0.314)       (0.204)     (0.260)
+    Рост реального ВВП (y/y)                                  1.040**                  1.348**
+                                                              (0.411)                   (0.546)
+    Инфляция (y/y)                                                          0.224       0.459*
+                                                                           (0.170)      (0.244)
+
+    Статистика модели
+    Количество подписок                            198             198       198         198
+    Количество банков                               18              18        18          18
+    Количество циклов                               11              11        11          11
+    R-квадрат                                     0.676           0.699      0.68       0.715
+    Исправленный R-квадрат                        0.631           0.656     0.634       0.672
+
+  Примечание: зависимая переменная – Доля проблемных кредитов (NPL). Во всех моделях
+  включены неизменные воздействия банка.
+  Уровень значимости: *** p<0.01, ** p<0.05, * p<0.1.
+
+
+20 Анализ факторов, влияющих на рост проблемных кредитов (NPL).
+
+                                                                                                  49
+    В результате все банки усилят внутреннюю проверку, чтобы избежать
+повторения подобной ошибки. В результате этой практики банки учатся на
+ошибках других. То есть исчезнет ложное представление о том, что «у нашего
+банка нет проблем».
+    В каждом банке повышается корпоративная культура и культура
+компьюенса. Банковская тайна сохраняется, но ошибки становятся общим
+учебным материалом. Это повысит устойчивость банковской системы.
+    При экономической оценке эффективности риск-ориентированного
+банковского надзора основной целью исследования является оценка
+экономической эффективности риск-ориентированного банковского надзора
+на примере коммерческих банков Республики Узбекистан и эмпирическая
+оценка его влияния на качество банковских активов и финансовую
+стабильность.
+    В данном исследовании на основе модели панельных фиксированных
+эффектов (Panel Fixed Effects) банков были оценены факторы, влияющие на
+проблемные кредиты (NPL) в разрезе банков. Данный подход позволяет
+контролировать не меняющиеся со временем характеристики каждого банка
+(институциональная среда, культура риска, специфические аспекты кредитной
+политики и т.д.).
+    Стандартные ошибки сгруппированы по банкам. Все модели охватывают
+период с первого квартала 2023 года по четвертый квартал 2025 года по 18
+банкам, всего 198 наблюдений.
+    Результаты четырех оцененных моделей сравнивались между собой. При
+этом в моделях 2 – 4 в качестве дополнительного контроля были включены
+макроэкономические факторы (рост реального ВВП и инфляция). Степень
+интерпретации моделей (исправленный R-квадрат) находится в диапазоне 0,63
+– 0,67 процента, что указывает на важность выбранных факторов при
+объяснении динамики проблемных кредитов.
+    Индекс уровня банковского риска (RBSI). По результатам модели
+наблюдалась положительная корреляция между индексом RBSI и
+проблемными кредитами (NPL). В моделях коэффициент RBSI имеет
+положительный знак и является статистически значимым в некоторых
+моделях. Это означает, что в случае повышения уровня риска в банке доля
+проблемных кредитов также увеличивается.
+    Если увеличение значения этого индекса означает усиление финансового
+давления, в таких условиях качество кредитного портфеля ухудшится, а доля
+проблемных кредитов увеличится.
+    Рост кредитов. Коэффициент роста кредитов во всех моделях был
+отрицательным и статистически значимым. Этот результат означает, что доля
+проблемных кредитов снижается в периоды быстрого роста кредитного
+портфеля.
+    Экономически эту ситуацию можно объяснить следующим образом. Во-
+первых, «эффект знаменателя» - при увеличении общего объема кредитов доля
+проблемных кредитов может статистически уменьшаться. Во-вторых, в
+
+50
+условиях обновления портфеля, если вновь выданные кредиты будут
+качественными, улучшится структура общего портфеля.
+    Согласно оценкам модели, при увеличении кредитов на 10 процентов
+показатель проблемных кредитов может снизиться примерно на 0,25-0,45
+единицы. Рост этих кредитов проявляется как наиболее сильный фактор
+динамики проблемных кредитов. Вместе с тем, высокий уровень кредитования
+может дать обратный эффект в долгосрочной перспективе и привести к
+значительному увеличению проблемных кредитов.
+    Достаточность капитала (CAR). Во всех моделях коэффициент CAR был
+положительным и значимым на уровне 10%. То есть в периоды повышения
+достаточности капитала наблюдалось увеличение доли проблемных кредитов.
+
+                            ЗАКЛЮЧЕНИЕ
+
+     В соответствии с Указом Президента Республики Узбекистан No УП-5992
+совершенствование банковского надзора на основе международных
+стандартов является одним из важных направлений в процессе
+реформирования банковской системы. Поэтому необходимо развивать
+систему банковского надзора на основе риск-ориентированного подхода.
+     Опыт зарубежных стран показывает, что в европейских странах
+банковский надзор в основном осуществляется посредством дистанционного
+контроля, в то время как в США преобладает система инспекции на месте
+(CAMELS). Применение модели смешанного контроля, сочетающей эти два
+метода в банковской системе Узбекистана, служит повышению
+эффективности контроля.
+     В целях повышения эффективности банковского надзора целесообразно
+внедрить     комплексный     автоматизированный     механизм    контроля,
+обеспечивающий динамическую оценку процессов проверки и мониторинг в
+режиме реального времени на основе индикаторов риска.
+     Необходимо усовершенствовать механизм раннего выявления объектов,
+подверженных риску, и выбора объектов инспекции путем внедрения системы
+сигналов      раннего     предупреждения      (EWS),     соответствующей
+индивидуальному профилю риска коммерческих банков.
+     Усиление контроля за выполнением требований и рекомендаций
+Центрального банка, выданных по результатам инспекции, а также внедрение
+системы оценки их исполнения на основе «зеленого», «желтого» и «красного»
+рейтингов послужит повышению эффективности контроля.
+     Внедрение практики распространения серьезных ошибок и недостатков,
+выявленных в ходе инспекции, во всех коммерческих банках в форме
+обобщенного «кейса» (примера) без указания имени банка или лица повысит
+осведомленность о рисках в банковской системе и поможет предотвратить
+повторные ошибки.
+     Внедрение системы дистанционного контроля банков и разделения их на
+категории по уровню риска на основе результатов инспекции с выездом на
+
+                                                                       51
+место и применения дифференцированных мер контроля позволит
+эффективно использовать контрольные ресурсы.
+    Повышение квалификации сотрудников контрольных подразделений
+Центрального банка на основе международных стандартов, а также
+расширение программ обмена опытом с международными финансовыми
+институтами имеет важное значение в повышении качества банковского
+надзора.
+    Сокращение излишних бюрократических процедур в процессах
+банковского надзора и определение интервалов проверок на основе
+дифференцированного подхода, исходя из профиля рисков банков, послужит
+упрощению и повышению эффективности системы надзора.
+    В целях укрепления финансовой устойчивости в банковской системе
+необходимо внедрить модель интегрального контроля, гармонизирующую
+требования стандартов Базель II/III, COSO и МСФО.
+    Усиление механизмов ответственности за нарушения в деятельности
+банков, в частности, совершенствование финансовых штрафов, пени и других
+санкций, повысит действенность системы надзора.
+    Усиление персональной ответственности руководства банка и
+ответственных лиц в целях предотвращения предоставления банками
+недостоверной или ложной информации служит повышению прозрачности и
+обеспечению финансовой стабильности в банковской системе.
+
+
+
+
+52
+      SCIENTIFIC COUNCIL AWARDING OF THE
+     SCIENTIFIC DEGREES DSc.03/2025.27.12.I.30.01
+     AT TASHKENT INTERNATIONAL UNIVERSITY
+    TASHKENT STATE UNIVERSITY OF ECONOMICS
+
+
+
+
+     JUMANAZAROV MUZAFFAR JUMANAZAR UGLI
+
+
+
+   IMPROVING RISK-BASED BANKING SUPERVISION
+
+
+
+          08.00.07 – “Finance, Money Circulation, and Credit”
+
+
+
+
+                                ABSTRACT
+of the dissertation of the Doctor of Philosophy (PhD) in Economic Sciences
+
+
+
+
+                        Tashkent city – 2026 year
+
+
+                                                                             53
+54
+              INTRODUCTION (abstract of the PhD dissertation)
+
+      Purpose of the research. The aim is to develop scientific proposals and
+practical recommendations aimed at increasing the efficiency of risk-based banking
+supervision.
+      Research objectives. In accordance with the goal of the study, the following
+tasks were defined:
+      studying the theoretical and methodological foundations of banking regulation
+and supervision;
+      analysis of the practice of the CAMELS rating system used in the banking
+supervision of foreign countries;
+      identifying the main risks affecting the bank's activities and assessing their
+impact on the bank's stability;
+      development of proposals for improving mechanisms for the early detection
+and monitoring of banking risks;
+      development of scientific and practical recommendations aimed at improving
+risk-based banking supervision.
+      The object of the research work is the activities of commercial banks.
+      The subject of the research is the financial and economic relations arising in
+the process of supervising the activities of banks.
+      Research methods: observation, systematic analysis, study and verification,
+expert evaluation.
+      The scientific novelty of the research is as follows:
+      when monitoring bank stability, it is proposed to develop a mechanism for
+dynamic assessment of bank activities based on automated real-time monitoring of
+key risk indicators such as capital adequacy, asset quality, liquidity status, and
+concentration level;
+      when identifying objects with a high level of risk in the banking inspection, it
+is proposed to determine the level of positive ±10 percent deviation from the average
+indicators of the banking system in accordance with the prudential standards of
+commercial banks and the individual risk profile as early warning signals;
+      the introduction of a system for assessing the level of fulfillment of
+requirements and recommendations provided by the Central Bank based on "green,"
+"yellow," and "red" ratings for effective monitoring of the fulfillment of
+requirements and recommendations regarding deficiencies identified during bank
+inspections has been substantiated;
+      in order to prevent potential risks in the banking system and increase the
+effectiveness of preventive control, it is proposed to introduce the practice of
+summarizing serious errors and deficiencies identified during inspection processes
+in individual banks in an anonymous form without disclosing the name of the bank
+or the responsible person, and to regularly disseminate them to all commercial banks.
+      The practical results of the study are as follows:
+      the proposal to apply targeted control measures by dividing banks into
+categories according to the level of risk based on the results of remote control and
+on-site inspections was used in practice;
+                                                                                   55
+      based on the proposal to improve the qualifications of Central Bank supervisory
+unit employees based on international standards and to establish experience
+exchange programs with international financial institutions, during 2024, 10
+employees of the Central Bank Inspection Department participated in seminars and
+trainings organized at international financial centers to enhance their knowledge and
+skills;
+      in order to more effectively organize and simplify the banking control system,
+as well as to reduce duplication and redundant bureaucratic processes in inspection
+processes, the proposal to revise inspection intervals based on the total number of
+deficiencies identified in the banking system and the risk profile, and to introduce a
+differentiated approach was used in practice.
+      to ensure the financial stability of the banking system, a proposal was
+introduced to develop an integrated control model that harmonizes the requirements
+of Basel II/III, COSO, and IFRS standards within a single system.
+      in order to increase the effectiveness of control over the activities of banks, the
+proposal to significantly increase the amount of financial sanctions, penalties and
+fines and strengthen the effective system of responsibility was put into practice.
+      The reliability of the research results is determined by the fact that the
+implemented approaches, methods, and theoretical data are obtained from official
+sources, and that the presented analyses and experimental work meet the reliability
+requirements based on practical data from the Central Bank.
+      Scientific and practical significance of the research results. The results of
+this research will be of great importance to the stakeholders. The Central Bank, as
+the primary regulator of commercial banks, assists in the early detection of emerging
+risks in banks and credit organizations and in studying the possibility of taking
+corrective measures.
+      Implementation of the research results. Based on the scientific results
+obtained to improve risk-based banking supervision:
+      the proposal to develop a mechanism for dynamic assessment of banking
+activities based on automated real-time monitoring of key risk indicators such as
+capital adequacy, asset quality, liquidity status, and concentration level in
+monitoring bank stability has been implemented by the Central Bank of the Republic
+of Uzbekistan (Certificate of the Central Bank of the Republic of Uzbekistan No.
+18-10/1507 dated October 23, 2025). As a result, the human factor in the control
+processes of the Central Bank was reduced by 20%, efficiency was further increased
+and transparency of activities was ensured;
+      the proposal to determine a positive deviation of ±10 percent from the average
+indicators of the banking system in accordance with the prudential standards of
+commercial banks and the individual risk profile when identifying objects with a
+high level of risk in the banking inspection as early warning signals has been adopted
+by the Central Bank of the Republic of Uzbekistan (Certificate of the Central Bank
+of the Republic of Uzbekistan No. 18-10/1507 dated October 23, 2025). As a result,
+through automated "signals" in remote monitoring systems, the need and priority of
+inspection were determined, control resources were targeted, and 86 risk-prone
+objects were identified, and the effectiveness of inspections was increased;
+56
+      the proposal to introduce a system for assessing the level of fulfillment based
+on "green," "yellow," and "red" ratings for effective monitoring of the fulfillment of
+requirements and recommendations provided by the Central Bank regarding
+deficiencies identified during banking inspections has been adopted by the Central
+Bank of the Republic of Uzbekistan (Certificate of the Central Bank of the Republic
+of Uzbekistan No. 18-10/1507 dated October 23, 2025). As a result, through this
+mechanism, the state of implementation of the instructions and recommendations
+given for each commercial bank was assessed, and an appropriate rating was
+established for their timely and full implementation;
+      in order to prevent potential risks in the banking system and increase the
+effectiveness of preventive control, the proposal to introduce the practice of
+summarizing serious errors and deficiencies identified during inspection processes
+in individual banks in an anonymous form without disclosing the name of the bank
+or the responsible person, and to regularly disseminate them to all commercial banks
+has been adopted by the Central Bank of the Republic of Uzbekistan (Certificate of
+the Central Bank of the Republic of Uzbekistan No. 18-10/1507 dated October 23,
+2025). As a result, the effectiveness of control was increased by early warning the
+banking system of potential risks, preventing the recurrence of 24 similar serious
+errors that occurred in other banks during 2025.
+      Approbation of the research results. The results of this study were discussed
+at 8 national and 3 international scientific-practical conferences.
+      Publication of research results. A total of 11 scientific works have been
+published on the topic of the dissertation, including 8 scientific articles in scientific
+journals recommended by the Supreme Attestation Commission of the Republic of
+Uzbekistan for the publication of the main scientific results of dissertations,
+including 3 in foreign journals.
+      Structure and volume of the dissertation. The dissertation consists of an
+introduction, three chapters, a conclusion, and a list of references. The volume of the
+dissertation is 141 pages.
+
+
+
+
+                                                                                      57
+                       EʼLON QILINGAN ISHLAR ROʻYXATI
+                      СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                          LIST OF PUBLISHED WORKS
+
+                                  I boʼlim (I chast, part I)
+       1. Jumanazarov M.J. Oʻzbekistonda banklarni nazorat qilish evolyutsiyasi.
+“Iqtisodiy taraqqiyot va tahlil” ilmiy elektron jurnal, 2024-yil, Noyabr. № 11-son.
+485-492 b. https://www.researchgate.net/publication/387028157 (№12, Index
+Copernicus, 08.00.00, OAK rayosatining 2023-yil 29-dekabrdagi 347-son qarori).
+       2. Jumanazarov M.J. Bank nazoratining turlari. “Iqtisodiyot va innovatsion
+texnologiyalar” ilmiy elektron jurnal, 2025-yil Yanvar. № 1-son 1-12 b.
+https://iqtisodiyot.tsue.uz/journal/index.php/iit/article/view/626      (№12,      Index
+Copernicus, 08.00.00, OAK rayosatining 2024-yil 28-avgustdagi 360/5-son qarori).
+       3. Jumanazarov M.J. The role of Banking Control in Maintaining Banking
+Stability in Uzbekistan. “American Journal of Economic and Business
+Management”, ISSN:2576-5973 Vol. 8 Issue 3, 2025 8(3) pp.1301-1308
+https://globalresearchnetwork.us/index.php/ajebm/article/view/3415/2971 (№12,
+Index Copernicus, 08.00.00, OAK rayosatining 2024-yil 28-avgustdagi 360/5-son
+qarori).
+       4. Jumanazarov M.J. Banklarda risklarni nazorat qilishning amaliyoti. “Yashil
+iqtisodiyot va taraqqiyot” ijtimoiy, iqtisodiy, texnologik, ilmiy, ommabop jurnal,
+2025-yil      aprel.     №      4-son     686-691       b.    https://yashil-iqtisodiyot-
+taraqqiyot.uz/journal/index.php/GED/article/view/4980/3299             (№12,       Index
+Copernicus, 08.00.00, OAK rayosatining 2023-yil 1-apreldagi 336/3-son qarori).
+       5. Jumanazarov M.J. Riskka asoslangan bank nazorati muhimligi. “Ilm fan va
+innovatsiya” Respublika ilmiy-amaliy konferensiyasi. 16.04.2024-yil 2(9)-son. 120-
+122 b. https://www.in-academy.uz/index.php/SI/article/view/33287
+       6. Jumanazarov M.J. Riskka asoslangan ban nazoratining samaradorligi
+“Moliya bozorini rivojlantirishning ustuvor yo‘nalishlari, zamonaviy tendensiyalari
+va istiqbollari” mavzusida IV Respublika ilmiy-amaliy konferensiyasi. 25.03.2025-
+yil 2(9)-son. 97-99 b. https://sci-p.uz/index.php/editions/article/view/2262
+       7. Jumanazarov M.J. Issues of bank supervision in developed countries
+“International conference on interdisciplinary science” December 6, 2025. Volume-
+02, ISSUE-11. 245-249 b. https://zenodo.org/records/17839316
+       8. Jumanazarov M.J. Macroeconomic significance of risk-based supervision
+“International Conference on Multidisciplinary Science” 2025 Volume-3, ISSUE-
+10. 209-2011 b. https://doi.org/10.5281/zenodo.17837554
+
+
+
+
+58
+Avtoreferat «Public Publish Printing» nashriyotida tahrirdan oʻtkazildi.
+
+
+
+
+                Bosishga ruxsat etildi: 10.08.2026-yil
+              Bichimi 60x84 1/16 , «Times New Roman»
+              garniturada raqamli bosma usulida bosildi.
+       Shartli bosma tabogʻi 3,2. Adadi: 100. Buyurtma: №89.
+
+                  «Public Publish Printing» MCHJ
+                    bosmaxonasida chop etildi.
+              Toshkent, M.Ulugʻbek tum., Moylisoy, 22.
+
+                                                                           59
+

@@ -1,0 +1,2432 @@
+       TASHKENT INTERNATIONAL UNIVERSITY
+      HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+      DSc.22/29.12.2023.I.175.01 RAQAMLI KENGASH
+O‘ZBEKISTON RESPUBLIKASI BANK-MOLIYA AKADEMIYASI
+
+
+
+
+           OLIMJANOVA NIGORA ALISHEROVNA
+
+
+
+        TIJORAT BANKLARI KAPITALIDA DAVLAT
+           ULUSHINI KAMAYTIRISH YO‘LLARI
+
+
+
+               08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+     Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                            AVTOREFERATI
+
+
+
+
+                             Toshkent – 2024
+
+
+                                                                          1
+                                                                                               UDK: 336.71(575.1)
+
+
+                     Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD)
+                          dissertatsiyasi avtoreferati mundarijasi
+
+    Оглавление автореферата диссертации доктора философии (PhD)
+                     по экономическим наукам
+
+         Content of dissertation abstract of doctor of philosophy (PhD) on
+                                economical sciences
+
+
+
+
+Olimjanova Nigora Alisherovna
+Tijorat banklari kapitalida davlat ulushini kamaytirish yo‘llari........................
+
+
+
+
+Олимжанова Нигора Алишеровна
+Пути уменьшения государственной доли в капитале коммерческих
+банков................................................................................................................
+
+
+
+
+Olimjanova Nigora Alisherovna
+Ways to reduce the public share in the capital of commercial banks................
+
+
+
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованных работ
+List of published works ………….………….……….………….……...…….
+
+
+
+
+                                                                                                                         2
+       TASHKENT INTERNATIONAL UNIVERSITY
+      HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+      DSc.22/29.12.2023.I.175.01 RAQAMLI KENGASH
+O‘ZBEKISTON RESPUBLIKASI BANK-MOLIYA AKADEMIYASI
+
+
+
+
+           OLIMJANOVA NIGORA ALISHEROVNA
+
+
+
+        TIJORAT BANKLARI KAPITALIDA DAVLAT
+           ULUSHINI KAMAYTIRISH YO‘LLARI
+
+
+
+               08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+     Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                            AVTOREFERATI
+
+
+
+
+                             Toshkent – 2024
+
+
+                                                                          3
+             KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahonda tijorat banklari
+kapitali barqarorligini ta’minlash ularning milliy iqtisodiyotni rivojlantirishdagi rolini
+oshirishda xususiylashtirish jumladan, kapitalda davlat ulushini kamaytirish bugungi
+kunning zaruriy tamoyillaridan biri hisoblanadi. Tijorat banklari kapitalining yetarli
+darajada shakllantirilmaganligi banklar to‘lov qobiliyatining, iqtisodiyot sub’ektlari
+o‘rtasida bank faoliyatiga ishonchning pasayishiga, bu o‘z navbatida iqtisodiy siklga
+salbiy ta’sir etadi. Xalqaro amaliyotda bu masalaga jiddiy e’tibor berilishiga
+qaramasadan qator muammoli holatlar yuz bermoqda. Xususan, «Xalqaro Bazel
+qo‘mitasi tomonidan kapitalning konservatsion buferini 1,8 foizdan 2,5 foizga, asosiy
+kapitalga bo‘lgan talabni 6,3 foizdan 7,0 foizga, umumiy kapitalga bo‘lgan talabni esa
+9,8 foizdan 10,5 foizga oshirganligi», bundan tashqari banklar tomonidan operatsion
+risk talablarini buzganligi uchun qo‘llanilgan jarimalar 58 mlrd.yevro va 65
+mlrd.yevrodan oshganligi1, bu masalaning yana ham jiddiyligidan dalolat beradi.
+Tijorat banklarini xususiylashtirish orqali kapitali barqarorligini ta’minlash,
+banklarning kapitali tarkibida davlat ulushini qisqartirish hamda regulyativ kapitalning
+yetarliligiga qo‘yiladigan talablarni oshirishda kapitalning davlatga tegishli qismini
+xususiylashtirish muhim ekanligi ushbu sohaga alohida e’tibor qaratilishini taqazo
+etmoqda.
+      Jahonda tijorat banklari kapitalida davlat ulushini kamaytirish, kapital tarkibida
+xususiy kapital ulushini oshirish, tijorat banklarining moliyaviy barqarorligini oshirish,
+baqarorlik siyosatini shakllantirish va samaradorligini oshirish, banklarning kapital
+bazasini mustahkamlash, xalqaro Bazel andozalari va me’yorlariga moslashtirish,
+kapital elementlari, yetarliligiga qo‘yilgan me’yoriy talablari kabi masalalarga
+bag‘ishlangan tadqiqotlar olib borilmoqda. Shuningdek, ushbu tadqiqotlarda tijorat
+banklari aksiyalarining oldi-sotdisi va bahosining shakllanishida ochiqlik va shaffoflik,
+tijorat banklari qo‘shimcha kapital manbasining zaifligi va uni shakllanishiga ta’sir
+etayotgan omillar, bank jami kapitali o‘sish darajasining YaIMga nisbati, banklar
+kapitali tarkibida davlat ulushining yuqoriligi, tijorat banklari kapitallashuv jarayonida
+foizli daromadlarning roli ilmiy va amaliy jihatdan tadqiqotlarni bajarish zarurligi kabi
+dolzarb masalalar ilmiy tadqiqot olib borish zaruriyatini keltirib chiqarmoqda.
+      O‘zbekiston Respublikasi tijorat banklari kapitaliga xususiy kapitalni yanada
+ko‘proq jalb etish va banklarning moliyaviy imkoniyatlarini yanada oshirishga e’tibor
+qaratilmoqda. «Davlat ulushiga ega tijorat banklarida transformatsiya jarayonlarini
+yakunlab 2026 yil yakuniga qadar bank aktivlarida xususiy sektor ulushini 60 foizgacha
+yetkazish»2 kabi qator vazifalar belgilab qo‘yilgan. Tijorat banklari kapitali
+barqarorligini ta’minlashda davlat ulushini kamaytirish va barqaror manbalar hisobiga
+muntazam oshirib borish, banklarning oddiy aksiyalarini fond bozorida erkin
+muomalasini ko‘paytirish, umumiy kapital tarkibida emission daromad ulushining,
+
+1
+ Manba: http://www.worldbank.org/ - rasmiy sayt ma’lumotlari.
+2
+  O‘zbekiston Respublikasi Prezidentining 2022 yil 28 yanvardagi «2022-2026 yillarga mo‘jallangan Yangi
+O‘zbekistonning taraqqiyot strategiyasi to‘g‘risida»gi PF-60-sonli Farmonining 27-maqsadi.
+
+                                                                                                     5
+bank aksiyalariga to‘lanadigan divedend miqdorining juda pastligi, depozit bazasining
+zaifligi, muammoli kreditlar ulushining ortish tendensiyasiga egaligi kabi omillar
+banklarning kapitali barqarorligini ta’minlashga va oshirishga salbiy ta’sirning
+mavjudligi bugungi kunda mazkur yo‘nalish bo‘yicha ilmiy tadqiqotlarni amalga
+oshirishni yanada kengaytirish maqsadga muvofiq.
+      Mazkur dissertatsiya tadqiqoti O‘zbekiston Respublikasi Prezidentining 2022-yil
+28-yanvardagi PF-60-son «2022-2026 yillarga mo‘ljallangan yangi O‘zbekistonning
+taraqqiyot strategiyasi to‘g‘risida»gi, 2020-yil 12-maydagi PF-5992-son «2020-2025
+yillarga mo‘ljallangan O‘zbekiston Respublikasining bank tizimini isloh qilish
+strategiyasi to‘g‘risida»gi farmonlari, 2023-yil 18-avgustdagi PQ-283-son «Davlat
+ishtirokidagi korxonalar va tijorat banklarini isloh qilish mexanizmini takomillashtirish
+bo‘yicha qo‘shimcha chora-tadbirlari to‘g‘risida»gi, 2017-yil 12-sentabrdagi PQ-
+3270-son «Respublika bank tizimini yanada rivojlantirish va barqarorligini oshirish
+chora-tadbirlari to‘g‘risida»gi qarorlari hamda ushbu sohaga oid boshqa normativ-
+huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishda mazkur dissertatsion
+tadqiqot muayyan darajada xizmat qiladi.
+      Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yo‘nalishlariga bog‘liqligi. Mazkur tadqiqot ishi respublika fan va texnologiyalari
+rivojlanishining I. «Demokratik va huquqiy jamiyatni ma’naviy-axloqiy va madaniy
+rivojlantirish, innovatsion iqtisodiyotni shakllantirish» ustuvor yo‘nalishiga muvofiq
+bajarilgan.
+      Mavzuning o‘rganilganlik darajasi. Tijorat banklari kapitalida davlat ulushini
+kamaytirish jumladan, kapitalning mohiyati, tarkibi uning yetarliligi va kapitallashuv
+darajasini takomillashtirish masalalari xorijlik klassik va zamonaviy iqtisodiy olimlar
+– F.Mishkin va D.Sinki, I.Traxtenberg, V.Kiselev, J.Matuk, Dj.Barlton, D.Mak-
+Notton, E.Rid, G.Beloglazova, E.Jukov, S.Kudryashov, O.Lavrushinlarning ilmiy
+ishlarida chuqur tadqiq qilingan3.
+      O‘zbekistonlik iqtisodchi olimlardan Sh.Abdullaeva, B.Berdiyarov, A.Omonov,
+U.Ortiqov, B.Shermuxamedov, A.Vasiev, M.Egamovalarning ilmiy ishlarida bank
+kapitalining alohida jihatlari tadqiq qilingan 4.
+3
+  Мишкин Ф.С. Экoнoмическaя теoрия денег, бaнкoвскoгo делa и финaнсoвых рынкoв. Пер. сaнгл. – М.: OOO
+«И.Д. Вилямс», 2013. – С. 880.; Синки, Д. Финансовый менеджмент в коммерческом банке и в индустрии
+финансовых услуг / - Москва: Алп. Бизнес Букс, 2016. - 1018 с.; Трахтенберг И. Денежное обращение и кредит
+при капитализме. – Москва.: 1962.- С.547.; Банковское дело под ред. Проф. И.О.Лаврушина М- «ФиС» 2021г.; В
+Киселев. «Управление банковским капиталом» Москва «Экономика» 1997. С-18. Жан Матук. «Финансовые
+системы Франции и других стран» 1том перевод с англ. Москва «Финстатикформ» 1994г С-25. Э.Рид, Котлер,
+Э.Гилл ва Р.Смит Коммерческие банки. перевод с анг. М. «Прогресс» 1933г. С-189. Борисов А.Б. Болшой
+экономический словар. Издание второе, Москва Книжный мир 2006 г С-299. Крис Дж Барлтон ва Д Мак-Нотон
+«Банковские учреждения в развивающихся странах», 2 том. Всемирный банк Вашингтон, Д.С 1992г. С-101.;
+Лаврушин О.И. «Банковское дело: современная система кредитования»: учебное пособие – М.: - КНОРУС, 2016.
+– 360 с.; Банковское дело: учебник / под ред. Белоглазовой Г. Н., Кроливецкой Л. П. — М.: Финансы и статистика,
+2010. —592 с.; Банковское дело: учебник / под ред. Е.Ф. Жукова, Н. Д. Эриашвили. – 4-е изд. – Москва: ЮНИТИ,
+2014. – 687 с.; Кудряшов С. В. Потребителский банковский кредит: ресурсное обеспечение и эффективност:
+автореф. дис. на получение наук. степени канд. экон. наук: – Ирпен, 2007. — 19 с.
+4
+  Ш.Абдуллаева. «Банк иши» Дарслик. Ўзбекистон Республикаси Олий ва ўрта махсус таълим вазирлиги. -
+Тошкент: Иқтисод-Молия, 2017. - 732 б.; Б.Бердияров. Ўзбекистон Республикаси тижорат банкларининг
+ликвидлилиги ва тўлов қобилиятини таъминлаш масалалари. И.ф.д. дисс. автореф. — Тошкент, 2020. -Б.72.;
+А.Омонов. Тижорат банкларининг ресурсларини самарали бошқариш масалалари. Иқтисод фанлари доктори
+
+                                                                                                             6
+      Shu bilan birga, O‘zbekiston tijorat banklari kapitallashuv darajasini, xususan,
+banklarning kapitalini barqaror manbalar hisobidan oshirish, banklar kapitali tarkibida
+davlat ulushini kamaytirish, banklarning aksiyalarini aholi va yuridik tashkilotlarga
+sotish mexanizmini joriy etish va shaffofligini oshirish bilan bog‘liq muammolarni hal
+etishga asosiy e’tibor qaratilmoqda. Bunda tijorat banklari kapitallashuv darajasini
+oshirish bo‘yicha mavjud muammolarni aniqlash va ularni yechimini topish muhim
+masalalaridan biri etib belgilangan. Dissertatsiya ishi doirasida mazkur
+muammolarning yechimlari hamda banklar o‘rtasida sog‘lom raqobatni
+shakllantirishga xizmat qiladigan ilmiy taklif va amaliy tavsiyalar ishlab chiqish
+tadqiqot mavzusining dolzarbligini namoyon etadi.
+      Dissertatsiya mavzusining dissertatsiya bajarilgan oliy ta’lim muassasasi
+ilmiy tadqiqot ishlari rejalari bilan bog‘liqligi. Dissertatsiya ishi O‘zbekiston
+Respublikasi Bank-moliya akademiyasining ilmiy tadqiqot ishlari rejasining «Jahon
+iqtisodiyotining globallashuvi va O‘zbekiston Respublikasi iqtisodiyotining barqaror
+rivojlanishi sharoitida bank-moliya, soliq va investitsiya faoliyatini modernizatsiyalash
+muammolarini ilmiy ishlab chiqish» mavzusi doirasida bajarilgan.
+      Tadqiqotning maqsadi O‘zbekiston tijorat banklari kapitali tarkibida davlat
+ulushini kamaytirish bo‘yicha taklif va tavsiyalar ishlab chiqishdan iborat.
+      Tadqiqotning vazifalari:
+      tijorat banklari kapitalida davlat ulushini kamaytirishning nazariy
+yondashuvlarini tadqiq qilish;
+      tijorat banklari kapitalida davlat ulushini kamaytirish va ustav kapitalini oshirish
+bo‘yicha taklif ishlab chiqish;
+      tijorat banklari kapitalida davlat ulushini kamaytirishning xorijiy mamlakatlar
+tajribalarini o‘rganish;
+      tijorat banklari kapitalidagi davlat ulushini kamaytirishning me’yoriy-huquqiy
+asoslarini baholash;
+      O‘zbekiston tijorat banklari kapitalidagi davlat ulushini kamaytirishning
+amaldagi holatiga baho berish;
+      tijorat banklari kapitalidagi davlat ulushini kamaytirishga ta’sir qiluvchi
+omillarning ekonometrik tahlil qilish;
+      tijorat banklari kapitalidagi davlat ulushini kamaytirish amaliyotidagi
+muammolarni aniqlash va ularni bartaraf etish bo‘yicha takliflar ishlab chiqish;
+      tijorat banklari kapitalida davlat ulushini kamaytirish bo‘yicha taklif va tavsiyalar
+ishlab chiqish.
+
+
+илмий даражасини олиш учун бажарилган диссертация автореферати. – Т.: БМА, 2008. – 36 б.; У.Ортиқов.
+Тижорат банклари молиявий ресурсларини бошқаришни такомиллаштириш. Иқтисод фанлари доктори илмий
+даражасини олиш учун бажарилган диссертация автореферати. – Т.: ТМИ, 2023. – 70 б.; А.Васиев. Тижорат
+банклари капиталининг барқарорлигини ошириш. Иқтисодиёт бўйича фалсафа доктори (PhD).Дис. автореферати.
+– Т.: ТМИ, 2021. – 29б.; B.Shermuxamedov. Tijorat banklarida depozit siyosatini metodologik asoslarini
+takomillashtirish. Iqtisod fanlari doktori ilmiy darajasini olish uchun bajarilgan dissertatsiya avtoreferati. – T.: TMI, 2024.
+– 71 б.; Эгамова М.Э. Тижорат банклари капиталлашув даражасини оширишда даромаднинг роли. Иқтисодиёт
+бўйича фалсафа доктори (PhD). дис. автореферати. – Т.: ТМИ, 2019. – 28 б.
+
+                                                                                                                             7
+      Tadqiqotning ob’ekti sifatida O‘zbekistonda davlat ulushiga ega bo‘lgan tijorat
+banklari olingan.
+      Tadqiqotning predmeti tijorat banklari kapitalida davlat ulushini kamaytirish
+jarayonida yuzaga keladigan iqtisodiy-moliyaviy munosabatlar hisoblanadi.
+      Tadqiqotning usullari. Dissertatsiya ishida ilmiy abstraksiyalash, mantiqiy
+fikrlash, qiyosiy va empirik tahlil, monografik tadqiqot, dinamikada o‘rganish,
+ma’lumotlarni guruhlash, taqqoslash, korrelyatsion va regression tahlil, iqtisodiy-
+matematik modellashtirish usullaridan foydalanilgan.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+      tijorat banklarining barqarorlik reytingida davlat ulushi 50 foiz va undan yuqori
+bo‘lgan banklarning ustav kapitali tarkibidagi davlat ulushini 10%iga kamayishiga 5
+ball, 20% kamayishiga 10 ball hamda 30% kamayishiga 20 balldan qo‘shimcha ball
+berish taklif etilgan;
+      tijorat banklarining yangidan chiqarayotgan aksiyalari umumiy hajmining kamida
+25 foizdan ortiq qismini fond birjalarida ommaviy joylashtirish orqali banklar
+kapitalidagi davlat ulushini kamaytirishning maqsadga muvofiqligi asoslangan;
+      davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank tomonidan
+berilgan imtiyozli kreditlarning kredit porfelidagi hajmini 8 foizdan oshirmaslikning
+maqsadga muvofiqligi asoslangan;
+      tijorat banklari kapitali tarkibida ustav kapitali hajmini oshirishda olingan sof
+foydaning 20 foizini ustav kapitaliga yo‘naltirish orqali banklarning kapital buferini
+ta’minlash taklif etilgan.
+      Tadqiqotning amaliy natijasi quyidagilardan iborat:
+      tijorat bank kapitali tarkibida davlat ulushini qisqartirishda banklarning ustav
+kapitalining amaldagi miqdorini bosqichma-bosqich, ya’ni birinchi yilda 100 foizga,
+ikkinchi yilda 200 foizga va uchinchi yilda 300 foizga oshirish taklif etilgan;
+      tijorat banklarining reytingi barqarorlashuvi, ustav kapitali amaldagi miqdorini
+oshishi va aksiyalarni ommaviy joylashtirishning bank kapitalidagi davlat ulushini
+kamaytirishning 2030 yilgacha bo‘lgan prognoz ko‘rsatkichlari ishlab chiqilgan;
+      tijorat banklari kapitali tarkibida davlat ulushini 15-20 foizgacha tushirilishi,
+banklarning qimmatli qog‘ozlar bozoridagi faoliyatini 50 foizgacha oshishi
+asoslangan;
+      tijorat banklari tomonidan uzoq muddatli subordinar qarz majburiyatlarini
+muomalaga chiqarish orqali tijorat banklari kapitalidagi davlat ulushinini kamaytirish
+taklif etilgan.
+      Olingan natijalarning ishonchliligi tijorat banklari kapitali barqarorligini
+oshirish va kapitaldagi davlat ulushini kamaytirishning nazariy va amaliy
+muammolariga bag‘ishlangan mahalliy va xorijiy olimlar hamda mutaxassislarning
+ilmiy qarashlarini tadqiq qilinganligi, O‘zbekiston Respublikasi Davlat statistika
+qo‘mitasi, O‘zbekiston Respublikasi Markaziy banki, mamlakatimiz tijorat banklari
+hisobot va ma’lumotlarini tahlili bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot doirasida ishlab
+chiqilgan ilmiy taklif va amaliy tavsiyalar tijorat banklari kapitali barqarorligini
+                                                                                     8
+ta’minlash va amaliyotini takomillashtirish yuzasidan ilmiy apparatni boyitishi bilan
+belgilanadi. Tijorat banklari kapitali barqarorligini ta’minlashda kapitalning
+yetarliligini aniqlashda, kapital yetarliligi borasida tegishli usullar va modellarini
+ishlab chiqishda, shuningdek bu borada amalga oshirilayotgan tadqiqot ishlarida
+foydalanish mumkinligi bilan izohlanadi.
+      Tadqiqotning amaliy ahamiyati tijorat banklari kapitallashuv darajasini, tijorat
+banklari kapitali barqarorligini oshirish va uning tarkibida davlat ulushini kamaytirish
+amaliyotida shuningdek mazkur yo‘nalishda normativ-huquqiy hujjatlar loyihalarini
+ishlab chiqishda foydalanish mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kapitalida davlat
+ulushini kamaytirish yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+      tijorat banklarining barqarorlik reytingida davlat ulushi 50 foiz va undan yuqori
+bo‘lgan banklarning ustav kapitali tarkibidagi davlat ulushini 10%iga kamayishiga 5
+ball, 20% kamayishiga 10 ball hamda 30% kamayishiga 20 balldan qo‘shimcha ball
+berish taklifi O‘zbekiston Respublikasi Vazirlar Mahkamasining 2024 yil 30
+yanvardagi 55-son «Tadbirkorlik sub’ektlarining barqarorlik reytingini aniqlash tartibi
+to‘g‘risidagi nizomni tasdiqlash haqida» Qaroriga kiritilgan. («O‘zbekiston sanoat-
+qurilish banki» ATBning 2024 yil 11 martdagi 09-06/1932-son ma’lumotnomasi).
+Ushbu taklif natijasida banklarda davlat ulushini kamaytirish borasida olib
+borilayotgan ishlarni faollashtirishga hissa qo‘shgan;
+      tijorat banklarining yangidan chiqarayotgan aksiyalari umumiy hajmining kamida
+25 foizdan ortiq qismini fond birjalarida ommaviy joylashtirish orqali banklar
+kapitalidagi davlat ulushini kamaytirish taklifi O‘zbekiston Respublikasi
+Prezidentining 2023 yil 2 sentabrdagi PQ-291-son «Kapital bozorini rivojlantirishning
+qo‘shimcha chora-tadbirlari to‘g‘risida»gi Qarori bilan tasdiqlangan «2023-2025
+yillarda kapital bozorini rivojlantirish bo‘yicha yo‘l xaritasi»ni ishlab chiqishda
+foydalanilgan. («O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi
+09-06/1932-son ma’lumotnomasi). Ushbu taklif natijasida bankning 25 foizdan ortiq
+aksiyalari fond birjalarida ommaviy joylashtirilgan;
+      davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank tomonidan
+berilgan imtiyozli kreditlarning kredit porfelidagi hajmini 8 foizdan oshirmaslik taklifi
+«O‘zbekiston sanoat-qurilish banki» ATB aksiyadorlari umumiy yig‘ilishining 2023
+yil 30 noyabrdagi 07/11-sonli bayonnomasi bilan tasdiqlangan «O‘zbekiston sanoat-
+qurilish bankni 2024-2026 yillarda rivojlantirish strategiyasi»ga kiritilgan.
+(«O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi 09-06/1932-son
+ma’lumotnomasi). Ushbu taklif natijasida bankda imtiyozli kreditlash amaliyotlarini
+cheklash, tadbirkorlik sub’ektlarini, yirik korxonalarni va aholini bozor tamoyillari
+asosida kreditlash belgilangan hamda 2023 yilda imtiyozli kreditlar ulushi 2022 yilga
+nisbatan 7,2 foizga kamaygan;
+      tijorat banklari kapitali tarkibida ustav kapitali hajmini oshirishda olingan sof
+foydaning 20 foizini ustav kapitaliga yo‘naltirish orqali banklarning kapital buferini
+ta’minlash taklifi «O‘zbekiston sanoat-qurilish banki» ATB aksiyadorlari umumiy
+yig‘ilishining 2023 yil 30 noyabrdagi 07/11-sonli bayonnomasi bilan tasdiqlangan
+                                                                                       9
+«O‘zbekiston sanoat-qurilish bankni 2024-2026 yillarda rivojlantirish strategiyasi»ga
+kiritilgan. («O‘zbekiston sanoat-qurilish banki» ATBning 2024 yil 11 martdagi 09-
+06/1932-son ma’lumotnomasi). Ushbu taklif natijasida «O‘zbekiston sanoat-qurilish
+banki» ATBida har yili Aksiyadorlar umumiy yig‘ilishining qaroriga ko‘ra olingan sof
+foydaning 20 foizdan oshiq qismi zaxira kapitalini oshirishga yo‘naltirilgan.
+      Tadqiqot natijalarining aprobatsiyasi. Dissertatsiyaning asosiy g‘oya va
+xulosalari 3 ta xalqaro, 2 ta respublika ilmiy-amaliy anjumanlarida muhokamadan
+o‘tkazilgan.
+      Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya ishi bo‘yicha jami 12
+ta ilmiy ish, shu jumladan, Oliy attestatsiyasi komissiyasi tomonidan tavsiya etilgan
+mahalliy ilmiy nashrlarda 4 ta, nufuzli xorijiy jurnallarda 3 ta ilmiy maqola nashr
+etilgan.
+      Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+sakkizta paragraf, xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat.
+Dissertatsiya asosiy matnining hajmi 143 betni tashkil etadi.
+
+                  DISSERTATSIYANING ASOSIY MAZMUNI
+
+      Dissertatsiyaning kirish qismida dissertasiya mavzusining dolzarbligi va zarurati
+asoslangan, tadqiqotning maqsadi va asosiy vazifalari, ob’ekti va predmeti
+shakllantirilgan, respublika fan va texnologiyalari rivojlanishining ustuvor
+yo‘nalishlariga bog‘liqligi ko‘rsatilgan, tadqiqotning ilmiy yangiligi va amaliy
+natijalari bayon etilgan, olingan natijalarning ilmiy va amaliy ahamiyati yoritib
+berilgan. Shuningdek, tadqiqot natijalarining amaliyotga joriy etilishi, nashr qilingan
+ishlar va dissertasiya tuzilishi bo‘yicha ma’lumotlar keltirilgan.
+      Dissertatsiyaning «Tijorat banklari kapitalini shakllantirishning nazariy
+asoslari va xorijiy davlatlar tajribalari» deb nomlangan birinchi bobida tijorat
+banklari kapitalini shakllantirish va unda davlat ulushini kamaytirishning nazariy
+yondashuvlari, tijorat banklari kapitalida davlat ulushini kamaytirishning uslubiy
+jihatlari va xususiyatlari hamda tijorat banklari kapitalida davlat ulushini
+kamaytirishning xorijiy mamlakatlar tajribalaridan O‘zbekiston amaliyotida
+foydalanish imkoniyatlari o‘rganilgan. Tadqiqot oldiga qo‘yilgan vazifalardan kelib
+chiqqan holda, tijorat banklari kapitalida davlat ulushining nazariy-iqtisodiy asoslariga
+doir natija va xulosalar shakllantirilgan.
+      Tijorat banklari o‘z faoliyatini yuritishida birinchi navbatda yetarli darajadagi
+sarmoyaga ega bo‘lishi talab etiladi, bu esa yetarli darajada kapitalga egalik va barqaror
+daromad bazasiz amalga oshirishni tasavvur qilib bo‘lmaydi. Shu sababdan ham tijorat
+banklari kapitali bankni tashkil etish, ochish jarayonida, asosiy faoliyatni yuritish
+jarayonida Markaziy bank tomonidan belgilangan iqtisodiy normativ me’yorlarni
+bajarishida eng muhim manba va bank faoliyatida yuzaga kelishi mumkin bo‘lgan
+yo‘qotishlarni qoplashda «himoya yostiqchasi» vazifasini bajaruvchi asosiy moliyaviy
+manba bo‘lib xizmat qiladi. Bugungi iqtisodiy o‘sish va tijorat banklarining
+
+                                                                                       10
+transformatsiyasi jarayonlarida tijorat banklari kapitalining yetarliligi hamda
+barqarorligi masalasi eng dolzarb muammolardan biri bo‘lib qolmoqda.
+      Shunday ekan tijorat banklari kapitalining mohiyatini qiyosiy tadqiq qilish, uni
+barqaror manbalar hisobidan shakllantirish va monandligini ta’minlash masalasi doimo
+dolzarb vazifalardan hisoblanadi.
+      Bank kapitali va uning bank faoliyati jarayonlaridagi ta’sirini nazariy asoslarini
+bir qator olimlar tadqiq etgan holda turli qarashlar va nazariyalarni bayon etganlar.
+Jumladan, klassik namoyondalardan hisoblanmish A.Smit «Bank – alohida olingan ish
+yurituvchilarning jamiyat uchun foydali nihoyatda qimmatli hisoblangan, lekin ular
+uchun vaqtinchalik foydalanilmayotgan o‘lik kapitalni aktiv va ishlab chiqaruvchi
+kapitalga aylantiradi»5 deb ta’riflagan.
+      Professor I.Traxtenbergning fikricha ham banklar kapital yaratuvchi tashkilot
+hisoblanadi. O‘z faoliyatida ular kapitalni tashkil etish va uni to‘plash jarayonlarini
+tezlashtiradi hamda kapitalni qayta taqsimlaydi 6.
+      Bank kapitalining iqtisodiy mohiyati to‘g‘risida iqtisodchi olimlar tomonidan turli
+xil fikrlar bildirilgan. Jumladan, professor V.M.Usoskin bank kapitaliga bank
+moliyaviy resurslarining muhim va ajralmas tarkibiy qismi sifatida qaraydi7 deya
+ta’kidlab o‘tgan. Rus iqtisodchisi G.G.Karobova bank kapitaliga bankning iqtisodiy
+mustaqilligi, barqarorligi va ishonchliligini ta’minlovchi, mohiyatiga ko‘ra to‘liq
+to‘langan fondlar majmui sifatida qaraydi 8. Haqiqatda bank kapitalining miqdori,
+uning moliyaviy barqarorligi va mustaqilligini tavsiflaydi. Iqtisodchi olim R.G.Olxova
+bank kapitalining iqtisodiy mohiyatini ochib berishda «himoya yostig‘i» degan
+iqtisodiy tushunchani oldinga suradi va bank kutilmaganda zarar ko‘rsa kapital himoya
+yostig‘i sifatida ko‘rilayotgan zarar oqibatlarini yengillashtiradi va bankning iqtisodiy
+jihatdan to‘lov qobiliyatini tiklab olish imkoniyatini yaratadi deb hisoblaydi 9.
+      Respublikamiz iqtisodchi olimlaridan Sh.Abdullaeva va A.Omonovlar bank
+kapitaliga quyidagicha ta’rif berishgan: «Tijorat banklarining kapitali barqaror manba
+bo‘lib, bankning operatsion jarayonida kutilmaganda yuzaga keladigan zararlarni
+qoplash imkonini beruvchi o‘ziga xos himoya vositasidir 10».
+      Shuningdek, M.Egamovaning tadqiqotlarida «Tijorat banklari faoliyatini
+sarmoyasiz, ya’ni yetarli darajada kapitallashuvsiz tasavvur qilib bo‘lmaydi. Shu bois
+tijorat banklari kapitali dastlab banklarni ochish jarayonida, keyinchalik esa Markaziy
+bankning iqtisodiy normativlarini bajarishda asosiy mezon va bank faoliyatida
+kutilmaganda vujudga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda «himoya
+yostiqchasi» sifatida muhim moliyaviy manba bo‘lib xizmat qilishini 11» ta’kidlagan.
+
+5
+  Смит А. Исследование о природе и причинах богацтв народа. – Петрозаводск.: 1993. - С.271.
+6
+  Трахтенберг И. Денежное обращение и кредит при капитализме. – Москва.: 1962. - С.547.
+7
+  Усоскин В.М. Современный коммерческий банк: Управление и операции.-М: URSS. 2019. - 328 с.
+8
+  Банковское дело: учебник / под ред. д.э.н., проф. Г.Г.Коробовой. 2-е изд., перераб. и доп. М.: Магистр, ИНФРА-
+М, 2023. -592 с.
+9
+   Олхова Р.Г. Банковское дело. Управление в современном банке. Учебное пособие. – М.: «КНОРУС» 2019.
+–283с.
+10
+   Ш.Абдуллаева, А.Омонов Тижорат банклари капитали ва уни бошқариш. - Т.: «Иқтисод - Молия» 2006. - 120 б.
+11
+   М.Эгамова. Тижорат банклари капиталлашув даражасини оширишда даромаднинг роли. иқтисодиёт фанлари
+бўйича фалсафа доктори (Doctor of Philosophy). Дис. автореферати. – Т.: ТМИ, 2019. – 28 б.
+
+                                                                                                             11
+      Tijorat banklari kapitali barqarorligini oshirish ko‘rqirrali jarayon bo‘lib, ushbu
+jarayonda asosiy e’tibor kapitalning tarkibiga qaratiladi. Bank kapitali barqarorligini
+oshirishning mulkchilik shaklidan kelib chiqqan holda uning bank faoliyatiga ta’sirini
+ko‘rib chiqamiz.
+      Bank faoliyatidagi eng muhim muammolardan biri yetarli darajadagi bank
+kapitali miqdorini ta’minlashdir. «Kapital» termini bankirlar uchun alohida
+ahamiyatga ega. Bu tushuncha birinchi navbatda bank egalari tomonidan kiritilgan
+hamda aksiyadorlik kapitalida joylashtirilgan mablag‘lar hamda taqsimlanmagan
+foydaga tegishlidir. Banklarga bo‘lgan ishonchni ta’minlab beruvchi tashkil
+qiluvchilardan biri bu – bank kapitalidir. Shu sababli bank kapitalining miqdori hamda
+sifati masalasi banklar uchun katta ahamiyat kasb etadi.
+      Tijorat banklari kapitali tarkibini shakllantirishda mulkchilik shaklini e’tiborga
+olish muhim hisoblanadi. Shu bilan birga bank amaliyotida kapitalning yetarliligiga
+ham alohida e’tibor qaratiladi.
+      Tijorat banklari kapitalining minimal miqdoriga bo‘lgan talab mulkchilik
+shaklidan qa’tiy nazar barcha tijorat banklari uchun bir xil bo‘lib, ushbu mablag‘ bank
+o‘z faoliyatini boshlashdan oldin to‘lig‘icha shakllantirilishi zarur hisoblanadi. Xalqaro
+bank tizimida ro‘y berayotgan iqtisodiy o‘zgarishlar hamda ularning halqaro miqyosda
+integratsiyalashuvi tijorat banklari kapitali tarkibiga qo‘yayotgan talablarni doimiy
+ravishda ko‘rib chiqish zaruriyatini keltirib chiqarmoqda. Dunyodagi rivojlangan
+hamda rivojlanayotgan mamlakatlarning asosiy qismi bank kapitali tarkibini
+shakllantirishda va uning yetarlilik darajasini belgilashda xalqaro Bazel qo‘mitasining
+andozalaridan keng foydalanishadi.
+      Xalqaro Bazel qo‘mitasining tashkil etilishi hamda ushbu qo‘mita tomonidan
+tijorat banklari kapitali tarkibi hamda uning yetarligiga bo‘lgan talabni halqaro bank
+amaliyotida yagona tarzda belgilab qo‘yilganligining asosiy sabablaridan biri, dunyo
+mamlakatlari o‘rtasida halqaro mehnat taqsimoti va halqaro hisob-kitoblarning
+rivojlanib hamda chuqurlashib borishi hisoblanadi. Shuningdek, dunyoda ishlab
+chiqarish kuchlarining rivojlanishi, valyuta bozorlarining tashkil etilishi, xalqaro
+xo‘jalik tizimining shakllanishi, xo‘jalik va iqtisodiy aloqalarning globallashuvi hamda
+xalqarolashuvi kabilar tijorat banklari kapitali yetarligiga qo‘yilgan talablarga yagona
+yondoshuv zarurligini keltirib chiqarmoqda. Aynan ushbu jarayonlar xalqaro moliya
+va bank tizimining iqtisodiy jihatdan barqarorligi hamda elastikligini oshirishni talab
+etadi.
+      Dissertatsiyaning «O‘zbekiston Respublikasi tijorat banklari kapitali
+tarkibining joriy holati tahlili» deb nomlangan ikkinchi bobida tijorat banklari
+kapitalidagi davlat ulushini kamaytirishning me’yoriy-huquqiy asoslari,
+O‘zbekistonda tijorat banklari kapitalidagi davlat ulushini kamaytirishning amaldagi
+holati tahlili va tijorat banklari kapitalidagi davlat ulushini kamaytirishga ta’sir etuvchi
+omillarning ekonometrik tahlillari amalga oshirilgan.
+      Tijorat banklari tomonidan bajarayotgan barcha xizmat turlari bevosita yoki
+bilvosita tijorat banklari kapitalining yetarliligiga va uning sifatiga to‘g‘ridan-to‘g‘ri
+bog‘liq bo‘lib, har qanday tijorat bankining to‘lovga qobilligini va risklardan xoliligini
+                                                                                         12
+baholashda tijorat banklari kapitalining yetarliligi asosiy omildir. Tijorat banklarining
+yetarli miqdorda kapitalga ega bo‘lishi hamda ularning likvidliligini ta’minlashda,
+faoliyati davomida duch keladigan risklardan zarar ko‘rmasdan chiqib ketish
+imkoniyatini yaratishdir.
+      Ta’kidlash joizki, O‘zbekiston Respublikasining yangi tahrirdagi «O‘zbekiston
+Respublikasining Markaziy banki to‘g‘risida»gi Qonunining qabul qilinishi va
+O‘zbekiston Respublikasi Prezidentining 2023-yil 18-avgustdagi PQ-283-son «Davlat
+ishtirokidagi korxonalar va tijorat banklarini isloh qilish mexanizmini takomillashtirish
+bo‘yicha qo‘shimcha chora-tadbirlari to‘g‘risida» qarorida iqtisodiyotni pul-kredit
+vositalari orqali tartibga solishni kuchaytirishda, tijorat banklarining ustav kapitali va
+to‘lov qobiliyatini ta’minlashda muhim o‘rin tutadi12.
+      O‘zbekiston tijorat banklari kapitali tarkibini mulkchilik shakli bo‘yicha tahlil
+qilganimizda davlat ulushi mavjud banklarda kreditlarning depozitlarga nisbati tahlil
+davrida 240 foizdan kam bo‘lmagan holatni kuzatish mumkin. Ya’ni mazkur banklar
+tomonidan ajratilayotgan kreditlar asosan jalb qilingan boshqa majburiyatlar/kreditlar
+va davlat ulushidagi kapital hisobidan berilmoqda. Bu esa ushbu banklarni mustaqil
+resurs jalb qilishni rag‘batlantirmaydi hamda shu majburiyatlar/kreditlarga bog‘lanib
+qoladi (1-rasm).
+
+     350,00%
+                                         302,01%
+     300,00%       283,89%
+                                                               268,66%                                           268,02%
+                                                                                       245,18%
+     250,00%
+
+     200,00%
+
+     150,00%   123,82%   118,87% 118,78%        119,93% 118,93%         119,09% 116,71%         116,60% 116,71%        119,17%
+                                                                                                                           117,71%
+                              98,74%                 99,81%                  89,16%                 100,41%
+     100,00%
+
+      50,00%
+
+       0,00%
+                DAVLAT    BOSHQA       DAVLAT      BOSHQA     DAVLAT       BOSHQA      DAVLAT     BOSHQA          DAVLAT    BOSHQA
+                ULUSHI    BANKLAR      ULUSHI      BANKLAR    ULUSHI       BANKLAR     ULUSHI     BANKLAR         ULUSHI    BANKLAR
+               MAVJUD                 MAVJUD                 MAVJUD                   MAVJUD                     MAVJUD
+               BANKLAR                BANKLAR                BANKLAR                  BANKLAR                    BANKLAR
+                   01.01.2020              01.01.2021               01.01.2022             01.01.2023                01.01.2024
+
+                             Aktivlarning majburiyatlarga nisbati          Kreditlarining depozitlarga nisbati
+
+    1-rasm. Davlat ulushi mavjud va boshqa banklarning taqqoslama
+ko‘rsatkichlari nisbati13, foizda.
+
+     Shuningdek, rasm ma’lumotlaridan ko‘rinadiki, davlat ulushi mavjud bo‘lmagan
+banklarda aktivlarning majburiyatlarga nisbatida ham, kreditlarning depozitlarga
+nisbatida ham teng karidor bo‘ylab dinamik o‘zgarishlar bo‘lgan. Ya’ni banklar
+majburiyatlari va depozitlari miqdoricha kreditlash va aktiv operatsiyalarni amalga
+oshirgan.
+
+12
+   O‘zbekiston Respublikasining "O‘zbekiston Respublikasining Maraaziy banki to’grisida"gi Qonuni. Qonun hujjatlari
+ma’lumotlari milliy bazasi: 03/19/582/4014-son, 12.11.2019 y.
+13
+   https://cbu.uz/oz/statistics/bankstats/ O‘zbekiston Respublikasi Markaziy banki ma’lumotlari
+
+                                                                                                                                      13
+      Yuqorida keltirilgan ma’lumotlar va tahlillardan kelib chiqqan holda
+mamlakatimiz tijorat banklarida davlat ulushini kamaytirish yo‘llaridan biri sifatida
+fikrimizcha, banklarga beriladigan ichki reyting baholash tizimidan foydalanish
+maqsadga muvofiqdir.
+      Bunda, davlat ulushi yuqori bo‘lgan banklarda ushbu ulushni kamaytirilishiga
+qarab qo‘shimcha ballar berish amaliyotini kiritish lozim bo‘ladi. Ya’ni, tijorat
+banklarining reytingida davlat ulushi 50 foiz va undan yuqori bo‘lgan banklarning
+ustav kapitali tarkibidagi davlat ulushini 10%iga kamayishiga 5 ball, 20% kamayishiga
+10 ball hamda 30% kamayishiga 20 balldan qo‘shimcha ball berish maqsadga
+muvofiqdir.
+      Ushbu mexanizmni amaliyotga kiritilishi banklarning reyting bahosini oshishida
+ularning ustav kapitalida davlat ulushini kamaytirishni rag‘batlantiradi. Faqat bunda
+ma’lum bir mezonlar va me’yorlar ishlab chiqilishi talab etiladi.
+      Mamlakatimiz tijorat banklari kapitali tarkibida ustav kapitali salmoqli ulushga
+ega bo‘lib turibdi, ustav kapital tarkibi o‘rganilganda uning asosiy qismi oddiy
+aksiyalardan iborat ekanligi ma’lum bo‘ldi. Jadvalda tijorat banklari jami kapitali
+tarkibida ustav kapital ulushi 2017 yil 78,9 foizni tashkil etgani holda 2023 yilda 70,7
+foizdan iborat bo‘lgan, yoki shu davr ichida 8,2 foizli punktga kamaygan. O‘zbekiston
+tijorat banklarining jami kapitali tarkibidagi boshqa elementlar 2017 yilga nisbatan
+sezilarli darajada oshgan.
+                                                                               1-jadval
+                   O‘zbekiston Respublikasi tijorat banklari jami
+                      kapitalining tarkibi va dinamikasi14, foizda
+
+     T/r        Kapital tarkibi             2017      2018       2019         2020        2021      2022    2023
+
+     1.     Ustav kapitali                  78,9       73,7       82,1        76,5        77,2      75,2    70,7
+     2.     Qo‘shimcha kapital               0,3       0,3         0,3         0,7         1,0       1,3     1,4
+     3.     Maxsus zaxira                    8,7       11,1        7,5         8,9        11,9       9,2    11,5
+            Taqsimlanmagan
+     4.                                     12,1       14,9       10,1        13,8         9,9      14,3    16,4
+            foyda
+                   JAMI                    100,0      100,0      100,0       100,0       100,0      100,0   100,0
+
+      O‘zbekiston banklari uchun taqsimlangan foydaning kapital tarkibidagi
+ulushining oshib borishi ijobiy holat sifatida baholanadi. Dissertatsion tadqiqot tahlili
+bo‘yicha davlat ulushi mavjud banklarda kapital tarkibidagi qo‘shimcha kapital ulushi
+0,3-0,5 foiz atrofida eganligini kuzatishimiz mumkin.
+      Dissertatsion tadqiqotimizning maqsadi va vazifalaridan kelib chiqqan holda,
+bank kapitali tarkibida davlat ulushini kamaytirishning yana bir muhim yo‘llaridan biri
+sifatida tijorat banklari kapitali tarkibida davlat ulushini kamaytirishda hamda ustav
+
+
+14
+     https://cbu.uz/oz/statistics/bankstats/ O‘zbekiston Respublikasi Markaziy banki ma’lumotlari
+
+                                                                                                               14
+kapitali hajmini oshirishda olingan sof foydaning 20 foizini ustav kapitaliga, ya’ni
+nodavlat ulushiga yo‘naltirish orqali banklarning kapital hajmini oshirish taklif etiladi.
+     Bunda albatta davlat ulushi mavjud banklarda ustav kapitalini 20 foizga
+oshirilishi, davlat ulushini yana 20 foizga oshishiga olib keladi. Biz taklif etayotgan
+amaliyot shundaki, bunda ustav kapitalini oshirishga yo‘naltirilayotgan 20 foiz sof
+foyda nodavlat sektoriga yo‘naltirilishi lozim. Bu esa o‘z navbatida tijorat banklari
+kapitalidagi davlat ulushini kamaytiradi.
+     Mamlakatimiz tijorat banklari kapitali absolyut summada ortib bormoqda. Tijorat
+banklari regulyativ kapitali hajmi bo‘yicha guruhlangan jadval ma’lumotlaridan
+ko‘rinib turibdiki, respublikamizdagi tijorat banklari tarkibida regulyativ kapitali 200,0
+mlrd so‘mgacha bo‘lgan tijorat banklarining ulushi kamayib borish tendensiyasiga ega
+bo‘lgan.
+                                                                                 2-jadval
+                    O‘zbekiston tijorat banklari jami kapitalining
+                hajmi bo‘yicha guruhlanishi va dinamikasi 15, foizda
+
+                                             2018           2019            2020             2021            2022         2023
+                                                ulushi,
+
+
+
+                                                              ulushi,
+
+
+
+                                                                               ulushi,
+
+
+
+                                                                                                 ulushi,
+
+
+
+                                                                                                               ulushi,
+
+
+
+                                                                                                                            ulushi,
+           Ko‘rsatkichlar
+                                         Soni
+
+
+
+
+                                                                                                                Soni
+                                                 soni
+
+
+
+                                                                        soni
+
+
+
+                                                                                          soni
+
+
+
+                                                                                                  soni
+                                                  %
+
+
+
+                                                                %
+
+
+
+                                                                                 %
+
+
+
+                                                                                                   %
+
+
+
+                                                                                                                 %
+
+
+
+                                                                                                                              %
+     200 mlrd. so‘mgacha                13      10,9   9      2,4       2      0,7       5       1,1    1      0,2   0       0
+     200 mlrd. so‘mdan
+                                        9       26,5   10     12,1      14     5,9       10      3,6    13     4,3   15     4,3
+     350 mlrd. so‘mgacha
+     350 mlrd. so‘mdan
+                                        2       13,1   1      1,8       3      4,5       4       3,4    5      3,9   6      4,1
+     500 mlrd. so‘mgacha
+     500 mlrd. so‘mdan
+                                        2       25,8   2      8,8       4      14,9      3       5,7    4      7,0   4      7,0
+     1 trln. so‘mgacha
+     1 trln. so‘mdan
+                                        1       23,6   3      21,2      3      21,8      2       6,5    2      7,8   2      7,9
+     2 trln. so‘mgacha
+     2 trln. so‘m va undan
+                                        -        -     3      53,7      3      52,2      6       79,6   6     76,7   6      76,7
+     yuqori
+                 JAMI                   27      100    28     100       29     100       30      100 31       100    33     100
+
+
+      Regulyativ kapitali 200 mlrd. so‘mdan 350 mlrd. so‘mgacha bo‘lgan tijorat
+banklarining ulushi ortib borish tendensiyasiga ega bo‘lgan. Umuman olganda, tahlil
+etilgan davr mobaynida respublikamiz tijorat banklari regulyativ kapitalining hajmi
+ortib borish trendiga ega. Ta’kidlash lozimki, mazkur holatlar ijobiy holat sifatida
+baholanadi.
+      Jadval ma’lumotlarini tahlil qiladigan bo‘lsak, 2023 yilda respublikamizda
+faoliyat yuritayotgan jami tijorat banklarida 2 trln. so‘m va undan yuqori bo‘lgan 6 ta
+tijorat bankining jami kapitali bank tizimi kapitali miqdoriga nisbatan 76,7 foizni
+tashkil etmoqda.
+
+
+15
+     https://cbu.uz/oz/statistics/bankstats/ O‘zbekiston Respublikasi Markaziy banki ma’lumotlari
+
+                                                                                                                                   15
+     Xorijiy tajribani o‘rganadigan bo‘lsak masalan, Rossiyada banklarning
+belgilangan kapitalining minimal miqdori 1 mlrd. rubl (164 mlrd. so‘m), Xitoyda 1
+mlrd. uuan (1,77 trln. so‘m), Qozog‘istonda 10 mlrd. tenge (240 mlrd. so‘m), Belarusda
+— 58, 1 mln. belarus rubli (260 mlrd. so‘m)ni tashkil etadi 16.
+     Muallif fikricha, respublikamiz tijorat banklarining ustav kapitali miqdorini
+bosqichma-bosqich oshirib borish maqsadga muvofiq hisoblanadi. Bunda, tijorat
+banklari kapitali tarkibida davlat ulushini qisqartirish maqsadida banklarning ustav
+kapitalining amaldagi miqdorini bosqichma-bosqich, ya’ni birinchi yilda 100 foizga,
+ikkinchi yilda 200 foizga va uchinchi yilda 300 foizga oshirish taklif etilgan.
+     Mazkur me’yorning joriy etilishi prudensial me’yorlarni (bank o‘zining barqaror
+faoliyatini ta’minlash uchun bajarishi kerak bo‘lgan muhim qadriyatlar) xalqaro
+standartlarga muvofiqlashtiradi. Xususan, gap banklarning to‘lov qobiliyati, likvidligi
+hamda rentabelligi uchun yetarli mablag‘ bilan ta’minlash haqida bormoqda.
+     Shuningdek, ushbu me’yorlarda e’tibor qaratish kerak bo‘lgan bir jihati borki, bu
+hozirda davlat ulushi mavjud bo‘lgan banklarda biz taklif etayotgan kapitalni
+oshirishda davlat ulushi hisobidan emas, balki xususiy sektor hisobidan yoki
+boshqacha aytadigan bo‘lsak xususiylashtirish hisobidan banklar kapitali tarkibida
+davlat ulushini kamaytirish va ustav kapitali miqdorini oshirib borish maqsadga
+muvofiqdir.
+     Muallif fikricha, banklarda muammoli kreditlarni oshib borishi sabablaridan biri,
+bu imtiyozli kreditlar hajmini oshib borishidir. Ma’lumki hozirda yirik tijorat banklari,
+ayniqsa davlat ulushiga ega banklarda transformatsiya jarayoni olib borilmoqda.
+Shunday sharoitda davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank
+aktivlari sifatini oshirish maqsadida bank tomonidan berilgan imtiyozli kreditlarning
+kredit porfelidagi hajmini 8 foizdan oshirmaslik maqsadga muvofiqdir.
+     Shunda banklarda imtiyozli kreditlar hisobidan yuzaga kelayotgan muammoli
+kreditlar hajmini kamaytirish choralari ko‘riladi. Shu bilan birga davlat ulushiga ega
+banklarni transformatsiya qilish jarayonini tezlashtirish imkoniyati yaratiladi. Albatta
+banklar to‘laqonli iqtisodiy raqobat sharoitida davlat ulushiga ega banklar tomonidan
+aholi va xo‘jalik sub’ektlari uchun imtiyozli kreditlarning ajratilishi ular kredit
+porfelida ma’lum miqdorda, ushbu imtiyozli kreditlar hisobidan muammoli kreditlar
+hajmini oshishi kuzatilmoqda.
+     Ekonometrik tenglamalar ko‘p omilli chiziqli kvadratlar (LS) regressiyasi va
+Strukturaviy tenglamalarni modellashtirish (SEM) usullaridan foydalangan holda
+tuzilgan. Tadqiqot uchun ikkita alohida ekonometrik tenglama ishlab chiqildi. Bundan
+tashqari, tuzilgan ekonometrik modellarga nisbatan Gauss-Markov, Durbin-Wason,
+Shapiro-Wilk va Breusch-Pagan testlarining natijalari baholandi.
+     SEM regressiya modelini baholash uchun chi-kvadrat testi, qiyosiy moslik indeksi
+(CFI), o‘rtacha ildiz kvadrat xatosi (RMSEA) va standartlashtirilgan o‘rtacha kvadrat
+qoldiq (SRMR) testlari kabi statistik baholash va testlar qo‘llaniladi.
+
+16
+  Senat banklarning ustav kapitalini oshirish va ofshor aksiyadorlarga qoʻyiladigan talablarni engillashtirishni ma'qulladi
+– Oʻzbekiston yangiliklari – Gazeta.uz (gazeta.uz)
+
+                                                                                                                       16
+      Ekonometrik modellarni yaratishda o‘zgaruvchilarning yo‘nalishi va
+konsentratsiyasini o‘rganish uchun vizual jadvallar va tavsiflovchi statistik jadvallar
+yaratildi. Bundan tashqari, qaram va mustaqil o‘zgaruvchilar o‘rtasidagi
+munosabatlarni ko‘rsatadigan korrelyatsiya matritsasi shakllantirildi va
+multikollinearlik uchun baholash o‘tkazildi.
+      Ushbu turdagi modellarda bog‘liq va mustaqil o‘zgaruvchilar vaqtli qatorlari
+sifatida ko‘rib chiqiladi, ya’ni ma’lumotlar vaqt oralig‘i ketma-ketligida kuzatiladi. Bu
+doira, ayniqsa, o‘zgaruvchilar o‘rtasidagi munosabatlar nafaqat turli omillar bo‘yicha
+o‘zgarib turadi, balki vaqt o‘tishi bilan ham rivojlanadi. Omillar sifatida quyidagilar
+tanlab olindi.
+      Davlat ulushi yuqori tijorat banklari kapitali– dtb_kap(bog’liq o‘zgaruvchi)
+      milliy iqtisodiyotda inflyatsiya darajasi - inf_d(mustaqil o‘zgaruvchi).
+      o‘rtacha tortilgan foiz stavkasi - o’rt_fst(mustaqil o‘zgaruvchi)
+      qisqa muddatli depozitlar bo‘yicha o‘rtacha tortilgan foiz stavkalari -
+dep_fst(mustaqil o‘zgaruvchi)
+      Ekonometrik modellarni ishlab chiqishda quyidagi gipotezalar qurildi.
+      Nol gipoteza (H0): Davlat ulushi yuqori tijorat banklari kapitali, milliy
+iqtisodiyotda inflyatsiya darajasi, o‘rtacha tortilgan foiz stavkasi hamda tijorat banklari
+qisqa muddatli depozitlar bo‘yicha o‘rtacha tortilgan foiz stavkalari kombinatsiyasi
+o‘rtasida sezilarli bog‘liqlik mavjud.
+      Muqobil gipoteza (Ha): Davlat ulushi yuqori tijorat banklari kapitali, milliy
+iqtisodiyotda inflyatsiya darajasi, o‘rtacha tortilgan foiz stavkasi hamda tijorat banklari
+qisqa muddatli depozitlar bo‘yicha o‘rtacha tortilgan foiz stavkalari kombinatsiyasi
+o‘rtasida sezilarli bog‘liqlik mavjud emas, unga ko‘ra ushbu tadqiqotda ko‘rib
+chiqilmagan boshqa omillar davlat ulushi yuqori tijorat banklari kapitalini
+kamaytirishda asosiy rol o‘ynashi mumkinligini ko‘rsatadi.
+      Nol gipoteza (H0), H0:β1= β2= β3=0
+      Muqobil gipoteza (Ha), (Ha): kamida bitta βi≠0 Bu erda, β1, β2 va β3
+      Milliy bank tizimida davlat ulushi yuqori tijorat banklari kapitali prognoz qiluvchi
+ko‘p regressiya modelidagi mustaqil o‘zgaruvchilar (milliy iqtisodiyotda inflyatsiya
+darajasi, o‘rtacha tortilgan foiz stavkasi hamda tijorat banklari muddatli qisqa
+depozitlar bo‘yicha o‘rtacha tortilgan foiz stavkalari) bilan bog‘liq koeffitsientlardir.
+      Nol gipoteza (H0) koeffitsientlarning bir xilda nolga teng ekanligini ta’kidlaydi,
+bu o‘zaro bog‘liqlik yo‘qligini bildiradi, muqobil gipoteza (H1) esa kamida bitta
+koeffitsient noldan og‘ishini ta’kidlaydi, bu esa statistik jihatdan ahamiyatli
+munosabatni ko‘rsatadi.
+
+
+
+
+                                                                                        17
+         2-rasm. Bog‘liq va mustaqil o‘zgaruvchilarning grafik matritsasi 17
+
+     Tadqiqot bo‘yicha, bog‘liq hamda mustaqil o‘zgaruvchilarning tahliliy grafik
+matritsasi quyidagi ko‘rinishga ega bo‘ldi.
+
+
+
+
+         3-rasm. Bog‘liq va mustaqil o‘zgaruvchilarning o‘rtasida skatter grafigi 18
+     Yuqoridagi rasmlarda tasvirlangan ma’lumotlar natija va aniq pozitsiyalarni
+ifodalovchi o‘ziga xos zichlikka ega omillar o‘rtasidagi mustahkam bog‘liqlikni
+ifodalagan. Vizual ma’lumotlar nuqtasi zichligi nuqtalarning klasterli joylashishini
+hamda ularning o‘qlar bo‘ylab konsentrlangan taqsimotga moyilligini sezilarli
+korrelyatsiya mavjudligini ko‘rsatadi.
+17
+     Muallif tomonidan mustaqil ishlab chiqildi
+18
+     Muallif tomonidan mustaqil ishlab chiqildi.
+
+                                                                                       18
+     Navbatdagi bosqichda bog‘liq hamda mustaqil o‘zgaruvchilarninig vaqt
+oralig‘idagi tahliliy grafiklari keltirilgan.
+                12
+                11.5
+      dtb_kap
+                11
+                10.5
+
+
+
+
+                 2018m1        2020m1           2022m1   2024m1
+                                        oylik
+
+
+
+
+                       4-rasm. Mustaqil o‘zgaruvchilarninig vaqt bo‘yicha grafik jadvali19.
+      Yuqoridagi rasmlarda bog‘liq va mustaqil o‘zgaruvchilarninig vaqt bo‘yicha
+tahliliy grafik chizmasidan ko‘rish mumkinki davlat ulushi mavjud tijorat banklari
+kapitalida mavsumiy o‘sish tendensiyasini nomoyon qilgan. Shuningdek mustaqil
+o‘zgaruvchilar inflyatsiya darajasi yillar davomida pasayish tendensiyasiga ishora
+qilmoqda. Bu shuni ko‘rsatadiki mamlakatimiz makroiqtisodiy ko‘rsatkichlaridagi
+o‘zgarishlaridan darak beradi. Milliy bank sektorida yillar davomida o‘rtacha tortilgan
+foiz stavkalaridagi stohastik tebranishlarni nomoyon qilgan. Shuningdek, tijorat
+banklari qisqa muddatli depozitlar bo‘yicha o‘rtacha tortilgan foiz stavkalari 2018
+yilning 3 choragidan hozirgi davrgacha bo‘lgan vaqtda o‘sish tendensiyasini
+ko‘rsatgan.
+      Tadqiqotning navbatdagi bosqichida bog‘liq hamda mustaqil o‘zgaruvchilarning
+har biri bo‘yicha o‘zaro korrelyatsion bog‘liqlik matritsasi ishlab chiqdik.
+      Bog‘liq va mustaqil o‘zgaruvchilar o‘rtasidagi bog‘liqlik:
+      Jadval natijalari shuni ko‘rsatdiki bog‘liq o‘zgaruvchi va uning ta’sir etuvchi
+omillari o‘rtasida aniq, mustahkam va teskari korrelyatsiya borligini ko‘rsatdi. Bundan
+tashqari, jadvalda keltirilgan korrelyatsiya matritsasi bog‘liq o‘zgaruvchi va mustaqil
+o‘zgaruvchilar o‘rtasida multikollinearlik yo‘qligini ko‘rsatdi.
+
+
+19
+     Muallif tomonidan mustaqil ishlab chiqildi.
+
+                                                                                              19
+                                                                           3-jadval
+        Bog‘liq va mustaqil o‘zgaruvchilarning o‘zaro korrelyatsion matritsasi 20
+                       Variables                  (1)            (2)        (3)       (4)
+                       (1) dtb_kap               1.000
+                       (2) inf_d               -0. 6793         1.000
+                                               (0.0000)                              ***
+                       (3) o‘rt_fst             0.4576           0.0053    1.000
+                                               (0.0019)        (0.4913)               ***
+                       (4) dep_fst              0.7014          -0.5619    0.5885    1.000
+                                               (0.0000)        (0.0000)   (0.0000)    ***
+
+     Navbatdagi bosqichda, tekshiruv birlamchi o‘zgaruvchilarni o‘z ichiga olgan ko‘p
+o‘zgaruvchan vaqtli qatorlar chiziqli regressiya tenglamasi hamda strukturaviy
+tenglamalarni modellashtirish (SEM) regressiya tenglamasini ishlab chiqildi.
+Shunigdek, Gauss-Markov ahamiyatlilik (Breusch-Pagan, Durbin Wason, Shapiro-
+Wilk) testlari tekshirildi. Bundan tashqari, potensial multikollinearlikni aniqlash uchun
+model Vif testi orqali baholandi.
+     Tadqiqotga bo‘yicha ishlab chiqilgan ko‘p omilli regression modeli quyidagi
+ko‘rinishga ega bo‘ldi.
+
+                      dtb_kap=-0.28 inf_d-2.04ort_fst+2.52dep_fst+11.07 21(1)
+
+     Ko‘p omilli regression tenglama uchun Durbin Wason testining natijasi 0,63
+qiymatini hosil qildi. Bundan tashqari, tadqiqotda Shapiro-Wilk W testi 0,68 va
+Breusch-Pagan testi 0,73 qiymatlarini qayd etdi.
+     Tadqiqot davomida birlamchi gipoteza H0: u=0 va uning muqobil H1: u≠0 n>0,05
+bo‘lgan muhimlik darajasida statistik sinovdan o‘tkazildi.
+     Durbin Wason, Shapiro-Wilk W va Breusch-Pagan testlari o‘tkazilgandan
+so‘ng, muqobil gipotezani rad etish p>0,05 mezoniga asoslandi. Shunday qilib, bizning
+tadqiqotimizda xato atamalarining mustaqil o‘zgaruvchilar bilan o‘zaro bog‘liqligi
+mavjud emasligini tasdiqlovchi Gauss-Markov taxmin to‘g‘ri keladi, deb xulosa qilish
+mumkin. Ekonometrik model bo‘yicha Gauss-Markovninig muhim shartlaridan
+muvaffaqiyatli o‘tdi.
+     Tadqiqot bo‘yicha modeldagi multikollinearlik mavjudligini tekshirish uchun Vif
+testi o‘tkazildi. Sinov ishlab chiqilgan modelda multikollinearlik yo‘qligini
+ko‘rsatuvchi Vif qiymatini aniqladi.
+     Davlat ulushiga ega tijorat banklarining kapitali hamda unga ta’sir etuvchi omillar
+o‘rtasida model (dtb_kap) Vif-3.49 qiymatini hosil qildi. Shuningdek, ko‘p omilli
+regression modeli tahlili asosida asosiy gipoteza H0:u=0, H1:u≠0 n˂10 chegarasi bilan
+ahamiyatli ekanligi aniqlandi. Natijada, muqobil gipoteza rad etildi. Vif test natijasi
+n˂10 chegarasidan pastga tushishini hisobga olsak, Gauss-Markovning ushbu sharti
+ham qondirildi.
+
+20
+     Stata dasturi asosida muallif tomonidan mustaqil ishlab chiqildi.
+21
+     Muallif tomonidna ishlab chiqildi.
+
+                                                                                             20
+     Tadqiqotga bo‘yicha ishlab chiqilgan SEM regression modeli quyidagi
+ko‘rinishga ega bo‘ldi.
+
+               dtb_kap=-0.28 inf_d-2.04ort_fst+2.52dep_fst+11.07 (2)
+
+      Ko‘p omilli regression tenglama hamda SEM regressiya modellari natijalar bir xil
+ko‘rsatkichlarni qayd etdi.
+      Ushbu ekonometrik tenglamalar natijalariga ko‘ra asosiy iqtisodiy o‘zgaruvchilar,
+xususan, inflyatsiya, o‘rtacha hisoblangan kredit stavkalari va qisqa muddatli depozit
+stavkalaridagi o‘zgarishlar davlat tijorat banklari kapitaliga ta’sir ko‘rsatganini ko‘rish
+mumkin. Ushbu munosabatlarni tushunish iqtisodchilar bank boshqaruvi va
+tadqiqotchilar uchun pul, moliya va monetar siyosati bo‘yicha muhim qarorlar qabul
+qilishda ahamiyatini oshiradi.
+      Dissertatsiyaning «O‘zbekiston Respublikasi tijorat banklari kapitalida
+davlat ulushini kamaytirish yo‘nalishlari» nomli uchinchi bobida tijorat banklari
+kapitalidagi davlat ulushini kamaytirish amaliyotidagi muammolar aniqlanib,
+mamlakatimiz tijorat banklari kapitalida davlat ulushini kamaytirish bo‘yicha taklif va
+tavsiyalar ishlab chiqilgan.
+      Amalga oshirilgan tahlillar hamda yuqorida keltirilgan holatlarni inobatga olgan
+holda mamlakatimiz tijorat banklari kapitali tarkibidagi davlat ulushini kamaytirish
+borasida quyidagi muammolar mavjudligini ta’kidlab o‘tishimiz mumkin.
+      Tijorat banklari asosiy kapitali tarkibida emission daromad manbasining mavjud
+emasligi. Emission daromad haqiqatda ham bank kapitali tarkibida boshqa manbalarga
+nisbatan yuqori darajali barqaror manba hisoblanadi. Mazkur masalani bank kapitalida
+davlat ulushini kamaytirishdagi ahamiyati shundaki, bank egalari tomonidan
+to‘lanadigan divident va bankni turli raqobatli bizneslari natijasida fond bozorida bank
+aksiyalari nominal bahosining oshishiga sabab bo‘ladi.
+      Tijorat banklarning kapitali tarkibidagi emission daromadini barqaror va davlat
+ulushini kamaytiradi deyishimizning asosiy sabablaridan yana biri, bank ularga
+nisbatan soliq to‘lovlarini amalga oshirmaydi, ya’ni ular turli xil majburiyatlardan
+ozoddir.
+      Fikrimizcha, mamlakatimiz tijorat banklari o‘z mablag‘lari tarkibida qo‘shimcha
+kapital manbasining shakllanmasligining asosiy sabablaridan biri ularning ustav
+kapitali tarkibida davlat ulushining yuqoriligi banklarni qimmatli qog‘ozlar bozoridagi
+faoliyatiga ijobiy ta’sir ko‘rsatmayapti.
+      Banklarning uzoq muddatli subordinar qarz majburiyatlarini muomalaga
+chiqarish amaliyotining rivojlanmaganligi.
+      Hozirgi kunda tijorat banklarining uzoq muddatli subordinar qarz majburiyatlarini
+muomalaga chiqarish orqali ularning kapitallashuv darajasini oshirish hamda
+barqarorligiga erishishning zamonaviy instrumentlaridan hisoblanadi.
+      Bunda, tijorat banklari qo‘shimcha kapitali bazasini oshirish imkoniyatlaridan
+to‘liqroq foydalanish lozim. Mamlakatimiz tijorat banklari qo‘shimcha kapitali
+bazasini mustahkamlashning yana bir imkoniyati bu subordinar qimmatli qog‘ozlarni
+                                                                                        21
+muomalaga chiqarishdir. Chunki, subordinar qarz majburiyatlari tijorat banklariga
+uzoq muddatli resurslarni jalb qilishning qulay hamda kam xarajatli vositasi
+hisoblanadi.
+      Amalga oshirilgan o‘rganishlar hamda tahlillar natijasiga tayangan holda
+quyidagi tavsiyalarni shakllantirdik:
+      banklarning qimmatli qog‘ozlar bozoridagi emission operatsiyalarini
+rivojlantirish orqali ularning aksiyalarining bozor bahosini oshirishga erishish lozim;
+      banklarning o‘z mablag‘lari tarkibida qo‘shimcha kapital ulushini oshirish
+asosida investorlar va mijozlarning bank qimmatli qog‘ozlarini sotib olishga bo‘lgan
+qiziqishini oshirish zarur;
+      tijorat banklari kapitali tarkibida emission daromad manbasini shakllantirishda
+ijobiy natijalarga erishish maqsadida tijorat banklari asosiy kapitali tarkibida emission
+daromadlarining ulushi 5 foizdan yuqori bo‘lgan tijorat banklariga birinchi darajali
+kapitalning yetarliligiga qo‘yilgan talablar bo‘yicha tegishli imtiyozlar berish
+maqsadga muvofiq.
+      Tadqiqot ishida amalga oshirilgan tahlillar va o‘rganishlar natijasida
+mamlakatimiz tijorat banklari markaziy bank tomonidan regulyativ va asosiy
+kapitalning yetarliligiga qo‘yilgan talabni bajarish bilan bir vaqtda tijorat banklari
+kapitalida davlat ulushining yuqori darajada ekanligi ma’lum bo‘ldi. Biroq, bu
+respublikamiz tijorat banklari kapitalini shakllantirish, uni boshqarish va barqarorligini
+ta’minlash bo‘yicha muammolar mavjud emas degan tasavvurni shakllantirishga asos
+bo‘lmaydi. Ya’ni, birinchidan, tijorat banklari kapitali hajmining belgilangan
+me’yordan yuqoriligi ulardan samarali foydalanmayotganligini anglatsa, ikkinchidan,
+mamlakatimiz tijorat banklari aktivlari tarkibida riskka tortilgan aktivlar ulushining
+nisbatan pastligi regulyativ va asosiy kapital bo‘yicha qo‘yilayotgan talablarning
+yuqoriligini ta’minlashga moyillik tug‘dirmoqda.
+      Ma’lumki, banklarning kapitalida davlat ulushini kamaytirish mexanizmlaridan
+biri, bu banklarni xususiylashtirishdir. O‘z navbatida banklarni xususiylashtirishda ular
+tomonidan chiqarilayotgan aksiyalarni sotish hisoblanadi.
+      Fikrimizcha, banklarni yangidan chiqarayotgan aksiyalarini sotishda ularning
+umumiy hajmidan kamida 25 foizdan ortiq qismini fond birjalarida ommaviy
+joylashtirish orqali tijorat banklaridagi kapital hamjidan davlat ulushini kamaytirish
+imkonini beradi.
+      Dissertatsiya ishining yuqorida ishlab chiqilgan taklif va tavsiyalarning davomi
+sifatida, biz taklif etgan ushbu mexanizm, ya’ni yangidan chiqarilayotgan aksiyalarni
+nodavlat sektori tomonidan ommaviy sotib olish amaliyoti kiritilishi lozim bo‘ladi.
+Shundagina biz tijorat banklari kapitalidagi davlat ulushini kamaytirishga erishamiz.
+      Tijorat banklari qo‘shimcha kapitali tarkibida konsolidatsiyalashgan sho‘ba
+korxonalariga qilingan quyilmalar manbasini shakllantirish lozim. Shuni alohida
+ta’kidlash joizki, mazkur masala mamlakatimiz iqtisodchi olimlari ishlarida ilmiy
+taklif sifatida ham ilgari surilgan bo‘lishiga qaramasdan, hozirgi kunga qadar o‘zining
+ijobiy yechimini topmayapti. Shu bilan birga, bizning tadqiqot ishimizda
+konsolidatsiyalashgan sho‘ba korxonalarga qilingan quyilmalar manbasi bank kapitali
+                                                                                       22
+tarkibidagi davlat ulushini kamaytirishga bevosita ta’sirini e’tiborga olib, ushbu masala
+ustida atroflicha to‘xtalish zarur degan fikrga keldik. Xalqaro bank amaliyotida tijorat
+banklari qoshida faktoring, forfeyting, trast kompaniyalari tashkil etilgan bo‘lib, ushbu
+kompaniyalar bevosita tijorat banklari moliyaviy mablag‘lari hisobiga shakllanadi.
+Bank ularni tashkil etish uchun yo‘naltirgan mablag‘larni bevosita bankning
+qo‘shimcha kapitali tarkibida hisobga oladilar.
+     Tijorat banklari aksiyalarini sotish va ular haqidagi dividend to‘lovlari
+ma’lumotlarini aholi e’tiboriga yetkazishni yo‘lga qo‘yish lozim.
+     Tijorat banklari aksiyalarini sotish orqali kapital tarkibini xususiylashtirish
+muhim iqtisodiy omillardan hisoblanadi. Ayniqsa, hozirgi sharoitda tijorat banklari
+aksiyalarni aholiga sotish orqali, birinchidan, banklarni xususiylashtirishga ijobiy ta’sir
+ko‘rsatsa, ikkinchidan, bank aksiyalarining fond bozoridagi oldi-sotdi ulushini
+oshiradi.
+     Tijorat banklari oddiy va imtiyozli aksiyalarini ikkilamchi qimmatli qog‘ozlar
+bozorida keng ko‘lamda oldi-sotdi qilishini ta’minlash lozim. Tijorat banklari
+aksiyalari oldi-sotdisining faolligi bank kapitali tarkibini barqaror manbalar hisobidan
+shakllanishiga ijobiy ta’sir ko‘rsatadi, xususan, bank kapitali tarkibidagi qo‘shimcha
+kapitalning manbasi aynan bank aksiyalari ikkilamchi qimmatli qog‘ozlar bozoridagi
+talab va taklif asosida shakllanadi. Biroq, tijorat banklari aksiyalarini ikkilamchi
+qimmatli qog‘ozlar bozorida doimiy savdo ob’ektiga aylanmaganligi natijasida bank
+aksiyalari bozor bahosini aniqlash imkoniyatining mavjud emasligi va ularning kapitali
+tarkibida emission daromadlar vujudga kelmayotganligi ilmiy jihatdan tahlil qilinib
+ularni takomillashtirish lozimligi e’tirof etildi.
+
+                                       XULOSA
+
+     Tadqiqot davomida tijorat banklarning kapitalida davlat ulushini kamaytirish
+yo‘llari bo‘yicha amalga oshirilgan o‘rganishlar, tahlillar natijalariga asoslangan holda,
+quyidagi xulosa va takliflarni shakllantirdik:
+     1. Tijorat banklari asosiy kapitali tarkibida maxsus zaxiraning yuqoriligi va jami
+aktivlar tarkibida riskka tortilgan aktivlar ulushining pastligi regulyativ kapital va
+asosiy kapital bo‘yicha qo‘yilgan talablarni yuqori darajada bajarish imkoniyatini
+bermoqda.
+     2. Tijorat banklari kapitali barqarorligini oshirishda emission daromad va
+taqsimlanmagan foyda muhim o‘rin tutadi. Shu sababli mamlakatimiz tijorat banklari
+ushbu manbalarni yanada ko‘paytirishga alohida e’tibor qaratishi zarur deb
+hisoblaymiz.
+     3. Tijorat banklari asosiy kapitali tarkibida maxsus zaxira hajmini zarur darajada
+pasaytirishga erishish zarur. Tadqiqotlar natijasida mamlakatimiz tijorat banklari
+kapitaliga qo‘yilgan talab yuqori darajada bajarilishining asosiy sabablaridan biri
+asosiy kapital tarkibida devalvatsiya zaxirasining yuqoriligidir degan xulosaga kelindi.
+     4. Milliy bank sektorida inflyatsiyaning 1 %ga oshishi davlat tijorat banklari
+kapitalining 0,28 %ga kamayishiga olib keladi. Bu inflyatsiya davlat tijorat banklari
+                                                                                        23
+kapitaliga salbiy ta’sir ko‘rsatayotganidan dalolat beradi. Mumkin bo‘lgan
+tushuntirishlardan biri shundaki, inflyatsiya aktivlarning haqiqiy qiymatini pasaytirishi
+yoki foiz stavkalariga ta’sir qilishi va bu banklarning moliyaviy sog‘lig‘iga ta’sir
+qilishi mumkin.
+      5. Qisqa muddatli depozit stavkalarining 1 %ga oshishi davlat ulushiga ega tijorat
+banklari kapitalining 2,52 %ga oshishiga olib keladi. Bu qisqa muddatli depozit
+stavkalari va davlat tijorat banklari kapitali o‘rtasidagi ijobiy bog‘liqlikdan dalolat
+beradi. Yuqori depozit stavkalari ushbu banklarga ko‘proq mablag‘larni jalb qilishi va
+ularning kapital bazasini oshirishi mumkin.
+      6. O‘rtacha hisoblangan kredit stavkalarining 1 %ga oshishi davlat ulushiga ega
+tijorat banklari kapitalining 2,04 %ga kamayishiga olib keladi. Bu shuni anglatadiki,
+kredit stavkalarining yuqoriligi davlat tijorat banklari kapitalining sezilarli darajada
+pasayishi bilan bog‘liq. Ko‘tarilgan kredit stavkalari ushbu banklar uchun qarz olish
+xarajatlarining oshishiga olib kelishi va bu ularning rentabelligi va kapitaliga ta’sir
+qilishi mumkin.
+      7. Tijorat banklarining barqarorlik reytingida davlat ulushi 50 foiz va undan
+yuqori bo‘lgan banklarning ustav kapitali tarkibidagi davlat ulushini 10%iga
+kamayishiga 5 ball, 20% kamayishiga 10 ball hamda 30% kamayishiga 20 balldan
+qo‘shimcha ball berish amaliyotini kiritish lozim.
+      8. Tijorat banklarining yangidan chiqarayotgan aksiyalari umumiy hajmining
+kamida 25 foizdan ortiq qismini fond birjalarida ommaviy joylashtirish orqali banklar
+kapitalidagi davlat ulushini kamaytirish maqsadga muvofiqdir.
+      9. Tijorat bank kapitali tarkibida davlat ulushini qisqartirish maqsadida
+banklarning ustav kapitalining amaldagi miqdorini bosqichma-bosqich, ya’ni birinchi
+yilda 100 foizga, ikkinchi yilda 200 foizga va uchinchi yilda 300 foizga oshirib borish
+maqsadga muvofiq deb hisoblaymiz.
+      10. Davlat ulushiga ega bo‘lgan banklarni transformatsiya qilishda bank aktivlari
+sifatini oshirish maqsadida bank tomonidan berilgan imtiyozli kreditlarning kredit
+porfelidagi hajmini 8 foizdan oshirmaslikni taklif etamiz.
+      11. Tijorat banklari kapitali tarkibida ustav kapitali hajmini oshirishda olingan sof
+foydaning 20 foizini ustav kapitaliga yo‘naltirish orqali banklarning kapital buferini
+ta’minlash taklif etiladi.
+      Fikrimizcha, yuqoridagi takliflarning amaliyotga joriy etilishi nafaqat mamlakat
+iqtisodiyoti rivojiga va o‘z navbatida, davlat ishtirokidagi banklarning qisqarishiga
+ham xizmat qiladi.
+
+
+
+
+                                                                                        24
+    НАУЧНЫЙ СОВЕТ DSc.22/29.12.2023.I.175.01
+  ПО ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+    БАНКОВСКО-ФИНАНСОВАЯ АКАДЕМИЯ
+         РЕСПУБЛИКИ УЗБЕКИСТАН
+
+
+
+
+       ОЛИМЖАНОВА НИГОРА АЛИШЕРОВНА
+
+
+
+    ПУТИ УМЕНЬШЕНИЯ ГОСУДАРСТВЕННОЙ
+   ДОЛИ В КАПИТАЛЕ КОММЕРЧЕСКИХ БАНКОВ
+
+
+
+       08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                       АВТОРЕФЕРАТ
+ диссертaции доктора философии (PhD) по экономическим наукам
+
+
+
+
+                       Ташкент – 2024
+
+                                                               25
+          ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+     Актуальность и востребованность темы диссертации. В мире
+обеспечение устойчивости капитала коммерческих банков мира, повышение их
+роли в развитии национальной экономики, в том числе приватизации,
+уменьшение государственной доли в капитале, является одним из необходимых
+принципов настоящего времени. Недостаточное формирование капитала
+коммерческих банков приводит к снижению платежеспособности банков,
+доверия к банковской деятельности среди хозяйствующих субъектов, что, в свою
+очередь, негативно влияет на экономический цикл. Несмотря на то, что в
+международной практике этому вопросу уделяется серьезное внимание,
+возникает ряд проблемных ситуаций. В частности, “Международный Базельский
+комитет увеличил консервационный буфер капитала с 1,8 процента до 2,5
+процента, требования к основному капиталу с 6,3 процента до 7,0 процентов, а
+требования к общему капиталу с 9,8 процента до 10,5% процента”, кроме того,
+тот факт, что штрафы, примененные банками за нарушение требований по
+операционному риску, превысили 58 млрд. евро и 65 млрд. евро 22,
+свидетельствует о еще большей серьезности этой проблемы. Тот факт, что
+приватизация государственной части капитала имеет важное значение для
+обеспечения устойчивости капитала за счет приватизации коммерческих банков,
+уменьшения доли государства в структуре капитала банков, повышения
+требований к достаточности регулятивного капитала, требует особого внимания
+к данной сфере.
+     В мире проводятся исследования, посвященные таким вопросам, как
+уменьшение государственной доли в капитале коммерческих банков, увеличение
+доли частного капитала в структуре капитала, повышение финансовой
+устойчивости     коммерческих     банков,   формирование     и   повышение
+эффективности политики развития устойчивости, укрепление базы капитала
+банков, адаптация к международным Базельским стандартам и нормам,
+элементы капитала, нормативные требования к достаточности капитала. Кроме
+того, такие актуальные вопросы, как необходимость с научной и практической
+точки зрения открытости и прозрачности в торговле и ценообразовании акций
+коммерческих банков, уязвимости источника дополнительного капитала
+коммерческих банков и факторов, влияющих на его формирование, соотношения
+темпов роста совокупного капитала банка к ВВП, высокой доли государства в
+структуре капитала банков, роли процентных доходов в процессе капитализации
+коммерческих банков, обуславливают необходимость проведения научных
+исследований.
+     Внимание уделяется привлечению большего количества частного капитала
+в капитал коммерческих банков Республики Узбекистан и дальнейшему
+
+22
+     Источник: данные официального сайта http://www.worldbank.org/.
+
+                                                                          27
+повышению финансовых возможностей банков. Определен ряд таких задач, как
+“Завершив процесс трансформации в коммерческих банках с государственной
+доле доведение доли частного сектора до 60 процентов до 2026 года” 23. В
+обеспечении устойчивости капитала коммерческих банков наличие на
+сегодняшний день таких факторов, как уменьшение государственной доли и
+регулярное ее увеличение за счет устойчивых источников, увеличение
+свободного обращения обыкновенных акций банков на фондовом рынке, очень
+низкая доля эмиссионных доходов в общей структуре капитала, размер
+дивидендов, выплачиваемых по акциям банков, уязвимость депозитной базы,
+тенденция     увеличения доли проблемных          кредитов,    обуславливает
+целесообразность дальнейшего расширения научных исследований в этой сфере.
+     Данное диссертационное исследование в определенной степени служит
+реализации задач, определенных в указах Президента Республики Узбекистан от
+28 января 2022 №УП-60 “О Стратегии развития Нового Узбекистана на 2022 -
+2026 годы”, от 12 мая 2020 года №УП-5992 “О Стратегии реформирования
+банковской системы Республики Узбекистан на 2020-2025 годы”,
+постановлениях Президента Республики Узбекистан от 18 августа 2023 года
+№ПП-283 “О дополнительных мерах по совершенствованию механизма
+реформирования предприятий и коммерческих банков с участием государства”,
+от 12 сентября 2017 года №ПП-3270 “О мерах по дальнейшему развитию и
+повышению устойчивости банковской системы республики”, а также в других
+нормативно-правовых актах, относящихся к данной сфере.
+    Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетными направлениями развития науки и
+технологий      I. «Духовное,  нравственное     и    культурное      развитие
+демократического и правового общества, формирование инновационной
+экономики».
+    Степень изученности проблемы. Такие вопросы, как уменьшение доли
+государства в капитале коммерческих банков, сущность капитала, его структура,
+его достаточность и повышение уровня капитализации, были детально
+исследованы в научных работах зарубежных ученых-экономистов – классиков и
+современников, таких как Ф.Мишкин ва Д.Синки, И.Трахтенберг, В.Киселев,
+Ж.Матук, Дж.Барлтон, Д.Мак-Ноттон, Э.Рид, Г.Белоглазова, Э.Жуков,
+С.Кудряшов, О.Лаврушин 24.
+23
+   Указ Президента Республики Узбекистан от 28 января 2022 №УП-60 “О Стратегии развития Нового
+Узбекистана на 2022 - 2026 годы”, цель 27.
+24
+   Мишкин Ф.С. Экoнoмическaя теoрия денег, бaнкoвскoгo делa и финaнсoвых рынкoв. Пер. сaнгл. – М.: OOO
+«И.Д. Вильямс», 2013. – С. 880.; Синки, Д. Финансовый менеджмент в коммерческом банке и в индустрии
+финансовых услуг / - Москва: Альп. Бизнес Букс, 2016. - 1018 с.; Трахтенберг И. Денежное обращение и кредит
+при капитализме. – Москва.: 1962.- С.547.; Банковское дело под ред. Проф. И.О.Лаврушина М- «ФиС» 2021г.; В
+Киселев. «Управление банковским капиталом» Москва «Экономика» 1997. С-18. Жан Матук. «Финансовые
+системы Франции и других стран» 1том перевод с англ. Москва «Финстатикформ» 1994г С-25. Э.Рид, Котлер,
+Э.Гилл ва Р.Смит Коммерческие банки. перевод с анг. М. «Прогресс» 1933г. С-189. Борисов А.Б. Большой
+экономический словарь. Издание второе, Москва Книжный мир 2006 г С-299. Крис Дж Барлтон ва Д Мак-Нотон
+«Банковские учреждения в развивающихся странах», 2 том. Всемирный банк Вашингтон, Д.С 1992г. С-101.;
+Лаврушин О.И. «Банковское дело: современная система кредитования»: учебное пособие – М.: - КНОРУС, 2016.
+– 360 с.; Банковское дело: учебник / под ред. Белоглазовой Г. Н., Кроливецкой Л. П. — М.: Финансы и статистика,
+
+                                                                                                            28
+    В научных работах ученых-экономистов Узбекистана, таких как
+Ш.Абдуллаева, Б.Бердияров, А.Омонов, У.Ортиков, Б.Шермухамедов, А.Васиев,
+М.Эгамова25, изучены отдельные аспекты банковского капитала.
+    При этом основное внимание уделяется решению проблем, связанных с
+повышением уровня капитализации коммерческих банков Узбекистана, в
+частности, увеличению капитала банков из устойчивых источников,
+уменьшению государственного капитала в капитале банков, внедрение
+механизма продажи акций банков населению и юридическим организациям,
+повышение их прозрачности. При этом определение существующих проблем и
+поиск их решения в повышении уровня капитализации коммерческих банков
+определяется как один из важных вопросов. Решение этих проблем и разработка
+в рамках диссертации научных предложений и практических рекомендаций,
+способствующих формированию здоровой конкуренции между банками,
+свидетельствует об актуальности темы исследования.
+    Связь     диссертационного     исследования     с   планом     научно-
+исследовательских работ высшего образовательного учреждения, где
+выполнена диссертация. Тема диссертации выполнена в соответствии с планом
+научно-исследовательских работ Банковско-финансовой академии Республики
+Узбекистан по теме “Научная разработка проблем модернизации банковско-
+финансовой, налоговой и инвестиционной деятельности в условиях
+глобализации мировой экономики и устойчивого развития экономики
+Республики Узбекистан”.
+    Целью исследования является разработка предложений и рекомендаций по
+уменьшению государственной доли в структуре капитала коммерческих банков
+Узбекистана.
+    Задачи исследования:
+    исследование теоретических подходов к уменьшению государственной
+доли в капитале коммерческих банков;
+    разработка предложений по уменьшению государственной доли в капитале
+коммерческих банков и увеличению уставного капитала;
+    изучение опыта зарубежных стран по уменьшению государственной доли в
+капитале коммерческих банков;
+
+2010. —592 с.; Банковское дело: учебник / под ред. Е.Ф. Жукова, Н. Д. Эриашвили. – 4-е изд. – Москва: ЮНИТИ,
+2014. – 687 с.; Кудряшов С. В. Потребительский банковский кредит: ресурсное обеспечение и эффективность:
+автореф. дис. на получение наук. степени канд. экон. наук: – Ирпен, 2007. — 19 с.
+25
+   Ш.Абдуллаева. «Банк иши» Дарслик. Ўзбекистон Республикаси Олий ва ўрта махсус таълим вазирлиги. -
+Тошкент: Иқтисод-Молия, 2017. - 732 б.; Б.Бердияров. Ўзбекистон Республикаси тижорат банкларининг
+ликвидлилиги ва тулов қобилиятини таъминлаш масалалари. И.ф.д. илм. дар. ол.уч. тақд. эт. дисс. автореф. —
+Тошкент, 2020. -Б.72.; А.Омонов. Тижорат банкларининг ресурсларини самарали бошқариш масалалари.
+Иқтисод фанлари доктори илмий даражасини олиш учун бажарилган диссертация автореферати. – Т.: БМА, 2008.
+– 36 б.; У.Ортиқов. Тижорат банклари молиявий ресурсларини бошқаришни такомиллаштириш. Иқтисод
+фанлари доктори илмий даражасини олиш учун бажарилган диссертация автореферати. – Т.: ТМИ, 2023. – 70 б.;
+А.Васиев. Тижорат банклари капиталининг барқарорлигини ошириш. Иқтисодиёт бўйича фалсафа доктори
+(Doctor of Philosophy). Дис. автореферати. – Т.: ТМИ, 2021. – 29б.; Б.Шермухамедов. Тижорат банкларида депозит
+сиёсатини методологик асосларини такомиллаштириш. Иқтисод фанлари доктори илмий даражасини олиш учун
+бажарилган диссертация автореферати. – Т.: ТМИ, 2024. – 71 б.; Эгамова М.Э. Тижорат банклари капиталлашув
+даражасини оширишда даромаднинг роли. Иқтисодиёт бўйича фалсафа доктори (Doctor of Philosophy). Дис.
+автореферати. – Т.: ТМИ, 2019. – 28 б.
+
+                                                                                                           29
+    оценка нормативно-правовых основ уменьшения государственной доли в
+капитале коммерческих банков;
+    оценка текущего состояния уменьшения государственной доли в капитале
+коммерческих банков Узбекистана;
+    эконометрический анализ факторов, влияющих на уменьшение
+государственной доли в капитале коммерческих банков;
+    выявление проблем в практике уменьшения государственной доли в
+капитале коммерческих банков и разработка предложений по их устранению;
+    разработка предложений и рекомендаций по уменьшению государственной
+доли в капитале коммерческих банков.
+    Объектом исследования являются коммерческие банки с государственной
+долей в Узбекистане.
+    Предметом исследования являются экономико-финансовые отношения,
+возникающие в процессе уменьшения государственной доли в капитале
+коммерческих банков.
+    Методы исследования. В диссертационной работе использовались такие
+методы, как научная абстракция, логическое мышление, сравнительно-
+эмпирический анализ, монографические исследования, динамическое
+исследование, группировка данных, сравнение, корреляционный и
+регрессионный анализ, методы экономико-математического моделирования.
+    Научная новизна исследования заключается в следующем:
+    предлагается присваивать дополнительно 5 баллов в рейтинге устойчивости
+коммерческих банков за уменьшение государственной доли на 10% в уставном
+капитале коммерческих банков с государственной долей в 50 процентов и выше,
+дополнительно 10 баллов за уменьшение государственной доли на 20%, а также
+дополнительно 20 баллов за уменьшение государственной доли на 30%;
+    обоснована целесообразность уменьшения государственной доли в
+капитале коммерческих банков путем публичного размещения не менее 25
+процентов общего объема вновь выпущенных акций коммерческих банков на
+фондовых биржах;
+    обоснована целесообразность не увеличения на 8 процентов суммы
+льготных кредитов, предоставленных банком в кредитном портфеле, при
+трансформации банков с государственной долей;
+    предлагается обеспечения буфера капитала банков путем направления в
+уставный капитал 20 процентов чистой прибыли, полученной при увеличении
+размера уставного капитала в капитале коммерческих банков.
+    Практические результаты исследования заключаются в следующем:
+    предлагается увеличить текущий размер уставного капитала банков на 100
+процентов в первый год, на 200 процентов во второй год и на 300 процентов в
+третий год при уменьшении государственной доли в капитале коммерческих
+банков;
+    разработаны прогнозные показатели до 2030 года по стабилизации рейтинга
+коммерческих банков, увеличения текущего размера уставного капитала и
+уменьшении государственной доли в капитале банка при публичном размещении
+акций;
+                                                                         30
+    обосновано уменьшение государственной доли в структуре капитала
+коммерческих банков до 15-20 процентов, увеличение деятельности банков на
+рынке ценных бумаг до 50 процентов;
+    предлагается уменьшить государственную долю в капитале коммерческих
+банков за счет выпуска долгосрочных субординированных долговых
+обязательств.
+    Достоверность результатов исследования обусловлена исследованием
+научных взглядов отечественных и зарубежных ученых и экспертов,
+посвященных теоретическим и практическим проблемам повышения
+устойчивости капитала коммерческих банков и уменьшения государственной
+доли в капитале, анализом отчетов и данных Государственного комитета по
+статистике Республики Узбекистан, Центрального банка Республики
+Узбекистан, коммерческих банков нашей страны.
+    Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования обусловлена тем, что научные
+предложения и практические рекомендации, разработанные в рамках
+исследования, способствуют обогащению научного аппарата обеспечения
+устойчивости капитала коммерческих банков и совершенствованию их
+практики. Результаты исследования можно использовать при определении
+достаточности капитала, при обеспечении устойчивости капитала коммерческих
+банков, при разработке соответствующих методов и моделей достаточности
+капитала, а также в проводимых в данной сфере исследовательских работах.
+    Практическая значимость результатов исследования объясняется тем, что
+они могут быть использованы в практике повышения уровня капитализации
+коммерческих банков, устойчивости капитала коммерческих банков и
+уменьшения государственной доли в их структуре, а также при разработке
+проектов нормативно-правовых документов, относящихся к данной сфере.
+    Внедрение результатов исследования. На основе полученных научных
+результатов о путях уменьшения государственной доли в капитале
+коммерческих банков:
+    предложение присваивать дополнительно 5 баллов в рейтинге устойчивости
+коммерческих банков за уменьшение государственной доли на 10% в уставном
+капитале коммерческих банков с государственной долей в 50 процентов и выше,
+дополнительно 10 баллов за уменьшение государственной доли на 20%, а также
+дополнительно 20 баллов за уменьшение государственной доли на 30%,
+включено в Постановление Кабинета Министров Республики Узбекистан от 30
+января 2024 года №ПКМ-30 “Об утверждении положения о порядке рейтинга
+устойчивости субъектов предпринимательства” (справка №09-06/1932 АКБ
+“Узпромстройбанк” от 11 марта 2024 года). В результате данное предложение
+способствовало активизации работы по уменьшению государственной доли в
+банках;
+    предложение по уменьшению государственной доли в капитале
+коммерческих банков путем публичного размещения не менее 25 процентов
+общего объема вновь выпущенных акций коммерческих банков на фондовых
+биржах было использовано при разработке “Дорожной карты развития рынка
+                                                                         31
+капитала на 2023-2025 годы”, утвержденной Постановлением Кабинета
+Министров Республики Узбекистан от 2 сентября 2023 года №ПП-291 “О
+дополнительных мерах по развитию рынка капитала” (справка №09-06/1932 АКБ
+“Узпромстройбанк” от 11 марта 2024 года). В результате этого предложения
+более 25 процентов акций банка были публично размещены на фондовых
+биржах;
+     предложение по не увеличению на 8 процентов суммы льготных кредитов,
+предоставленных банком в кредитном портфеле, при трансформации банков с
+государственной долей, включено в “Стратегию развития Узпромстройбанка на
+2024-2026 годы”, утвержденную протоколом №07/11 Общего собрания
+акционеров АКБ “Узпромстройбанка” от 30 ноября 2023 года (справка №09-
+06/1932 АКБ “Узпромстройбанк” от 11 марта 2024 года). В результате данного
+предложения было принято решение ограничить практику льготного
+кредитования в банке, кредитовать субъекты предпринимательства, крупные
+предприятия и жителей на рыночных принципах, а в 2023 году доля льготных
+кредитов уменьшилась на 7,2 процента по сравнению с 2022 годом;
+     предложение по обеспечению буфера капитала банков путем направления в
+уставный капитал 20 процентов чистой прибыли, полученной при увеличении
+размера уставного капитала в капитале коммерческих банков, включено в
+“Стратегию развития Узпромстройбанка на 2024-2026 годы”, утвержденную
+протоколом №07/11 Общего собрания акционеров АКБ “Узпромстройбанка” от
+30 ноября 2023 года (справка №09-06/1932 АКБ “Узпромстройбанк” от 11 марта
+2024 года). В результате данного предложения более 20 процентов чистой
+прибыли, получаемой ежегодно в АКБ “Узпромстройбанке”, согласно решению
+общего собрания акционеров, направлено на увеличение резервного капитала.
+     Апробация результатов исследования. Основные идеи и выводы
+диссертации прошли обсуждение на 3 международных и 2 республиканских
+научно-практических конференциях.
+     Опубликованность результатов исследования. По теме диссертации
+опубликовано всего 12 научных работ, включая 4 научные статьи в
+отечественных журналах, рекомендованных Высшей аттестационной комиссией
+и 3 статьи в авторитетных зарубежных журналах.
+     Структура и объем диссертации. Структура диссертационной работы
+состоит из введения, трех глав, восьми параграфов, заключения, списка
+использованной литературы и приложений. Объем диссертации составляет 143
+страницы.
+
+             ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+
+     Во введении диссертации обоснованы актуальность и востребованность
+исследования, определены его цель и основные задачи, объект и предмет
+диссертации, показано соответствие приоритетным направлениям развития
+науки и технологий в республике, обоснована научная новизна и изложены
+практические результаты, раскрыты научное и практическое значение
+полученных результатов. Кроме того, представлены данные о внедрении
+                                                                        32
+результатов исследования, а также приведены сведения об опубликованных
+работах и структуре и объеме диссертации.
+      В первой главе диссертации “Теоретические основы формирования
+капитала коммерческих банков и опыт зарубежных стран” изучены
+теоретические подходы к формированию капитала коммерческих банков и
+уменьшению государственной доли в нем, методические аспекты и особенности
+уменьшения государственной доли в капитале коммерческих банков, а также
+возможности использования опыта зарубежных стран в практика Узбекистана по
+уменьшению государственной доли в капитале коммерческих банков. На основе
+поставленных перед исследованием задач были сформулированы результаты и
+выводы о теоретической и экономической основе доли государства в капитале
+коммерческих банков.
+     Прежде всего, коммерческие банки должны иметь достаточный уровень
+капитала для своей деятельности, что немыслимо без достаточного владения
+капиталом и устойчивой базы доходов. По этой причине капитал коммерческих
+банков является важнейшим источником в процессе создания и открытия банка,
+в процессе ведения основной деятельности, важнейшим источником выполнения
+экономических нормативов, установленных Центральным банком, и
+представляет основной финансовый источник, служащий “защитной подушкой”
+при покрытии убытков, которые могут возникнуть в банковской деятельности. В
+современных процессах экономического роста и трансформации коммерческих
+банков вопрос достаточности капитала и устойчивости коммерческих банков
+остается одной из наиболее актуальных проблем.
+     Поэтому вопрос сравнительного исследования сущности капитала
+коммерческих банков, его формирования за счет устойчивых источников и
+обеспечения его однородности всегда считается актуальной задачей.
+     Ряд ученых исследовали теоретические основы банковского капитала и его
+влияние на процессы банковской деятельности, высказывали различные взгляды
+и теории. В частности, А. Смит, которого считают одним из представителей
+классиков, дал следующее определение: “Банк - превращает мертвый капитал
+отдельных дельцов, считающийся чрезвычайно ценным для общества, но
+временно неиспользуемый для него, в активы и производительный капитал”26.
+     По мнению профессора И. Трахтенберга, банки являются организациями,
+создающими капитал. В своей деятельности они ускоряют процессы
+формирования и накопления капитала, перераспределяют капитал27.
+     Ученые-экономисты высказывают разные мнения об экономической
+сущности банковского капитала. В частности, профессор В.М.Усоскин
+подчеркнул, что рассматривает банковский капитал как важную и неотъемлемую
+составляющую банковских финансовых ресурсов28. Российский экономист Г.Г.
+Каробова рассматривает банковский капитал как совокупность полностью
+оплаченных фондов, обеспечивающих экономическую независимость,
+
+
+26
+   Смит А. Исследование о природе и причинах богацтв народа. – Петрозаводск.: 1993. - С.271.
+27
+   Трахтенберг И. Денежное обращение и кредит при капитализме. – Москва.: 1962. - С.547.
+28
+   Усоскин В.М. Современный коммерческий банк: Управление и операции.-М: URSS. 2019. - 328 с.
+
+                                                                                                33
+устойчивость и надежность банка29. В действительности размер капитала банка
+характеризует его финансовую устойчивость и независимость. Ученый-
+экономист Р.Г.Ольхова выдвигает экономическую концепцию “защитной
+подушки”, раскрывающую экономическую природу банковского капитала, и
+считает, что в случае непредвиденного убытка банка капитал смягчает
+последствия ущерба, рассматривается как защитная подушка и создает
+возможность восстановить экономическую платежеспособность банка30.
+    Ученые-экономисты нашей республики, Ш.Абдуллаева и А.Омонов, дали
+следующее определение понятию банковского капитала: “Капитал
+коммерческих банков является устойчивым источником и уникальным
+инструментом защиты, позволяющим компенсировать непредвиденные потери в
+процессе деятельности банка”31.
+    Кроме того, в исследованиях М. Эгамовой отмечается, что “Деятельность
+коммерческих банков невозможно представить без инвестиций, то есть без
+достаточной капитализации. Таким образом, капитал коммерческих банков
+служит важным финансовым источником в процессе открытия банков, а в
+дальнейшем – ключевым критерием при реализации экономического
+регулирования Центрального банка и “защитной подушкой” при покрытии
+убытков, которые могут возникнуть неожиданно в банковской деятельности”32.
+    Повышение устойчивости капитала коммерческих банков – серьезный
+процесс, и в этом процессе основное внимание уделяется структуре капитала.
+Рассмотрим влияние повышения устойчивости банковского капитала на
+банковскую деятельность в зависимости от формы собственности
+    Одной из наиболее важных проблем банковского дела является обеспечение
+достаточного банковского капитала. Термин “капитал” имеет особое значение
+для банкиров. Это понятие относится прежде всего к средствам, внесенным
+владельцами банков и размещенным в уставном капитале, а также к
+нераспределенной прибыли. Банковский капитал является одним из факторов,
+обеспечивающих доверие к банкам. Поэтому вопрос количества и качества
+банковского капитала имеет для банков большое значение.
+    При формировании структуры капитала коммерческих банков важно
+учитывать форму собственности. При этом в банковской практике особое
+внимание уделяется достаточности капитала.
+    Требование к минимальному размеру капитала коммерческих банков
+одинаково для всех коммерческих банков независимо от форм собственности, и
+считается необходимым, чтобы этот размер был полностью сформирован до
+начала деятельности банка. Экономические изменения, происходящие в
+международной банковской системе и ее международная интеграция,
+обуславливают необходимость постоянного пересмотра требований к капиталу
+
+29
+   Банковское дело: учебник / под ред. д.э.н., проф. Г.Г.Коробовой. 2-е изд., перераб. и доп. М.: Магистр, ИНФРА-
+М, 2023. -5592 с.
+30
+   Ольхова Р.Г. Банковское дело. Управление в современном банке. Учебное пособие. – М.: «КНОРУС» 2019. –
+283 с.
+31
+   Ш.Абдуллаева, А.Омонов Тижорат банклари капитали ва уни бошқариш. - Т.: «Иктисод - Молия» 2006. - 120 б.
+32
+   М.Эгамова. Тижорат банклари капиталлашув даражасини оширишда даромаднинг роли. иқтисодиёт фанлари
+бўйича фалсафа доктори (Doctor of Philosophy). Дис. автореферати. – Т.: ТМИ, 2019. – 28 б.
+
+                                                                                                              34
+коммерческих банков. Большинство развитых и развивающихся стран мира
+широко используют стандарты международного Базельского комитета при
+формировании структуры банковского капитала и определении уровня его
+достаточности.
+    Одной из основных причин создания Международного Базельского комитета
+и того, что структура капитала коммерческих банков и требования к его
+достаточности определялись этим комитетом единообразно в практике
+международного банковского дела, является развитие и углубление
+международное разделение труда и международные расчеты между странами
+мира. Кроме того, развитие производительных сил в мире, организация валютных
+рынков, формирование международной экономической системы, глобализация и
+интернационализация деловых и экономических отношений и т.д. создают
+необходимость единого подхода к требованиям к достаточности капитала
+коммерческих банков. Именно эти процессы требуют повышения экономической
+устойчивости и эластичности международной финансовой и банковской системы.
+    Во второй главе диссертации “Анализ современного состояния
+структуры капитала коммерческих банков Республики Узбекистан”
+осуществлен анализ нормативно-правовых основ уменьшения государственной
+доли в капитале коммерческих банков, анализ фактического состояния
+уменьшения государственной доли в капитале коммерческих банков в
+Узбекистане и эконометрический анализ факторов, влияющих на уменьшение
+государственной доли в капитале коммерческих банков.
+    Все виды услуг, оказываемых коммерческими банками, прямо или косвенно
+зависят от достаточности капитала коммерческих банков и его качества, а
+достаточность капитала коммерческих банков является основным фактором
+оценки платежеспособности и безрисковости любого коммерческого банка.
+Коммерческим банкам необходимо иметь достаточный капитал и обеспечивать
+свою ликвидность, чтобы иметь возможность без ущерба выйти из рисков, с
+которыми они сталкиваются в ходе своей деятельности.
+    Следует отметить, что принятие Закона Республики Узбекистан “О
+Центральном банке Республики Узбекистан” в новой редакции и Постановление
+Президента Республики Узбекистан от 18 августа 2023 года №ПП-283 “О
+дополнительных мерах по совершенствованию механизма реформирования
+предприятий и коммерческих банков с участием государства” играют важную
+роль в усилении регулирования экономики посредством денежно-кредитных
+инструментов, в обеспечении уставного капитала и платежеспособности
+коммерческих банков 33.
+    Если проанализировать структуру капитала коммерческих банков
+Узбекистана по формам собственности, то можно заметить, что соотношение
+кредитов и депозитов в банках с государственной долей за анализируемый
+период составляет не менее 240 процентов. То есть кредиты, выделяемые этими
+банками, в основном предоставляются за счет других обязательств/займов и доли
+
+33
+  Закон Республики Узбекистан «О Центральном банке Республики Узбекистан». Национальная база данных
+законодательства: №03/19/582/4014, 12.11.2019 г.
+
+                                                                                                35
+государства в капитале. Это не стимулирует эти банки привлекать независимые
+ресурсы и делает его привязанным к этим обязательствам/кредитам.
+      350,00%               283,89%                       302,01%
+      300,00%                                                                           268,66%                        245,18%                         268,02%
+      250,00%
+      200,00%         123,82%      118,87%                       119,93%                           119,09%                                                     119,17%
+      150,00%                           98,74% 118,78%                99,81% 118,93%                    89,16%
+                                                                                                               116,71%                100,41%116,71%
+                                                                                                                                 116,60%                            117,71%
+      100,00%
+       50,00%
+        0,00%
+                ГОСУДАРСТВЕНН
+
+
+
+
+                                                 ГОСУДАРСТВЕНН
+
+
+
+
+                                                                                   ГОСУДАРСТВЕНН
+
+
+
+
+                                                                                                                      ГОСУДАРСТВЕНН
+
+
+
+
+                                                                                                                                                        ГОСУДАРСТВЕНН
+                                  ДРУГИЕ БАНКИ
+
+
+
+
+                                                                    ДРУГИЕ БАНКИ
+
+
+
+
+                                                                                                       ДРУГИЕ БАНКИ
+
+
+
+
+                                                                                                                                        ДРУГИЕ БАНКИ
+
+
+
+
+                                                                                                                                                                         ДРУГИЕ БАНКИ
+                   ОЙ ДОЛЕЙ
+
+
+
+
+                                                    ОЙ ДОЛЕЙ
+
+
+
+
+                                                                                      ОЙ ДОЛЕЙ
+
+
+
+
+                                                                                                                         ОЙ ДОЛЕЙ
+
+
+
+
+                                                                                                                                                           ОЙ ДОЛЕЙ
+                    БАНКИ С
+
+
+
+
+                                                     БАНКИ С
+
+
+
+
+                                                                                       БАНКИ С
+
+
+
+
+                                                                                                                          БАНКИ С
+
+
+
+
+                                                                                                                                                            БАНКИ С
+                       01.01.2020                       01.01.2021                        01.01.2022                         01.01.2023                        01.01.2024
+
+                            Соотношение активов к обязательствам                                      Соотношение кредитов к депозитам
+
+
+    Рисунок 1. Соотношение сравнительных показателей банков с
+государственной долей и других банков 34, в процентах.
+
+     Кроме того, данные рисунка демонстрируют, что по равному коридору
+происходили динамические изменения в соотношении активов к обязательствам
+и соотношении кредитов к депозитам в банках, в которых отсутствовала
+государственная доля. То есть банки осуществляли кредитные и активные
+операции в размере обязательств и депозитов.
+     На основании приведенных данных и анализа в качестве одного из способов
+уменьшения государственной доли в коммерческих банках нашей страны, на
+наш взгляд, целесообразно использовать присваиваемую банкам внутреннюю
+рейтинговую систему оценки банков.
+     В этом случае в банках с высокой государственной долей необходимо будет
+необходимо ввести практику начисления дополнительных баллов в зависимости
+от уменьшения этой доли. То есть, целесообразно присваивать дополнительно 5
+баллов в рейтинге устойчивости коммерческих банков за уменьшение
+государственной доли на 10% в уставном капитале коммерческих банков с
+государственной долей в 50 процентов и выше, дополнительно 10 баллов за
+уменьшение государственной доли на 20%, а также дополнительно 20 баллов за
+уменьшение государственной доли на 30%.
+     Реализация данного механизма способствует уменьшению государственной
+доли в уставном капитале банков при одновременном повышении рейтинговой
+оценки банков. Только это требует разработки определенных критериев и
+стандартов.
+     Уставный капитал занимает значительную долю в структуре капитала
+коммерческих банков нашей страны, при изучении структуры уставного
+капитала было установлено, что основная его часть состоит из обыкновенных
+акций. В таблице доля уставного капитала в совокупном капитале коммерческих
+банков в 2017 году составила 78,9 процента, в 2023 году – 70,7 процента или
+
+34
+     Данные Центрального банка Республики Узбекистан https://cbu.uz/oz/statistics/bankstats/
+
+                                                                                                                                                                                        36
+уменьшилась за этот период на 8,2 процентных пункта. Другие элементы
+совокупного капитала коммерческих банков Узбекистана значительно
+увеличились по сравнению с 2017 годом.
+                                                           Таблица 1
+   Структура и динамика совокупного капитала коммерческих банков
+                  Республики Узбекистан35, в процентах
+     № Структура капитала               2017      2018       2019        2020       2021       2022    2023
+
+     1.   Уставный капитал               78,9      73,7      82,1        76,5       77,2       75,2    70,7
+          Дополнительный
+     2.                                   0,3      0,3        0,3         0,7        1,0        1,3     1,4
+          капитал
+     3.   Специальные резервы             8,7      11,1       7,5         8,9       11,9        9,2    11,5
+          Нераспределенная
+     4.                                  12,1      14,9      10,1        13,8        9,9       14,3    16,4
+          прибыль
+                ВСЕГО                   100,0     100,0      100,0      100,0       100,0      100,0   100,0
+
+     Увеличение доли распределенной прибыли в структуре капитала для банков
+Узбекистана оценивается как позитивная ситуация. По результатам анализа
+диссертационного исследования можно наблюдать, что доля добавочного
+капитала в структуре капитала банков с долей государства составляет около 0,3-
+0,5 процента.
+     Исходя из целей и задач нашего диссертационного исследования, в качестве
+еще одного важного способа уменьшения государственной доли в капитале
+банков предлагается увеличить капитал банков за счет направления 20
+процентов чистой прибыли, полученной от уменьшения государственной доли в
+капитале коммерческих банков и увеличения размера уставного капитала к
+уставному капиталу, то есть напрвления в негосударственную долю.
+     При этом уставный капитал банков с государственной долей будет увеличен
+на 20 процентов, а государственная доля увеличится еще на 20 процентов. Наша
+предлагаемая практика заключается в том, что 20 процентов чистой прибыли,
+которая направляется на увеличение уставного капитала, должны быть
+направлены в негосударственный сектор. Это, в свою очередь, снижает долю
+государства в капитале коммерческих банков.
+     Капитал коммерческих банков нашей страны увеличивается в абсолютной
+сумме. Согласно данным таблицы, сгруппированной по размерам регулятивного
+капитала коммерческих банков, доля коммерческих банков с регулятивным
+капиталом до 200,0 млрд сумов в составе коммерческих банков нашей
+республики имеет тенденцию к снижению.
+     Доля коммерческих банков, в которых регулятивный капитал насчитытывал
+от 200 млрд. сумов до 350 млрд. сумов, демонстрирует тенденцию роста. В целом
+за анализируемый период размер регулятивного капитала коммерческих банков
+нашей республики имеет тенденцию к увеличению. Следует отметить, что
+данные случаи оцениваются как положительная ситуация.
+                                                                   Таблица 2
+
+
+
+35
+     Данные Центрального банка Республики Узбекистан https://cbu.uz/oz/statistics/bankstats/
+
+                                                                                                          37
+      Группировка и динамика совокупного капитала коммерческих банков
+                    Узбекистана по размеру 36, в процентах
+                                    2018             2019            2020           2021             2022         2023
+           Показатели
+
+
+
+
+                                кол-во
+
+
+
+                                         кол-во
+
+
+
+                                                               кол-во
+
+
+
+                                                                                кол-во
+
+
+
+                                                                                         кол-во
+
+
+
+                                                                                                      кол-во
+                                          доля,
+
+
+
+                                                       доля,
+
+
+
+                                                                        доля,
+
+
+
+                                                                                          доля,
+
+
+
+                                                                                                       доля,
+
+
+
+                                                                                                                    доля,
+                                           %
+
+
+
+                                                        %
+
+
+
+                                                                         %
+
+
+
+                                                                                           %
+
+
+
+                                                                                                        %
+
+
+
+                                                                                                                     %
+     До 200 млрд. сумов        13        10,9   9      2,4       2       0,7    5        1,1    1      0,2   0       0
+     От 200 млрд. до 350 млрд.
+                                9        26,5   10     12,1     14       5,9    10       3,6    13     4,3   15     4,3
+     сумов
+     От 350 млрд. до 500 млрд.
+                                2        13,1   1      1,8       3       4,5    4        3,4    5      3,9   6      4,1
+     сумов
+     От 500 млрд. до 1 трлн.
+                                2        25,8   2      8,8       4      14,9    3        5,7    4      7,0   4      7,0
+     сумов
+     От 1 трлн. до 2 трлн.
+                                1        23,6   3      21,2      3      21,8    2        6,5    2      7,8   2      7,9
+     сумов
+     2 трлн. сумов и выше       -         -     3      53,7      3      52,2    6        79,6   6     76,7   6      76,7
+
+             ВСЕГО             27        100    28     100     29       100     30       100 31       100    33     100
+
+
+     Если проанализировать данные таблицы, всего в коммерческих банках,
+осуществляющих свою деятельность в нашей республике в 2023 году, размер
+капитала которых составлял 2 трлн.сумов, и ещё в 6 коммерческих банках, в
+которых капитал превышал эту сумму, доля капитала составляет 76,7 процента
+по отношению к совокупному капиталу всей банковской системы.
+     Если изучать зарубежный опыт, например, в России, то минимальный
+размер основного капитала банков составляет 1 млрд. рублей (164 млрд. сумов),
+1 млрд. юаней в Китае (1,77 трлн. сумов), в Казахстане - 10 млрд. тенге (240 млрд.
+сумов), в Беларуси – 58,1 млн. белорусских рублей (260 млрд. сумов) 37.
+     По мнению автора, целесообразно постепенно увеличивать размер
+уставного капитала коммерческих банков нашей республики. В целях
+уменьшения государственной доли в структуре капитала коммерческих банков
+предлагается увеличить текущий размер уставного капитала банков на 100
+процентов в первый год, на 200 процентов во второй год и на 300 процентов в
+третий год.
+     Введение этой нормы приводит пруденциальные нормы (важные ценности,
+которые банк должен выполнять для обеспечения своей стабильной работы) в
+соответствие с международными стандартами. В частности, речь идет об
+обеспечении банков достаточными средствами для их платежеспособности,
+ликвидности, а также рентабельности.
+     В этих нормах также следует отметить, что увеличение капитала, которое
+мы предлагаем в банках, имеющих сейчас государственную долю, происходит
+не за счет государственной доли, скорее за счет частного сектора или, другими
+
+
+36
+  Данные Центрального банка Республики Узбекистан https://cbu.uz/oz/statistics/bankstats/
+37
+  Сенат одобрил увеличение уставного капитала банков и смягчение требований для оффшорных акционеров -
+новости Узбекистана – Gazeta.uz (gazeta.uz)
+
+                                                                                                                           38
+словами, за счет приватизации целесообразно уменьшить долю государства в
+структуре капитала банков и увеличить размер уставного капитала.
+     По мнению автора, одной из причин увеличения проблемных кредитов в
+банках является увеличение объемов льготных кредитов. Как известно, крупные
+коммерческие банки, особенно государственные, в настоящее время переживают
+процесс трансформации. В таких условиях в целях улучшения качества
+банковских активов целесообразно не увеличивать объем льготных кредитов в
+кредитном портфеле банка при трансформации банков с государственной долей.
+     Затем будут приняты меры по сокращению объемов проблемных кредитов,
+возникающих за счет льготных кредитов в банках. В то же время будет создана
+возможность ускорить процесс трансформации банков с государственной долей.
+Разумеется, в условиях полной экономической конкуренции банков выделение
+банками с долей государства льготных кредитов для населения и хозяйствующих
+субъектов приводит к увеличению в определенной мере количества проблемных
+кредитов в их кредитном портфеле, что происходит за счет эти льготных
+кредитов.
+     Эконометрические уравнения были построены с использованием методов
+многофакторной линейной регрессии наименьших квадратов (LS) и
+моделирования структурных уравнений (SEM). Для исследования были
+разработаны два отдельных эконометрических уравнения. Кроме того, на основе
+построенных эконометрических моделей оценивались результаты тестов Gauss-
+Markov, Durbin-Wason, Shapiro-Wilk и Breusch-Pagan.
+     Статистические оценки и тесты, такие как тест chi-квадрат, сравнительный
+индекс соответствия (CFI), среднеквадратичная ошибка приближения (RMSEA)
+и тесты стандартизированного среднеквадратического остатка (SRMR),
+используются для оценки регрессионной модели SEM.
+     Визуальные таблицы и дескриптивные статистические таблицы были
+созданы для изучения направления и концентрации переменных при создании
+эконометрических моделей. Кроме того, была сформирована корреляционная
+матрица, показывающая связь между зависимыми и независимыми
+переменными, и проведена оценка мультиколлинеарности.
+     В модели этого типа зависимые и независимые переменные
+рассматриваются как временные ряды, то есть данные наблюдаются в
+последовательности временных интервалов. Эта модель, в частности,
+показывает, что отношения между переменными не только варьируются в
+зависимости от фактора, но и меняются с течением времени. В качестве факторов
+были выбраны следующие.
+     капитал коммерческих банков с высокой долей государства - dtb_kаp
+(зависимая переменная);
+     уровень инфляции в национальной экономике - inf_d(независимая
+переменная);
+     средневзвешенная процентная ставка - o’rt_fst(независимая переменная);
+     средневзвешенные процентные ставки по краткосрочным депозитам -
+dep_fst(независимая переменная).
+
+                                                                           39
+     При разработке эконометрических моделей были построены следующие
+гипотезы:
+     Нулевая гипотеза (H0): Существует значительная связь между сочетанием
+капитала коммерческих банков с высокой долей государства, уровнем инфляции
+в национальной экономике, средневзвешенной процентной ставкой и
+средневзвешенной процентной ставкой по краткосрочным депозитам
+коммерческих банков.
+     Альтернативная гипотеза (Ha): Существенной корреляции между
+сочетанием капитала коммерческих банков с высокой государственной долей,
+уровнем инфляции в национальной экономике, средневзвешенной процентной
+ставкой и средневзвешенной процентной ставкой по краткосрочным депозитам
+коммерческих банков нет, согласно ей, другие факторы, не учтенные в данном
+исследовании, указывают на то, что доля государства может сыграть ключевую
+роль в сокращении капитала коммерческих банков с высокими показателями.
+     Нулевая гипотеза (H0), H0:β1= β2= β3=0
+     Альтернативная гипотеза (Ha), (Ha): минимум один βи≠0б где β1, β2 и β3.
+     Доля государства в национальной банковской системе - коэффициент,
+связанный с независимыми переменными (уровнем инфляции в национальной
+экономике, средневзвешенной процентной ставкой и средневзвешенными
+процентными ставками по краткосрочным депозитам коммерческих банков) в
+модели множественной регрессии, прогнозирующей капитал коммерческих
+банков.
+     Нулевая гипотеза (H0) демонстрирует, что коэффициенты равномерно
+равны нулю, что указывает на отсутствие корреляции, что означает отсутствие
+взаимосвязи, альтернативная гипотеза (H1) же и указывает на то, что хотя бы
+один коэффициент отклоняется от нуля, что указывает на статистически
+значимую связь.
+
+
+
+
+    Рисунок 2. Графическая матрица зависимых и независимых
+переменных38
+    По результатам исследования аналитическая графическая матрица
+зависимых и независимых переменных выглядела следующим образом:
+    Данные, представленные на рисунках выше, представляют собой сильную
+корреляцию между факторами с определенной плотностью, представляющей
+результат, и конкретными позициями. Плотность точек визуальных данных
+
+38
+     Самостоятельно разработано автором.
+
+                                                                          40
+показывает значительную корреляцию между кластерным расположением точек
+и их тенденцией к концентрированному распределению вдоль осей.
+
+
+
+
+    Рисунок 3. Скаттер график между зависимыми и независимыми
+переменными39
+    На следующем этапе представляются аналитические графики зависимых и
+независимых переменных на временном интервале.
+                 12
+                 11.5
+       dtb_kap
+                 11
+                 10.5
+
+
+
+
+                  2018m1   2020m1           2022m1   2024m1
+                                    oylik
+
+
+
+
+    Рисунок 4. Графическая диаграмма независимых переменных с
+течением времени40.
+
+39
+     Самостоятельно разработано автором.
+40
+     Самостоятельно разработано автором.
+
+                                                                     41
+    На приведенных выше рисунках из аналитического графика зависимых и
+независимых переменных во времени видно, что государственная доля
+продемонстрировала тенденцию роста капитала существующих коммерческих
+банков. Кроме того, независимые переменные указывают на тенденцию к
+снижению уровня инфляции на протяжении многих лет. Это свидетельствует об
+изменении макроэкономических показателей нашей страны. В национальном
+банковском секторе проявились стохастические колебания средневзвешенных
+процентных ставок с годами. Также средневзвешенные процентные ставки по
+краткосрочным депозитам коммерческих банков показали тенденцию к
+увеличению с 3 квартала 2018 года по настоящий период.
+    На следующем этапе исследования мы разработали корреляционную
+матрицу для каждой из зависимых и независимых переменных.
+                                                               Таблица 3
+      Матрица корреляции зависимых и независимых переменных 41
+                    Variables               (1)          (2)           (3)       (4)
+                    (1) dtb_kap            1.000
+                    (2) inf_d            -0. 6793       1.000
+                                         (0.0000)                               ***
+                    (3) o‘rt_fst          0.4576        0.0053        1.000
+                                         (0.0019)     (0.4913)                   ***
+                    (4) dep_fst           0.7014       -0.5619        0.5885    1.000
+                                         (0.0000)     (0.0000)       (0.0000)    ***
+
+    Связь между зависимыми и независимыми переменными:
+    Результаты таблицы показали, что существует четкая, крепкая и обратная
+корреляция между зависимой переменной и влияющими на нее факторами.
+Кроме того, корреляционная матрица, представленная в таблице, показала, что
+между зависимой переменной и независимой переменной отсутствует
+мультиколлинеарность.
+    На следующем этапе исследование разработало уравнение линейной
+регрессии многомерных временных рядов и уравнение регрессии моделирования
+структурных уравнений (SEM), включая основные переменные. Кроме того,
+проверены тесты значимости Gauss-Markov (Breusch-Pagan, Durbin Wason,
+Shapiro-Wilk). Кроме того, модель оценивалась с помощью теста Vif для
+выявления потенциальной мультиколлинеарности.
+    Модель многофакторной регрессии, разработанная для исследования, имела
+следующий вид:
+    dtb_kap=-0.28 inf_d-2.04ort_fst+2.52dep_fst+11.07 42(1)
+    Результат теста Durbin Wason для уравнения многомерной регрессии дал
+значение 0,63. Кроме того, в исследовании отмечалось значение 0,68 теста
+Shapiro-Wilk W и значение 0,73 для теста Breusch-Pagan.
+    В ходе исследования основная гипотеза H0: у=0 и ее альтернатива H1: у≠0
+были статистически проверены на уровне значимости n>0,05.
+    После выполнения тестов Durbin Wason, Shapiro-Wilk W и Breusch-Pagan
+отклонение альтернативной гипотезы основывалось на критерии п>0,05. Таким
+образом, можно заключить, что в нашем исследовании верно предположение
+Gauss-Markovа, подтверждающее, что члены ошибок не коррелируют с
+
+41
+     Самостоятельно разработано автором на основе программы Stata.
+42
+     Разработано автором.
+
+                                                                                        42
+независимыми переменными. Эконометрическая модель успешно прошла
+критические условия Gauss-Markov.
+     Тест Vif был проведен для проверки наличия мультиколлинеарности в
+модели исследования. В ходе теста было выявлено значение Vif,
+свидетельствующее об отсутствии мультиколлинеарности в разработанной
+модели.
+     Модель (dtb_kap) между капиталом коммерческих банков с
+государственной долей и факторами, влияющими на него, дала значение Vif-
+3.49. Также на основе анализа модели многофакторной регрессии установлено,
+что основная H0:у=0, H1:у≠0 является значимой с пределом n˂10. В результате
+альтернативная гипотеза была отвергнута. Учитывая, что результат теста Vif
+падает ниже порога n˂10, это условие Gauss-Markov также удовлетворяется.
+     Модель регрессии SEM, разработанная для исследования, имела следующий
+вид:
+             dtb_kap=-0.28 inf_d-2.04ort_fst+2.52dep_fst+11.07 (2)
+     Уравнение многомерной регрессии и модели регрессии SEM показали
+одинаковые результаты.
+     По результатам данных эконометрических уравнений очевидно, что
+изменения основных экономических переменных, в частности, инфляции,
+средних ставок по кредитам и ставок по краткосрочным депозитам, оказывают
+влияние на капитал государственных коммерческих банков. Понимание этих
+взаимосвязей приобретает все большее значение для экономистов, управляющих
+банками и исследователей при принятии важных решений о деньгах, финансах и
+монетарной политике.
+     В    третьей    главе    диссертации      “Направления        уменьшения
+государственной доли в капитале коммерческих банков Республики
+Узбекистан” выявлены проблемы в практике уменьшения государственной
+доли в капитале коммерческих банков, а также разработаны предложения и
+рекомендации по уменьшению государственной доли в капитале коммерческих
+банков нашей страны.
+     Принимая во внимание проделанный анализ и приведенные выше случаи,
+можно подчеркнуть, что существуют следующие проблемы по уменьшению
+государственной доли в капитале коммерческих банков нашей страны.
+     Отсутствие источника эмиссионных доходов в основном капитале
+коммерческих банков. Доход от эмиссии на самом деле является весьма
+стабильным источником банковского капитала по сравнению с другими
+источниками. Значение этого вопроса в уменьшении государственной доли в
+капитале банков состоит в том, что дивиденды, выплачиваемые владельцами
+банков и различными конкурирующими предприятиями банка, вызовут рост
+номинальной стоимости акций банка на фондовом рынке.
+     Одна из основных причин, почему мы говорим, что доходы от эмиссии в
+капитал коммерческих банков стабильны и уменьшают государственную долю
+заключается в том, что банк не производит по ним налоговых платежей, то есть
+они освобождаются от различных обязательств.
+     На наш взгляд, одной из основных причин, почему коммерческие банки
+нашей страны не имеют в структуре собственных средств дополнительного
+источника капитала, является то, что высокая доля государства в их уставном
+капитале не оказывает положительного влияния на деятельность банков на
+рынке ценных бумаг.
+
+                                                                           43
+    Неразвитость практики выпуска долгосрочных субординированных
+долговых обязательств банков.
+    В настоящее время они считаются современным инструментом повышения
+уровня капитализации и достижения устойчивости коммерческих банков
+посредством выпуска в обращение долгосрочных субординированных долговых
+обязательств.
+    При этом необходимо более полно использовать возможности увеличения
+дополнительной базы капитала коммерческих банков. Еще одной возможностью
+укрепить базу дополнительного капитала коммерческих банков нашей страны
+является выпуск в обращение субординированных ценных бумаг. Потому что
+субординированные долговые обязательства являются удобным и недорогим
+средством привлечения долгосрочных ресурсов в коммерческие банки.
+    По результатам проведенных исследований и анализа мы сформулировали
+следующие рекомендации:
+    необходимо повысить рыночную стоимость своих акций за счет развития
+эмиссионных операций банков на рынке ценных бумаг;
+    необходимо повысить интерес инвесторов и клиентов к покупке банковских
+ценных бумаг за счет увеличения доли дополнительного капитала в структуре
+собственных средств банков;
+    с целью достижения положительных результатов в формировании
+источника эмиссионных доходов в капитале коммерческих банков
+целесообразно предоставление соответствующих стимулов коммерческим
+банкам с долей эмиссионного дохода в основном их капитале, превышающей 5
+процентов с позиции требований к достаточности капитала первого уровня.
+    В результате анализа и исследований, проведенных в ходе
+исследовательской работы, установлено, что коммерческие банки нашей страны
+имеют высокий уровень государственной доли в капитале коммерческих банков
+при выполнении требований, предъявляемых Центральным банком к
+достаточности регулятивного и основного капитала. Однако это не повод
+полагать, что нет проблем в формировании капитала коммерческих банков
+нашей республики, его управлении и обеспечении его устойчивости. То есть, во-
+первых, если размер капитала коммерческих банков превышает установленную
+норму, и это означает, что он используется неэффективно, а во-вторых,
+относительно низкая доля скорректированных на риск активов в структуре
+активов коммерческих банковнашей страны создает тенденцию к обеспечению
+высоких требований к нормативному и основному капиталу.
+    Известно, что одним из механизмов уменьшения государственной доли в
+капитале банков является приватизация банков. В свою очередь, приватизацией
+банков являетсяэто продажа выпущенных ими акций.
+    По нашему мнению, путем публичного размещения не менее 25 процентов
+их общего объема при продаже на фондовых биржах вновь выпущенных акций
+банков будет создана возможность уменьшения государственной доли в
+капитале коммерческих банков.
+    В продолжение выработанных выше предложений и рекомендаций следует
+включить этот механизм, то есть практику массовой покупки вновь выпущенных
+акций негосударственным сектором. Только тогда мы сможем уменьшить долю
+государства в капитале коммерческих банков.
+    Необходимо сформировать источник вложений консолидируемым
+дочерним обществам в структуре добавочного капитала коммерческих банков.
+Стоит отметить, что, несмотря на то, что данный вопрос выдвинут в качестве
+                                                                           44
+научного предложения в трудах экономистов нашей страны, он до сих пор не
+нашел своего положительного решения. В то же время в нашей
+исследовательской работе, принимая во внимание прямое влияние источника
+вложений в консолидированные дочерние компании на уменьшение
+государственной доли в капитале банка, мы пришли к мнению, что необходимо
+подробно остановиться на этом вопросе. В международной банковской практике
+факторинговые, форфейтинговые и трастовые компании создаются при
+коммерческих банках, причем эти компании формируются непосредственно за
+счет финансовых ресурсов коммерческих банков. Средства, выделяемые банком
+на их создание, непосредственно включаются в добавочный капитал банка.
+     Необходимо довести до сведения населения информацию о продаже акций
+коммерческих банков и выплате ими дивидендов.
+     Приватизация структуры капитала путем продажи акций коммерческих
+банков является одним из важных экономических факторов. Тем более, что в
+нынешних условиях коммерческие банки, продавая акции населению, во-
+первых, положительно влияют на приватизацию банков, а во-вторых,
+увеличивают долю купли-продажи банковских акций на фондовом рынке.
+     Необходимо обеспечить масштабную куплю-продажу простых и
+привилегированных акций коммерческих банков на вторичном рынке ценных
+бумаг. Активность купли-продажи акций коммерческих банков положительно
+влияет на формирование структуры банковского капитала за счет стабильных
+источников, в частности, источник дополнительного капитала в структуре
+банковского капитала формируется на основе спроса и предложение акций банка
+на вторичном рынке ценных бумаг.
+     Однако в результате того, что акции коммерческих банков не стали
+постоянным объектом торговли на вторичном рынке ценных бумаг, было
+признано отсутствие возможности определения рыночной цены акций банка и
+отсутствие их эмиссионного дохода в структуре капитала и была отмечена
+необходимость дальнейшего совершенствования на основе анализа с научной
+точки зрения.
+
+                              ЗАКЛЮЧЕНИЕ
+    На основе результатов изысканий и анализа, проведенных в ходе
+исследования путей уменьшения государственной доли в капитале
+коммерческих банков, мы сформулировали следующие выводы и предложения:
+    1. Высокий уровень специальных резервов в основном капитале
+коммерческих банков и низкая доля активов, взвешенных с учетом риска, в
+совокупных активах позволяют удовлетворить на высоком уровне требования к
+регулятивному капиталу и основному капиталу.
+    2. Эмиссионные доходы и нераспределенная прибыль играют важную роль
+в повышении устойчивости капитала коммерческих банков. Поэтому мы
+считаем, что коммерческим банкам нашей страны необходимо уделить особое
+внимание увеличению данных ресурсов.
+    3. Необходимо сократить объем специальных резервов в основном капитале
+коммерческих банков до необходимого уровня. В результате исследований
+сделан вывод, что одной из основных причин высокого уровня соблюдения
+требований к капиталу коммерческими банками нашей страны является высокий
+резерв под девальвацию в структуре основного капитала.
+    4. Увеличение инфляции в национальном банковском секторе на 1%
+приводит к уменьшению капитала государственных коммерческих банков на
+                                                                         45
+0,28%. Это свидетельствует о том, что инфляция оказывает негативное влияние
+на капитал государственных коммерческих банков. Одним из возможных
+объяснений является то, что инфляция может снизить реальную стоимость
+активов или повлиять на процентные ставки, тем самым влияя на финансовое
+состояние банков.
+     5. Увеличение ставок по краткосрочным депозитам на 1% приводит к
+увеличению капитала государственных коммерческих банков на 2,52%. Это
+указывает на положительную связь между ставками по краткосрочным
+депозитам и капиталом государственных коммерческих банков. Более высокие
+ставки по депозитам могут привлечь больше средств в эти банки и увеличить их
+базу капитала.
+     6. Увеличение средних ставок по кредитам на 1% приводит к уменьшению
+капитала государственных коммерческих банков на 2,04%. Это означает, что
+высокие кредитные ставки связаны со значительным уменьшением капитала
+государственных коммерческих банков. Более высокие ставки по кредитам
+могут привести к увеличению расходов по займам для этих банков, что повлияет
+на их рентабельность и капитал.
+     7. Необходимо внедрить практику по присвоению дополнительно 5 баллов
+в рейтинге устойчивости коммерческих банков за уменьшение государственной
+доли на 10% в уставном капитале коммерческих банков с государственной долей
+в 50 процентов и выше, дополнительно 10 баллов за уменьшение
+государственной доли на 20%, а также дополнительно 20 баллов за уменьшение
+государственной доли на 30%.
+     8. Целесообразно уменьшить долю государства в капитале коммерческих
+банков путем публичного размещения на фондовых биржах не менее 25
+процентов от общего объема вновь выпущенных акций коммерческих банков.
+     9. В целях сокращения доли государства в капитале коммерческих банков
+мы считаем целесообразным постепенное увеличение текущего размера
+уставного капитала банков, то есть на 100 процентов в первый год, на 200
+процентов в во второй год и на 300 процентов в третий год.
+     10. В целях повышения качества банковских активов в ходе трансформации
+государственных банков мы предлагаем, чтобы объем выдаваемых банком
+льготных кредитов в кредитном портфеле не превышал 8 процентов.
+     11. При увеличениеи размера уставного капитала в структуре капитала
+коммерческих банков. Тижорат банклари капитали таркибида устав капитали
+ҳажмини оширишда предлагается обеспечить буфер капитала банков
+посредством направления 20 процентов чистой прибыли в уставный капитал.
+     На наш взгляд, реализация вышеизложенных предложений будет
+способствовать как развитию экономики страны так и, в свою очередь,
+уменьшению банков с государственным участием.
+
+
+
+
+                                                                          46
+SCIENTIFIC COUNCIL AWARDING OF THE SCIENTIFIC
+     DEGREES №DSc.22/29.12.2023.I.175.01 AT THE
+     TASHKENT INTERNATIONAL UNIVERSITY
+            BANK-FINANCE ACADEMY
+        OF THE REPUBLIC OF UZBEKISTAN
+
+
+
+
+        OLIMJANOVA NIGORA ALISHEROVNA
+
+
+
+WAYS TO REDUCE THE PUBLIC SHARE IN THE CAPITAL
+            OF COMMERCIAL BANKS
+
+
+
+          08.00.07 – Finance, money circulation and credit
+
+
+
+
+                             ABSTRACT
+   of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                         Tashkent – 2024
+
+
+                                                                    47
+           INTRODUCTION (abstract of doctoral (PhD) dissertation)
+
+      The aim of the research work is to develop the proposals and recommendations
+aimed at reducing the public share in the capital structure of commercial banks of
+Uzbekistan.
+      The tasks of the research work are:
+      investigating theoretical approaches to reducing the public share in the capital of
+commercial banks;
+      developing the proposals to reduce the public share in the capital of commercial
+banks and raise the authorized capital;
+      studying the experience of foreign countries in reducing the public share in the
+capital of commercial banks;
+      assessing the regulatory framework for reducing the public share in the capital of
+commercial banks;
+      assessing the current state of reducing the public share in the capital of
+commercial banks in Uzbekistan;
+      econometric analysis of factorsimpacting the reduction of the public share in the
+capital of commercial banks;
+      revealing the problems in the practice of reducing the public share in the capital
+of commercial banks and developing proposals for their elimination;
+      developing the proposals and recommendations for reducing the public share in
+the capital of commercial banks.
+      The object of the research work is commercial banks with the public share in
+Uzbekistan.
+      The subject of the research work is economic and financial relations arising in
+the process of reducing the public share in the capital of commercial banks.
+      The scientific novelty of the research work, consisting of the following:
+      it is proposed to assign an additional 5 points in the commercial bank
+sustainability rating for a 10% reduction in the public share in the authorized capital of
+commercial banks with a public share of 50 percent or more, an additional 10 points
+for a 20% reduction in the public share, and an additional 20 points for a 30% reduction
+in the public share;
+      usefulness of reducing the public share in the capital of commercial banks by
+publicly placing minimum 25 percent of the total volume of newly issued shares of
+commercial banks at the stock exchanges has been substantiated;
+      usefulness of not increasing by 8 percent the amount of preferential loans
+provided by the bank in the loan portfolio during the transformation of banks with a
+state share has been substantiated;
+      it is proposed to provide a capital buffer for banks by directing 20 percent of the
+net profit received from raising the amount of the authorized capital in the capital of
+commercial banks to the authorized capital.
+      Scientific and practical significance of the research work. The scientific
+significance of the research results is due to the fact that the research proposals and
+practical recommendations developed within the framework of the research contribute
+to the enrichment of the scientific apparatus for ensuring the stability of capital of
+                                                                                       49
+commercial banks and the improvement of their practice. The research results can be
+used in determining capital adequacy, in ensuring the stability of capital of commercial
+banks, in developing appropriate methods and models of capital adequacy, as well as
+in research activities done in this area.
+      The practical significance of the research results is explained by the fact that they
+can be used in the practice of raising the capitalization level of commercial banks, the
+stability of capital of commercial banks and reducing the public share in their structure,
+as well as in the development of draft regulatory documents related to this area.
+      Implementation of the research results. In reliance upon the research results on
+the ways to reduce the public share in the capital of commercial banks:
+      the proposal to assign an additional 5 points in the commercial bank sustainability
+rating for a 10% reduction in the public share in the authorized capital of commercial
+banks with the public share of 50 percent or more, an additional 10 points for a 20%
+reduction in the public share, and an additional 20 points for a 30% reduction in the
+state share, is included in the Resolution of the Cabinet of Ministers of the Republic of
+Uzbekistan dated January 30, 2024 №-30 “On approval of the regulation on the
+procedure for the sustainability rating of business entities” (reference №09-06/1932 of
+“Uzbekistan Industrial and Construction Bank” dated March 11, 2024). As a result,
+this proposal contributed to the intensification of measures to reduce the public share
+in banks;
+      the proposal to reduce the state share in the capital of commercial banks through
+the public placement of minimum 25 percent of the total volume of newly issued shares
+of commercial banks at the stock exchanges has been used in the development of the
+“Roadmap for the Development of the Capital Market for 2023-2025”, approved by
+the Resolution of the Cabinet of Ministers of the Republic of Uzbekistan dated
+September 2, 2023 №-291 “On additional measures for the development of the capital
+market” (reference №09-06/1932 of “Uzbekistan Industrial and Construction Bank”
+dated March 11, 2024). As a result of this offer, more than 25 percent of the bank's
+shares have been publicly listed at the stock exchanges;
+      the proposal not to raise by 8 percent the amount of preferential loans provided
+by the bank in the loan portfolio, during the transformation of banks with the public e
+share, is included in the “Development Strategy of Uzbekistan Industrial and
+Construction Bank for 2024-2026”, approved by Minutes № 07/11 of the General
+Meeting of Shareholders of “Uzbekistan Industrial and Construction Bank” JSCB
+dated November 30, 2023 (reference №09-06/1932 of “Uzbekistan Industrial and
+Construction Bank” dated March 11, 2024). As a result of this proposal, it has been
+decided to limit the practice of preferential lending in the bank, to lend to business
+entities, large enterprises and residents on market principles, and in 2023 the share of
+preferential loans decreased by 7.2 percent compared to 2022;
+      the proposal to ensure a capital buffer for banks by directing 20 percent of the net
+profit received from raising the amount of the authorized capital in the capital of
+commercial banks to the authorized capital is included in the “Development Strategy
+of Uzbekistan Industrial and Construction Bank for 2024-2026”, approved by Minutes
+№ 07/11 of the General Meeting of Shareholders of “Uzbekistan Industrial and
+Construction Bank” JSCB dated November 30, 2023 (reference №09-06/1932 of
+                                                                                        50
+“Uzbekistan Industrial and Construction Bank” dated March 11, 2024). As a result of
+this proposal, more than 20 percent of the net profit received annually by “Uzbekistan
+Industrial and Construction Bank” JSCB, according to the decision of the general
+meeting of shareholders, has been directed towards increasing the reserve capital.
+      Evaluation of the research results. The main ideas and conclusions of the
+dissertation have been discussed at 3 international and 2 republican scientific and
+practical conferences.
+      Publication of the research results. On the topic of the thesis totally 12 research
+papers have been published, including 4 articles in the domestic scientific journals
+recommended by the Supreme Attestation Commission and 3 articles in the reputable
+foreign journals.
+ Structure and volume of the research. The research structure includes introduction,
+three chapters, eight paragraphs, conclusion, a list of literature used, and annexes. The
+volume of the research consists of 143 pages.
+
+
+
+
+                                                                                      51
+                     E’LON QILINGAN ISHLAR RO‘YXATI
+                    СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                        LIST OF PUBLISHED WORKS
+
+                                I bo‘lim (I част, I part)
+     1. Olimjonova N.A. Significance and features of the international financial
+system in the world economy // Novateur publications Journal NX-A Multidisciplinary
+Peer Reviewed Journal ISSN No: 2581-4230 VOLUME 8, ISSUE 4, Apr. -2022. –pp.
+95-100. (№13, IJFRM – 8.351).
+     2. Olimjonova N.A. Tijorat banklari kapitalidagi mavjud davlat ulushlarini
+kamaytirish // «Yashil iqtisodiyot va taraqqiyot» ijtimoiy, iqtisodiy, siyosiy, ilmiy,
+ommabop jurnal. Elektron nashr. 2023. –№8. –B.62-65. (08.00.00, OAK rayosatining
+2023-yil 1-apreldagi 336/3-son qarori).
+     3. Olimjonova N.A. Tijorat banklari kapitalini investitsion mablag‘lar orqali
+takomillashtirish mexanizmlari // Agroiqtisodiyot ilmiy-amaliy agroiqtisodiy jurnal.
+2023. –№2. –B. 42-44. (08.00.00, №25).
+     4. Olimjonova N.A. Iqtisodiyotni transformatsiyalash jarayonida tijorat banklari
+kapitalini takomillashtirish istiqbollari // «Iqtisodiyot va innovatsion texnologiyalar»
+ilmiy elektron jurnal. 2023. Maxsus son. –B. 135-142. (08.00.00, №10).
+     5. Olimjonova N.A. Mechanisms to reduce the share of the state in the capital of
+commercial banks // Formation and Development of Pedagogical Creativity.
+International Scientific-Practical Conference. Vol. 1 (2023). –pp. 102-104.
+     6. Olimjonova N.A. Davlat-xususiy sheriklikning moliya-kredit mexanizmlarini
+rivojlantirish xususidagi ilmiy-nazariy qarashlar // 15th-International Conference on
+Research in Humanities, Applied Sciences and Education Hosted from Berlin,
+Germany. June 27th 2023. –pp. 104-106.
+     7. Olimjonova N.A. O‘zbekiston tijorat banklari kapitalidagi davlat ulushining
+holati va ularni kamaytirish mexanizmlari // Zamonaviy fan, ta’lim va ishlab chiqarish
+muammolarining innovatsion yechimlari. Respublika ilmiy-amaliy onlayn
+konferensiya tezislar to‘plami. Vol. 9 (2023). – 3-5 b.
+     8. Olimjonova N.A. Tijorat banklari kapitalidagi davlat ulushini roli uni kamaytirish
+yo‘llari // «Soliq ma’muriyatchiligini takomillashtirish orqali makroiqtisodiy
+barqarorlikni ta’minlash istiqbollari» mavzusidagi respublika ilmiy-amaliy konferensiyasi
+materiallar to‘plami. –Toshkent. 10-noyabr 2023-yil. – 382-384 b.
+
+                            II bo‘lim (II часть, II part)
+     9. Olimjonova N.A. Scientific and theoretical considerations on the
+development of financial and credit mechanisms of public-private partnership //
+Science and innovation international scientific journal Volume 2 Issue 6 June 2023
+UIF-2022: 8.2 | ISSN: 2181-3337 | –pp. 237-240.
+     10. Olimjonova N.A. Ways to reduce the state share in the capital of commercial
+banks // European Journal of Innovation in Nonformal Education (EJINE) Volume 3 |
+Issue 9 | Sep – 2023. ISSN:2795-8612. 2023. –pp.116-120.
+
+
+
+                                                                                       52
+     11. Olimjonova N.A. Tijorat banklari kapitalini shakllantirishda bank
+daromadlarining roli // «Muxandislik va iqtisodiyot» ijtimoiy-iqtisodiy, innovatsion
+texnologik, fan va ta’limga oid ilmiy-amaliy jurnal. 2023. –№1. –B.77-80.
+     12. Olimjonova N.A. Raqamli transformatsiya jarayonlarida tijorat banklari
+samaradorligini oshirish // «Banklarda raqamli transformatsiya: ta’lim bilan o‘zaro
+hamkorlik» xalqaro ilmiy-amaliy konferensiya materiallari to‘plami. – T.: TIFT, 2024.
+– 321-324 b.
+
+
+
+
+                                                                                  53
+

@@ -1,0 +1,3047 @@
+                  TERMIZ DAVLAT UNIVERSITETI
+             HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+         PhD.03/30.07.2024.I.78.06 RAQAMLI ILMIY KENGASH
+           TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+                  SHERALIEV ABBOS XOLMUMINOVICH
+
+
+
+
+   TIJORAT BANKLARINING RENTABELLIGINI TAʼMINLASH YOʻLLARI
+
+
+
+
+                   08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+Iqtisodiyot fanlari boʻyicha falsafa doktori (Doctor of Philosophy) dissertatsiyasi
+                               AVTOREFERATI
+
+
+
+
+                              Termiz – 2025-yil
+
+
+
+
+                                                                                      1
+                                                  UOʻK: 336.713:336.763(575.1)
+
+       Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                            avtoreferati mundarijasi
+
+    Оглавление авторефарата диссертации доктора философии (PhD)
+                     по экономическим наукам
+
+     Contents of dessertation abstract of the doctor of philosophy (PhD)
+                          on economical sciences
+
+Sheraliev Abbos Xolmuminovich.
+Tijorat banklarining rentabelligini taʼminlash yoʻllari………………......................3
+
+Sheraliev Abbos Xolmuminovich.
+Пути     обеспечения    прибыльности                  коммерческих           банков
+……………….........27
+
+Sheraliev Abbos Kholmuminovich.
+Ways to ensure the profitability of commercial banks……………………………53
+
+Eʼlon qilingan ishlar roʻyxati
+Список опубликованных работ
+List of published works……………………………………………………...........58
+
+
+
+
+2
+        TERMIZ DAVLAT UNIVERSITETIHUZURIDAGI
+               ILMIY DARAJALAR BERUVCHI
+     PhD.03/30.07.2024.I.78.06 RAQAMLI ILMIY KENGASH
+       TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+              SHERALIEV ABBOS XOLMUMINOVICH
+
+
+
+
+TIJORAT BANKLARINING RENTABELLIGINI TAʼMINLASH YOʻLLARI
+
+
+
+
+               08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+     Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                               AVTOREFERATI
+
+
+
+
+                           Termiz – 2025-yil
+
+
+
+
+                                                                          3
+     Falsafa doktori (Doctor of Philosophy) dissertatsiyasi mavzusi Oliy attestatsiya
+komissiyasida B2022.4.PhD/Iqt2598 raqam bilan roʻyxatga olingan.
+
+
+      Dissertatsiya Toshkent davlat iqtisodiyot universitetida bajarilgan.
+      Dissertatsiya avtoreferati uch tilda (oʻzbek, rus, ingliz (rezyume)) Ilmiy kengash veb-
+sahifasi (www.tersu.uz) va “Ziyonet” Axborot-taʼlim portalida (www.ziyonet.uz) joylashtirilgan.
+
+
+     Ilmiy rahbar:                              Alimardonov Ilxom Muzrabshoxovich
+                                                iqtisodiyot fanlari doktori, professor
+
+     Rasmiy opponentlar:                        Xatamov Ochildi Kurbonovich
+                                                iqtisodiyot fanlari doktori, professor
+                                                Ismailov Alisher Agzamovich
+                                                iqtisodiyot fanlari doktori, professor
+
+     Yetakchi tashkilot:                        Oʻzbekiston Respublikasi Vazirlar Mahkamasi
+                                                huzuridagi Biznes va tadbirkorlik oliy maktabi
+
+
+      Dissertatsiya himoyasi Termiz davlat universiteti huzuridagi ilmiy darajalar beruvchi
+PhD.03/30.07.2024.I.78.06 raqamli Ilmiy kengashning 2025 yil “____”_________ soat________dagi
+majlisida boʻlib oʻtadi. Manzil: 190111, Termiz shahri, Barkamol avlod koʻchasi, 43-uy. Tel.: (876)
+221-74-55, faks: (876) 221-71-17, e-mail: termizdu@mail.uz.
+     Dissertatsiya bilan Termiz davlat universitetining Axborot-resurs markazida tanishish
+mumkin (________ - raqami bilan roʻyxatga olingan). Manzil: 190111, Termiz shahri, Barkamol
+avlod koʻchasi, 43-uy. Tel.: (876) 221-74-55, faks: (876) 221-71-17, e-mail: termizdu@mail.uz.
+     Dissertatsiya avtoreferati 2025 yil “_____”_________kuni tarqatildi.
+     (2025 yil “_____”__________dagi №_______raqamli reyestr bayonnomasi).
+
+
+
+
+                                                                             A.H. Toshqulov
+                                                            Ilmiy darajalar beruvchi Ilmiy
+                                                            kengash raisi, iqtisodiyot fanlari
+                                                            doktori, professor
+
+                                                                                 U.T. Toʻlakov
+                                                            Ilmiy darajalar beruvchi Ilmiy
+                                                            kengash kotibi, iqtisodiyot fanlari
+                                                            doktori, dotsent
+
+                                                                                  S.J. Gadoev
+                                                            Ilmiy darajalar beruvchi Ilmiy
+                                                            kengash qoshidagi ilmiy seminar
+                                                            raisi, iqtisodiyot fanlari doktori,
+                                                            dotsent
+
+
+
+
+4
+         KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahon iqtisodiyotida
+tijorat banklarining rentabelligini taʼminlash moliyaviy vositachilikning
+uzluksiz amal qilishi, kredit resurslarining real sektorga barqaror
+yoʻnaltirilishi hamda bank tizimi barqarorligini mustahkamlashda strategik
+ahamiyat kasb etadi. Rentabellik yetarli darajada boʻlgan sharoitda banklar
+kapital bazasini kengaytira oladi, risklarni diversifikatsiya qilish, innovatsion
+moliyaviy mahsulotlar joriy etish va raqobatbardosh foiz siyosati yuritish
+imkoniyatiga ega boʻladi, bu esa iqtisodiy oʻsish drayveri sifatida xizmat
+qiladi. Aksincha, sust rentabellik kredit faolligining cheklanishi, aktivlar
+sifati yomonlashuvi va moliyaviy barqarorlikka tahdidlar ortishi xavfini
+kuchaytiradi. Shu boisdan, dunyo mamlakatlarining bank amaliyotida tijorat
+banklarining rentabelligini taʼminlashga banklar faoliyatini boshqarishning
+ustuvor yoʻnalishlaridan biri sifatida qaralmoqda. Xususan, “Fransiyaning
+“BNP Paribas” bankida aktivlarning rentabelligi 2024-yilda 2023-yilga
+nisbatan 7,7 foizli punktga oshdi, Germaniyaning Deutshe bankida mazkur
+davrda foizli xarajatlarning foizli daromadlarga nisbatan darajasi 4,4 foizli
+                   1
+punktga pasaydi” . Bu esa, tijorat banklarining rentabelligini taʼminlash
+borasidagi ilgʻor xorij tajribasini oʻrganish va umumlashtirish zaruriyatini
+yuzaga keltiradi.
+      Dunyo miqyosda tijorat banklarining sof foizli spred hamda sof foizli
+marja koʻrsatkichlarining barqarorligini taʼminlash, bank mahsulotlari
+tannarxini innovatsion yechimlar asosida optimallashtirish, bank
+aktivlarining daromadliligi va likvidliligi oʻrtasidagi mutanosiblikni
+taʼminlash, risk-menejment tizimini takomillashtirish, sof foyda oʻsish
+surʼati bilan riskka tortilgan aktivlar hajmi oʻsish surʼati oʻrtasidagi
+mutanosiblikni taʼminlash boʻyicha ilmiy izlanishlar olib borilmoqda. Biroq,
+jahon moliya bozorlarida kuzatilayotgan salbiy konʼyunktura va beqarorlik
+tendensiyalari sharoitida tijorat banklari rentabelligini barqaror darajada
+taʼminlash hamda stress-testlash mexanizmlari orqali moliyaviy inqiroz
+davrlarida rentabellikning maqbul chegarasini taʼminlash masalalari hali
+ham yetarlicha chuqur ilmiy asosda tadqiqotlar oʻtkazilmagan yoʻnalishlar
+sirasiga kiradi.
+      Oʻzbekistonda     Respublikasida       tijorat    banklari     aktivlarining
+rentabelligini taʼminlash muhim masala hisoblanadi. Buning uchun
+mamlakat bank tizimini isloh qilishning 2020-2025-yillarga moʻljallangan
+strategiyasida “bank xizmati koʻrsatishni modernizatsiya qilish, banklarning
+samarali infratuzilmasini yaratish, kredit portfeli va tavakkalchiliklarni
+boshqarish sifatini yaxshilash, kreditlash hajmlarining moʻtadil oshishiga
+amal qilish, moliyaviy tavakkalchiliklarni baholash uchun texnologik
+                         2
+yechimlarni tatbiq etish” singari vazifalar belgilab berilgan. Ushbu strategik
+1
+  Consolidated Statement of income 2023. Consolidated Balance Sheet. Consolidated Statement of
+income 2023. www.bankofamerica.com/
+2
+   Oʻzbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-son “2020-2025-yillarga
+                                                                                            5
+vazifalarni amalga oshirish jarayonida tijorat banklari aktivlarining
+daromadliligini oshirish, kredit portfeli sifati va muddati oʻtgan qarzdorlik
+hajmini kamaytirish, risklarni aniqlash, baholash hamda ularning oldini olish
+mexanizmlarini takomillashtirish muhim ahamiyat kasb etadi. Shu bilan
+birga, muddati oʻtgan kreditlarning salmogʻini qisqartirish orqali bank
+aktivlarining     samaradorligini   oshirish    va    moliyaviy    barqarorlikni
+mustahkamlash bank tizimi rivojining asosiy ustuvor yoʻnalishlaridan biri
+sifatida eʼtirof etilgan.
+      Oʻzbekiston Respublikasi Prezidentining 2025-yil 30-yanvardagi PF-16-
+son “Oʻzbekiston - 2030” strategiyasini “Atrof-muhitni asrash va “yashil
+iqtisodiyot” yilida amalga oshirishga oid davlat dasturi toʻgʻrisida”, 2024-yil
+21-fevraldagi PF-37-son “Oʻzbekiston-2030” strategiyasini “Yoshlarni qoʻllab
+-quvvatlash yili Davlat dasturi toʻgʻrisida”, 2023-yil 11-sentyabrdagi PF-158-
+son ““Oʻzbekiston-2030” strategiyasi toʻgʻrisida”, 2022-yil 28-yanvardagi PF-
+60-son “2022-2026-yillarga moʻljallangan Yangi Oʻzbekistonning taraqqiyot
+strategiyasi toʻgʻrisida”, 2020-yil 12-maydagi PF-5992-son “2020–2025-
+yillarga moʻljallangan bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi
+farmonlari, 2017-yil 12-sentyabrdagi PQ-3270-son “Respublika bank tizimini
+yanada rivojlantirish va barqarorligini oshirishga doir chora-tadbirlar
+toʻgʻrisida”gi qarori va ushbu sohadagi boshqa meʼyoriy-huquqiy hujjatlarda
+belgilangan vazifalarni amalga oshirishda ushbu dissertatsiya tadqiqoti
+muayyan darajada xizmat qiladi.
+      Tadqiqotning respublika fan va texnologiyalari rivojlanishining
+ustuvor yoʻnalishlariga mosligi. Mazkur dissertatsiya tadqiqoti respublika
+fan va texnologiyalar rivojlanishining I. “Demokratik va huquqiy jamiyatni
+maʼnaviy-axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni
+shakllantirish” ustuvor yoʻnalishi doirasida bajarilgan.
+      Muammoning oʻrganilganlik darajasi. Tijorat banklari aktivlarining
+rentabelligini oshirishning ilmiy-nazariy va amaliy jihatlari xorijlik iqtisodchi
+olimlar O.Lavrushin, Ye.Jukov, F.Mishkin, J.Sinki, E.Dolan, K.Barltrop,
+O.Xershi, V.Usoskin, D.Kornilov, Ye.Galiy, I.Stempovskiy, S.Urazov,
+M.Gorskiy, N.Semenova, I.Ivanova, A.Vasilkina, M.Bobrik, L.Ganseva,
+O.Voloshina, I.Leshukova, Ye.Dudin, S.Vayn, I.Yudina, V.Dorofeev, S.Kumok,
+N.Kunitsina, N.Baltes, S.Xasyanova, D.MakNoton, O.Krikliy, N.Maslak, M.
+                                                                                3
+Pijix, N.Radkovskaya va boshqalarning ilmiy ishlarida atroflicha oʻrganilgan .
+
+moʻljallangan Oʻzbekiston Respublikasining bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi Farmoni
+3
+ Лаврушин О.И. Банковский менеджмент. – М.: КНОРУС, 2016. – С. 154. ; Жуков Е.Ф. Общая теория
+денег и кредита. – М.: Издательское объединение «ЮНИТИ», 1995. – С. 85.; Мишкин Ф.С.
+Экономическая теория денег, банковского дела и финансовых рынков. 7-е изд. Пер. с англ. – М.:
+ООО «И.Д. Вильямс», 2013. – С.216.; Синки Дж. Финансовый менеджмент в коммерческом банке и
+и в индустрии финансовых услуг. Пер. сангл. – М.: Альпина Паблишер, 2017. – С.447.; Эдвин Дж.
+Долан и др. Деньги, банковское дело и денежно-кредитная политика. – СПб.: Санкт-Петербург
+Оркестр, 1994. – С. 90-93.; Барлтроп К., МакНотон Д. Банковские учреждения в развивающихся
+рынках. -Всемирный банк, Вашингтон, 1993. – С. 53-54.; Hershey O. Letters of Credit. – Harward Law
+Review. – Vol. 32. – P. 1-3.2021.; Усоскин В.М. Современный коммерческий банк: управление и
+операции. – М.: ЛЕНАНД, 2019. – 328 с.; Корнилов Д.Т. Устойчивость банковской системы в
+условияхрыночной конкуренции. Автореферат диссертации на соискание ученой степени
+6
+      Oʻzbekistonlik iqtisodchi olimlardan Sh.Abdullayeva, A.Abdullayev,
+T.Bobakulov,       O.Yoʻldoshev, O.Sattarov,    B.Berdiyarov,   N.Jumayev,
+Z.Xolmaxmadov,         A.Omonov,   Sh.Ruzmetov,     Yo.Mahmudaliyeva,     F.
+Nasriddinov, Z.Umarova, R.Bozorov va boshqalarning ilmiy ishlarida tijorat
+banklarining moliyaviy barqarorligini taʼminlashning ayrim nazariy va amaliy
+                     4
+jihatlari oʻrganilgan .
+
+кандидата экономическихнаук. – Ярославль, 2005. -23 стр.; Галий Е.А. Анализ надежности и
+инвестиционной привлекательности коммерческого банка. Автореф. дисс. на дунёсоиск. уч. ст.
+к.э.н. – Санкт-Петербург, 2003. – 20 с.; Стемповский И.А. Обеспечение финансовой устойчивости
+банковской системы Российской Федерации вусловиях глобализации. Автореферат диссертации
+на соискание ученой степени кандидата экономическихнаук. – Москва, 2013. -27 стр.; Уразов С.
+Устойчивость банковской системы: теоретические и методологические аспекты. //Банковское
+дело. № 12.; Горский М.А., Решульская Е.М. Финансовая устойчивость коммерческого банка:
+феномен, показатели и методы оценки. // Вестник Алтайской академии экономики и права, 2020.
+– № 3-1. – С. 29-39.; Семенова Н. Н., Иванова И. А., Василькина А. А. Оценка устойчивости
+развития коммерческого банкана основе метода анализа иерархий. Финансы: теория и
+практика.2021;25(4): 121-135 с.; Бобрик М.А. Совершенствование системы индикаторов
+финансовой устойчивости коммерческих банков. Автореферат диссертации на соискание ученой
+степени кандидата экономическихнаук. – Москва, 2011. -24 стр.; Ганцева Л.А. Обеспечение
+финансовой устойчивости коммерческого банка. Автореферат диссертации на соискание ученой
+степени кандидата экономическихнаук. – Екатеринбург, 2001. -22 стр.; Волошина О.Б. Доходность
+банка как один из основных показателей его экономического положения//Известия высших
+учебных заведений. – Поволжский регион, 2014. -1.–С. 168-172.; Лещукова И. В. Прибыль
+коммерческого банка и ее источники//Инновационная наука. – Москва, 2017. - № 5. - С. 114 –
+116.; Дудин Е. В. Динамика прибыли российских банков в условиях экономического
+спада//Научное обозрение. – Москва, 2016. - № 10. - С. 139-141.; Вайн С. Оптимизация ресурсов
+современного банка. Пер. с англ. – М.: Альпина аблише, 2013. – С. 16.; Юдина И.Н. Банковская
+система в развивающихся экономиках: опыт становления, развития и кризисов. Монография. –
+М.: ИНФРА-М, 2013. – С. 230-231.; Дорофеев, В. Д. Стратегическое планирование коммерческого
+банка//Известия высших учебных заведений. Поволжский регион. Общественные науки. – 2013.
+– № 2 (26) – С. 168.; Кумок С.И. Анализ деятельности коммерческих банков. – М.: Вече, 1996. – С.
+153.; Куницина, Н. Н. Бизнес-планирование в коммерческом банке// – М. : Финансы и статистика,
+2007. – 304 с.; Baltes Nicolae, Rodean (Cozma) Maria-Daciana “Study regarding the " nancial stability of
+commercial banks listed on Bucharest Stock Exchange of CAMELS rating outlook”, Journal of
+International Studies, Vol. 7, No 3, 2014, pp. 133-143. DOI: 10.14254/2071-8330.2014/7-3/12.; Хасянoва,
+С. Ю. O систeмe oцeнки финансoвoй устoйчивoсти банкoвскoгo сeктoра//Финансы и крeдит.
+–2012.– № 2. – С. 24–25.; Макнотон Д. Банковские учреждения в развивающихся стран. Пер. с
+англ. – Вашингтон: ИЭР, 1994.; Кpиклiй О. А., Маслак Н. Г. Упpавлiння пpибутком банку. Суми:
+ДВНЗ «УАБС НБУ», 2008. - 136 с.; Pижих М. М. “Оцінка якісних макроекономічних факторів та їхній
+вплив на прибутковість комерційного банку’.// Нацiональна бiблiотека Укpаїни iм. В. I.
+Веpнадського. Pежим доступа: http://www.nbuv.gov.ua/ Articles/Kultnar/knp52_2/knp52_2_85-89.pdf.;
+Pадковская Н. П. Методологические подходы к управлению прибылью коммерческого банка //
+Банковский менеджмент. 2006. №1. С. 20–25.; Юдина И.Н. Банковская система в развивающихся
+экономиках: опыт становления, развития и кризисов. Монография. – М.: ИНФРА-М, 2013. – С. 230-
+231.
+4
+ Abdullayeva Sh.Z. Bank risklari sharoitida tijorat banklarining kredit portfelini diversifikatsiyalash. Iqtisod
+fanlari doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. – Toshkent, 2000. -46 b.; Abdullayev
+A.Ya. Tijorat banklarining likvidlilik darajasini oshirish metodologiyasini takomillashtirish. I.f.d. diss.
+avtoref. –Toshkent, 2018. – 21 b.; Bobakulov T.I. Tijorat banklarining moliyaviy barqarorligini
+taʼminlashning dolzarb masalalari. // Oʻzbekiston Respublikasida qulay ishbilarmonlik muhitini
+shakllantirishda bank tizimining roli. Respublika ilmiy-amaliy konferensiya materiallari. – Toshkent, 2015.
+–155 b.; Yoʻldoshev O.A. Oʻzbekiston Markaziy bankining tijorat banklari. faoliyatini tartibga solish
+amaliyotini takomillashtirish. I.f.n. ilm. dar. ol. uch. taqd. et. diss. avtoref. – Toshkent, 2011. – 18 b.;
+Sattarov O.B. Tijorat banklari likvidliligini taʼminlashni takomillashtirish. I.f.n. ilm. dar. ol. uch. diss. avtoref.
+– Toshkent, 2008. – 15b., Oʻzbekiston Respublikasi bank tizimi barqarorligini taʼminlash metodologiyasini
+takomillashtirish. Iqtis. fanlari doktori ilmiy daraj. olish uchun tayyorl. diss. avtor. – T., 2018.-42 b.;
+Berdiyarov B.T. Oʻzbekiston Respublikasi tijorat banklarining likvidliligi va toʻlov qobiliyatini taʼminlash
+masalalari. I.f.d. ilm. dar. ol.uch. taqd. et. diss. avtoref. – Toshkent, 2020. – 30 b.; Jumayev N.X.
+Oʻzbekistonda valyuta munosabatlarini tartibga solish metodologiyasini takomillashtirish. Iqtisod fanlari
+                                                                                                                    7
+      Oʻzbekistonlik tadqiqotchi R.Bozorov falsafa doktori dissertatsiyasida
+tijorat banklari moliyaviy barqarorligini taʼminlashning xorij tajribasi va
+respublika banklari misolida faqat uchta koʻrsatkich orqali – aktivlarning
+rentabelligi, kapitalning rentabelligi va kreditlar boʻyicha ehtimoliy
+yoʻqotishlar zaxirasi koʻrsatkichlari orqali baholagan. Bundan tashqari, bank
+tizimini transformatsiya qilish sharoitida, koronavirus pandemiyasidan
+keyingi davrda banklar moliyaviy barqarorligini taʼminlash masalalari tadqiq
+qilinmagan.
+      Garchi xorijiy va mahalliy iqtisodchi olimlar tomonidan tijorat
+banklarining moliyaviy barqarorligini taʼminlash masalalari boʻyicha qator
+fundamental ilmiy tadqiqotlar amalga oshirilgan boʻlsada, bank tizimini
+transformatsiya qilish sharoitida moliyaviy barqarorlikni taʼminlashning
+zamonaviy mexanizmlari hali ham mustaqil ilmiy izlanish obyekti sifatida
+kompleks tarzda oʻrganilmagan.
+      Dissertatsiya mavzusining dissertatsiya bajarilayotgan oliy taʼlim
+muassasasi ilmiy tadqiqot ishlari rejasi bilan bogʻliqligi. Mazkur
+dissertatsion tadqiqot Toshkent davlat iqtisodiyot universitetining ilmiy
+tadqiqot ishlari rejasiga muvofiq ilmiy loyiha doirasida bajarilgan.
+      Tadqiqotning maqsadi Oʻzbekiston tijorat banklarining rentabelligini
+taʼminlashga qaratilgan taklif va tavsiyalar ishlab chiqishdan iborat.
+      Tadqiqotning vazifalari:
+      tijorat banklarining rentabelligini oshirish xususidagi ilmiy-nazariy
+qarashlarni tadqiq qilish va ularning amaliy ahamiyatiga baho berish;
+      banklarning rentabelligini taʼminlash borasidagi ilgʻor xorij tajribasini
+tadqiq qilish va undan Oʻzbekiston amaliyotida foydalanish imkoniyatlarini
+asoslab berish;
+      Oʻzbekiston banklarining rentabelligini tahlil qilish va tendensiyalarni
+aniqlash;
+      tijorat banklarining rentabelligini taʼminlash bilan bogʻliq boʻlgan
+dolzarb muammolarni aniqlash;
+      tijorat banklarining rentabelligini taʼminlashga qaratilgan taklif va
+tavsiyalar ishlab chiqish.
+      Tadqiqotning obyekti boʻlib Oʻzbekiston tijorat banklari, xususan, AT
+Asakabank, Turonbank, Oʻzsanoatqurilishbank va Mikrokreditbank
+hisoblanadi.
+      Tadqiqotning predmetini tijorat banklarining rentabelligini taʼminlash
+
+doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. – Toshkent, 2008.-35 b.; Xolmaxmadov
+Z.A. Tijorat banklari faoliyatining barqarorligini ilgʻor xorij tajribasi asosida taʼminlash imkoniyatlari.
+//Xalqaro moliya va hisob. – Toshkent, 2017. 4-son. –34 b.; Ruzmetov Sh.B. Oʻzbekiston tijorat banklari
+depozit bazasini mustahkamlash yoʻllari. I.f.n. ilm. dar. ol. uch. taqd. et. diss. avtoref. – Toshkent, 2009. –
+18 b.; Mahmudaliyeva Yo.A. Tijorat banklarining moliyaviy barqarorligi va uni baholash. i.f.n. ilmiy
+darajasini olish uchun tayyorlangan dissertatsiya. – T., 2001. – 22 b.; Nasriddinov F. Tijorat banklari
+moliyaviy barqarorligini baholashning xalqaro standartlari. “Iqtisodiyot va innovatsion texnologiyalar” ilmiy
+elektron jurnali. 4-son, iyul-avgust, 2018-yil.; Umarova Z.S. Tijorat banklarining kredit emissiyasini tartibga
+solishni takomillashtirish yoʻnalishlari. I.f.n. ilm. dar. ol. uch. taqd. et. diss. avtoref. – Toshkent, 2011. –16
+b. Bozorov R.X. Tijorat banklari moliyaviy barqarorligini taʼminlashni takomillashtirish. Iqtisodiyot fanlari
+boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati – Toshkent, 2020. 9-10-b.
+8
+jarayonida yuzaga keluvchi iqtisodiy munosabatlar tashkil etadi.
+      Tadqiqotning usullari. Dissertatsion tadqiqotni amalga oshirishda
+tizimli tahlil, umumlashtirish, abstrakt-mantiqiy fikrlash, statistik usullardan
+foydalanilgan.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+      tijorat banklarining oʻz biznes modeli, risk-apatiti va kapital yetarliligi
+talablarini regulyator talablari, investor kutilmalari va bozor rentabelligi bilan
+solishtirish asosida tanlangan “maqsad qiymat”ni belgilab olish orqali sof
+foydaning bank aktivlarini riskka tortilgan summasiga nisbatan optimal
+darajasini taʼminlash taklif etilgan;
+      kreditlarning tannarxini erta ogohlantirish tizimlarini qoʻllash bilan
+bogʻliq innovatsiyalar asosida kamaytirish orqali ularning daromadlilik
+darajasini oshirish taklif qilingan;
+      tijorat banklarida foizli xarajatlarning foizli daromadlarga nisbatan
+barqaror darajasiga erishish hamda sof foizli daromadning oʻsish surʼati
+bilan brutto aktivlarning oʻsish surʼati oʻrtasidagi mutanosiblikni taʼminlash
+yoʻli bilan sof foizli marja koʻrsatkichining darajasini oshirish asoslangan;
+      tijorat banklarining qoʻshimcha aksiyalar emissiyasi, strategik
+investorlardan        toʻgʻridan-toʻgʻri kapital   qoʻyilmalar,    ayrim     qarz
+majburiyatlarini kapitalga konvertatsiya qilishni koʻzda tutuvchi qoʻshilgan
+kapital hisobidan birinchi darajali kapital miqdorini koʻpaytirish orqali
+kapitalning rentabellik darajasini oshirish asoslangan.
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      tijorat banklarining rentabelligini taʼminlash xususidagi ilmiy-nazariy
+qarashlarning amaliy ahamiyatiga baho berilgan;
+      tijorat banklarida sof foizli marja koʻrsatkichining meʼyoriy darajasiga
+erishish imkoniyatlari (foizli daromadlarning yalpi daromad hajmidagi
+salmogʻining yuqori va barqaror darajasini taʼminlash, ikkinchidan, sof foizli
+marjaning darajasiga taʼsir qiluvchi asosiy koʻrsatkichlarning (sof foizli
+spred,        kreditlar      boʻyicha    ehtimoliy      yoʻqotishlar    zaxirasi,
+xarajatlar/daromadlar koeffitsiyenti, foizli daromadlarning oʻsish surʼati
+bilan foizli xarajatlarning oʻsish surʼati oʻrtasidagi mutanosiblik meʼyoriy
+darajasini taʼminlash asoslab berilgan;
+      tijorat banklari yalpi daromadining brutto aktivlarga nisbatan darajasini
+oshirish uchun foizli daromadlarning foizli xarajatlarga nisbatan barqaror
+nisbatini shakllantirishga erishish, xarajatlar/daromadlar koeffitsiyentining
+meʼyoriy darajasini (0,45) taʼminlash, qimmatli qogʻozlarga qilingan
+investitsiyalardan olinadigan foizli daromadlarning miqdorini va foizli
+daromadlar hajmidagi salmogʻini oshirishning zarurligi asoslangan;
+      tijorat banklari aktivlarining rentabelligiga taʼsir qiluvchi omillarning
+taʼsir darajalariga baho berilgan.
+      Tadqiqot natijalarining ishonchliligi ishda meʼyoriy-huquqiy hujjatlar,
+foydalanilgan adabiyotlar va internet maʼlumotlari rasmiyligi, undagi
+iqtisodchi olimlarning mavzuga oid ilmiy-nazariy yondashuvlarining
+
+                                                                                9
+solishtirma va tanqidiy tadqiqi, rivojlangan davlatlar tajribasini oʻrganish va
+umumlashtirish natijalari hamda tijorat banklari amaliy maʼlumotlarining
+moliyaviy hisobotlardan olinganligi, taklif va tavsiyalarning Oʻzbekiston
+bank amaliyotiga joriy etilganligi bilan izohlandi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot
+natijalarining ilmiy ahamiyati ulardan kelgusida tijorat banklarining
+raqobatbardoshligini taʼminlashga qaratilgan ilmiy izlanishlarni olib
+borishda manba sifatida foydalanish mumkinligi bilan belgilanadi.
+      Tadqiqot natijalarining amaliy ahamiyati shundaki, ulardan respublika
+tijorat banklari faoliyatida, ularning aktivlari rentabelligini oshirishga
+qaratilgan chora-tadbirlar majmuini ishlab chiqishda foydalanish
+mumkinligi bilan belgilanadi.
+      Tadqiqot natijalarining joriy qilinishi. Oʻzbekiston tijorat banklarining
+rentabelligini taʼminlash borasida ishlab chiqishdan taklif va tavsiyalar
+asosida:
+      tijorat banklarining oʻz biznes modeli, risk-apatiti va kapital yetarliligi
+talablarini regulyator talablari, investor kutilmalari va bozor rentabelligi bilan
+solishtirish asosida tanlangan “maqsad qiymat”ni belgilab olish orqali sof
+foydaning bank aktivlarini riskka tortilgan summasiga nisbatan optimal
+darajasini taʼminlash taklifi AT “Mikrokreditbank” amaliyotiga joriy etilgan
+(AT “Mikrokreditbank”ning 2025-yil 20-fevraldagi №03-12/3510-sonli
+maʼlumotnomasi). Mazkur ilmiy taklifning amaliyotga joriy etilishi natijasida
+Mikrokreditbankda brutto aktivlarning rentabelligi 2023-yilda 2022-yilga
+nisbatan 0,09 foizli punktga oshgan;
+      kreditlarning tannarxini erta ogohlantirish tizimlarini qoʻllash bilan
+bogʻliq innovatsiyalar asosida kamaytirish orqali ularning daromadlilik
+darajasini oshirish taklifi AT “Mikrokreditbank” amaliyotiga joriy etilgan (AT
+“Mikrokreditbank”ning         2025-yil     20-fevraldagi     №03-12/3510-sonli
+maʼlumotnomasi). Mazkur ilmiy taklifning amaliyotga joriy etilishi natijasida
+Mikrokreditbankkda kreditlarning daromadlilik darajasi 2023-yilda 2022-
+yilga nisbatan 1,6 foizli punktga oshgan;
+      tijorat banklarida foizli xarajatlarning foizli daromadlarga nisbatan
+barqaror darajasiga erishish hamda sof foizli daromadning oʻsish surʼati
+bilan brutto aktivlarning oʻsish surʼati oʻrtasidagi mutanosiblikni taʼminlash
+yoʻli bilan sof foizli marja koʻrsatkichining darajasini oshirish taklifi AT
+“Mikrokreditbank” amaliyotiga joriy etilgan (AT “Mikrokreditbank”ning 2025-
+yil 20-fevraldagi №03-12/3510-sonli maʼlumotnomasi). Mazkur ilmiy
+taklifning amaliyotga joriy etilishi natijasida Mikrokreditbankda sof foizli
+marjaning darajasi 2023-yilda 2022-yilga nisbatan 2,3 foizli punktga oshgan;
+      tijorat banklarining qoʻshimcha aksiyalar emissiyasi, strategik
+investorlardan      toʻgʻridan-toʻgʻri   kapital   qoʻyilmalar,    ayrim     qarz
+majburiyatlarini kapitalga konvertatsiya qilishni koʻzda tutuvchi qoʻshilgan
+kapital hisobidan birinchi darajali kapital miqdorini koʻpaytirish orqali
+kapitalning rentabellik darajasini oshirish taklifi AT “Mikrokreditbank”
+
+10
+amaliyotiga joriy etilgan (AT “Mikrokreditbank”ning 2025-yil 20-fevraldagi
+№03-12/3510-sonli maʼlumotnomasi). Mazkur ilmiy taklifning amaliyotga
+joriy etilishi natijasida Mikrokreditbankda regulyativ kapitalning rentabelligi
+2023-yilda 2022-yilga nisbatan 0,4 foizli punktga oshgan.
+     Tadqiqot natijalarining aprobatsiyasi. Mazkur tadqiqot natijalari 7 ta,
+jumladan 3 ta respublika va 4 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan oʻtkazilgan va maʼqullangan.
+     Tadqiqot natijalarining eʼlon qilinishi. Dissertatsiya mavzusi boʻyicha
+jami     13 ta ilmiy ish, shu jumladan, Oʻzbekiston Respublikasi Oliy
+attestatsiya komissiyasining doktorlik dissertatsiyalari asosiy ilmiy
+natijalarni chop etish boʻyicha tavsiya etilgan milliy nashrlarda 3 ta ilmiy
+maqola, xorijiy jurnallarda 3 ta ilmiy maqola nashr etilgan.
+     Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta
+bob, xulosa va foydalanilgan adabiyotlar roʻyxatidan iborat boʻlib uning
+hajmi 124 betni tashkil qiladi.
+
+
+
+
+                                                                            11
+                     DISSERTATSIYANING ASOSIY MAZMUNI
+
+      Kirish qismida dissertatsiya mavzusining dolzarbligi, ahamiyati
+asoslangan, tadqiqotning maqsadi va vazifalari, obyekti va predmeti
+tavsiflangan, respublika fan va texnologiyalar rivojlanishining ustuvor
+yoʻnalishlariga mosligi koʻrsatilgan, ilmiy yangiligi va amaliy natijalari bayon
+qilinib, olingan natijalarning ilmiy hamda amaliy ahamiyati yoritib berilgan,
+tadqiqot natijalarini amaliyotga joriy qilinishi, nashr etilgan ishlar va
+dissertatsiya tuzilishi boʻyicha maʼlumotlar keltirilgan.
+      Dissertatsiyaning “Tijorat banklarining rentabelligini taʼminlashning
+ilmiy-nazariy va huquqiy asoslari hamda xorij tajribasi” deb nomlangan
+birinchi bobida, tijorat banklarining rentabellik darajasini oshirish masalasi
+iqtisodchi olimlar tomonidan ilmiy asosda tadqiq qilingan hamda tijorat
+banklari rentabelligini taʼminlashning meʼyoriy-huquqiy asoslari va tijorat
+banklari rentabelligini taʼminlashning xorijiy mamlakatlar tajribasi batafsil
+yoritib berilgan.
+       Tijorat banklarining rentabelligini oshirish xususidagi ilmiy-nazariy
+qarashlarni tadqiq qilish koʻrsatdiki:
+      Amerikalik iqtisodchi olim J.Sinki oʻz ilmiy izlanishlarida: “tijorat
+banklarining daromad bazasiga baho berishda sof foizli marja koʻrsatkichi
+muhim oʻrin tutadi. Sof foizli marja bank aktivlari miqdoriga teskari
+proporsional boʻlib, kreditlar va depozitlar bozoridagi yuqori darajadagi
+                                                   5
+raqobat uning darajasiga kuchli taʼsir koʻrsatadi” .
+      J.Sinki oʻz ilmiy mulohazalarida sof foizli marja hisobidan muddatli
+depozitlarga toʻlanadigan foiz stavkasini oshirish imkoniyatini nazarda
+tutayapti. Haqiqatdan ham, sof foizli marja tijorat bankining kreditlardan
+olgan foizli daromadlari bilan muddatli depozitlariga toʻlagan foizli
+xarajatlari oʻrtasidagi bogʻliqlikni koʻrsatadi.
+      A.Kpikliy va N.Maslakning xulosasiga koʻra, “tijorat banklarining
+rentabelligiga taʼsir qiluvchi omillar ichki va tashqi omillarga boʻlinadi va
+ushbu omillar oʻz navbatida intensiv va ekstensiv, bozor va maʼmuriy
+                     6
+usullarga boʻlinadi” .
+      Bunda, A.Kpikliy va N.Maslak tijorat banklarining rentabelligiga taʼsir
+qiluvchi ekstensiv omillarga bankning resurs bazasini oʻzgarishini, filiallari
+va xodimlarining sonini, ish vaqtining davomiyligini va resurslarni aylanish
+tezligini kiritadi.
+      M.M.Rijixning fikriga koʻra, tijorat banklarining rentabelligiga taʼsir
+qiluvchi tashqi omillar boʻlib, quyidagilar hisoblanadi:
+      – siyosiy omillar (bank qonunchiligini oʻzaro muvofiqlashmaganligi,
+siyosiy hokimiyatning barqarorligi)
+      – erishilgan natijalar va iqtisodiy rivojlanishning yoʻnalishlarini
+tavsiflovchi iqtisodiy omillar;
+5
+  Синки Дж. Финансовый менеджмент в коммерческом банке и в индустрии финансовых услуг.
+Пер. с англ. – М.: Альпина Паблишер, 2017. – С.338.
+6
+  Кpиклiй О. А., Маслак Н. Г. Упpавлiння пpибутком банку. Суми: ДВНЗ «УАБС НБУ», 2008. - 136 с.
+12
+      – xalqning turmush tarzidagi oʻzgarishlarga katta taʼsir koʻrsatuvchi
+ijtimoiy omillar;
+     – mamlakatdagi iqtisodiy taraqqiyotning darajasini belgilovchi
+texnologik omillar (bank operatsiyalarini amalga oshirishning xavfsizligi,
+yangi bank mahsulotlarini joriy qilish);
+     – iqtisodiyotni rivojlanish tezligi va ragʻbatlantirishni belgilovchi
+vaqtinchalik omillar (jahon iqtisodiyotidagi oʻzgarishlarga hukumatning
+munosabat bildirish tezligi, iqtisodiy ragʻbatlantirishg choralarini oʻz vaqtida
+amalga oshirilishi, hududlarni markaziy hokimiyat qarorlarini qabul qilinish
+tezligiga bogʻliqligi);
+      –    hududning      iqtisodiy   oʻsishini    taraqqiy    etgan     davlatlar
+                                                                         7
+iqtisodiyotining rivojlanishiga bogʻliqligini tavsiflovchi global omillar .
+     B.Berdiyarovning xulosaksiga koʻra, “tijorat banklari regulyativ
+kapitalining passivlar hajmidagi salmogʻining barqarorligini taʼminlash, sof
+foydaning oʻsish surʼati bilan jami aktivlarning oʻsish surʼati oʻrtasidagi
+mutanosiblikni taʼminlash orqali aktivlarning rentabelligining barqaror
+                              8
+darajasini taʼminlash zarur” .
+     A.Abdullayevning xulosasiga koʻra, “respublikamiz tijorat banklarida
+aktivlardan olingan daromadlarni meʼyorga nisbatan 0,91 va 0,93 foizli
+punktga, olingan foydaning 0,81 va 0,96 foizli punktga past boʻlib, mazkur
+holatlar tijorat banklari resurslarini daromad keltiradigan aktivlarga qulay
+                                        9
+joylashtirilmaganligi bilan izohlanadi” .
+     F.Xolmamatovning fikricha, “tijorat banklarida kreditlardan koʻrilgan
+zararlarni qoplashga moʻljallangan zaxira ajratmalarining meʼyoriy
+darajasini oshishiga yoʻl qoʻymaslik va sof foizli marja koʻrsatkichining
+barqaror darajasini taʼminlash yoʻli bilan kreditlardan olinadigan foizli
+daromadlarning tijorat banklarining yalpi daromadi hajmidagi salmogʻini
+                10
+oshirish kerak” .
+     “Oʻzbekiston Respublikasining Markaziy banki toʻgʻrisida”gi qonunga
+muvofiq, “birinchidan, mamlakat bank tizimining barqarorligini taʼminlash
+Markaziy bank faoliyatining asosiy maqsadlaridan biri hisoblanadi;
+ikkinchidan, Markaziy bank tijorat banklariga nisbatan majburiy zaxira
+talabini qoʻllaydi va ushbu majburiy zaxiralar banklarning Markaziy
+bankdagi maxsus hisobvaraqlardagi mablagʻlarini deponentga oʻtkazish
+yoʻli bilan va (yoki) Markaziy bankda ochilgan vakillik hisobvaragʻida
+majburiy zaxiralarni oʻrtachalash koeffitsiyenti miqdoridan kelib chiqqan
+holda hisoblangan majburiy zaxiralarning oʻrtachalashtirilgan miqdorini
+
+Pижих М. М. “Оцінка якісних макроекономічних факторів та їхній вплив на прибутковість
+комерційного банку’.// Нацiональна бiблiотека Укpаїни iм. В. I. Веpнадського. Pежим доступа:
+http://www.nbuv.gov.ua/ Articles/Kultnar/knp52_2/knp52_2_85-89.pdf.
+8
+   Berdiyarov B.T. Oʻzbekiston Respublikasi tijorat banklarining likvidliligi va toʻlov qobiliyatini taʼminlash
+masalalari. I.f.d. ilm. dar. ol.uch. taqd. et. diss. avtoref. – Toshkent, 2020. – B. 30.
+9
+   Abdullayev A.Ya. Tijorat banklarining likvidlilik darajasini oshirish metodologiyasini takomillashtirish.
+I.f.d. diss. avtoref. – Toshkent, 2018. – B. 21.
+10
+    Xolmamatov F.K. Tijorat banklarining kreditlash amaliyotini takomillashtirish. I.f.f.d. diss. avtoref. ¬–
+Toshkent, 2019. - B. 25.
+                                                                                                           13
+saqlab turish yoʻli bilan ushlab turiladi; uchinchidan, tijorat banklarida
+likvidlilikning vaqtinchalik taqchilligi yuzaga kelganda toʻlovlarning
+uzluksizligini taʼminlash maqsadida Markaziy bank likvidlilikni saqlab turish
+uchun tijorat banklariga uch oygacha boʻlgan muddatga qisqa muddatli
+kreditlar tarzida tezkor yordam berishga haqli boʻlib, mazkur kreditlar
+boʻyicha foiz stavkasi Markaziy bankning boshqa kreditlariga doir amaldagi
+stavkalardan kam boʻlmasligi va u bankning aktivlari bilan taʼminlangan
+boʻlishi kerak; toʻrtinchidan, Markaziy bank kredit tashkilotlari faoliyatini,
+shu jumladan, tijorat banklarining faoliyatini tartibga soladi va nazorat
+         11
+qiladi” .
+      “2020-2025-yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi”da respublika tijorat banklarining daromad
+bazasini mustahkamlash boʻyicha quyidagi vazifalar qoʻyilgan: “moliya
+bozorida teng raqobat sharoitlarini yaratish, kreditlashni faqat bozor
+shartlari asosida amalga oshirish, banklarning davlat resurslariga
+qaramligini pasaytirish, bank xizmati koʻrsatishni modernizatsiya qilish,
+kredit portfeli va tavakkalchiliklarni boshqarish sifatini yaxshilash,
+kreditlash hajmlarining moʻtadil oʻsishiga amal qilish, korporativ
+boshqaruvni takomillashtirish va xalqaro amaliy tajribaga ega boʻlgan
+menejerlarni jalb qilish, moliyaviy tavakkalchiliklarni baholash uchun
+                                      12
+texnologik yechimlarni tatbiq etish” .
+      Oʻzbekiston Respublikasi Markaziy banki Boshqaruvining 2021-yil 27
+noyabrdagi 3337-sonli qarori bilan tasdiqlangan “Tijorat banklarining hisob
+siyosati va moliyaviy hisobotlariga qoʻyiladigan talablar toʻgʻrisida”gi
+nizomga muvofiq, tijorat banklarining daromad bazasi ikki mustaqil manba
+hisobidan shakllanadi:
+      - foizli daromadlar;
+                           13
+      - foizsiz daromadlar .
+      Tijorat banklari aktivlarining rentabelligiga baho berishda ilgʻor xorij
+tajribasini oʻrganish va umumlashtirish muhim amaliy ahamiyat kasb etadi.
+      Jahon bank amaliyotida tijorat banklari aktivlarining daromadliligini
+baholashda “CAMELS” reyting tizimiga asoslangan metodologik yondashuv
+muhim ahamiyat kasb etadi hamda bank faoliyatining moliyaviy
+barqarorligini aniqlashda keng qoʻllaniladi.
+      1-jadvalda keltirilgan reyting mezonlari tijorat banklarining daromadlilik
+darajasini baholashda qoʻllaniladigan muhim koʻrsatkichlardan biri sifatida
+xizmat qiladi. Ushbu reyting tizimi bankning daromadlari hajmi, sifati,
+dinamikasi va ularning kapital yetarliligi hamda zaxira shakllantirishga
+11
+   Oʻzbekiston Respublikasining qonuni. Oʻzbekiston Respublikasining Markaziy banki toʻgʻrisida//Qonun
+hujjatlari maʼlumotlari milliy bazasi, 12.11.2019-y., 03/19/582/4014-son.
+12
+    Oʻzbekiston Respublikasi Prezidentining 2020-yil 12-maydagi PF-5992-sonli “2020-2025-yillarga
+moʻljallangan Oʻzbekiston Respublikasining bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi
+farmoni//QHMMB:06/205992/0581-son. 13.05.2020-y.
+13
+    Oʻzbekiston Respublikasi Markaziy banki Boshqaruvining 2021-yil 27-noyabrdagi 3337-sonli qarori.
+Tijorat banklarining hisob siyosati va moliyaviy hisobotlariga qoʻyiladigan talablar toʻgʻrisidagi nizomni
+tasdiqlash toʻgʻrisida//Qonunchilik maʼlumotlari milliy bazasi, 27.11.2021-y., 10/21/3337/1103-son.
+14
+taʼsirini kompleks tarzda baholash imkonini beradi. Reytingning yuqori
+darajalari - yaʼni “1-kuchli” va “2-qoniqarli” toifalardagi banklardir.
+      Eng past - “5-qoniqarsiz” reyting darajasi esa tijorat bankining
+moliyaviy ahvoli jiddiy xavf ostida ekanligini bildiradi. Bunday banklarda
+faoliyat zarar bilan yakunlanadi, kapital yoʻqotishlari roʻy beradi va bu holat
+ularning likvidlik darajasini hamda ishonchliligini sezilarli darajada
+pasaytiradi. Natijada, bankning moliyaviy barqarorligi izdan chiqadi,
+mijozlar ishonchi kamayadi va tizimiy risklar kuchayadi.
+
+
+
+
+                                                                            15
+                                                                     1-jadval
+       “CAMELS” reyting tizimida tijorat banklarining daromadlar boʻyicha
+                                    reytingi14
+       Reyting                                        Asosiy mezonlar
+
+                   Daromadlar barqaror va operatsiyalarni amalga oshirish, kapitalning
+                   yetarliligini taʼminlash va zaxiralarni shakllantirish uchun, daromadlarning
+       1-kuchli
+                   sifati, miqdori va dinamikasiga taʼsir qiluvchi aktivlarning sifati, oʻsishi va
+                   boshqa omillarni hisobga olgan holda, yetarlidir.
+
+
+                   Daromadlar qoniqarli hisoblanadi. Ular operatsiyalarni amalga oshirish,
+                   kapitalning yetarliligini taʼminlash va zaxiralarni shakllantirish uchun
+     2-qoniqarli
+                   yetarli. Ammo, bank daromadlarni qayd etilgan omillar taʼsirida kamayish
+                   ehtimoli mavjud.
+
+
+                   Daromadlar yaxshilanishi kerak va ular operatsiyalarni amalga oshirish,
+                   kapitalning yetarliligini taʼminlash va zaxiralarni shakllantirish uchun,
+        3-oʻrta
+                   daromadlarning sifati, miqdori va dinamikasiga taʼsir qiluvchi aktivlarning
+                   sifati, oʻsishi va boshqa omillarni hisobga olgan holda, yetarli emas.
+
+
+              Daromadlar yetarli emas, ular operatsiyalarni amalga oshirish, kapitalning
+              yetarliligini taʼminlash va zaxiralarni shakllantirishni zarur darajada
+              taʼminlay olmaydi. Reytingning ushbu darajasini olgan tijorat banklari
+ 4-chegaraviy
+              uchun foyda va sof foizli marjaning beqaror tebranishi, sezilarli salbiy
+              tendensiyalarning mavjudligi, nominal va beqaror daromadlar, davriy
+              zararlar va daromadlarning oldingi yillarga nisbatan kamayishi xos.
+
+
+              Daromadlar yetarli emas. Tijorat banki sezilarli darajada zarar
+ 5-qoniqarsiz koʻrayotganligi sababli kapitalining yoʻqotilishi yuz bermoqda va buning
+              natijasida uning moliyaviy barqarorligi xavf ostida qolmoqda.
+
+
+
+    Biz quyida AQSHning eng yirik transmilliy banklaridan biri boʻlgan Bank
+of Amerika bankining rentabelligiga baho beramiz.
+                                                                    2-jadval
+ Bank of America bankining (AQSH) foizli daromadlari va foizli xarajatlari
+                                          15
+                               dinamikasi
+                                                                                       2024-yilda
+                                                                2023                   2020-yilga
+       Koʻrsatkichlar      2020 y.     2021 y.     2022 y.                2024 y.
+                                                                 y.                    nisbatan,
+                                                                                         marta
+     Foizli daromadlar,
+                              51          47          72         130        146            2,8
+     mlrd. AQSH dollari
+      Foizli xarajatlar,
+                               8           5          20          73         90            11,3
+     mlrd. AQSH dollari
+
+14
+   Supervision and Regulation. CAMELS rating system. https://www.federalreserve.gov.
+15
+   Jadval muallif tomonidan “Bank of America” bankining 2020-2024 moliyaviy yillarning yakuni bo‘yicha
+e'lon qilingan hisobotlari (Concolidated Statement of income) ma'lumotlari asosida tuzilgan.
+16
+     2-jadvaldan koʻrinib turibtiki, Bank of America bankining foizli
+daromadlarining miqdori 2022-2024-yillarda oʻsish tendensiyasiga ega
+boʻlgan. Buning ustiga, Bank of America bankining foizli daromadlarining
+miqdori 2024-yilda 2020-yilga nisbatan yuqori darajada oshganni kuzatish
+mumkin. Ushbu holat, bankning daromad bazasini mustahkamlash va
+moliyaviy barqarorligini taʼminlash nuqtai-nazaridan ijobiy omil sifatida
+baholanadi.
+     2-jadval maʼlumotlaridan koʻrinadiki, Bank of America bankining foizli
+xarajatlarining miqdori 2022-2024-yillarda oʻsish tendensiyasiga ega
+boʻlgan. Shuningdek, Bank of America bankining foizli xarajatlarining
+miqdori 2024-yilda 2020-yilga nisbatan yuqori surʼatda oshgan.
+                                                                  3-jadval
+       AQSHning “Bank of America” bankida kreditlarning miqdori va
+                                                16
+                          daromadlilik darajasi
+              Koʻrsatkichlar          2020 y.      2021 y.     2022 y.      2023 y.        2024 y.
+
+     Kreditlar, mlrd. AQSH dollari        909        966         1033         1040          1082
+        Berilgan kreditlarning
+                                          3,7        3,0          3,7          5,5           5,6
+       daromadlilik darajasi, %
+
+     3-jadval maʼlumotlaridan yaqqol koʻrinadiki, Bank of America bankida
+berilgan kreditlarning miqdori 2020-2024-yillarda oʻsish tendensiyasiga ega
+boʻlgan. Buning ustiga, kreditlarning miqdori 2024-yilda 2020-yilga nisbatan
+sezilarli darajada oshgan.
+    3-jadval maʼlumotlaridan aniq koʻrinadiki, Bank of America bankida
+berilgan kreditlarning daromadlilik darajasi 2024-yilda 2020-yilga nisbatan
+yuqori surʼatda, yaʼni 1,9 foizli punktga oʻsgan. Mazkur oʻsish, berilgan
+kreditlardan olingan foizli daromadlarning oʻsish surʼatini brutto
+kreditlarning oʻsish surʼatidan yuqori boʻlganligi bilan izohlanadi.
+
+     60
+                                                52                 56                 56
+     50      43                42
+     40
+                                     31
+     30
+                                                      27                 26                 27
+
+     20
+                  17
+
+     10
+
+      0
+             2020 y.           2021 y.          2022 y.            2023 y.            2024 y.
+
+
+     1-rasm. Bank of America bankining (AQSH) sof foizli daromadi va sof
+
+
+16
+   Jadval muallif tomonidan “Bank of America” bankining 2020-2024 moliyaviy yillarning yakuni bo‘yicha
+e'lon qilingan hisobotlari (Concolidated Statement of income) ma'lumotlari asosida tuzilgan.
+                                                                                                   17
+                                            17
+                         foydasi , mlrd. AQSH dollari
+      1-rasm maʼlumotlaridan koʻrinadiki, Bank of America bankining sof
+foizli daromadlarining miqdori 2020-2024-yillarda oʻsish tendensiyasiga
+ega boʻlgan. Bu esa, mazkur davrda bankning foizli daromadlarning oʻsish
+surʼatini foizli xarajatlarning oʻsish surʼatidan yuqori boʻlganligi bilan
+izohlanadi. SHuningdek, bank sof foizli daromadlarining miqdori 2024-yilda
+2020-yilga nisbatan sezilarli darajada oshgan.
+      1-rasm maʼlumotlaridan koʻrinadiki, Bank of America bankining sof
+foydasining miqdori 2021-2023 yillarda kamayish tendensiyasiga ega
+boʻlgan. biroq, 2024-yilda 2020-yilga nisbatan sezilarli darajada oshgan.
+     14
+
+     12
+                                     11.5
+                                                       9.9
+     10                                                                  9.1              9.2
+
+      8
+                    6.3
+      6
+
+      4
+
+      2
+              0.6              0.9               0.9               0.8              0.8
+      0
+             2020 y.           2021 y.           2022 y.           2023 y.         2024 y.
+                    Akivlarning rentabelligi                 Kapitalning rentabelligi
+
+          2-rasm. AQSHning “Bank of America” bankida brutto aktivlar va
+                                              18
+                      kapitalning rentabelligi , foizda
+     2-rasmdan aniq koʻrsa boʻladiki, Bank of America bankida, brutto
+aktivlarning rentabelligi 2024-yilda 2020-yilga nisbatan sezilarli darajada
+oshgan.
+     2-rasmdan aniq koʻrish mumkinki, Bank of America bankida regulyativ
+kapitalning rentabelligi 2021-2023 yillarda pasayish tendensiyasiga ega
+boʻlgan,
+biroq, 2024-yilda 2020-yilga nisbatan sezilarli darajada oshgan.
+     Dissertatsiyaning “Oʻzbekiston Respublikasida tijorat banklari
+rentabelligining zamonaviy holati” deb nomlangan ikkinchi bobida
+Banklarning rentabelligini tavsiflovchi koʻrsatkichlar va ularning qiyosiy
+tavsifi, tijorat banklar rentabelligining amaldagi holati va tijorat banklari
+rentabellig darajasiga taʼsir qiluvchi omillar.
+     Banklarning rentabelligini tavsiflovchi koʻrsatkichlar va ularning qiyosiy
+tavsifi boʻyicha iqtisodchi olimlar tomonidan tijorat banklarining daromad
+17
+   Rasm muallif tomonidan “Bank of America” bankining 2020-2024 moliyaviy yillarning yakuni bo‘yicha
+e'lon qilingan hisobotlari (Concolidated Balance Sheet. Concolidated Statement of income) ma'lumotlari
+asosida tuzilgan.
+18
+   Rasm muallif tomonidan “Bank of America” bankining 2020-2024 moliyaviy yillarning yakuni bo‘yicha
+e'lon qilingan hisobotlari (Concolidated Balance Sheet. Concolidated Statement of income) ma'lumotlari
+asosida tuzilgan.
+18
+bazasini tavsiflovchi bir qator koʻrsatkichlar taklif qilingan.
+       Jahon banki guruhiga kiruvchi Xalqaro tiklanish va taraqqiyot
+bankining metodikasida tijorat banklarining rentabelligini tavsiflovchi
+                                              19
+quyidagi koʻrsatkichlar oʻz ifodasini topgan :
+      1. Sof foizli spred koʻrsatkichi.
+      Ekspertlar tomonidan ushbu koʻrsatkichni hisoblashning quyidagi
+metodikasi taklif qilingan:
+                     (KOFD : KOʻS) x 100 % - (DTF : FTD) x 100 %
+      Bu yerda:
+      KOFD – kreditlardan olingan foizli daromadlar;
+      KOʻQ – kreditlarning oʻrtacha qoldigʻi;
+      DTF – depozitlarga toʻlangan foizlar;
+      FTD – foiz toʻlanadigan depozitlar.
+      Mazkur koʻrsatkichning meʼyoriy darajasi: 1,25 %.
+      2. Foizli daromadlarning daromad keltiradigan aktivlarning oʻrtacha
+qoldigʻiga nisbati.Mazkur koʻrsatkkchning meʼyoriy darajalari boʻyicha
+tijorat banklarini quyidagi sinflarga ajratish tavsiya etilgan:birinchi sinf – 4,6
+ %;ikkinchi sinf – 4,0 %;uchinchi sinf – 3,7 %;toʻrtinchi sinf – 3,4 %;beshinchi
+sinf – 3,2 %.
+      3. Foizsiz daromadlarning foizli marjaga nisbati.
+      ¬Ushbu koʻrsatkichning meʼyoriy darajalari boʻyicha tijorat banklarini
+quyidagi sinflarga ajratish tavsiya etilgan:birinchi sinf – 48 %;ikkinchi sinf –
+52 %;
+      uchinchi sinf – 57 %;toʻrtinchi sinf – 61 %;beshinchi sinf – 64 %.
+       Jahon banki guruhiga kiruvchi Xalqaro tiklanish va taraqqiyot banki
+mutaxassislari tomonidan ilgari surilgan tavsiyalar tahlili shuni koʻrsatadiki,
+tijorat banklarining daromad bazasini shakllantirish hamda uning
+barqarorligini taʼminlash jarayonida foizli daromadlar, xususan kredit
+operatsiyalaridan olinadigan foizli daromadlar muhim ahamiyat kasb etadi.
+Yuqorida keltirilgan shkalalar tahlili shuni koʻrsatadiki, foizli daromadlarning
+aktivlarga nisbatan ulushi ortib borishi bank faoliyatining ijobiy dinamikasini
+aks ettiradi. Shu bilan birga, foizsiz daromadlarning foizli marjaga nisbatan
+oshib borishi esa, moliyaviy natijalar nuqtai nazaridan salbiy holat sifatida
+baholanadi.
+       Bizning fikrimizcha, foizli va foizsiz daromadlarni baholashda
+qoʻllanilgan mazkur yondashuv tijorat banklarining daromad bazasi
+barqarorligini taʼminlashda muhim ahamiyatga ega. Bu holat, oʻz navbatida,
+foizli daromadlarning asosiy qismini tijorat banklarining asosiy faoliyat
+turidan oladi.Banklar uchun ikkita asosiy faoliyat turi mavjud: kreditlar
+berish va qimmatli qogʻozlarga investitsiya qilish.
+       Tijorat banklaruning rentabelligini baholashda qoʻllaniladigan muhim
+koʻrsatkichlar boʻlib, aktivlarning rentabelligi va kapitalning rentabelligi
+koʻrsatkichlari hisoblanadi.
+
+19
+     Банковское дело. Учебник. Под ред. Проф. О.И. Лаврушина. – М.: КНОРУС, 2016. ¬- С. 243-244.
+                                                                                                   19
+      Aktivlarning rentabelligi koʻrsatkichi tijorat bankining sof foydasini
+uning jami (brutto) aktivlar hajmiga boʻlish orqali aniqlanadi, bunda olingan
+natija 100 foizga koʻpaytiriladi.
+     Aktivlar rentabelligi koʻrsatkichiga nisbatan aniq meʼyoriy qiymat
+belgilanmagan. Shu bois, ushbu koʻrsatkichni baholash jarayonida
+moliyaviy tahlilning qiyosiy tahlil usulidan foydalanish maqsadga muvofiq
+hisoblanadi.
+      Kapital rentabelligi koʻrsatkichi tijorat bankining sof foydasini uning
+regulyativ kapitali hajmiga boʻlish orqali aniqlanadi, bunda olingan natija
+100 foizga koʻpaytirish yoʻli bilan aniqlanadi.
+      Aktivlar rentabelligi koʻrsatkichidan farqli ravishda, kapital rentabelligi
+uchun aniq meʼyoriy qiymat belgilangan boʻlib, uning tavsiya etilgan darajasi
+15 foizni tashkil etadi.
+     Tijorat banklarining daromad bazasining barqarorligi, asosan, ularning
+xarajatlar miqdori hamda ushbu xarajatlarning oʻzgarish dinamikasiga
+bevosita bogʻliq hisoblanadi. Shu munosabat bilan, tijorat banklari
+tomonidan amalga oshiriladigan xarajatlar darajasini tavsiflovchi
+koʻrsatkichlarni koʻrib chiqamiz.
+     Mazkur paragrafda tadqiqotning obyekti boʻlgan aksiyadorlik-tijorat
+banklari – Turonbank, Asakabank, Sanoatqurilishbank va Mikrokreditbank
+misolida respublikamiz tijorat banklarining rentabelligini tahlil qilamiz.
+                                                                        4-jadval
+                                                                   20
+                 AT “Turonbank” daromadlarining tarkibi, foizda
+               Koʻrsatkichlar                2020 y.     2021 y.     2022 y.      2023 y.     2024 y.
+
+             Foizli daromadlar                 84,2        83,3        75,8         76,4        78,2
+
+            Foizsiz daromadlar                 15,8        16,7        24,2         23,6        21,8
+
+             Daromadlar - jami                100,0       100,0       100,0        100,0        100,0
+
+     4-jadvalda keltirilgan maʼlumotlardan koʻrinadiki, 2020-2024-yillarda
+Turonbank daromadlarining umumiy hajmida foizli daromadlar nisbatan
+yuqori salmoqni egallagan; foizli daromadlarning yalpi daromad hajmidagi
+salmogʻi 2024-yilda 2020-yilga nisbatan sezilarli darajada pasaygan. Bu esa,
+mazkur davrda foizsiz daromadlarning yalpi daromad hajmidagi salmogʻini
+sezilarli darajada oshganligi bilan izohlanadi.
+      Tijorat banklarining asosiy faoliyat turidan foizli daromadlar olinadi.
+Shuning uchun tijorat bankining jami daromadlari hajmida foizsiz
+daromadlarning ulushining yuqori boʻlishi bankning moliya bozorlaridagi
+pazitsiyasi zaiflashayotganligini koʻrsatadi. Shu sababli, Turonbankning
+jami daromadlari hajmida foizsiz daromadlarning ulushini 2024-yilda 2020-
+yilga nisbatan sezilarli darjada oshganligi bankning rentabelligini taʼminlash
+
+20
+     Jadval muallif tomonidan Turonbankning moliyaviy hisobotlarining maʼlumotlari asosida tuzilgan.
+20
+nuqtai-nazaridan salbiy holat boʻlib hisoblanadi.
+       Shuningdek       foizli    daromadlarning        Turonbankning      jami
+daromadlardagi ulushini 2020-2022-yillarda pasayish tendensiyasiga ega
+boʻlganligi bankning rentabelligini taʼminlash nuqtai-nazaridan salbiy holat
+boʻlib hisoblanadi.
+       Turonbankning foizli daromadlarining tarkibida kreditlardan olingan
+foizli daromadlar nisbatan yuqori salmoqni egallaydi.
+       Bu esa, kreditlarni brutto aktivlar hajmidagi salmogʻini yuqori ekanligi
+bilan izohlanadi.
+       5-jadvalda keltirilgan maʼlumotlardan koʻrinadiki, Turonbankda 2020-
+2024-yillarda kreditlardan olingan foizli daromadlarning jami foizli
+daromadlardagi ulushi sezilarli darajada yuqori boʻlgan. Buning ustiga,
+ushbu koʻrsatkich 2024-yilda 2020-yilga nisbatan sezilarli darajada oshgan.
+                                                                       5-jadval
+         AT “Turonbank”da kreditlardan olingan foizli daromadlarning va
+                                                        21
+                         kreditlarning darajasi, foizda
+                                              2020
+               Koʻrsatkichlar                           2021 y.      2022 y.     2023 y.      2024 y.
+                                               y.
+        Kreditlardan olingan foizli
+        daromadlarning jami foizli            74,8        76,8         80,8        92,3         92,1
+         daromadlardagi ulushi
+       Kreditlarning brutto aktivlar
+                                              76,5        73,8         73,2        74,6         71,4
+           hajmidagi salmogʻi
+
+     5-jadvalda keltirilgan maʼlumotlardan koʻrinadiki, Turonbankda
+kreditlarning brutto aktivlar hajmidagi salmogʻi 2020-2024-yillarda sezilarli
+darajada yuqori boʻlgan, biroq, 2024-yilda 2020-yilga nisbatan sezilarli
+darajada pasaygan. Ushbu pasayish mazkur davrda qimmatli qogʻozlarga
+qilingan investitsiyalarning brutto aktivlar hajmidagi salmogʻining
+oshganligi bilan izohlanadi.
+
+
+
+
+21
+     Jadval muallif tomonidan Turonbankning moliyaviy hisobotlarining maʼlumotlari asosida tuzilgan.
+                                                                                                        21
+      5
+                                                                                                4.5
+     4.5
+      4
+     3.5                                                3.1
+                        2.7
+      3
+                  2.4               2.5 2.6                   2.6
+                                                                                  2.4
+     2.5                                                                    2.2
+      2
+                                                                                                      1.8
+     1.5                                         1.1
+                              0.8                                     0.8                 0.9
+      1
+     0.5
+            0.3
+      0
+             2020 y.           2021 y.            2022 y.              2023 y.             2024 y.
+
+                  Turonbank                                   O'zsanoatqurilishbank
+
+ 3-rasm. Turonbank, Oʻzsanoatqurilishbank va Asakabankda kreditlardan
+    koʻriladigan zararlarni qoplashga moʻljallangan zaxira ajratmalarining
+                                                              22
+                  brutto aktivlarga nisbatan darajasi, foizda
+       3-rasmdan yaqqol koʻrinib turibtiki, Turonbankda kreditlardan
+koʻriladigan zararlarni qoplashga moʻljallangan zaxira ajratmalari
+summasining brutto aktivlarga nisbatan darajasi 2020-2022-yillarda oshish
+tendensiyasiga ega boʻlgan. Buning ustiga, ushbu koʻrsatkich 2024-yilda
+2020-yilga nisbatan yuqori surʼatda oshgan.
+       3-rasmdan      yaqqol    koʻrinib  turibtiki, Oʻzsanoatqurilishbankda
+kreditlardan koʻriladigan zararlarni qoplashga moʻljallangan zaxira
+ajratmalari summasining brutto aktivlarga nisbatan darajasi 2020-2022-
+yillarda oshish tendensiyasiga ega boʻlgan. Buning ustiga, ushbu
+koʻrsatkich 2024-yilda 2020-yilga nisbatan yuqori surʼatda oshgan.
+      3-rasmdan yaqqol koʻrinib turibtiki, Asakabankda kreditlardan
+koʻriladigan zararlarni qoplashga moʻljallangan zaxira ajratmalari
+summasining brutto aktivlarga nisbatan darajasi 2022-2024-yillarda
+pasayish tendensiyasiga ega boʻlgan. Buning ustiga, ushbu koʻrsatkich
+2024-yilda 2020-yilga nisbatan sezilarli darajada pasaygan.
+                                                                      6-jadval
+                                                                 23
+                AT “Mikrokredit” daromadlarining tarkibi, foizda
+             Koʻrsatkichlar                   2020 y.     2021 y.      2022 y.          2023 y.       2024 y.
+
+           Foizli daromadlar                   91,0           91,3      90,9             89,4          90,2
+
+           Foizsiz daromadlar                   9,0            8,7          9,1          10,6           9,8
+
+           Daromadlar - jami                  100,0           100,0     100,0           100,0          100,0
+
+
+22
+   Rasm muallif tomonidan Turonbank, Sanoatqurilishbank va Asakabankning moliyaviy hisobotlarining
+maʼlumotlari asosida tuzilgan.
+23
+   Jadval muallif tomonidan Mikrokreditbankning moliyaviy hisobotlarining maʼlumotlari asosida tuzilgan.
+22
+    6-jadvalda keltirilgan maʼlumotlardan koʻrinadiki, 2020-2024-yillarda
+Mikrokredit daromadlarining umumiy hajmida foizli daromadlar nisbatan
+yuqori salmoqni egallagan; foizli daromadlarning yalpi daromad hajmidagi
+salmogʻi 2024-yilda 2020-yilga nisbatan oz miqdorda pasaygan. Bu esa,
+mazkur davrda foizsiz daromadlarning yalpi daromad hajmidagi salmogʻini
+oz miqdorda oshganligi bilan izohlanadi.
+    6-jadval malumotlaridan koʻrinadiki,Mikrokreditbank daromadlari
+umumiy hajmida foizsiz daromadlarning ulushi 2021-2023-yillarda oshish
+tendensiyasiga ega boʻlgan.Buning ustiga mazkur koʻrsatgich 2024-yilda
+2020-yilga nisbatan sezilarli darajada oshgan.
+                                                                  7-jadval
+       AT “Mikrokredit”da kreditlardan olingan foizli daromadlarning va
+                                                      24
+                       kreditlarning darajasi, foizda
+                Koʻrsatkichlar                 2020 y.     2021 y.       2022 y.      2023 y.      2024 y.
+
+
+         Kreditlardan olingan foizli
+         daromadlarning jami foizli              69,3        65,7         67,8          87,3         89,4
+          daromadlardagi ulushi
+
+        Kreditlarning brutto aktivlar
+                                                 82,4        80,7         80,8          80,4         76,5
+            hajmidagi salmogʻi
+
+      7-jadvaldan aniq koʻrinib turibtiki, Mikrokreditbankda 2020-2024-
+yillarda    kreditlardan   olingan    foizli daromadlarning       jami  foizli
+daromadlardagi ulushi nisbatan yuqori boʻlgan. Bu esa, mazkur davrda
+kreditlarning brutto aktivlar hajmidagi salmogʻini yuqori boʻlganligi bilan
+izohlanadi.
+       7-jadvaldan koʻrinib turibdiki, Mikrokredit da kreditlarning brutto
+aktivlar hajmidagi salmogʻi 2020-2024-yillarda sezilarli darajada yuqori
+boʻlgan, biroq, 2024-yilda 2020-yilga nisbatan sezilarli darajada pasaygan.
+
+
+
+
+24
+     Jadval muallif tomonidan Mikrokreditbankning moliyaviy hisobotlarining maʼlumotlari asosida tuzilgan.
+                                                                                                       23
+             4-rasm. Turonbank va Oʻzsanoatqurilishbankda aktivlarning
+                                                       25
+                          rentabellik darajasi, foizda
+
+      4-rasm maʼlumotlaridan koʻrinib turibtiki, Turonbankda aktivlarning
+rentabellik darajasi 2020-2022-yillarda oshish tendensiyasiga ega boʻlgan.
+Buning ustiga, bank aktivlarining rentabelligi 2024-yilda 2020-yilga nisbatan
+yuqori surʼatda oshgan.
+      Keltirilgam maʼlumotlardan koʻrinadiki tahlil qilingan davr mobaynida
+Turonbank aktivlarining rentabellik darajasi sezilarli darajada past
+boʻlgan.Bu esa,sof foydaning brutto aktivlarga nisbatan kichchik miqdorga
+ega ekanligi bilan izohlanadi va bankning rentabelligini taʼminlash nuqtai-
+nazaridan salbiy holat hisoblanadi.
+      4-rasm maʼlumotlaridan koʻrinib turibtiki, Oʻzsanoatqurilishbankda
+aktivlarning rentabellik darajasi 2020-2024-yillarda nisbatan yuqori boʻlgan.
+Buning ustiga, ushbu koʻrsatkichning darajasi 2024-yilda 2020-yilga
+nisbatan sezilarli darajada oshgan.
+      Oʻzsanoatqurilishbankda aktivlarning rentabellik darajasini 2024-yilda-
+2020-yilga nisbatan sezilarli drajada oshganligi sof foydaning osish suratini
+brutto aktivlarning oʻsish suratidan yuqori boʻlgnaligi bilan izohlanadi va
+bankning rentabelligini taʼminlash nuqtai- nazaridan ijobiy haolat
+hisoblanadi.
+     Tijorat banklari aktivlari rentabelligini oshirishga qaratilgan faoliyat, sof
+foydaning oʻsish surʼati bilan brutto aktivlar hajmining oʻsish surʼatlari
+oʻrtasida mutanosiblikni taʼminlash zaruriyatini yuzaga keltiradi.
+     Tijorat banklari daromadlarining darajasini koʻrsatuvchi muhim
+koʻrsatkichlardan biri boʻlib, sof foizli marja koʻrsatkichi hisoblanadi.
+
+25
+   Rasm muallif tomonidan        Turonbank   va   Oʻzsanoatqurilishbankning   moliyaviy   hisobotlarining
+maʼlumotlari asosida tuzilgan.
+24
+       4.5
+
+         4                                         3.8 4.1                  4.0
+                                                                                                    3.8
+                                       3.6
+                    3.3          3.2
+       3.5    3.1
+         3                                                            2.8
+       2.5                2.1                                2.2                              2.2
+                                                                                  1.9
+         2                                   1.6                                                          1.6
+       1.5
+
+         1
+
+       0.5
+
+         0
+               2020 y.   2021 y.                     2022 y.    2023 y.     2024 y.
+               Turonbank                                O'zsanoatqurilishbank
+
+      5-rasm. Turonbank, Oʻzsanoatqurilishbank va Asakabankda sof foizli
+                                                    26
+                         marjaning darajasi, foizda
+
+       5-rasm maʼlumotlaridan aniq koʻrinib turibtiki, Turonbankda sof foizli
+marjaning darajasi 2020-2022-yillarda oshish tendensiyasiga ega boʻlgani
+holda, 2022-2024-yillarda pasayish tendensiyasiga ega boʻlgan. Bu esa,
+tijorat bankining daromadlarini boshqarishni takomillashtirish va
+rentabelligini taʼminlash nuqtai-nazaridan salbiy holat hisoblanadi.
+       5-rasm        maʼlumotlaridan        aniq        koʻrinib      turibtiki,
+Oʻzsanoatqurilishbankda sof foizli marjaning darajasi 2020-2022-yillarda
+oshish tendensiyasiga ega boʻlgani holda, 2022-2024-yillarda pasayish
+tendensiyasiga ega boʻlgan. Bu esa, tijorat bankining daromadlarini
+boshqarishni takomillashtirish va rentabellligini taʼminlash nuqtai-nazaridan
+salbiy holat hisoblanadi.
+       5-rasm maʼlumotlaridan aniq koʻrinib turibti, Asakabankda sof foizli
+marjaning darajasi 2020-2024-yillarda ancha past boʻlgan. Buning ustiga,
+sof foizli marja 2024-yilda 2020-yilga nisbatan sezilarli darajada pasaygan.
+      5-rasm maʼlumotlaridan koʻrinadiki 2020-2024-yillarda Turonbank,
+Sanoatqurilishbank va Asakabankda sof foydaning meyoriy darajasi
+taʼminlanmagan. Bu esa, ushbu banklarning rentabelligini taminlash nuqtai-
+nazaridan salbiy holat hisoblanadi.
+                                                                      8-jadval
+            Mikrokreditbankda aktivlar va kapitalning rentabelligi, %27
+                                                   2020y
+                Koʻrsatkichlar                               2021y.     2022y.          2023y.            2024y.
+                                                      .
+     Aktivlarning rentabelligi                     0,3       0,4       0,1              0,4           3,4
+     Kapitalning rentabelligi                      2,3       0,2       0,3              1,0           22,5
+
+
+26
+   Rasm muallif tomonidan Turonbank, Sanoatqurilishbank va Asakabankning moliyaviy hisobotlarining
+maʼlumotlari asosida tuzilgan.
+27
+   Jadval muallif tomonidan Mikrokreditbankning moliyaviy hisobotlari maʼlumotlari asosida tuzilgan.
+                                                                                                                25
+     8-jadvaldan koʻrinadiki, Mikrokreditbankda aktivlarning rentabelligi
+2020-2021-yillarda oshish surʼatiga ega boʻlgan. buning ustiga, ushbu
+koʻrsatkich 2024-yilda 2020-yilga nisbatan 3,1 foizga oshgan.
+     8-jadvaldan koʻrinadiki, Mikrokreditbankda      kapitalning rentabelligi
+2024-yilda 2020-yilga nisbatan sezilarli darajada oshgan. Mazkur
+koʻrsatkichning eng yuqori darajasi 2024-yilda boʻlgan
+     Dissertatsiyaning “Oʻzbekiston tijorat banklarining rentabelligini
+taʼminlash yoʻllari” deb nomlangan uchinchi bobida mamlakat tijorat
+banklarining rentabelligini taʼminlash bilan bogʻliq boʻlgan dolzarb
+muammolar aniqlangan va ularni hal qilishga qaratilgan ilmiy takliflar,
+amaliy tavsiyalar ishlab chiqilgan.
+     Ilmiy tatqiqot ishimizning ikkinchi bobida olib borilgan ilmiy tahlillar
+natijasida respublikamizda faoliyat yuritib kelayotgan tijorat banklarining
+rentabelligini taʼminlash bilan bogʻliq boʻlgan muhim masalalarning borligini
+koʻrsatib berdi.
+     Mana shunday muhim masalalardan biri – bu ularning regulyativ
+kapitali ulushining passivlar hajmiga nisbatan qisqarib borayotganidir
+     Oʻtkazilgan tahlil natijalariga koʻra, 2020–2024-yillar davomida
+Asakabankda ham, Aloqabankda ham regulyativ kapitalning passivlar
+tarkibidagi salmogʻi kamayish tendensiyasini koʻrsatdi Mazkur holat
+banklarning rentabelligini taʼminlash nuqtayi nazaridan salbiy omil sifatida
+baholanadi. Ayniqsa, 2024-yilga kelib regulyativ kapitalning passivlardagi
+ulushi 2020-yilga nisbatan ancha pasaygani kuzatiladi..
+     Mamlakatimiz tijorat banklarining rentabelligini taʼminlash bilan bogʻliq
+boʻlib hisoblangan muhim masalalardan yana bittasi boʻlib, banklarda sof
+foydaning meʼyoriy darajasini taʼminlanmaganligi hisoblanadi
+
+
+
+
+      6-rasm. Aksiyadorlik-tijorat “Asakabank”da sof foydaning aktivlarning
+                                                                28
+           riskka tortilgan summasiga nisbatan darajasi, foizda
+
+28
+   Rasm muallif tomonidan Asakabankning 2020-2024 moliyaviy yillarning yakunlari bo‘yicha e'lon qilingan
+yillik hisobotlarining ma'lumotlari asosida tuzilgan.
+
+26
+      6-rasmda aks etgan maʼlumotlarga koʻra, birinchidan, Asakabankda
+2020-2024-yillarda sof foydaning meʼyoriy darajasi (2,0%) taʼminlanmagan;
+ikkinchidan, sof foydaning aktivlarning riskka tortilgan summasiga nisbatan
+darajasi 2024-yilda 202-yilga nisbatan sezilarli darajada qisqarish qayd
+etilgan. Mazkur holat, Asakabankning rentabelligini taʼminlash jihatdan
+salbiy holat boʻlib hisoblanadi
+      Bank tizimida rentabellikni taʼminlash bilan bogʻliq muammolardan
+yana biri shundan iboratki, transaksion depozitlar brutto depozitlarning
+katta qismini egallab turganiga qaramay, yuqori likvidli qimmatli
+qogʻozlarga kiritilgan investitsiyalarning yuqori likvidli aktivlardagi ulushi
+yetarlicha emas. Bu holat banklarning joriy likvidlik darajasiga salbiy taʼsir
+koʻrsatib, unga kuchli bosim uygʻotmoqda;
+      aktivlarning rentabellik darajasini past va beqarorligidir.
+      tijorat banklari kreditlarining daromadliligi va riskliligi oʻrtasidagi
+mutanosiblikning taʼminlanmaganligi;
+      banklarda sof foizli marjaning meʼyoriy darajasini taʼminlanmaganligi
+va beqarorligi hisoblanadi;
+      banklarning qimmatli qogʻozlar boʻyicha investitsion operatsiyalarning
+yetarlicha shakllanmaganligi.
+      Dissertatsion tadqiqotning 3.1-paragrafida eʼtirof etilgan Respublika
+tijorat banklarining rentabelligini taʼminlashga qaratilgan quyidagi ilmiy
+takliflar va amaliy tavsiyalar ishlab chiqildi:
+      1. Sof foydaning bank aktivlarining riskka tortilgan summasiga
+nisbatan optimal darajasini taʼminlash yoʻli bilan aktivlarning rentabelligini
+taʼminlash uchun, birinchidan, sof foydaning oʻsish surʼati bilan riskka
+tortilgan aktivlarning oʻsish surʼati oʻrtasidagi mutanosiblikni taʼminlash
+kerak; ikkinchidan, sof foydaning riskka taʼsirchanligini baholash aniqligini
+oshirish lozim; uchinchidan. tijorat banklari yalpi daromadi tarkibida
+investitsiya operatsiyalaridan olinadigan foizli daromadlarning barqaror
+ulushini     taʼminlash     yoʻli   bilan    qimmatli     qogʻozlarga    qilingan
+investitsiyalardan olinadigan daromadlarning yillik oʻsish surʼatining maqbul
+chegaraviy darajasiga erishish lozim
+      2. Kreditlarning tannarxini innovatsiyalar asosida kamaytirish hamda
+kreditlarning daromadliligi va kredit riskini tavsiflovchi koʻrsatkichlar
+oʻrtasidagi mutanosiblikni taʼminlash yoʻli bilan kreditlarning daromadlilik
+darajasini oshirish zarur.
+      3. Tijorat banklarida foizli xarajatlarning foizli dapromadlarga nisbatan
+barqaror darajasiga erishish hamda sof foizli daromadning oʻsish surʼati
+bilan brutto aktivlarning oʻsish surʼati oʻrtasidagi mutanosiblikni taʼminlash
+yoʻli bilan sof foizli marja koʻrsatkichining darajasini oshirish kerak.
+      4. Qoʻshilgan kapital va taqsimlanmagan foyda hisobidan birinchi
+darajali kapital miqdorini koʻpaytirish yoʻli bilan kapitalning rentabellik
+darajasini oshirish lozim.
+      5. Tijorat banklarida sof foyda oʻsish surʼati bilan jami (brutto) aktivlar
+
+                                                                              27
+oʻsish surʼati oʻrtasida muvofiqlikni taʼminlash
+     6. Tijorat banklarining qimmatli qogʻozlar bilan amalga oshiriladigan
+investitsion operatsiyalarining aktiv operatsiyalar hajmidagi salmogʻini
+oshirish
+     7. Kredit riski darajasini pasaytirish maqsadida, birinchidan, xalqaro
+reyting agentliklarining reyting baholariga ega boʻlgan kompaniyalarga
+berilgan kreditlarinng risk darajalarini standartlashgan yondashuv boʻyicha
+baholash.
+
+                                   XULOSA
+
+     Dissertatsion tadqiqotni bajarish jarayonida tijorat banklarining
+rentabelligini oshirish bilan bogʻliq boʻlgan quyidagi xulosalarni
+shakllantirdik:
+     1. Tijorat banklari daromad bazasini shakllantirishda sof foizli marja
+asosiy koʻrsatkich hisoblanadi, biroq uning darajasi kredit-depozit
+bozoridagi kuchli raqobat va valyuta kursi oʻzgarishi (devalvatsiya)
+natijasida yuzaga keladigan kredit riskiga bevosita bogʻliq. Tadqiqot shuni
+koʻrsatdiki, kapital yetarliligini kamaytirish hisobiga foyda meʼyorini oshirish
+imkoniyati cheklanganligi sababli, hozirgi sharoitda kapital rentabelligini
+oshirishning bosh zaxirasi - bu aktivlarning qaytimi darajasini oshirishdir.
+Shuningdek, uzoq muddatli samaradorlikka intilish (innovatsiyalarni joriy
+etish) qisqa muddatli joriy foydani kamaytirishi mumkinligi aniqlandi.
+     2. Xalqaro Valyuta Jamgʻarmasi (XVF) tomonidan bank tizimi
+barqarorligini baholash uchun qabul qilingan koʻrsatkichlar tizimida
+rentabellikni ifodalovchi asosiy indikatorlar aniqlashtirildi. Unga koʻra,
+regulyativ kapitalning brutto aktivlarga nisbati, daromad keltirmaydigan
+kreditlarning kapitalga nisbati, sof foydaning kapital va aktivlar oʻrtacha
+qiymatiga nisbati (ROE va ROA), shuningdek, foizli va foizsiz
+daromad/xarajatlarning yalpi daromaddagi ulushi kabi koeffitsiyentlar bank
+faoliyati samaradorligini xolisona baholash imkonini beradi.
+     3. Xalqaro tiklanish va taraqqiyot banki metodikasiga koʻra, tijorat
+banklari rentabelligini baholashda urgʻu asosan foizli daromadlar
+darajasiga qaratilishi lozim. Bunda ilmiy xulosa shundan iboratki, aktivlarga
+nisbatan foizli daromadlarning oʻsishi ijobiy tendensiya sifatida qabul
+qilinsa, foizsiz daromadlarning (masalan, komissiyalar) foizli marjaga
+nisbatan ortib ketishi bankning asosiy faoliyatidagi beqarorlik yoki salbiy
+holat sifatida baholanadi.
+     4. Rivojlangan davlatlar bank tizimi (AQSH misolida) tahlili shuni
+koʻrsatdiki, kreditlash hajmining oshishi va foizli daromadlar oʻsish
+surʼatining foizli xarajatlar oʻsish surʼatidan yuqori boʻlishi taʼminlangan.
+Natijada, Bank of America misolida 2024-yilda sof foyda, aktivlar (ROA) va
+kapital (ROE) rentabelligi 2020-yilga nisbatan sezilarli darajada oshgan. Bu
+bank menejmentining samaradorligini va aktivlarni boshqarish sifati
+yuqoriligini tasdiqlaydi.
+28
+     5. Mahalliy banklar (Asakabank va Mikrokreditbank) faoliyati tahlili
+qarama-qarshi tendensiyalarni aniqladi. Asakabankda kredit portfeli va
+undan olingan daromadlar oʻsgan boʻlsa-da, aktivlar va kapital rentabelligi,
+sof foizli marja hamda regulyativ kapitalning passivlardagi ulushi
+2020–2024-yillarda keskin pasayish tendensiyasiga ega boʻlgan.
+Mikrokreditbankda esa rentabellik koʻrsatkichlarida biroz oʻsish kuzatilgan.
+Umumiy xulosa shuki, respublika banklarida kreditlar daromadliligining
+oshishi har doim ham umumiy rentabellik va kapital yetarliligining barqaror
+oʻsishini taʼminlay olmayapti.
+     6. Tadqiqot natijasida respublika tijorat banklari rentabelligini
+oshirishga toʻsqinlik qilayotgan asosiy muammolar aniqlandi: sof foydaning
+riskka     tortilgan   aktivlarga   nisbatan       meʼyoriy  darajasi    (2,0%)
+taʼminlanmaganligi, resurs bazasida transaksion depozitlar (talab qilib
+olinguncha saqlanadigan mablagʻlar) ulushining yuqoriligi va yuqori likvidli
+qimmatli qogʻozlarga investitsiyalar hajmining kamligi. Shuningdek,
+kreditlarning daromadliligi va riskliligi oʻrtasidagi mutanosiblikning buzilishi
+hamda investitsion operatsiyalarning rivojlanmaganligi bank tizimi
+rentabelligini taʼminlashdagi dolzarb muammolar sifatida qayd etildi.
+
+
+
+
+                                                                             29
+              НАУЧНЫЙ СОВЕТ PhD.03/30.07.2024.I.78.06
+     ПО ПРИСУЖДЕНИЮ УЧЁНЫХ СТЕПЕНЕЙ ПРИ ТЕРМЕЗСКИЙ
+              ГОСУДАРСТВЕННОМ УНИВЕРСИТЕТЕ
+       ТАШКЕНТСКИЙ ГОСУДАРСТВЕННЫЙ ЭКОНОМИЧЕСКИЙ
+                     УНИВЕРСИТЕТ
+
+
+
+
+                 ШЕРАЛИЕВ АББОС ХОЛМУМИНОВИЧ
+
+
+
+
+       ПУТИ ОБЕСПЕЧЕНИЯ РЕНТАБЕЛЬНОСТИ КОММЕРЧЕСКИХ
+                         БАНКОВ
+
+
+
+
+              08.00.07 - Финансы, денежное обращение и кредит
+
+
+
+
+                             АВТОРЕФЕРАТ
+        диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                             Термез – 2025
+
+
+
+
+30
+     Тема диссертации доктора         философии (PhD)      по экономическим наукам
+зарегистрирована     в Высшей          аттестационной      комиссии  под   номером
+B2022.4.PhD/Iqt2598.
+
+
+     Диссертация выполнена в Ташкентском государственном экономическом
+университете.
+     Автореферат диссертации размещен на трех языках (узбекском, русском,
+английском (резюме)) на веб-сайте Научного совета (www.tersu.uz) и Информационно-
+образовательном портале “Ziyonet” (www.ziyonet.uz).
+
+
+       Научный руководитель:                Алимардонов Илхом Музрабшохович
+                                            Доктор экономических наук, профессор
+
+       Официальные оппоненты:               Хатамов Очилди Курбановича
+                                            Доктор экономических наук, профессор
+                                            Исмаилов Алишер Агзамович
+                                            Доктор экономических наук, профессор
+
+       Ведущая организация:                 Кабинетом Министров Республики
+                                            Узбекистан Защита диссертации
+                                            состоится на заседании
+
+
+     Зашита диссертации состоится¬¬ в ________ часов “____”________ 2025 года на
+заседании Учёного совета по присуждению учёных степеней при Термезском
+государственном университете     под номером PhD.03/30.07.2024.I.78.06 Адрес:
+190111, г. Термез, ул. Баркамол авлод, 43. Тел.: (876) 221-74-55, факс: (876) 221-71-
+17, e-mail: termizdu@mail.uz
+       С диссертацией можно ознакомиться в Информационно-ресурсном центре
+Термезского государственного университета (зарегистрирована под No__________). Адрес:
+190111, г. Термез, ул. Баркамол авлод, 43. Тел.: (876) 221-74-55, факс: (876) 221-71-17, e-
+mail: termizdu@mail.uz
+     Автореферат диссертации разослан “____” _____________2025 г.
+     (Регистрационный протокол No _____ от “____” _____________ 2025 г.).
+
+
+
+
+                                                                      Тошкулов А.Х.
+                                                    Председатель Научного совета по
+                                                    присуждению ученых степеней,
+                                                    доктор    экономических          наук,
+                                                    профессор
+
+                                                                      Туляков У.Т.
+                                                    Секретарь Ученого совета по
+                                                    присуждению ученых степеней,
+                                                    доктор экономических наук, доцент
+
+                                                                        Гадоев С.Ж.
+                                                    Председатель научного семинара
+                                                    при    Научном    совете     по
+                                                                                       31
+                                                  присуждению      ученых       степеней,
+                                                  доктор экономических наук, доцент
+
+
+
+
+     ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+    Актуальность    и   востребованность     темы    диссертации.
+Обеспечение рентабельности коммерческих банков в мировой
+экономике имеет стратегическое значение для непрерывного
+функционирования     финансового   посредничества,    устойчивого
+направления кредитных ресурсов в реальный сектор и укрепления
+стабильности банковской системы. В условиях достаточной
+рентабельности банки могут расширять свою капитальную базу,
+диверсифицировать риски, внедрять инновационные финансовые
+продукты и проводить конкурентную процентную политику, что
+служит драйвером экономического роста. Напротив, низкая
+рентабельность    увеличивает    риск    ограничения    кредитной
+активности, ухудшения качества активов и повышения угроз
+финансовой стабильности. Поэтому в банковской практике стран
+мира    обеспечение    рентабельности     коммерческих     банков
+рассматривается как одно из приоритетных направлений управления
+банковской деятельностью. В частности, “рентабельность активов во
+французском банке BNP Paribas в 2024 году увеличилась на 7,7
+процентных пункта по сравнению с 2023 годом, в то время как
+уровень процентных расходов по отношению к процентным доходам
+в немецком банке Deutshe за этот период снизился на 4,4
+                     1
+процентных пункта.” Это создает необходимость изучения и
+обобщения передового зарубежного опыта по обеспечению
+рентабельности коммерческих банков.
+    В мировом масштабе проводятся научные исследования по
+обеспечению стабильности показателей чистого процентного спреда
+и чистой процентной маржи коммерческих банков, оптимизации
+себестоимости банковских продуктов на основе инновационных
+решений, обеспечению баланса между доходностью и ликвидностью
+банковских    активов,   совершенствованию       системы     риск-
+менеджмента, обеспечению баланса между темпами роста чистой
+прибыли и темпами роста объема активов, подверженных риску.
+Однако в условиях негативной конъюнктуры и тенденций
+нестабильности, наблюдаемых на мировых финансовых рынках,
+вопросы    обеспечения    стабильного    уровня    рентабельности
+коммерческих банков и обеспечения оптимального предела
+рентабельности в периоды финансового кризиса посредством
+
+1
+ Консолидированная финансовая отчетность 2023 года. Консолидированный баланс.
+Консолидированная финансовая отчетность за 2023 год. www.bankofamerica.com/
+32
+механизмов стресс-тестирования все еще относятся к числу
+направлений, где исследования не проводились на достаточно
+                       2
+глубокой научной основе .
+    В Республике Узбекистан обеспечение рентабельности активов
+коммерческих банков является важным вопросом. Для этого в
+стратегии реформирования банковской системы страны на 2020-
+2025 годы определены такие задачи, как “модернизация банковского
+обслуживания, создание эффективной банковской инфраструктуры,
+повышение качества кредитного портфеля и управления рисками,
+соблюдение умеренного роста объемов кредитования, внедрение
+                                                           3
+технологических решений для оценки финансовых рисков .” В
+2
+  Указ Президента Республики Узбекистан от 12 мая 2020 года No УП-5992 “О Стратегии
+реформирования банковской системы Республики Узбекистан на 2020-2025 годы”
+3
+  Лаврушин О.И. Банковский менеджмент. – М.: КНОРУС, 2016. – С. 154. ; Жуков Е.Ф. Общая
+теория денег и кредита. – М.: Издательское объединение «ЮНИТИ», 1995. – С. 85.; Мишкин Ф.С.
+Экономическая теория денег, банковского дела и финансовых рынков. 7-е изд. Пер. с англ. – М.:
+ООО «И.Д. Вильямс», 2013. – С.216.; Синки Дж. Финансовый менеджмент в коммерческом банке и
+и в индустрии финансовых услуг. Пер. сангл. – М.: Альпина Паблишер, 2017. – С.447.; Эдвин Дж.
+Долан и др. Деньги, банковское дело и денежно-кредитная политика. – СПб.: Санкт-Петербург
+Оркестр, 1994. – С. 90-93.; Барлтроп К., МакНотон Д. Банковские учреждения в развивающихся
+рынках. -Всемирный банк, Вашингтон, 1993. – С. 53-54.; Hershey O. Letters of Credit. – Harward Law
+Review. – Vol. 32. – P. 1-3.2021.; Усоскин В.М. Современный коммерческий банк: управление и
+операции. – М.: ЛЕНАНД, 2019. – 328 с.; Корнилов Д.Т. Устойчивость банковской системы в
+условияхрыночной конкуренции. Автореферат диссертации на соискание ученой степени
+кандидата экономическихнаук. – Ярославль, 2005. -23 стр.; Галий Е.А. Анализ надежности и
+инвестиционной привлекательности коммерческого банка. Автореф. дисс. на дунёсоиск. уч. ст.
+к.э.н. – Санкт-Петербург, 2003. – 20 с.; Стемповский И.А. Обеспечение финансовой устойчивости
+банковской системы Российской Федерации вусловиях глобализации. Автореферат диссертации
+на соискание ученой степени кандидата экономическихнаук. – Москва, 2013. -27 стр.; Уразов С.
+Устойчивость банковской системы: теоретические и методологические аспекты. //Банковское
+дело. № 12.; Горский М.А., Решульская Е.М. Финансовая устойчивость коммерческого банка:
+феномен, показатели и методы оценки. // Вестник Алтайской академии экономики и права, 2020.
+– № 3-1. – С. 29-39.; Семенова Н. Н., Иванова И. А., Василькина А. А. Оценка устойчивости
+развития коммерческого банкана основе метода анализа иерархий. Финансы: теория и
+практика.2021;25(4): 121-135 с.; Бобрик М.А. Совершенствование системы индикаторов
+финансовой устойчивости коммерческих банков. Автореферат диссертации на соискание ученой
+степени кандидата экономическихнаук. – Москва, 2011. -24 стр.; Ганцева Л.А. Обеспечение
+финансовой устойчивости коммерческого банка. Автореферат диссертации на соискание ученой
+степени кандидата экономическихнаук. – Екатеринбург, 2001. -22 стр.; Волошина О.Б. Доходность
+банка как один из основных показателей его экономического положения//Известия высших
+учебных заведений. – Поволжский регион, 2014. -1.–С. 168-172.; Лещукова И. В. Прибыль
+коммерческого банка и ее источники//Инновационная наука. – Москва, 2017. - № 5. - С. 114 –
+116.; Дудин Е. В. Динамика прибыли российских банков в условиях экономического
+спада//Научное обозрение. – Москва, 2016. - № 10. - С. 139-141.; Вайн С. Оптимизация ресурсов
+современного банка. Пер. с англ. – М.: Альпина аблише, 2013. – С. 16.; Юдина И.Н. Банковская
+система в развивающихся экономиках: опыт становления, развития и кризисов. Монография. –
+М.: ИНФРА-М, 2013. – С. 230-231.; Дорофеев, В. Д. Стратегическое планирование коммерческого
+банка//Известия высших учебных заведений. Поволжский регион. Общественные науки. – 2013.
+– № 2 (26) – С. 168.; Кумок С.И. Анализ деятельности коммерческих банков. – М.: Вече, 1996. – С.
+153.; Куницина, Н. Н. Бизнес-планирование в коммерческом банке// – М. : Финансы и статистика,
+2007. – 304 с.; Baltes Nicolae, Rodean (Cozma) Maria-Daciana “Study regarding the " nancial stability of
+commercial banks listed on Bucharest Stock Exchange of CAMELS rating outlook”, Journal of
+International Studies, Vol. 7, No 3, 2014, pp. 133-143. DOI: 10.14254/2071-8330.2014/7-3/12.; Хасянoва,
+С. Ю. O систeмe oцeнки финансoвoй устoйчивoсти банкoвскoгo сeктoра//Финансы и крeдит.
+–2012.– № 2. – С. 24–25.; Макнотон Д. Банковские учреждения в развивающихся стран. Пер. с
+англ. – Вашингтон: ИЭР, 1994.; Кpиклiй О. А., Маслак Н. Г. Упpавлiння пpибутком банку. Суми:
+ДВНЗ «УАБС НБУ», 2008. - 136 с.; Pижих М. М. “Оцінка якісних макроекономічних факторів та їхній
+                                                                                                     33
+процессе реализации этих стратегических задач важное значение
+имеет повышение доходности активов коммерческих банков,
+снижение качества кредитного портфеля и объема просроченной
+задолженности, совершенствование механизмов выявления, оценки
+и предотвращения рисков. При этом повышение эффективности
+банковских активов и укрепление финансовой устойчивости за счет
+сокращения доли просроченных кредитов признаны одним из
+основных приоритетов развития банковской системы.
+    Данное диссертационное исследование в определенной степени
+служит реализации задач, определенных в Указах Президента
+Республики Узбекистан No УП-16 от 30 января 2025 года “О
+государственной программе по реализации стратегии “Узбекистан-
+2030” в “Год охраны окружающей среды и “зеленой экономики,”“ No
+УП-37 от 21 февраля 2024 года “О государственной программе по
+реализации стратегии “Узбекистан-2030” в “Год поддержки
+молодежи,”“ No УП-158 от 11 сентября 2023 года “О стратегии
+“Узбекистан-2030,”“ No УП-60 от 28 января 2022 года “О стратегии
+развития Нового Узбекистана на 2022-2026 годы,”“ No УП-5992 от 12
+мая 2020 года “О стратегии реформирования банковской системы на
+2020-2025 годы,” Постановлении Президента Республики Узбекистан
+No ПП-3270 от 12 сентября 2017 года “О мерах по дальнейшему
+развитию и повышению устойчивости банковской системы
+республики” и других нормативно-правовых документах в данной
+сфере.
+    Соответствие исследования приоритетным направлениям
+развития науки и технологий республики. Данное диссертационное
+исследование выполнено в рамках приоритетного направления
+развития науки и технологий республики I. “Духовно-нравственное и
+культурное развитие демократического и правового общества,
+формирование инновационной экономики.”
+    Степень изученности проблемы. Научно-теоретические и
+практические    аспекты    повышения   рентабельности     активов
+коммерческих банков подробно изучены в научных работах
+зарубежных ученых-экономистов О.Лаврушина, Е.Жукова, Ф.Мишкина,
+Ж.Цинки, Э.Долана, К.Барлтропа, О.Херши, В.Усоскина, Д.Корнилова,
+Е.Галия, И.Стемповского, С.Уразова, М.Горского, Н.Семеновой,
+И.Ивановой, А.Василькиной, М.Бобрика, Л.Ганцевой, О.Волошиной,
+И.Лешуковой, Е.Дудина, С.Вайна, И.Юдиной, В.Дорофеева, С.Кумока,
+Н.Кунициной, Н.Бальтеса, С.Хасяновой, Д.МакНотона, О.Криклия,
+
+вплив на прибутковість комерційного банку’.// Нацiональна бiблiотека Укpаїни iм. В. I.
+Веpнадського. Pежим доступа: http://www.nbuv.gov.ua/ Articles/Kultnar/knp52_2/knp52_2_85-89.pdf.;
+Pадковская Н. П. Методологические подходы к управлению прибылью коммерческого банка //
+Банковский менеджмент. 2006. №1. С. 20–25.; Юдина И.Н. Банковская система в развивающихся
+экономиках: опыт становления, развития и кризисов. Монография. – М.: ИНФРА-М, 2013. – С. 230-
+231.
+34
+              4
+Н.Маслака .
+    В    научных      работах     узбекских    ученых-экономистов
+Ш.Абдуллаевой,      А.Абдуллаева,     Т.Бобакулова,   О.Юлдашева,
+О.Саттарова, Б.Бердиярова, Н.Жумаева, З.Холмахмадова, А.Омонова,
+Ш.Рузметова, Ё.Махмудалиевой, Ф. Насриддинова, З.Умаровой,
+Р.Бозорова и других изучены некоторые теоретические и
+практические аспекты обеспечения финансовой устойчивости
+коммерческих банков.
+    Узбекский исследователь Р.Бозоров в своей докторской
+диссертации оценил финансовую устойчивость коммерческих банков
+на примере зарубежного опыта и банков республики только по трем
+показателям - рентабельность активов, рентабельность капитала и
+резервы возможных потерь по кредитам. Кроме того, не
+исследованы вопросы обеспечения финансовой устойчивости
+банков в условиях трансформации банковской системы, в период
+после пандемии коронавируса.
+    Несмотря на то, что зарубежными и отечественными учеными-
+экономистами      проведен    ряд     фундаментальных     научных
+исследований по вопросам обеспечения финансовой устойчивости
+коммерческих банков, современные механизмы обеспечения
+финансовой устойчивости в условиях трансформации банковской
+системы до сих пор не изучены комплексно как самостоятельный
+
+4
+   Абдуллаева Ш.З. Диверсификация кредитного портфеля коммерческих банков в условиях
+банковских рисков. Автореферат диссертации на соискание ученой степени доктора
+экономических наук. - Ташкент, 2000. - 46 с.; Абдуллаев А.Я. Совершенствование методологии
+повышения уровня ликвидности коммерческих банков. Автореф. дисс. д.и.н. - Ташкент, 2018. - 21
+с.; Бобакулов Т.И. Актуальные вопросы обеспечения финансовой устойчивости коммерческих
+банков. // Роль банковской системы в формировании благоприятной деловой среды в
+Республике Узбекистан. Материалы республиканской научно-практической конференции. -
+Ташкент, 2015. - 155 с.; Юлдашев О.А. Совершенствование практики регулирования деятельности
+коммерческих банков Центрального банка Узбекистана. И.ф.н. илм. дар. ол. уч. тақд. эт. дисс.
+автореф. - Ташкент, 2011. - 18 с.; Саттаров О.Б. Совершенствование обеспечения ликвидности
+коммерческих банков. И.ф.н. илм. дар. ол. уч. дисс. автореф. - Ташкент, 2008. - 15 с.,
+Совершенствование методологии обеспечения устойчивости банковской системы Республики
+Узбекистан. Подготовка диссертации на соискание ученой степени доктора экономических наук.
+- Т., 2018.-42 с.; Бердияров Б.Т. Вопросы обеспечения ликвидности и платежеспособности
+коммерческих банков Республики Узбекистан. И.ф.д. илм. дар. ол.уч. тақд. эт. дисс. автореф. -
+Ташкент, 2020. - 30 с.; Джумаев Н.Х. Совершенствование методологии регулирования валютных
+отношений в Узбекистане. Автореферат диссертации на соискание ученой степени доктора
+экономических наук. - Ташкент, 2008. Холмахмадов З.А. Возможности обеспечения устойчивости
+деятельности     коммерческих     банков   на    основе   передового    зарубежного    опыта.
+//Международные финансы и учет. - Ташкент, 2017. No 4. - 34 с.; Рузметов Ш.Б. Пути укрепления
+депозитной базы коммерческих банков Узбекистана. И.ф.н. илм. дар. ол. уч. тақд. эт. дисс.
+автореф. - Ташкент, 2009. - 18 с.; Махмудалиева Ё.А. Тижорат банкларининг молиявий
+барқарорлиги ва уни баҳолаш. и.ф.н. илмий даражасини олиш учун тайёрланган диссертация. - Т.,
+2001. - 22 с.; Насриддинов Ф. Международные стандарты оценки финансовой устойчивости
+коммерческих банков. Научный электронный журнал "Экономика и инновационные технологии."
+No 4, июль-август 2018 г.; Умарова З.С. Направления совершенствования регулирования
+кредитной эмиссии коммерческих банков. И.ф.н. илм. дар. ол. уч. тақд. эт. дисс. автореф. -
+Ташкент, 2011. -16 с. Бозоров Р.Х. Совершенствование обеспечения финансовой устойчивости
+коммерческих банков. Автореферат диссертации доктора философии (PhD) по экономическим
+наукам - Ташкент, 2020. С. 9-10.
+                                                                                          35
+объект научного исследования.
+    Связь диссертационного исследования с планами научно-
+исследовательских работ высшего образовательного учреждения,
+где выполнена диссертация. Данное диссертационное исследование
+выполнено в соответствии с планом научно-исследовательских
+работ Ташкентского государственного экономического университета
+в рамках научного проекта.
+    Цель исследования Разработка предложений и рекомендаций по
+обеспечению рентабельности коммерческих банков Узбекистана.
+    Задачи исследования:
+    исследование научно-теоретических взглядов на повышение
+рентабельности коммерческих банков и оценка их практической
+значимости;
+    изучение передового зарубежного опыта по обеспечению
+рентабельности    банков   и   обоснование     возможности     его
+использования в практике Узбекистана;
+    Анализ рентабельности банков Узбекистана и выявление
+тенденций;
+    выявление актуальных проблем, связанных с обеспечением
+рентабельности коммерческих банков;
+    разработка предложений и рекомендаций, направленных на
+обеспечение рентабельности коммерческих банков.
+    Объектом    исследования   являются     коммерческие    банки
+Узбекистана,   в    частности,  АК     “Асакабанк,”   “Туронбанк,”
+“Узпромстройбанк” и “Микрокредитбанк.”
+    Предметом исследования являются экономические отношения,
+возникающие      в    процессе    обеспечения      рентабельности
+коммерческих банков.
+    Методы исследования. При выполнении диссертационного
+исследования    использовались   методы     системного    анализа,
+обобщения, абстрактно-логического мышления, статистические
+методы.
+    Научная новизна исследования содержит:
+    предлагается обеспечить оптимальный уровень чистой прибыли
+по отношению к сумме банковских активов, подверженных риску,
+путем определения “целевой стоимости,” выбранной на основе
+сравнения бизнес-модели коммерческих банков, риска-апатита и
+требований достаточности капитала с требованиями регулятора,
+ожиданиями инвесторов и рыночной рентабельностью;
+    предлагается повысить уровень доходности кредитов за счет
+снижения их себестоимости на основе инноваций, связанных с
+применением систем раннего предупреждения;
+    обосновано повышение уровня чистой процентной маржи в
+коммерческих банках путем достижения устойчивого уровня
+
+36
+процентных расходов по отношению к процентным доходам и
+обеспечения пропорциональности между темпами роста чистого
+процентного дохода и темпами роста валовых активов;
+    обосновано повышение уровня рентабельности капитала за счет
+увеличения    размера     капитала   первого   уровня    за   счет
+дополнительной эмиссии акций коммерческих банков, прямых
+капиталовложений от стратегических инвесторов, конвертации
+некоторых долговых обязательств в капитал.
+    Практические результаты исследования состоят из:
+    дана оценка практической значимости научно-теоретических
+взглядов на обеспечение рентабельности коммерческих банков;
+    обоснованы возможности достижения нормативного уровня
+показателя чистой процентной маржи в коммерческих банках
+(обеспечение высокого и стабильного уровня доли процентных
+доходов в объеме валового дохода, во-вторых, обеспечение
+нормативного уровня пропорциональности между основными
+показателями, влияющими на уровень чистой процентной маржи
+(чистый процентный спред, резерв на возможные потери по
+кредитам, коэффициент затрат/доходов, темпы роста процентных
+доходов и темпы роста процентных расходов);
+    обоснована      необходимость    достижения     формирования
+устойчивого соотношения процентных доходов к процентным
+расходам для повышения уровня валовой прибыли коммерческих
+банков    по   отношению     к  валовым    активам,   обеспечения
+нормативного     уровня    коэффициента    затрат/доходов   (0,45),
+увеличения размера процентных доходов от инвестиций в ценные
+бумаги и их доли в объеме процентных доходов;
+    дана оценка уровней влияния факторов, влияющих на
+рентабельность активов коммерческих банков.
+    Достоверность      результатов   исследования     объясняется
+официальностью нормативно-правовых документов, использованной
+литературы и интернет-данных в работе, сравнительным и
+критическим       изучением     научно-теоретических     подходов
+экономистов к теме, результатами изучения и обобщения опыта
+развитых стран, а также практическими данными коммерческих
+банков, полученными из финансовой отчетности, внедрением
+предложений и рекомендаций в банковскую практику Узбекистана.
+    Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования определяется тем,
+что они могут быть использованы в качестве источника для
+дальнейших научных исследований, направленных на обеспечение
+конкурентоспособности коммерческих банков.
+    Практическая      значимость     результатов     исследования
+определяется тем, что они могут быть использованы в деятельности
+
+                                                                 37
+коммерческих банков республики, при разработке комплекса мер,
+направленных на повышение рентабельности их активов.
+    Внедрение результатов исследования. На основе разработанных
+предложений и рекомендаций по обеспечению рентабельности
+коммерческих банков Узбекистана:
+    Предложение по обеспечению оптимального уровня чистой
+прибыли по отношению к сумме банковских активов, подверженных
+риску, путем определения “целевой стоимости,” выбранной на основе
+сравнения бизнес-модели коммерческих банков, требований риска-
+апатита и достаточности капитала с требованиями регулятора,
+ожиданиями инвесторов и рыночной рентабельностью, внедрено в
+практику АК “Микрокредитбанк” (справка АК “Микрокредитбанк” No
+03-12/3510 от 20 февраля 2025 г.). В результате внедрения данного
+научного предложения рентабельность валовых активов в
+Микрокредитбанке в 2023 году увеличилась на 0,09 процентных
+пункта по сравнению с 2022 годом;
+    предложение по повышению уровня доходности кредитов путем
+снижения их себестоимости на основе инноваций, связанных с
+применением систем раннего предупреждения, внедрено в практику
+АК “Микрокредитбанк” (справка АК “Микрокредитбанк” No 03-12/3510
+от 20 февраля 2025 года). В результате внедрения данного научного
+предложения уровень доходности кредитов в Микрокредитбанке в
+2023 году увеличился на 1,6 процентных пункта по сравнению с 2022
+годом;
+    в коммерческих банках предложение по повышению уровня
+чистой процентной маржи путем достижения стабильного уровня
+процентных расходов по отношению к процентным доходам и
+обеспечения пропорциональности между темпами роста чистого
+процентного дохода и темпами роста валовых активов внедрено в
+практику АК “Микрокредитбанк” (справка АК “Микрокредитбанк” No
+03-12/3510 от 20 февраля 2025 года). В результате внедрения данного
+научного предложения уровень чистой процентной маржи в
+Микрокредитбанке в 2023 году увеличился на 2,3 процентных пункта
+по сравнению с 2022 годом;
+    предложение по повышению уровня рентабельности капитала за
+счет увеличения суммы капитала первого уровня за счет
+дополнительной эмиссии акций коммерческих банков, прямых
+капиталовложений от стратегических инвесторов, конвертации
+некоторых долговых обязательств в капитал внедрено в практику АК
+“Микрокредитбанк” (справка АК “Микрокредитбанк” No 03-12/3510 от
+20 февраля 2025 г.). В результате внедрения данного научного
+предложения      рентабельность      регулятивного    капитала    в
+Микрокредитбанке в 2023 году увеличилась на 0,4 процентных
+пункта по сравнению с 2022 годом.
+
+38
+    Апробация результатов исследования. Результаты данного
+исследования были обсуждены и одобрены на 7 научно-практических
+конференциях, в том числе 3 республиканских и 4 международной.
+    Публикация результатов исследования. По теме диссертации
+опубликовано 13 научных работ, в том числе 3 научных статей в
+национальных изданиях, рекомендованных Высшей аттестационной
+комиссией Республики Узбекистан для публикации основных
+научных результатов докторских диссертаций, 3 научная статья в
+зарубежных журналах.
+    Структура и объем диссертации. Диссертация состоит из
+введения, трёх глав, заключения и списка использованных
+литературы, и её общий объём составляет 124 страниц.
+
+                       СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+
+    Во введении обоснованы актуальность и востребованность темы
+диссертации, сформулированы цель и задачи, объект и предмет
+исследования, показано соответствие исследования приоритетным
+направлениям развития науки и технологий республики, изложены
+научная новизна и практические результаты исследования, раскрыта
+научная и практическая значимость полученных результатов,
+приведены сведения о внедрении в практику результатов
+исследования, опубликованных работах и структуре диссертации.
+    В первой главе диссертации под названием “Научно-
+теоретические и правовые основы обеспечения рентабельности
+коммерческих банков и зарубежный опыт” учеными-экономистами
+на научной основе изучен вопрос повышения уровня рентабельности
+коммерческих банков, а также подробно освещены нормативно-
+правовые основы обеспечения рентабельности коммерческих
+банков и опыт зарубежных стран по обеспечению рентабельности
+коммерческих банков.
+     Исследование научно-теоретических взглядов на повышение
+рентабельности коммерческих банков показало:
+    Американский ученый-экономист Дж.Синки в своих научных
+исследованиях утверждает: “Показатель чистой процентной маржи
+играет важную роль в оценке доходной базы коммерческих банков.
+Чистая процентная маржа обратно пропорциональна размеру
+банковских активов, и высокий уровень конкуренции на рынке
+                                                5
+кредитов и депозитов сильно влияет на ее уровень .”
+    В своих научных рассуждениях Ж.Синки подразумевает
+возможность повышения процентной ставки по срочным депозитам
+за счет чистой процентной маржи. Действительно, чистая
+процентная маржа показывает взаимосвязь между процентными
+5
+ Синки Дж. Финансовый менеджмент в коммерческом банке и в индустрии финансовых услуг.
+Пер. с англ. – М.: Альпина Паблишер, 2017. – С.338.
+                                                                                  39
+доходами, полученными коммерческим банком по кредитам, и
+процентными расходами, выплаченными по срочным депозитам.
+    По мнению А.Криклий и Н.Маслака, “факторы, влияющие на
+рентабельность коммерческих банков, делятся на внутренние и
+внешние факторы, а эти факторы, в свою очередь, делятся на
+интенсивные и экстенсивные, рыночные и административные
+        6
+методы. ”
+    При этом, А.Криклий и Н.Маслак к экстенсивным факторам,
+влияющим на рентабельность коммерческих банков, относят
+изменение ресурсной базы банка, количество филиалов и
+сотрудников, продолжительность рабочего времени и скорость
+оборота ресурсов.
+    По мнению М.М.Рижих, внешними факторами, влияющими на
+рентабельность коммерческих банков, являются:
+    - политические факторы (несогласованность банковского
+законодательства, стабильность политической власти)
+    - экономические факторы, характеризующие достигнутые
+результаты и направления экономического развития;
+    - социальные факторы, оказывающие большое влияние на
+изменения образа жизни народа;
+    -    технологические   факторы,      определяющие     уровень
+экономического развития в стране (безопасность проведения
+банковских операций, внедрение новых банковских продуктов);
+    - временные факторы, определяющие скорость развития и
+стимулирования экономики (скорость реагирования правительства
+на изменения в мировой экономике, своевременное осуществление
+мер экономического стимулирования, зависимость регионов от
+скорости принятия решений центральной властью);
+    -   глобальные    факторы,   характеризующие     зависимость
+экономического роста региона от развития экономики развитых
+      7
+стран .
+    По мнению Б.Бердиярова, “необходимо обеспечить стабильный
+уровень рентабельности активов путем обеспечения устойчивости
+удельного веса регулятивного капитала коммерческих банков в
+объеме пассивов, обеспечения пропорциональности между темпами
+                                                              8
+роста чистой прибыли и темпами роста совокупных активов.” По
+заключению А.Абдуллаева, “доходы от активов в коммерческих
+банках нашей республики на 0,91 и 0,93 процентных пункта ниже
+нормы, а полученная прибыль на 0,81 и 0,96 процентных пункта ниже
+
+6
+  Кpиклий О. А., Маслак Н. Г. Упpавлiння пpибутком банку. Суми: ДВНЗ «УАБС НБУ», 2008. - 136 с.
+7
+   Pижих М. М. “Оцінка якісних макроекономічних факторів та їхній вплив на прибутковість
+комерційного банку”. // Нацiональна бiблiотека Укpаїни iм. В. I. Веpнадського..
+8
+   Бердияров Б.Т. Вопросы обеспечения ликвидности и платежеспособности коммерческих
+банков Республики Узбекистан. И.ф.д. илм. дар. ол.уч. тақд. эт. дисс. автореф. - Ташкент, 2020. - С.
+30.
+40
+нормы, что объясняется неблагоприятным размещением ресурсов
+                                                   9
+коммерческих банков в приносящие доход активы.” По мнению
+Ф.Холмаматова, “необходимо увеличить долю процентных доходов
+по кредитам в валовом доходе коммерческих банков путем
+предотвращения повышения нормативного уровня резервных
+отчислений, предназначенных для покрытия убытков по кредитам в
+коммерческих банках, и обеспечения стабильного уровня чистой
+                   10
+процентной маржи.”
+    Согласно Закону “О Центральном банке Республики Узбекистан,”
+“во-первых, обеспечение стабильности банковской системы страны
+является одной из основных целей деятельности Центрального
+банка; во-вторых, Центральный банк применяет требование
+обязательных резервов к коммерческим банкам, и эти обязательные
+резервы удерживаются путем депонирования средств банков на
+специальных счетах в Центральном банке и (или) поддержания
+усредненного размера обязательных резервов, рассчитанного исходя
+из величины коэффициента усреднения обязательных резервов на
+корреспондентском счете, открытом в Центральном банке; в-третьих,
+в целях обеспечения непрерывности платежей при возникновении
+временного дефицита ликвидности в коммерческих банках
+Центральный банк вправе оказывать оперативную помощь
+коммерческим банкам в виде краткосрочных кредитов на срок до
+трех месяцев для поддержания ликвидности, при этом процентная
+ставка по данным кредитам не должна быть ниже действующих
+ставок по другим кредитам Центрального банка и должна быть
+                          11
+обеспечена активами банка;
+    В “Стратегии реформирования банковской системы Республики
+Узбекистан на 2020-2025 годы” поставлены следующие задачи по
+укреплению доходной базы коммерческих банков республики:
+“создание равных конкурентных условий на финансовом рынке,
+осуществление кредитования только на рыночных условиях,
+снижение зависимости банков от государственных ресурсов,
+модернизация банковского обслуживания, повышение качества
+кредитного портфеля и управления рисками, соблюдение умеренного
+роста объемов кредитования, совершенствование корпоративного
+управления и привлечение менеджеров с международным
+практическим опытом, внедрение технологических решений для
+
+
+9
+    Абдуллаев А.Я. Совершенствование методологии повышения уровня ликвидности
+коммерческих банков. Автореф. дисс. д.и.н. - Ташкент, 2018. - С. 21.
+10
+   Холмаматов Ф.К. Совершенствование практики кредитования коммерческих банков. Автореф.
+дисс. д.и.н. - Ташкент, 2019. - С. 25.
+11
+   Постановление Правления Центрального банка Республики Узбекистан от 27 ноября 2021 года
+No 3337. Об утверждении Положения о требованиях к учетной политике и финансовой отчетности
+коммерческих банков//Национальная база данных законодательства, 27.11.2021 г., No
+10/21/3337/1103.
+                                                                                       41
+                                    12
+оценки финансовых рисков”
+    В соответствии с Положением “О требованиях к учетной
+политике и     финансовой отчетности    коммерческих    банков”
+утвержденным постановлением Правления Центрального банка
+Республики Узбекистан от 27 ноября 2021 года No 3337, доходная
+база коммерческих банков формируется за счет двух независимых
+источников:
+    - процентные доходы;
+                           13
+    - беспроцентные доходы.
+    Изучение и обобщение передового зарубежного опыта имеет
+важное практическое значение при оценке рентабельности активов
+коммерческих     банков.  В   мировой    банковской    практике
+методологический подход, основанный на рейтинговой системе
+“CAMELS” играет важную роль в оценке доходности активов
+коммерческих банков и широко используется для определения
+финансовой устойчивости банковской деятельности.
+                                                     Таблица 1
+ Рейтинг коммерческих банков по доходам в рейтинговой системе
+                                    14
+                           “CAMELS”
+        Рейтинг                                   Основные критерии
+                          Доходы стабильны и достаточны для осуществления
+                          операций,  обеспечения    достаточности   капитала    и
+       1-сильный          формирования резервов, с учетом качества активов, роста
+                          и других факторов, влияющих на качество, количество и
+                          динамику доходов.
+                     Доходы считаются удовлетворительными. Их достаточно
+                     для осуществления операций, обеспечения достаточности
+ 2-удовлетворительно капитала и формирования резервов. Однако существует
+                     вероятность снижения доходов банка под влиянием
+                     указанных факторов.
+                     Доходы должны улучшаться, и их недостаточно для
+                     осуществления операций, обеспечения достаточности
+      3-е среднее    капитала и формирования резервов, с учетом качества
+                     активов, роста и других факторов, влияющих на качество,
+                     количество и динамику доходов.
+
+
+
+
+12
+   Закон Республики Узбекистан. О Центральном банке Республики Узбекистан//Национальная
+база данных законодательства, 12.11.2019 г., No 03/19/582/4014.
+13
+   Указ Президента Республики Узбекистан от 12 мая 2020 года No УП-5992 "О Стратегии
+реформирования банковской системы Республики Узбекистан на 2020-2025
+годы"//КХМБ:06/205992/0581. 13.05.2020 г.
+14
+   Надзор и регулирование. Рейтинговая система CAMELS. https://www.federalreserve.gov.
+42
+                        Доходы недостаточны, они не могут в должной мере
+                        обеспечить    осуществление    операций,  обеспечение
+                        достаточности капитала и формирование резервов. Для
+                        коммерческих банков, получивших данный уровень
+        Граница 4       рейтинга, характерны неустойчивые колебания прибыли и
+                        чистой    процентной  маржи,    наличие  значительных
+                        негативных    тенденций,   снижение   номинальных   и
+                        неустойчивых доходов, периодических убытков и доходов
+                        по сравнению с предыдущими годами.
+         5-         Доходов недостаточно. Из-за значительных убытков
+ неудовлетворительн коммерческого банка происходит потеря капитала, что
+         о          ставит под угрозу его финансовую устойчивость.
+    Критерии рейтинга, представленные в таблице, служат одним из
+важных показателей, используемых при оценке уровня доходности
+коммерческих банков. Данная рейтинговая система позволяет
+комплексно оценить объем, качество, динамику доходов банка и их
+влияние на достаточность капитала и формирование резервов.
+Высокие уровни рейтинга - это банки в категориях “1-сильный” и “2-
+удовлетворительный.”
+    Самый низкий уровень рейтинга - “5-неудовлетворительный”
+означает, что финансовое положение коммерческого банка
+находится под серьезным риском. В таких банках деятельность
+заканчивается убытками, происходят потери капитала, что
+значительно снижает их ликвидность и надежность. В результате
+финансовая стабильность банка нарушается, снижается доверие
+клиентов и усиливаются системные риски.
+                                                        Таблица 2
+     Динамика процентных доходов и процентных расходов Bank of
+                                       15
+                         America (США)
+
+                                                                     В 2024 году по
+                                                              2024
+      Показатели      2020 г.   2021 г.   2022 г.   2023 г.           сравнению с
+                                                               г.
+                                                                       2020 годом
+
+      Процентные
+     доходы, млрд.      51        47        72       130      146         2,8
+     долларов США
+
+      Процентные
+     расходы, млрд.      8         5        20        73       90         11,3
+     долларов США
+
+
+   Из таблицы 2 видно, что, процентный доход банка Bank of
+America имел тенденцию к росту в 2022-2024 годах. Кроме того,
+
+15
+  Таблица составлена автором на основе данных опубликованных отчетов банка “Bank of
+America” по итогам 2020-2024 финансовых годов (Concolidated Statement of income).
+                                                                                 43
+можно наблюдать, что размер процентного дохода Bank of America в
+2024 году увеличился на высоком уровне по сравнению с 2020 годом.
+Данная ситуация оценивается как положительный фактор с точки
+зрения укрепления доходной базы банка и обеспечения его
+финансовой устойчивости.
+    Из данных таблицы 2 видно, что размер процентных расходов
+банка Bank of America имел тенденцию к росту в 2022-2024 годах.
+Кроме того, процентные расходы Bank of America увеличились более
+высокими темпами в 2024 году по сравнению с 2020 годом.
+    Ниже мы оцениваем рентабельность Bank of America, одного из
+крупнейших транснациональных банков США.
+    Из данных таблицы 3 видно, что Объем кредитов, выданных в
+Bank of America, имел тенденцию к росту в 2020-2024 годах. Более
+того, объем кредитов в 2024 году значительно увеличился по
+сравнению с 2020 годом.
+                                                       Таблица 3
+     Размер и доходность кредитов в американском банке “Bank of
+                                     16
+                            America”
+             Показатели            2020 г.    2021 г.    2022 г.     2023 г.     2024 г.
+
+     Кредиты, млрд. долларов
+                                    909         966       1033        1040         1082
+              США
+
+       Уровень доходности
+                                     3,7        3,0        3,7         5,5          5,6
+      выданных кредитов, %
+
+
+   Из данных таблицы 3 ясно видно, что уровень доходности
+кредитов, выданных в Bank of America, в 2024 году вырос более
+высокими темпами, чем в 2020 году, то есть на 1,9 процентных пункта.
+Этот рост объясняется тем, что темпы роста процентных доходов по
+                                                               17
+выданным кредитам превышают темпы роста валовых кредитов.
+
+
+
+
+16
+   Рисунок составлен автором на основе данных опубликованных отчетов банка “Bank of America”
+по итогам 2020-2024 финансовых годов (Consolidated Balance Sheet, Consolidated Statement of
+Income)
+17
+    Таблица составлена автором на основе данных опубликованных отчетов банка “Bank of
+America” по итогам 2020-2024 финансовых годов (Concolidated Statement of income).
+44
+60                                                              56               56
+                                              52
+50
+           43                42
+40
+                                   31
+30                                                  27                26               27
+
+20               17
+
+10
+
+
+ 0
+           2020 г.           2021 г.          2022 г.           2023 г.          2024 г.
+
+          Чистый процентный доход                      Чистая прибыль
+
+ Рис. 1. Чистая процентная прибыль и чистая прибыль банка Bank of
+                                                      18
+           America (США) прибыль, млрд. долларов США
+
+    Из данных рисунка 1 видно, что сумма чистого процентного
+дохода Банка Америки имела тенденцию к росту в 2020-2024 годах.
+Это объясняется тем, что темпы роста процентных доходов банка в
+данный период были выше темпов роста процентных расходов.
+Также размер чистого процентного дохода банка значительно
+увеличился в 2024 году по сравнению с 2020 годом.
+    Из данных рисунка 1 видно, что чистая прибыль банка Bank of
+America в 2021-2023 годах имела тенденцию к снижению, однако в
+2024 году она значительно увеличилась по сравнению с 2020 годом.
+
+
+
+
+18
+     Банковское дело. Учебник. Под ред. Проф. О.И. Лаврушина. – М.: КНОРУС, 2016. ¬- С. 243-244.
+                                                                                                   45
+       14
+
+       12                             11.5
+                                                      9.9
+       10                                                              9.1             9.2
+
+        8
+                      6.3
+        6
+
+        4
+
+        2                       0.9             0.9
+                0.6                                              0.8             0.8
+        0
+               2020г.          2021 г.          2022 г.         2023 г.         2024 г.
+
+                Рентабельность активов                Рентабельность капитала
+
+            Рис. 2. Рентабельность валовых активов и капитала в Банке
+                                                 19
+                            Америки, в процентах
+    Рисунок 2 ясно показывает, что рентабельность валовых активов
+в Bank of America значительно увеличилась в 2024 году по сравнению
+с 2020 годом.
+    Из рисунка 2 видно, что рентабельность регулятивного капитала
+в Bank of America имела тенденцию к снижению в 2021-2023 годах,
+Однако в 2024 году он значительно увеличился по сравнению с 2020
+годом.
+    Во второй главе диссертации под названием “Современное
+состояние рентабельности коммерческих банков в Республике
+Узбекистан” Показатели, характеризующие рентабельность банков и
+их   сравнительная      характеристика,     фактическое   состояние
+рентабельности коммерческих банков и факторы, влияющие на
+уровень рентабельности коммерческих банков.
+    Показатели, характеризующие рентабельность банков и их
+сравнительная характеристика, учеными-экономистами предложен
+ряд показателей, характеризующих доходную базу коммерческих
+банков.
+     В методике Международного банка реконструкции и развития,
+входящего в группу Всемирного банка, отражены следующие
+показатели, характеризующие рентабельность коммерческих банков:
+    1. Показатель чистого процентного спреда.
+    Экспертами предложена следующая методика расчета данного
+показателя:
+                  (KOFD: KOʻS) x 100% - (DTF: FTD) x 100%
+    Здесь:
+
+19
+     Банковское дело. Учебник. Под ред. Проф. О.И. Лаврушина. – М.: КНОРУС, 2016. – С. 243-244.
+46
+    КОФД - процентные доходы по кредитам;
+    ССК - среднее сальдо кредитов;
+    ДТФ - проценты, выплаченные по депозитам;
+    FTD - депозиты с выплатой процентов.
+    Нормальный уровень данного показателя: 1,25%.
+    2. Отношение процентных доходов к среднему остатку доходных
+активов.По      нормативным      уровням      данного     показателя
+коммерческие банки рекомендуется разделить на следующие
+классы:первый класс - 4,6%;второй класс - 4,0%;третий класс -
+3,7%;четвертый класс - 3,4%;пятый класс - 3,2%.
+    3. Отношение беспроцентного дохода к процентной марже.
+    По нормативным уровням этого показателя коммерческие банки
+рекомендуется разделить на следующие классы: первый класс - 48%;
+второй класс - 52%;
+    третий класс - 57%;четвертый класс - 61%;пятый класс - 64%.
+      Анализ      рекомендаций,      выдвинутых       специалистами
+Международного банка реконструкции и развития, входящего в
+группу Всемирного банка, показывает, что в процессе формирования
+доходной базы коммерческих банков и обеспечения ее стабильности
+важное значение имеют процентные доходы, в частности,
+процентные доходы от кредитных операций. Анализ вышеуказанных
+шкал показывает, что увеличение доли процентных доходов по
+отношению к активам отражает положительную динамику
+деятельности банка. В то же время увеличение беспроцентных
+доходов по отношению к процентной марже рассматривается как
+негативная ситуация с точки зрения финансовых результатов.
+      По нашему мнению, данный подход, используемый при оценке
+процентных и беспроцентных доходов, важен для обеспечения
+стабильности доходной базы коммерческих банков. Эта ситуация, в
+свою очередь, получает основную часть процентных доходов от
+основного вида деятельности коммерческих банков.Существует два
+основных вида деятельности для банков: предоставление кредитов и
+инвестирование в ценные бумаги.
+      Важными      показателями,    используемыми      при    оценке
+рентабельности коммерческих банков, являются рентабельность
+активов и рентабельность капитала.
+      Показатель рентабельности активов отражает чистую прибыль
+коммерческого банка
+определяется путем деления на общий (брутто) объем активов, при
+этом полученный результат умножается на 100%.
+    Точная нормативная стоимость показателя рентабельности
+активов не установлена. Поэтому в процессе оценки данного
+показателя целесообразно использовать метод сравнительного
+анализа финансового анализа.
+
+                                                                  47
+     Показатель рентабельности капитала определяется путем
+деления чистой прибыли коммерческого банка на объем его
+регулятивного   капитала,   при   этом   полученный    результат
+определяется путем умножения на 100%.
+     В отличие от показателя рентабельности активов, для
+рентабельности капитала установлена определенная нормативная
+величина, рекомендуемый уровень которой составляет 15 процентов.
+    Стабильность доходной базы коммерческих банков в основном
+напрямую зависит от величины их расходов и динамики изменения
+этих расходов. В связи с этим рассмотрим показатели,
+характеризующие       уровень      расходов,     осуществляемых
+коммерческими банками.
+    В данном параграфе мы проанализируем рентабельность
+коммерческих банков нашей республики на примере акционерно-
+коммерческих       банков      -     Туронбанка,     Асакабанка,
+Саноаткурилишбанка и Микрокредитбанка, которые являются
+объектом исследования.
+                                                       Таблица 4
+                                                         20
+           Структура доходов АКБ “Туронбанк” в процентах
+
+              Показатели                2020 г.   2021 г.    2022 г.    2023 г.      2024 г.
+
+         Процентные доходы               84,2       83,3       75,8       76,4        78,2
+
+        Беспроцентные доходы             15,8       16,7       24,2       23,6        21,8
+
+            Доходы - всего               100,0     100,0      100,0      100,0       100,0
+
+    Из данных, представленных в таблице 4, видно, что в 2020-2024
+годах процентные доходы занимали относительно высокий
+удельный вес в общем объеме доходов Туронбанка; удельный вес
+процентных доходов в объеме валового дохода в 2024 году
+значительно снизился по сравнению с 2020 годом. Это объясняется
+тем, что доля беспроцентных доходов в валовом доходе значительно
+увеличилась за этот период.
+      Процентные доходы получают от основного вида деятельности
+коммерческих банков. Поэтому высокая доля беспроцентных
+доходов    в   общем объеме      доходов   коммерческого    банка
+свидетельствует об ослаблении позиции банка на финансовых
+рынках. Поэтому значительное увеличение доли беспроцентных
+доходов в общем объеме доходов Туронбанка в 2024 году по
+сравнению с 2020 годом является негативной ситуацией с точки
+зрения обеспечения рентабельности банка.
+      Также, тот факт, что доля процентных доходов в совокупных
+доходах Туронбанка имела тенденцию к снижению в 2020-2022 годах,
+20
+     Таблица составлена автором на основе данных финансовой отчетности Туронбанка.
+48
+является негативной ситуацией с точки зрения обеспечения
+рентабельности банка.
+     В структуре процентных доходов “Туронбанка” процентные
+доходы по кредитам занимают относительно высокий удельный вес.
+     Это объясняется высоким удельным весом кредитов в объеме
+валовых активов.
+    Как видно из данных, представленных в таблице 5, доля
+процентных доходов, полученных по кредитам в Туронбанке в 2020-
+2024 годах, в общем объеме процентных доходов была значительно
+выше. Более того, этот показатель значительно увеличился в 2024
+году по сравнению с 2020 годом.
+
+                                                           Таблица 5
+             Уровень процентных доходов и кредитов, полученных по
+                                                        21
+                  кредитам в АК “Туронбанк” в процентах
+             Показатели                2020 г.   2021 г.    2022 г.    2023 г.   2024 г.
+     Доля процентных доходов по
+      кредитам в общем объеме            74,8      76,8      80,8       92,3         92,1
+        процентных доходов
+      Удельный вес кредитов в
+                                         76,5      73,8      73,2       74,6         71,4
+      объеме валовых активов
+
+
+    Из данных, представленных в таблице 5, видно, что удельный вес
+кредитов в объеме валовых активов в Туронбанке был значительно
+выше в 2020-2024 годах, однако в 2024 году он значительно снизился
+по сравнению с 2020 годом. Это снижение объясняется увеличением
+доли инвестиций в ценные бумаги в объеме валовых активов за этот
+период.
+
+
+
+
+21
+     Таблица составлена автором на основе данных финансовой отчетности Туронбанка.
+                                                                                            49
+      5
+                                                                                                   4.5
+     4.5
+
+      4
+
+     3.5                                                  3.1
+      3                   2.7
+                    2.4               2.5 2.6                   2.6
+                                                                                   2.4
+     2.5                                                                     2.2
+      2                                                                                                  1.8
+     1.5                                           1.1
+                                0.8                                    0.8                  0.9
+      1
+
+     0.5      0.3
+      0
+               2020 г.           2021 г.                2022 г.         2023 г.              2024 г.
+
+
+                      Туронбанк                                  Узпромстройбанк
+
+   Рис. 3. Уровень резервных отчислений на покрытие убытков по
+    кредитам в Туронбанке, Узпромстройбанке и Асакабанке по
+                                                     22
+             отношению к брутто-активам, в процентах
+     Как видно из рисунка 3, уровень суммы резервных отчислений,
+предназначенных для покрытия убытков по кредитам в Туронбанке,
+по отношению к валовым активам в 2020-2022 годах имел
+тенденцию к росту. Более того, этот показатель в 2024 году вырос
+более высокими темпами, чем в 2020 году.
+     Как видно из рисунка 2.1, уровень суммы резервных отчислений,
+предназначенных      для   покрытия    убытков   по   кредитам   в
+Узпромстройбанке, по отношению к валовым активам в 2020-2022
+годах имел тенденцию к росту. Более того, этот показатель в 2024
+году вырос более высокими темпами, чем в 2020 году.
+    Как видно из рисунка 2.1, уровень суммы резервных отчислений,
+предназначенных для покрытия убытков по кредитам в Асакабанке,
+по отношению к валовым активам в 2022-2024 годах имел
+тенденцию к снижению. Более того, этот показатель значительно
+снизился в 2024 году по сравнению с 2020 годом.
+                                                         Таблица 6
+                                                           23
+            Структура доходов АК “Микрокредит” в процентах
+                Показатели                      2020 г.    2021 г.      2022 г.          2023 г.     2024 г.
+            Процентные доходы                    91,0           91,3     90,9             89,4           90,2
+
+           Беспроцентные доходы                   9,0           8,7       9,1             10,6            9,8
+
+22
+   Рисунок составлен автором на основе данных финансовой отчетности Туронбанка,
+Саноаткурилишбанка и Асакабанка.
+23
+   Таблица составлена автором на основе данных финансовой отчетности Микрокредитбанка.
+50
+            Доходы - всего              100,0     100,0     100,0      100,0     100,0
+
+    Из данных, представленных в таблице 6, видно, что в 2020-2024
+годах процентные доходы занимали относительно высокий
+удельный вес в общем объеме доходов по микрокредитам; удельный
+вес процентных доходов в объеме валового дохода в 2024 году
+незначительно снизился по сравнению с 2020 годом. Это
+объясняется незначительным увеличением доли беспроцентных
+доходов в валовом доходе за этот период.
+    Из данных таблицы 6 видно, что доля беспроцентных доходов в
+общем объеме доходов Микрокредитбанка имела тенденцию к
+увеличению в 2021-2023 годах.Кроме того, этот показатель
+значительно увеличился в 2024 году по сравнению с 2020 годом.
+                                                        Таблица 7
+      Уровень процентных доходов по кредитам и кредитам в АК
+                                             24
+                  “Микрокредит” в процентах
+              Показатели               2020 г.    2021 г.   2022 г.    2023 г.    2024 г.
+
+     Доля процентных доходов по
+      кредитам в общем объеме            69,3      65,7       67,8       87,3       89,4
+        процентных доходов
+       Удельный вес кредитов в
+                                         82,4      80,7       80,8       80,4       76,5
+       объеме валовых активов
+
+    Как видно из таблицы 7, доля процентных доходов, полученных
+по кредитам в Микрокредитбанке в 2020-2024 годах, в общем объеме
+процентных доходов была относительно высокой. Это объясняется
+высоким удельным весом кредитов в объеме валовых активов за
+этот период.
+     Из таблицы 7 видно, что удельный вес кредитов в объеме
+валовых активов по микрокредитам был значительно выше в 2020-
+2024 годах, однако в 2024 году он значительно снизился по
+сравнению с 2020 годом.
+
+
+
+
+24
+     Таблица составлена автором на основе данных финансовой отчетности Микрокредитбанка.
+                                                                                           51
+      5
+                                                                                  4.5
+     4.5
+
+      4
+
+     3.5
+                                                3.1
+      3
+                 2.4            2.5
+     2.5                                                        2.2
+      2
+
+     1.5
+                                          1.1
+                          0.8                             0.8             0.9
+      1
+
+     0.5   0.3
+      0
+           2020 г.        2021 г.         2022 г.         2023 г.          2024 г.
+                 Туронбанк                            Узпромстройбанк
+         Рис. 4. Уровень рентабельности активов в Туронбанке и
+                                                 25
+                   Узпромстройбанке, в процентах
+     Как видно из данных рисунка 4, уровень рентабельности
+активов в Туронбанке имел тенденцию к росту в 2020-2022 годах.
+Более того, рентабельность активов банка в 2024 году выросла более
+высокими темпами, чем в 2020 году.
+     Из приведенных данных видно, что в течение анализируемого
+периода    уровень    рентабельности    активов   Туронбанка    был
+значительно ниже.Это объясняется тем, что чистая прибыль имеет
+небольшую величину по сравнению с валовыми активами и является
+негативной ситуацией с точки зрения обеспечения рентабельности
+банка.
+     Как видно из данных рисунка 4, уровень рентабельности
+активов в Узпромстройбанке был относительно высоким в 2020-2024
+годах. Более того, уровень этого показателя в 2024 году значительно
+вырос по сравнению с 2020 годом.
+     Значительное увеличение уровня рентабельности активов в
+Узпромстройбанке в 2024 году по сравнению с 2020 годом
+объясняется тем, что темпы роста чистой прибыли выше темпов
+роста валовых активов, что является положительной ситуацией с
+точки зрения обеспечения рентабельности банка.
+    Деятельность, направленная на повышение рентабельности
+активов коммерческих банков, создает необходимость обеспечения
+баланса между темпами роста чистой прибыли и темпами роста
+валовых активов.
+    Одним из важных показателей, показывающих уровень доходов
+25
+  Рисунок составлен автором на основе данных финансовой отчетности Туронбанка и
+Узпромстройбанка
+52
+коммерческих банков, является показатель чистой процентной
+маржи.
+
+     4.5
+                                                     4.1               4.0
+      4                                        3.8                                       3.8
+                                   3.6
+     3.5         3.3         3.2
+           3.1
+      3                                                          2.8
+     2.5
+                       2.1                                 2.2                     2.2
+                                                                             1.9
+      2
+                                         1.6                                                   1.6
+     1.5
+
+      1
+
+     0.5
+
+      0
+             2020 г.          2021 г.           2022 г.           2023 г.           2024 г.
+                 Туронбанк                             Узпромстройбанк
+           Рис. 5. Уровень чистой процентной маржи в Туронбанке,
+                                                           26
+                Узпромстройбанке и Асакабанке, в процентах
+
+     Из данных рисунка 5 ясно видно, что уровень чистой
+процентной маржи в Туронбанке имел тенденцию к повышению в
+2020-2022 годах и тенденцию к снижению в 2022-2024 годах. Это
+является негативной ситуацией с точки зрения совершенствования
+управления доходами коммерческого банка и обеспечения его
+рентабельности.
+     Из данных рисунка 5 ясно видно, что уровень чистой
+процентной маржи в Узпромстройбанке имел тенденцию к
+повышению в 2020-2022 годах и тенденцию к снижению в 2022-2024
+годах. Это является негативной ситуацией с точки зрения
+совершенствования управления доходами коммерческого банка и
+обеспечения его рентабельности.
+     Как видно из данных рисунка 5, уровень чистой процентной
+маржи в Асакабанке в 2020-2024 годах был намного ниже. Более того,
+чистая процентная маржа значительно снизилась в 2024 году по
+сравнению с 2020 годом.
+    Из данных рисунка 5 видно, что в 2020-2024 годах “Туронбанк,”
+“Саноаткурилишбанк” и “Асакабанк” не обеспечили нормативный
+уровень чистой прибыли. Это является негативной ситуацией с точки
+зрения обеспечения рентабельности этих банков.
+
+
+26
+  Рисунок составлен автором на основе данных финансовой отчетности Туронбанка и
+Асакабанка
+                                                                                                     53
+                                                           Таблица 8
+                                                                 27
+             Доходность активов и капитала в Микрокредитбанке, %
+
+                                           2020
+                Показатели                         2021 г.   2022 г.   2023 г.   2024 г.
+                                            г.
+
+     Рентабельность активов                 0,3       0,4      0,1       0,4        3,4
+
+     Рентабельность капитала                2,3       0,2      0,3       1,0       22,5
+
+
+    Из таблицы 8 видно, что рентабельность активов в
+Микрокредитбанке в 2020-2021 годах имела темпы роста, причем в
+2024 году этот показатель увеличился на 3,1 процента по сравнению
+с 2020 годом.
+    Как видно из таблицы 8, рентабельность капитала в
+Микрокредитбанке значительно увеличилась в 2024 году по
+сравнению с 2020 годом. Самый высокий уровень этого показателя
+был в 2024 году.
+    В третьей главе диссертации под названием “Пути обеспечения
+рентабельности коммерческих банков Узбекистана” выявлены
+актуальные проблемы, связанные с обеспечением рентабельности
+коммерческих банков страны, и разработаны научные предложения
+и практические рекомендации, направленные на их решение.
+    В результате научного анализа, проведенного во второй главе
+нашей исследовательской работы, было выявлено, что существуют
+важные вопросы, связанные с обеспечением рентабельности
+коммерческих банков, действующих в нашей республике.
+    Одним из таких важных вопросов является сокращение доли их
+регулятивного капитала по отношению к объему пассивов.
+    Согласно результатам проведенного анализа, в течение 2020-
+2024 годов доля регулятивного капитала в структуре пассивов как в
+Асакабанке, так и в Алокабанке показала тенденцию к снижению.
+Данная ситуация оценивается как негативный фактор с точки зрения
+обеспечения рентабельности банков. В частности, к 2024 году доля
+регулятивного капитала в пассивах значительно снизилась по
+сравнению с 2020 годом.
+    Еще одним важным вопросом, связанным с обеспечением
+рентабельности коммерческих банков нашей страны, является
+необеспечение нормативного уровня чистой прибыли в банках.
+    Согласно данным, представленным на рисунке 6, во-первых, в
+Асакабанке в 2020-2024 годах не был обеспечен нормативный
+уровень чистой прибыли (2,0%); во-вторых, уровень чистой прибыли
+по отношению к сумме активов, подверженных риску, в 2024 году по
+
+27
+     Таблица составлена автором на основе данных финансовой отчетности Микрокредитбанка.
+54
+сравнению со 202 годом значительно снизился. Данная ситуация
+является негативной с точки зрения обеспечения рентабельности
+Асакабанка.
+
+
+     2024
+                       0.1
+      г.
+     2023
+                               0.2
+      г.
+     2022
+                               0.2
+      г.
+     2021
+                                                                                0.9
+      г.
+     2020
+                                                         0.6
+      г.
+            0    0.1         0.2     0.3   0.4   0.5   0.6     0.7   0.8   0.9        1
+
+      Рис. 6. Уровень чистой прибыли в акционерно-коммерческом
+“Асакабанке” по отношению к сумме активов, подвергнутых риску, в
+                                      28
+                            процентах
+    Еще одна проблема, связанная с обеспечением рентабельности в
+банковской системе, заключается в том, что, несмотря на то, что
+транзакционные депозиты занимают большую часть валовых
+депозитов, доля инвестиций в высоколиквидные ценные бумаги в
+высоколиквидных активах недостаточна. Эта ситуация негативно
+влияет на текущий уровень ликвидности банков и оказывает на них
+сильное давление;
+    низкий и нестабильный уровень рентабельности активов.
+    отсутствие баланса между доходностью и рискованностью
+кредитов коммерческих банков;
+    необеспеченность и нестабильность нормативного уровня
+чистой процентной маржи в банках;
+    недостаточное формирование инвестиционных операций банков
+с ценными бумагами.
+    В параграфе 3.1 диссертационного исследования разработаны
+следующие научные предложения и практические рекомендации,
+направленные на обеспечение рентабельности коммерческих банков
+Республики:
+    1. Для обеспечения рентабельности активов путем обеспечения
+оптимального уровня чистой прибыли по отношению к сумме
+активов банка, подверженных риску, во-первых, необходимо
+обеспечить пропорциональность между темпами роста чистой
+
+28
+  Изображение составлено автором на основе данных годовых отчетов Асакабанка,
+опубликованных по итогам 2020-2024 финансовых лет.
+                                                                                          55
+прибыли и темпами роста активов, подверженных риску; во-вторых,
+необходимо повысить точность оценки чувствительности чистой
+прибыли к риску; в-третьих, необходимо достичь оптимального
+порогового уровня годового темпа роста доходов от инвестиций в
+ценные бумаги путем обеспечения стабильной доли процентных
+доходов от инвестиционных операций в валовом доходе
+коммерческих банков.
+    2. Необходимо повысить уровень доходности кредитов путем
+снижения себестоимости кредитов на основе инноваций и
+обеспечения баланса между доходностью кредитов и показателями,
+характеризующими кредитный риск.
+    3. Необходимо повысить уровень чистой процентной маржи в
+коммерческих банках путем достижения стабильного уровня
+процентных расходов по отношению к процентным доходам и
+обеспечения пропорциональности между темпами роста чистого
+процентного дохода и темпами роста валовых активов.
+    4. Необходимо повысить уровень рентабельности капитала за
+счет увеличения капитала первого уровня за счет добавленного
+капитала и нераспределенной прибыли.
+    5. Обеспечение соответствия между темпами роста чистой
+прибыли    и   темпами   роста   совокупных    (брутто) активов
+коммерческих банков
+    6. Увеличение удельного веса инвестиционных операций
+коммерческих банков с ценными бумагами в объеме активных
+операций
+    7. В целях снижения уровня кредитного риска, во-первых,
+оценить уровень риска кредитов, выданных компаниям, имеющим
+рейтинговые оценки международных рейтинговых агентств, по
+стандартизированному подходу.
+
+                            ВЫВОД
+
+    В ходе диссертационного исследования мы сформулировали
+следующие выводы, связанные с повышением рентабельности
+коммерческих банков:
+    1. Исследование научно-теоретических взглядов на повышение
+рентабельности активов коммерческих банков показало, что:
+    показатель чистой процентной маржи играет важную роль в
+оценке доходной базы коммерческих банков, и высокий уровень
+конкуренции на рынке кредитов и депозитов оказывает сильное
+влияние на его уровень;
+    руководство банка склонно идти на риск с целью получения
+максимальной прибыли, что противоречит интересам вкладчиков
+банка;
+    состояние    доходной    базы   коммерческих     банков  в
+56
+развивающихся странах напрямую зависит от уровня кредитного
+риска, и в результате девальвации национальной валюты клиенты,
+получившие кредит в иностранной валюте, не могут вернуть кредит,
+что приводит к повышению уровня кредитного риска;
+    Ожидаемый эффект не всегда представляет собой прибыль от
+собственного капитала. Собственники банков, ориентированные на
+долгосрочный эффект, теряют часть текущей прибыли за счет
+внедрения инноваций в банковскую деятельность;
+    В настоящее время невозможно увеличить норму прибыли на
+капитал за счет снижения достаточности капитала. Жесткая
+конкуренция и высокая стоимость кредитных ресурсов препятствуют
+обеспечению оптимального уровня капитала по отношению к
+активам. Поэтому главным резервом повышения нормы прибыли на
+капитал является повышение уровня доходности активов.
+    2. Система общепризнанных показателей, предложенных МВФ
+для оценки финансовой устойчивости коммерческих банков,
+включает     следующие    пять    показателей,   характеризующих
+рентабельность банков: соотношение регулятивного капитала к
+валовым активам; соотношение нерентабельных кредитов к
+регулятивному капиталу; соотношение чистой прибыли к средней
+сумме регулятивного капитала; соотношение чистой прибыли к
+средней сумме активов; соотношение неработающих кредитов к
+валовым кредитам; соотношение процентных доходов к валовому
+доходу; соотношение доходов от торговли валютой к валовому
+доходу; соотношение непроцентных расходов к валовому доходу;
+доля расходов на персонал в объеме непроцентных расходов.
+    3. В методике, рекомендованной экспертами Международного
+банка реконструкции и развития, при оценке рентабельности
+коммерческих банков основное внимание уделяется уровню
+процентных доходов и процентных доходов по кредитам. При этом
+увеличение уровня процентных доходов по отношению к активам
+оценивается как положительный результат, а увеличение уровня
+непроцентных доходов по отношению к процентной марже - как
+отрицательный результат.
+    4.   Анализ   передового    зарубежного    опыта   повышения
+рентабельности коммерческих банков показал, что:
+    В то время как процентный доход Bank of America имел
+тенденцию к росту в 2022-2024 годах, его процентный доход
+значительно увеличился в 2024 году по сравнению с 2020 годом;
+    В то время как размер процентных расходов банка Bank of
+America имел тенденцию к росту в 2022-2024 годах, размер
+егопроцентных расходов увеличился более высокими темпами в
+2024 году по сравнению с 2020 годом;
+    В то время как объем кредитов, выданных в Bank of America,
+
+                                                              57
+имел тенденцию к росту в 2020-2024 годах, объем выданных
+кредитов значительно увеличился в 2024 году по сравнению с 2020
+годом;
+     Доходность банковских кредитов в Bank of America увеличилась
+в 2024 году более высокими темпами, чем в 2020 году;
+     Существует тенденция роста чистых процентных доходов банка
+Bank of America в 2020-2024 годах, что объясняется тем, что темпы
+роста процентных доходов банка в этот период превышали темпы
+роста процентных расходов;
+     Размер чистой прибыли Bank of America имел тенденцию к
+снижению в 2021-2023 годах. Однако в 2024 году он значительно
+вырос по сравнению с 2020 годом;
+     В Bank of America, при значительном увеличении рентабельности
+валовых активов в 2024 году по сравнению с 2020 годом,
+рентабельность регулятивного капитала имела тенденцию к
+снижению в 2021-2023 годах. Однако в 2024 году он значительно
+увеличился по сравнению с 2020 годом.
+     5. Результаты анализа рентабельности активов коммерческих
+банков республики показали, что:
+     В то время как уровень рентабельности активов Асакабанка в
+2020-2022 годах имел тенденцию к снижению, уровень этого
+показателя в 2024 году значительно снизился по сравнению с 2020
+годом. Данные обстоятельства являются негативными с точки
+зрения обеспечения рентабельности Асакабанка;
+     В то время как уровень рентабельности капитала в Асакабанке в
+2020-2024 годах имел тенденцию к снижению, уровень этого
+показателя в 2024 году значительно снизился по сравнению с 2020
+годом;
+     Удельный вес регулятивного капитала Асакабанка в объеме
+пассивов имел тенденцию к снижению в 2020-2023 годах. Это
+является негативной ситуацией с точки зрения обеспечения
+рентабельности банка. Кроме того, удельный вес регулятивного
+капитала в объеме пассивов в 2024 году значительно снизился по
+сравнению с 2020 годом;
+     Уровень чистой процентной маржи в Асакабанке имел
+тенденцию к снижению в 2022-2024 годах. Кроме того, уровень
+чистой процентной маржи в 2024 году снизился более высокими
+темпами по сравнению с 2020 годом;
+     В    2020-2023     годах   уровень    резервных   отчислений,
+предназначенных для покрытия убытков по кредитам в Асакабанке,
+был выше общепризнанного порогового уровня этого показателя
+(1,0%). Однако уровень этого показателя снизился в 2024 году более
+высокими темпами, чем в 2020 году;
+     Рентабельность активов Микрокредитбанка в 2020-2022 годах
+
+58
+имела темпы роста, а в 2024 году по сравнению с 2020 годом
+увеличилась на 0,1 процента.
+    Рентабельность капитала в Микрокредитбанке значительно
+увеличилась в 2024 году по сравнению с 2020 годом;
+    Размер кредитов и процентных доходов по кредитам Асакабанка
+имел тенденцию к росту в 2020-2024 годах;
+    Уровень доходности кредитов Асакабанка имел тенденцию к
+росту в 2020-2024 годах.
+    6. В условиях, когда в коммерческих банках нашей республики не
+обеспечен нормативный уровень чистой прибыли по отношению к
+сумме активов, подверженных риску, и доля трансакционных
+депозитов в объеме валовых депозитов высока, низкая доля
+инвестиций в высоколиквидные ценные бумаги в объеме
+высоколиквидных       активов   является   актуальной   проблемой,
+связанной с обеспечением рентабельности банков.
+
+
+
+
+                                                                59
+ SCIENTIFIC COUNCIL PhD. PhD.03/30.07.2024.I.78.06 FOR AWARDING
+        SCIENTIFIC DEGREES AT TERMEZ STATE UNIVERSITY
+             TASHKENT STATE ECONOMIC UNIVERSITY
+
+
+
+
+                SHERALIEV ABBOS KHOLMUMINOVICH
+
+
+
+
+     WAYS TO ENSURE THE PROFITABILITY OF COMMERCIAL BANKS
+
+
+
+
+                08.00.07 - Finance, money circulation and credit
+
+
+
+
+                                    ABSTRACT
+          of the dissertation of Doctor of philosophy (PhD) in economics
+
+
+
+
+                                Termez - 2025
+
+
+
+
+60
+     The topic of the dissertation of Doctor of Philosophy (PhD) is registered in the Higher
+Attestation Commission under the number B2022.4.PhD/Iqt2598.
+
+
+     The dissertation has been prepared at the Tashkent State University of Economics.
+     The abstract of the dissertation is posted in three languages (Uzbek, Russian, English
+(resume)) on the website of the Scientific Council (www.tersu.uz) and on the Information and
+Educational Portal “Ziyonet” (www.ziyonet.uz).
+
+
+      Scientific supervisor:                   Alimardonov Ilkhom Muzrabshokhovich
+                                               Doctor of Economic Sciences, Professor
+
+      Official opponents:                      Khatamov Ochildi Kurbanovich
+                                               Doctor of Economic Sciences, Professor
+                                               Ismailov Alisher Agzamovich
+                                               Doctor of Economic Sciences, Professor
+
+      Leading organization:                    Cabinet of Ministers of the Republic of
+                                               Uzbekistan
+
+
+    The dissertation defence will take place on “____”___________2025 at _____ at the meeting of
+the Scientific Council PhD.03/30.07.2024.I.78.06 for awarding scientific degrees at Termez
+State University Address: 190111, Termez city,43 Barkamol Avlod street,. Tel.: (876) 221-74-55,
+Fax: (876) 221-71-17, e-mail: termizdu@mail.uz
+The dissertation can be reviewed at the Information Resource Center of Termez State University
+(registered under No__________). Address: 190111, Termez city, Barkamol Avlod street, 43. Tel.:
+(876) 221-74-55, fax: (876) 221-71-17, e-mail: termizdu@mail.uz
+     The abstract of the dissertation was distributed on “____” _________2025.
+     (Registration Protocol No. _____ dated “____” ________2025).
+
+
+
+
+                                                                         Toshkulov A.Kh.
+                                                     Chairman of the Scientific Council for
+                                                     the Awarding of Academic Degrees,
+                                                     Doctor of Economic Sciences, Professor
+
+                                                                               Tulakov U.T.
+                                                     Secretary of the Scientific Council for
+                                                     the Awarding of Academic Degrees,
+                                                     Doctor of Economic Sciences, Associate
+                                                     Professor
+
+                                                                             Gadoev S.J.
+                                                     Chairman of the Scientific Seminar
+                                                     under the Scientific Council for the
+                                                     Awarding of Academic Degrees,
+                                                     Doctor of Economic Sciences, Associate
+                                                     Professor
+
+
+
+
+                                                                                             61
+     INTRODUCTION (abstract of the dissertation of Doctor of Philosophy
+                                 (PhD))
+
+     Research objective Development of proposals and recommendations
+for ensuring the profitability of commercial banks in Uzbekistan.
+     Tasks of the research:
+     research of scientific and theoretical views on increasing the
+profitability of commercial banks and assessment of their practical
+significance;
+     studying advanced foreign experience in ensuring the profitability of
+banks and justifying the possibility of its use in the practice of Uzbekistan;
+     Analysis of the profitability of banks in Uzbekistan and identification of
+trends;
+     identification of current problems related to ensuring the profitability
+of commercial banks;
+     development of proposals and recommendations aimed at ensuring
+the profitability of commercial banks.
+     The object of the research is commercial banks of Uzbekistan, in
+particular, JSC “Asakabank,” “Turonbank,” “Uzpromstroybank” and
+“Microcreditbank.”
+     The subject of the research is the economic relations arising in the
+process of ensuring the profitability of commercial banks.
+     Research methods. In carrying out the dissertation research, methods
+of system analysis, generalization, abstract-logical thinking, and statistical
+methods were used.
+     Scientific novelty of the research contents:
+     it is proposed to ensure the optimal level of net profit in relation to the
+amount of bank assets exposed to risk by determining the “targeted value”
+selected on the basis of comparing the business model of commercial
+banks, risk-apathetic and capital adequacy requirements with regulatory
+requirements, investor expectations and market profitability;
+     it is proposed to increase the level of return on loans by reducing their
+cost based on innovations related to the application of early warning
+systems;
+     it is justified to increase the level of net interest margin in commercial
+banks by achieving a stable level of interest expenses in relation to interest
+income and ensuring proportionality between the growth rates of net
+interest income and the growth rates of gross assets;
+     it is justified to increase the level of capital profitability by increasing
+the size of first-tier capital through additional issuance of shares of
+commercial banks, direct capital investments from strategic investors,
+conversion of some debt obligations into capital.
+     Practical results of the study consist of
+62
+     an assessment of the practical significance of scientific and
+theoretical views on ensuring the profitability of commercial banks was
+given;
+     the possibilities of achieving the normative level of the net interest
+margin indicator in commercial banks are substantiated (ensuring a high
+and stable level of interest income share in the volume of gross income,
+secondly, ensuring a normative level of proportionality between the main
+indicators affecting the level of net interest margin (net interest spread,
+reserve for possible losses on loans, cost/income ratio, growth rate of
+interest income and growth rate of interest expenses);
+     the need to achieve a stable ratio of interest income to interest
+expenses to increase the level of gross profit of commercial banks in
+relation to gross assets, to ensure the normative level of the cost/income
+ratio (0.45), to increase the size of interest income from investments in
+securities and their share in the volume of interest income is justified;
+     an assessment of the level of influence of factors affecting the
+profitability of commercial banksʼ assets is given.
+     Implementation of the research results. Based on the developed
+proposals and recommendations for ensuring the profitability of
+commercial banks of Uzbekistan:
+     The proposal to ensure an optimal level of net profit in relation to the
+amount of bank assets exposed to risk by determining the “target value”
+selected on the basis of comparing the business model of commercial
+banks, risk-apathetic requirements and capital adequacy with regulatory
+requirements, investor expectations and market profitability has been
+introduced into the practice of JSC “Microcreditbank” (certificate of JSC
+“Microcreditbank” No. 03-12/3510 dated February 20, 2025). As a result of
+the implementation of this scientific proposal, the return on gross assets in
+Mikrokreditbank in 2023 increased by 0.09 percentage points compared to
+2022;
+     a proposal to increase the level of return on loans by reducing their
+cost based on innovations related to the application of early warning
+systems has been introduced into the practice of JSC “Microcreditbank”
+(certificate of JSC “Microcreditbank” No. 03-12/3510 dated February 20,
+2025). As a result of the implementation of this scientific proposal, the
+level of return on loans in Mikrokreditbank increased by 1.6 percentage
+points in 2023 compared to 2022;
+     in commercial banks, a proposal to increase the level of net interest
+margin by achieving a stable level of interest expenses in relation to
+interest income and ensuring proportionality between the growth rates of
+net interest income and the growth rates of gross assets has been
+introduced into the practice of JSC “Microcreditbank” (certificate of JSC
+“Microcreditbank” No. 03-12/3510 dated February 20, 2025). As a result of
+the implementation of this scientific proposal, the level of net interest
+
+                                                                          63
+margin in Mikrokreditbank in 2023 increased by 2.3 percentage points
+compared to 2022;
+      a proposal to increase the level of capital profitability by increasing the
+amount of first-tier capital by additional issuance of shares of commercial
+banks, direct capital investments from strategic investors, conversion of
+some debt obligations into capital has been introduced into the practice of
+JSC “Microcreditbank” (certificate of JSC “Microcreditbank” No. 03-
+12/3510 dated February 20, 2025). As a result of the implementation of
+this scientific proposal, the return on regulatory capital in Mikrokreditbank
+increased by 0.4 percentage points in 2023 compared to 2022.
+      Testing of the research results. The results of this study were
+discussed and approved at 7 scientific and practical conferences, including
+3 republican and 4 international.
+      Publication of research results. 13 scientific works have been
+published on the topic of the dissertation, including 3 scientific articles in
+national publications recommended by the Higher Attestation Commission
+of the Republic of Uzbekistan for the publication of the main scientific
+results of doctoral dissertations, 3 scientific article in foreign journals.
+      Structure and volume of the dissertation. The dissertation consists of
+an introduction, three chapters, a conclusion, and a list of references, and
+its total volume amounts to 124 pages.
+
+
+
+
+64
+                      EʼLON QILINGAN ISHLAR ROʻYXATI
+                     СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                         LIST OF PUBLISHED WORKS
+
+                              I boʻlim (I часть; I part)
+
+      1. Sheraliyev A.Kh. Problems of ensuring profitability in commercial
+banks // Central Asian Journal of innovations on Tourism Management
+and Finance.                     – 2025. Vol. 6, No.3, 1223-1228 p. (08.00.00;
+Xorijiy nashrlar).
+      2. Sheraliev A.X. Mamlakat tijorat banklari aktivlarinig rentabellegini
+taminlash bilan bogʻliq boʻlgan dolzarb muammolar // “Yashil iqtisodiyot va
+taraqqiyot” Ijtimoiy, iqtisodiy, texnologik, ilmiy ommobop jurnal. – 2025. –
+№2, 1002-1005 b. (08.00.00; Milliy nashrlar).
+      3. Sheraliev A.X. Tijorat banklari kreditlarining daromadliligini
+taminlashning dolzarb masalalari // “Ilgʻor iqtisodiyot va pedagogik
+texnologiyalar” elektron jurnali. – 2025. – №3, 328-333 b. (08.00.00; Milliy
+nashrlar).
+      4. Sheraliev A.X. Tijorat banklarinig rentabelligini taminlash borasidagi
+dolzarb muammolar // “Barqaror rivojlanishda raqamlashtirish va suniy
+intellektning ahamiyati” mavzusidagi xalqaro qoʻshma ilmiy-amaliy
+anjuman konferensiya materiallari toʻplami, 2024-yil 15 mart, 321-325 b.
+      5. Sheraliev A.X. Tijorat banklari aktivlarining daromadliligiga tasir
+qiluvchi omillar // “Xalqaro tajriba: taʼlimni modernizatsiyalash sharoitida
+turizm sohasini rivojlantirish istiqbollari” mavzusidagi xalqaro ilmiy-amaliy
+konferensiya toʻplami, 2025-yil 17-18-may, 190-192 b.
+      6. Sheraliev A.X. Tijorat banklari daromadlarining darajasiga baho
+berishda qoʻllaniladigan asosiy koʻrsatkichlar // “Moliya-kredit tizimida
+islohotlarni jadallashtirish, sohada xizmatlar bozori hajmini oshirish va
+raqobatni rivojlantirish: mavjud muammolar va ularning yechimlari”
+mavzusidagi xalqaro ilmiy-amaliy anjuman toʻplami, 2025-yil 5-noyabr, 8-10
+b.
+      7. Sheraliev A.X. Tijorat banklari rentabelligini oshirish xususidagi ilmiy-
+nazariy qarashlar // “Raqamli iqtisodiyot sharoitida moliya kredit tizimini
+rivojlanishdagi muammolar va ularning ilmiy yechimlari” mavzusidagi
+respublika ilmiy-amaliy anjumani materiallari toʻplami, 2024-yil 5-noyabr,
+210-212 b.
+      8. Sheraliev A.X. Tijorat banklarinig rentabelligini taʼminlashda
+qimmatli qogʻozlarning oʻrni // “Zamonaviy ilm-fan va taʼlim istiqbollari”
+mavzusidagi respublika ilmiy-amaliy konferensiya materiallari toʻplami,
+2025-yil 20-mart, 200-203 b.
+
+                             II boʻlim (II часть; II part)
+
+    9. Sheraliyev A.Kh. Factors affecting the profitability of commercial
+
+                                                                              65
+banks// European Journal of Business Startups and Open Society. – 2024.
+Vol. 4, No. 2, 231-234 p.
+      10. Sheraliyev A.Kh. Indicators That Characterize the Profitability of
+Banks and Their Comparative Description // International Journal of
+Economy and Innovation. – 2024. Vol. 45, 404-406 p.
+      11. Sheraliev A.X. Tijorat banklarinig rentabelligini tavsiflovchi
+koʻrsatgichlarning tahlili // “Fundamental tadqiqotlar” jurnali. – 2025. – №2,
+8-15 b.
+      12. Sheraliev A.X. Tijorta banklari aktivlarining rentabelligini taʼminlash
+boʻyicha xorij tajribasi va uning amaliy ahamiyati // “New renaissance”
+mavzusidagi International scientific and practical conference materiallari
+toʻplami, 2025 yil mart, 60-63 b.
+      13. Sheraliev A.X. Tijorat banklari rentabelligini taminlash boʻyicha
+xalqaro tajriba // “Raqamli iqtisodiyot sharoitida moliya kredit tizimini
+rivojlanishdagi muammolar va ularning ilmiy yechimlari” mavzusidagi
+respublika ilmiy-amaliy anjumani materiallari toʻplami, 2024-yil 5 noyabr,
+207-210 b.
+
+
+
+
+66
+67
+68
+69
+       Avtoreferatning o‘zbek, rus va ingliz (rezyume) tillardagi nusxalari
+     “TerDU nashr-matbaa markazi” tahririyatida tahrirdan o‘tkazildi
+
+
+
+
+                  Bosishga ruxsat etildi: 17.12.2025-y.
+                               1/16
+                Bichimi: 60x84      «Times New Roman»
+              garniturada raqamli bosma usulda bosildi.
+         Shartli bosma tabog‘i 4. Adadi 100. Buyurtma: № 221
+
+               “TerDU NMM” bosmaxonasida chop etildi.
+              Manzil: Termiz sh., A.Navoiy ko‘chasi, 42-uy.
+
+
+
+
+70
+71
+72
+

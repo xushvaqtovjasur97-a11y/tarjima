@@ -1,0 +1,2949 @@
+    TASHKENT INTERNATIONAL UNIVERSITY
+  HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH
+    TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+          YODGOROV MANSUR NABIEVICH
+
+
+
+TIJORAT BANKLARI KAPITALI BARQARORLIGINI
+           TA’MINLASH YO‘LLARI
+
+
+
+          08.00.07 – «Moliya, pul muomalasi va kredit»
+
+
+
+
+ Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                        AVTOREFERATI
+
+
+
+
+                    Toshkent shahar – 2026 yil
+                                                                              UOʻK: 336.71:336(575.1))
+
+ Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati
+                                  mundarijasi
+
+    Оглавление автореферата диссертaции доктора философии (PhD) по
+                        экономическим наукам
+
+         Content of dissertation abstract for Doctor of Philosophy (PhD) in
+                                     Economics
+
+
+
+Tijorat banklari kapitali barqarorligini ta’minlash yo‘llari …………………..……3
+
+
+Ёдгоров Мансур Набиевич
+Пути обеспечения стабильности капитала коммерческих банков ……..…......31
+
+
+
+Ways to ensure the stability of commercial bank capital…….......………...……...61
+
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованных работ
+List of published works ........................................................................................... 67
+
+
+
+
+2
+    TASHKENT INTERNATIONAL UNIVERSITY
+  HUZURIDAGI ILMIY DARAJALAR BERUVChI
+DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH
+    TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+         YODGOROV MANSUR NABIYEVICH
+
+
+
+TIJORAT BANKLARI KAPITALI BARQARORLIGINI
+           TA’MINLASH YO‘LLARI
+
+
+
+          08.00.07 – «Moliya, pul muomalasi va kredit»
+
+
+
+
+ Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                        AVTOREFERATI
+
+
+
+
+                    Toshkent shahar – 2026 yil
+                                                                      3
+4
+             KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+
+       Dissertasiya mavzusining dolzarbligi va zaruriyati. Jahon iqtisodiyotida
+tijorat banklarida kapital barqarorligini ta’minlash nafaqat alohida moliyaviy
+institutlar uchun, balki butun global iqtisodiy tizimning mustahkamligi uchun ham
+strategik zaruriyat hisoblanadi. Bugungi kunda jahon tijorat banklarining umumiy
+aktivlari 160 trillion AQSh dollaridan oshib ketgan bo’lib1, ushbu ulkan moliyaviy
+tizimning barqarorligi kapital yetarliligiga bevosita bog’liq. 2008-2009 yillardagi
+global moliyaviy inqiroz bunning eng yaqqol isbotidir: AQShning yirik banklari —
+Lehman Brothers, Washington Mutual, IndyMac va boshqalar — kapital
+zaxirasining etarli emasligi oqibatida yakka tartibda yoki tizimli ravishda barbod
+bo’ldi, 2008-2015 yillar davomida AQSh banklar tizimida 500 dan ortiq tijorat banki
+bankrot e’lon qildi2, natijada jahon yalpi ichki mahsuloti 4,2 trillion dollarga
+qisqardi3. Ana shu og’ir saboqdan keyin Xalqaro hisob-kitoblar banki (BIS)
+rahbarligida ishlab chiqilgan Basel III me’yoriy tizimi 2010 yildan joriy etila
+boshlandi. 2024 yil yakuniga ko’ra BIS ning 176 bank ishtirokidagi monitoring
+tadqiqoti shuni ko’rsatmoqdaki, yirik xalqaro banklar (Group 1) o’rtacha CET1
+nisbati 14,3% ga yetgan — bu minimum talabdan deyarli 3,2 baravar yuqori bo’lib4,
+ustav kapitalining mustahkamlanganligidan dalolat beradi.
+       Jahon moliyaviy tizimida tijorat banklarida kapital barqarorligini ta’minlash
+masalasi ilmiy tadqiqotlarning doimiy va ustuvor yo’nalishlaridan biriga aylangan
+bo’lib, ushbu sohadagi akademik qiziqish ayniqsa 2008–2009 yillardagi global
+moliyaviy inqirozdan keyin keskin ortdi. Hozirga qadar olib borilgan ko’plab
+tadqiqotlar asosan uchta yo’nalishga e’tibor qaratmoqda: kapital yetarliligi
+koeffitsientlarining (birinchi navbatda CET1 va Tier 1) bank barqarorligiga ta’siri,
+Basel III tartibga solish tizimining samaradorligi, hamda kapital buferlari va kredit
+tsikli o’rtasidagi protsiklik bog’liqlik. Xususan, klassik maktab vakillari kapital va
+kredit riski o’rtasidagi teskari yo’nalishli aloqani isbotlagan bo’lsa, zamonaviy
+tadqiqotlar kapital buferlari hajmi, ularning tarkibi va ular orqali banklarning
+rentabelligi hamda barqarorligi o’rtasidagi munosabatni yanada chuqurroq
+o’rganmoqda. So’nggi yillarda tadqiqotlarda raqamli transformatsiya va fintech
+inqilobining bank kapitaliga ta’siri tobora ko’proq ko’rib chiqilmoqda: jumladan,
+“Digital Pathways to Stability” kabi ishlar raqamli moliyaviy rivojlanish bank
+barqarorligiga qo’shilishi yoki tahdid solishi mumkin bo’lgan mexanizmlarni
+o’rganadi. Shuningdek, ECB va BIS tomonidan moliyalashtirilgan bir qator
+tadqiqotlar kapital va likvidlik o’rtasidagi o’zaro ta’sir, banklarning inqirozga
+chidamliligini belgilovchi omillar va tartibga solish talablarining protsiklikligi kabi
+murakkab masalalarni tahlil qilmoqda. Biroq bir qator muhim yo’nalishlar ilmiy
+jamoatchilik tomonidan hali yetarlicha e’tibor olmagan: birinchidan,
+
+1
+  BIS Basel III Monitoring Exercise, December 2024 – https://tabinsights.com/article/combined-assets-of-the-1000-
+largest-banks-worldwide-reach
+2
+  https://www.fdic.gov/media/18626 ("Crisis and Response: An FDIC History, 2008–2013")
+3
+  https://www.imf.org/external/pubs/ft/weo/2009/01/pdf/text.pdf
+4
+  https://www.bis.org/press/p251023.htm
+                                                                                                               5
+rivojlanayotgan va o’tish iqtisodiyotlaridagi tijorat banklarida kapital barqarorligi
+o’ziga xos institutsional va makroiqtisodiy sharoit kontekstida kamdan-kam
+o’rganilgan bo’lsa, ikkinchidan, iqlim o’zgarishi va yashil moliya siyosatining bank
+kapital tuzilmasiga uzoq muddatli ta’siri hali nazariy jihatdan yetarlicha
+formallashtirilmagan. Uchinchidan, kapitalning talab etilgan minimumdan ortiq
+saqlanishining asosiy motivatsiyalari — ya’ni “kapital ortiqchaligi” fenomeni
+rivojlanayotgan mamlakatlarda deyarli o’rganilmagan. Bundan tashqari, raqamli
+to’lov tizimlari kengayishining bank kapital barqarorligi bilan bog’liqligini sinab
+ko’radigan empirik tadqiqotlar ham hali etarli hajmda emasligini ko’rsatadi.
+       Bugungi globallashuv va moliyaviy integratsiya jarayonlarining jadal
+rivojlanib borayotgan sharoitida O’zbekiston tijorat banklari kapitali barqarorligini
+ta’minlash masalasi nafaqat amaliy boshqaruv, balki chuqur ilmiy tadqiqot talab
+qiluvchi dolzarb muammoga aylanib bormoqda. Mamlakatimiz iqtisodiyotining
+rivojlanib borayotganligi, xorijiy investitsiyalar hajmining muntazam oshib
+borayotganligi – mindaqa sharoitda bank tizimining kapital mustahkamligi iqtisodiy
+barqarorlikning asosiy ustuni sifatida qaralib, unga nisbatan ilmiy-metodologik
+yondashuvlarni takomillashtirish zaruriyatini yanada kuchaytirmoqda. Prezident
+Shavkat Mirziyoyev 2024-yil 16-dekabr kuni banklar ishtirokida o’tkazilgan
+videoselektor yig’ilishida bu masalani davlat siyosatining ustuvor yo’nalishi sifatida
+alohida ta’kidlab, to’g’ridan-to’g’ri: “Bu maqsadlarga erishish uchun banklar
+moliyaviy mustahkam bo’lishi kerak” va “Jahon iqtisodiyotidagi bugungi murakkab
+sharoitda moliya-bank tizimining barcha darajalarida moliyaviy intizom va shaxsiy
+mas’uliyatni kuchaytirish muhimligi”ni qayd etdi. Davlat rahbarining ushbu
+topshiriqlari nafaqat bank tizimini operatsion boshqarish sohasida, balki tijorat
+banklarining kapital yetarliligi ko’rsatkichlarini (xususan, Basel III talablariga
+muvofiq regulyativ kapital nisbatlari), kapitalning sifat tarkibi va
+raqobatbardoshligini, tizimli moliyaviy risklarni minimallashtirish mexanizmlarini,
+shuningdek, kapital barqarorligiga ta’sir etuvchi makroiqtisodiy omillar o’rtasidagi
+korrelyatsion bog’liqliklarni chuqur ilmiy-empirik jihatdan o’rganish zaruratini
+yuzaga keltiradi.
+       Ushbu ilmiy tadqiqot O‘zbekiston Respublikasi Prezidentining 2022-yil 28-
+yanvardagi PF-60 son “2022-2026-yillarga mo‘ljallangan yangi O‘zbekistonning
+Taraqqiyot strategiyasi to‘g‘risida”gi farmoni, 2020-yil 5-oktyabrdagi PF-6079-son
+«Raqamli O‘zbekiston-2030» strategiyasini tasdiqlash va uni samarali amalga
+oshirish chora-tadbirlari to‘g‘risida”gi farmoni, 2020-yil 12-maydagi PF-5992-son
+«2020-2025 yillarga mo‘ljallangan O‘zbekiston Respublikasining bank tizimini
+isloh qilish strategiyasi to‘g‘risida»gi farmoni, 2023-yil 24-maydagi PQ-162-son
+“Raqamli xizmatlar qamrovi va sifatini oshirish hamda soha, tarmoq va hududlarni
+raqamli transformasiya qilish chora-tadbirlari to‘g‘risida”gi qarori va 2018-yil 23-
+martdagi PQ-3620-son «Bank xizmatlari ommabopligini oshirish bo‘yicha
+qo‘shimcha chora-tadbirlar to‘g‘risida»gi qarorlari va boshqa ushbu sohadagi
+normativ-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishga muayyan
+darajada xizmat qiladi.
+
+6
+       Tadqiqotning respublika fan va texnologiyalari rivojlani-shining ustuvor
+yo‘nalishlariga mosligi. Mazkur dissertasiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I.«Demokratik va xuquqiy jamiyatni ma’naviy-
+ahloqiy va madaniy rivojlantirish, innovasion iqtisodiyotni shakllantirish» ustuvor
+yo‘nalishiga muvofiq bajarilgan.
+       Muammoning o‘rganilganlik darajasi. Bank kapitali barqarorligini
+tushuntiruvchi dastlabki klassik nazariya poydevori Frank Modigliani va Merton
+Miller tomonidan yaratilgan bo’lib, ular mukammal bozor sharoitida kapital
+tuzilmasi bank qiymatiga ta’sir qilmasligini isbotlashgan. Biroq, real bankchilikda
+davlat kafolatlari va soliq imtiyozlari tufayli tartibga soluvchi kapital zarurligini ham
+ta’kidlashgan. Michael Jensen va William Meckling esa agentlik nazariyasi
+doirasida kapital darajasi past bo’lganda aksiyadorlar va menejerlarning
+omonatchilar mablag’i hisobiga ortiqcha risk olishga moyil bo’lishini (“risk
+shifting”) ilmiy asoslab bergan. Douglas Diamond va Philip Dybvig banklarning
+likvidlik transformatsiyasi funksiyasini va “bank yugurishi” (bank runs) xavfini
+modellashtirgan holda, kapital buferlari hamda depozitlarni sug’urtalash
+mexanizmlarining tizimli barqarorlikdagi hayotiy rolini isbotlagan. 5 Bu uch nazariy
+maktab bugungi kunda ham kapitalga oid barcha akademik tadqiqotlarning
+metodologik asosini tashkil etadi.
+       Rivojlangan mamlakatlar Xalqaro makroprudensial maktab (Zamonaviy
+global yondashuvlar) olimlari bank kapitalini nafaqat alohida muassasa, balki butun
+moliyaviy tizim barqarorligi nuqtai nazaridan o’rganadi. Anat Admati va Martin
+Hellwig amaldagi Basel III kapital talablarini yetarli emas deb baholab, tizimli
+xavflarni kamaytirish uchun kapital koeffitsientlarini 20–30% gacha oshirishni ilmiy
+jihatdan asoslab berganlar. Allen Berger va Christa Bouwman AQSh banklari
+misolida yuqori kapitalga ega muassasalar inqiroz davrida kreditlash hajmini
+barqaror saqlashini va bankrotlik ehtimoli ancha past ekanligini empirik tarzda
+ko’rsatganlar. Samuel Hanson, Anil Kashyap va Jeremy Stein makroprudensial
+tartibga solish doirasida kontrsiklik kapital buferlarini (countercyclical capital
+buffer-CCyB) iqtisodiy yuksalish davrida to’plash, tanazzul paytida esa sarflash
+g’oyasini ilgari surganlar. Tobias Adrian va Hyun Song Shin “leveraj tsikli”
+kontseptsiyasini ishlab chiqib, banklar aktivlar bahosi o’sganda leverajni oshirishi
+moliyaviy sikllarni yanada kuchaytirishini, buni esa makroprudensial vositalar
+orqali jilovlash zarurligini ta’kidlaganlar. Beverly Hirtle va Anna Kovner esa stress-
+testlar (Comprehensive Capital Analysis and Review -CCAR dasturi) banklarning
+kapitalni rejalashtirish tizimini tubdan yaxshilashga va bozor nazoratini
+kuchaytirishga xizmat qilishini tahlil etganlar.6
+
+5
+  Modigliani, F., & Miller, M.H. (1958). The Cost of Capital, Corporation Finance and the Theory of Investment. The
+American Economic Review, 48(3), 261-297. Jensen, M.C., & Meckling, W.H. (1976). Theory of the Firm:
+Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics, 3(4), 305-360.
+Diamond, D.W., & Dybvig, P.H. (1983). Bank Runs, Deposit Insurance, and Liquidity. Journal of Political Economy,
+91(3), 401-419.
+6
+  Admati, A., & Hellwig, M. (2013). The Bankers’ New Clothes: What’s Wrong with Banking and What to Do about
+It. Princeton University Press. Admati, A. R., & Hellwig, M. (2019). The Bankers’ New Clothes: What’s Wrong with
+Banking and What to Do About It (Expanded edition). Princeton University Press. Berger, A.N., DeYoung, R.,
+                                                                                                                 7
+       Rossiya va MDH mamlakatlari olimlari kapital barqarorligini asosan xalqaro
+standartlarni milliy sharoitlarga moslashtirish hamda tashqi iqtisodiy shoklarga
+chidamlilik muammosi sifatida o’rganadi. O.I. Lavrushin Basel II va III
+standartlarini milliy xususiyatlarni hisobga olgan holda bosqichma-bosqich joriy
+etish tarafdori bo’lib, bir zumda o’tishning kredit bozoriga salbiy ta’sir ko’rsatishi
+mumkinligini ogohlantirgan. M.A. Pomorina kapital talablarining kreditlashga qisqa
+muddatli salbiy ta’siri bo’lsa-da, uzoq muddatda barqarorlik uchun yutug’i ancha
+yuqori ekanligini isbotlagan. Ye.A. Zvonova va M.A. Bogacheva neft narxlariga
+bog’liq iqtisodiyot sharoitida valyuta devalvatsiyasi va tashqi shoklar bank
+kapitaliga kuchli salbiy ta’sir ko’rsatishini, shu sababli kapital buferlarini ortiqcha
+saqlash zarurligini asoslashgan. V.L. Tambovtsev shoklar davrida kapital
+koeffitsienti 12% dan yuqori banklar kreditlashni 8% kapitallik banklarga nisbatan
+34% ga kamroq qisqartirishini ko’rsatgan. S.L. Plastun esa DEA (Data Envelopment
+Analysis) usuli orqali kapital va samaradorlik o’rtasida nomonoton bog’liqlik
+borligini, ya’ni o’rta darajadagi kapitalning eng samarali bo’lishini empirik jihatdan
+aniqlagan.7
+       O’zbekistonlik olimlar 2017-yilgi iqtisodiy islohotlar va bank tizimini
+transformatsiya qilish jarayoni bilan bog’liq holda kapital barqarorligi masalasini
+tadqiq etishadi. Iqtisodchi olimlardan N.Jumayev, B.Berdiyarov, A.Burxanov,
+O.Sattarov, Sh.Xannaev, I.Jurayev, X.Xudayarova, N.Sobirova, Z.Xakimov va
+boshqalar bank valyuta operatsiyalari, bank tizimi barqarorligi, banklar likvidliligini
+boshqarish, tijorat banklarning iqtisodiy havfsizligi, tijorat banklari samaradorligiga
+ta’sir etuvchi omillar, chakana bank xizmatlari amaliyotini takomillashtirish, tijorat
+banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari,
+banklarda aholi omonatlarining jozibadorligini oshirish bo‘yicha ilmiy tadqiqotlar
+olib borishgan. A. Vaxabov va F. Alimov O’zbekiston banklarida rasmiy kapital
+koeffitsientlari yuqori bo’lsa-da, kapital sifat tarkibini yaxshilash va davlat
+ishtirokini kamaytirish sharoitida kapital strategiyalarini qayta ko’rib chiqish
+
+Flannery, M.J., Lee, D., & Öztekin, Ö. (2008). How Do Large Banking Organizations Manage Their Capital Ratios?
+Journal of Financial Services Research, 34(2-3), 123-149. Berger, A.N., & Bouwman, C.H.S. (2013). How Does
+Capital Affect Bank Performance During Financial Crises? Journal of Financial Economics, 109(1), 146-176. Berger,
+Allen & Bouwman, Christa, 2015. "Bank Liquidity Creation and Financial Crises," Elsevier Monographs, Elsevier,
+edition 1, number 9780128002339. Hanson, S.G., Kashyap, A.K., & Stein, J.C. (2011). A Macroprudential Approach
+to Financial Regulation. Journal of Economic Perspectives, 25(1), 3-28. Hanson, S. G., Kashyap, A. K., & Stein, J. C.
+(2018). Monetary policy and long-term real rates. Journal of Financial Economics, 129(2), 429–448. Adrian, T., &
+Shin, H. S. (2014). Procyclical leverage and value-at-risk. The Review of Financial Studies, 27(2), 373–403. Adrian,
+T., & Shin, H. S. (2019). Leverage cycles and the anxious economy. American Economic Review, 109(7), 3367–
+3400. Hirtle, B., & Kovner, A. (2018). The impact of supervision on bank performance. Journal of Finance, 73(6),
+2651–2682.
+7
+  Лаврушин О. И. (2020). Управление банковским капиталом: теория и практика. Москва: Финансы и
+статистика. Лаврушин О. И. (2018). Банковские риски: учебное пособие (3-е изд.). Москва: КНОРУС.
+Поморина М. А. (2020). Моделирование операционного риска в контексте Базеля III. Экономический анализ:
+теория и практика, 19(5), 831–849. Поморина М. А. (2017). Оценка влияния требований Базеля II/III на капитал
+российских банков. Денги и кредит, (3), 28–34. Звонова Е. А., Богачева М. Ю. (2018). Контрциклический
+буфер капитала: опыт применения в России. Банковское дело, (11), 22–30. Звонова Е. А., Богачева М. Ю.
+(2021). Макропруденциалная политика в условиях внешних шоков. Финансы и кредит, 27(4), 731–750.
+Тамбовцев, В. Л. (2005). Институциональный рынок как механизм институциональных изменений. ББК У01,
+162. Епифанов А. О., Пластун А. Л. (2019). Прогнозирование достаточности капитала банков с применением
+машинного обучения. Финансово-кредитная деятельность: проблемы теории и практики, 3(30), 5–14.
+8
+zarurligi masalasini ilmiy asoslab berganlar. Sh. Abdullayeva yuqori kapital
+koeffitsientlariga qaramay, O’zbekiston banklarida kapital rentabelligi (ROE) ning
+past darajada ekanligini va bunda aktivlarning past daromadliligi hamda menejment
+samarasizligi asosiy sabab ekanligini ko’rsatgan. B. Ergashev riskka asoslangan
+nazorat metodologiyasini ishlab chiqqan holda kapital talablarini har bir bankning
+xavf profiliga moslashtirish va differensial tartibga solish tizimini taklif etgan. Sh.
+Ismoilov muammoli kreditlar (NPL) ko’payishining kapital eroziyasiga olib
+kelishini tahlil qilib, erta ogohlantirish tizimlarini joriy etish zarurligini ilgari surgan.
+D. To’xtayeva kapital yetarliligi va moliyaviy inklyuziya o’rtasidagi muvozanat
+masalasini tadqiq etib, kichik biznes va mikrokreditlar uchun pastroq risk vaznlarini
+qo’llashni tavsiya etgan. X. Sobirov va A. Muminov bilan L. Jo’rayevalar esa iqlim
+xavflari (qurg’oqchilik, suv tanqisligi) uchun maxsus kapital buferlarini yaratish
+zaruriyati bo’yicha O’zbekiston uchun yangi yo’nalishda tadqiqot olib bormoqda.8
+Biroq shuni alohida ta’kidlash lozimki, transformasiya jarayonida tijorat banklari
+kapitali barqarorligini ta’minlashning ilmiy-nazariy asosilari, xususan, bank kapitali
+barqarorligiga tashqi va ichki omillarning ta’sirini empirik modellar bilan baholash
+tadqiqot ob’ekti sifatida etarli darajada amalga oshirilmagan.
+       Dissertasiya mavzusining dissertasiya bajarilgan oliy ta’lim
+muassasalarining ilmiy tadqiqot ishlar rejalari bilan bog‘liqligi. Mazkur
+dissertasion tadqiqot mavzusi Tashkent International University ilmiy-tadqiqot
+ishlari rejasi bilan bog‘liq holda bajarilgan.
+       Tadqiqotning maqsadi mamlakatimiz tijorat banklarini transformasiyalash
+jarayonida kapital barqarorligini ta’minlash yo‘llariga qaratilgan ilmiy-nazariy,
+amaliy va uslubiy taklif va tavsiyalarni ishlab chiqishdan iborat.
+
+
+
+8
+  Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Jurayev I.I. O‘zbekiston respublikasi tijorat banklari depozit bazasini
+mustahkamlash. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 58 b. Xudayarova X.A. O‘zbekistonda
+chakana bank xizmatlari amaliyotini takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 62 b.
+Sobitrova N.N. Tijorat banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari. i.f.f.d. ilm. dar.
+ol.uch. diss. avtoref. – Toshkent, 2025. – 57 b. Xakimov Z.N. Tijorat banklarida aholi omonatlarining jozibadorligini
+oshirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2025. – 63 b.Вахабов А. В., Алимов Р. Х. (2022). Капитал
+коммерческих банков: методология и практика управления. Ташкент: Иқтисодиёт. Абдуллаева Ш.З. (2021).
+Управление капиталом в условиях цифровизации банковского сектора Узбекистана. Молия ва банк иши, (2),
+18–27. Абдуллаева Ш.З. (2018). Оптимизация капитала коммерческих банков и рентабелност активов.
+Иқтисодиёт ва таълим, (3), 44–52. Эргашев Б.Х. (2020). Дифференцированный надзор и ICAAP: опыт и задачи.
+Банки Узбекистана, (4), 8–15. Исмоилов З М. (2022). Система раннего предупреждения и капитал банков в
+пандемию. Банковское дело, (1), 33–41. Тухтаева Ш.Н. (2023). Влияние цифровой трансформации на
+структуру капитала банков Узбекистана. Иқтисодиёт ва таълим, (1), 60–70. Собиров Ф.М. (2023).
+Климатические риски и банковский капитал: необходимост новых буферов. Иқтисодиёт ва инновацион
+технологиялар, (2), 22–31. Муминов А.А., Жўраева Л.Б. (2023). Финтех-конкуренция и изменение стратегий
+управления капиталом банков (2020–2023). Банковское дело, (4), 15–25.
+                                                                                                                         9
+        Tadqiqotning vazifalari:
+        tijorat banklari kapitali barqarorligini ta’minlashning ilmiy-nazariy asoslarini
+tadqiq qilish;
+        tijorat banklari kapitali barqarorligini ta’minlash bo‘yicha ilmiy-nazariy
+qarashlar ni tahlil qilish hamda ularning amaliy ahamiyatini baholashga xizmat qiluvchi
+xulosalarni shakllantirish;
+        bank kapitalini boshqarish bo‘yicha хalqaro tajribasi tahlil qilish va
+mamlakatimiz bank tizimi kapital barqarorligini ta’minlash borasida xulosalar olish;
+        bank kapitali barqarorligiga ta’sir qiluvchi moliyaviy va kredit risklarni
+baholash, tahlil qilish va xulosalar shakllantirish;
+        bank kapitali barqarorligiga tashqi va ichki omillar ta’sirining econometrik
+modelini shakllantirish;
+        tijorat banklarida kapital barqarorligini ta’minlashning prognoz stenariylarini
+shakllantirish;
+        Tijorat banklari kapitali barqarorligini ta’minlash bilan bog‘liq
+muammolar va ularni bartaraf etish yo‘llariga qaratilgan ilmiy taklif hamda amaliy
+tavsiyalar ishlab chiqish.
+        Tadqiqotning ob’ekti sifatida O‘zbekistonda faoliyat ko‘rsatayotgan tijorat
+banklari, xususan ATB O‘zsanoatqurilishbankning kapital barqarorligini ta’minlash
+yo‘llari tanlangan.
+        Tadqiqotning predmeti tijorat banklari kapital barqarorligini ta’minlash
+jarayonida yuzaga keladigan iqtisodiy munosabatlar tashkil etadi.
+        Tadqiqotning usullari. Dissertasiyada ilmiy abstraksiya, qiyosiy va tarkibiy
+tahlil, induksiya va deduksiya, iqtisodiy-statistik va ekonometrik baholash, xususan,
+strukruraviy vektorli avtoregressiya, ARIMA, Seasonal ARIMA va Holt-Winters
+eksponensial silliqlash modellaridan foydalanilgan.
+        Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+        tijorat banklari kapital yetarliligi koeffitsientining «o'rtacha qiymatga qaytish»
+(mean-reverting) xususiyatiga ega ekanligi, shuningdek inflyatsiya va valyuta
+kursining kapital barqarorligiga o'rta muddatli differensial ta'sir mexanizmi asoslangan;
+        pul massasining oshishi tijorat banklari kapital yetarliligi koeffitsientiga qisqa
+muddatda kredit ekspansiyasi va riskka tortilgan aktivlar o'sishi hisobiga kapital
+yetarliligini pasaytirsa, ikkinchi lag davrida daromadlarning kapitallashuvi hisobiga
+kapitalning qayta tiklanishi sodir bo'lishi orqali ikki bosqichli dinamik mexanizm orqali
+ro'y berishi asoslangan;
+        tijorat banklari yuqori likvidli aktivlar zaxirasining (HQLA) bank kapital
+barqarorligiga ta’siri «kechikish effekti» bilan namoyon bo’lishi va bank tizimida
+kapital yetarliligining «inersion o’z-o’zini tuzatish» (mean-reverting oscillation)
+mexanizmi asoslangan;
+        O'zsanoatqurilishbank ATBning kapital barqarorligi ta'minlashga qaratilgan eng
+yuqori aniqlikni ta'minlovchi Holt-Winters modeli (RMSE: aktivlar — 1,69; kredit
+portfeli — 3,59; kapital — 0,51) asosida 2025–2030 yillar uchun bazaviy, optimistik
+va pessimistik uch ssenariyali moliyaviy ko'rsatkichlar prognozi taklif etilgan.
+        Tadqiqotning amaliy natijasi quyidagilardan iborat:
+10
+       tijorat banklari regulyativ kapital tarkibidagi nomutanosiblikni bartaraf etish
+maqsadida gibrid kapital instrumentlari – AT1 (Additional Tier 1) toifasidagi
+obligatsiyalar va subordinatsiyalangan qarz instrumentlarini joriy etish orqali kapital
+bazasini diversifikatsiya qilish va moliyaviy moslashuvchanlikni oshirish taklif etilgan;
+       tijorat banklarining kapital barqarorligini ta'minlashda xalqaro Basel III/IV
+standartlarini mahalliy iqtisodiy sharoitlarga moslashtirishga qaratilgan nazariy-
+metodologik yondashuv takomillashtirilib, Modigliani–Miller, Diamond–Dybvig
+nazariyalari hamda agentlik nazariyasi sintezi asosida riskka asoslangan kapital
+adekvatligi baholash tizimi va kontrsiklik kapital buferi mexanizmi ishlab chiqilgan;
+       bank kapitalini boshqarish borasida xorij tajribasini qiyosiy tahlil qilish asosida
+O'zbekiston tijorat banklari uchun makroiqtisodiy ssenariylarga asoslangan
+moslashtirilgan stress-test sinovlari tizimi va iqtisodiy faollik fazalariga mos kontrsiklik
+kapital buferi (CCyB) mexanizmini bosqichma-bosqich joriy etish taklif etilgan;
+       Markaziy bank asosiy stavkasining oshishi kreditlash faolligi va likvidlik
+sharoitlariga bosim o'tkazishi orqali kapital buferlarini vaqtincha qisqartirib, ammo
+uzoq muddatda bu ta'sirning inersiya asosida so'nishini inobatga olgan holda tijorat
+banklari kapital yetarliligi koeffitsientiga qisqa muddatli salbiy ta'sir mexanizmi
+asoslangan;
+       qisqa muddatda kredit portfeli o’sishi kapital infuziyalari hisobiga kapital
+yetarliligi koeffitsientini oshirsa, 6 oydan so’ng riskga tortilgan aktivlarning ortishi
+hisobiga kapital yetarliligini qisqartirishi vositasida tijorat banklarining kredit portfeli
+hajmi kapital yetarliligi koeffitsientiga ikki bosqichli paradoksal mexanizm orqali ta’sir
+ko’rsatishi aniqlangan;
+       yuqori rentabellikning riskli kreditlash ekspansiyasi va kapital buferlarining
+kamayishi hisobiga erishilishi asosida tijorat banklarining aktivlar rentabelligi
+koeffitsienti oshishi kapital yetarliligiga qisqa muddatda «rentabellik paradoksi»
+sifatida salbiy ta’sir ko’rsatishi aniqlangan;
+       Tadqiqot natijalarining ishonchliligi. Tadqiqot natijalarining ishonchliligi
+ularni taniqli iqtisodchi olimlarning transformasiya jarayonida tijorat banklari kapitali
+barqarorligini ta’minlash yo‘llari xususidagi ilmiy-nazariy qarashlarini qiyosiy va
+tanqidiy tahlil qilinganligi, ilg‘or xorij tajribasi o‘rganilganligi va umumlashtirilganligi,
+shuningdek, statistik ma’lumotlar O‘zbekiston Respublikasi Markaziy banki,
+O‘zbekiston Respublikasi Statistika qo‘mitasi va O‘zbekiston tijorat banklari yillik
+hisobot ma’lumotlaridan olingani, shu bilan birga tegishli xulosa va takliflarning
+mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani bilan belgilanadi.
+       Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan tijorat banklari kapitali barqarorligini ta’minlash yo‘llariga
+qaratilgan maxsus ilmiy-tadqiqotlarni amalga oshirishda foydalanish mumkinligi bilan
+izohlanadi.
+       Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformasiya jarayonida tijorat banklari kapitali
+barqarorligini ta’minlashga qaratilgan chora-tadbirlar majmuini ishlab chiqishda
+foydalaniladi, shuningdek, yangi O‘zbekistonning 2030 yilgacha rivojlanish
+strategiyasida va 2020-2025 yillarga mo‘ljallangan O‘zbekiston Respublikasining bank
+                                                                                          11
+tizimini isloh qilish strategiyasida ko‘rsatilgan vazifalarni bajarishga qaratilgan chora-
+tadbirlarni ishlab chiqishda foydalanilishi mumkin.
+        Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kapital barqarorligini
+ta’minlash yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+        tijorat banklari kapital yetarliligi koeffitsientining «o'rtacha qiymatga qaytish»
+(mean-reverting) xususiyatiga ega ekanligi, shuningdek inflyatsiya va valyuta
+kursining kapital barqarorligiga o'rta muddatli differensial ta'sir mexanizmiga doir
+taklifi     ATB      O'zsanoatqurilishbank        faoliystiga     joriy    etilgan   (ATB
+O'zsanoatqurilishbankning 2026-yil 4-maydagi 27-06/13937-son ma’lumotnomasi).
+Natijada, kapital yetarliligining ikki lag oldingi darajasidan −0,323 koeffitsienti bilan
+teskari yo'nalishda harakat qilishi (p<0,01), inflyatsiyaning 1 foizga oshishi kapital
+yetarliligini ikkinchi lag davrida 0,051 foizga oshirishi (p<0,10), hamda milliy valyuta
+almashinuv kursining uzoq muddatda kapital yetarliligi o'zgaruvchanligining 7,84
+foizini tushuntirishi strukturaviy vektorli avtoregressiya modeli orqali aniqlangan;
+        pul massasining oshishi tijorat banklari kapital yetarliligi koeffitsientiga qisqa
+muddatda kredit ekspansiyasi va riskka tortilgan aktivlar o'sishi hisobiga kapital
+yetarliligini pasaytirsa, ikkinchi lag davrida daromadlarning kapitallashuvi hisobiga
+kapitalning qayta tiklanishi sodir bo'lishi orqali ikki bosqichli dinamik mexanizm orqali
+ro'y berishiga doir taklifi ATB O'zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O'zsanoatqurilishbankning 2026-yil 4-maydagi 27-06/13937-son ma’lumot-nomasi).
+Natijada, pul massasining 1 foizga oshishi kapital yetarliligini birinchi lag davrida 0,199
+foizga kamaytirishi (p<0,01), ikkinchi lag davrida esa 0,160 foizga oshirishi (p<0,05),
+hamda pul massasining uzoq muddatli istiqbolda (24 oy) kapital yetarliligi
+o'zgaruvchanligining 74,2 foizini tushuntirishi strukturaviy vektorli avtoregressiya
+modeli orqali aniqlangan.
+        tijorat banklari yuqori likvidli aktivlar zaxirasining (HQLA) bank kapital
+barqarorligiga ta’siri «kechikish effekti» bilan namoyon bo’lishi va bank tizimida
+kapital yetarliligining «inersion o’z-o’zini tuzatish» (mean-reverting oscillation)
+mexanizmiga doir taklifi ATB O'zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O'zsanoatqurilishbankning 2026-yil 4-maydagi 27-06/13937-son ma’lumotnomasi).
+Natijada, likvid aktivlar koeffitsientining kapital yetarliligi o’zgaruvchanligidagi ulushi
+qisqa muddatda 0,83 foizdan 12-oylik uzoq muddatda 26,56 foizga keskin o’sishi,
+hamda kapital yetarliligining birinchi lag davrida +2,201 koeffitsienti bilan inersion
+o’sishi (p<0,001) va ikkinchi lag davrida −2,130 koeffitsienti bilan teskari yo’nalishda
+tuzatilishi orqali bank tizimining kapital buferlarini maqsadli darajada
+barqarorlashtirish xususiyatiga ega ekanligi strukturaviy vektorli avtoregressiya modeli
+orqali aniqlangan;
+        O'zsanoatqurilishbank ATBning kapital barqarorligi ta'minlashga qaratilgan ko'p
+ssenariyali prognoz tizimi ARIMA(1,1,1), SARIMA va Holt-Winters eksponent
+silliqlashtirish modellari qiyosiy tahlili asosida ishlab chiqilgan bo'lib, barcha
+moliyaviy ko'rsatkichlar bo'yicha eng yuqori aniqlikni ta'minlovchi Holt-Winters
+modeli (RMSE: aktivlar — 1,69; kredit portfeli — 3,59; kapital — 0,51) asosida 2025–
+2030-yillar uchun bazaviy, optimistik va pessimistik uch ssenariyali moliyaviy
+ko'rsatkichlar prognoziga doir taklifi ATB O'zsanoatqurilishbank faoliystiga joriy
+12
+etilgan (ATB O'zsanoatqurilishbankning 2026-yil 4-maydagi 27-06/13937-son
+ma’lumotnomasi). Natijada, 95 foiz ehtimollik bilan O'zsanoat qurilishbank ATBning
+jami aktivlari 2025-yildagi 102,44 trln so'mdan 2030-yilga borib 178,5 trln so'mga,
+kredit portfeli 64,94 trln so'mdan 88,3 trln so'mga, jami kapitali esa 11,88 trln so'mdan
+17,0 trln so'mga yetishi Holt-Winters eksponent silliqlashtirish modeli orqali
+aniqlangan.
+        Tadqiqot natijalarining aprobasiyasi. Mazkur tadqiqot natijalari 2 ta xalqaro
+ilmiy-amaliy konferensiyalarda muhokamadan o‘tkazilgan.
+        Tadqiqot natijalarining e’lon qilinishi. Dissertasiya mavzusida O‘zbekiston
+Respublikasi Oliy Attestasiya Komissiyasining doktorlik dissertasiyalarining asosiy
+ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarda 5 ta maqola, jumladan, 4
+tasi respublika va 1 tasi xorijiy jurnallarda nashr etilgan.
+        Dissertasiyaning tuzilishi va hajmi. Dissertasiya tarkibi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertasiyaning tarkibi 154
+betni tashkil etgan.
+
+                    DISSERTASIYANING ASOSIY MAZMUNI
+      Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va zaruriyati
+asoslangan, muammoning oʻrganilganlik darajasi, tadqiqotning maqsadi, vazifalari
+hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot natijalarining
+ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi boʻyicha ma’lumotlar
+keltirilgan.
+      Dissertatsiyaning “Tijorat banklari kapitali barqarorligini ta’minlashning
+ilmiy-nazariy asoslari va хorij tajribasi” deb nomlangan birinchi bobida tijorat
+banklari kapitali barqarorligini ta’minlashning ilmiy-nazariy asoslari, tijorat banklari
+kapitali barqarorligini ta’minlash bo‘yicha ilmiy-nazariy qarashlar, hamda bank
+kapitalini boshqarish bo‘yicha хalqaro tajribasi tadqiq etilgan va ilmiy xulosalar ishlab
+chiqilgan.
+        Bank kapitali zamonaviy moliyaviy tizimning asosiy elеmеntlaridan biri bo‘lib, u
+bank faoliyatining barqarorligini ta’minlash, krеditorlar va dеpozitor-larning
+manfaatlarini himoya qilish, moliyaviy shoklarga chidamlilikni kuchaytirish va
+iqtisodiyotni barqaror moliyalashtirishda muhim rol o‘ynaydi. Bank kapitali
+barqarorligini ta’minlash nazariyasi ko‘p qirrali bo‘lib, u iqtisodiy nazariya, moliyaviy
+posrеdnichilik kontsеptsiyalari, agеntlik munosabatlari nazariyasi, asimmеtrik aхborot
+nazariyasi va tartibga solish iqtisodiyoti elеmеntlarini o‘zida mujassamlashtiradi. Ushbu
+paragrafda biz bank kapitalining tabiati, funktsiyalari, optimal kapital strukturasi
+nazariyalari, kapital barqarorligiga ta’sir etuvchi omillar va tartibga solish
+mехanizmlarining nazariy asoslarini batafsil ko‘rib chiqamiz.
+      Bank kapitali tushunchasi va uning moliyaviy tizimdagi o‘rni bo‘yicha nazariy
+munozaralar XX asrning o‘rtalaridan boshlab faol rivojlana boshladi. Klassik korporativ
+moliya nazariyasida Modigliani va Miller (1958) tomonidan ilgari surilgan kapital
+strukturasi irrеlеvantligi tеorеmasi banklar uchun chеklangan qo‘llanilishga ega ekanligi
+tеz orada ma’lum bo‘ldi. Bu tеorеma mukammal bozor sharoitlarida (soliqlar, bankrotlik
+хarodjatlari, asimmеtrik aхborot yo‘qligida) firmaning qiymati uning kapital
+                                                                                       13
+strukturasidan mustaqil dеgan fikrga asoslanadi. Biroq banklar uchun ushbu faraz real
+hisoblanmaydi, chunki banklar moliyaviy vositachilik funksiyasini bajaradi, yuqori
+darajadagi leveraj asosida faoliyat yuritadi, doimiy tartibga solish va nazorat talablariga
+bo‘ysunadi hamda ularning moliyaviy barqarorligi jamoat manfaatlari bilan bevosita
+bog‘liqdir. Shu bois bank kapitali bo‘yicha maxsus nazariy asoslarni ishlab chiqish
+zarurati yuzaga keldi.
+       Bank kapitalining asosiy funksiyalarini tushunish uning barqarorligini ta’minlash
+strategiyalarini ishlab chiqish uchun muhimdir. Birinchi va eng muhim funksiya -
+zararlarni yutish funksiyasidir. Bank kapitali kutilmagan zararlarni, jumladan kredit,
+bozor va operatsion zararlarni qoplashga xizmat qiladi hamda bankning o‘z
+majburiyatlarini - ya’ni depozitlar va qarzlar bo‘yicha majburiyatlarini - bajarish
+qobiliyatini ta’minlaydi. Kapital bufer vazifasini bajarib, bank aktivlari qiymati pasaygan
+taqdirda ham depozitorlar va boshqa kreditorlarning talablarini qondirish imkonini
+beradi. Ikkinchi funksiya — ishonchni ta’minlash funksiyasidir. Yuqori kapital darajasi
+depozitorlar, investorlar va bozor ishtirokchilari uchun bankning moliyaviy
+mustahkamligi belgisi bo‘lib xizmat qiladi. Ushbu funksiya assimetrik axborot sharoitida
+ayniqsa muhimdir, chunki tashqi investorlar bank aktivlarining haqiqiy sifatini to‘liq
+baholay olmaydi. Kapital darajasi esa ularning xavfni baholashida asosiy
+ko‘rsatkichlardan biri hisoblanadi.
+       Uchinchi funksiya — rag‘batlantirish (incentive) funksiyasi bo‘lib, u agentlik
+munosabatlari nazariyasi bilan chambarchas bog‘liq. Yuqori kapital ulushiga ega bo‘lgan
+bank aksiyadorlari o‘z kapitalining katta qismini xavf ostiga qo‘yadilar. Shuning uchun
+ular ortiqcha xavfli strategiyalarga moyil bo‘lmaydilar. Kapital darajasi past bo‘lgan
+holatda esa aksiyadorlar “moral hazard” — ma’naviy xatar muammosiga duch keladilar.
+Ya’ni ular yuqori xavfli, ammo yuqori daromad keltirishi mumkin bo‘lgan loyihalarga
+investitsiya qilishdan manfaatdor bo‘ladilar, chunki loyiha muvaffaqiyatli bo‘lsa,
+foydaning asosiy qismi ularga tegishli bo‘ladi, muvaffaqiyatsizlik holatida esa
+zararlarning katta qismini kreditorlar ko‘taradi. Kapital talablari bunday xatti-
+harakatlarni cheklash vositasi bo‘lib xizmat qiladi. To‘rtinchi funksiya — faoliyatni
+moliyalashtirish funksiyasidir. Kapital bank faoliyatini dastlabki bosqichda tashkil etish
+va keyinchalik kengaytirish uchun uzoq muddatli hamda barqaror moliyalashtirish
+manbai bo‘lib xizmat qiladi. U qaytarilish muddati belgilanmagan moliyaviy resurs
+sifatida bank aktivlarining o‘sishi uchun zarur baza yaratadi.
+       So‘nggi ikki o‘n yillikda dunyoda sodir bo‘lgan ikkita yirik moliyaviy inqiroz -
+2008-yilgi global moliyaviy inqiroz hamda 2020-yilgi COVID-19 pandemiyasi bilan
+bog‘liq iqtisodiy-moliyaviy shoklar - banklarning kapital zaxiralari qanchalik tez
+yo‘qotilishi mumkinligini namoyon qildi. 2008-yilgi moliyaviy inqiroz davrida Lehman
+Brothers bankining qulashi tizimli xatarning (systemic risk) butun moliyaviy tizimga
+qanday tez tarqalishi mumkinligini yaqqol namoyon etdi. Ushbu voqeadan so‘ng xalqaro
+hamjamiyat bank kapitaliga qo‘yiladigan talablarni qayta ko‘rib chiqishga majbur bo‘ldi.
+Natijada Basel III va keyinchalik Basel IV standartlari ishlab chiqildi. Basel III talablari
+asosida Tier 1 va Tier 2 kapital tushunchalari yanada aniqroq belgilandi, kontrsiklik
+kapital buferlari (Countercyclical Capital Buffer — CCyB) hamda global tizimli
+ahamiyatga ega banklar uchun qo‘shimcha kapital “yostiqlari” (G-SIB surcharges) joriy
+14
+etildi. Shu bilan birga, likvidlik talablari, jumladan, LCR va NSFR ko‘rsatkichlari ham
+mustahkamlandi. Chunki faqat kapital yetarliligi likvidlik inqirozining oldini olish uchun
+yetarli hisoblanmaydi.
+        O‘zbekiston uchun ushbu xalqaro tajriba ayniqsa muhim, chunki mamlakat bank
+tizimida hali ham davlat ishtirokining yuqori ulushi saqlanib qolmoqda, kapital bozori
+yetarlicha rivojlanmagan hamda xalqaro bozorlardan kapital jalb qilish imkoniyatlari
+cheklangan. Shu sababli banklar kapital bazasini asosan ichki manbalar, ya’ni foydani
+qayta investitsiya qilish va kapitalni oshirish orqali mustahkamlash imkoniyatiga ega.
+Shu bois kapital samaradorligini oshirish, operatsion xarajatlarni kamaytirish hamda
+riskka moslashtirilgan daromadlilikni kuchaytirish dolzarb masalalardan biri hisoblanadi.
+Prezident Shavkat Mirziyoyevning 2024-yil 16-dekabrda o'tkazilgan yig'ilishda
+ta'kidlaganidek, banklar tashqi manbalardan 6 milliard dollar resurs jalb qilish va aholi
+omonatlarini 11 milliard dollarga yetkazish orqali moliyaviy baza mustahkamligini
+ta'minlashi lozim.
+      Tijorat banklari kapitali barqarorligini tushunish uchun avvalo fundamental
+iqtisodiy nazariyalarga murojaat qilish lozim. Ushbu nazariyalar kapital tuzilmasi, risk
+va daromad o‘rtasidagi bog‘liqlik hamda banklarning vositachilik funksiyasidagi o‘ziga
+xosliklarni tushuntirib beradi.
+        Diamond va Dybvig (1983) modeli banklarning iqtisodiyotdagi asosiy funksiyasi
+- likvidlikni transformatsiya qilish (qisqa muddatli depozitlarni uzoq muddatli kreditlarga
+aylantirish) ekanligini ko‘rsatadi. Bu model bank vahimalari (bank runs) kelib chiqish
+sabablarini tushuntiradi.
+                                                                                  1-jadval
+   Tijorat banklari kapital barqarorligining nazariy asoslari borasda olimlar
+                                         qarashlari9
+        Nazariya                Mualliflar                        Asosiy g'oya
+    Kapital tarkibi      Modigliani & Miller    Mukammal bozorda kapital tarkibi qiymatga
+    ahamiyatsizligi      (1958)                 ta'sir qilmaydi
+    Trade-off            Kraus & Litzenberger   Qarz soliq afzalligi va moliyaviy qiyinchilik
+    nazariyasi           (1973)                 xarajatlari muvozanati
+    Agentlik             Jensen & Meckling      Aktsiyadorlar va kreditorlar o'rtasidagi
+    nazariyasi           (1976)                 ziddiyatlar
+                         Diamond & Dybvig       Bank yugurishi va depozit sug'urtasi
+    Likvidlik modeli
+                         (1983)                 mexanizmi
+    Basel standartlari   BCBS (1988→2023)       Regulyativ kapital talablarining evolyutsiyasi
+       Nazariyaga ko‘ra, banklar o‘zaro bog‘liq bo‘lmagan depozitorlarning
+mablag‘larini jamlab, investitsiyalarni moliyalashtiradi. Agar depozitorlar ommaviy
+ravishda pullarini talab qilsalar, bank likvidlik inqiroziga uchraydi, hatto to‘lovga
+layoqatli bo‘lsa ham. Kapital buferlari va depozitlarni sug‘urtalash tizimi ushbu
+modelda barqarorlikni ta’minlovchi asosiy vositalar sifatida qaraladi. Kapital
+yetarliligi bank aktivlari qadrsizlanganda ham depozitorlar oldidagi majburiyatlarni
+bajarish imkonini beradi.
+
+
+9
+    Muallif ishlanmasi
+                                                                                                 15
+       Jadval ma’lumotlaridan ko‘rinib turibdiki, Yevropa banklari CET1 kapital
+koeffitsiyenti bo‘yicha eng yuqori ko‘rsatkichga ega bo‘lib, u 15,2 foizni tashkil
+etadi. Biroq Basel III talablarining to‘liq joriy etilishi aynan Yevropa banklariga
+ko‘proq ta’sir ko‘rsatadi. Jumladan, Tier 1 kapitaliga ta’sir Yevropada 2,5 foizni
+tashkil etib, bu Amerika banklari ko‘rsatkichidan ancha yuqoridir. Bu holat Yevropa
+banklarida kapital tuzilmasini qayta ko‘rib chiqish, qo‘shimcha kapital jalb qilish
+yoki riskli aktivlarni kamaytirish zaruratini yuzaga keltirishi mumkin. Amerika
+banklarida esa CET1 koeffitsiyenti nisbatan past - 13,5 foiz bo‘lsa-da, Basel III
+talablari ta’siri 0,9 foiz bilan cheklanmoqda. Demak, Amerika banklari yangi
+talablarni bajarishda Yevropa banklariga nisbatan yengilroq moslashuv jarayonidan
+o‘tadi.
+                                                                            2-jadval
+    Basel III ta’siri: mintaqaviy qiyoslash (2024 yil dеkabr ma’lumotlari)10
+                                              Group 1                    Boshqa        G-
+ Ko‘rsatkich                                          Yevropa Amеrika
+                                             (umumiy)                   mintaqalar    SIBs
+ Hozirgi CET1 koeffitsiyent (%)              14.0     15.2    13.5      14.8         13.8
+ Tier 1 kapitaliga Basel III ta’siri
+                                             +1.4     +2.5    +0.9      +1.1         +0.4
+ (%)
+ Risk-asosli komponеnt ta’siri (%)           +2.7     +3.8    +2.2      +2.5         +2.1
+ Output floor ta’siri (%)                    +1.7     +2.4    +1.2      +1.5         +1.3
+ Bozor хavfi ta’siri (%)                     +1.2     +1.7    +0.9      +1.0         +0.9
+ Krеdit хavfi ta’siri (%)                    +0.5     +0.6    +0.4      +0.5         +0.3
+ Lеvеraj koeffitsiyenti ta’siri (%)          -1.4     -1.3    -1.3      -1.4         -1.7
+ Kapital yetishmovchiligi (mlrd
+                                             0.0      0.0     0.0       0.0          0.0
+ yevro)
+        Leverage koeffitsiyenti bo‘yicha ham mintaqalar o‘rtasida farq mavjud. Bu
+boshqa mintaqalardagi banklarda kapitalning balans hajmiga nisbatan yuqoriroq
+ekanini bildiradi. Yevropa banklarida leverage koeffitsiyentining pastroq bo‘lishi
+ularning balans hajmi yirikligi va aktivlar hajmining yuqoriligi bilan izohlanadi.
+Jadvaldagi yana bir muhim jihat shundaki, barcha guruhlar bo‘yicha kapital
+yetishmovchiligi 0,0 mlrd yevroni tashkil etgan. Bu esa banklar umumiy hisobda Basel
+III talablariga moslashish uchun yetarli kapital bazasiga ega ekanini ko‘rsatadi.
+        Quyidagi jadval ma’lumotlari Yevropa banklarining barqaror kapital bazasiga
+ega ekanligini tasdiqlaydi. CET1 koeffitsiyenti bir yil davomida 0.37 foiz punktga
+oshdi, bu banklarning foyda saqlash va kapital jalb qilish orqali kapital bazasini
+mustahkamlash davom ettirishini ko‘rsatadi. Likvidlik ko‘rsatkichlari ham yuqori
+darajada: LCR 156.73% va NSFR 127% da turdi, bu minimal 100% talabidan ancha
+yuqori. LCR ning ozgina pasayishi (158.50% dan 156.73% ga) asosan suyuq
+chiqishlarning oshishi bilan bog‘liq, ammo hali ham banklarning qisqa muddatli
+likvidlik barqarorligi yuqori.
+
+10
+     BIS Basel III Monitoring Report, Dekabr 2024
+16
+                                                                          3-jadval
+         Yevropa banklarining kapital va likvidlik ko‘rsatkichlari (2025 yil)11
+                                                                                      O‘zgarish
+ Ko‘rsatkich                                          2024-Q3   2025-Q2   2025-Q3
+                                                                                       (yillik)
+ CET1 koeffitsiyenti (%)                             15.73      16.12     16.10      +0.37 п.п.
+ Tier 1 koeffitsiyenti (%)                           17.22      17.62     17.59      +0.37 п.п.
+ Umumiy kapital koeffitsiyenti (%)                   19.89      20.24     20.24      +0.35 п.п.
+ Lеvеraj koeffitsiyenti (%)                          5.76       5.92      5.90       +0.14 п.п.
+ LCR (likvidlik qoplash koeffitsiyenti, %)           158.50     157.88    156.73     -1.77 п.п.
+ NSFR (barqaror moliyalashtirish
+                                                     ~126       ~127      ~127       +1 п.п.
+ koeffitsiyenti, %)
+ ROE (aktsionеr kapitaliga qaytim, yillik,
+                                                     10.09      10.11     9.88       -0.21 п.п.
+ %)
+ NPL koeffitsiyenti (%)                              2.31       2.22      2.22       -0.09 п.п.
+ Stage 2 krеditlar ulushi (%)                        9.60       9.59      9.49       -0.11 п.п.
+       Rentabellik ko‘rsatkichlari nisbatan barqaror saqlanmoqda. Aksiyadorlik
+kapitaliga qaytim (ROE) 9,88 foizni tashkil etgan bo‘lib, bu oldingi chorakdagi
+10,11 foizga nisbatan biroz pasaygan. Shunga qaramay, ushbu ko‘rsatkich banklar
+muqobil investitsiya yo‘nalishlariga nisbatan yuqoriroq daromad keltirish
+imkoniyatiga ega ekanini tasdiqlaydi. Mamlakatlar kesimida ROE ko‘rsatkichi
+sezilarli darajada farqlanadi: Fransiyada 6,82 foizni, Litvada esa 16,66 foizni tashkil
+etadi. Bu tafovutlar bank biznes-modellarining turlicha ekani, raqobat darajasi, foiz
+stavkalari muhiti hamda soliq rejimlaridagi farqlar bilan izohlanadi. Umuman
+olganda, Yevropa banklari yuqori kapital buferlari hisobiga moliyaviy barqarorlikni
+saqlab qolmoqda, biroq rentabellikka bo‘lgan bosim hanuz davom etmoqda.
+       Quyidagi jadvaldan ko‘rinib turibdiki, AQSh va Yevropa banklari kapital
+yetarliligi hamda likvidlik ko‘rsatkichlari bo‘yicha bir-biridan farq qiladi. Yevropa
+banklarida CET1 va Tier 1 koeffitsiyentlari AQSh banklariga nisbatan yuqoriroq
+bo‘lib, bu ularning kapital bazasi nisbatan mustahkam ekanini ko‘rsatadi. Xususan,
+CET1 koeffitsiyenti bo‘yicha AQSh banklari Yevropa banklaridan taxminan 0,8–
+2,6 foiz punktga past, Tier 1 koeffitsiyenti bo‘yicha esa 1,59–3,09 foiz punktga past
+ko‘rsatkichga ega.
+                                                                              4-jadval
+                                                                              12
+        AQSh va Yevropa banklarini qiyoslash (2025-yil ma’lumotlari)
+                                                     AQSh (Group    Yevropa (ЕCB    Farq (AQSh
+                     Ko‘rsatkich
+                                                      1 banklari)     nazorati)      - Yevropa)
+ O‘rtacha CET1 koeffitsiyenti (%)                      13.5-15.3        16.10        0.80 / 2.60
+ O‘rtacha Tier 1 koeffitsiyenti (%)                   ~14.5-16.0        17.59        1.59 / 3.09
+ Lеvеraj koeffitsiyenti (%)                               5.8             5.9            -0.1
+ LCR (likvidlik qoplash koeffitsiyenti, %)               ~120          156.73           -36.73
+ Basel III ta’siri (Tier 1 kapitaliga, %)                +0.9            +2.5            -1.6
+ P2R / Strеss bufеri (o‘rtacha, %)                      2.5-4.0       1.2 (P2R)          +1.3
+ Umumiy kapital talabi (%)                            ~10.5-13.0         11.2         -0.7 / +1.8
+
+
+11
+     ECB Supеrviziya statistikasi, 2025 yil dеkabr
+12
+     BIS, ECB, FedBank, CEIC Data.
+                                                                                                  17
+     Likvidlik bo‘yicha ham Yevropa banklari ustunlikka ega: LCR koeffitsiyenti
+Yevropada 156,73 foizni, AQShda esa taxminan 120 foizni tashkil etadi. Bu
+Yevropa banklarining qisqa muddatli likvidlik xatarlariga nisbatan yuqoriroq
+himoya zaxirasiga ega ekanini bildiradi. Shu bilan birga, Basel III talablarining Tier
+1 kapitaliga ta’siri Yevropada kuchliroq (+2,5%), AQShda esa nisbatan pastroq
+(+0,9%) namoyon bo‘lmoqda.
+                                                                             5-jadval
+                                                                  13
+                  Banklarning maqsadli kapitalga moslashuvi
+                                                               Kapital     Aktivlar   Lеvеraj
+ Bank holati                 Moslashuv mехanizmi
+                                                              o‘zgarishi   o‘zgarishi o‘zgarishi
+     Kapitalsiz (rеal <       Kapital oshirish (emissiya,
+                                                                 +++           +        Dеlеvеraj (-)
+          maqsad)                   foyda saqlash)
+     Kapitalsiz (kichik       Aktivlarni sotish + kapital
+                                                                 ++         0 yoki -    Dеlеvеraj (-)
+          banklar)                     jalb qilish
+     Optimal darajada           Barqarorlikni saqlash             +            +        Barqaror (0)
+     Ortiqcha kapitalga         Aktivlar kеngaytirish,
+                                                               + yoki -      +++       Lеvеraj (+++)
+            ega                       dividеndlar
+     Ortiqcha kapitalga
+                               Foydani aktsiyadorlarga
+        ega (yuqori                                               -           ++        Lеvеraj (++)
+                                     qaytarish
+        rеntabеllik)
+       Izoh: +++ - kuchli o‘sish, ++ - o‘rtacha o‘sish, + - kam o‘sish, 0 -
+o‘zgarmaydi, - - kamayish, – - kuchli kamayish
+       Ortiqcha kapitalga ega banklar (maqsadli darajadan yuqori) uchun tеskari
+jarayon kuzatiladi: ular lеvеraj oshirish uchun aktivlarni kеngaytiradilar. Bunda
+foydani saqlash darajasi pasaydi, dividеndlar va aktsiyalar to‘lab olish orqali kapital
+aktsiyadorlarga qaytariladi. Aktivlar o‘sishi esa tеzlashadi. Bu хulq banklarning
+kapital samaradorligini optimallashtirish intilishini aks ettiradi: ortiqcha kapital
+ushlash rеntabеllilikni kamaytiradi, shuning uchun banklar uni aktiv o‘sishi orqali
+“ishlatadilar” yoki aktsiyadorlarga qaytaradilar.
+      Moslashuv tеzligi bo‘yicha tadqiqot o‘rtacha 0.29 ko‘rsatkichini topdi, ya’ni
+banklar har yili rеal va maqsadli kapital o‘rtasidagi farqning taksiminan 29% ini
+yopadilar. Bu raqamdan kеlib chiqib, banklarning yarimlanish davri (half-life) - rеal
+va maqsadli kapital o‘rtasidagi farqning yarmini yopish uchun kеtadigan vaqt -
+o‘rtacha 2 yilni tashkil etadi. Biroq, bu ko‘rsatkich mamlakatlar kеsimida jiddiy
+farqlanadi: sеkin moslanuvchi banklar uchun 4.26 yil, tеz moslanuvchilar uchun esa
+atigi 1.15 yil. Bu gеtеrogеnlik moslashuv tеzligiga ta’sir qiluvchi institutsional
+omillarning ahamiyatini ko‘rsatadi.
+      Dissertatsiya ishining ikkinchi bobi “Tijorat banklari kapitali
+barqarorligiga ta’sir etuvchi ichki va tashqi omillar tahlili” deb nomlangan
+boʻlib, unda dissertatsiyaning tahliliy qismlari bayon etilgan. Jumladan, bank
+kapitali barqarorligiga ta’sir qiluvchi moliyaviy va kredit risklarining tahlili, bank
+kapitali barqarorligiga tashqi omillar ta’sirining ekonometrik modeli, hamda tijorat
+
+
+13
+     De Jonghe ва Öztekin (2015) tadqiqoti asosida tuzilgan
+18
+banklari kapitali barqarorligiga ichki omillar ta’sirining SVAR modeli asosida tahlili
+kabi jihatlar tadqiq etilgan.
+        Bank kapitali bank tizimi barqarorligining asosiy ustuni hisoblanadi va
+yo‘qotishlarni qoplash, o‘sishni moliyalashtirish va muvofiqlashtiruvchi talablarga
+javob berish uchun zarur bo‘lgan xavfsizlik bufferini tashkil etadi. 2020-yil boshida
+32 trillion so‘mni tashkil etgan umumiy bank kapitali 2025-yil boshiga kelib 125
+trillion so‘mga yetdi, ya’ni 3,9 barobarga oshdi. Kapitalning bu darajada o‘sishi bir
+qator manbalar hisobiga amalga oshirildi: foyda qayta investitsiyasi, aktsiyadorlar
+tomonidan qo‘shimcha kapital qo‘shilishi, yangi banklar kapitalining qo‘shilishi va
+bozor qiymatlarining qayta baholanishi. Kapital yetarliligi koeffitsienti 2020-yilda
+15,8 foizni tashkil etgan bo‘lsa, 2025-yil boshida 18,3 foizga yetdi, bu minimal talab
+qilinadigan 8 foizlik me’yordan ikki barobardan ortiq yuqori.
+        Kapitalning tarkibiy tahlili yuqori sifatli kapital (Tier I) ulushining
+ortganligini ko‘rsatadi. 2020-yilda birinchi darajali kapital umumiy kapitalning 78
+foizini tashkil etgan bo‘lsa, 2025-yil boshida bu ko‘rsatkich 83 foizga yetdi. Bu
+banklar o‘z kapitalini asosan yuqori sifatli manbalar - aktsiyalar kapitali va foyda
+qayta investitsiyasi hisobiga mustahkamlayotganligidan dalolat beradi. Ikkinchi
+darajali kapital ulushi mos ravishda 22 foizdan 17 foizga tushdi. Oddiy aktsiyalar
+kapitali (Common Equity Tier I) yetarliligi 2020-yilda 12,5 foizdan 2025-yil boshida
+14,7 foizga ko‘tarildi, bu banklar eng yuqori sifatli kapital bilan yaxshi
+ta’minlanganligini ko‘rsatadi.
+                                                                             6-jadval
+                                                                14
+                      Bank kapitali va yetarliligi dinamikasi
+          Ko‘rsatkich                  2020      2021     2022      2023      2024       2025 O‘sish (%)
+ Jami kapital (trln so‘m)               32,0      44,0     58,0      78,0     102,0      125,0      +291
+ Tier I kapital (trln so‘m)             25,0      35,0     46,0      63,0      82,0      104,0      +316
+ Tier II kapital (trln so‘m)             7,0       9,0     12,0      15,0      20,0       21,0      +200
+ Kapital yetarliligi (%)                15,8      16,2     16,8      17,0      17,4       18,3         -
+ Tier I yetarliligi (%)                 12,5      12,9     13,4      14,0      14,3       15,2         -
+ CET1 yetarliligi (%)                   11,2      11,8     12,5      13,2      14,2       14,7         -
+ Kapital/Aktivlar nisbati (%)           15,2      15,6     16,2      18,1      18,8       19,5         -
+       Ushbu jadval tahlili bank tizimining kapital pozitsiyasining sezilarli
+mustahkamlanganligini ko‘rsatadi. Tier I kapitalning Tier II kapitalga nisbatan
+tezroq o‘sayotganligi (316% ga nisbatan 200%) kapital sifatining yaxshilanishini aks
+ettiradi. Barcha kapital yetarliligi ko‘rsatkichlarining o‘sish tendentsiyasi bank
+tizimining yo‘qotishlarni qoplash imkoniyatining kuchayganligidan dalolat beradi.
+Kapitalning jami aktivlarga nisbatining 15,2 foizdan 19,5 foizga oshishi banklarning
+o‘z faoliyatini kapital hisobiga moliyalashtirish ulushining ortganligini ko‘rsatadi,
+bu barqarorlik nuqtai nazaridan ijobiy holat hisoblanadi.
+       Banklararo raqobat darajasi bank tizimi samaradorligi uchun muhim omildir.
+Herfindahl-Hirschman indeksi (HHI) orqali baholanadigan konsentratsiya darajasi
+2020-yilda 950 ni tashkil etgan bo‘lsa, 2025-yil boshida 800 ga tushdi, bu raqobat
+darajasining oshganligidan dalolat beradi. HHI 1000 dan past bo‘lganda bozor past
+
+14
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+                                                                                                              19
+konsentratsiyaga ega va raqobatbardosh hisoblanadi, 1000-1800 oralig‘ida o‘rtacha
+konsentratsiya, 1800 dan yuqorida yuqori konsentratsiya mavjudligi baholanadi.
+O‘zbekiston bank tizimida HHI ning kamayishi yangi banklar bozorga kirganligi,
+xususiy banklar ulushining ortganligi va davlat banklar ining bozor ulushining
+nisbatan kamayishi natijasida yuz berdi.
+                                                                        7-jadval
+              Bozor konsentratsiyasi va raqobat ko‘rsatkichlari 15
+
+               Ko‘rsatkich                        2020       2021      2022      2023       2024        2025
+ Herfindahl-Hirschman indeksi (HHI)                950        910       870       840        820         800
+ Top-5 banklar ulushi (%, aktivlar)                 65         64        62        60         59          58
+ Top-10 banklar ulushi (%, aktivlar)                85         84        82        80         79          78
+ Davlat banklari ulushi (%, aktivlar)               85         80        75        70         67          65
+ Xususiy banklar ulushi (%, aktivlar)               15         20        25        30         33          35
+ Xorijiy banklar ulushi (%, aktivlar)                3          4         5         6          7           8
+ Banklar soni                                       32         30        31        33         35          36
+ Filiallar o‘rtacha soni (bank boshiga)           27,5       30,7      31,1      30,9       31,0        31,9
+       Bozorlarda ulush bo‘yicha tahlil quyidagi holatni ko‘rsatadi: eng yirik beshta
+bank (top-5) 2020-yilda jami bank aktivlarining 65 foizini nazorat qilgan bo‘lsa,
+2025-yil boshida bu ulush 58 foizga tushdi. Eng yirik o‘nta bank (top-10) ulushi
+2020-yilda 85 foizdan 2025-yil boshida 78 foizga kamaydi. Bu tendentsiya bozorda
+raqobatning kuchayayotganligini, kichik va o‘rta banklar ning bozor ulushini oshir
+ayotganligini va monopollashtir ilishning kamayayotganligini ko‘rsatadi. Biroq,
+davlat banklari hali ham dominant pozitsiyaga ega bo‘lib qolmoqda va bu davlat
+banklar ini xususiylashtir ish jarayonini tezlashtir ish zarurligini ta’kidlaydi.
+       Mazkur jadval tahlili bozor tuzilmasining ijobiy o‘zgarishlarini ko‘rsatadi.
+HHI ning doimiy kamayishi raqobatning mustahkamlanayotganligini tasdiqlaydi.
+Top banklar ulushining kamayishi va kichik banklar ning pozitsiyalarini
+mustahkamlashlar i bozorda sog‘lom raqobat muhitining shakllanayotganligidan
+dalolat beradi. Davlat banklar i ulushining 85 foizdan 65 foizga kamayishi muhim
+yutuq bo‘lsa-da, strategiyada belgilangan 40 foizlik maqsadga yetilmagan. Xususiy
+banklar ulushining 15 foizdan 35 foizga oshishi ularning bozor raqobatbardoshligini
+oshir ganligini va xizmat sifatini yaxshilagan ligini ko‘rsatadi. Xorijiy banklar
+ulushining ortishi xalqaro tajriba va texnologiyalarning O‘zbekiston bozor iga kirib
+kelishini anglatadi. Filiallar o‘rtacha sonining barqaror bo‘lishi banklar kengayish
+strategiyasini muvozanatli amalga oshir ayotganligidan dalolat beradi.
+       Xalqaro taqqoslash bank tizimi holatini ob’yektiv baholash uchun muhimdir.
+MDH mamlakatlari bilan taqqoslashda O‘zbekiston bank tizimi quyidagi o‘rinni
+egallaydi: kapital yetarliligi (18,3 foiz) mintaqada yuqori ko‘rsatkichlar dan biri
+bo‘lib, Qozog‘iston (22 foiz), Ozarbayjon (20 foiz) dan pastroq, lekin Qirg‘iziston
+(15 foiz), Tojikiston (16 foiz) dan yuqori; NPL nisbati (4,0 foiz) nisbatan past bo‘lib,
+Qozog‘iston (3,5 foiz) dan biroz yuqori, lekin Qirg‘iziston (7 foiz), Tojikiston (8
+foiz) dan ancha past; ROE (11,8 foiz) o‘rtacha darajada bo‘lib, Qozog‘iston (15
+foiz), Ozarbayjon (18 foiz) dan pastroq, lekin Qirg‘iziston (9 foiz) dan yuqori.
+
+15
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+20
+                                                                     8-jadval
+     Xalqaro taqqoslash - MDH mamlakatlari bank tizimlari (2025-yil boshi)16
+   Ko‘rsatkich   O‘zbekiston Qozog‘iston Ozarbayjon Qirg‘iziston Tojikiston Turkmaniston
+ Kapital
+                    18,3        22,0        20,0       15,0        16,0         m.y.
+ yetarliligi (%)
+ NPL nisbati
+                     4,0         3,5         2,8        7,0         8,0         m.y.
+ (%)
+ ROA (%)             2,1         2,5         2,8        1,5         1,2         m.y.
+ ROE (%)            11,8        15,0        18,0        9,0         8,5         m.y.
+ LCR (%)            195         210         180         160         150         m.y.
+ Banklar soni        36          24          30          23          17          10
+ Bank aktivlar
+                     55          65          45          52          48          40
+ i/YaIM (%)
+ Kreditlar/YaIM
+                     40          48          35          38          35          30
+ (%)
+ Davlat banklar
+                     65          35          70          20          45          90
+ i ulushi (%)
+       Global taqqoslashda O‘zbekiston bank tizimi rivojlanayotgan bozorlar
+o‘rtachasiga yaqin ko‘rsatkichlar ga ega, lekin rivojlangan mamlakatlar dan sezilarli
+orqada qolmoqda. Bank aktivlarining YaIMga nisbati O‘zbekistonda 2025-yilda 55
+foizni tashkil etsa, bu rivojlanayotgan bozorlar o‘rtacha darajasi (60-70 foiz) ga
+yaqin, lekin rivojlangan mamlakatlar da bu ko‘rsatkich 150-200 foizni tashkil etadi.
+Kredit portfelining YaIMga nisbati O‘zbekistonda 40 foizni tashkil etsa, bu
+rivojlanayotgan bozorlar o‘rtacha ko‘rsatkichi (50 foiz) dan pastroq, rivojlangan
+mamlakatlar da esa bu 100-150 foizni tashkil etadi. Bu ko‘rsatkichlar O‘zbekiston
+bank tizimining yanada rivojlanish potentsiliga ega ekanligini ko‘rsatadi.
+       Jadval tahlili O‘zbekiston bank tizimining mintaqada o‘rta-yuqori pozitsiyada
+ekanligini ko‘rsatadi. Kapital yetarliligi va likvidlik ko‘rsatkichlari qoniqarli
+darajada, NPL nisbati maqbul doirada, rentabellik o‘rtacha darajada. Davlat banklar
+i ulushining 65 foiz bo‘lishi Ozarbayjon va Turkmaniston dan pastroq, lekin
+Qozog‘iston va Qirg‘iziston dan yuqoriroq. Banklar sonining nisbatan ko‘p bo‘lishi
+raqobat muhitining mavjudligini, ammo ba’zi banklar ning kichik hajmda ekanligini
+ko‘rsatadi. Bank aktivlar i va kreditlarning YaIMga nisbati mintaqada o‘rtacha
+darajada bo‘lib, moliyaviy chuqurlik yanada oshir ilishi mumkinligini anglatadi.
+       Tijorat banklari kapital barqarorligiga tashqi omillarning ta’sirini empirik
+tahlil qilish uchun 2018 yil yanvar oyidan 2024 yil dekabr oyigacha bo‘lgan davrni
+qamrab oluvchi oylik ma’lumotlardan foydalanildi. Jami kuzatuvlar soni 84 tani
+tashkil etadi.
+       Modelda quyidagi o‘zgaruvchilar qo‘llanilgan:
+        CAR (Capital Adequacy Ratio): Tijorat banklari tizimining umumiy kapital yetarliligi
+koeffitsienti. Bu ko‘rsatkich bank tizimining barqarorligini ifodalovchi asosiy bog‘liq o‘zgaruvchi
+hisoblanadi (foizda).
+        Rate (Policy Rate): Markaziy bankning asosiy stavkasi (qayta moliyalash stavkasi). Bu
+pul-kredit siyosatining asosiy indikatori hisoblanadi (foizda).
+        INF (Inflation): Iste’mol narxlari indeksining yillik o‘zgarishi (yillik inflyatsiya darajasi,
+foizda).
+
+16
+     www.imf.org
+                                                                                                  21
+        M2 (Broad Money): Kengaytirilgan pul massasi. Iqtisodiyotdagi likvidlik darajasini
+ ifodalaydi (mlrd so‘m). Modelda logarifmlangan shaklda (lnM2) foydalaniladi.
+        USD (Exchange Rate): AQSh dollarining o‘zbek so‘miga nisbatan rasmiy almashuv kursi
+ (so‘m/dollar).
+                                                                                               9-jadval
+                VAR(2) modeli natijalari (Bog‘liq o‘zgaruvchi: ΔCAR)
+     Regressor           Koeffitsient        Standart xato          t-statistika          P-qiymat
+  Const                    0.12184               0.115                  1.059                0.2897
+  L1.ΔRate                -0.04436               0.039                 -1.137                0.2579
+  L1.ΔINF                 -0.02516               0.026                 -0.952                0.3436
+  L1.ΔlnM2                -0.19881               0.076                 -2.593             0.0095***
+  L1.ΔUSD                 -0.00642               0.016                 -0.403                0.6879
+  L1.ΔCAR                  0.15474               0.109                  1.419                0.1591
+  L2.ΔRate                 0.00686               0.039                  0.174                0.8618
+  L2.ΔINF                  0.05104               0.027                  1.885               0.0594*
+  L2.ΔlnM2                 0.16048               0.076                  2.095              0.0362**
+  L2.ΔUSD                 -0.01904               0.015                 -1.242                0.2171
+  L2.ΔCAR                 -0.32267               0.109                 -2.941             0.0033***
+         Model diagnostikasi: N=81, Log-likelihood=-207.9156, AIC=-7.6976. ***, **, * mos ravishda 1%, 5%,
+10% ahamiyatlilik darajasini bildiradi.
+         Natijalar shuni ko‘rsatadiki, pul massasining (M2) o‘zgarishi bank kapitali
+barqarorligiga eng kuchli va statistik ahamiyatli ta’sirga ega. Xususan, M2 ning
+birinchi lagdagi koeffitsienti (-0.19881) manfiy va 1% darajada ahamiyatlidir. Bu
+shuni anglatadiki, pul massasining oshishi dastlabki bosqichda kapital yetarliligi
+koeffitsientining pasayishiga olib keladi. Buni iqtisodiy jihatdan shunday izohlash
+mumkin: iqtisodiyotda likvidlik ko‘payganda banklar kreditlashni kengaytiradilar, bu
+esa xatarga tortilgan aktivlar (RWA) hajmini oshiradi va "maxraj effekti" hisobiga
+CAR ko‘rsatkichi pasayadi.
+         Biroq, M2 ning ikkinchi lagi (0.16048) musbat va ahamiyatli bo‘lib, vaqt
+o‘tishi bilan kreditlarning daromad keltirishi va foydaning kapitallashuvi hisobiga
+kapital darajasi qayta tiklanishini ko‘rsatadi. Shuningdek, L2. ΔCAR
+koeffitsientining manfiyligi (-0.32267) kapital yetarliligi ko‘rsatkichi o‘zining
+o‘rtacha qiymatiga qaytish (mean-reverting) xususiyatiga ega ekanligini, ya’ni tizim
+o‘zini-o‘zi barqarorlashtirish mexanizmiga ega ekanligini tasdiqlaydi. Asosiy stavka
+(RATE) va valyuta kursi (USD) bevosita regressiya tenglamasida statistik ahamiyatli
+natija bermagan bo‘lsa-da, ularning ta’siri tizimli xarakterga ega bo‘lishi mumkin.
+         Prognoz xatoliklarining dispersiya dekompozitsiyasi (FEVD) bank kapitali
+o‘zgaruvchanligini qaysi omillar tushuntirib berishini aniqlash imkonini beradi.
+                                                                             10-jadval
+             CAR o‘zgaruvchanligining dispersiya dekompozitsiyasi (%)
+   Davr (oy)         S.E.          Rate            INF            M2               USD         CAR
+  1                 0.654          97.05           0.71           0.61             0.45        1.18
+  3                 0.892           5.70           3.88          88.42             1.47        0.53
+  6                 0.985           4.21           5.14          82.35             3.67        4.63
+  12                1.023           3.87           6.92          78.41             5.23        5.57
+  24                1.045           3.54           7.81          74.23             7.84        6.58
+
+ 22
+       Natijalar shuni ko‘rsatadiki, juda qisqa muddatda (1-oy) CAR
+o‘zgarishining asosiy qismi (97.05%) asosiy stavka (Rate) shoklari bilan
+izohlanadi. Biroq, 3-oydan boshlab vaziyat keskin o‘zgaradi va pul massasi
+(M2) dominant omilga aylanadi (88.42%). Uzoq muddatda (12-24 oy) ham M2
+kapital yetarliligi dispersiyasining asosiy qismini (74-78%) tushuntirib beradi.
+Inflyatsiya va valyuta kursining hissasi vaqt o‘tishi bilan asta-sekin oshib boradi
+(mos ravishda 7.81% va 7.84%), lekin pul massasi omilidan sezilarli darajada
+past bo‘lib qoladi. Bu O‘zbekiston bank tizimi kapitalining likvidlik shart -
+sharoitlariga o‘ta sezgirligini anglatadi.
+       Tijorat banklari kapital barqarorligiga ichki omillarning ta’sirini empirik
+tahlil qilindi. Bunda bog‘liq o‘zgaruvchilar sifatida:
+       CAR — kapital yetarliligi koeffitsienti (%), Bazel III talablariga muvofiq
+hisoblangan holda; bank tizimining jami tartiblovchi kapitali riskga tortilgan
+aktivlarga nisbati sifatida ifodalanadi.
+       Mustaqil (ichki) o‘zgaruvchilar sifatida:
+       Assets — tijorat banklari tizimining jami aktiv hajmi (mlrd so‘m); bank
+tizimining miqyosi va o‘sish sur’atini ifodalaydi.
+       Loans — jami kredit portfeli hajmi (mlrd so‘m); riskka tortilgan
+aktivlarning asosiy komponentini tashkil etadi.
+       HQLA — yuqori sifatli likvid aktivlarning jami aktivlarga nisbati (%);
+bank tizimining likvidlik zaxirasini va qisqa muddatli to‘lov qobiliyatini
+ifodalaydi.
+       NetProfit — tijorat banklari tizimining sof yillik foydasi (mlrd so‘m, yil
+boshidan hisoblangan kumulyativ ko‘rsatkich).
+       ROA — aktivlar rentabelligi (%), sof foydaning o‘rtacha aktivlarga
+nisbati; bank sektorining umumiy samaradorlik darajasini aks ettiradi.
+       Bank aktivlarining oylik log-o‘sish sur’atining bitta foizlik oshishi keyingi
+oyda kapital yetarliligini taxminan 0.24 foiz punktga ijobiy o‘zgartiradi. Bu natija
+dastlab kutilmagandek ko‘rinishi mumkin, ammo uning iqtisodiy izohi mavjud:
+aktivlar kengayishi asosan yangi kapital kiritish (aktsiyalar chiqarish,
+subordinirovanniy qarzlar jalb qilish) bilan birgalikda amalga oshiriladigan
+holatlarda tartiblaydi. Shu bilan birga, aktiv o‘sishining kredit portfeli o‘sishidan
+ustun kelishi — masalan, likvid aktivlar yoki qimmatli qog‘ozlar portfeli orqali —
+risk-og‘irlikli aktivlarni mos ravishda oshirmasligi va shu tariqa CARni qo‘llab-
+quvvatlashi mumkin.
+       Kredit portfeli o‘sishi ham birinchi kechikishda CARga ijobiy ta’sir
+ko‘rsatadi (koeffitsient = 0.260, p = 0.027). Bu natija dastlabki ko‘rinishda kredit
+kengayishining kapital buferini siqib qo‘yishi haqidagi klassik nazariya bilan zid
+tuyuladi. Ammo iqtisodiy tushuntirish shunday: O‘zbekiston tijorat banklari,
+ayniqsa davlat banklari, kredit portfelini kengaytirish oldidan regulyator talablarini
+bajarilib bo‘lmasdan kapital bazasini kengaytirish majburiyatini qo‘ygan bo‘lishi
+mumkin. Ya’ni, kapital yetarliligini avvaldan ta’minlash shartida kreditlash amalga
+oshiriladi. Bundan tashqari, 2018—2022 yillarda davlat tomonidan kapital
+infuziyalari kredit o‘sishi bilan parallel ravishda sodir bo‘ldi.
+                                                                                   23
+                                                                    11-jadval.
+            VAR(6) modeli — ΔCAR tenglamasi koeffitsientlari (n = 77)
+  O‘zgaruvchi        Koeffitsient   Standart xato   t-statistika   p-qiymat   Ahamiyatlilik
+      Const           −0.01373         0.03611         −0.380       0.7038         —
+  L1.ΔlnAssets         0.24126         0.12239          1.971       0.0487         **
+  L1.ΔlnLoans          0.25990         0.11718          2.218       0.0266         **
+   L1.ΔHQLA           −0.96047         0.68419         −1.404       0.1604         —
+ L1.ΔlnNetProfit       0.00003         0.00086          0.040       0.9678         —
+    L1.ΔROA           −1.68114         1.29680         −1.296       0.1948         —
+    L1.ΔCAR            2.20106         0.15784         13.945       0.0000        ***
+  L2.ΔlnAssets        −0.46105         0.31729         −1.453       0.1462         —
+ L2.ΔlnLOANS          −0.45641         0.30336         −1.505       0.1324         —
+   L2.ΔHQLA            2.04952         1.85704          1.104       0.2697         —
+ L2.ΔlnNetProfit       0.00074         0.00105          0.706       0.4803         —
+    L2.ΔROA            3.10249         3.32646          0.933       0.3510         —
+    L2.ΔCAR           −2.13019         0.37664         −5.656       0.0000        ***
+    L4.ΔCAR            0.93030         0.48869          1.904       0.0570          *
+    L5.ΔCAR           −0.95376         0.35602         −2.679       0.0074        ***
+    L6.ΔCAR            0.39363         0.14805          2.659       0.0078        ***
+       Kapital yetarliligining o‘z-o‘ziga kechikgan ta’siri murakkab tsiklik
+dinamikani ko‘rsatadi. Birinchi kechikishda kuchli ijobiy (2.201, p < 0.001),
+ikkinchi kechikishda esa yuqori salbiy (−2.131, p < 0.001) koeffitsientlar mavjud.
+Bu “overshooting” — ya’ni kapital ko‘rsatkichining maqsadli darajasidan yuqoriga
+oshib, so‘ng qisqa muddatda qayta tuzatilishi hodisasini aks ettiradi. Beshinchi va
+oltinchi kechikishlar ham statistik jihatdan muhim bo‘lib (mos ravishda p = 0.0074
+va p = 0.0078), bank kapitali boshqaruvining yarim yillik tsikllik xususiyatiga ishora
+qiladi.
+       HQLA, NetProfit va ROA kabi uch o‘zgaruvchining koeffitsientlari ΔCAR
+tenglamasida statistik jihatdan ahamiyatsiz (p > 0.10) bo‘ldi. Bu ularning kapital
+yetarliligiga ta’sirini inkor etmaydi — FEVD tahlili ROAning ikkinchi eng muhim
+omil ekanligini ko‘rsatadi — balki ularning ta’siri to‘g‘ridan-to‘g‘ri (bir oylik
+kechikish) emas, balki murakkab uzatish mexanizmlari orqali amalga oshishini
+anglatadi.
+       Cholesky identifikatsiyasi asosida ortogonallashtirilgan impuls-reaksiya
+funksiyalari (IRF) har bir tuzilmaviy shokunning ΔCAR dinamikasiga 0 dan 24
+oygacha bo‘lgan gorizontlarda ta’sirini ko‘rsatadi.
+                                                                           12-jadval.
+              ΔCAR ning har bir tuzilmaviy shunga reaksiyasi (IRF)
+     Gorizont (oy)    ΔlnAssets     ΔlnLoans   ΔHQLA      ΔlnNetProfit    ΔROA       ΔCAR
+      0 (darhol)      +0.01517      +0.05197   −0.00716     −0.00128     −0.03901   +0.04064
+           1          +0.04864      +0.13671   −0.03730     −0.00617     −0.10002   +0.08946
+           2          +0.08648      +0.20850   −0.08542     −0.00974     −0.15620   +0.11093
+           3          +0.09783      +0.19016   −0.13056     −0.00322     −0.15881   +0.07099
+           6          +0.02450      −0.12408   −0.12477     +0.06135     −0.00362   −0.07347
+          12          +0.00067      −0.06712   +0.00271     −0.00937     −0.00768   −0.01300
+          18          +0.01631      −0.05130   −0.03497     +0.00694     −0.02695   +0.00132
+          24          −0.02654      −0.03909   −0.03405     −0.00841     −0.04849   +0.01164
+
+24
+        Kredit portfeli o‘sishiga berilgan tuzilmaviy shok CARga birinchi ikki oyda kuchli
+ijobiy ta’sir ko‘rsatadi (+0.137 dan +0.208 gacha, gorizont 1—2), bu esa bank-ichki
+kapital talab mexanizmining ishlashini ko‘rsatadi: kreditlash kengayishi avvalida kapital
+kiritish bilan birga boradi. Ammo 6. oydan boshlab reaksiya salbiy tortadi (−0.124,
+gorizont 6), ya’ni kredit portfelining tez o‘sishi yarim yildan so‘ng risk-og‘irlikli aktivlar
+orqali CARni qisqartiradi. Bu inversiya kredit bo‘yicha risk materiallanishi uchun kerakli
+vaqt bilan izohlanadi. Bundan tashqari, ta’sir 12—24 oy oralig‘ida sezilarli darajada
+atenuatsiya qiladi (−0.067, −0.039), bu esa kredit portfeli shokunining o‘rta muddatli
+ta’siri o‘tkinchi ekanligini bildiradi.
+        Aktiv hajmining tuzilmaviy shoki CARga 3. oygacha ortib boruvchi ijobiy ta’sir
+ko‘rsatadi (+0.098, gorizont 3), so‘ng sekinlashadi. Bu aktivlar kengayishining dastlabki
+bosqichda likvid, past-riskli aktiv kategoriyalari hisobiga ketishini aks ettiradi. 12. oydan
+so‘ng ta’sir amalda ahamiyatsizlashadi.
+        Aktivlar rentabelligining tuzilmaviy shoki CARga 0. oydan 3. oygacha doimiy
+salbiy ta’sir ko‘rsatadi (eng kuchli darajada −0.156—−0.159, gorizont 2—3). Bu
+paradoksal ko‘ringan natijaning iqtisodiy izohi quyidagicha: ROAning keskin oshishi
+ba’zan kapital buferining pasayishi hisobiga yuzaga kelgan qo‘shimcha risk qabul qilish
+bilan birga boradi. Tanlangan kuzatuv davrida (2020—2021) aynan shu munosabat
+kuzatildi: o‘tish davri foydakorligining oshishi kredit riski haqiqiy baholanmagan holda
+amalga oshdi. 6. oydan boshlab ta’sir amalda yo‘qoladi.
+        HQLA ko‘rsatkichining shoki dastlabki bir necha oyda salbiy ta’sir ko‘rsatadi
+(−0.008 dan −0.131 gacha, gorizont 0—3). Bu ko‘rinishda likvid aktivlarga
+yo‘naltirilgan mablag‘lar kredit portfelidan ortadi, risk-og‘irlikli aktivlar kamayadi — bu
+CARni oshirishi kerak edi. Ammo salbiy munosabat O‘zbekiston banklari uchun
+spetsifik holatni aks ettiradiki, ko‘pincha likvid aktivlarni oshirish yuqori daromadli
+kreditlardan mablag‘ tortib olinishi shaklida amalga oshiriladi, bu esa rentabellikni va
+oxir oqibat — kapital bazasini zaiflashtirib qo‘yadi.
+        Prognoz xatosi dispersiyasi dekompozitsiyasi (FEVD) har bir tuzilmaviy
+shokunning ΔCAR o‘zgaruvchanligini turli vaqt gorizontlarida qanchalik foiz ulushini
+tushuntirishini miqdoriy baholaydi. Ushbu tahlil ichki omillarning nisbiy ahamiyatini
+dinamik tarzda ko‘rsatish imkonini beradi.
+                                                                                  13-jadval.
+                 ΔCAR prognoz xatosi dispersiyasining tarkibi (%)
+Gorizont (oy)    ΔlnAssets ΔlnLoans       ΔHQLA       ΔlnNetProfit     ΔROA       ΔCAR o‘zi
+    1 oy            3.74     43.86          0.83          0.03         24.71        26.83
+    3 oy            7.11     45.78          6.17          0.10         25.35        15.50
+    6 oy            8.91     35.12         21.69          0.81         23.80         9.68
+   12 oy            7.31     34.78         26.56          3.25         18.87         9.23
+   18 oy            6.81     38.83         24.32          3.17         17.81         9.05
+       ΔlnLoans shoklari ΔCAR o‘zgaruvchanligining barcha vaqt gorizontlarida eng
+katta ulushini tashkil etadi: 1-oyda 43.86 foiz, 3-oyda 45.78 foiz — maksimum darajaga
+yetadi, 6—18 oylar oralig‘ida esa 35—39 foiz atrofida barqarorlashadi. Bu natija kredit
+portfeli dinamikasining bank kapital barqarorligiga nisbatan doimiy va dominant ta’sir
+ko‘rsatuvchi omil ekanligini qat’iy isbotlaydi. O‘zbekiston kontekstida bu topilma
+                                                                                           25
+ayniqsa ahamiyatli: 2018—2022 yillardagi yillik 18—58 foizlik kredit o‘sishi CARning
+o‘zgaruvchanligini asosan kredit faoliyati darajasi belgilaganligini tasdiqlaydi.
+     Dissertatsiya ishining “Tijorat banklari kapital barqarorligini ta’minlash
+yo‘llari” deb nomlangan uchinchi bobida tijorat banklarida kapital barqarorligini
+ta’minlashning prognoz stenariylari, hamda tijorat banklari kapitali barqarorligini
+ta’minlash bilan bog‘liq bо‘lgаn muаmmоlаr va ularni bartaraf etishga qaratilgan ilmiy
+xulosalar va takliflar shakllantirilgan.
+
+
+
+
+ 1-rasm. “O‘zsanoatqurilishbank” ATB aktivlari, kreditlari va kapitalining 3
+               xil model asosida 2030 yilgacha prognoz ssenariylari
+       O‘zbekiston bank tizimi so‘nggi yillarda keng ko‘lamli transformatsiya
+jarayonlarini boshdan kechirmoqda. Ushbu o‘zgarishlarning markazida tizimning
+barqarorligini ta’minlash, xususiylashtirishga tayyorgarlik va raqamli texnologiyalarni
+joriy etish masalalari turibdi. Mazkur islohotlarning faol ishtirokchisi sifatida
+“O‘zsanoatqurilishbank” ATB alohida o‘rin tutadi. Bank nafaqat mamlakatdagi eng yirik
+moliya institutlaridan biri, balki sanoat va qurilish sohalarini moliyalashtirishda yetakchi
+hisoblanadi.
+     Ushbu tahliliy ishning dolzarbligi shundaki, globallashuv va iqtisodiy noaniqliklar
+sharoitida banklarning moliyaviy ko‘rsatkichlarini aniq prognoz qilish strategik qarorlar
+qabul qilishda hal qiluvchi ahamiyatga ega. An’anaviy usullar bilan bir qatorda,
+zamonaviy ekonometrik modellar – ARIMA (AutoRegressive Integrated Moving
+Average), SARIMA (Seasonal ARIMA) va Holt-Winters eksponensial silliqlash
+usullarini qo‘llash orqali bankning kelgusi rivojlanish tendensiyalarini aniqlash
+imkoniyati yaratiladi.
+26
+      Tahlilda qo‘llanilgan modellarning qiyosiy tahlili keltirilgan. Ekonometrik
+modellashtirishda "bir o‘lcham hammasiga to‘g‘ri kelmaydi" tamoyili amal qiladi.
+Bizning tahlilimizda ham bu yaqqol namoyon bo‘ldi.
+                                                                          -jadval
+                  Prognoz solishtirish va modellar samaradorligi
+   Ko‘rsatkich        Model          RMSE (Aniqlik)     AIC (Sifat)        Xulosa
+                  ARIMA(1,1,1)           2.41             24.23       Yaxshi moslashish
+ Aktivlar                                                                 Eng aniq
+                  Holt-Winters             1.69           97.20
+                                                                          (Best Fit)
+                  ARIMA(1,1,1)            16.59           3265.2         Past aniqlik
+ Kreditlar                                                                Eng aniq
+                  Holt-Winters             3.59           106.2
+                                                                          (Best Fit)
+                  ARIMA(1,1,1)             2.80           1179.0          O‘rtacha
+ Kapital                                                                  Eng aniq
+                  Holt-Winters             0.51            82.9
+                                                                          (Best Fit)
+       Jadvaldan ko‘rinib turibdiki, Holt-Winters eksponensial silliqlash modeli barcha
+uchta ko‘rsatkich bo‘yicha eng kichik RMSE (Root Mean Square Error) xatoligini
+ko‘rsatdi. Bu shuni anglatadiki, O‘zsanoatqurilishbankning moliyaviy ko‘rsatkichlari
+aniq trendga ega va o‘tgan davrdagi tebranishlar kelajakdagi qiymatlarga silliq ta’sir
+ko‘rsatadi. ARIMA modeli aktivlar uchun yaxshi natija bergan bo‘lsa-da, kredit
+portfelidagi keskin o‘zgarishni (2025 yildagi pasayish) to‘g‘ri modellashtira olmadi va
+o‘ta pessimistik prognoz berdi.
+       Olingan natijalar O‘zbekiston bank tizimining rivojlanish strategiyasi kontekstida
+muhim ahamiyatga ega.
+       Birinchidan, aktivlarning o‘sishi va Diversifikatsiya: 2030-yilga kelib
+aktivlarning 180 trln so‘mga yetishi bankning miqyosi kengayishini anglatadi. Biroq,
+faqat hajm ortidan quvish emas, balki sifat o‘zgarishi muhim. Aktivlar tarkibida yuqori
+likvidli va daromadli instrumentlarning ulushi oshishi kerak.
+       Ikkinchidan, kredit siyosatidagi ehtiyotkorlik: Kredit portfelining prognoz
+qilinayotgan sekinroq o‘sishi (aktivlarga nisbatan) bankning konservativ siyosatga
+o‘tganini tasdiqlaydi. Bu "aktivlar sifati" (Asset Quality) ko‘rsatkichlarini yaxshilash
+uchun zarur qadamdir. Kelajakda bank korporativ kreditlashdan ko‘ra, kichik va o‘rta
+biznes (KO‘B) hamda chakana kreditlashni rivojlantirishga urg‘u berishi mumkin.
+
+
+
+
+ 2-rasm. “O‘zsanoatqurilishbank” ATB aktivlari, kreditlari va kapitalining 2
+ xil model asosida 2030 yilgacha prognoz ssenariylarining solishtirma grafigi
+                                                                                          27
+       Uchinchidan, kapital yetarliligi: Kapitalning barqaror o‘sishi bankning
+shoklarga chidamliligini oshiradi. 17 trln so‘mlik kapital bazasi bankka xalqaro
+reyting agentliklari (Fitch, S&P, Moody’s) tomonidan yuqoriroq reytinglar olish
+imkonini beradi, bu esa o‘z navbatida xalqaro bozorlardan arzonroq resurslar jalb
+qilishga yo‘l ochadi.
+                                                                       14-jadval
+        Kapital barqarorligiga ta’sir etuvchi asosiy muammolar tasnifi17
+                                                                Ta’sir                 Bartaraf etish
+     Muammo turi                       Tavsif                             Qamrov
+                                                               darajasi                murakkabligi
+
+      Kapital tarkibi     II darajali kapital past salmog‘i,
+                                                               Yuqori      Tizimli         O‘rta
+     nomutanosibligi      gibrid instrumentlar etishmasligi
+
+                             Davlat sektoriga ortiqcha
+         Kredit                                                  Juda
+                                 kreditlash, portfel                       Tizimli        Yuqori
+     konsentratsiyasi                                           yuqori
+                          diversifikatsiyasi yetishmasligi
+        Likvidlik                Banklararo bozor
+                                                                O‘rta-
+     boshqaruvi zaif          rivojlanmaganligi, talab                     Tizimli         O‘rta
+                                                                yuqori
+         jihatlari               depozitlari 59,5%
+                              Hedjirlash instrumentlari
+      Valyuta riski          yo‘qligi, valyuta kursining       Yuqori      Tizimli        Yuqori
+                                     beqarorligi
+     Emission
+                           Aksiya, obligatsiya emissiyasi
+   operatsiyalari                                               O‘rta      Tarmoq          O‘rta
+                            past, investorlar bazasi tor
+ rivojlanmaganligi
+     Basel III to‘liq
+                          CCyB, D-SIB buferlar mavjud
+          joriy                                                 O‘rta     Regulyativ     Past-o‘rta
+                                    emas
+     etilmaganligi
+                            DSTI 34%, uy-joy narxlari
+     Makroiqtisodiy
+                           fundamental qiymatdan 17%           Yuqori      Makro          Yuqori
+      beqarorlik
+                           yuqori, mikroqurzlar o‘sishi
+
+       Muammoli              NPL nisbati o‘sishi, kredit
+                                                                O‘rta       Bank           O‘rta
+     kreditlar o‘sishi           monitoring zaif
+
+   Kapital bozori            Likvidlik past, vositachilar
+                                                               Yuqori      Tizimli        Yuqori
+ rivojlanmaganligi                 tarmog‘i zaif
+
+      Nobarqaror
+                              Devalvatsiya zahiralari,
+     moliyalashtirish                                           O‘rta       Bank           O‘rta
+                              imtiyozli kredit fondlar
+       manbalari
+      Keyns va Minsky moliyaviy beqarorlik nazariyasiga ko‘ra, kredit
+ekspansiyasi davrida qarz oluvchilar va kreditorlar xavf-xatar idrokini pasaytirib,
+haddan tashqari kreditlashni boshlaydilar, bu esa moliyaviy bozorda "Ponzi"
+
+17
+     Muallif ishlanmasi
+28
+moliyalashtirish holatiga olib keladi va keyinchalik inqirozga sabab bo‘ladi.
+O‘zbekiston uchun makroiqtisodiy beqarorlik darajasini baholashda muhim
+ko‘rsatkichlar — inflyatsiya sur’ati, foiz stavkalari, byudjet taqchiligi va tashqi qarz
+yuki — tijorat banklari kapital rejalashtirish va stress-testlariga bevosita kiritilishi
+lozim. Makroprudensial siyosat — bu moliya tizimi barqarorligini ta’minlash
+maqsadida Markaziy bank tomonidan amalga oshiriladigan siyosat —
+O‘zbekistonda LTV va PTI cheklovlari orqali amalga oshirilmoqda, biroq CCyB
+kabi qo‘shimcha vositalar hali joriy etilmagan.
+
+                                      XULOSA
+
+       O‘zbekiston bank tizimi barqaror ligining amaldagi holatini umumlashtirgan
+holda quyidagi xulosalarni chiqarish mumkin: bank tizimi 2020-2025 yillar
+davomida tez sur’atlar bilan o‘sdi va moliyaviy ko‘rsatkichlar i sezilarli yaxshilandi;
+kapital yetarliligi, likvidlik va rentabellik ko‘rsatkichlari qoniqarli darajada bo‘lib,
+xalqaro standartlar ga javob bermoqda; muammoli kreditlar nisbati nazorat ostida va
+maqbul doirada saqlanmoqda; raqamli transformatsiya tezlashmoqda va moliyaviy
+inklyuziya kengaymoqda; bozor raqobati kuchaymoqda, lekin davlat banklar ining
+ulushi hali ham yuqori; xalqaro hamkorlik rivojlanmoqda va bank tizimi global
+moliyaviy tizimga integr atsiyalashmoqda; stress-testlar bank tizimining tashqi
+zarbalar ga bardoshliligini tasdiqlamoqda; biroq, bir qator tuzilmaviy muammolar
+va risklar mavjud bo‘lib, ularni hal qilish kelajakdagi barqaror rivojlanish uchun
+zarur.
+       Bank tizimi barqaror ligini yanada mustahkamlash uchun quyidagi strategik
+yo‘nalishlar muhimdir: davlat banklar ini xususiylashtir ish jarayonini tezlashtir ish;
+Basel III standartlar ini to‘liq joriy etishni yakunlash; risk-menejment tizimlar ini
+xalqaro andozalar ga muvofiqlashtir ish; korporativ boshqaruv standartlar ini oshir
+ish; raqamli transformatsiyani davom ettir ish; fintech sektori bilan hamkorlikni
+kengaytirishlar; chakana kreditlash segmentida prudensial nazoratni kuchaytir ish;
+kiberhavfsizlikka investitsiyalar ni oshir ish; xodimlar malakasini xalqaro darajaga
+ko‘tarish; shaffoflikni oshir ish va hisobotlar sifatini yaxshilash; makro-prudensial
+siyosatni takomillashtir ish; stress-testlar metodologiyasini yangilash; xalqaro
+moliya institutlari bilan hamkorlikni chuqurlashtirishar.
+       Bank kapitali barqarorligiga tashqi omillar ta’sirining ekonometrik modeli
+borasidagi tadqiqot 2018-2024 yillar davomida O‘zbekiston tijorat banklari kapitali
+barqarorligiga tashqi makroiqtisodiy omillarning ta’sirini SVAR modeli yordamida
+baholadi. Empirik tahlil natijalari shuni ko‘rsatdiki, bank tizimining kapital
+yetarliligi (CAR) tashqi shoklarga, xususan, pul massasi o‘zgarishlariga sezgir
+reaksiyaga ega. Barcha o‘zgaruvchilar I(1) tartibli ekanligi va VAR(2) modeli
+ma’lumotlar dinamikasini eng yaxshi tushuntirib berishi aniqlandi.
+       Tadqiqotning eng muhim natijasi, kengaytirilgan pul massasi (M2) bank
+kapitali o‘zgaruvchanligini tushuntiruvchi dominant omil hisoblanadi (uzoq
+                                                                                     29
+muddatda 74-78% hissa bilan). Pul massasining o‘sishi qisqa muddatda kapital
+yetarliligiga salbiy ta’sir ko‘rsatadi, bu kredit ekspansiyasi bilan bog‘liq. Asosiy
+stavka siyosati va inflyatsiya esa bilvosita va kamroq darajada ta’sirga ega.
+Shuningdek, bank tizimi kapitali "o‘rtacha qiymatga qaytish" xususiyatiga ega
+bo‘lib, bu tizimning ichki barqarorlik potensiali mavjudligidan dalolat beradi.
+
+
+
+
+30
+     НАУЧНЫЙ СОВЕТ DSc.03/2025.27.12.I.30.01
+   ПО ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+ ТАШКЕНТСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ
+
+
+
+
+            ЁДГОРОВ МАНСУР НАБИЕВИЧ
+
+
+
+ПУТИ ОБЕСПЕЧЕНИЯ УСТОЙЧИВОСТИ КАПИТАЛА
+         КОММЕРЧЕСКИХ БАНКОВ
+
+
+
+       08.00.07 - "Финансы, денежное обращение и кредит"
+
+
+
+
+                       АВТОРЕФЕРАТ
+ диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                    город Ташкент - 2026 год
+                                                               31
+32
+      ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+      Актуальность и востребованность темы диссертации. В мировой
+экономике обеспечение устойчивости капитала в коммерческих банках
+является стратегической необходимостью не только для отдельных
+финансовых институтов, но и для устойчивости всей глобальной
+экономической системы. Сегодня совокупные активы мировых коммерческих
+банков превышают 160 триллионов долларов США18, и устойчивость этой
+огромной финансовой системы напрямую зависит от достаточности капитала.
+Наиболее ярким тому подтверждением является глобальный финансовый
+кризис 2008-2009 годов: крупнейшие банки США — Lehman Brothers,
+Washington Mutual, IndyMac и другие — разорялись индивидуально или
+систематически из-за недостаточного резерва капитала, в течение 2008-2015
+годов в банковской системе США более 500 коммерческих банков объявили о
+банкротстве19, в результате чего мировой ВВП сократился на 4,2 триллиона
+долларов20. После этого тяжелого урока нормативная система Базель III,
+разработанная под руководством Банка международных расчетов (БМР),
+начала внедряться с 2010 года. Мониторинговое исследование BIS с участием
+176 банков по итогам 2024 года показывает, что среднее соотношение CET1
+крупных международных банков (Group 1) достигло 14,3% - это почти в 3,2
+раза выше минимального требования21, что свидетельствует об укреплении
+уставного капитала.
+      В мировой финансовой системе вопрос обеспечения устойчивости
+капитала в коммерческих банках стал одним из постоянных и приоритетных
+направлений научных исследований, а академический интерес к этой области
+резко возрос, особенно после глобального финансового кризиса 2008-2009
+годов. Многие исследования, проведенные на сегодняшний день, в основном
+сосредоточены на трех направлениях: влияние коэффициентов достаточности
+капитала (в первую очередь CET1 и Tier 1) на устойчивость банка,
+эффективность регуляторной системы Базеля III, а также циклическая связь
+между буферами капитала и кредитным циклом. В частности, если
+представители классической школы доказали обратную связь между
+капиталом и кредитным риском, то современные исследования более глубоко
+изучают взаимосвязь между объемом буферов капитала, их составом и через
+них рентабельностью и устойчивостью банков. В последние годы
+исследования все чаще рассматривают влияние цифровой трансформации и
+финтех-революции на банковский капитал: в частности, такие работы, как
+«Digital Pathways to Stability», исследуют механизмы, с помощью которых
+цифровое финансовое развитие может присоединиться к банковской
+устойчивости или поставить ее под угрозу. Кроме того, ряд исследований,
+18
+   BIS Basel III Monitoring Exercise, December 2024 – https://tabinsights.com/article/combined-assets-of-the-1000-
+largest-banks-worldwide-reach
+19
+   https://www.fdic.gov/media/18626 («Crisis and Response: An FDIC History, 2008–2013»)
+20
+   https://www.imf.org/external/pubs/ft/weo/2009/01/pdf/text.pdf
+21
+   https://www.bis.org/press/p251023.htm
+                                                                                                              33
+финансируемых ЕЦБ и BIS, анализируют такие сложные вопросы, как
+взаимодействие между капиталом и ликвидностью, факторы, определяющие
+устойчивость банков к кризисам, и цикличность регуляторных требований.
+Однако ряд важных направлений до сих пор не получил достаточного
+внимания научного сообщества: во-первых, устойчивость капитала в
+коммерческих банках развивающихся стран и стран с переходной экономикой
+редко изучалась в контексте специфических институциональных и
+макроэкономических условий, а во-вторых, долгосрочное влияние изменения
+климата и политики зеленого финансирования на структуру капитала банков
+еще недостаточно формализовано с теоретической точки зрения. В-третьих,
+основные мотивации сохранения капитала сверх требуемого минимума -
+феномен «избытка капитала» - практически не изучены в развивающихся
+странах. Кроме того, эмпирические исследования, проверяющие связь
+расширения цифровых платежных систем со стабильностью банковского
+капитала, показывают, что их еще недостаточно.
+      В условиях современной глобализации и стремительно развивающихся
+процессов финансовой интеграции вопрос обеспечения устойчивости
+капитала коммерческих банков Узбекистана становится актуальной
+проблемой, требующей не только практического управления, но и глубоких
+научных исследований. Развитие экономики нашей страны, постоянный рост
+объема иностранных инвестиций - в таких условиях капитальная устойчивость
+банковской системы рассматривается как основной столп экономической
+стабильности, что еще больше усиливает необходимость совершенствования
+научно-методологических подходов к ней. Президент Шавкат Мирзиёев на
+видеоселекторном совещании с участием банков 16 декабря 2024 года
+подчеркнул этот вопрос как приоритетное направление государственной
+политики и прямо отметил: «Для достижения этих целей банки должны быть
+финансово устойчивыми» и «в сегодняшних сложных условиях мировой
+экономики важно усилить финансовую дисциплину и персональную
+ответственность на всех уровнях финансово-банковской системы». Данные
+поручения главы государства создают необходимость глубокого научно-
+эмпирического изучения не только в сфере операционного управления
+банковской системой, но и показателей достаточности капитала коммерческих
+банков (в частности, соотношения регулятивного капитала в соответствии с
+требованиями Базеля III), качественной структуры и конкурентоспособности
+капитала, механизмов минимизации системных финансовых рисков, а также
+корреляционных      связей   между макроэкономическими         факторами,
+влияющими на устойчивость капитала.
+      Данное научное исследование в определенной степени служит
+выполнению задач, определенных в Указе Президента Республики Узбекистан
+от 28 января 2022 года No УП-60 «О Стратегии развития нового Узбекистана
+на 2022-2026 годы», Указе Президента Республики Узбекистан от 5 октября
+2020 года No УП-6079 «Об утверждении Стратегии «Цифровой Узбекистан-
+2030» и мерах по ее эффективной реализации», Указе Президента Республики
+34
+Узбекистан от 12 мая 2020 года No УП-5992 «О Стратегии реформирования
+банковской системы Республики Узбекистан на 2020-2025 годы»,
+Постановлении Президента Республики Узбекистан от 24 мая 2023 года No
+ПП-162 «О мерах по повышению охвата и качества цифровых услуг, а также
+цифровой трансформации сфер, отраслей и регионов», Постановлении
+Президента Республики Узбекистан от 23 марта 2018 года No ПП-3620 «О
+дополнительных мерах по повышению доступности банковских услуг» и
+других нормативно-правовых документах в данной сфере.
+      Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетным направлением развития науки и
+технологий республики I. «Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+      Степень изученности проблемы. Фундамент первой классической
+теории, объясняющей устойчивость банковского капитала, был заложен
+Фрэнком Модильяни и Мертоном Миллером, которые доказали, что в
+условиях идеального рынка структура капитала не влияет на стоимость банка.
+Однако они также подчеркивали необходимость регулирующего капитала в
+реальном банковском деле благодаря государственным гарантиям и
+налоговым льготам. Майкл Дженсен и Уильям Меклинг в рамках теории
+агентства научно обосновали, что акционеры и менеджеры склонны брать на
+себя чрезмерный риск («риск-шифтинг») за счет средств вкладчиков при
+низком уровне капитала. Дуглас Даймонд и Филип Дибвиг, моделируя
+функцию трансформации ликвидности банков и риск «бега банка», доказали
+жизненно важную роль буферов капитала и механизмов страхования
+депозитов в системной устойчивости.22 Эти три теоретические школы и
+сегодня составляют методологическую основу всех академических
+исследований капитала.
+      Ученые Международной макропруденциальной школы (Современные
+глобальные подходы) развитых стран изучают банковский капитал с точки
+зрения устойчивости не только отдельного учреждения, но и всей финансовой
+системы. Анат Адмати и Мартин Хеллвиг оценили действующие требования
+к капиталу Базеля III как недостаточные и научно обосновали повышение
+коэффициентов капитала до 20-30% для снижения системных рисков. Аллен
+Бергер и Криста Боуман на примере банков США эмпирически показали, что
+учреждения с высоким капиталом сохраняют стабильный объем кредитования
+в период кризиса и вероятность банкротства значительно ниже. Сэмюэл
+Хансон, Анил Кашьяп и Джереми Стейн в рамках макропруденциального
+
+22
+  Modigliani, F., & Miller, M.H. (1958). The Cost of Capital, Corporation Finance and the Theory of Investment.
+The American Economic Review, 48(3), 261-297. Jensen, M.C., & Meckling, W.H. (1976). Theory of the Firm:
+Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics, 3(4), 305-360.
+Diamond, D.W., & Dybvig, P.H. (1983). Bank Runs, Deposit Insurance, and Liquidity. Journal of Political Economy,
+91(3), 401-419.
+                                                                                                            35
+регулирования выдвинули идею накопления контрциклических буферов
+капитала (CCyB) в период экономического подъема и их расходования во
+время рецессии. Тобиас Адриан и Хён Сонг Шин разработали концепцию
+«цикла левериджа», утверждая, что увеличение банками левериджа при росте
+цен на активы еще больше усиливает финансовые циклы, которые необходимо
+сдерживать с помощью макропруденциальных инструментов. Беверли Хиртл
+и Анна Ковнер проанализировали, что стресс-тесты (программа
+Comprehensive Capital Analysis and Review -CCAR) служат коренному
+улучшению системы планирования капитала банков и усилению рыночного
+контроля.23
+      Ученые России и стран СНГ изучают устойчивость капитала в основном
+как проблему адаптации международных стандартов к национальным
+условиям и устойчивости к внешним экономическим шокам. О.И. Лаврушин
+выступал за поэтапное внедрение стандартов Базель II и III с учетом
+национальных особенностей, предупреждая, что мгновенный переход может
+негативно сказаться на кредитном рынке. М.А. Поморина доказал, что,
+несмотря на краткосрочное негативное влияние требований к капиталу на
+кредитование, в долгосрочной перспективе выигрыш от устойчивости
+значительно выше. Е.А. Звонова и М.А. Богачева обосновали, что в условиях
+экономики, зависящей от цен на нефть, валютная девальвация и внешние шоки
+оказывают сильное негативное влияние на банковский капитал, в связи с чем
+необходимо избыточное сохранение буферов капитала. В.Л. Тамбовцев
+показал, что в период шоков банки с коэффициентом капитала выше 12%
+сокращают кредитование на 34% меньше, чем банки с коэффициентом
+капитала 8%. С.Л. Пластун эмпирически установил, что существует
+немонотонная связь между капиталом и эффективностью с помощью метода
+DEA (Data Envelopment Analysis), то есть средний уровень капитала является
+наиболее эффективным.24
+23
+   Admati, A., & Hellwig, M. (2013). The Bankers’ New Clothes: What’s Wrong with Banking and What to Do about
+It. Princeton University Press. Admati, A. R., & Hellwig, M. (2019). The Bankers’ New Clothes: What’s Wrong with
+Banking and What to Do About It (Expanded edition). Princeton University Press. Berger, A.N., DeYoung, R.,
+Flannery, M.J., Lee, D., & Öztekin, Ö. (2008). How Do Large Banking Organizations Manage Their Capital Ratios?
+Journal of Financial Services Research, 34(2-3), 123-149. Berger, A.N., & Bouwman, C.H.S. (2013). How Does
+Capital Affect Bank Performance During Financial Crises? Journal of Financial Economics, 109(1), 146-176. Berger,
+Allen & Bouwman, Christa, 2015. «Bank Liquidity Creation and Financial Crises«, Elsevier Monographs, Elsevier,
+edition 1, number 9780128002339. Hanson, S.G., Kashyap, A.K., & Stein, J.C. (2011). A Macroprudential Approach
+to Financial Regulation. Journal of Economic Perspectives, 25(1), 3-28. Hanson, S. G., Kashyap, A. K., & Stein, J. C.
+(2018). Monetary policy and long-term real rates. Journal of Financial Economics, 129(2), 429–448. Adrian, T., &
+Shin, H. S. (2014). Procyclical leverage and value-at-risk. The Review of Financial Studies, 27(2), 373–403. Adrian,
+T., & Shin, H. S. (2019). Leverage cycles and the anxious economy. American Economic Review, 109(7), 3367–
+3400. Hirtle, B., & Kovner, A. (2018). The impact of supervision on bank performance. Journal of Finance, 73(6),
+2651–2682.
+24
+    Лаврушин О. И. (2020). Управление банковским капиталом: теория и практика. Москва: Финансы и
+статистика. Лаврушин О. И. (2018). Банковские риски: учебное пособие (3-е изд.). Москва: КНОРУС.
+Поморина М. А. (2020). Моделирование операционного риска в контексте Базеля III. Экономический анализ:
+теория и практика, 19(5), 831–849. Поморина М. А. (2017). Оценка влияния требований Базеля II/III на капитал
+российских банков. Денги и кредит, (3), 28–34. Звонова Е. А., Богачева М. Ю. (2018). Контрциклический
+буфер капитала: опыт применения в России. Банковское дело, (11), 22–30. Звонова Е. А., Богачева М. Ю.
+(2021). Макропруденциалная политика в условиях внешних шоков. Финансы и кредит, 27(4), 731–750.
+36
+     Узбекские ученые исследуют вопрос устойчивости капитала в связи с
+экономическими реформами 2017 года и процессом трансформации
+банковской системы. Ученые-экономисты Н.Жумаев, Б.Бердияров,
+А.Бурханов, О.Саттаров, Ш.Ханнаев, И.Жураев, Х.Худаярова, Н.Собирова,
+З.Хакимов и другие проводили научные исследования по банковским
+валютным операциям, устойчивости банковской системы, управлению
+ликвидностью банков, экономической безопасности коммерческих банков,
+факторам,    влияющим      на    эффективность     коммерческих     банков,
+совершенствованию практики розничных банковских услуг, перспективам
+развития депозитной политики для физических лиц в коммерческих банках,
+повышению привлекательности вкладов населения в банках. А. Вахабов и Ф.
+Алимов научно обосновали необходимость пересмотра стратегий капитала в
+условиях улучшения качественной структуры капитала и сокращения
+государственного участия, несмотря на высокие коэффициенты официального
+капитала в банках Узбекистана. Ш. Абдуллаева показала, что, несмотря на
+высокие коэффициенты капитала, рентабельность капитала (ROE) в банках
+Узбекистана находится на низком уровне, и основной причиной этого является
+низкая доходность активов и неэффективность управления. Б. Эргашев,
+разработав методологию риск-ориентированного контроля, предложил
+систему дифференцированного регулирования и адаптации требований к
+капиталу к профилю риска каждого банка. Ш. Исмаилов проанализировал, что
+рост проблемных кредитов (NPL) приводит к эрозии капитала, и выдвинул
+необходимость внедрения систем раннего предупреждения. Д. Тухтаева
+исследовала вопрос баланса между достаточностью капитала и финансовой
+инклюзивностью и рекомендовала применять более низкие веса риска для
+малого бизнеса и микрокредитования. Х. Собиров и А. Муминов, а также Л.
+Джураева проводят исследования в новом для Узбекистана направлении по
+необходимости создания специальных буферов капитала для климатических
+рисков (засуха, дефицит воды).25 Однако следует особо отметить, что научно-
+
+Тамбовцев, В. Л. (2005). Институциональный рынок как механизм институциональных изменений. ББК У01,
+162. Епифанов А. О., Пластун А. Л. (2019). Прогнозирование достаточности капитала банков с применением
+машинного обучения. Финансово-кредитная деятельность: проблемы теории и практики, 3(30), 5–14.
+25
+   Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Jurayev I.I. O‘zbekiston respublikasi tijorat banklari depozit bazasini
+mustahkamlash. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 58 b. Xudayarova X.A. O‘zbekistonda
+chakana bank xizmatlari amaliyotini takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 62 b.
+Sobitrova N.N. Tijorat banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari. i.f.f.d. ilm. dar.
+ol.uch. diss. avtoref. – Toshkent, 2025. – 57 b. Xakimov Z.N. Tijorat banklarida aholi omonatlarining jozibadorligini
+oshirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2025. – 63 b.Вахабов А. В., Алимов Р. Х. (2022). Капитал
+коммерческих банков: методология и практика управления. Ташкент: Иқтисодиёт. Абдуллаева Ш.З. (2021).
+Управление капиталом в условиях цифровизации банковского сектора Узбекистана. Молия ва банк иши, (2),
+                                                                                                                       37
+теоретические основы обеспечения устойчивости капитала коммерческих
+банков в процессе трансформации, в частности, оценка влияния внешних и
+внутренних факторов на устойчивость капитала банка с помощью
+эмпирических моделей, не были в достаточной степени реализованы в
+качестве объекта исследования.
+     Связь темы диссертации с планами научно-исследовательских
+работ высшего образовательного учреждения, где выполнена
+диссертация. Данное диссертационное исследование выполнено в
+соответствии с планом научно-исследовательских работ Ташкентского
+международного университета.
+     Целью исследования является разработка научно-теоретических,
+практических и методических предложений и рекомендаций, направленных на
+пути обеспечения устойчивости капитала в процессе трансформации
+коммерческих банков нашей страны.
+     Задачи исследования:
+     исследование научно-теоретических основ обеспечения устойчивости
+капитала коммерческих банков;
+     анализ научно-теоретических взглядов на обеспечение устойчивости
+капитала коммерческих банков и формирование выводов, служащих оценке их
+практической значимости;
+     анализ международного опыта управления банковским капиталом и
+получение заключений по обеспечению устойчивости капитала банковской
+системы страны;
+     оценка, анализ и формирование заключений по финансовым и
+кредитным рискам, влияющим на устойчивость капитала банка;
+     формирование эконометрической модели влияния внешних и
+внутренних факторов на устойчивость капитала банка;
+     формирование прогнозных сценариев обеспечения стабильности
+капитала в коммерческих банках;
+     разработка научных предложений и практических рекомендаций,
+направленных на решение проблем, связанных с обеспечением устойчивости
+капитала коммерческих банков.
+     Объектом исследования выбраны пути обеспечения устойчивости
+капитала коммерческих банков, действующих в Узбекистане, в частности АКБ
+«Узпромстройбанк».
+
+
+
+18–27. Абдуллаева Ш.З. (2018). Оптимизация капитала коммерческих банков и рентабелност активов.
+Иқтисодиёт ва таълим, (3), 44–52. Эргашев Б.Х. (2020). Дифференцированный надзор и ICAAP: опыт и задачи.
+Банки Узбекистана, (4), 8–15. Исмоилов З М. (2022). Система раннего предупреждения и капитал банков в
+пандемию. Банковское дело, (1), 33–41. Тухтаева Ш.Н. (2023). Влияние цифровой трансформации на
+структуру капитала банков Узбекистана. Иқтисодиёт ва таълим, (1), 60–70. Собиров Ф.М. (2023).
+Климатические риски и банковский капитал: необходимост новых буферов. Иқтисодиёт ва инновацион
+технологиялар, (2), 22–31. Муминов А.А., Жўраева Л.Б. (2023). Финтех-конкуренция и изменение стратегий
+управления капиталом банков (2020–2023). Банковское дело, (4), 15–25.
+38
+       Предметом исследования являются экономические отношения,
+возникающие в процессе обеспечения устойчивости капитала коммерческих
+банков.
+       Методы исследования. В диссертации использованы методы научной
+абстракции, сравнительного и структурного анализа, индукции и дедукции,
+экономико-статистической и эконометрической оценки, в частности,
+структурно-векторной авторегрессии, моделей ARIMA, Seasonal ARIMA и
+экспоненциального сглаживания Holt-Winters.
+       Научная новизна исследования состоит в следующем:
+       обосновано, что коэффициент достаточности капитала коммерческих
+банков имеет характер «возврата к среднему значению» (mean-reverting), а
+также механизм среднесрочного дифференцированного влияния инфляции и
+валютного курса на стабильность капитала;
+       обосновано, что увеличение денежной массы приводит к снижению
+коэффициента достаточности капитала коммерческих банков в краткосрочном
+периоде за счет кредитной экспансии и роста рискованных активов, а во
+втором лаге происходит восстановление капитала за счет капитализации
+доходов посредством двухэтапного динамического механизма;
+       обосновано, что влияние резерва высоколиквидных активов (HQLA)
+коммерческих банков на устойчивость капитала банка проявляется «эффектом
+задержки» и механизмом «инерционной самокоррекции» (mean-reverting
+oscillation) достаточности капитала в банковской системе;
+       на основе модели Холт-Винтерса (RMSE: активы — 1,69; кредитный
+портфель — 3,59; капитал — 0,51) АКБ «Узпромстройбанк», обеспечивающей
+наибольшую точность в обеспечении устойчивости капитала, предложен
+прогноз финансовых показателей на 2025–2030 годы по трем сценариям:
+базовому, оптимистическому и пессимистическому.
+       Практические результаты исследования заключаются в следующем:
+       в целях устранения дисбаланса в структуре регулятивного капитала
+коммерческих банков предложено диверсифицировать капитальную базу и
+повысить финансовую гибкость путем внедрения инструментов гибридного
+капитала - облигаций категории AT1 (Additional Tier 1) и инструментов
+субординированного долга;
+       усовершенствован теоретико-методологический подход, направленный
+на адаптацию международных стандартов Базеля III/IV к местным
+экономическим условиям в обеспечении устойчивости капитала
+коммерческих банков, разработана система оценки адекватности капитала,
+основанная на риске, и механизм контрциклического буфера капитала на
+основе синтеза теорий Модильяни-Миллера, Даймонда-Дибвига и теории
+агентства;
+       на основе сравнительного анализа зарубежного опыта управления
+банковским капиталом для коммерческих банков Узбекистана предложено
+поэтапное внедрение адаптированной системы стресс-тестирования,
+основанной       на    макроэкономических      сценариях, и    механизма
+                                                                      39
+контрциклического буфера капитала (CCyB), соответствующего фазам
+экономической активности;
+      обоснован механизм краткосрочного негативного влияния повышения
+основной ставки Центрального банка на коэффициент достаточности капитала
+коммерческих банков путем временного сокращения буферов капитала путем
+оказания давления на условия кредитной активности и ликвидности, но с
+учетом того, что в долгосрочной перспективе это влияние затухает на основе
+инерции;
+      выявлено, что если рост кредитного портфеля в краткосрочной
+перспективе увеличивает коэффициент достаточности капитала за счет
+инфузий капитала, то через 6 месяцев объем кредитного портфеля
+коммерческих банков влияет на коэффициент достаточности капитала
+посредством сокращения достаточности капитала за счет увеличения активов,
+подверженных риску, посредством двухступенчатого парадоксального
+механизма;
+      на основе достижения высокой рентабельности за счет экспансии
+рискового кредитования и сокращения буферов капитала установлено, что
+повышение коэффициента рентабельности активов коммерческих банков
+негативно влияет на достаточность капитала в краткосрочной перспективе как
+«парадокс рентабельности»;
+      Достоверность результатов исследования. Достоверность результатов
+исследования определяется сравнительным и критическим анализом научно-
+теоретических взглядов известных ученых-экономистов на пути обеспечения
+устойчивости капитала коммерческих банков в процессе трансформации,
+изучением и обобщением передового зарубежного опыта, а также тем, что
+статистические данные получены из данных годовых отчетов Центрального
+банка Республики Узбекистан, Комитета по статистике Республики
+Узбекистан и коммерческих банков Узбекистана, а также тем, что
+соответствующие выводы и предложения внедрены в практику
+ответственными организациями.
+      Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования объясняется тем, что они могут
+быть использованы при проведении специальных научных исследований,
+направленных на пути обеспечения устойчивости капитала коммерческих
+банков.
+      Практическая значимость результатов исследования заключается в том,
+что разработанные научные предложения и практические рекомендации могут
+быть использованы при разработке комплекса мер, направленных на
+обеспечение устойчивости капитала коммерческих банков в процессе
+трансформации в Узбекистане, а также при разработке мер, направленных на
+выполнение задач, указанных в Стратегии развития нового Узбекистана до
+2030 года и Стратегии реформирования банковской системы Республики
+Узбекистан на 2020-2025 годы.
+
+40
+       Внедрение результатов исследования. На основе научных
+результатов, полученных по путям обеспечения устойчивости капитала
+коммерческих банков:
+       предложение о том, что коэффициент достаточности капитала
+коммерческих банков имеет характер «возврата к среднему значению» (mean-
+reverting), а также механизм среднесрочного дифференцированного влияния
+инфляции и валютного курса на стабильность капитала, внедрено в
+деятельность АКБ «Узпромстройбанк» (справка АКБ «Узпромстройбанк» от
+4 мая 2026 года No 27-06/13937). В результате было определено, что
+достаточность капитала движется в обратном направлении с коэффициентом
+−0,323 от предыдущего уровня двух лагов (p<0,01), увеличение инфляции на
+1% увеличивает достаточность капитала на 0,051% во втором лаге (p<0,10), а
+также объясняет 7,84% волатильности достаточности капитала в
+долгосрочной перспективе обменного курса национальной валюты с помощью
+модели структурной векторной авторегрессии;
+       предложение о том, что если увеличение денежной массы снижает
+достаточность капитала коммерческих банков за счет кредитной экспансии и
+роста активов, подверженных риску, в краткосрочном периоде, то во втором
+лаге происходит восстановление капитала за счет капитализации доходов
+посредством двухэтапного динамического механизма, внедрено в
+деятельность АКБ «Узпромстройбанк» (справка АКБ «Узпромстройбанк» No
+27-06/13937 от 4 мая 2026 года). В результате установлено, что увеличение
+денежной массы на 1% снижает достаточность капитала на 0,199% в первом
+лаге (p<0,01), а во втором лаге увеличивает ее на 0,160% (p<0,05), а также
+объясняет 74,2% волатильности достаточности капитала денежной массы в
+долгосрочной перспективе (24 месяца) с помощью модели структурной
+векторной авторегрессии.
+       предложение о том, что влияние резерва высоколиквидных активов
+(HQLA) коммерческих банков на устойчивость капитала банка проявляется
+«эффектом задержки» и механизмом «инерционной самокоррекции» (mean-
+reverting oscillation) достаточности капитала в банковской системе, внедрено в
+деятельность АКБ «Узпромстройбанк» (справка АКБ «Узпромстройбанк» от
+4 мая 2026 года No 27-06/13937). В результате было определено, что доля
+коэффициента ликвидности в изменчивости достаточности капитала резко
+возрастает с 0,83 процента в краткосрочной перспективе до 26,56 процента в
+долгосрочной перспективе в течение 12 месяцев, а также имеет свойство
+стабилизировать буферы капитала банковской системы на целевом уровне за
+счет инерционного роста достаточности капитала с коэффициентом +2,201 в
+первый лаг (p<0,001) и корректировки в обратном направлении с
+коэффициентом −2,130 во второй лаг посредством модели структурной
+векторной авторегрессии;
+       Система многосценарного прогнозирования АКБ «Узпромстройбанк»,
+направленная на обеспечение устойчивости капитала, разработана на основе
+сравнительного анализа моделей экспоненциального сглаживания ARIMA
+                                                                           41
+(1,1,1), SARIMA и Holt-Winters, а предложение по прогнозированию базовых,
+оптимистических и пессимистических трехсценарных финансовых
+показателей на 2025–2030 годы на основе модели Holt-Winters (RMSE: активы
+— 1,69; кредитный портфель — 3,59; капитал — 0,51), обеспечивающей
+наибольшую точность по всем финансовым показателям, внедрено в
+деятельность АКБ «Узпромстройбанк» (справка АКБ «Узпромстройбанк» от
+4 мая 2026 года No 27-06/13937). В результате с 95% вероятностью совокупные
+активы АКБ «Узпромстройбанк» вырастут со 102,44 трлн сумов в 2025 году
+до 178,5 трлн сумов к 2030 году, кредитный портфель - с 64,94 трлн сумов до
+88,3 трлн сумов, а совокупный капитал - с 11,88 трлн сумов до 17,0 трлн сумов.
+       Апробация результатов исследования. Результаты данного
+исследования были обсуждены на 2 международных научно-практических
+конференциях.
+       Публикация результатов исследования. По теме диссертации
+опубликовано 5 научных статей, в том числе 4 в республиканских и 1 в
+зарубежных журналах, рекомендованных Высшей аттестационной комиссией
+Республики Узбекистан для публикации основных научных результатов
+докторских диссертаций.
+       Структура и объем диссертации. Диссертация состоит из введения,
+трех глав, заключения и списка использованной литературы. Объем
+диссертации составляет 154 страницы.
+
+             ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+
+     Во введении диссертации обосновывается актуальность и
+необходимость темы исследования, степень изученности проблемы, цель,
+задачи, объект и предмет исследования, научная новизна и практические
+результаты, достоверность и внедрение результатов исследования, структура
+и объем диссертации.
+     В первой главе диссертации под названием «Научно-теоретические
+основы обеспечения устойчивости капитала коммерческих банков и
+зарубежный опыт» исследованы научно-теоретические основы обеспечения
+устойчивости капитала коммерческих банков, научно-теоретические взгляды
+на обеспечение устойчивости капитала коммерческих банков, а также
+международный опыт управления банковским капиталом и разработаны
+научные выводы.
+     Банковский капитал является одним из основных элементов
+современной финансовой системы и играет важную роль в обеспечении
+устойчивости банковской деятельности, защите интересов кредиторов и
+вкладчиков, укреплении устойчивости к финансовым шокам и стабильному
+финансированию экономики. Теория обеспечения устойчивости банковского
+капитала многогранна и включает в себя экономическую теорию, концепции
+финансового посредничества, теорию агентских отношений, асимметричную
+теорию информации и элементы регуляторной экономики. В этом параграфе
+42
+мы подробно рассмотрим природу, функции банковского капитала, теории
+оптимальной структуры капитала, факторы, влияющие на устойчивость
+капитала, и теоретические основы механизмов регулирования.
+      Теоретические дискуссии о понятии банковского капитала и его роли в
+финансовой системе начали активно развиваться с середины XX века. В
+классической теории корпоративных финансов теорема иррелевантности
+структуры капитала, выдвинутая Модильяни и Миллером (1958), вскоре
+оказалась ограниченно применимой к банкам. Эта теорема основана на
+предположении, что при совершенных рыночных условиях (налоги, издержки
+банкротства, отсутствие асимметричной информации) стоимость фирмы
+независима от структуры ее капитала. Однако для банков эта гипотеза не
+является реальной, поскольку банки выполняют функцию финансового
+посредника, работают на основе высокого уровня левериджа, подчиняются
+требованиям постоянного регулирования и надзора, а их финансовая
+устойчивость напрямую связана с общественными интересами. В связи с этим
+возникла необходимость разработки специальных теоретических основ
+банковского капитала.
+      Понимание основных функций банковского капитала важно для
+разработки стратегий обеспечения его устойчивости. Первая и самая важная
+функция - это функция поглощения убытков. Банковский капитал служит для
+покрытия непредвиденных убытков, включая кредитные, рыночные и
+операционные убытки, и обеспечивает способность банка выполнять свои
+обязательства - то есть обязательства по депозитам и займам. Капитал,
+выполняя функцию буфера, позволяет удовлетворять требования депозиторов
+и других кредиторов даже в случае снижения стоимости активов банка. Вторая
+функция — это функция обеспечения доверия. Высокий уровень капитала
+служит признаком финансовой устойчивости банка для вкладчиков,
+инвесторов и участников рынка. Эта функция особенно важна в условиях
+асимметричной информации, поскольку внешние инвесторы не могут
+полностью оценить реальное качество активов банка. Уровень капитала
+является одним из основных показателей при оценке риска.
+      Третья функция — функция стимулирования (incentive), которая тесно
+связана с теорией агентских отношений. Акционеры банка с высокой долей
+капитала подвергают риску большую часть своего капитала. Поэтому они не
+склонны к излишне рискованным стратегиям. В случае низкого уровня
+капитала акционеры сталкиваются с проблемой "морального хазарда" —
+морального риска. То есть они заинтересованы в инвестировании в проекты с
+высоким риском, но с высокой вероятностью прибыли, поскольку в случае
+успеха проекта им принадлежит основная часть прибыли, а в случае неудачи
+большую часть убытков несут кредиторы. Требования к капиталу служат
+средством ограничения такого поведения. Четвертая функция — функция
+финансирования деятельности. Капитал служит источником долгосрочного и
+стабильного финансирования для организации банковской деятельности на
+начальном этапе и ее дальнейшего расширения. Он создает необходимую базу
+                                                                        43
+для роста банковских активов как финансовый ресурс с неопределенным
+сроком возврата.
+      Два крупных финансовых кризиса, произошедших в мире за последние
+два десятилетия - глобальный финансовый кризис 2008 года и экономические
+и финансовые шоки, связанные с пандемией COVID-19 2020 года, показали,
+насколько быстро могут быть потеряны капитальные резервы банков. Крах
+банка Lehman Brothers во время финансового кризиса 2008 года наглядно
+продемонстрировал, как быстро системный риск может распространиться на
+всю финансовую систему. После этого события международное сообщество
+было вынуждено пересмотреть требования к банковскому капиталу. В
+результате были разработаны стандарты Базель III, а затем Базель IV. На
+основе требований Базеля III были более четко определены понятия капитала
+Tier 1 и Tier 2, введены контрциклические буферы капитала (Countercyclical
+Capital Buffer - CCyB) и дополнительные «подушки» капитала (G-SIB
+surcharges) для банков глобального системного значения. В то же время были
+усилены требования к ликвидности, включая показатели LCR и NSFR. Потому
+что только достаточности капитала недостаточно для предотвращения кризиса
+ликвидности.
+      Для Узбекистана этот международный опыт особенно важен, поскольку
+в банковской системе страны все еще сохраняется высокая доля
+государственного участия, недостаточно развит рынок капитала и ограничены
+возможности привлечения капитала с международных рынков. Поэтому банки
+имеют возможность укреплять свою капитальную базу в основном за счет
+внутренних источников, то есть реинвестирования прибыли и увеличения
+капитала. Поэтому повышение эффективности капитала, снижение
+операционных расходов и повышение доходности, адаптированной к риску,
+являются одними из актуальных вопросов. Как отметил Президент Шавкат
+Мирзиёев на совещании 16 декабря 2024 года, банки должны обеспечить
+устойчивость финансовой базы за счет привлечения 6 миллиардов долларов
+ресурсов из внешних источников и доведения вкладов населения до 11
+миллиардов долларов.
+      Для понимания устойчивости капитала коммерческих банков
+необходимо прежде всего обратиться к фундаментальным экономическим
+теориям. Эти теории объясняют структуру капитала, взаимосвязь между
+риском и доходом, а также особенности посреднической функции банков.
+      Модель Даймонда и Дибвига (1983) показывает, что основной функцией
+банков в экономике является трансформация ликвидности (преобразование
+краткосрочных депозитов в долгосрочные кредиты). Эта модель объясняет
+причины возникновения банковских паникерств (bank runs).
+      Согласно теории, банки финансируют инвестиции, аккумулируя
+средства не связанных между собой депозиторов. Если вкладчики будут
+массово требовать свои деньги, банк столкнется с кризисом ликвидности, даже
+если он платежеспособен. Буферы капитала и система страхования депозитов
+рассматриваются в данной модели как основные инструменты,
+44
+обеспечивающие стабильность. Достаточность капитала позволяет выполнять
+обязательства перед депозиторами даже при обесценении активов банка.
+                                                              Таблица 1
+   Взгляды ученых на теоретические основы устойчивости капитала
+                         коммерческих банков 26
+       Теория                       Авторы                          Основная идея
+ Незначительность            Modigliani & Miller     В идеальном рынке структура капитала не влияет
+ структуры капитала          (1958)                  на стоимость.
+ Теория компромисса          Kraus & Litzenberger    Баланс между долговой налоговой привилегией и
+                             (1973)                  издержками финансовых затруднений
+ Теория агентства            Jensen & Meckling       Конфликты между акционерами и кредиторами
+                             (1976)
+ Модель ликвидности          Diamond & Dybvig        Банковский бег и механизм страхования
+                             (1983)                  депозитов
+ Базельские                                          Эволюция требований к регулятивному капиталу
+                             BCBS (1988→2023)
+ стандарты
+     Как видно из данных таблицы, европейские банки имеют самый высокий
+показатель по коэффициенту капитала CET1, который составляет 15,2
+процента. Однако полное внедрение требований Базеля III окажет большее
+влияние именно на европейские банки. В частности, влияние на капитал Tier
+1 в Европе составляет 2,5 процента, что значительно выше показателя
+американских банков. Эта ситуация может вызвать необходимость пересмотра
+структуры капитала европейских банков, привлечения дополнительного
+капитала или сокращения рискованных активов. В американских банках
+коэффициент CET1 относительно низок - 13,5%, однако влияние требований
+Базеля III ограничивается 0,9%. Следовательно, американские банки проходят
+процесс адаптации к новым требованиям легче, чем европейские банки.
+                                                                Таблица 2
+  Влияние Базеля III: региональное сопоставление (данные за декабрь
+                                 2024 года)27
+ Показатель                                 Группа 1                             Другие
+                                                           Европа   Америка                  G-SIBs
+                                            (общая)                             регионы
+ Текущий коэффициент CET1 (%)              14.0            15.2     13.5      14.8          13.8
+ Влияние Базеля III на капитал
+                                           +1.4            +2.5     +0.9      +1.1          +0.4
+ первого уровня (%)
+ Воздействие компонента,
+                                           +2.7            +3.8     +2.2      +2.5          +2.1
+ основанного на риске (%)
+ Влияние порога выхода (%)                 +1.7            +2.4     +1.2      +1.5          +1.3
+ Воздействие рыночного риска (%)           +1.2            +1.7     +0.9      +1.0          +0.9
+ Воздействие кредитного риска
+                                           +0.5            +0.6     +0.4      +0.5          +0.3
+ (%)
+ Влияние коэффициента
+                                           -1.4            -1.3     -1.3      -1.4          -1.7
+ левериджа (%)
+ Дефицит капитала (млрд евро)              0.0             0.0      0.0       0.0           0.0
+
+
+
+26
+     Авторская разработка
+27
+     Мониторинговый отчет BIS Basel III, декабрь 2024 г.
+                                                                                                   45
+      Существует также разница между регионами по коэффициенту левериджа.
+Это означает, что в банках других регионов капитал выше, чем объем баланса.
+Более низкий коэффициент левериджа в европейских банках объясняется
+большим объемом их баланса и высоким объемом активов. Еще одним важным
+моментом в таблице является то, что дефицит капитала по всем группам составил
+0,0 млрд евро. Это свидетельствует о том, что банки в целом имеют достаточную
+капитальную базу для адаптации к требованиям Базеля III.
+      Данные таблицы ниже подтверждают, что европейские банки обладают
+стабильной базой капитала. Коэффициент CET1 за год увеличился на 0,37
+процентных пункта, что указывает на то, что банки продолжат укреплять свою
+капитальную базу за счет сохранения прибыли и привлечения капитала.
+Показатели ликвидности также были на высоком уровне: LCR составил
+156,73% и NSFR 127%, что значительно выше минимального требования в
+100%. Незначительное снижение LCR (с 158,50% до 156,73%), в основном,
+связано с увеличением ликвидных выбытий, однако краткосрочная
+ликвидность банков по-прежнему остается стабильной.
+                                                                    Таблица 3
+  Показатели капитала и ликвидности европейских банков (2025 год)28
+                                                                                Изменение
+ Показатель                                       2024-Q3   2025-Q2   2025-Q3
+                                                                                 (годовое)
+ Коэффициент CET1 (%)                            15.73      16.12     16.10     +0.37 п.п.
+ Коэффициент уровня 1 (%)                        17.22      17.62     17.59     +0.37 п.п.
+ Коэффициент совокупного капитала (%)            19.89      20.24     20.24     +0.35 п.п.
+ Коэффициент левериджа (%)                       5.76       5.92      5.90      +0.14 п.п.
+ LCR (коэффициент покрытия ликвидности,
+                                                 158.50     157.88    156.73    -1.77 п.п.
+ %)
+ NSFR (коэффициент устойчивого
+                                                 ~126       ~127      ~127      +1 п.п.
+ финансирования, %)
+ ROE (доходность акционерного капитала,
+                                                 10.09      10.11     9.88      -0.21 п.п.
+ годовая, %)
+ Коэффициент NPL (%)                             2.31       2.22      2.22      -0.09 п.п.
+ Доля кредитов 2-го этапа (%)                    9.60       9.59      9.49      -0.11 п.п.
+     Показатели рентабельности остаются относительно стабильными.
+Доходность акционерного капитала (ROE) составила 9,88%, что
+незначительно ниже показателя предыдущего квартала (10,11%). Тем не
+менее, этот показатель подтверждает, что банки имеют возможность
+приносить более высокую доходность по сравнению с альтернативными
+направлениями инвестиций. В разрезе стран показатель ROE существенно
+различается: во Франции он составляет 6,82%, а в Литве - 16,66%. Эти
+различия объясняются различиями в бизнес-моделях банков, уровнем
+конкуренции, средой процентных ставок и налоговыми режимами. В целом
+европейские банки сохраняют финансовую стабильность за счет высоких
+буферов капитала, однако давление на рентабельность все еще сохраняется.
+     Как видно из таблицы ниже, банки США и Европы отличаются друг от
+друга по показателям достаточности капитала и ликвидности. Европейские
+28
+     Статистика надзора ЕЦБ, декабрь 2025 года
+46
+банки имеют более высокие коэффициенты CET1 и Tier 1 по сравнению с
+банками США, что указывает на их относительно прочную капитальную базу.
+В частности, по коэффициенту CET1 банки США находятся примерно на 0,8–
+2,6 процентных пункта ниже европейских банков, а по коэффициенту Tier 1 —
+на 1,59–3,09 процентных пункта ниже.
+                                                              Таблица 4
+         Сравнение банков США и Европы (данные за 2025 год)29
+                                                                          Европа       Разница
+                                                    США (банки
+                    Показатель                                          (контроль     (США —
+                                                     группы 1)
+                                                                           ЕЦБ)        Европа)
+ Средний коэффициент CET1 (%)                          13.5-15.3           16.10      0.80 / 2.60
+ Средний коэффициент уровня 1 (%)                     ~14.5-16.0           17.59      1.59 / 3.09
+ Коэффициент левериджа (%)                                5.8               5.9          -0.1
+ LCR (коэффициент покрытия
+                                                          ~120           156.73         -36.73
+ ликвидности, %)
+ Влияние Базеля III (на капитал 1-го
+                                                          +0.9            +2.5            -1.6
+ уровня, %)
+ P2R / Стресс-буфер (средний, %)                       2.5-4.0          1.2 (P2R)        +1.3
+ Общий спрос на капитал (%)                           ~10.5-13.0           11.2       -0.7 / +1.8
+     По ликвидности также доминируют европейские банки: коэффициент
+LCR в Европе составляет 156,73%, а в США - около 120%. Это означает, что
+европейские банки имеют более высокий защитный резерв против
+краткосрочных рисков ликвидности. При этом влияние требований Базеля III
+на капитал Tier 1 проявляется сильнее в Европе (+2,5%), а относительно ниже
+в США (+0,9%).
+                                                                  Таблица 5
+                 Адаптация банков к целевому капиталу      30
+
+                                                           Изменение Изменение      Изменение
+        Статус банка        Механизм адаптации
+                                                           капитала   активов       левериджа
+                              Повышение капитала
+        Без капитала
+                              (эмиссия, сохранение             +++          +       Dеlеvеraj (-)
+     (реальный < цель)
+                                   прибыли)
+ Без капитала (малые           Продажа активов +
+                                                                 ++      0 yoki -   Dеlеvеraj (-)
+        банки)                привлечение капитала
+   На оптимальном
+                            Сохранение устойчивости              +          +       Barqaror (0)
+        уровне
+ Имеет избыточный              Расширение активов,
+                                                             + yoki -     +++       Lеvеraj (+++)
+       капитал                     дивиденды
+ Имеет избыточный
+                                 Возврат прибыли
+  капитал (высокая                                               -         ++       Lеvеraj (++)
+                                   акционерам
+   рентабельность)
+       Примечание: +++ - сильный рост, ++ - средний рост, + - малый рост,
+0 - не меняется, - снижение, - сильное снижение
+     Для банков с избыточным капиталом (выше целевого уровня)
+наблюдается обратная тенденция: они расширяют активы для увеличения
+
+29
+     BIS, ECB, FedBank, CEIC Data.
+30
+     Составлено на основе исследования De Jonghe и Oztekin (2015).
+                                                                                                    47
+левериджа. При этом уровень сохранения прибыли снижается, а капитал
+возвращается акционерам путем выплаты дивидендов и выкупа акций. А рост
+активов ускорится. Такое поведение отражает стремление банков
+оптимизировать эффективность капитала: удержание избыточного капитала
+снижает рентабельность, поэтому банки «используют» его через рост активов
+или возвращают акционерам.
+     По скорости адаптации исследование обнаружило средний показатель
+0.29, то есть банки ежегодно покрывают 29% разрыва между реальным и
+целевым капиталом. Исходя из этой цифры, период полужизни (half-life)
+банков - время, необходимое для покрытия половины разницы между
+реальным и целевым капиталом - составляет в среднем 2 года. Однако этот
+показатель существенно варьируется по странам: 4,26 года для медленно
+адаптирующихся банков и всего 1,15 года для быстро адаптирующихся. Эта
+гетерогенность подчеркивает важность институциональных факторов,
+влияющих на скорость адаптации.
+     Вторая глава диссертационной работы называется «Анализ внутренних
+и внешних факторов, влияющих на устойчивость капитала
+коммерческих банков», в ней изложены аналитические части диссертации. В
+частности, исследованы такие аспекты, как анализ финансовых и кредитных
+рисков, влияющих на устойчивость капитала банка, эконометрическая модель
+влияния внешних факторов на устойчивость капитала банка, а также анализ
+влияния внутренних факторов на устойчивость капитала коммерческих банков
+на основе модели SVAR.
+     Банковский капитал является основной опорой устойчивости банковской
+системы и создает буфер безопасности, необходимый для покрытия потерь,
+финансирования роста и соответствия регуляторным требованиям. Общий
+капитал банка, который в начале 2020 года составлял 32 трлн сумов, к началу
+2025 года достиг 125 трлн сумов, то есть увеличился в 3,9 раза. Такой уровень
+роста капитала осуществлялся за счет ряда источников: реинвестирования
+прибыли, добавления дополнительного капитала акционерами, добавления
+капитала новых банков и переоценки рыночных стоимостей. Коэффициент
+достаточности капитала составил 15,8% в 2020 году и достиг 18,3% на начало
+2025 года, что более чем в два раза превышает минимально требуемую норму
+в 8%.
+     Структурный анализ капитала показывает увеличение доли
+высококачественного капитала (Tier I). Если в 2020 году капитал первого
+уровня составлял 78% от общего капитала, то на начало 2025 года этот
+показатель достиг 83%. Это свидетельствует о том, что банки укрепляют свой
+капитал в основном за счет высококачественных источников - акционерного
+капитала и реинвестирования прибыли. Доля капитала второго уровня
+снизилась с 22% до 17% соответственно. Достаточность капитала
+обыкновенных акций (Common Equity Tier I) увеличилась с 12,5% в 2020 году
+до 14,7% в начале 2025 года, что свидетельствует о том, что банки хорошо
+обеспечены капиталом самого высокого качества.
+48
+                                                                                               Таблица 6
+                       Динамика капитала и достаточности банка                         31
+
+                                                                                             Увеличение
+            Показатель               2020     2021     2022     2023      2024      2025
+                                                                                                (%)
+ Общий капитал (трлн
+                                      32,0     44,0     58,0      78,0    102,0     125,0              +291
+ сумов)
+ Капитал Tier I (трлн
+                                      25,0     35,0     46,0      63,0      82,0    104,0              +316
+ сумов)
+ Капитал Tier II (трлн
+                                        7,0      9,0    12,0      15,0      20,0      21,0             +200
+ сумов)
+ Достаточность капитала
+                                      15,8     16,2     16,8      17,0      17,4      18,3                 -
+ (%)
+ Достаточность уровня I
+                                      12,5     12,9     13,4      14,0      14,3      15,2                 -
+ (%)
+ Достаточность CET1 (%)               11,2     11,8     12,5      13,2      14,2      14,7                 -
+ Соотношение
+                                      15,2     15,6     16,2      18,1      18,8      19,5                 -
+ капитал/активы (%)
+    Анализ данной таблицы показывает значительное укрепление
+капитальной позиции банковской системы. Тот факт, что капитал Tier I растет
+быстрее, чем капитал Tier II (200% против 316%), отражает улучшение
+качества капитала. Тенденция роста всех показателей достаточности
+капитала свидетельствует об усилении способности банковской системы
+покрывать убытки. Увеличение соотношения капитала к совокупным
+активам с 15,2% до 19,5% свидетельствует об увеличении доли
+финансирования банками своей деятельности за счет капитала, что
+является положительным с точки зрения устойчивости.
+    Уровень      межбанковской      конкуренции      является     важным
+фактором эффективности банковской системы. Уровень концентрации,
+оцениваемый по индексу Херфиндаля-Хиршмана (HHI), составил
+950 в 2020 году и снизился до 800 в начале 2025 года, что свидетельствует
+о
+ повышении         уровня      конкуренции.        Рынок        считается
+низкоконцентрированным и конкурентоспособным, когда HHI ниже 1000,
+средняя концентрация оценивается в пределах 1000-1800, а высокая
+концентрация - выше 1800. Снижение ВДС в банковской системе
+Узбекистана произошло в результате вхождения на рынок новых банков,
+увеличения доли частных банков и относительного сокращения доли
+рынка государственных банков.
+    Анализ доли рынков показывает следующую ситуацию: пять
+крупнейших банков (топ-5) контролировали 65% всех банковских активов
+в 2020 году, а к началу 2025 года эта доля упала до 58%. Доля десяти
+крупнейших банков (топ-10) снизилась с 85% в 2020 году до 78% на начало
+2025 года. Эта тенденция свидетельствует об усилении конкуренции на
+рынке, увеличении доли рынка малых и средних банков и снижении
+
+31
+     Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан www.cbu.uz
+                                                                                                          49
+монополизации. Однако государственные банки по-прежнему занимают
+доминирующую позицию, что подчеркивает необходимость ускорения
+процесса приватизации государственных банков.
+                                                         Таблица 7
+         Показатели рыночной концентрации и конкуренции 32
+
+            Показатель                           2020      2021      2022     2023       2024       2025
+ Индекс Херфиндаля-Хиршмана
+                                                 950        910      870       840       820        800
+ (HHI)
+ Доля топ-5 банков (%, активы)                    65        64        62       60         59         58
+ Доля банков топ-10 (%, активы)                   85        84        82       80         79         78
+ Доля государственных банков (%,
+                                                  85        80        75       70         67         65
+ активы)
+ Доля частных банков (%, активы)                  15        20        25       30         33         35
+ Доля иностранных банков (%,
+                                                   3         4         5        6          7          8
+ активы)
+ Количество банков                                32        30        31       33         35         36
+ Среднее количество филиалов (на
+                                                 27,5      30,7      31,1     30,9       31,0       31,9
+ банк)
+    Анализ данной таблицы показывает положительные изменения в
+структуре рынка. Постоянное снижение HHI подтверждает укрепление
+конкуренции. Сокращение доли топ-банков и укрепление позиций малых
+банков свидетельствуют о формировании здоровой конкурентной среды на
+рынке. Несмотря на то, что снижение доли государственных банков с 85 до 65
+процентов является важным достижением, намеченная в стратегии 40-
+процентная цель не достигнута. Увеличение доли частных банков с 15 до 35
+процентов      свидетельствует     о     повышении      их     рыночной
+конкурентоспособности и улучшении качества обслуживания. Увеличение
+доли иностранных банков означает проникновение международного опыта и
+технологий на рынок Узбекистана. Стабильное среднее количество филиалов
+свидетельствует о сбалансированной реализации банками стратегии
+расширения.
+    Международное сопоставление важно для объективной оценки состояния
+банковской системы. В сравнении со странами СНГ банковская система
+Узбекистана занимает следующее место: достаточность капитала (18,3
+процента) - один из самых высоких показателей в регионе, ниже Казахстана
+(22 процента), Азербайджана (20 процентов), но выше Кыргызстана (15
+процентов), Таджикистана (16 процентов); Соотношение NPL относительно
+низкое (4,0 процента), немного выше, чем в Казахстане (3,5 процента), но
+значительно ниже, чем в Кыргызстане (7 процентов), Таджикистане (8
+процентов); ROE (11,8%) находится на среднем уровне, ниже, чем в
+Казахстане (15%), Азербайджане (18%), но выше, чем в Кыргызстане (9%).
+
+
+
+
+32
+     Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан www.cbu.uz
+50
+                                                              Таблица 8
+       Международное сравнение - банковские системы стран СНГ (начало
+                                 2025 года)33
+  Показатель        Узбекистан   Казахстан   Азербайджан   Кыргызстан   Таджикистан   Туркменистан
+Достаточность
+                       18,3        22,0         20,0          15,0         16,0           m.y.
+капитала (%)
+Соотношение
+                       4,0          3,5          2,8          7,0           8,0           m.y.
+NPL (%)
+ROA (%)                 2,1         2,5          2,8          1,5           1,2           m.y.
+ROE (%)                11,8        15,0         18,0          9,0           8,5           m.y.
+LCR (%)                195         210          180           160           150           m.y.
+Количество
+                        36          24           30            23           17             10
+банков
+Банковские
+активы i/ВВП            55          65           45            52           48             40
+(%)
+Кредиты/ВВП
+                        40          48           35            38           35             30
+(%)
+Доля
+государственных         65          35           70            20           45             90
+банков (%)
+     В глобальном сравнении банковская система Узбекистана имеет
+ показатели, близкие к средним показателям развивающихся рынков, но
+ значительно отстает от развитых стран. Отношение банковских активов к ВВП
+ в Узбекистане в 2025 году составит 55 процентов, что близко к среднему
+ уровню развивающихся рынков (60-70 процентов), но в развитых странах этот
+ показатель составляет 150-200 процентов. Отношение кредитного портфеля к
+ ВВП в Узбекистане составляет 40 процентов, что ниже среднего показателя
+ развивающихся рынков (50 процентов), а в развитых странах - 100-150
+ процентов. Эти показатели свидетельствуют о том, что банковская система
+ Узбекистана имеет потенциал для дальнейшего развития.
+     Анализ таблицы показывает, что банковская система Узбекистана
+ занимает средне-высокие позиции в регионе. Показатели достаточности
+ капитала и ликвидности находятся на удовлетворительном уровне,
+ соотношение NPL находится в оптимальных пределах, рентабельность на
+ среднем уровне. Доля государственных банков в 65 процентов ниже, чем в
+ Азербайджане и Туркменистане, но выше, чем в Казахстане и Кыргызстане.
+ Относительно большое количество банков показывает, что существует
+ конкурентная среда, но некоторые банки имеют небольшой объем.
+ Соотношение банковских активов и кредитов к ВВП в регионе находится на
+ среднем уровне, что означает, что финансовая глубина может увеличиться.
+     Для эмпирического анализа влияния внешних факторов на устойчивость
+ капитала коммерческих банков были использованы ежемесячные данные,
+ охватывающие период с января 2018 года по декабрь 2024 года. Общее
+ количество наблюдений составляет 84.
+     В модели использованы следующие переменные:
+
+
+ 33
+      www.imf.org
+                                                                                                 51
+    CAR (Capital Adequacy Ratio): Коэффициент общей достаточности
+капитала системы коммерческих банков. Этот показатель является основной
+зависимой переменной, отражающей устойчивость банковской системы (в
+процентах).
+    Rate (Policy Rate): Основная ставка Центрального банка (ставка
+рефинансирования). Это является основным индикатором денежно-кредитной
+политики (в процентах).
+    INF (Inflation): Годовое изменение индекса потребительских цен (уровень
+годовой инфляции, в процентах).
+    M2 (Broad Money): Расширенная денежная масса. Выражает уровень
+ликвидности в экономике (млрд сумов). В модели используется
+логарифмированная форма (lnM2).
+    USD (Exchange Rate): Официальный обменный курс доллара США по
+отношению к узбекскому суму (сум/доллар).
+                                                                 Таблица 9
+      Результаты модели VAR (2) (зависимая переменная: ΔCAR)
+                                          Стандартная
+     Регрессор        Коэффициент                            t-статистика        P-значение
+                                            ошибка
+  Const                   0.12184            0.115                1.059              0.2897
+  L1.ΔRate               -0.04436            0.039               -1.137              0.2579
+  L1.ΔINF                -0.02516            0.026               -0.952              0.3436
+  L1.ΔlnM2               -0.19881            0.076               -2.593           0.0095***
+  L1.ΔUSD                -0.00642            0.016               -0.403              0.6879
+  L1.ΔCAR                 0.15474            0.109                1.419              0.1591
+  L2.ΔRate                0.00686            0.039                0.174              0.8618
+  L2.ΔINF                 0.05104            0.027                1.885             0.0594*
+  L2.ΔlnM2                0.16048            0.076                2.095            0.0362**
+  L2.ΔUSD                -0.01904            0.015               -1.242              0.2171
+  L2.ΔCAR                -0.32267            0.109               -2.941           0.0033***
+     Диагностика модели: N=81, Log-likelihood=-207.9156, AIC=-7.6976. ***, **, * обозначают уровни
+значимости 1%, 5%, 10% соответственно.
+     Результаты показывают, что изменение денежной массы (M2) оказывает
+наиболее сильное и статистически значимое влияние на устойчивость
+банковского капитала. В частности, коэффициент M2 при первом лаге (-
+0.19881) отрицателен и значим на уровне 1%. Это означает, что увеличение
+денежной массы на начальном этапе приводит к снижению коэффициента
+достаточности капитала. С экономической точки зрения это можно объяснить
+следующим образом: когда в экономике увеличивается ликвидность, банки
+расширяют кредитование, что увеличивает объем активов с риском (RWA) и
+снижает показатель CAR за счет «эффекта знаменателя».
+     Однако второй лаг M2 (0.16048) является положительным и значимым,
+указывая на восстановление уровня капитала с течением времени за счет
+доходности кредитов и капитализации прибыли. Также L2. Отрицательный
+коэффициент ΔCAR (-0.32267) подтверждает, что показатель достаточности
+капитала имеет свойство возвращаться к своему среднему значению (mean-
+reverting), то есть система имеет механизм самостабилизации. Хотя основная
+ 52
+ставка (RATE) и обменный курс (USD) не дали статистически значимых
+результатов в уравнении прямой регрессии, их влияние может носить
+системный характер.
+    Декомпозиция дисперсии ошибок прогноза (FEVD) позволяет определить,
+какие факторы объясняют волатильность капитала банка.
+                                                            Таблица 10
+            Декомпозиция дисперсии изменчивости CAR (%)
+   Период (мес.)    S.E.   Rate      INF        M2       USD      CAR
+ 1                 0.654   97.05     0.71       0.61     0.45     1.18
+ 3                 0.892    5.70     3.88      88.42     1.47     0.53
+ 6                 0.985    4.21     5.14      82.35     3.67     4.63
+ 12                1.023    3.87     6.92      78.41     5.23     5.57
+ 24                1.045    3.54     7.81      74.23     7.84     6.58
+     Результаты показывают, что в очень короткие сроки (1 месяц) основная
+часть (97,05%) изменения CAR объясняется шоками основной ставки (Rate).
+Однако с 3-го месяца ситуация резко меняется, и денежная масса (M2)
+становится доминирующим фактором (88,42%). В долгосрочной перспективе
+(12-24 месяцев) М2 также объясняет основную часть дисперсии достаточности
+капитала (74-78%). Вклад инфляции и валютного курса постепенно возрастает
+с течением времени (7.81% и 7.84% соответственно), но остается значительно
+ниже фактора денежной массы. Это означает, что капитал банковской системы
+Узбекистана крайне чувствителен к условиям ликвидности.
+     Проведен эмпирический анализ влияния внутренних факторов на
+устойчивость капитала коммерческих банков. При этом в качестве зависимых
+переменных:
+     CAR - коэффициент достаточности капитала (%), рассчитанный в
+соответствии с требованиями Базеля III; выражается как отношение общего
+регуляторного капитала банковской системы к активам, подверженным риску.
+     В качестве независимых (внутренних) переменных:
+     Активы — совокупный объем активов системы коммерческих банков
+(млрд сумов); отражает масштабы и темпы роста банковской системы.
+     Loans - общий объем кредитного портфеля (млрд сумов); составляет
+основную составляющую активов, подверженных риску.
+     HQLA - отношение высококачественных ликвидных активов к общим
+активам (%); представляет собой резерв ликвидности и краткосрочную
+платежеспособность банковской системы.
+     NetProfit - чистая годовая прибыль системы коммерческих банков (млрд
+сумов, кумулятивный показатель, рассчитанный с начала года).
+     ROA - рентабельность активов (%), отношение чистой прибыли к
+средним активам; отражает общий уровень эффективности банковского
+сектора.
+     Увеличение ежемесячного темпа log-роста активов банка на один процент
+положительно изменит достаточность капитала в следующем месяце
+примерно на 0,24 процентных пункта. Этот результат может поначалу
+                                                                         53
+показаться неожиданным, но у него есть экономическое объяснение:
+расширение активов происходит в основном в тех случаях, когда оно
+сопровождается вложением нового капитала (выпуск акций, привлечение
+субординированных займов). В то же время преобладание роста активов над
+ростом кредитного портфеля — например, за счет ликвидных активов или
+портфеля ценных бумаг — может не соответственно увеличивать риск-
+ориентированные активы и, таким образом, поддерживать CAR.
+                                                            Таблица 11
+       Модель VAR (6) - коэффициенты уравнения ΔCAR (n = 77)
+                                 Стандартная        t-         t-
+ Переменный        Коэффициент                                         Значимость
+                                   ошибка      статистика статистика
+     Const           −0.01373      0.03611       −0.380     0.7038         —
+  L1.ΔlnAssets        0.24126      0.12239        1.971     0.0487         **
+  L1.ΔlnLoans         0.25990      0.11718        2.218     0.0266         **
+  L1.ΔHQLA           −0.96047      0.68419       −1.404     0.1604         —
+ L1.ΔlnNetProfit      0.00003      0.00086        0.040     0.9678         —
+   L1.ΔROA           −1.68114      1.29680       −1.296     0.1948         —
+   L1.ΔCAR            2.20106      0.15784       13.945     0.0000        ***
+  L2.ΔlnAssets       −0.46105      0.31729       −1.453     0.1462         —
+ L2.ΔlnLOANS         −0.45641      0.30336       −1.505     0.1324         —
+  L2.ΔHQLA            2.04952      1.85704        1.104     0.2697         —
+ L2.ΔlnNetProfit      0.00074      0.00105        0.706     0.4803         —
+   L2.ΔROA            3.10249      3.32646        0.933     0.3510         —
+   L2.ΔCAR           −2.13019      0.37664       −5.656     0.0000        ***
+   L4.ΔCAR            0.93030      0.48869        1.904     0.0570         *
+   L5.ΔCAR           −0.95376      0.35602       −2.679     0.0074        ***
+   L6.ΔCAR            0.39363      0.14805        2.659     0.0078        ***
+      Рост кредитного портфеля также положительно влияет на CAR при
+первой задержке (коэффициент = 0.260, p = 0.027). Этот результат на первый
+взгляд кажется противоречащим классической теории о том, что кредитная
+экспансия сжимает буфер капитала. Но экономическое объяснение таково:
+коммерческие банки Узбекистана, особенно госбанки, перед расширением
+кредитного портфеля, возможно, обязались расширять свою капитальную
+базу, не выполнив требования регулятора. То есть кредитование
+осуществляется при условии предварительного обеспечения достаточности
+капитала. Кроме того, в 2018-2022 годах капитальные вливания со стороны
+государства происходили параллельно с ростом кредитования.
+      Задержанный эффект самодостаточности капитала указывает на
+сложную циклическую динамику. При первом запаздывании имеются сильные
+положительные коэффициенты (2.201, p < 0.001), а при втором запаздывании
+- высокие отрицательные коэффициенты (−2.131, p < 0.001). Это отражает
+явление «овершоутинга» — то есть превышения целевого уровня показателя
+капитала, а затем его корректировки в краткосрочной перспективе. Пятая и
+шестая задержки также статистически значимы (p = 0.0074 и p = 0.0078
+соответственно), указывая на полугодовой циклический характер управления
+банковским капиталом.
+
+54
+     Коэффициенты трех переменных, таких как HQLA, NetProfit и ROA,
+были статистически незначимыми (p > 0.10) в уравнении ΔCAR. Это не
+отрицает их влияния на достаточность капитала - анализ FEVD показывает,
+что ROA является вторым по значимости фактором - а означает, что их
+влияние осуществляется не напрямую (с месячной задержкой), а через
+сложные механизмы передачи.
+     Ортогонизированные импульсно-реакционные функции (ИРФ) на
+основе идентификации Cholesky показывают влияние каждого структурного
+шока на динамику ΔCAR в горизонтах от 0 до 24 месяцев.
+                                                            Таблица 12
+       Каждая структурно-сопутствующая реакция (ССР) ΔCAR
+    Горизонт
+                  ΔlnAssets   ΔlnLoans   ΔHQLA      ΔlnNetProfit    ΔROA       ΔCAR
+     (месяц)
+ 0 (немедленно)   +0.01517    +0.05197   −0.00716    −0.00128      −0.03901   +0.04064
+        1         +0.04864    +0.13671   −0.03730    −0.00617      −0.10002   +0.08946
+        2         +0.08648    +0.20850   −0.08542    −0.00974      −0.15620   +0.11093
+        3         +0.09783    +0.19016   −0.13056    −0.00322      −0.15881   +0.07099
+        6         +0.02450    −0.12408   −0.12477    +0.06135      −0.00362   −0.07347
+       12         +0.00067    −0.06712   +0.00271    −0.00937      −0.00768   −0.01300
+       18         +0.01631    −0.05130   −0.03497    +0.00694      −0.02695   +0.00132
+       24         −0.02654    −0.03909   −0.03405    −0.00841      −0.04849   +0.01164
+      Структурный шок роста кредитного портфеля оказывает сильное
+положительное влияние на CAR в первые два месяца (+от 0,137 до +0,208,
+горизонт 1-2), что свидетельствует о работе механизма банковско-внутреннего
+спроса на капитал: расширение кредитования вначале сопровождается
+вложением капитала. Но с 6-го месяца реакция становится отрицательной
+(−0.124, горизонт 6), то есть быстрый рост кредитного портфеля через полгода
+сокращает CAR через рисковые активы. Эта инверсия объясняется временем,
+необходимого для материализации риска по кредиту. Кроме того, эффект
+значительно аттенюируется в диапазоне 12-24 месяцев (−0.067, −0.039), что
+означает, что среднесрочное воздействие шока кредитного портфеля является
+преходящим.
+      Структурный шок объема активов оказывает положительное влияние на
+CAR, нарастающее до 3 месяцев (+0.098, горизонт 3), затем замедляется. Это
+отражает расширение активов на начальном этапе за счет ликвидных,
+низкорискованных категорий активов. Через 12 месяцев эффект практически
+становится незначительным.
+      Структурный шок рентабельности активов оказывает устойчивое
+негативное влияние на CAR от 0 до 3 месяцев (наиболее сильное −0.156—−0.159,
+горизонт 2—3). Экономическое объяснение этого парадоксального результата
+заключается в следующем: резкое увеличение ROA иногда сопровождается
+принятием дополнительного риска, вызванного снижением буфера капитала. В
+выбранном периоде наблюдения (2020-2021) наблюдалась именно такая связь:
+повышение рентабельности переходного периода происходило без реальной
+оценки кредитного риска. Начиная с 6 месяцев эффект практически исчезает.
+
+                                                                                    55
+      Шок показателя HQLA оказывает негативное влияние в первые несколько
+месяцев (от −0,008 до −0,131, горизонт 0—3). В этом виде средства,
+направленные на ликвидные активы, превышают кредитный портфель, а
+рисковые активы уменьшаются - это должно было увеличить CAR. Но
+негативная реакция отражает специфическую для банков Узбекистана ситуацию,
+когда зачастую увеличение ликвидных активов осуществляется в форме вывода
+средств из высокодоходных кредитов, что ослабляет рентабельность и, в
+конечном итоге, капитальную базу.
+      Декомпозиция дисперсии ошибки прогноза (FEVD) количественно
+оценивает, какую процентную долю каждого структурного шока объясняет
+изменчивость ΔCAR в разные временные горизонты. Данный анализ позволяет
+динамично показать относительную значимость внутренних факторов.
+                                                               Таблица 13
+             Состав дисперсии прогнозной ошибки ΔCAR (%)
+     Горизонт                                                       ΔCAR
+                ΔlnAssets ΔlnLoans   ΔHQLA   ΔlnNetProfit   ΔROA
+      (месяц)                                                        сам
+       1 oy       3.74     43.86      0.83       0.03       24.71   26.83
+       3 oy       7.11     45.78      6.17       0.10       25.35   15.50
+       6 oy       8.91     35.12     21.69       0.81       23.80    9.68
+      12 oy       7.31     34.78     26.56       3.25       18.87    9.23
+      18 oy       6.81     38.83     24.32       3.17       17.81    9.05
+    Шоки ΔlnLoans составляют наибольшую долю волатильности ΔCAR во
+всех временных горизонтах: 43,86% в 1-м месяце, 45,78% в 3-м месяце -
+достигает максимума, а в интервале 6-18 месяцев стабилизируется в пределах
+35-39%. Этот результат убедительно доказывает, что динамика кредитного
+портфеля является фактором, оказывающим постоянное и доминирующее
+влияние на устойчивость капитала банка. В контексте Узбекистана эта находка
+особенно важна: годовой рост кредитования на уровне 18–58% в 2018–2022
+годах подтверждает, что волатильность ЦАР во многом определялась уровнем
+кредитной активности.
+    В третьей главе диссертации, озаглавленной «Пути обеспечения
+устойчивости капитала коммерческих банков», сформулированы
+прогнозные сценарии обеспечения устойчивости капитала в коммерческих
+банках, а также научные выводы и предложения, направленные на решение
+проблем, связанных с обеспечением устойчивости капитала коммерческих
+банков.
+    Банковская система Узбекистана в последние годы переживает
+масштабные процессы трансформации. В центре этих изменений находятся
+вопросы обеспечения устойчивости системы, подготовки к приватизации и
+внедрения цифровых технологий. Активным участником этих реформ
+является АКБ «Узпромстройбанк». Банк является не только одним из
+крупнейших финансовых институтов страны, но и лидером в финансировании
+промышленности и строительства.
+
+
+56
+   Рисунок 1. Прогнозные сценарии до 2030 года активов, кредитов и
+   капитала АКБ «Узпромстройбанк» на основе 3 различных моделей
+     Актуальность данной аналитической работы заключается в том, что в
+условиях глобализации и экономической неопределенности точное
+прогнозирование финансовых показателей банков имеет решающее значение
+для принятия стратегических решений. Наряду с традиционными методами,
+использование современных эконометрических моделей - ARIMA
+(AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA) и
+методов экспоненциального сглаживания Holt-Winters позволяет определить
+будущие тенденции развития банка.
+     Приведен сравнительный анализ моделей, использованных в анализе. В
+эконометрическом моделировании действует принцип «один размер не
+подходит всем». Это стало очевидным и в нашем анализе.
+     Как видно из таблицы, модель экспоненциального сглаживания Holt-
+Winters показала наименьшую ошибку RMSE (Root Mean Square Error) по всем
+трем показателям. Это означает, что финансовые показатели
+Узпромстройбанка имеют четкий тренд, и колебания за прошедший период
+плавно влияют на будущие значения. Хотя модель ARIMA дала хороший
+результат для активов, она не смогла правильно смоделировать резкое
+изменение кредитного портфеля (снижение в 2025 году) и дала крайне
+пессимистичный прогноз.
+                                                                      57
+                                                                        Таблица 14
+                  Сравнение прогнозов и эффективность моделей
+     Показатель          Модель    RMSE (точность)   AIC (Качество)     Заключение
+                                                                          Хорошая
+                    ARIMA(1,1,1)        2.41             24.23
+                                                                         адаптация
+Активы
+                                                                       Самый точный
+                    Holt-Winters        1.69             97.20
+                                                                          (Best Fit)
+                    ARIMA(1,1,1)        16.59            3265.2       Низкая точность
+Кредиты                                                                Самый точный
+                    Holt-Winters        3.59             106.2
+                                                                          (Best Fit)
+                    ARIMA(1,1,1)        2.80             1179.0           Средний
+Капитал                                                                Самый точный
+                    Holt-Winters        0.51              82.9
+                                                                          (Best Fit)
+     Полученные результаты имеют важное значение в контексте стратегии
+развития банковской системы Узбекистана.
+     Во-первых, рост активов и Диверсификация: к 2030 году активы
+достигнут 180 трлн сумов, что означает расширение масштабов банка. Однако
+важно не только погоня за объемом, но и изменение качества. В структуре
+активов должна увеличиваться доля высоколиквидных и доходных
+инструментов.
+     Во-вторых, осторожность в кредитной политике: прогнозируемый более
+медленный рост кредитного портфеля (по отношению к активам)
+подтверждает переход банка к консервативной политике. Это необходимый
+шаг для улучшения показателей «качества активов» (Asset Quality). В будущем
+банк может сосредоточиться на развитии малого и среднего бизнеса (МСБ) и
+розничного кредитования, а не на корпоративном.
+
+
+
+
+ Рисунок 2. Сравнительный график прогнозных сценариев до 2030 года
+ на основе двух различных моделей активов, кредитов и капитала АКБ
+                           «Узпромстройбанк»
+     В-третьих, достаточность капитала: Устойчивый рост капитала
+повышает устойчивость банка к шокам. Капитальная база в 17 трлн сумов
+позволит банку получить более высокие рейтинги международных
+рейтинговых агентств (Fitch, S&P, Moody's), что, в свою очередь, позволит
+привлекать более дешевые ресурсы с международных рынков.
+
+58
+                                                           Таблица 15
+         Классификация основных проблем, влияющих на устойчивость
+                               капитала 34
+                                                           Степень                       Сложность
+       Тип проблемы                 Описание                               Охват
+                                                         воздействия                     устранения
+                               Низкий удельный вес
+       Диспропорция в           капитала II уровня,
+                                                          Высокий      Систематический    Средний
+     структуре капитала        недостаток гибридных
+                                    инструментов
+                            Избыточное кредитование
+       Концентрация         государственного сектора,      Очень
+                                                                       Систематический    Высокий
+         кредита                   недостаточная          высокий
+                            диверсификация портфеля
+                                    Неразвитость
+      Слабые стороны
+                              межбанковского рынка,       Средне-
+        управления                                                     Систематический    Средний
+                            депозиты до востребования     высокий
+       ликвидностью
+                                        59,5%
+                             Отсутствие инструментов
+                                   хеджирования,
+       Валютный риск                                      Высокий      Систематический    Высокий
+                            нестабильность валютного
+                                        курса
+        Неразвитость          Низкая эмиссия акций,
+        эмиссионных            облигаций, узкая база      Средний           Сеть          Средний
+          операций                   инвесторов
+     Неполное внедрение        Буферы CCyB, D-SIB                                          Низко-
+                                                          Средний       Регулятивный
+          Базеля III                 недоступны                                           средний
+                             ИПЦ 34%, цены на жилье
+ Макроэкономическая           выше фундаментальной
+                                                          Высокий          Makro          Высокий
+   нестабильность             стоимости на 17%, рост
+                                    микрозаймов.
+                              Рост соотношения NPL,
+      Рост проблемных
+                                 слабый кредитный         Средний           Банк          Средний
+          кредитов
+                                     мониторинг
+     Неразвитость рынка     Низкая ликвидность, слабая
+                                                          Высокий      Систематический    Высокий
+          капитала                сеть посредников
+       Нестабильные
+                            Девальвационные резервы,
+         источники                                        Средний           Банк          Средний
+                            льготные кредитные фонды
+      финансирования
+     Согласно теории финансовой нестабильности Кейнса и Мински, в
+период кредитной экспансии заемщики и кредиторы снижают восприятие
+риска и начинают чрезмерно кредитовать, что приводит к ситуации
+финансирования «понзи» на финансовом рынке и впоследствии приводит к
+кризису. При оценке уровня макроэкономической нестабильности для
+Узбекистана важные показатели — темпы инфляции, процентные ставки,
+дефицит бюджета и внешнее долговое бремя — должны быть напрямую
+включены в капитальное планирование и стресс-тесты коммерческих банков.
+Макропруденциальная политика - это политика, проводимая Центральным
+банком с целью обеспечения устойчивости финансовой системы - реализуется
+в Узбекистане через ограничения LTV и PTI, однако дополнительные
+инструменты, такие как CCyB, еще не внедрены.
+
+
+
+34
+     Авторская разработка
+                                                                                                    59
+                               ЗАКЛЮЧЕНИЕ
+    Обобщая текущее состояние устойчивости банковской системы
+Узбекистана, можно сделать следующие выводы: в течение 2020-2025 годов
+банковская система росла быстрыми темпами и значительно улучшились
+финансовые показатели; показатели достаточности капитала, ликвидности и
+рентабельности находятся на удовлетворительном уровне и соответствуют
+международным стандартам; соотношение проблемных кредитов находится
+под контролем и находится в оптимальных пределах; ускоряется цифровая
+трансформация и расширяется финансовая инклюзия; усиливается рыночная
+конкуренция, но доля государственных банков все еще высока; развивается
+международное сотрудничество и банковская система интегрируется в
+глобальную финансовую систему; стресс-тесты подтверждают устойчивость
+банковской системы к внешним шокам; однако существует ряд структурных
+проблем и рисков, решение которых необходимо для устойчивого развития в
+будущем.
+    Для дальнейшего укрепления стабильности банковской системы важны
+следующие стратегические направления: приватизация государственных
+банков ускорение рабочего процесса; Завершение полного внедрения
+стандартов Базель III; приведение систем риск-менеджмента в соответствие с
+международными стандартами; повышение стандартов корпоративного
+управления;      продолжение     цифровой     трансформации;    расширение
+сотрудничества с финтех-сектором; усиление пруденциального контроля в
+сегменте     розничного      кредитования;    увеличение    инвестиций   в
+кибербезопасность; повышение квалификации персонала до международного
+уровня; повышение прозрачности и улучшение качества отчетности;
+совершенствование        макропруденциальной       политики;    обновление
+методологии       стресс-тестирования;    углубление    сотрудничества   с
+международными финансовыми институтами.
+    Исследование эконометрической модели влияния внешних факторов на
+устойчивость       капитала     банков     оценило     влияние     внешних
+макроэкономических факторов на устойчивость капитала коммерческих
+банков Узбекистана в 2018-2024 годах с помощью модели SVAR. Результаты
+эмпирического анализа показали, что достаточность капитала (CAR)
+банковской системы чувствительна к внешним шокам, в частности, к
+изменениям денежной массы. Было установлено, что все переменные имеют
+порядок I (1), и модель VAR (2) лучше всего объясняет динамику данных.
+    Важнейшим результатом исследования является то, что расширенная
+денежная масса (М2) является доминирующим фактором, объясняющим
+волатильность банковского капитала (в долгосрочной перспективе с долей 74-
+78%). Рост денежной массы отрицательно сказывается на достаточности
+капитала в краткосрочной перспективе, что связано с кредитной экспансией.
+Политика ключевых ставок и инфляция оказывают косвенное и в меньшей
+степени влияние. Кроме того, капитал банковской системы обладает
+свойством «возврата к среднему значению», что свидетельствует о наличии
+внутреннего потенциала устойчивости системы.
+
+60
+       SCIENTIFIC COUNCIL AWARDING OF THE
+      SCIENTIFIC DEGREES DSc.03/2025.27.12.I.30.01
+      AT TASHKENT INTERNATIONAL UNIVERSITY
+       TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+           WAYS TO ENSURE THE STABILITY OF
+            CAPITAL IN COMMERCIAL BANKS
+
+
+
+          08.00.07 - "Finance, Money Circulation, and Credit"
+
+
+
+
+                                ABSTRACT
+of the dissertation of the Doctor of Philosophy (PhD) in Economic Sciences
+
+
+
+
+                        Tashkent city – 2026 year
+
+
+
+
+                                                                             61
+62
+              INTRODUCTION (abstract of the PhD dissertation)
+
+        The aim of the study is to develop scientific-theoretical, practical, and
+methodological proposals and recommendations aimed at ensuring capital stability
+in the process of transforming the country's commercial banks.
+        Research objectives:
+        researching the scientific and theoretical foundations for ensuring the stability
+of commercial bank capital;
+        analysis of scientific and theoretical views on ensuring the stability of
+commercial bank capital and the formation of conclusions that serve to assess their
+practical significance;
+        analysis of international experience in bank capital management and obtaining
+conclusions on ensuring the capital stability of the country's banking system;
+        assessment, analysis, and formulation of conclusions regarding financial and
+credit risks affecting the stability of the bank's capital;
+        formation of an econometric model of the impact of external and internal
+factors on the stability of bank capital;
+        formation of forecast scenarios for ensuring capital stability in commercial
+banks;
+        development of scientific proposals and practical recommendations aimed at
+solving problems related to ensuring the stability of commercial bank capital and
+ways to eliminate them.
+        The object of the study is the ways to ensure the stability of the capital of
+commercial banks operating in Uzbekistan, in particular JSCB Uzpromstroybank.
+        The subject of the research is the economic relations arising in the process
+of ensuring the stability of the capital of commercial banks.
+        Research methods. The dissertation utilizes methods of scientific
+abstraction, comparative and structural analysis, induction and deduction, economic-
+statistical and econometric evaluation, specifically structural vector autoregression,
+ARIMA, Seasonal ARIMA, and Holt-Winters exponential smoothing models.
+        The scientific novelty of the research is as follows:
+        it is substantiated that the capital adequacy ratio of commercial banks has a
+"mean-reverting" character, as well as a mechanism for the differential medium-term
+impact of inflation and the exchange rate on capital stability;
+        it is substantiated that an increase in the money supply reduces the capital
+adequacy ratio of commercial banks in the short term due to credit expansion and
+the growth of risk-weighted assets, while in the second lag period, capital recovery
+occurs through the capitalization of income through a two-stage dynamic
+mechanism;
+        the influence of the highly liquid asset reserve (HQLA) of commercial banks
+on the stability of bank capital is manifested by the "delay effect" and the mechanism
+of "inertia self-correction" (mean-reverting oscillation) of capital adequacy in the
+banking system is substantiated;
+
+                                                                                      63
+       based on JSCB Uzpromstroybank's Holt-Winters model (RMSE: assets - 1.69;
+loan portfolio - 3.59; capital - 0.51), which provides the highest accuracy aimed at
+ensuring capital stability, a forecast of financial indicators for 2025-2030 is proposed
+with three scenarios: baseline, optimistic, and pessimistic.
+       The practical results of the study are as follows:
+       in order to eliminate imbalances in the regulatory capital structure of
+commercial banks, it is proposed to diversify the capital base and increase financial
+flexibility by introducing hybrid capital instruments - AT1 (Additional Tier 1)
+category bonds and subordinated debt instruments;
+       the theoretical and methodological approach aimed at adapting international
+Basel III/IV standards to local economic conditions to ensure the stability of
+commercial banks' capital has been improved, and a risk-based capital adequacy
+assessment system and a countercyclical capital buffer mechanism have been
+developed based on the synthesis of Modigliani–Miller, Diamond–Dybwig theories
+and agency theory;
+       based on a comparative analysis of foreign experience in managing bank
+capital, it is proposed to gradually implement an adapted stress testing system for
+commercial banks of Uzbekistan based on macroeconomic scenarios and a
+countercyclical capital buffer (CCyB) mechanism corresponding to the phases of
+economic activity;
+       the mechanism of short-term negative impact on the capital adequacy ratio of
+commercial banks is based on the fact that the increase in the main rate of the Central
+Bank temporarily reduces capital buffers by exerting pressure on lending activity
+and liquidity conditions, but in the long term, taking into account the attenuation of
+this effect on the basis of inertia;
+       it has been established that if the growth of the loan portfolio in the short term
+increases the capital adequacy ratio due to capital infusions, then after 6 months, the
+volume of the loan portfolio of commercial banks affects the capital adequacy ratio
+through a two-stage paradoxical mechanism by reducing capital adequacy due to an
+increase in risk-weighted assets;
+       based on the fact that high profitability is achieved through the expansion of
+risky lending and the reduction of capital buffers, it has been established that an
+increase in the return on assets ratio of commercial banks negatively affects capital
+adequacy in the short term as a "profit paradox";
+       Reliability of the research results. The reliability of the research results is
+determined by a comparative and critical analysis of the scientific and theoretical
+views of renowned economists on ways to ensure the stability of commercial bank
+capital during the transformation process, the study and generalization of advanced
+foreign experience, as well as the fact that statistical data are obtained from the
+annual reporting data of the Central Bank of the Republic of Uzbekistan, the
+Statistical Committee of the Republic of Uzbekistan, and commercial banks of
+Uzbekistan, and the implementation of relevant conclusions and proposals into
+practice by authorized organizations.
+
+64
+       Scientific and practical significance of the research results. The scientific
+significance of the research results is explained by the fact that they can be used in
+the implementation of special scientific research aimed at ways to ensure the stability
+of the capital of commercial banks.
+       The practical significance of the research results is that the developed
+scientific proposals and practical recommendations can be used in the development
+of a set of measures aimed at ensuring the stability of the capital of commercial
+banks in the process of transformation in Uzbekistan, as well as in the development
+of measures aimed at fulfilling the tasks specified in the Development Strategy of
+New Uzbekistan until 2030 and the Strategy for Reforming the Banking System of
+the Republic of Uzbekistan for 2020-2025.
+       Implementation of the research results. Based on the scientific results
+obtained on ways to ensure capital stability in commercial banks:
+       the fact that the capital adequacy ratio of commercial banks has a "reverting
+to the mean" (mean-reverting) character, as well as the proposal on the mechanism
+of medium-term differential impact of inflation and the exchange rate on capital
+stability, was introduced into the activities of JSCB Uzpromstroybank (reference
+No. 27-06/13937 of JSCB Uzpromstroybank dated May 4, 2026). As a result, it was
+determined that capital adequacy moves in the opposite direction from the previous
+two lag level with a coefficient of −0.323 (p<0.01), an increase in inflation by 1%
+increases capital adequacy by 0.051% in the second lag period (p<0.10), and the
+exchange rate of the national currency explains 7.84% of the long-term capital
+adequacy volatility using a structural vector autoregression model;
+       the proposal that if the increase in the money supply reduces the capital
+adequacy ratio of commercial banks in the short term due to credit expansion and
+the growth of risk-weighted assets, then in the second lag period, capital recovery
+occurs through the capitalization of income through a two-stage dynamic
+mechanism has been introduced into the activities of JSCB Uzpromstroybank
+(Reference No. 27-06/13937 of JSCB Uzpromstroybank dated May 4, 2026). As a
+result, it was determined that a 1% increase in the money supply reduces capital
+adequacy by 0.199% in the first lag period (p<0.01), and increases by 0.160% in the
+second lag period (p<0.05), and explains 74.2% of the capital adequacy volatility of
+the money supply in the long term (24 months) using a structural vector
+autoregression model.
+       the proposal that the impact of the high-liquidity asset reserve (HQLA) of
+commercial banks on the stability of bank capital is manifested by a "delay effect"
+and the mechanism of "inertia self-correction" (mean-reverting oscillation) of capital
+adequacy in the banking system has been introduced into the activities of JSCB
+Uzpromstroybank (reference No. 27-06/13937 of JSCB Uzpromstroybank dated
+May 4, 2026). As a result, a sharp increase in the share of the liquid assets ratio in
+the volatility of capital adequacy from 0.83% in the short term to 26.56% in the 12-
+month long term, as well as an inertial increase in capital adequacy with a coefficient
+of +2.201 in the first lag period (p<0.001) and a correction in the opposite direction
+with a coefficient of −2.130 in the second lag period, the ability to stabilize the
+                                                                                    65
+capital buffers of the banking system at a target level was determined through a
+structural vector autoregression model;
+       The multi-scenario forecasting system of JSCB "Uzpromstroybank," aimed at
+ensuring capital stability, was developed based on a comparative analysis of ARIMA
+(1,1,1), SARIMA, and Holt-Winters exponential smoothing models; a proposal for
+forecasting financial indicators for 2025–2030 based on the Holt-Winters model
+(RMSE: assets — 1.69; loan portfolio — 3.59; capital — 0.51), which ensures the
+highest accuracy for all financial indicators, was implemented into the activities of
+JSCB "Uzpromstroybank" for three scenarios: baseline, optimistic, and pessimistic
+(Reference No. 27-06/13937 of JSCB "Uzpromstroybank" dated May 4, 2026). As
+a result, with a 95% probability, the total assets of JSCB "Uzpromstroybank" will
+increase from 102.44 trillion soums in 2025 to 178.5 trillion soums by 2030, the loan
+portfolio from 64.94 trillion soums to 88.3 trillion soums, and the total capital from
+11.88 trillion soums to 17.0 trillion soums.
+       Approbation of the research results. The results of this study were discussed
+at 2 international scientific and practical conferences.
+       Publication of research results. On the topic of the dissertation, 5 articles
+were published in scientific journals recommended by the Supreme Attestation
+Commission of the Republic of Uzbekistan for the publication of the main scientific
+results of doctoral dissertations, including 4 in national and 1 in foreign journals.
+       The structure and volume of the dissertation. The dissertation consists of
+an introduction, three chapters, a conclusion and a list of references. The volume of
+the dissertation is 154 pages.
+
+
+
+
+66
+                   E’LON QILINGAN ISHLAR RO‘YXATI
+                  СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                      LIST OF PUBLISHED WORKS
+
+                             I boʻlim (I часть; Part I)
+
+       1. Yodgorov M.N. Influence of Internal Factors on The Capital Stability of
+Commercial Banks - SVAR Approach, Case of Uzbekistan // American Journal of
+Economics and Business Management. ISSN: 2576-5973. Vol. 9, Issue 3, 2026. pp.
+510-521 (№12, Index Copernicus: 08.00.00, OAK rayosatining 2024-yil 28-
+maydagi 360-son qarori). https://globalresearchnetwork.us/index.php/ajebm/
+article/view/4715/4171
+       2. Yodgorov M.N. Bank kapitalini boshqarish bo‘yicha хalqaro tajribasi //
+Aktuar moliya va buxgalteriya hisobi ilmiy jurnali ISSN 2181-1865. – Toshkent,
+Vol. 6, Issue 03, 2026-yil. 146-160 betlar. (08.00.00, OAK rayosatining 2024-yil 31-
+yanvardagi 350/10-son qarori). https://finance.tsue.uz/index.php/afa/article/view/
+1347
+       3. Yodgorov M.N. Bank kapitali barqarorligiga ta’sir qiluvchi moliyaviy va kredit
+risklarining tahlili // International Journal of Finance and Digitalization. ISSN: 2181-
+3957. Vol. 5, Issue 01, 2026-yil. (08.00.00, OAK Rayosatining 2025 yil 27 dekabrdagi
+379/6-son qarori). https://cdn.sanity.io/files/m4sdn1c1/production/2d8eb711982e
+3dc259f2725aa54 ae5779cb280ce.pdf
+       4. Yodgorov M.N. Bank kapitali barqarorligiga tashqi omillar ta’sirining
+ekonometrik modeli // “Moliya, pul va kredit” mahalliy va xalqaro miqyosida ilmiy-
+ommabop jurnal. ISSN 3060-4699. – Toshkent, 4-son, 2026-yil. 145-153 betlar.
+(08.00.00, OAK rayosatining 2025-yil 8-maydagi 370/5-son qarori).
+https://mpkjournal.com/index.php/MPK/article/view/403
+       5. Yodgorov M.N. Bank kapitalini boshqarish bo‘yicha xalqaro tajriba:
+qiyosiy tahlil va O‘zbekiston uchun strategik yo‘nalishlar // International Journal of
+Finance and Digitalization. ISSN: 2181-3957. Vol. 4, Issue 06, 2025-yil. (08.00.00,
+OAK Rayosatining              2025 yil 27 dekabrdagi 379/6-son qarori).
+https://www.ijfd.uz/assets/home/home-table-2-2.pdf
+       6. Yodgorov M.N. Theoretical Foundations of Models for Determining the
+Optimal Level of Bank Capital // International Conference on Multidisciplinary
+Science. Vol. 4, Issue 5. 2026. pp. 87-90. https://doi.org/10.5281/zenodo.20917219
+https://mjstjournal.com/index.php/icms/article/view/7768
+       7. Yodgorov M.N. Scientific and Theoretical Foundations of Ensuring the
+Capital Stability of Commercial Banks // World International Conference on
+Science, Technology and Education. Vol. 1, Issue 6. 2026. pp. 224-236.
+https://doi.org/10.5281/zenodo.20841117 https://www.globalconferencehub.org/
+index.php/ste/article/view/1156
+
+
+
+                                                                                     67
+       Avtoreferat “Public Publish Printing” nashriyotida
+                      tahrirdan oʻtkazildi
+
+
+
+
+              Bosishga ruxsat etildi: 06.08.2026-yil
+            Bichimi 60x84 1/16 , “Times New Roman”
+            garniturada raqamli bosma usulida bosildi.
+     Shartli bosma tabogʻi 3,2. Adadi: 100. Buyurtma: №90.
+
+
+68
+    «Public Publish Printing» MChJ
+      bosmaxonasida chop etildi.
+Toshkent, M.Ulug‘bek tum., Moylisoy, 22.
+                                           69
+

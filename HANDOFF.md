@@ -60,9 +60,11 @@ Taklif qilingan keyingi qadam: 1.1-§ ga «milliy olimlar qarashlari» qismini s
 ## Repodagi manbalar (`manbalar/`)
 
 - `bank_hisobotlari/` – foydalanuvchi yuklagan Markaziy bankka topshirilgan prudensial hisobotlar: SQB 2020–2025 (crs003C/L/O), Mikrokreditbank 2016–2025 (crs005C/L/O). Ayrim fayllar shifrlangan – parol `VelvetSweatshop` (msoffcrypto-tool). 2021-yil formalari rus tilida.
-- `hisob_kitob/` – `load.py` (fayllarni o‘qish), `ext.py` (ko‘rsatkichlarni chiqarish), `ind.json` (2021–2025 hisoblangan ko‘rsatkichlar), `SQB_IFRS_2025_matn.txt`.
+- `hisob_kitob/` – `load.py` (fayllarni o‘qish), `ext.py` (ko‘rsatkichlarni chiqarish), `ind.json` (2021–2025 hisoblangan ko‘rsatkichlar).
+- `bank_mhxs_matn/` – SQB MHXS hisobotlari matni (2021, 2023, 2024-yil yarim yillik, 2025) va Mikrokreditbank 2022, 2024 (OCR sifatsiz, jadvallar uchun sahifa rasmlarini ko‘rish kerak).
   Ishga tushirish: `python3 load.py <papka>` – skriptlar `<papka>/r1625`, `<papka>/r2025b` yo‘lini kutadi, ularni `manbalar/bank_hisobotlari` ga moslab o‘zgartirish kerak.
 - `markaziy_bank/` – statistik byulletenlar (`bul2021.xlsx`, `bul2022.xlsx`, `bul2603.xlsx` – 2026-yil mart; 5.1.2–5.1.8-jadvallar) va moliyaviy barqarorlik sharhlari matni.
+- `avtoreferatlar/toliq_matn/` – 29 ta avtoreferat/dissertatsiyaning to‘liq matni va 3 ta mundarija.
 - `avtoreferatlar/` – 24 ta avtoreferatdan ajratilgan matnlar (`<id>.txt`), qisqacha mazmunlar (`sumA–E.md`), ZiyoNET ro‘yxati (`lz_all.json` – 2 986 ta avtoreferat, PDF havolalari bilan).
 - `nizom/` – 2709-son nizomning 2015-yilgi matni.
 
