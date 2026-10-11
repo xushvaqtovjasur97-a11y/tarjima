@@ -3,29 +3,34 @@
  "kod": "SQB",
  "mulk": "davlat",
  "manbalar": {
-  "2021": {
+  "2020": {
    "url": "https://sqb.uz/upload/files/SQB IFRS report 2021 RUS.pdf",
-   "hujjat": "АКБ «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за год, закончившийся 31 декабря 2021 года",
+   "hujjat": "АКБ «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за год, закончившийся 31 декабря 2021 года – 2020-yil qiyosiy (comparative) ustuni",
+   "auditor": "PwC (ООО «Аудиторская организация «ПрайсуотерхаусКуперс»)"
+  },
+  "2021": {
+   "url": "https://sqb.uz/upload/files2023/SQB IFRS 2022 RUS.pdf",
+   "hujjat": "Акционерный коммерческий банк «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2022 года (с аудиторским заключением независимого аудитора) – 2021-yil qiyosiy (comparative) ustuni",
    "auditor": "PwC (ООО «Аудиторская организация «ПрайсуотерхаусКуперс»)"
   },
   "2022": {
    "url": "https://sqb.uz/upload/files2023/SQB IFRS 2023 Rus.pdf",
-   "hujjat": "АКБ «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за годы, закончившиеся 31 декабря 2023, 2022 и 2021 гг. (2022 – qayta hisoblangan qiyosiy ma'lumot)",
+   "hujjat": "АКБ «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за годы, закончившиеся 31 декабря 2023, 2022 и 2021 гг. – 2022-yil qiyosiy (comparative) ustuni",
    "auditor": "PwC (ООО «Аудиторская организация «ПрайсуотерхаусКуперс»)"
   },
   "2023": {
-   "url": "https://sqb.uz/upload/files2023/SQB IFRS 2023 Rus.pdf",
-   "hujjat": "АКБ «Узбекский промышленно-строительный банк» и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за годы, закончившиеся 31 декабря 2023, 2022 и 2021 гг.",
-   "auditor": "PwC (ООО «Аудиторская организация «ПрайсуотерхаусКуперс»)"
+   "url": "https://sqb.uz/upload/files/IFRS REPORT 2024 SQB.pdf",
+   "hujjat": "JSCB “Uzbek Industrial and Construction Bank” and its Subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2024 – 2023-yil qiyosiy (comparative) ustuni",
+   "auditor": "PwC (Audit Organization “PricewaterhouseCoopers” LLC)"
   },
   "2024": {
-   "url": "https://sqb.uz/upload/files/IFRS REPORT 2024 SQB.pdf",
-   "hujjat": "JSCB “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2024",
+   "url": "https://sqb.uz/upload/files/SQB Consolidated FS 2025 +.pdf",
+   "hujjat": "JSCB “Uzbek Industrial and Construction Bank” and its Subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2025 – 2024-yil qiyosiy (comparative) ustuni",
    "auditor": "PwC (Audit Organization “PricewaterhouseCoopers” LLC)"
   },
   "2025": {
    "url": "https://sqb.uz/upload/files/SQB Consolidated FS 2025 +.pdf",
-   "hujjat": "JSCB “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2025",
+   "hujjat": "JSCB “Uzbek Industrial and Construction Bank” and its Subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2025",
    "auditor": "PwC (Audit Organization “PricewaterhouseCoopers” LLC)"
   }
  },
@@ -35,7 +40,8 @@
    "EQ": 6080.9,
    "betlar": {
     "TA": "8",
-    "EQ": "8"
+    "EQ": "8",
+    "_hisobot": "2021-yil hisoboti"
    }
   },
   "2021": {
@@ -68,29 +74,30 @@
    "FX_LOANS_SHARE": 64.9,
    "FX_LIAB_SHARE": 71.0,
    "betlar": {
-    "TA": "8",
-    "EQ": "8",
-    "NCI": "8",
-    "DEP": "8",
-    "NP": "9",
-    "NII": "9",
-    "FEE_NET": "9",
-    "FX_NET": "9",
-    "OTHER_INC": "9",
-    "OPEX": "9",
-    "LOANS_GROSS": "46",
-    "ECL": "46",
-    "S1": "46",
-    "S2": "46",
-    "S3": "46",
-    "S_TOTAL": "46",
-    "CAR": "86",
-    "T1": "86",
-    "LEV": "86",
-    "REG_CAP": "86",
-    "T1_CAP": "86",
-    "FX_LOANS_SHARE": "90",
-    "FX_LIAB_SHARE": "90"
+    "TA": "9",
+    "EQ": "9",
+    "NCI": "9",
+    "DEP": "9",
+    "NP": "10",
+    "NII": "10",
+    "FEE_NET": "10",
+    "FX_NET": "10",
+    "OTHER_INC": "10",
+    "OPEX": "10",
+    "LOANS_GROSS": "50",
+    "ECL": "50",
+    "S1": "50",
+    "S2": "50",
+    "S3": "50",
+    "S_TOTAL": "50",
+    "CAR": "93",
+    "T1": "93",
+    "LEV": "93",
+    "REG_CAP": "93",
+    "T1_CAP": "93",
+    "FX_LOANS_SHARE": "97",
+    "FX_LIAB_SHARE": "97",
+    "_hisobot": "2022-yil hisoboti (skaner, sahifa tasvirlaridan o'qildi)"
    }
   },
   "2022": {
@@ -146,7 +153,7 @@
     "T1_CAP": "100",
     "FX_LOANS_SHARE": "104",
     "FX_LIAB_SHARE": "104",
-    "_hisobot": "2023-yil hisoboti (qiyosiy, qayta hisoblangan)"
+    "_hisobot": "2023-yil hisoboti (qayta hisoblangan)"
    }
   },
   "2023": {
@@ -177,7 +184,7 @@
    "OTHER_INC": 27.4,
    "OPEX": 1670.8,
    "FX_LOANS_SHARE": 65.8,
-   "FX_LIAB_SHARE": 72.1,
+   "FX_LIAB_SHARE": 72.9,
    "betlar": {
     "TA": "2",
     "EQ": "2",
@@ -189,19 +196,20 @@
     "FX_NET": "3",
     "OTHER_INC": "3",
     "OPEX": "3",
-    "LOANS_GROSS": "39",
-    "ECL": "39",
-    "S1": "40",
-    "S2": "40",
-    "S3": "40",
-    "S_TOTAL": "40",
-    "CAR": "99",
-    "T1": "100",
-    "LEV": "100",
-    "REG_CAP": "100",
-    "T1_CAP": "100",
-    "FX_LOANS_SHARE": "104",
-    "FX_LIAB_SHARE": "104"
+    "LOANS_GROSS": "27",
+    "ECL": "27",
+    "S1": "27",
+    "S2": "27",
+    "S3": "27",
+    "S_TOTAL": "27",
+    "CAR": "71",
+    "T1": "71",
+    "LEV": "71",
+    "REG_CAP": "71",
+    "T1_CAP": "71",
+    "FX_LOANS_SHARE": "75",
+    "FX_LIAB_SHARE": "75",
+    "_hisobot": "2024-yil hisoboti"
    }
   },
   "2024": {
@@ -244,20 +252,21 @@
     "FX_NET": "3",
     "OTHER_INC": "3",
     "OPEX": "3",
-    "LOANS_GROSS": "27",
-    "ECL": "27",
-    "S1": "27",
-    "S2": "27",
-    "S3": "27",
-    "S_TOTAL": "27",
-    "CAR": "71",
-    "T1": "71",
-    "LEV": "71",
-    "REG_CAP": "71",
-    "T1_CAP": "71",
-    "CET1": "74 (2025-yil hisoboti, qiyosiy)",
-    "FX_LOANS_SHARE": "74",
-    "FX_LIAB_SHARE": "74"
+    "LOANS_GROSS": "29",
+    "ECL": "29",
+    "S1": "29",
+    "S2": "29",
+    "S3": "29",
+    "S_TOTAL": "29",
+    "CAR": "74",
+    "T1": "74",
+    "CET1": "74",
+    "LEV": "74",
+    "REG_CAP": "74",
+    "T1_CAP": "74",
+    "FX_LOANS_SHARE": "78",
+    "FX_LIAB_SHARE": "78",
+    "_hisobot": "2025-yil hisoboti"
    }
   },
   "2025": {
@@ -313,9 +322,10 @@
     "REG_CAP": "74",
     "T1_CAP": "74",
     "FX_LOANS_SHARE": "77",
-    "FX_LIAB_SHARE": "77"
+    "FX_LIAB_SHARE": "77",
+    "_hisobot": "2025-yil hisoboti"
    }
   }
  },
- "izohlar": "Manba birligi: mln so'm; mlrd so'mga o'tkazilgan (1 kasr). Konsolidatsiyalangan (Guruh) ko'rsatkichlar. 2021 – 2021-yil hisobotidan (2023-yil hisobotida 2021 qayta hisoblangan: TA 55,726.5; EQ 6,952.2; P&L qatorlari o'zgarmagan). 2022 – 2023-yil uch yillik hisobotidagi qayta hisoblangan (restated) qiyosiy ma'lumot: 2022-yilning o'z hisoboti (https://sqb.uz/upload/files2023/SQB IFRS 2022 RUS.pdf) skaner qilingan va keyin qayta hisoblangan, berilgan TA/EQ/NP bilan izchillik uchun 2023-yil hisobotidan olindi. 2024 – 2024-yilning o'z hisobotidan (2025-yil hisobotidagi qiyosiy qiymatlar bilan bir xil; SQB_MHXS_2024.txt oraliq hisobot ishlatilmadi). NII = 'Чистая маржа по процентным и аналогичным доходам' (zaxiradan oldin). FEE_NET = komission daromad − komission xarajat. FX_NET = valyuta savdosi + valyuta qayta baholashi; hosila instrumentlar (valyuta svoplari) natijasi kiritilmagan: 2022 −100.8; 2023 −233.5; 2024 −62.3; 2025 −99.0 mlrd. OTHER_INC = faqat 'Прочие операционные доходы' qatori (dividendlar, sug'urta, qurilish xizmatlari, dastlabki tan olish va modifikatsiya natijalari kiritilmagan). OPEX = 'Административные и прочие операционные расходы'. Kapital: hisobotda MB talablari bo'yicha bank (Group) koeffitsiyentlari: CAR = regulyativ kapital/RWA (min 13%), T1 = I darajali kapital/RWA (min 10%), LEV = I darajali kapital/(aktivlar − nomoddiy aktivlar) (min 6%); CET1 faqat 2025-yil hisobotida (2025 va 2024 uchun) oshkor qilingan; RWA summasi oshkor qilinmagan. T1_CAP = 'скорректированный капитал 1-го уровня'. 2022 va 2021 koeffitsiyentlari 2023-yil hisobotida takrorlangan. LCR va NSFR oshkor qilinmagan. FX_LOANS_SHARE = valyuta riski jadvalidagi kreditlar (balans qiymati, zaxiradan keyin) bo'yicha UZS dan boshqa valyutalar ulushi; FX_LIAB_SHARE = monetar majburiyatlar ichida xorijiy valyutadagi ulush (hosila instrumentlar hisobga olinmagan). 2024-yil hisobotida 2023 jadvali qayta tasniflangan (monetar majburiyatlar UZS 17,523.5), bu yerda 2023-yilning o'z hisobotidagi qiymat (UZS 18,024.9) olindi."
+ "izohlar": "METODIKA: har bir yil ko'rsatkichlari KEYINGI yil hisobotidagi qiyosiy (restated) ustundan olingan: 2020 TA/EQ – 2021-yil hisoboti; 2021 – 2022-yil hisoboti (https://sqb.uz/upload/files2023/SQB IFRS 2022 RUS.pdf, skaner; sahifa tasvirlaridan o'qildi); 2022 – 2023-yil hisoboti; 2023 – 2024-yil hisoboti; 2024 va 2025 – 2025-yil hisoboti. Barcha maydonlar, jumladan kapital koeffitsiyentlari va FX ulushlari, keyingi yil hisobotida oshkor qilingan; o'z yil qiymatiga qaytishga ehtiyoj bo'lmadi. OLDINGI (o'z yil hisobotidan) QIYMATDAN FARQ QILGANLAR: 2023 FX_LIAB_SHARE 72.1 → 72.9 (2024-yil hisobotida 2023 valyuta jadvali qayta tasniflangan: subordinatsiyalangan qarzning 501.3 mlrd qismi USD ga o'tkazilgan, UZS monetar majburiyatlar 18,024.9 → 17,523.5). Boshqa barcha qiymatlar (2021 – 2022-yil hisoboti, 2023 va 2024 – keyingi hisobotlar) oldingi qiymatlar bilan 1 kasr aniqligida bir xil. Eslatma: 2023-yil hisobotida 2021 qayta hisoblangan (TA 55,726.5; EQ 6,952.2), lekin metodikaga ko'ra 2021 uchun keyingi (2022) hisobot olingan, u yerda TA 55,731.9; EQ 6,944.8. 2022-yil hisobotining o'z 2022 ustuni (TA 63,192.0; EQ 7,560.6; NP 620.6) 2023-yilda qayta hisoblangan – JSON da qayta hisoblangan qiymatlar (63,189.3; 7,581.2; 633.7). Manba birligi: mln so'm; mlrd so'mga o'tkazilgan (1 kasr). Konsolidatsiyalangan (Guruh). NII = zaxiradan oldingi sof foizli marja. FEE_NET = komission daromad − xarajat. FX_NET = valyuta savdosi + qayta baholash; hosila instrumentlar (svoplar) natijasi kiritilmagan: 2022 −100.8; 2023 −233.5; 2024 −62.3; 2025 −99.0 mlrd. OTHER_INC = faqat 'Прочие операционные доходы'. OPEX = 'Административные и прочие операционные расходы'. Kapital: MB talablari bo'yicha milliy asosda (hisobotda auditdan o'tmagan deb belgilangan): CAR = regulyativ kapital/RWA (min 13%), T1 = I darajali kapital/RWA (min 10%), LEV = I darajali kapital/(aktivlar − nomoddiy aktivlar) (min 6%); CET1 faqat 2025-yil hisobotida (2025 va 2024). RWA summasi, LCR, NSFR oshkor qilinmagan. T1_CAP = 'скорректированный капитал 1-го уровня'. FX_LOANS_SHARE = valyuta riski jadvalidagi kreditlar (balans qiymati) ichida UZS dan boshqa valyutalar ulushi; FX_LIAB_SHARE = monetar majburiyatlar ichida xorijiy valyuta ulushi (hosila instrumentlar hisobga olinmagan)."
 }

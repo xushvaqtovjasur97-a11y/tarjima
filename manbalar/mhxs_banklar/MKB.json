@@ -3,24 +3,29 @@
  "kod": "MKB",
  "mulk": "davlat",
  "manbalar": {
-  "2021": {
+  "2020": {
    "url": "https://mkbank.uz/upload/iblock/855/uatmeemrdvawn8bnp9jmqz30es9cpzei/tashqi_audit_2021.pdf",
-   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2021 года, и заключение независимых аудиторов",
+   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2021 года, и заключение независимых аудиторов – 2020-yil qiyosiy (comparative) ustuni",
+   "auditor": "АО ООО «Grant Thornton»"
+  },
+  "2021": {
+   "url": "https://mkbank.uz/upload/iblock/f55/talmeow0bnwgr2nkhjnvl6ced56yzl5q/Tashki-audit-2022.pdf",
+   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2022 года, и заключение независимых аудиторов – 2021-yil qiyosiy (comparative) ustuni",
    "auditor": "АО ООО «Grant Thornton»"
   },
   "2022": {
-   "url": "https://mkbank.uz/upload/iblock/f55/talmeow0bnwgr2nkhjnvl6ced56yzl5q/Tashki-audit-2022.pdf",
-   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2022 года, и заключение независимых аудиторов",
+   "url": "https://mkbank.uz/upload/iblock/c2b/mwz3xzox4y4joe9wacapbniat7n5ijz0/FS_MKB_2023-FULL.pdf",
+   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2023 года, и заключение независимых аудиторов – 2022-yil qiyosiy (comparative) ustuni",
    "auditor": "АО ООО «Grant Thornton»"
   },
   "2023": {
-   "url": "https://mkbank.uz/upload/iblock/c2b/mwz3xzox4y4joe9wacapbniat7n5ijz0/FS_MKB_2023-FULL.pdf",
-   "hujjat": "АКБ «Микрокредитбанк». Финансовая отчетность за год, закончившийся 31 декабря 2023 года, и заключение независимых аудиторов",
-   "auditor": "АО ООО «Grant Thornton»"
+   "url": "https://mkbank.uz/upload/iblock/e66/o02roresctt2a9ypkhb6qpxt10go6bzr/Tashqi-audit-rus.pdf",
+   "hujjat": "Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года, и аудиторское заключение независимых аудиторов – 2023-yil qiyosiy (comparative) ustuni",
+   "auditor": "PKF MAK ALYANS LLC"
   },
   "2024": {
-   "url": "https://mkbank.uz/upload/iblock/e66/o02roresctt2a9ypkhb6qpxt10go6bzr/Tashqi-audit-rus.pdf",
-   "hujjat": "Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года, и аудиторское заключение независимых аудиторов",
+   "url": "https://mkbank.uz/upload/iblock/e44/j8j0zaprtk7tuxa9a7ysskne4i01s911/rus.pdf",
+   "hujjat": "Акционерно-коммерческий банк «Микрокредитбанк» и его дочерние организации. Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и аудиторское заключение независимых аудиторов – 2024-yil qiyosiy (comparative) ustuni",
    "auditor": "PKF MAK ALYANS LLC"
   },
   "2025": {
@@ -36,7 +41,7 @@
    "betlar": {
     "TA": "6",
     "EQ": "6",
-    "_hisobot": "2021-yil hisoboti (qiyosiy)"
+    "_hisobot": "2021-yil hisoboti"
    }
   },
   "2021": {
@@ -89,7 +94,8 @@
     "RWA": "68",
     "REG_CAP": "68",
     "T1_CAP": "68",
-    "FX_LIAB_SHARE": "75"
+    "FX_LIAB_SHARE": "75",
+    "_hisobot": "2022-yil hisoboti"
    }
   },
   "2022": {
@@ -105,12 +111,12 @@
    "S_TOTAL": 12894.1,
    "DEP": 5283.0,
    "CAR": 20.5,
-   "T1": 20.4,
+   "T1": 20.5,
    "CET1": null,
    "CAP_BASIS": "Bank hisobi: MB (O'zR Markaziy banki) uslubiyati asosida, MHXS qoldiqlaridan hisoblangan; 2024–2025 hisobotlarida 'Bazel kapital kelishuvi asosida' deb ko'rsatilgan",
    "RWA": 17803.6,
-   "REG_CAP": 3648.0,
-   "T1_CAP": 3638.9,
+   "REG_CAP": 3650.8,
+   "T1_CAP": 3641.7,
    "LEV": null,
    "LCR": null,
    "NSFR": null,
@@ -122,27 +128,28 @@
    "FX_LOANS_SHARE": null,
    "FX_LIAB_SHARE": 34.5,
    "betlar": {
-    "TA": "6",
-    "EQ": "6",
-    "DEP": "6",
-    "NP": "7",
-    "NII": "7",
-    "FEE_NET": "7",
-    "FX_NET": "7",
-    "OTHER_INC": "7",
-    "OPEX": "7",
-    "LOANS_GROSS": "41",
-    "ECL": "41",
-    "S1": "42",
-    "S2": "42",
-    "S3": "42",
-    "S_TOTAL": "42",
-    "CAR": "68",
-    "T1": "68",
-    "RWA": "68",
-    "REG_CAP": "68",
-    "T1_CAP": "68",
-    "FX_LIAB_SHARE": "75"
+    "TA": "7",
+    "EQ": "7",
+    "DEP": "7",
+    "NP": "8",
+    "NII": "8",
+    "FEE_NET": "8",
+    "FX_NET": "8",
+    "OTHER_INC": "8",
+    "OPEX": "8",
+    "LOANS_GROSS": "40",
+    "ECL": "40",
+    "S1": "41",
+    "S2": "41",
+    "S3": "41",
+    "S_TOTAL": "41",
+    "CAR": "65",
+    "T1": "65",
+    "RWA": "65",
+    "REG_CAP": "65",
+    "T1_CAP": "65",
+    "FX_LIAB_SHARE": "71",
+    "_hisobot": "2023-yil hisoboti"
    }
   },
   "2023": {
@@ -175,27 +182,28 @@
    "FX_LOANS_SHARE": null,
    "FX_LIAB_SHARE": 30.4,
    "betlar": {
-    "TA": "7",
-    "EQ": "7",
-    "DEP": "7",
-    "NP": "8",
-    "NII": "8",
-    "FEE_NET": "8",
-    "FX_NET": "8",
-    "OTHER_INC": "8",
-    "OPEX": "8",
-    "LOANS_GROSS": "40",
-    "ECL": "40",
-    "S1": "41",
-    "S2": "41",
-    "S3": "41",
-    "S_TOTAL": "41",
-    "CAR": "65",
-    "T1": "65",
-    "RWA": "65",
-    "REG_CAP": "65",
-    "T1_CAP": "65",
-    "FX_LIAB_SHARE": "71"
+    "TA": "11",
+    "EQ": "11",
+    "DEP": "11",
+    "ECL": "11",
+    "LOANS_GROSS": "11, 48",
+    "NP": "12",
+    "NII": "12",
+    "FEE_NET": "12",
+    "FX_NET": "12",
+    "OTHER_INC": "12",
+    "OPEX": "12",
+    "S1": "50",
+    "S2": "50",
+    "S3": "50",
+    "S_TOTAL": "50",
+    "CAR": "77",
+    "T1": "77",
+    "RWA": "77",
+    "REG_CAP": "77",
+    "T1_CAP": "77",
+    "FX_LIAB_SHARE": "83",
+    "_hisobot": "2024-yil hisoboti"
    }
   },
   "2024": {
@@ -231,24 +239,25 @@
     "TA": "11",
     "EQ": "11",
     "DEP": "11",
-    "LOANS_GROSS": "11, 48",
     "ECL": "11",
+    "LOANS_GROSS": "11, 47–48",
     "NP": "12",
     "NII": "12",
     "FEE_NET": "12",
     "FX_NET": "12",
     "OTHER_INC": "12",
     "OPEX": "12",
-    "S1": "49",
-    "S2": "49",
-    "S3": "49",
-    "S_TOTAL": "49",
-    "CAR": "77",
-    "T1": "77",
-    "RWA": "77",
-    "REG_CAP": "77",
-    "T1_CAP": "77",
-    "FX_LIAB_SHARE": "83"
+    "S1": "50",
+    "S2": "50",
+    "S3": "50",
+    "S_TOTAL": "50",
+    "CAR": "74",
+    "T1": "74",
+    "RWA": "74",
+    "REG_CAP": "74",
+    "T1_CAP": "74",
+    "FX_LIAB_SHARE": "80",
+    "_hisobot": "2025-yil hisoboti"
    }
   },
   "2025": {
@@ -285,8 +294,8 @@
     "EQ": "11",
     "NCI": "11",
     "DEP": "11",
-    "LOANS_GROSS": "11, 47",
     "ECL": "11",
+    "LOANS_GROSS": "11, 47",
     "NP": "12",
     "NII": "12",
     "FEE_NET": "12",
@@ -302,9 +311,10 @@
     "RWA": "74",
     "REG_CAP": "74",
     "T1_CAP": "74",
-    "FX_LIAB_SHARE": "80"
+    "FX_LIAB_SHARE": "80",
+    "_hisobot": "2025-yil hisoboti"
    }
   }
  },
- "izohlar": "Manba birligi: 2021–2023 – ming so'm, 2024–2025 – mln so'm; hammasi mlrd so'mga o'tkazilgan (1 kasr). Hisobotlar skaner qilingan; qiymatlar sahifa tasvirlaridan o'qildi (OCR emas). 2024–2025 – konsolidatsiyalangan (Guruh), 2021–2023 – alohida bank. Har yil o'z hisobotidan olingan. LOANS_GROSS = amortizatsiyalangan qiymatdagi brutto kreditlar + FVTPL kreditlar (2021: 8,219.3+2,729.6; 2022: 12,894.1+1,313.0; 2023: 14,847.0+914.2; 2024: 18,416.9+999.2; 2025: 21,443.6+1,362.8). S1–S3, S_TOTAL – faqat amortizatsiyalangan qiymatdagi kreditlar (FVTPL kiritilmagan). 2025-yil izoh 10 jadvalida 'Дефолтные кредиты' qatorida 2-bosqichda 566,953 mln ko'rsatilgan – hisobotdagidek olindi. NII = 'Чистые процентные доходы' (zaxira va dastlabki tan olish/modifikatsiya natijasidan oldin). FX_NET = 'Чистые доходы/(расходы) по операциям в иностранной валюте и от переоценки' (2024–2025: 'Чистая прибыль от валютных операций'). OPEX = 'Административные и прочие операционные расходы' (2024–2025: 'Расходы на персонал и прочие операционные расходы'). Kapital: hisobot izohidagi bank hisobi (MHXS qoldiqlari asosida, 'bankning tushunishiga ko'ra'); CAR = 'Итого капитал'/'Коэффициент достаточности капитала', T1 = 'Капитал первого уровня'; REG_CAP = 'Скорректированная общая сумма капитала, основанного на риске' (joriy yil umumiy daromadi/zarari qo'shilgan, shu sababli 2023–2024 da REG_CAP < T1_CAP), RWA = 'Скорректированная общая сумма активов, взвешенных с учетом риска' (kredit+operatsion+bozor). 2023-yil hisobotida 2022 qiyosiy T1 20.5% (o'z hisobotida 20.4%) – o'z hisobotidagi qiymat olindi. CET1, leverage, LCR, NSFR oshkor qilinmagan. FX_LOANS_SHARE: valyuta riski izohida faqat jami monetar aktivlar/majburiyatlar valyutalar bo'yicha berilgan, kreditlar valyuta bo'yicha ajratilmagan – topilmadi (ma'lumot uchun xorijiy valyutadagi monetar aktivlar ulushi: 2021 36.3%, 2022 31.4%, 2023 29.2%, 2024 27.3%, 2025 29.7%). FX_LIAB_SHARE = monetar moliyaviy majburiyatlar ichida UZS dan boshqa valyutalar ulushi. NCI 2021–2024 = 0 (balansda ozchilik ulushi qatori yo'q)."
+ "izohlar": "METODIKA: har bir yil ko'rsatkichlari KEYINGI yil hisobotidagi qiyosiy (restated) ustundan olingan: 2020 TA/EQ – 2021-yil hisoboti; 2021 – 2022-yil hisoboti; 2022 – 2023-yil hisoboti; 2023 – 2024-yil hisoboti; 2024 va 2025 – 2025-yil hisoboti. Barcha maydonlar (kapital va FX ulushi ham) keyingi hisobotda oshkor qilingan. Hisobotlar skaner qilingan; qiymatlar sahifa tasvirlaridan o'qildi (OCR emas). OLDINGI (o'z yil hisobotidan) QIYMATDAN FARQ QILGANLAR: 2022 T1 20.4 → 20.5; 2022 T1_CAP 3,638.9 → 3,641.7; 2022 REG_CAP 3,648.0 → 3,650.8 (2023-yil hisobotida 2022 kapital hisobi qayta ko'rsatilgan: 'Нераспределенная прибыль' va 'Инвестиции в капитал неконсолидированных субъектов' qatorlari o'zgargan, nomoddiy aktivlar chegirmasi ko'rsatilmagan). CAR va RWA 2022 o'zgarmagan (20.5%; 17,803.6). Boshqa barcha qiymatlar 1 kasr aniqligida bir xil. Eslatma: 2024-yil hisobotining foyda-zarar hisobotida 2023 uchun soliqqacha zarar (517,369) mln deb bosilgan, ammo 2023-yil hisobotida (571,368.8) va soliq (+100,147) bilan sof zarar (471,222) faqat 571,369 ga mos keladi – bu bosma xato; NP −471.2 o'zgarmagan. 2024-yil hisobotida 2023 kapital summalari ming so'mdan mln ga yaxlitlangan (RWA 20,300,298 vs 20,300,296.5 ming) – 1 kasrda farq yo'q. Manba birligi: 2021–2023 hisobotlari – ming so'm, 2024–2025 – mln so'm; mlrd so'mga o'tkazilgan. 2023-yil (2024-yil hisobotida) va undan keyingi – konsolidatsiyalangan (Guruh), 2021–2022 – alohida bank. LOANS_GROSS = amortizatsiyalangan qiymatdagi brutto + FVTPL kreditlar (2021: 8,219.3+2,729.6; 2022: 12,894.1+1,313.0; 2023: 14,847.0+914.2; 2024: 18,416.9+999.2; 2025: 21,443.6+1,362.8). S1–S3, S_TOTAL – faqat amortizatsiyalangan qiymatdagi kreditlar. 2025 izoh 10 da 'Дефолтные кредиты' 2-bosqichda 566,953 mln – hisobotdagidek. NII = 'Чистые процентные доходы' (zaxiradan oldin). FX_NET = valyuta operatsiyalari va qayta baholashdan sof daromad. OPEX = 'Административные (Расходы на персонал) и прочие операционные расходы'. Kapital: hisobot izohidagi bank hisobi (MB uslubiyati, MHXS qoldiqlari asosida; 2024–2025 hisobotlarida 'на основе Базельского соглашения'); CAR = 'Итого капитал'/'Коэффициент достаточности капитала', T1 = 'Капитал первого уровня'; REG_CAP = 'Скорректированная общая сумма капитала, основанного на риске' (joriy yil umumiy daromadi/zarari qo'shilgan, shu sababli 2023–2024 da REG_CAP < T1_CAP); RWA = kredit+operatsion+bozor riski. CET1, leverage, LCR, NSFR oshkor qilinmagan. FX_LOANS_SHARE topilmadi: valyuta riski izohida faqat jami monetar aktivlar/majburiyatlar valyutalar bo'yicha berilgan (ma'lumot uchun xorijiy valyutadagi monetar aktivlar ulushi: 2021 36.3%, 2022 31.4%, 2023 29.2%, 2024 27.3%, 2025 29.7%). FX_LIAB_SHARE = monetar moliyaviy majburiyatlar ichida UZS dan boshqa valyutalar ulushi. NCI 2021–2024 = 0."
 }
