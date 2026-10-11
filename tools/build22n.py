@@ -73,20 +73,30 @@ for t in d.tables:
 
 BLUE,ORANGE,GREEN,GOLD,GREY,DBLUE,LBLUE='2A78D6','EB6834','70AD47','FFC000','A5A5A5','1F4E79','9DC3E6'
 
+for t in d.tables:
+  n=len(t.columns)
+  if n==6:
+    first=6.0 if t.rows[0].cells[1].text.strip()=='2021' else 3.6
+    rest=(16.4-first)/5
+    for row in t.rows:
+      for k,c in enumerate(row.cells): c.width=Cm(first if k==0 else rest)
+    grid=t._tbl.tblGrid
+    for k,gc in enumerate(grid.findall(qn('w:gridCol'))): gc.set(qn('w:w'),str(int((first if k==0 else rest)*567)))
+    t.autofit=False
 Y=['2021','2022','2023','2024','2025']
 rid=W.add_chart(d,W.bar_chart(['2019-y. boshi','2021-y. oxiri','2024-y.','2026-y. o‘rtasi'],[('Davlat ishtirokidagi banklar ulushi',[84,81,67,62],BLUE)],
   ytitle='Bank tizimi aktivlariga nisbatan, %',ymax=100,major=20,label_fmt='0',legend=False,gap=90))
 W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,15.0,7.0,'2.2.1-rasm'))
-rid=W.add_chart(d,W.bar_chart(Y,[('Regulyativ kapital monandligi',[17.5,17.8,17.5,17.0,18.3],BLUE),('Asosiy kapital (CET1) monandligi',[None,14.4,14.1,None,14.7],ORANGE)],
+rid=W.add_chart(d,W.bar_chart(Y,[('Regulyativ kapital monandligi',[17.5,17.8,17.5,17.4,18.3],BLUE),('Asosiy kapital (CET1) monandligi',[14.6,14.4,14.1,14.3,14.7],ORANGE)],
   ytitle='%',ymax=22,major=2,label_fmt='0.0',gap=80))
 W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,15.5,7.5,'2.2.2-rasm'))
-rid=W.add_chart(d,W.bar_chart(Y,[('Rasmiy muammoli kreditlar',[5.8,3.5,3.5,4.2,4.1],BLUE),
-  ('MHXS 9 bo‘yicha 3-bosqich kreditlari',[None,None,7.8,None,None],GOLD),('Nostandart va muammoli kreditlar',[12.5,15.9,20.0,None,None],ORANGE)],
-  ytitle='Jami kreditlarga nisbatan, %',ymax=24,major=4,label_fmt='0.0',gap=70))
+rid=W.add_chart(d,W.bar_chart(Y,[('Muammoli kreditlar, jami',[5.2,3.6,3.5,4.0,3.0],BLUE),('Muammoli kreditlar, davlat banklari',[5.4,3.9,4.0,3.9,3.2],LBLUE),
+  ('MHXS 9 bo‘yicha 3-bosqich kreditlari',[None,None,7.8,None,None],GOLD),('Substandart va muammoli kreditlar',[12.5,15.9,20.0,21.0,15.0],ORANGE)],
+  ytitle='Jami kreditlarga nisbatan, %',ymax=24,major=4,label_fmt='0.0',gap=50))
 W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,15.5,7.5,'2.2.3-rasm'))
 rid=W.add_chart(d,W.scatter_chart([
-  ('ROA',[2021,2022,2023,2024,2025],[1.3,2.5,2.6,2.0,2.2],BLUE,28575,None,'circle',('t',[0,1,2,3,4])),
-  ('ROE',[2021,2022,2023,2024,2025],[6.0,13.3,14.2,10.1,12.4],ORANGE,28575,None,'square',('t',[0,1,2,3,4]))],
+  ('ROA',[2021,2022,2023,2024,2025],[1.4,2.5,2.6,1.4,2.2],BLUE,28575,None,'circle',('t',[0,1,2,3,4])),
+  ('ROE',[2021,2022,2023,2024,2025],[6.1,13.3,14.2,6.6,12.4],ORANGE,28575,None,'square',('t',[0,1,2,3,4]))],
   'Yillar','%',2020.5,2025.5,1,0,16,2,xfmt='0',legend=True))
 W.replace_placeholder(d,'{{FIG:4}}',W.chart_run_xml(rid,15.5,7.5,'2.2.4-rasm'))
 rid=W.add_chart(d,W.bar_chart(Y,[('«O‘zsanoatqurilishbank»',[15.8,15.3,16.1,15.6,17.0],BLUE),('«Mikrokreditbank»',[13.8,20.7,18.6,15.4,18.5],GREEN),('Regulyativ minimum',[13,13,13,13,13],GREY)],
