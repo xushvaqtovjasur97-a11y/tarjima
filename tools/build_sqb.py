@@ -75,13 +75,13 @@ BLUE,ORANGE,GREEN,GOLD,GREY,DBLUE,LBLUE='2A78D6','EB6834','70AD47','FFC000','A5A
 rid=W.add_chart(d,W.bar_chart(['Muammoli kreditlar\n(milliy) / 3-bosqich (MHXS)','Substandart kreditlar\n(milliy) / 2-bosqich (MHXS)'],[
   ('Milliy hisobot',[2.53,18.44],BLUE),('MHXS',[7.48,35.66],ORANGE)],
   ytitle='Jami kreditlardagi ulushi, %',ymax=40,major=10,label_fmt='0.00',gap=80))
-W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,15.0,7.5,'1-rasm'))
+W.replace_placeholder(d,'{{FIG:1}}',W.chart_run_xml(rid,16.0,8.0,'1-rasm'))
 rid=W.add_chart(d,W.bar_chart(['Xususiy kapital','Sof foyda','Kreditlar bo‘yicha\nzaxiralar'],[
   ('Milliy hisobot',[11.88,1.88,2.95],BLUE),('MHXS',[10.27,1.54,4.25],ORANGE)],
   ytitle='trln so‘m',ymax=14,major=2,label_fmt='0.00',gap=80))
-W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,15.0,7.5,'2-rasm'))
+W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'2-rasm'))
 rid=W.add_chart(d,W.bar_chart(['Markaziy bank\nmetodikasi','Bazel III\nmetodikasi'],[
   ('Milliy hisobot',[122.2,127.6],BLUE),('MHXS tuzatishlari bilan',[119.5,124.8],ORANGE),('Minimal talab',[100,100],GREY)],
   ytitle='%',ymax=140,ymin=0,major=20,label_fmt='0.0',gap=80))
-W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,15.0,7.5,'3-rasm'))
+W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'3-rasm'))
 d.save(DST); print('saved')

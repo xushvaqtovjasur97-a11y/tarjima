@@ -110,7 +110,7 @@ W.replace_placeholder(d,'{{FIG:2.1.2}}',W.group_run_xml(sh,16.4,7.3,'2.1.2-rasm'
 rid=W.add_chart(d,W.bar_chart(['2023-y. oxiri','2024-y. oxiri','2025-y. I yarim','2025-y. oxiri','2026-y. 1-iyul'],[
   ('Jami kapital monandligi',[17.5,17.0,17.4,18.3,18.5],BLUE),('Asosiy kapital (CET1) monandligi',[None,None,14.6,14.7,15.0],ORANGE)],
   ytitle='Risk bo‘yicha tortilgan aktivlarga nisbatan, %',ymax=22,major=2,label_fmt='0.0',gap=80))
-W.replace_placeholder(d,'{{FIG:2.1.3}}',W.chart_run_xml(rid,15.5,8.0,'2.1.3-rasm'))
+W.replace_placeholder(d,'{{FIG:2.1.3}}',W.chart_run_xml(rid,16.0,8.0,'2.1.3-rasm'))
 
 # ---- 2.1.4 stress test
 rid=W.add_chart(d,W.bar_chart(['Asosiy kapital (CET1)','Jami kapital'],[
@@ -119,7 +119,7 @@ rid=W.add_chart(d,W.bar_chart(['Asosiy kapital (CET1)','Jami kapital'],[
   ('Salbiy ssenariy: 2028-y. oxiri (2025-y. sharhi)',[5.6,6.8],ORANGE),
   ('Regulyativ minimum',[8.0,13.0],GREY)],
   ytitle='Risk bo‘yicha tortilgan aktivlarga nisbatan, %',ymax=20,major=4,label_fmt='0.0',gap=60))
-W.replace_placeholder(d,'{{FIG:2.1.4}}',W.chart_run_xml(rid,15.5,8.5,'2.1.4-rasm'))
+W.replace_placeholder(d,'{{FIG:2.1.4}}',W.chart_run_xml(rid,16.0,8.0,'2.1.4-rasm'))
 
 # ---- 2.1.5 problems
 sh=[]

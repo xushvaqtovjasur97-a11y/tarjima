@@ -90,5 +90,5 @@ W.replace_placeholder(d,'{{FIG:1}}',W.group_run_xml(sh,16.4,7.1,'1-rasm'))
 rid=W.add_chart(d,W.bar_chart(['Metodika ta’siri\n(Bazel III − Markaziy bank)','Hisobot standarti ta’siri\n(MHXS − milliy hisobot)'],[
   ('Milliy hisobot / Markaziy bank metodikasi',[5.4,-2.7],BLUE),('MHXS / Bazel III metodikasi',[5.3,-2.8],ORANGE)],
   ytitle='foiz punkt',ymax=6,ymin=-4,major=2,label_fmt='0.0',gap=80))
-W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,15.0,7.5,'2-rasm'))
+W.replace_placeholder(d,'{{FIG:2}}',W.chart_run_xml(rid,16.0,8.0,'2-rasm'))
 d.save(DST); print('saved')

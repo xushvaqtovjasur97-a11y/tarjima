@@ -74,7 +74,7 @@ GRID = '<c:majorGridlines><c:spPr><a:ln w="6350"><a:solidFill><a:srgbClr val="D9
 AXLN = '<c:spPr><a:ln w="9525"><a:solidFill><a:srgbClr val="595959"/></a:solidFill></a:ln></c:spPr>'
 
 
-def _valax(axid, cross, pos, title=None, mn=None, mx=None, major=None, grid=True, fmt='General', delete=False, crosses='autoZero'):
+def _valax(axid, cross, pos, title=None, mn=None, mx=None, major=None, grid=True, fmt='General', delete=False, crosses='autoZero', cb='midCat'):
     sc = '<c:scaling><c:orientation val="minMax"/>' + (f'<c:max val="{mx}"/>' if mx is not None else '') + (f'<c:min val="{mn}"/>' if mn is not None else '') + '</c:scaling>'
     rot = -5400000 if pos == 'l' else None
     t = _title(title, 1100, rot) if title else ''
@@ -82,7 +82,7 @@ def _valax(axid, cross, pos, title=None, mn=None, mx=None, major=None, grid=True
     return (f'<c:valAx><c:axId val="{axid}"/>{sc}<c:delete val="{1 if delete else 0}"/><c:axPos val="{pos}"/>'
             f'{GRID if grid else ""}{t}<c:numFmt formatCode="{fmt}" sourceLinked="0"/><c:majorTickMark val="out"/>'
             f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100)}<c:crossAx val="{cross}"/>'
-            f'<c:crosses val="{crosses}"/><c:crossBetween val="midCat"/>{mu}</c:valAx>')
+            f'<c:crosses val="{crosses}"/><c:crossBetween val="{cb}"/>{mu}</c:valAx>')
 
 
 def _catax(axid, cross, title=None):
@@ -126,7 +126,7 @@ def bar_chart(categories, series, ytitle=None, xtitle=None, stacked=False, ymax=
     overlap = '<c:overlap val="100"/>' if stacked else ''
     plot = (f'<c:barChart><c:barDir val="col"/><c:grouping val="{grouping}"/><c:varyColors val="0"/>{sers}'
             f'<c:gapWidth val="{gap}"/>{overlap}<c:axId val="111"/><c:axId val="222"/></c:barChart>'
-            + _catax(111, 222, xtitle) + _valax(222, 111, 'l', ytitle, ymin, ymax, major, True, fmt))
+            + _catax(111, 222, xtitle) + _valax(222, 111, 'l', ytitle, ymin, ymax, major, True, fmt, cb='between'))
     return _space(plot, legend), rows
 
 
