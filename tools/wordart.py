@@ -89,7 +89,7 @@ def _catax(axid, cross, title=None):
     t = _title(title, 1100) if title else ''
     return (f'<c:catAx><c:axId val="{axid}"/><c:scaling><c:orientation val="minMax"/></c:scaling><c:delete val="0"/>'
             f'<c:axPos val="b"/>{t}<c:numFmt formatCode="General" sourceLinked="0"/><c:majorTickMark val="none"/>'
-            f'<c:minorTickMark val="none"/><c:tickLblPos val="nextTo"/>{AXLN}{_txpr(1100)}<c:crossAx val="{cross}"/>'
+            f'<c:minorTickMark val="none"/><c:tickLblPos val="low"/>{AXLN}{_txpr(1100)}<c:crossAx val="{cross}"/>'
             f'<c:crosses val="autoZero"/><c:auto val="1"/><c:lblAlgn val="ctr"/><c:lblOffset val="100"/><c:noMultiLvlLbl val="0"/></c:catAx>')
 
 
