@@ -16,7 +16,7 @@ ITEMS=[('D',P+'Kirish.docx'),
 ('B','III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI'),
 ('D',P+'3.1-paragraf.docx'),('D',P+'3.2-paragraf.docx'),('D',P+'3.3-paragraf.docx'),
 ('B','IV BOB. TIJORAT BANKLARI MOLIYAVIY BARQARORLIGINI BAHOLASH METODOLOGIYASINI TAKOMILLASHTIRISH YO‘NALISHLARI'),
-('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx')]
+('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx')]
 def heads(d):
   return [p for p in d.paragraphs if p.style.name.startswith('Heading')]
 def build(toc):
