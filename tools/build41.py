@@ -125,10 +125,16 @@ def onebank(nm,vals,col,mk,lab,key,extra=None):
   ser=[(nm,X,vals,col,28575,None,mk,('b',lab))]
   if extra: ser.append(extra)
   ser+=[('Qizil zona chegarasi (2,75)',X,[2.75]*17,'C00000',15875,'dash',None),('Yashil zona chegarasi (3,25)',X,[3.25]*17,GREEN,15875,'dash',None)]
-  xml,rows=W.scatter_chart(ser,'Yillar (choraklar)','MBII, ball',2021,2025.5,1,2.0,4.0,0.25,xfmt='0',yfmt='0.00',legend=True)
+  xml,rows=W.scatter_chart(ser,'Yillar (choraklar)','MBII, ball',2021,2025.5,1,1.75,4.0,0.25,xfmt='0',yfmt='0.00',legend=True)
   rid=W.add_chart(d,(xml.replace('<c:dispBlanksAs val="gap"/>','<c:dispBlanksAs val="span"/>'),rows))
   W.replace_placeholder(d,'{{FIG:%d}}'%key,W.chart_run_xml(rid,16.0,8.0,'4.1.%d-rasm'%key))
-onebank('«Mikrokreditbank» ATB',s('Mikrokreditbank'),ORANGE,'square',[0,4,9,10,11,15,16],3)
+def ifrs_ser(code,nm,col):
+  v=[None]*17
+  for y in range(2021,2026): v[Q.index(f'{y}_IV')]=round(R32[code][str(y)]['mbii'],2)
+  pts=[(x,a) for x,a in zip(X,v) if a is not None]
+  return (nm,[a for a,b in pts]+[None]*(17-len(pts)),[b for a,b in pts]+[None]*(17-len(pts)),col,28575,None,'diamond',('b',[0,1,2,3,4],col))
+R32=json.load(open('/home/user/tarjima/manbalar/hisob_kitob/mbii32.json'))
+onebank('MKB: milliy hisobot asosida (choraklik)',s('Mikrokreditbank'),BLUE,'circle',[0,4,10,16],3,ifrs_ser('MKB','MKB: MHXS hisoboti asosida (yillik)',ORANGE))
 onebank('«Biznesni rivojlantirish banki» ATB',s('Biznesni rivojlantirish banki'),BLUE,'circle',[1,3,7,8,9,12,13],4)
 import pandas as pd
 pp=pd.read_csv('/home/user/tarjima/manbalar/hisob_kitob/panel33.csv'); sq=pp[pp.bank=='O‘zsanoatqurilishbank'].set_index('davr').MBII.round(2).to_dict()
