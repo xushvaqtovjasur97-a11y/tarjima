@@ -141,13 +141,13 @@ W.replace_placeholder(d,'{{FIG:4}}',W.group_run_xml(sh,16.4,7.25,'1.1.4-rasm'))
 rid=W.add_chart(d,W.bar_chart(['Aktivlar sifatining\nyomonligi','Rejalashtirish va\nboshqaruv zaifligi','Ichki auditning\nyo‘qligi','Firibgarlik'],[
   ('Muammoli banklar ulushi',[98,90,25,11],BLUE)],
   ytitle='Muammoli banklar sonidagi ulushi, %',ymax=100,major=20,label_fmt='0',legend=False,gap=60))
-W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,15.0,7.5,'1.1.5-rasm'))
+W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,8.0,'1.1.5-rasm'))
 
 # ---- 6: Z-score accuracy
 rid=W.add_chart(d,W.bar_chart(['Faqat Z-score','To‘liq model','To‘liq model\n(inqiroz davri)'],[
   ('Muammoli banklar to‘g‘ri aniqlangan',[75,81,91],ORANGE),('Sog‘lom banklar to‘g‘ri aniqlangan',[81,87,83],BLUE)],
   ytitle='To‘g‘ri tasniflash ulushi, %',ymax=100,major=20,label_fmt='0',gap=70))
-W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,15.0,7.5,'1.1.6-rasm'))
+W.replace_placeholder(d,'{{FIG:6}}',W.chart_run_xml(rid,16.0,8.0,'1.1.6-rasm'))
 
 # ---- 7: author's conceptual model
 sh=[]

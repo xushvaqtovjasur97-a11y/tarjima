@@ -111,7 +111,7 @@ W.replace_placeholder(d,'{{FIG:2}}',W.group_run_xml(sh,16.6,y,'1.3.2-rasm'))
 rid=W.add_chart(d,W.bar_chart(['To‘g‘ri bashorat','Birinchi tur xatosi','Ikkinchi tur xatosi'],[
   ('UBSS tizimi',[50,32.7,12.2],GREY),('FIMS modeli',[74.6,17,7.4],BLUE)],
   ytitle='Kuzatuvlar ulushi, %',ymax=80,major=20,label_fmt='0.0',gap=70))
-W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,15.5,8.0,'1.3.3-rasm'))
+W.replace_placeholder(d,'{{FIG:3}}',W.chart_run_xml(rid,16.0,8.0,'1.3.3-rasm'))
 
 # ---- 4: BAITE matrix
 sh=[]
@@ -142,7 +142,7 @@ xml,rows=W.scatter_chart([
   xtitle='Yillar',ytitle='Minimal talab, %',xmin=2014,xmax=2027,xmajor=1,ymin=30,ymax=110,ymajor=10,xfmt='0',legend=True)
 xml=xml.replace('<c:legendPos val="b"/>','<c:legendPos val="b"/><c:legendEntry><c:idx val="3"/><c:delete val="1"/></c:legendEntry>',1)
 rid=W.add_chart(d,(xml,rows))
-W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,9.5,'1.3.5-rasm'))
+W.replace_placeholder(d,'{{FIG:5}}',W.chart_run_xml(rid,16.0,8.0,'1.3.5-rasm'))
 
 # ---- 6: stress test architecture
 sh=[]
@@ -169,5 +169,5 @@ rid=W.add_chart(d,W.bar_chart(['2023-y. oxiri','2024-y. oxiri','2025-y. III chor
   ('Alohida e’tibor talab qiluvchi kreditlar',[2.20,2.22,2.20,None,None,None],GOLD),
   ('Muqobil baholar',[None,None,None,3.0,4.6,15.5],ORANGE)],
   ytitle='Jami kreditlarga nisbatan, %',stacked=True,ymax=16,major=4,label_fmt='0.00',gap=50))
-W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,15.5,7.2,'1.3.7-rasm'))
+W.replace_placeholder(d,'{{FIG:7}}',W.chart_run_xml(rid,16.0,8.0,'1.3.7-rasm'))
 d.save(DST); print('saved')
