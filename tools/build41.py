@@ -125,7 +125,8 @@ def onebank(nm,vals,col,mk,lab,key,extra=None):
   ser=[(nm,X,vals,col,28575,None,mk,('b',lab))]
   if extra: ser.append(extra)
   ser+=[('Qizil zona chegarasi (2,75)',X,[2.75]*17,'C00000',15875,'dash',None),('Yashil zona chegarasi (3,25)',X,[3.25]*17,GREEN,15875,'dash',None)]
-  rid=W.add_chart(d,W.scatter_chart(ser,'Yillar (choraklar)','MBII, ball',2021,2025.5,1,2.0,4.0,0.25,xfmt='0',yfmt='0.00',legend=True))
+  xml,rows=W.scatter_chart(ser,'Yillar (choraklar)','MBII, ball',2021,2025.5,1,2.0,4.0,0.25,xfmt='0',yfmt='0.00',legend=True)
+  rid=W.add_chart(d,(xml.replace('<c:dispBlanksAs val="gap"/>','<c:dispBlanksAs val="span"/>'),rows))
   W.replace_placeholder(d,'{{FIG:%d}}'%key,W.chart_run_xml(rid,16.0,8.0,'4.1.%d-rasm'%key))
 onebank('«Mikrokreditbank» ATB',s('Mikrokreditbank'),ORANGE,'square',[0,4,9,10,11,15,16],3)
 onebank('«Biznesni rivojlantirish banki» ATB',s('Biznesni rivojlantirish banki'),BLUE,'circle',[1,3,7,8,9,12,13],4)
