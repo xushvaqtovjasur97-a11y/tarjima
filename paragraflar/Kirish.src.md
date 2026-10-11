@@ -26,7 +26,7 @@ Mahalliy iqtisodchi olimlardan O.Sattarov, F.Xolmamatov, N.Sharipova, N.Xolov, B
 
 Mazkur tadqiqotlarni umumlashtirish shuni ko‘rsatadiki, ularning aksariyatida moliyaviy barqarorlik milliy prudensial me’yorlar va milliy hisobot ma’lumotlari asosida baholangan, likvidlik me’yorlari esa Markaziy bank metodikasi bo‘yicha hisoblangan tayyor qiymatlar sifatida olingan. Milliy va xalqaro metodikalar, milliy hisobot va MHXS ma’lumotlari o‘rtasidagi farqlarni miqdoriy aniqlash, moliyaviy barqarorlikni Bazel III, MHXS 9 va Xalqaro valyuta jamg‘armasi ko‘rsatkichlari asosida yagona tizimda baholash masalalari kompleks tarzda tadqiq etilmagan. Mazkur holat dissertatsiya mavzusining tanlanishiga va uning dolzarbligini belgilashga asos bo‘ldi.
 
-**Dissertatsiya tadqiqotining dissertatsiya bajarilgan oliy ta’lim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bog‘liqligi.** Dissertatsiya tadqiqoti [oliy ta’lim muassasasi nomi] ilmiy-tadqiqot ishlari rejasiga muvofiq «[ilmiy-tadqiqot mavzusi nomi]» mavzusi doirasida bajarilgan.
+**Dissertatsiya tadqiqotining dissertatsiya bajarilgan oliy ta’lim muassasasining ilmiy-tadqiqot ishlari rejalari bilan bog‘liqligi.** Dissertatsiya tadqiqoti Denov tadbirkorlik va pedagogika universiteti ilmiy-tadqiqot ishlari rejasiga muvofiq «[ilmiy-tadqiqot mavzusi nomi]» mavzusi doirasida bajarilgan.
 
 **Tadqiqotning maqsadi** tijorat banklari moliyaviy barqarorligini xalqaro standartlar asosida baholash metodologiyasini takomillashtirishga qaratilgan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
 
@@ -46,9 +46,9 @@ tijorat banklari moliyaviy ko‘rsatkichlarini milliy va MHXS hisobotlari bo‘y
 
 xalqaro standartlarga asoslangan moliyaviy barqarorlik integral indeksini ishlab chiqish va unga ta’sir etuvchi omillarni ekonometrik baholash;
 
-moliyaviy barqarorlikni erta ogohlantirish tizimini shakllantirish va uni o‘rta muddatli istiqbolda prognozlash;
+integral indeks asosida moliyaviy barqarorlikni erta ogohlantirish tizimini shakllantirish va 2026–2028-yillarga ssenariy prognozini ishlab chiqish;
 
-tijorat banklari moliyaviy barqarorligini baholash amaliyotini xalqaro standartlarga muvofiqlashtirish bo‘yicha taklif va tavsiyalar ishlab chiqish.
+tijorat banklari moliyaviy barqarorligini baholash tizimini xalqaro standartlarga muvofiqlashtirishning asosiy yo‘nalishlarini ishlab chiqish.
 
 **Tadqiqotning obyekti** sifatida O‘zbekiston Respublikasi tijorat banklari, jumladan, «O‘zsanoatqurilishbank» ATB va «Mikrokreditbank» ATB faoliyati tanlangan.
 
@@ -62,11 +62,11 @@ sof barqaror moliyalashtirish me’yorini Markaziy bank va Bazel III metodikalar
 
 likvidlikni qoplash me’yorini Bazel III ga muvofiqlashtirish maqsadida boshqa banklardagi muddatli depozitlarni yuqori likvidli aktivlar tarkibidan chiqarish va majburiyatlar bo‘yicha pul oqimlarining tabaqalashtirilgan chiqish koeffitsiyentlarini qo‘llash zarurligi asoslangan;
 
-MHXS 9 bo‘yicha qadrsizlangan kreditlar ulushining milliy hisobotdagi muammoli kreditlar ulushiga nisbati sifatida «yashirin kredit riski koeffitsiyenti»ni moliyaviy barqarorlikni baholash tizimiga kiritish va uning [__] dan yuqori qiymatini erta ogohlantirish signali sifatida belgilash taklif etilgan;
+MHXS 9 bo‘yicha qadrsizlangan kreditlar ulushining milliy hisobotdagi muammoli kreditlar ulushiga nisbati sifatida «yashirin kredit riski koeffitsiyenti» taklif etilgan va undan milliy hisobot ma’lumotlarini xalqaro standartlar darajasiga keltirib, integral indeksning aktivlar sifati blokini tuzatish vositasi sifatida foydalanish asoslangan (koeffitsiyent tahlil qilingan banklarda 1,7–5,6 ni tashkil etgan);
 
-Bazel III kapital va likvidlik me’yorlari, MHXS 9 bo‘yicha aktivlar sifati va Xalqaro valyuta jamg‘armasi moliyaviy barqarorlik ko‘rsatkichlarini birlashtiruvchi moliyaviy barqarorlik integral indeksi va uning chegaraviy qiymatlari ishlab chiqilgan [3-bob natijalari bo‘yicha aniqlashtiriladi];
+Bazel III kapital va likvidlik me’yorlari, MHXS 9 bo‘yicha aktivlar sifati va Xalqaro valyuta jamg‘armasi moliyaviy barqarorlik ko‘rsatkichlarini birlashtiruvchi besh blokli moliyaviy barqarorlik integral indeksi, uning 1–4 ballik shkalasi va to‘rtta barqarorlik sinfi chegaralari ishlab chiqilgan hamda indeks davlat banklari uchun davlat ko‘magisiz variantda hisoblanib, davlat ko‘magining baholashga ta’siri ajratilgan;
 
-[4-bob natijalari bo‘yicha: erta ogohlantirish tizimi yoki prognoz modeli bo‘yicha ilmiy yangilik].
+integral indeksga asoslangan uch zonali erta ogohlantirish tizimi ishlab chiqilgan va indeksning tijorat banklarida moliyaviy muammolarni to‘rt chorak oldin bashorat qilish kuchi (AUC = 0,86) an’anaviy Z-score ko‘rsatkichidan (AUC = 0,42) yuqori ekani empirik jihatdan isbotlangan.
 
 **Tadqiqotning amaliy natijalari quyidagilardan iborat:**
 
@@ -76,11 +76,17 @@ O‘zbekiston bank tizimida moliyaviy barqarorlik ko‘rsatkichlari 2021–2025-
 
 «O‘zsanoatqurilishbank» ATB va «Mikrokreditbank» ATB misolida MHXS 9 bo‘yicha qadrsizlangan kreditlar ulushi 2021–2025-yillarda rasmiy muammoli kreditlar ulushidan mos ravishda 1,6–3,0 va 2,8–3,3 barobar yuqori bo‘lgani aniqlangan;
 
-Markaziy bankning 2709-son nizomi bo‘yicha sof barqaror moliyalashtirish me’yori hisob-kitobida barqaror moliyalashtirish manbai sifatida regulyativ kapital o‘rniga xususiy kapital olinishi me’yorni [__] foiz punktga o‘zgartirishi aniqlanib, hisoblash tartibini aniqlashtirish taklif etilgan;
+Markaziy bankning 2709-son nizomi bo‘yicha sof barqaror moliyalashtirish me’yori hisob-kitobida barqaror moliyalashtirish manbai sifatida regulyativ kapital o‘rniga xususiy kapital olinishi me’yorni taxminan 7,2 foiz punktga oshirishi aniqlanib, hisoblash tartibini aniqlashtirish taklif etilgan;
 
 likvidlik me’yorlari va ularning tarkibiy qismlarini Bazel III ning uchinchi ustuni talablariga muvofiq oshkor qilish tartibi taklif etilgan;
 
-[3–4-boblar natijalari bo‘yicha: integral indeks asosida banklar reytingi, erta ogohlantirish tizimi va 2026–2028-yillarga prognoz natijalari].
+beshta yirik bank MHXS hisobotlari asosida integral indeks bo‘yicha reyting baholanib, davlat ko‘magisiz baholashda «Mikrokreditbank» ATB ning indeksi 2,47 balldan 1,72 ballgacha, ya’ni nobarqaror sinfgacha pasayishi aniqlangan;
+
+25 ta tijorat banki bo‘yicha 2021–2025-yillardagi choraklik panel ma’lumotlari asosida davlat banklarining integral indeksi xususiy banklarnikidan o‘rtacha 0,69 ballga past ekani, bu farqning qariyb yarmi depozit bazasining torligi va past foiz marjasi bilan izohlanishi aniqlangan;
+
+2026–2028-yillarga shartli ssenariy prognozi asosida 2020-yildagi kabi keskin iqtisodiy shok takrorlangan taqdirda 2027-yilda tizim aktivlarining 24,3 foizini tashkil etuvchi to‘rtta davlat banki qizil zonaga tushishi, «O‘zsanoatqurilishbank» ATB esa milliy hisobot bo‘yicha barqaror ko‘rinsa-da, MHXS bo‘yicha qizil zonaga tushishi ko‘rsatilgan;
+
+FSAP tavsiyalari va Markaziy bankning 2025–2028-yillarga mo‘ljallangan «yo‘l xaritasi» bilan muvofiqlashtirilgan holda integral indeksni masofaviy monitoringga joriy etish, unga asoslangan erta ogohlantirish va tezkor tuzatish choralari tizimini shakllantirish hamda stress-testlarni MHXS ma’lumotlari asosida o‘tkazish bo‘yicha takliflar ishlab chiqilgan.
 
 **Tadqiqot natijalarining ishonchliligi** qo‘llanilgan yondashuv va usullarning maqsadga muvofiqligi, ma’lumotlarning O‘zbekiston Respublikasi Markaziy banki, Xalqaro valyuta jamg‘armasi, Jahon banki va tijorat banklarining rasmiy hisobotlari hamda auditorlik tekshiruvidan o‘tgan MHXS bo‘yicha moliyaviy hisobotlaridan olinganligi, hisob-kitoblarning Bazel qo‘mitasi va Xalqaro valyuta jamg‘armasi metodikalariga asoslanganligi, xulosa, taklif va tavsiyalarning amaliyotga joriy etilganligi hamda vakolatli tashkilotlar tomonidan tasdiqlanganligi bilan izohlanadi.
 
