@@ -13,8 +13,8 @@
 | `reja/Kitoblar_va_dissertatsiya_bogliqligi.docx` | 21 ta kitob va paragraflar matritsasi |
 | `cowork/Kitoblar_tahlili_2.md` / `.docx` | 21 ta kitob tahlili (asosiy manbalar bazasi, sahifalari bilan) |
 | `cowork/Suhbat_6-7_oktabr.md` | Cowork suhbatining oxirgi qismi |
-| `paragraflar/1.2-paragraf.docx` | 1.2-§, 18 bet (havolalar muallif-yil ko‘rinishida) |
-| `paragraflar/1.3-paragraf.docx` | 1.3-§, 18 bet, 7 ta rasm, sahifa osti snoskalari |
+| `paragraflar/1.2-paragraf.docx` | **Yangi 1.2-§** «Banklar moliyaviy barqarorligini baholashning xalqaro standartlari va metodologik yondashuvlari» (eski 1.2 va 1.3 birlashtirildi), 19 bet, 5 rasm, 4 jadval, 63 snoska. `1.2-paragraf.src.md` → `tools/fn12n.py` → `tools/build12n.py`. Eski matn git tarixida |
+| `paragraflar/1.3-paragraf.docx` | Eski 1.3-§ (xalqaro standartlar) – yangi 1.2-§ ga ko‘chirilgan, endi ishlatilmaydi |
 | `paragraflar/2.1-paragraf.docx` | 2.1-§, 13 bet, 5 ta rasm, sahifa osti snoskalari |
 | `paragraflar/2.2-paragraf.docx` | **Yangi reja bo‘yicha 2.2-§** (bank tizimi + SQB + Mikrokreditbank, 2021–2025), 18 bet, 8 ta diagramma, 3 ta jadval, 47 snoska. Manba: `2.2-paragraf.src.md` → `tools/fn22.py` → `tools/build22n.py` |
 | `paragraflar/Ozbekiston_Bazel_evolyutsiyasi_tahlil.docx` | O‘zbekistonda Bazel talablari evolyutsiyasi (5 bosqich, K1 dinamikasi) |
