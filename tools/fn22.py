@@ -25,6 +25,7 @@ R={
 'CBU24':('O‘zbekiston Respublikasi Markaziy banki. 2024-yil uchun moliyaviy barqarorlik sharhi. – Toshkent, 2025.',''),
 'SQBREP':('«O‘zsanoatqurilishbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs003C, crs003L, crs003O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
 'MKREP':('«Mikrokreditbank» ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs005C, crs005L, crs005O): bank balansi, daromadlar, regulyativ kapital hisob-kitobi, aktivlarni tasniflash va prudensial me’yorlar jadvallari, 2021–2025-yillar 30-dekabr holatiga.',''),
+'MKIFRS':('Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года, и заключение независимых аудиторов. – Ташкент, 2025. – С. 49–51; Акционерно-коммерческий банк «Микрокредитбанк». Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 48. – https://mkbank.uz/uz/shareholders/financial-indicators/audit-report/',''),
 'SQBIFRS':('Joint Stock Commercial Bank «Uzbek Industrial and Construction Bank» and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026.','P.'),
 }
 def ref(k,p):
@@ -43,7 +44,7 @@ A={
 'F4':'Tadqiqot natijasida muallif tomonidan 2.2.1-jadval ma’lumotlari asosida ishlab chiqildi.',
 'T2':'Tadqiqot natijasida muallif tomonidan quyidagi manbalar ma’lumotlari asosida hisoblandi: '+J(ref('SQBREP','-'),ref('MKREP','-')),
 'F5':BANK,'F6':BANK,'F7':BANK,
-'T3':SYS+J(ref('BUL','-'),ref('CBU25','-'),ref('WBFSA','-'),ref('SQBREP','-'),ref('MKREP','-'),ref('SQBIFRS','28–31')),
+'T3':SYS+J(ref('BUL','-'),ref('CBU25','-'),ref('WBFSA','-'),ref('SQBREP','-'),ref('MKREP','-'),ref('SQBIFRS','28–31'),ref('MKIFRS','-')),
 }
 txt=open(SRC).read(); notes=[]
 def sub(m):
