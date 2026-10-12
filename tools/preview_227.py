@@ -14,7 +14,7 @@ SER = [
     ('SQB: rasmiy muammoli', [3.8, 2.8, 2.2, 2.8, 2.5], '5B9BD5', 'dash'), ('SQB: 3-bosqich (MHXS)', [6.2, 7.4, 4.8, 5.9, 7.5], '1F4E79'),
     ('MKB: rasmiy muammoli', [5.9, 4.8, 6.0, 4.6, 4.4], '70AD47', 'dash'), ('MKB: 3-bosqich (MHXS)', [17.4, 13.5, 16.6, 15.2, 12.3], '375623'),
     ('Aloqabank: rasmiy muammoli', [round(A[y]['NPL_n'], 1) for y in Y], 'ED7D31', 'dash'), ('Aloqabank: 3-bosqich (MHXS)', [round(A[y]['S3_i'], 1) for y in Y], 'C00000')]
-WCM, LEFT = 16.5, 0.36          # diagramma kengligi va chap ustun ulushi (jadval bilan bir xil)
+WCM, LEFT = 16.5, 0.38          # diagramma kengligi va chap ustun ulushi (jadval bilan bir xil)
 FW = (1 - LEFT - 0.01) / len(Y)
 
 
@@ -48,12 +48,14 @@ def build(d, after_para=None):
                 rr = par.add_run(txt); rr.bold = True
             elif c_i == 0:
                 nm, vals, col = SER[r_i - 1][:3]; dash = len(SER[r_i - 1]) > 3
-                k = par.add_run('– – ●  ' if dash else '——●  '); k.font.color.rgb = RGBColor.from_string(col); k.bold = True
+                k = par.add_run('━ ━ ━ ' if dash else '━━━━━ '); k.font.color.rgb = RGBColor.from_string(col); k.bold = True
+                k.font.size = Pt(13)
                 rr = par.add_run(nm); rr.bold = True
             else:
                 rr = par.add_run(f'{SER[r_i - 1][1][c_i - 1]:.1f}'.replace('.', ',')); rr.bold = True
-            for run in par.runs:
-                run.font.name = 'Times New Roman'; run.font.size = Pt(9.5)
+            for j, run in enumerate(par.runs):
+                if not (r_i and c_i == 0 and j == 0):
+                    run.font.name = 'Times New Roman'; run.font.size = Pt(9.5)
     return p, t
 
 
