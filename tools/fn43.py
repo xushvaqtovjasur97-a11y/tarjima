@@ -7,7 +7,7 @@ for f in ['fn11.py','fn13x.py','fn22.py','fn12n.py','fn23.py','fn31.py','fn32.py
     if f not in ('fn11.py','fn13x.py','fn22.py'): code=code[code.find('\nR.update({'):]
     ns={'R':{}}; exec(code,ns); R.update(ns['R'])
 R.update({
-'IMFP':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025.','P.'),
+'IMFP':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025. – https://www.imf.org/en/publications/cr/issues/2025/06/23/republic-of-uzbekistan-financial-sector-assessment-program-financial-system-stability-567987','P.'),
 'RM':('The Central Bank of the Republic of Uzbekistan. «Roadmap» aimed at further improving the bank regulation and supervision system in 2025–2028. – Tashkent, 17 November 2025.',''),
 'PCA':('Federal Deposit Insurance Corporation Improvement Act of 1991, Section 131: Prompt Corrective Action (12 U.S.C. § 1831o). – Washington, DC: U.S. Congress, 1991.',''),
 'SREP':('European Banking Authority. Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP) and supervisory stress testing (EBA/GL/2022/03). – Paris: EBA, 18 March 2022.',''),

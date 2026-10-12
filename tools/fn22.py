@@ -8,7 +8,7 @@ R={
 'LM':(LM,'С.'),'LAV':(LAV,'С.'),
 'HEN':('Hendrickson J.M. Regulation and Instability in U.S. Commercial Banking: A History of Crises. – Basingstoke: Palgrave Macmillan, 2011.','P.'),
 'TIAN':('Tian W. Regulatory Capital Requirement in Basel III // Commercial Banking Risk Management: Regulation in the Wake of the Financial Crisis / ed. by W. Tian. – New York: Palgrave Macmillan, 2017.','P.'),
-'IMF145':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025.',''),
+'IMF145':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Financial System Stability Assessment. IMF Country Report No. 25/145. – Washington, DC: IMF, 2025. – https://www.imf.org/en/publications/cr/issues/2025/06/23/republic-of-uzbekistan-financial-sector-assessment-program-financial-system-stability-567987',''),
 'IMF189':('International Monetary Fund. Republic of Uzbekistan: 2022 Article IV Consultation – Press Release; Staff Report; and Statement by the Executive Director for the Republic of Uzbekistan. IMF Country Report No. 22/189. – Washington, DC: IMF, 2022. – P. 30 (Table 7).',''),
 'IMF227':('International Monetary Fund. Republic of Uzbekistan: Financial Sector Assessment Program – Detailed Assessment of Observance – Basel Core Principles for Effective Banking Supervision. IMF Country Report No. 25/227. – Washington, DC: IMF, 2025.',''),
 'WBFSA':('World Bank. Republic of Uzbekistan: Financial Sector Assessment. – Washington, DC: World Bank, 2025.',''),
