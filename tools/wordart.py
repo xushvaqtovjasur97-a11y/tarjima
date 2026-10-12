@@ -290,3 +290,32 @@ def replace_placeholder(doc, key, run_xml):
             pf.keep_with_next = True
             return True
     raise KeyError(key)
+
+
+def line_table_chart(categories, series, ytitle=None, ymin=None, ymax=None, major=None, fmt='0.0', w=28575, layout=None):
+    """Chiziqli diagramma + ostida ma'lumotlar jadvali (Excel «data table», legend kalitlari bilan).
+    series: list of (name, values, color[, dash])."""
+    rows = [[''] + [s[0] for s in series]] + [[c] + [s[1][i] for s in series] for i, c in enumerate(categories)]
+    n = len(categories)
+    sers = ''
+    for k, s in enumerate(series):
+        name, vals, color = s[0], s[1], s[2]
+        dash = s[3] if len(s) > 3 else None
+        col = _col(k + 1)
+        sers += (f'<c:ser><c:idx val="{k}"/><c:order val="{k}"/><c:tx>{_strref(f"Sheet1!${col}$1", [name])}</c:tx>'
+                 f'<c:spPr>{_ln(color, w, dash)}</c:spPr>'
+                 f'<c:marker><c:symbol val="circle"/><c:size val="5"/><c:spPr><a:solidFill><a:srgbClr val="{color}"/></a:solidFill><a:ln><a:noFill/></a:ln></c:spPr></c:marker>'
+                 f'<c:cat>{_strref(f"Sheet1!$A$2:$A${n+1}", categories)}</c:cat>'
+                 f'<c:val>{_numref(f"Sheet1!${col}$2:${col}${n+1}", vals, fmt)}</c:val><c:smooth val="0"/></c:ser>')
+    dt = ('<c:dTable><c:showHorzBorder val="1"/><c:showVertBorder val="1"/><c:showOutline val="1"/><c:showKeys val="1"/>'
+          '<c:spPr><a:noFill/><a:ln w="9525"><a:solidFill><a:srgbClr val="7F7F7F"/></a:solidFill></a:ln></c:spPr>'
+          f'{_txpr(1000, True)}</c:dTable>')
+    plot = (f'<c:lineChart><c:grouping val="standard"/><c:varyColors val="0"/>{sers}'
+            '<c:marker val="1"/><c:axId val="111"/><c:axId val="222"/></c:lineChart>'
+            + _catax(111, 222) + _valax(222, 111, 'l', ytitle, ymin, ymax, major, True, '0', cb='between') + dt)
+    xml = _space(plot, legend=False)
+    if layout:
+        x, y, w_, h_ = layout
+        xml = xml.replace('<c:plotArea><c:layout/>', '<c:plotArea><c:layout><c:manualLayout><c:layoutTarget val="inner"/><c:xMode val="edge"/><c:yMode val="edge"/>'
+                          f'<c:x val="{x}"/><c:y val="{y}"/><c:w val="{w_}"/><c:h val="{h_}"/></c:manualLayout></c:layout>', 1)
+    return xml, rows
