@@ -31,7 +31,7 @@ T = {
 29: 'Hal qilindi (lag8_kam.py): 8 chorak lagli modellar baholandi (N=194): Pooled −0,0007***, FE +0,0005 (p=0,05), Z-score – ahamiyatsiz. 3.3-§ matni va 3.3.7-jadval (H2) to‘ldirildi.',
 30: 'Hal qilindi: 3.1.5-jadval izohiga va 3.1-§ cheklovlariga L1 milliy balansdan olingani, shu sababli likvidlik blokidagi ΔMBII faqat L2 hisobiga shakllanishi yozildi.',
 31: 'Hal qilindi: mualliflik ta’rifi «amaliy natijalar»dan «ilmiy yangilik»ning birinchi bandiga ko‘chirildi.',
-32: 'Hal qilindi: LCR Bazel III bo‘yicha qayta hisoblandi (16-jadval shakli): banklardagi mablag‘lar HQLA dan chiqarilganda 222,9% → 154,1% (−68,8 p.p.), garovdagi aktivlar ham chiqarilganda 146,5%. 2.3.4-jadvalga qator va 2.3-§ ga matn qo‘shildi.',
+32: 'Hal qilindi: LCR Bazel III bo‘yicha qayta hisoblandi (16-jadval shakli): banklardagi mablag‘lar HQLA dan chiqarilganda 222,9% → 154,1% (−68,8 p.p.); garovga qo‘yilgan aktivlar shaklda yuqori likvid aktivlar jamisidan allaqachon chiqarilgan. 2.3.4-jadvalga qator va 2.3-§ ga matn qo‘shildi.',
 33: 'Hal qilindi: usullar ro‘yxatida «ekspert baholash (vaznlarni muallif belgilashi va ularni entropiya, variatsiya, bosh komponentlar va logit usullari bilan tekshirish), bootstrap va Monte-Karlo» deb aniqlashtirildi.',
 34: 'Muallif hal qiladi: Markaziy bank (va/yoki boshqa vakolatli tashkilot) dalolatnomasini olish tavsiya etiladi; matnga o‘zgartirish kiritilmadi.',
 35: 'Hal qilindi: 2.3-§ ga ochiq/yopiq ma’lumotlar chegarasi va takrorlanuvchanlik izohi qo‘shildi («banklarning ruxsati bilan» – muallif tasdiqlashi kerak).',
