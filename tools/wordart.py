@@ -292,7 +292,7 @@ def replace_placeholder(doc, key, run_xml):
     raise KeyError(key)
 
 
-def line_table_chart(categories, series, ytitle=None, ymin=None, ymax=None, major=None, fmt='0.0', w=28575, layout=None):
+def line_table_chart(categories, series, ytitle=None, ymin=None, ymax=None, major=None, fmt='0.0', w=28575, layout=None, dtable=True):
     """Chiziqli diagramma + ostida ma'lumotlar jadvali (Excel «data table», legend kalitlari bilan).
     series: list of (name, values, color[, dash])."""
     rows = [[''] + [s[0] for s in series]] + [[c] + [s[1][i] for s in series] for i, c in enumerate(categories)]
@@ -312,8 +312,10 @@ def line_table_chart(categories, series, ytitle=None, ymin=None, ymax=None, majo
           f'{_txpr(1000, True)}</c:dTable>')
     plot = (f'<c:lineChart><c:grouping val="standard"/><c:varyColors val="0"/>{sers}'
             '<c:marker val="1"/><c:axId val="111"/><c:axId val="222"/></c:lineChart>'
-            + _catax(111, 222) + _valax(222, 111, 'l', ytitle, ymin, ymax, major, True, '0', cb='between') + dt)
+            + _catax(111, 222) + _valax(222, 111, 'l', ytitle, ymin, ymax, major, True, '0', cb='between') + (dt if dtable else ''))
     xml = _space(plot, legend=False)
+    if not dtable:  # yillar diagramma ostidagi Word jadvalida beriladi
+        xml = xml.replace('<c:tickLblPos val="low"/>', '<c:tickLblPos val="none"/>', 1)
     if layout:
         x, y, w_, h_ = layout
         xml = xml.replace('<c:plotArea><c:layout/>', '<c:plotArea><c:layout><c:manualLayout><c:layoutTarget val="inner"/><c:xMode val="edge"/><c:yMode val="edge"/>'
