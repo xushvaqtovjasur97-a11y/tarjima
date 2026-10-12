@@ -16,7 +16,7 @@ ITEMS=[('D',P+'Kirish.docx'),
 ('B','III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI'),
 ('D',P+'3.1-paragraf.docx'),('D',P+'3.2-paragraf.docx'),('D',P+'3.3-paragraf.docx'),('D',P+'III_bob_xulosalar.docx'),
 ('B','IV BOB. TIJORAT BANKLARI MOLIYAVIY BARQARORLIGINI BAHOLASH METODOLOGIYASINI TAKOMILLASHTIRISH YO‘NALISHLARI'),
-('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx'),('D',P+'IV_bob_xulosalar.docx'),('D',P+'Xulosa.docx')]
+('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx'),('D',P+'IV_bob_xulosalar.docx'),('D',P+'Xulosa.docx'),('D',P+'Adabiyotlar.docx')]
 def heads(d):
   return [p for p in d.paragraphs if p.style.name.startswith('Heading')]
 def build(toc):
@@ -48,7 +48,7 @@ def build(toc):
     hs=heads(d)
     comp.append(d); prevB=False
   for p in comp.doc.paragraphs:
-    if p.text.strip() in ('KIRISH','XULOSA') and p.style.name.startswith('Heading'): p.style=comp.doc.styles['Heading 1']
+    if p.text.strip() in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI') and p.style.name.startswith('Heading'): p.style=comp.doc.styles['Heading 1']
   comp.save(TMP)
 def pages():
   subprocess.run(['soffice','--headless','--convert-to','pdf',TMP,'--outdir','/tmp/claude-0/'],check=True,capture_output=True)
@@ -61,7 +61,7 @@ entries=[]
 for kind,x in ITEMS:
   if kind=='B': entries.append((1,x)); continue
   hs=heads(docx.Document(x)); t=hs[0].text.strip()
-  entries.append((1 if t in ('KIRISH','XULOSA') else 2,t))
+  entries.append((1 if t in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI') else 2,t))
 toc=[(l,t,'00') for l,t in entries]
 for it in range(2):
   build(toc); txt,n=pages()
