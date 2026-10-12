@@ -42,13 +42,13 @@ def build(d, after_para=None):
         for c_i, cell in enumerate(row.cells):
             cell.width = widths[c_i]
             par = cell.paragraphs[0]; par.alignment = WD_ALIGN_PARAGRAPH.CENTER if c_i else WD_ALIGN_PARAGRAPH.LEFT
-            pf = par.paragraph_format; pf.space_before = pf.space_after = 0; pf.first_line_indent = Cm(0); pf.line_spacing = 1.0
+            pf = par.paragraph_format; pf.space_before = pf.space_after = 0; pf.first_line_indent = Cm(0); pf.left_indent = Cm(0); pf.right_indent = Cm(0); pf.line_spacing = 1.0
             if r_i == 0:
                 txt = '' if c_i == 0 else Y[c_i - 1]
                 rr = par.add_run(txt); rr.bold = True
             elif c_i == 0:
                 nm, vals, col = SER[r_i - 1][:3]; dash = len(SER[r_i - 1]) > 3
-                k = par.add_run('━ ━ ━ ' if dash else '━━━━━ '); k.font.color.rgb = RGBColor.from_string(col); k.bold = True
+                k = par.add_run('━ ━ ' if dash else '━━━ '); k.font.color.rgb = RGBColor.from_string(col); k.bold = True
                 k.font.size = Pt(13)
                 rr = par.add_run(nm); rr.bold = True
             else:

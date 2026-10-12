@@ -154,6 +154,29 @@ for j, y in enumerate(Y):
     D.set_cell(T16, 19, j + 1, f"{f(am[y]['mbii'], 2)} ({M.cls(am[y]['mbii'])})", tag='AL')
 e2 = copy.deepcopy(after_el); nt16.addnext(e2)
 
+# 2.2.7-rasm: chiziqli diagramma + ostida moslangan jadval (Aloqabank bilan), o'q 0 dan
+import wordart as W, preview_227 as P227
+W._counter['chart'] = 200; W._counter['docpr'] = 9000
+cap = [p for p in D.paras() if p.text.startswith('2.2.7-rasm. ')][0]
+old = cap._p.getprevious()                       # eski diagramma paragrafi
+oldrid = [e.get(qn('r:id')) for e in old.iter('{http://schemas.openxmlformats.org/drawingml/2006/chart}chart')][0]
+np227, t227 = P227.build(D.d)
+ppr = old.find(qn('w:pPr'))
+if ppr is not None:
+    for e in np227._p.findall(qn('w:pPr')):
+        np227._p.remove(e)
+    np227._p.insert(0, copy.deepcopy(ppr))
+old.addnext(np227._p); old.getparent().remove(old)
+np227._p.addnext(t227._tbl)
+D.d.part.drop_rel(oldrid)
+D.replace(cap, ' va «Mikrokreditbank» ATB da', ', «Mikrokreditbank» ATB va «Aloqabank» ATB da', tag='AL')
+D.insert('Rasmdan ko‘rinib turibdiki, ikkala bankda ham MHXS 9 bo‘yicha qadrsizlangan', '25–30 foiz atrofida saqlangan.',
+         ' Rasmda taqqoslash uchun keltirilgan uchinchi davlat banki – «Aloqabank» ATB da ham xuddi shunday manzara kuzatiladi: 3-bosqich kreditlari ulushi '
+         + f(min(a[y]['S3_i'] for y in Y)) + '–' + f(max(a[y]['S3_i'] for y in Y)) + ' foizni tashkil etib, rasmiy muammoli kreditlar ulushidan ('
+         + f(min(a[y]['NPL_n'] for y in Y)) + '–' + f(max(a[y]['NPL_n'] for y in Y)) + ' foiz) ' + f(min(koef)) + '–' + f(max(koef)) + ' barobar yuqori bo‘lgan; 2022–2024-yillarda rasmiy ko‘rsatkich '
+         + f(min(a[y]['NPL_n'] for y in Y[1:4])) + '–' + f(max(a[y]['NPL_n'] for y in Y[1:4])) + ' foizgacha pasaygan bir paytda MHXS bo‘yicha ko‘rsatkich '
+         + f(min(a[y]['S3_i'] for y in Y[1:4])) + '–' + f(max(a[y]['S3_i'] for y in Y[1:4])) + ' foiz darajasida saqlangan (bank bo‘yicha batafsil tahlil 2.3-paragrafda keltiriladi)[[FN:' + FN['ALCALC'] + ']].', tag='AL')
+
 # 2.3.5-rasm va 3.2.3-rasm: «Aloqabank» chizig'i (oddiy rangda)
 D.chart_add_series('/word/charts/chart21.xml', 1, '«Aloqabank»', [round(v, 2) for v in koef], '70AD47', tag='AL')
 D.chart_axis_max('/word/charts/chart21.xml', 'l', 5)

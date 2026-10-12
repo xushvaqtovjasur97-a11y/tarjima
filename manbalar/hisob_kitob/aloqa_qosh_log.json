@@ -1387,6 +1387,18 @@
 ],
 [
 "AL",
+"replace",
+" va «Mikrokreditbank» ATB da",
+", «Mikrokreditbank» ATB va «Aloqabank» ATB da"
+],
+[
+"AL",
+"insert",
+"25–30 foiz atrofida saqlangan.",
+" Rasmda taqqoslash uchun keltirilgan uchinchi davlat banki – «Aloqabank» ATB da "
+],
+[
+"AL",
 "chart_series",
 "/word/charts/chart21.xml",
 "«Aloqabank»"
