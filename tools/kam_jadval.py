@@ -7,7 +7,7 @@ SRC = '/home/user/tarjima/taqriz/Kamchiliklar_jadvali.docx'
 DST = '/home/user/tarjima/Kamchiliklar_jadvali_tuzatish_yollari.docx'
 
 T = {
-1: 'Tasdiqlandi: xususiy kapital olinganda me’yor 122,2%, regulyativ kapital olinganda 129,4% (−7,1 p.p.). Kirish (taqrizchi tuzatgan) saqlandi; 2.3-§ ga nizom 53–55-bandlari va bankning 16-, 22-jadval shakllariga havola bilan hisob-kitob qo‘shildi.',
+1: 'Tasdiqlandi: xususiy kapital olinganda me’yor 122,2%, regulyativ kapital olinganda 129,4% (−7,1 p.p.). Kirish (taqrizchi tuzatgan) saqlandi; 2.3-§ ga hisob-kitob qo‘shildi: asos – Bazel III NSFR (21-band) va 2709-nizomning 2025-yil 23-maygacha amal qilgan 54-bandi; 7/5-son qaror (2025) bilan bu bandlar kuchini yo‘qotib, elementlar Markaziy bank tomonidan o‘rnatilishi va ochiq e’lon qilinmagani ham ko‘rsatildi; Kirish shunga moslandi.',
 2: 'Kirish va Xulosadagi «2,7–2,8» saqlandi; 2.3-§ matniga farq dekompozitsiya tartibiga bog‘liqligi (MB metodikasi bo‘yicha 2,7, Bazel III bo‘yicha 2,8) izohi qo‘shildi.',
 3: 'Hal qilindi: SQB va MKB uchun barcha joylarda 2.3-§ metodikasi (CET1 8,87%, regulyativ kapital 15,32%) qo‘llandi; mbii32.py qayta hisoblandi. MBII SQB 2025: 2,83 → 2,81 (sinf o‘zgarmadi). Yangilandi: 3.1.5-jadval va izohi, 3.1.3–3.1.4-rasmlar, ΔMBII (−0,46; aktivlar sifati ulushi 83–86%), 1-ilova (1.1, 1.2), 3.2.3-jadval va rasm, 4.1.3–4.1.4-rasmlar va matn (2024-yilda SQB MHXS indeksi 2,72 – qizil zona), 4.2.6-jadval va 4.2.3-rasm, 4.3.2-jadval, III bob xulosalari va Xulosa.',
 4: 'Hal qilindi: MKB MHXS CET1 hamma joyda 18,24% (regulyativ kapital 19,96%); ball va MBII o‘zgarmadi.',

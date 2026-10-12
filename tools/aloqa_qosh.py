@@ -105,7 +105,7 @@ p4 = para_after(nt, anchor,
     + f(y25['CET1_n'] - 8.5, 2) + ' foiz punktdan ' + f(y25['CET1_i'] - 8.5, 2) + ' foiz punktgacha qisqaradi.')
 # likvidlik
 p5 = para_after(p4._p, anchor,
-    'Likvidlik ko‘rsatkichlari ham «O‘zsanoatqurilishbank» ATB dagi qonuniyatni tasdiqlaydi. 2025-yil yakunida «Aloqabank» ATB ning likvidlikni qoplash koeffitsiyenti milliy metodika bo‘yicha 142,0 foizni tashkil etgan, biroq yuqori likvid aktivlarning 27,3 foizi (1 246,9 mlrd so‘m) xorijiy banklardagi vakillik hisobvaraqlaridagi mablag‘lardan iborat. Ular Bazel III talabiga muvofiq yuqori likvid aktivlar tarkibidan chiqarilganda koeffitsiyent 103,2 foizgacha, ya’ni minimal talab darajasigacha pasayadi. Sof barqaror moliyalashtirish me’yori esa milliy hisobot shakli bo‘yicha 103,0 foizni tashkil etib, nizom matnidagidek xususiy kapital (3 846,9 mlrd so‘m) o‘rniga regulyativ kapital (5 026,8 mlrd so‘m) olinganda 108,7 foizga oshadi[[FN:' + FN['ALFORM'] + ' 16-jadval, 1.4, 1.12, 2.3–2.6-qatorlar; hisob-kitob muallif tomonidan bajarildi.]]. Demak, uchinchi bank misolida ham milliy hisobot asosidagi baholash aktivlar sifati va daromadlilikni oshirib, likvidlik buferining sifatini esa haqiqiydan yuqori ko‘rsatadi, bu esa 2.3-paragrafda aniqlangan tafovutlarning alohida bankka xos emas, balki tizimli xususiyatga ega ekanini tasdiqlaydi.')
+    'Likvidlik ko‘rsatkichlari ham «O‘zsanoatqurilishbank» ATB dagi qonuniyatni tasdiqlaydi. 2025-yil yakunida «Aloqabank» ATB ning likvidlikni qoplash koeffitsiyenti milliy metodika bo‘yicha 142,0 foizni tashkil etgan, biroq yuqori likvid aktivlarning 27,3 foizi (1 246,9 mlrd so‘m) xorijiy banklardagi vakillik hisobvaraqlaridagi mablag‘lardan iborat. Ular Bazel III talabiga muvofiq yuqori likvid aktivlar tarkibidan chiqarilganda koeffitsiyent 103,2 foizgacha, ya’ni minimal talab darajasigacha pasayadi. Sof barqaror moliyalashtirish me’yori esa milliy hisobot shakli bo‘yicha 103,0 foizni tashkil etib, Bazel III dagidek xususiy kapital (3 846,9 mlrd so‘m) o‘rniga regulyativ kapital (5 026,8 mlrd so‘m) olinganda 108,7 foizga oshadi[[FN:' + FN['ALFORM'] + ' 16-jadval, 1.4, 1.12, 2.3–2.6-qatorlar; hisob-kitob muallif tomonidan bajarildi.]]. Demak, uchinchi bank misolida ham milliy hisobot asosidagi baholash aktivlar sifati va daromadlilikni oshirib, likvidlik buferining sifatini esa haqiqiydan yuqori ko‘rsatadi, bu esa 2.3-paragrafda aniqlangan tafovutlarning alohida bankka xos emas, balki tizimli xususiyatga ega ekanini tasdiqlaydi.')
 # 2.3-§ xulosasi
 D.insert('Tijorat banklari moliyaviy ko‘rsatkichlarining milliy va MHXS hisobotlari bo‘yicha qiyosiy tahlili asosida xulosa qilish mumkinki', 'muntazam xususiyatga ega bo‘lib',
          ' (bu uchta davlat banki – «O‘zsanoatqurilishbank», «Mikrokreditbank» va «Aloqabank» ATBlari misolida tasdiqlandi)', tag='AL')
@@ -238,7 +238,9 @@ for p in D.paras():
             elif r0.text == m.group(1):
                 r0.text = str(n)
 print('adabiyotlar:', n)
-D.replace('Dissertatsiyaning tuzilishi va hajmi.', 'ro‘yxati 183 ta manbani', f'ro‘yxati {n} ta manbani', tag='AL')
+_pt = D.para('Dissertatsiyaning tuzilishi va hajmi.').text
+_old = re.search(r'ro‘yxati \d+ ta manbani', _pt).group(0)
+D.replace('Dissertatsiyaning tuzilishi va hajmi.', _old, f'ro‘yxati {n} ta manbani', tag='AL')
 D.save(DST)
 
 # mundarija sahifalari

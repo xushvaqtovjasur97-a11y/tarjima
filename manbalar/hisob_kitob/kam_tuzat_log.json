@@ -3,7 +3,19 @@
 "1",
 "insert",
 "to‘rt variantda hisoblandi.",
-" Hisob-kitob jarayonida nizom matni va bankning hisobot shakli o‘rtasida farq an"
+" Hisob-kitob jarayonida xalqaro standart va bankning hisobot shakli o‘rtasida mu"
+],
+[
+"1",
+"replace",
+"Markaziy bankning 2709-son nizomi bo‘yicha sof barqaror moli",
+"sof barqaror moliyalashtirish me’yori hisob-kitobida Bazel III standartida va Ma"
+],
+[
+"47",
+"insert",
+"antirish chora-tadbirlari to‘g‘risida»gi",
+" (2020-yil 1-avgustdan kuchini yo‘qotgan)"
 ],
 [
 "2",
@@ -1437,6 +1449,12 @@
 "47",
 "new_para",
 "",
+"0. O‘zbekiston Respublikasi Markaziy banki boshqaruvining 2025-yil 1-apreldagi 7"
+],
+[
+"47",
+"new_para",
+"",
 "0. O‘zbekiston Respublikasi Prezidentining 2015-yil 6-maydagi PQ-2344-son «Tijor"
 ],
 [
@@ -1491,7 +1509,7 @@
 "47",
 "replace",
 "adabiyotlar ro‘yxati 174 ta manbani",
-"adabiyotlar ro‘yxati 183 ta manbani"
+"adabiyotlar ro‘yxati 184 ta manbani"
 ],
 [
 "47",
