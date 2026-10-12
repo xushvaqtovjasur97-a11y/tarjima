@@ -459,6 +459,9 @@ for s, num in (('Ktaf = (XMHXS – Xmilliy) / Xmilliy × 100%', '(2.1)'), ('Kykr
                ('MBIIit = α + β1·ln(Aktivlar)it', '(3.3)')):
     D.insert(s, '', '  ' + num, tag='48')
 
+# diagrammalarning ichki Excel jadvallarini yangilangan kesh bilan sinxronlash
+for ch in ('chart25', 'chart26', 'chart27', 'chart28', 'chart29', 'chart35', 'chart36', 'chart39'):
+    D.chart_sync_xlsx(f'/word/charts/{ch}.xml')
 D.save(DST)
 json.dump(K.LOG, open('/home/user/tarjima/manbalar/hisob_kitob/kam_tuzat_log.json', 'w'), ensure_ascii=False, indent=0)
 print('saqlandi:', DST, len(K.LOG), 'ta amal')

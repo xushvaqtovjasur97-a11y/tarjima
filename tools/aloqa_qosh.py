@@ -119,7 +119,7 @@ D.insert('Har ikki bankning 2021–2025-yillar yakunidagi Markaziy bankka taqdim
 am = {y: AM[y] for y in Y}
 b25 = am['2025']
 D.insert('Rasmdan ko‘rinib turibdiki, besh yil davomida banklarning moliyaviy barqarorligi turlicha', 'asosan davlat ko‘magiga tayanishini ko‘rsatadi.',
-         ' Indeks vaznlar va sinflar chegaralarini baholashda qatnashmagan oltinchi bank – «Aloqabank» ATB ma’lumotlarida ham tekshirildi (1-ilova, 1.6). Bankning MHXS asosidagi indeksi 2021–2024-yillarda '
+         ' Indeks vaznlar va sinflar chegaralarini baholashda qatnashmagan oltinchi bank – «Aloqabank» ATB ma’lumotlarida ham tekshirildi (3.2.3-rasmda uzuq chiziq bilan ko‘rsatilgan, 1-ilova, 1.6). Bankning MHXS asosidagi indeksi 2021–2024-yillarda '
          + f(min(am[y]['mbii'] for y in Y[:4]), 2) + '–' + f(max(am[y]['mbii'] for y in Y[:4]), 2) + ' ball bilan II sinfda bo‘lgan, 2025-yilda esa MHXS bo‘yicha zarar natijasida daromadlilik bloki '
          + f(b25['bloklar']['D'], 2) + ' ballgacha pasayib, indeks ' + f(b25['mbii'], 2) + ' ballga tushgan va 4.1-paragrafdagi qizil zona chegarasiga (2,75) yaqinlashgan. Milliy hisobot bo‘yicha esa xuddi shu yili indeks '
          + f(b25['milliy'], 3) + ' ballni, ya’ni I sinf chegarasini tashkil etgan. Demak, tanlanmadan tashqari bankda ham ΔMBII ('
@@ -153,6 +153,17 @@ D.set_cell(T16, 19, 0, 'MBII (sinf)', tag='AL')
 for j, y in enumerate(Y):
     D.set_cell(T16, 19, j + 1, f"{f(am[y]['mbii'], 2)} ({M.cls(am[y]['mbii'])})", tag='AL')
 e2 = copy.deepcopy(after_el); nt16.addnext(e2)
+
+# 2.3.5-rasm va 3.2.3-rasm: «Aloqabank» chizig'i (oddiy rangda)
+D.chart_add_series('/word/charts/chart21.xml', 1, '«Aloqabank»', [round(v, 2) for v in koef], '70AD47', tag='AL')
+D.chart_axis_max('/word/charts/chart21.xml', 'l', 5)
+D.chart_add_series('/word/charts/chart29.xml', 4, '«Aloqabank» (tashqi tekshiruv)', [round(am[y]['mbii'], 2) for y in Y], '00A3A3', dash='dash', label_idx={4}, tag='AL')
+for ch in ('chart21', 'chart29'):
+    D.chart_sync_xlsx(f'/word/charts/{ch}.xml')
+D.replace('2.3.5-rasm. «O‘zsanoatqurilishbank» ATB va «Mikrokreditbank» ATB da yashirin kredit riski koeffitsiyenti', ' va «Mikrokreditbank» ATB da', ', «Mikrokreditbank» ATB va «Aloqabank» ATB da', tag='AL')
+D.insert('Rasmdan ko‘rinib turibdiki, yashirin kredit riski koeffitsiyenti ikkala bankda ham', 'uning eng yuqori qiymati esa 2024-yilga to‘g‘ri kelgan.',
+         ' Taqqoslash uchun rasmda ushbu paragraf oxirida batafsil tahlil qilinadigan uchinchi davlat banki – «Aloqabank» ATB koeffitsiyenti ham keltirilgan: u 2021-yildagi '
+         + f(koef[0], 2) + ' dan 2022-yilda ' + f(koef[1], 2) + ' gacha oshib, 2023–2024-yillarda ' + f(koef[2], 2) + ' darajasida saqlangan, 2025-yilda esa ' + f(koef[4], 2) + ' ga pasaygan, ya’ni bu bankda milliy tasnif kredit riskini ikki tadqiqot obyektiga nisbatan ham kuchliroq kamsitib ko‘rsatgan.', tag='AL')
 
 # =====================================================================
 # 3) 4.3.2-jadval va 4.3-§, IV bob xulosalari

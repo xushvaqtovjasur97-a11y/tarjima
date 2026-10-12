@@ -423,3 +423,120 @@ class Doc:
             self._reorder_footnotes()
             self.fpart._blob = etree.tostring(self.fx, xml_declaration=True, encoding='UTF-8', standalone=True)
         self.d.save(path)
+
+
+# ---------- diagramma: qator qo'shish va ichki Excel jadvalini kesh bilan sinxronlash
+CNS = {'c': 'http://schemas.openxmlformats.org/drawingml/2006/chart', 'a': 'http://schemas.openxmlformats.org/drawingml/2006/main'}
+
+
+def _col2n(c):
+    n = 0
+    for ch in c:
+        n = n * 26 + ord(ch) - 64
+    return n
+
+
+def _n2col(n):
+    s = ''
+    while n:
+        n, r = divmod(n - 1, 26)
+        s = chr(65 + r) + s
+    return s
+
+
+def chart_add_series(self, name, src_idx, title, values, color, dash=None, label_idx=None, tag=''):
+    """src_idx qatoridan nusxa olib yangi qator qo'shadi; ichki jadvalda yangi ustunlar ochiladi."""
+    import re as _re
+    x, part = self.chart_xml(name)
+    sers = x.findall('.//c:ser', CNS)
+    src = sers[src_idx]
+    new = copy.deepcopy(src)
+    idx = max(int(s.find('c:idx', CNS).get('val')) for s in sers) + 1
+    new.find('c:idx', CNS).set('val', str(idx))
+    new.find('c:order', CNS).set('val', str(idx))
+    # ustun manzillari: barcha formulalardagi eng o'ng ustundan keyin
+    fs = [f.text for f in x.iter('{%s}f' % CNS['c'])]
+    maxc = max(_col2n(m) for f in fs for m in _re.findall(r'\$([A-Z]+)\$', f))
+    cx, cy = _n2col(maxc + 1), _n2col(maxc + 2)
+    for f in new.iter('{%s}f' % CNS['c']):
+        cols = _re.findall(r'\$([A-Z]+)\$', f.text)
+        tgt = cy if cols and cols[0] == _re.findall(r'\$([A-Z]+)\$', new.find('c:tx//c:f', CNS).text)[0] else cx
+        f.text = _re.sub(r'\$[A-Z]+\$', f'${tgt}$', f.text)
+    for v in new.findall('c:tx//c:v', CNS):
+        v.text = title
+    pts = new.findall('c:yVal//c:pt', CNS) or new.findall('c:val//c:pt', CNS)
+    for pt in pts:
+        i = int(pt.get('idx'))
+        pt.find('c:v', CNS).text = str(values[i])
+    for c in new.iter('{%s}srgbClr' % CNS['a']):
+        c.set('val', color)
+    ln = new.find('c:spPr/a:ln', CNS)
+    if ln is not None:
+        for e in ln.findall('a:prstDash', CNS):
+            ln.remove(e)
+        if dash:
+            pd = etree.SubElement(ln, '{%s}prstDash' % CNS['a']); pd.set('val', dash)
+            # a:prstDash fill dan keyin bo'lishi kerak
+            fill = ln.find('a:solidFill', CNS)
+            if fill is not None:
+                fill.addnext(pd)
+    dl = new.find('c:dLbls', CNS)
+    if dl is not None and label_idx is not None:
+        for e in dl.findall('c:dLbl', CNS):
+            dl.remove(e)
+        first = dl[0] if len(dl) else None
+        for i in range(len(values)):
+            if i in label_idx:
+                continue
+            e = etree.Element('{%s}dLbl' % CNS['c'])
+            etree.SubElement(e, '{%s}idx' % CNS['c']).set('val', str(i))
+            etree.SubElement(e, '{%s}delete' % CNS['c']).set('val', '1')
+            if first is not None:
+                first.addprevious(e)
+            else:
+                dl.append(e)
+    for e in new.iter('{http://schemas.microsoft.com/office/drawing/2014/chart}uniqueId'):
+        e.set('val', '{%08X-AL0Q-4ABA-8000-000000000000}'.replace('AL0Q', 'A10A') % idx)
+    sers[-1].addnext(new) if src is sers[-1] else src.addnext(new)
+    part._blob = etree.tostring(x, xml_declaration=True, encoding='UTF-8', standalone=True)
+    LOG.append((tag, 'chart_series', name, title))
+
+
+def chart_sync_xlsx(self, name):
+    """Ichki Excel jadvalini diagramma keshidagi qiymatlar bilan to'ldiradi."""
+    import io, re as _re, openpyxl
+    x, part = self.chart_xml(name)
+    emb = [r.target_part for r in part.rels.values() if r.reltype.endswith('/package')]
+    if not emb:
+        return
+    wb = openpyxl.load_workbook(io.BytesIO(emb[0].blob)); ws = wb.worksheets[0]
+    for ref in x.iter('{%s}strRef' % CNS['c']):
+        f = ref.find('c:f', CNS).text; m = _re.search(r'\$([A-Z]+)\$(\d+)', f)
+        vals = [p.find('c:v', CNS).text for p in ref.findall('.//c:pt', CNS)]
+        if m and vals:
+            ws[f'{m.group(1)}{m.group(2)}'] = vals[0] if ':' not in f else None
+            if ':' in f:
+                c0, r0 = m.group(1), int(m.group(2))
+                for p in ref.findall('.//c:pt', CNS):
+                    ws[f'{c0}{r0 + int(p.get("idx"))}'] = p.find('c:v', CNS).text
+    for ref in x.iter('{%s}numRef' % CNS['c']):
+        f = ref.find('c:f', CNS).text; m = _re.search(r'\$([A-Z]+)\$(\d+)', f)
+        if not m:
+            continue
+        c0, r0 = m.group(1), int(m.group(2))
+        for p in ref.findall('.//c:pt', CNS):
+            ws[f'{c0}{r0 + int(p.get("idx"))}'] = float(p.find('c:v', CNS).text)
+    bio = io.BytesIO(); wb.save(bio); emb[0]._blob = bio.getvalue()
+
+
+def chart_axis_max(self, name, ax_pos, mx):
+    x, part = self.chart_xml(name)
+    for ax in x.findall('.//c:valAx', CNS):
+        if ax.find('c:axPos', CNS).get('val') == ax_pos:
+            ax.find('c:scaling/c:max', CNS).set('val', str(mx))
+    part._blob = etree.tostring(x, xml_declaration=True, encoding='UTF-8', standalone=True)
+
+
+Doc.chart_add_series = chart_add_series
+Doc.chart_sync_xlsx = chart_sync_xlsx
+Doc.chart_axis_max = chart_axis_max

@@ -1387,6 +1387,30 @@
 ],
 [
 "AL",
+"chart_series",
+"/word/charts/chart21.xml",
+"«Aloqabank»"
+],
+[
+"AL",
+"chart_series",
+"/word/charts/chart29.xml",
+"«Aloqabank» (tashqi tekshiruv)"
+],
+[
+"AL",
+"replace",
+" va «Mikrokreditbank» ATB da",
+", «Mikrokreditbank» ATB va «Aloqabank» ATB da"
+],
+[
+"AL",
+"insert",
+"i qiymati esa 2024-yilga to‘g‘ri kelgan.",
+" Taqqoslash uchun rasmda ushbu paragraf oxirida batafsil tahlil qilinadigan uchi"
+],
+[
+"AL",
 "cell",
 "6,0",
 "«Aloqabank» ATB"
