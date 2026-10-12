@@ -16,7 +16,7 @@ ITEMS=[('D',P+'Kirish.docx'),
 ('B','III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI'),
 ('D',P+'3.1-paragraf.docx'),('D',P+'3.2-paragraf.docx'),('D',P+'3.3-paragraf.docx'),('D',P+'III_bob_xulosalar.docx'),
 ('B','IV BOB. TIJORAT BANKLARI MOLIYAVIY BARQARORLIGINI BAHOLASH METODOLOGIYASINI TAKOMILLASHTIRISH YO‘NALISHLARI'),
-('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx'),('D',P+'IV_bob_xulosalar.docx'),('D',P+'Xulosa.docx'),('D',P+'Adabiyotlar.docx')]
+('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx'),('D',P+'IV_bob_xulosalar.docx'),('D',P+'Xulosa.docx'),('D',P+'Adabiyotlar.docx'),('D',P+'Ilovalar.docx')]
 def heads(d):
   return [p for p in d.paragraphs if p.style.name.startswith('Heading')]
 def build(toc):
@@ -48,7 +48,22 @@ def build(toc):
     hs=heads(d)
     comp.append(d); prevB=False
   for p in comp.doc.paragraphs:
-    if p.text.strip() in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI') and p.style.name.startswith('Heading'): p.style=comp.doc.styles['Heading 1']
+    if p.text.strip() in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI','ILOVALAR') and p.style.name.startswith('Heading'): p.style=comp.doc.styles['Heading 1']
+  # ilovalar – albom formatdagi alohida bo'lim
+  import copy
+  body=comp.doc.element.body; sp=body.sectPr
+  ps=[p for p in comp.doc.paragraphs if p.text.strip()=='ILOVALAR']
+  if ps:
+    prev=ps[0]._p.getprevious()
+    while prev is not None and prev.tag!=qn('w:p'): prev=prev.getprevious()
+    port=copy.deepcopy(sp)
+    pPr=prev.get_or_add_pPr(); pPr.append(port)
+    pg=sp.find(qn('w:pgSz')); w,h=pg.get(qn('w:w')),pg.get(qn('w:h'))
+    pg.set(qn('w:w'),h); pg.set(qn('w:h'),w); pg.set(qn('w:orient'),'landscape')
+    mar=sp.find(qn('w:pgMar')); mar.set(qn('w:left'),str(int(2*567))); mar.set(qn('w:right'),str(int(2*567))); mar.set(qn('w:top'),str(int(2.5*567))); mar.set(qn('w:bottom'),str(int(1.5*567)))
+    tp=sp.find(qn('w:titlePg'))
+    if tp is not None: sp.remove(tp)
+    ps[0].paragraph_format.page_break_before=False
   comp.save(TMP)
 def pages():
   subprocess.run(['soffice','--headless','--convert-to','pdf',TMP,'--outdir','/tmp/claude-0/'],check=True,capture_output=True)
@@ -61,7 +76,7 @@ entries=[]
 for kind,x in ITEMS:
   if kind=='B': entries.append((1,x)); continue
   hs=heads(docx.Document(x)); t=hs[0].text.strip()
-  entries.append((1 if t in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI') else 2,t))
+  entries.append((1 if t in ('KIRISH','XULOSA','FOYDALANILGAN ADABIYOTLAR RO‘YXATI','ILOVALAR') else 2,t))
 toc=[(l,t,'00') for l,t in entries]
 for it in range(2):
   build(toc); txt,n=pages()

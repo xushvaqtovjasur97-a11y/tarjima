@@ -3,7 +3,7 @@ from docx.shared import Pt, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml.ns import qn
 d=docx.Document()
-s=d.sections[0]; s.left_margin=Cm(3); s.right_margin=Cm(1.5); s.top_margin=Cm(2); s.bottom_margin=Cm(2)
+s=d.sections[0]; s.page_width=Cm(21.0); s.page_height=Cm(29.7); s.left_margin=Cm(3); s.right_margin=Cm(1.5); s.top_margin=Cm(2); s.bottom_margin=Cm(2)
 st=d.styles['Normal']; st.font.name='Times New Roman'; st.font.size=Pt(14)
 st.element.rPr.rFonts.set(qn('w:eastAsia'),'Times New Roman')
 def P(t='',al='c',b=False,sz=14,sa=0,it=False,sb=0):

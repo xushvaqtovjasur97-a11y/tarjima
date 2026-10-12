@@ -110,7 +110,7 @@ integral indeksga asoslangan uch zonali erta ogohlantirish tizimi va uni stress-
 
 **Tadqiqot natijalarining e’lon qilinganligi.** Dissertatsiya mavzusi bo‘yicha jami [__] ta ilmiy ish, jumladan, [__] ta monografiya, Oliy attestatsiya komissiyasining doktorlik dissertatsiyalari asosiy ilmiy natijalarini chop etish tavsiya etilgan ilmiy nashrlarda [__] ta, shu jumladan, [__] ta xorijiy jurnallarda maqola chop etilgan.
 
-**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya tarkibi kirish, to‘rtta bob, xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat. Dissertatsiyaning hajmi [__] betni tashkil etgan.
+**Dissertatsiyaning tuzilishi va hajmi.** Dissertatsiya tarkibi kirish, to‘rtta bob, xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat. Dissertatsiyaning asosiy matni 229 betni tashkil etadi, unda 60 dan ortiq jadval va rasm keltirilgan, foydalanilgan adabiyotlar ro‘yxati 174 ta manbani o‘z ichiga oladi, ilovalar esa 12 betni tashkil etadi.
 
 [^1]: Basel Committee on Banking Supervision. Report on the 2023 banking turmoil. – Basel: BIS, October 2023.
 [^2]: European Banking Authority. 2025 EU-wide stress test: Results. – Paris: EBA, 1 August 2025.
