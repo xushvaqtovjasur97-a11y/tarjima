@@ -10,6 +10,8 @@ for r in csv.DictReader(open(R+'markaziy_bank/banklar/banklar_2021IV_2026II.csv'
   except: pass
 IND=M.IND
 W=M.W['taklif']
+CAP23={'SQB':dict(CET1=[11.89,11.62,10.72,10.04,8.87],CAR=[15.14,14.96,15.73,14.77,15.32]),
+       'MKB':dict(CET1=[13.59,20.17,16.20,15.02,18.24],CAR=[13.86,20.80,17.01,17.44,19.96])}
 def ind(code):
   d=json.load(open(R+f'mhxs_banklar/{code}.json'))['yillar']; out={}
   for y in range(2021,2026):
@@ -30,6 +32,8 @@ def ind(code):
     inc=sum(g(k) or 0 for k in ('NII','FEE_NET','FX_NET','OTHER_INC'))
     x['CI']=g('OPEX')/inc*100 if inc>0 and g('OPEX') else None
     x['FXL']=g('FX_LOANS_SHARE'); x['FXLI']=g('FX_LIAB_SHARE')
+    if code in CAP23:  # 2.3-§: Markaziy bank metodikasi bo'yicha MHXS asosida to'liq qayta hisoblangan CET1 va regulyativ kapital monandligi
+      i=y-2021; x['CET1']=CAP23[code]['CET1'][i]; x['CAR']=CAP23[code]['CAR'][i]
     out[y]=x
   return out
 def mbii(x): return M.mbii(x,W)

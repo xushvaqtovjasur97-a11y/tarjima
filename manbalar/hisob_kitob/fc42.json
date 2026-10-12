@@ -521,79 +521,79 @@
    "koef": 2.96,
    "2025": {
     "milliy": 3.61,
-    "MHXS": 2.83,
+    "MHXS": 2.81,
     "S3_milliy": 2.53,
     "S3_MHXS": 7.48
    },
    "Asosiy|2026": {
     "milliy": 3.61,
-    "MHXS": 2.82,
+    "MHXS": 2.81,
     "S3_milliy": 2.56,
     "S3_MHXS": 7.58
    },
    "Asosiy|2027": {
     "milliy": 3.61,
-    "MHXS": 2.8,
+    "MHXS": 2.79,
     "S3_milliy": 2.72,
     "S3_MHXS": 8.06
    },
    "Asosiy|2028": {
     "milliy": 3.61,
-    "MHXS": 2.8,
+    "MHXS": 2.79,
     "S3_milliy": 2.73,
     "S3_MHXS": 8.08
    },
    "Ijobiy|2026": {
     "milliy": 3.61,
-    "MHXS": 2.82,
+    "MHXS": 2.81,
     "S3_milliy": 2.56,
     "S3_MHXS": 7.58
    },
    "Ijobiy|2027": {
     "milliy": 3.62,
-    "MHXS": 2.83,
+    "MHXS": 2.82,
     "S3_milliy": 2.46,
     "S3_MHXS": 7.28
    },
    "Ijobiy|2028": {
     "milliy": 3.62,
-    "MHXS": 2.83,
+    "MHXS": 2.82,
     "S3_milliy": 2.45,
     "S3_MHXS": 7.25
    },
    "Salbiy|2026": {
     "milliy": 3.61,
-    "MHXS": 2.82,
+    "MHXS": 2.81,
     "S3_milliy": 2.56,
     "S3_MHXS": 7.58
    },
    "Salbiy|2027": {
     "milliy": 3.57,
-    "MHXS": 2.71,
+    "MHXS": 2.7,
     "S3_milliy": 3.29,
     "S3_MHXS": 9.73
    },
    "Salbiy|2028": {
     "milliy": 3.59,
-    "MHXS": 2.74,
+    "MHXS": 2.73,
     "S3_milliy": 3.1,
     "S3_MHXS": 9.16
    },
    "Keskin salbiy|2026": {
     "milliy": 3.61,
-    "MHXS": 2.82,
+    "MHXS": 2.81,
     "S3_milliy": 2.56,
     "S3_MHXS": 7.58
    },
    "Keskin salbiy|2027": {
     "milliy": 3.49,
-    "MHXS": 2.61,
+    "MHXS": 2.59,
     "S3_milliy": 3.99,
     "S3_MHXS": 11.78
    },
    "Keskin salbiy|2028": {
     "milliy": 3.59,
-    "MHXS": 2.74,
+    "MHXS": 2.72,
     "S3_milliy": 3.14,
     "S3_MHXS": 9.28
    }

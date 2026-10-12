@@ -1,0 +1,1526 @@
+[
+[
+"1",
+"insert",
+"to‘rt variantda hisoblandi.",
+" Hisob-kitob jarayonida nizom matni va bankning hisobot shakli o‘rtasida farq an"
+],
+[
+"2",
+"replace",
+"MHXS tuzatishlari esa 2,8 foiz punktga pasaytiradi",
+"MHXS tuzatishlari esa 2,7–2,8 foiz punktga pasaytiradi (farq dekompozitsiya tart"
+],
+[
+"3",
+"cell",
+"1,2",
+"8,87 (3,35)"
+],
+[
+"3",
+"cell",
+"2,2",
+"15,32 (3,93)"
+],
+[
+"4",
+"cell",
+"1,4",
+"18,24 (4,00)"
+],
+[
+"4",
+"cell",
+"2,4",
+"19,96 (4,00)"
+],
+[
+"3",
+"cell",
+"14,2",
+"2,81"
+],
+[
+"3",
+"replace",
+"MHXS variantida CET1 monandligi (MHXS bo‘yicha xususiy kapit",
+"MHXS variantida CET1 va regulyativ kapital monandligi 2.3-paragrafda Markaziy ba"
+],
+[
+"30",
+"insert",
+"ki bitta ko‘rsatkich bo‘yicha baholandi.",
+" Yuqori likvid aktivlar MHXS hisobotlarida alohida oshkor qilinmagani sababli L1"
+],
+[
+"3",
+"replace",
+"indeksi 2,83 ni",
+"indeksi 2,81 ni"
+],
+[
+"3",
+"replace",
+"uchun −0,44 ni",
+"uchun −0,46 ni"
+],
+[
+"3",
+"replace",
+"ΔMBII ning 86–87 foizi",
+"ΔMBII ning 83–86 foizi"
+],
+[
+"3",
+"replace",
+"ΔMBII ning 85 foizdan ortig‘i",
+"ΔMBII ning 83–86 foizi"
+],
+[
+"3",
+"chart",
+"/word/charts/chart25.xml",
+"[3.76, 2.28, 2.33, 3.83, 1.45]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart26.xml",
+"[3.27, 2.81, 3.13, 2.47]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart26.xml",
+"[3.06, 2.73, 3.07, 2.58]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart26.xml",
+"[3.57, 3.02, 3.02, 2.13]"
+],
+[
+"3",
+"cell",
+"1,1",
+"11,9 (4,00)"
+],
+[
+"3",
+"cell",
+"2,1",
+"15,1 (3,86)"
+],
+[
+"3",
+"cell",
+"14,1",
+"3,95"
+],
+[
+"3",
+"cell",
+"19,1",
+"2,92 (qoniqarli)"
+],
+[
+"3",
+"cell",
+"1,2",
+"11,6 (4,00)"
+],
+[
+"3",
+"cell",
+"2,2",
+"15,0 (3,78)"
+],
+[
+"3",
+"cell",
+"14,2",
+"3,93"
+],
+[
+"3",
+"cell",
+"19,2",
+"2,81 (qoniqarli)"
+],
+[
+"3",
+"cell",
+"1,3",
+"10,7 (4,00)"
+],
+[
+"3",
+"cell",
+"2,3",
+"15,7 (4,00)"
+],
+[
+"3",
+"cell",
+"14,3",
+"4,00"
+],
+[
+"3",
+"cell",
+"19,3",
+"2,91 (qoniqarli)"
+],
+[
+"3",
+"cell",
+"1,4",
+"10,0 (3,82)"
+],
+[
+"3",
+"cell",
+"2,4",
+"14,8 (3,71)"
+],
+[
+"3",
+"cell",
+"14,4",
+"3,84"
+],
+[
+"3",
+"cell",
+"19,4",
+"2,72 (qoniqarli)"
+],
+[
+"3",
+"cell",
+"1,5",
+"8,9 (3,35)"
+],
+[
+"3",
+"cell",
+"2,5",
+"15,3 (3,93)"
+],
+[
+"3",
+"cell",
+"14,5",
+"3,76"
+],
+[
+"3",
+"cell",
+"19,5",
+"2,81 (qoniqarli)"
+],
+[
+"3",
+"cell",
+"1,1",
+"13,6 (4,00)"
+],
+[
+"3",
+"cell",
+"2,1",
+"13,9 (3,34)"
+],
+[
+"3",
+"cell",
+"14,1",
+"3,78"
+],
+[
+"3",
+"cell",
+"19,1",
+"2,18 (zaif)"
+],
+[
+"3",
+"cell",
+"1,2",
+"20,2 (4,00)"
+],
+[
+"3",
+"cell",
+"2,2",
+"20,8 (4,00)"
+],
+[
+"3",
+"cell",
+"14,2",
+"4,00"
+],
+[
+"3",
+"cell",
+"19,2",
+"2,31 (zaif)"
+],
+[
+"3",
+"cell",
+"1,3",
+"16,2 (4,00)"
+],
+[
+"3",
+"cell",
+"2,3",
+"17,0 (4,00)"
+],
+[
+"3",
+"cell",
+"14,3",
+"4,00"
+],
+[
+"3",
+"cell",
+"19,3",
+"2,22 (zaif)"
+],
+[
+"3",
+"cell",
+"1,4",
+"15,0 (4,00)"
+],
+[
+"3",
+"cell",
+"2,4",
+"17,4 (4,00)"
+],
+[
+"3",
+"cell",
+"14,4",
+"4,00"
+],
+[
+"3",
+"cell",
+"19,4",
+"2,25 (zaif)"
+],
+[
+"3",
+"cell",
+"1,5",
+"18,2 (4,00)"
+],
+[
+"3",
+"cell",
+"2,5",
+"20,0 (4,00)"
+],
+[
+"3",
+"cell",
+"14,5",
+"4,00"
+],
+[
+"3",
+"cell",
+"19,5",
+"2,47 (zaif)"
+],
+[
+"3",
+"insert",
+"",
+" «O‘zsanoatqurilishbank» ATB va «Mikrokreditbank» ATB uchun CET1 va regulyativ k"
+],
+[
+"3",
+"replace",
+"2,75–2,93 ball oralig‘ida",
+"2,72–2,92 ball oralig‘ida"
+],
+[
+"3",
+"replace",
+"2,20–2,47 ball oralig‘ida",
+"2,18–2,47 ball oralig‘ida"
+],
+[
+"3",
+"chart",
+"/word/charts/chart29.xml",
+"[2.92, 2.81, 2.91, 2.72, 2.81]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart29.xml",
+"[2.18, 2.31, 2.22, 2.25, 2.47]"
+],
+[
+"3",
+"replace",
+"butun davr mobaynida 2,20–2,47 ball",
+"butun davr mobaynida 2,18–2,47 ball"
+],
+[
+"3",
+"replace",
+"butun davr mobaynida 2,75–2,93 ball bilan sariq zonada bo‘lg",
+"2021–2023 va 2025-yillarda 2,81–2,92 ball bilan sariq zonada bo‘lgan, 2024-yilda"
+],
+[
+"3",
+"chart",
+"/word/charts/chart35.xml",
+"[2.18, 2.31, 2.22, 2.25, 2.47]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart36.xml",
+"[2.92, 2.81, 2.91, 2.72, 2.81]"
+],
+[
+"3",
+"cell",
+"2,1",
+"2,81 (sariq; 7,5 %)"
+],
+[
+"3",
+"cell",
+"2,2",
+"2,79 (sariq; 8,1 %)"
+],
+[
+"3",
+"cell",
+"2,3",
+"2,82 (sariq; 7,3 %)"
+],
+[
+"3",
+"cell",
+"2,4",
+"2,70 (qizil; 9,7 %)"
+],
+[
+"3",
+"cell",
+"2,5",
+"2,59 (qizil; 11,8 %)"
+],
+[
+"3",
+"chart",
+"/word/charts/chart39.xml",
+"[2.81, 2.79, 2.82, 2.7, 2.59]"
+],
+[
+"3",
+"replace",
+"salbiy ssenariyda 2,71 ballgacha",
+"salbiy ssenariyda 2,70 ballgacha"
+],
+[
+"3",
+"replace",
+"keskin salbiy ssenariyda esa 2,61 ballgacha",
+"keskin salbiy ssenariyda esa 2,59 ballgacha"
+],
+[
+"3",
+"cell",
+"1,5",
+"2,81"
+],
+[
+"3",
+"replace",
+"MHXS bo‘yicha 2,83 ballni",
+"MHXS bo‘yicha 2,81 ballni"
+],
+[
+"3",
+"replace",
+"ΔMBII −0,44 va −0,66",
+"ΔMBII −0,46 va −0,66"
+],
+[
+"3",
+"replace",
+"uning 86–87 foizi",
+"uning 83–86 foizi"
+],
+[
+"3",
+"replace",
+"2,75–2,93 ball oralig‘ida",
+"2,72–2,92 ball oralig‘ida"
+],
+[
+"3",
+"replace",
+"(2,20–2,47 ball)",
+"(2,18–2,47 ball)"
+],
+[
+"3",
+"replace",
+"ATB da −0,44",
+"ATB da −0,46"
+],
+[
+"3",
+"replace",
+"uning 86–87 foizi",
+"uning 83–86 foizi"
+],
+[
+"5",
+"insert",
+"agi «MBII-milliy» variantiga mos keladi.",
+" Ikki indeksni farqlash uchun keyingi o‘rinlarda 13 ko‘rsatkichli to‘liq indeks "
+],
+[
+"5",
+"replace",
+"milliy hisobot",
+"milliy hisobot (MBII-8)"
+],
+[
+"5",
+"replace",
+"MHXS hisoboti",
+"MHXS hisoboti (MBII-13)"
+],
+[
+"5",
+"replace",
+"milliy hisobot",
+"milliy hisobot (MBII-8)"
+],
+[
+"5",
+"replace",
+"MHXS hisoboti",
+"MHXS hisoboti (MBII-13)"
+],
+[
+"5",
+"replace",
+"MBII: milliy hisobot",
+"MBII-8: milliy hisobot"
+],
+[
+"5",
+"replace",
+"MBII: MHXS hisoboti",
+"MBII-13: MHXS hisoboti"
+],
+[
+"3",
+"replace",
+"farq 0,78–0,88 ballni",
+"farq 0,79–0,90 ballni"
+],
+[
+"5",
+"insert",
+"rcha ssenariylarda milliy indeksdan past",
+" (bu farqning bir qismi indekslar tarkibidagi farq bilan bog‘liq: milliy hisobot"
+],
+[
+"14",
+"replace",
+"vaqt bo‘yicha o‘zgarmaydigan davlat banki o‘zgaruvchisi bank",
+"vaqt bo‘yicha deyarli o‘zgarmaydigan davlat banki o‘zgaruvchisi (u faqat «Ipotek"
+],
+[
+"15",
+"cell",
+"1,1",
+"≥ 8% (2025-yilgacha); ≥ 4,5% + buferlar (2026-yildan)"
+],
+[
+"15",
+"cell",
+"1,3",
+"2026-yildan buferlar bilan 8,5%, tizimli ahamiyatga molik banklar uchun 9,5%"
+],
+[
+"15",
+"cell",
+"2,1",
+"≥ 13% (2025-yilgacha); ≥ 8% + buferlar (2026-yildan)"
+],
+[
+"15",
+"cell",
+"2,3",
+"2025-yilgacha 3% lik saqlash buferini o‘z ichiga olgan; 2026-yildan buferlar bilan 12%, tizimli ahamiyatga molik banklar uchun 13%"
+],
+[
+"15",
+"cell",
+"3,1",
+"≥ 6% (2025-yilgacha); ≥ 3% (2026-yildan)"
+],
+[
+"15",
+"cell",
+"3,3",
+"2026-yildan Bazel III minimumiga tenglashtirildi"
+],
+[
+"15",
+"cell",
+"4,1",
+"2,5% (CET1 hisobidan)"
+],
+[
+"15",
+"cell",
+"4,3",
+"2026-yil 1-yanvardan (2025-yilgacha – 3%, I darajali kapital tarkibida)"
+],
+[
+"15",
+"cell",
+"9,0",
+"Yuqori likvid aktivlar / jami aktivlar"
+],
+[
+"15",
+"cell",
+"9,1",
+"≥ 10%"
+],
+[
+"15",
+"cell",
+"9,2",
+"–"
+],
+[
+"15",
+"cell",
+"9,3",
+"Milliy prudensial me’yor"
+],
+[
+"15",
+"insert",
+"milliy normativlar ham saqlanib qolgan.",
+" Jadvaldagi 2025-yilgacha amal qilgan talablar bankning prudensial hisobot shakl"
+],
+[
+"15",
+"replace",
+"(CET1 bo‘yicha 8 foiz, jami kapital bo‘yicha 13 foiz)",
+"(2025-yilda CET1 bo‘yicha 8 foiz va jami kapital bo‘yicha 13 foiz, 2026-yildan e"
+],
+[
+"15",
+"insert",
+"ya’ni 2,5 barobar kichik.",
+" 2026-yildan tizimli ahamiyatga molik banklar uchun buferlar bilan birga belgila"
+],
+[
+"16",
+"cell",
+"8,3",
+"3,248 (sariq)"
+],
+[
+"16",
+"cell",
+"7,3",
+"3,251 (yashil)"
+],
+[
+"16",
+"cell",
+"19,4",
+"3,252 (yashil)"
+],
+[
+"16",
+"cell",
+"24,5",
+"3,254 (yashil)"
+],
+[
+"16",
+"insert",
+"",
+" Zonalar yaxlitlanmagan qiymatlar bo‘yicha aniqlangan; 3,25 ballik chegaraga yaq"
+],
+[
+"17",
+"replace",
+"«–» – byulletenda ma’lumot berilmagan.",
+"substandart va muammoli kreditlarning umumiy ulushi 2024–2025-yillar uchun manba"
+],
+[
+"19,28",
+"insert",
+"kuzatuvlar asosida baholandi.",
+" Makroiqtisodiy omillar barcha banklar uchun bir xil bo‘lgani sababli ularning k"
+],
+[
+"23",
+"new_para",
+"",
+"Natijalarning barqarorligi qo‘shimcha ravishda uch yo‘nalishda tekshirildi. Biri"
+],
+[
+"23",
+"insert",
+"bootstrap tanlanma asosida hisoblangan",
+" (kuzatuvlar bo‘yicha); bank bo‘yicha klasterlangan bootstrap natijalari matnda "
+],
+[
+"23",
+"replace",
+"25 ta bank paneli ma’lumotlari (10 ta muammo hodisasi) asosi",
+"25 ta bank paneli ma’lumotlari (10 ta muammo hodisasi) asosida empirik jihatdan "
+],
+[
+"24",
+"insert",
+"ohlantirish signallari bilan bog‘lanadi.",
+" Boshqaruv sifatini ochiq ma’lumotlar asosida miqdoriy baholab bo‘lmagani sababl"
+],
+[
+"24",
+"insert",
+"bozor risklariga sezgirlik",
+" (O‘zbekiston sharoitida uning asosiy shakli – valyuta riskiga sezgirlik)"
+],
+[
+"25",
+"cell",
+"1,6",
+"0,08"
+],
+[
+"25",
+"cell",
+"2,6",
+"0,30"
+],
+[
+"25",
+"cell",
+"3,6",
+"0,08"
+],
+[
+"25",
+"cell",
+"4,6",
+"0,38"
+],
+[
+"25",
+"cell",
+"5,6",
+"0,16"
+],
+[
+"3,25",
+"replace",
+"ular bloklar dispersiyasining 66,0 foizini izohlaydi",
+"ular bloklar dispersiyasining 66,7 foizini izohlaydi"
+],
+[
+"25",
+"insert",
+"",
+" Empirik usullar o‘rtachasi faqat barcha bloklarni empirik baholagan uch usul – "
+],
+[
+"25",
+"replace",
+"Demak, aktivlar sifati blokiga eng yuqori vazn berish to‘g‘r",
+"Demak, aktivlar sifati blokining ekspert vazni (0,30) empirik baholar oralig‘ida"
+],
+[
+"25",
+"replace",
+"barcha empirik usullar aktivlar sifati blokiga yuqori vazn b",
+"barcha empirik usullar aktivlar sifati blokiga ekspert vazniga yaqin yoki undan "
+],
+[
+"25",
+"chart",
+"/word/charts/chart27.xml",
+"[0.077, 0.305, 0.081, 0.378, 0.159]"
+],
+[
+"25",
+"cell",
+"0,3",
+"Variatsiya koeffitsiyenti usuli"
+],
+[
+"25",
+"cell",
+"1,3",
+"2,82"
+],
+[
+"25",
+"cell",
+"2,3",
+"2,10"
+],
+[
+"25",
+"cell",
+"3,3",
+"3,26"
+],
+[
+"25",
+"cell",
+"4,3",
+"3,73"
+],
+[
+"25",
+"cell",
+"5,3",
+"3,35"
+],
+[
+"25",
+"cell",
+"6,3",
+"17"
+],
+[
+"25",
+"cell",
+"7,3",
+"0,97"
+],
+[
+"25",
+"cell",
+"8,3",
+"0,878"
+],
+[
+"3,25",
+"cell",
+"1,1",
+"2,81"
+],
+[
+"3,25",
+"cell",
+"1,4",
+"2,85"
+],
+[
+"3,25",
+"cell",
+"2,4",
+"2,22"
+],
+[
+"3,25",
+"cell",
+"3,4",
+"3,19"
+],
+[
+"3,25",
+"cell",
+"4,4",
+"3,50"
+],
+[
+"3,25",
+"cell",
+"5,4",
+"3,24"
+],
+[
+"25",
+"cell",
+"6,4",
+"20"
+],
+[
+"25",
+"cell",
+"7,4",
+"0,98"
+],
+[
+"25",
+"cell",
+"8,4",
+"0,865"
+],
+[
+"3,25",
+"cell",
+"1,5",
+"2,69"
+],
+[
+"3,25",
+"cell",
+"1,6",
+"2,85"
+],
+[
+"3,25",
+"cell",
+"2,6",
+"2,08"
+],
+[
+"3,25",
+"cell",
+"3,6",
+"3,23"
+],
+[
+"3,25",
+"cell",
+"4,6",
+"3,67"
+],
+[
+"3,25",
+"cell",
+"5,6",
+"3,33"
+],
+[
+"25",
+"cell",
+"6,6",
+"18"
+],
+[
+"25",
+"cell",
+"7,6",
+"0,97"
+],
+[
+"25",
+"cell",
+"8,6",
+"0,871"
+],
+[
+"25",
+"cell",
+"7,2",
+"0,96"
+],
+[
+"25",
+"replace",
+"korrelyatsiya koeffitsiyenti 0,95–0,99 ni",
+"korrelyatsiya koeffitsiyenti 0,95–0,98 ni"
+],
+[
+"25",
+"insert",
+"a bosh komponentlar usuli bilan bir xil.",
+" Faqat empirik usullar asosidagi o‘rtacha vaznlar bilan indeksning AUC qiymati 0"
+],
+[
+"3",
+"replace",
+"91,9 foizga",
+"91,7 foizga"
+],
+[
+"3",
+"replace",
+"esa 0,85 ni",
+"esa 0,84 ni"
+],
+[
+"3",
+"replace",
+"o‘rtacha 55,7 foiz",
+"o‘rtacha 55,8 foiz"
+],
+[
+"3",
+"chart",
+"/word/charts/chart28.xml",
+"[91.7, 76.9, 71.5, 78.1, 76.1, 78.9]"
+],
+[
+"3",
+"chart",
+"/word/charts/chart28.xml",
+"[57.0, 52.7, 58.6, 57.7, 53.1, 55.8]"
+],
+[
+"25",
+"replace",
+"Birinchidan, barcha empirik usullar aktivlar sifati blokiga ",
+"Birinchidan, aktivlar sifati blokining ekspert vazni barcha empirik baholar oral"
+],
+[
+"25",
+"replace",
+"tartib korrelyatsiyasi 0,95–0,99 ni",
+"tartib korrelyatsiyasi 0,95–0,98 ni"
+],
+[
+"27",
+"replace",
+"Uchinchidan, barqarorlik sinflari chegaralari muammo ehtimol",
+"Uchinchidan, barqarorlik sinflari chegaralari tahlil davri ma’lumotlarida muammo"
+],
+[
+"27",
+"insert",
+"da 2,0; 13,3 va 90,0 foizni tashkil etdi",
+" (95 foizlik ishonch oraliqlari: 0,8–5,0; 7,9–21,4 va 59,6–98,2 foiz)"
+],
+[
+"25",
+"replace",
+"barcha usullarda aktivlar sifati blokining yetakchi ahamiyat",
+"aktivlar sifati blokining ekspert vazni (0,30) empirik baholar oralig‘ida (0,27–"
+],
+[
+"25",
+"replace",
+"korrelyatsiya 0,95–0,99 ni",
+"korrelyatsiya 0,95–0,98 ni"
+],
+[
+"27",
+"replace",
+"Barqarorlik sinflari chegaralari ham empirik jihatdan tasdiq",
+"Barqarorlik sinflari chegaralari tahlil davri ma’lumotlariga mos keldi"
+],
+[
+"27",
+"insert",
+"da 2,0; 13,3 va 90,0 foizni tashkil etdi",
+" (95 foizlik ishonch oraliqlari: 0,8–5,0; 7,9–21,4 va 59,6–98,2 foiz)"
+],
+[
+"25",
+"replace",
+"Indeks vaznlari va sinflar chegaralari empirik jihatdan asos",
+"Indeks vaznlari va sinflar chegaralari empirik jihatdan tekshirildi: aktivlar si"
+],
+[
+"25",
+"replace",
+"(tartib korrelyatsiyasi 0,95–0,99)",
+"(tartib korrelyatsiyasi 0,95–0,98)"
+],
+[
+"27",
+"insert",
+"da 2,0; 13,3 va 90,0 foizni tashkil etdi",
+" (95 foizlik ishonch oraliqlari: 0,8–5,0; 7,9–21,4 va 59,6–98,2 foiz)"
+],
+[
+"26",
+"insert",
+"n qiymatlar oralig‘i asosida belgilandi.",
+" Bu chegaralar tashqi ma’lumot bilan ham tekshirildi: Yevropa bank boshqarmasi m"
+],
+[
+"26",
+"replace",
+"uning 2 ball chegarasi sifatida Markaziy bank tomonidan belg",
+"uning 2 ball chegarasi sifatida Markaziy bank tomonidan aynan shu ko‘rsatkich – "
+],
+[
+"26",
+"cell",
+"1,1",
+"3,25 ≤ MBII ≤ 4,00"
+],
+[
+"26",
+"cell",
+"2,1",
+"2,50 ≤ MBII < 3,25"
+],
+[
+"26",
+"cell",
+"3,1",
+"1,75 ≤ MBII < 2,50"
+],
+[
+"26",
+"cell",
+"4,1",
+"1,00 ≤ MBII < 1,75"
+],
+[
+"26",
+"insert",
+"rat choralari belgilandi (3.1.4-jadval).",
+" Teng oraliqlar sinflar chegaralarini natijalarga moslashtirmasdan, oldindan bel"
+],
+[
+"26",
+"cell",
+"1,1",
+"3,25 ≤ MBII"
+],
+[
+"26",
+"cell",
+"2,1",
+"2,50 ≤ MBII < 3,25"
+],
+[
+"26",
+"cell",
+"3,1",
+"1,75 ≤ MBII < 2,50"
+],
+[
+"26",
+"cell",
+"4,1",
+"MBII < 1,75"
+],
+[
+"27",
+"cell",
+"0,5",
+"95 % ishonch oralig‘i (Wilson), %"
+],
+[
+"27",
+"cell",
+"1,5",
+"0,8–5,0"
+],
+[
+"27",
+"cell",
+"2,5",
+"7,9–21,4"
+],
+[
+"27",
+"cell",
+"3,5",
+"59,6–98,2"
+],
+[
+"27",
+"cell",
+"4,5",
+"–"
+],
+[
+"27",
+"insert",
+"II sinfda esa 90,0 foizni tashkil etgan.",
+" Bu ulushlarning 95 foizlik Wilson ishonch oraliqlari[[FN:Wilson E.B. Probable I"
+],
+[
+"27",
+"replace",
+"sinflar chegaralari real ma’lumotlarda aniq farqlanadi",
+"sinflar chegaralari tahlil davri ma’lumotlarida aniq farqlanadi"
+],
+[
+"29",
+"insert",
+"integral indeksda aks etmaydi.",
+" Ikkinchi gipotezada ko‘zda tutilgan sakkiz chorak lag bilan baholash (194 ta ku"
+],
+[
+"29",
+"replace",
+"Pooled modelda manfiy***, bank ichida ahamiyatsiz",
+"Pooled modelda manfiy*** (4 va 8 chorak lag), bank ichida ahamiyatsiz"
+],
+[
+"29",
+"replace",
+"barcha modellarda manfiy (**/***)",
+"barcha modellarda manfiy (**/***) (4 chorak lag); 8 chorak lag – ahamiyatsiz"
+],
+[
+"30",
+"insert",
+"ga yaqin ko‘rsatkichlar bilan baholanadi",
+", MHXS variantida esa yuqori likvid aktivlar ulushi milliy balansdan olinadi"
+],
+[
+"31",
+"new_para",
+"",
+"tijorat banklari moliyaviy barqarorligining kapital, aktivlar sifati, likvidlik "
+],
+[
+"31",
+"delete_para",
+"tijorat banklari moliyaviy barqarorligining kapital, aktivla",
+""
+],
+[
+"32",
+"cell",
+"12,0",
+"Likvidlik"
+],
+[
+"32",
+"cell",
+"12,1",
+"Likvidlikni qoplash koeffitsiyenti, %"
+],
+[
+"32",
+"cell",
+"12,2",
+"222,9"
+],
+[
+"32",
+"cell",
+"12,3",
+"154,1"
+],
+[
+"32",
+"cell",
+"12,4",
+"−68,8 p.p. (banklardagi mablag‘lar yuqori likvid aktivlardan chiqarilganda)"
+],
+[
+"32",
+"replace",
+"demak, bu blokda ham yashirin risk mavjud.",
+"Ularni Bazel III talabiga muvofiq yuqori likvid aktivlar tarkibidan chiqarib, ke"
+],
+[
+"33",
+"replace",
+"ekspert baholash usullaridan",
+"ekspert baholash (vaznlarni muallif tomonidan belgilash va ularni entropiya, var"
+],
+[
+"35",
+"insert",
+"liyaviy hisobotlari bilan solishtirildi.",
+" Prudensial hisobot shakllari ochiq e’lon qilinmaydi va tadqiqotda ulardan bankl"
+],
+[
+"36",
+"insert",
+"arni yanada salbiy tomonga o‘zgartiradi.",
+" Bu cheklovning ta’sirini baholash uchun ssenariylarga kapital kanali qo‘shilib,"
+],
+[
+"SC26",
+"insert",
+"viy risk mavjud bo‘lgandagina qo‘yiladi.",
+" Federal rezerv tizimining nazorat bo‘yicha rais o‘rinbosari M. Bowman bu o‘zgar"
+],
+[
+"EBARD",
+"insert",
+"a asosiy risk indikatorini yig‘ib keladi",
+" va ular asosida bank sektorining risk dashbordini muntazam e’lon qiladi[[FN:Eur"
+],
+[
+"SC26",
+"insert",
+"uni sifat omillari bilan to‘ldiradi.",
+" Bu yondashuv xalqaro amaliyotdagi yangi tendensiyaga ham mos keladi: AQShda 202"
+],
+[
+"EBARD",
+"insert",
+" tuzilgan va imtiyozli kreditlar ulushi.",
+" Bundan tashqari, Markaziy bank Yevropa bank boshqarmasining risk dashbordi tajr"
+],
+[
+"FSSA",
+"insert",
+"Washington, DC: IMF, 2025.",
+" – https://www.imf.org/en/publications/cr/issues/2025/06/23/republic-of-uzbekist"
+],
+[
+"47",
+"replace",
+"Non-Bank Financial Institutions & Private Credit in Uzbekist",
+"O‘zbekiston Respublikasi Markaziy banki. Moliyaviy barqarorlik sharhi: 2025-yil."
+],
+[
+"39",
+"delete_para",
+"1. Baholashning me’yoriy-huquqiy va institutsional asoslari",
+""
+],
+[
+"39",
+"delete_para",
+"2. Amaldagi baholash tizimining tarkibi",
+""
+],
+[
+"39",
+"delete_para",
+"3. Bank tizimi moliyaviy barqarorligining asosiy ko‘rsatkich",
+""
+],
+[
+"39",
+"delete_para",
+"4. Xalqaro standartlarga moslashtirish muammolari",
+""
+],
+[
+"39",
+"delete_para",
+"Paragraf bo‘yicha xulosa",
+""
+],
+[
+"39",
+"replace",
+"O‘zbekistonda banklar moliyaviy barqarorligini baholash uch ",
+"O‘zbekistonda banklar moliyaviy barqarorligini baholashning amaldagi holati va x"
+],
+[
+"45",
+"replace",
+"[ilmiy-tadqiqot mavzusi nomi]",
+"[ilmiy-tadqiqot mavzusi nomi]"
+],
+[
+"47",
+"replace",
+"I.V.Larionova, V.V.Ivanov, O.N.Afanasyeva",
+"I.V.Larionova, O.N.Afanasyeva"
+],
+[
+"47",
+"insert",
+"– М.: КНОРУС.",
+" – [nashr yilini kiriting]"
+],
+[
+"47",
+"insert",
+"– М.: РУСАЙНС.",
+" – [nashr yilini kiriting]"
+],
+[
+"47",
+"insert",
+"учебное пособие.",
+" – [shahar va nashriyotni kiriting]"
+],
+[
+"47",
+"replace",
+"Non-Bank Financial Institutions & Private Credit in Uzbekist",
+"O‘zbekiston Respublikasi Markaziy banki. Moliyaviy barqarorlik sharhi: 2025-yil."
+],
+[
+"47",
+"delete_para",
+"169. https://www.bis.org",
+""
+],
+[
+"47",
+"delete_para",
+"170. https://www.imf.org",
+""
+],
+[
+"47",
+"delete_para",
+"171. https://www.worldbank.org",
+""
+],
+[
+"47",
+"delete_para",
+"172. https://www.ifrs.org",
+""
+],
+[
+"47",
+"delete_para",
+"173. https://cbu.uz",
+""
+],
+[
+"47",
+"delete_para",
+"174. https://lex.uz",
+""
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 23-dekabrdagi"
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 23-sentabrdag"
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2023-yil 18-fevraldagi"
+],
+[
+"47",
+"new_para",
+"",
+"0. Banklarda risklarni boshqarish tizimi to‘g‘risidagi nizom (ro‘yxat raqami 342"
+],
+[
+"47",
+"new_para",
+"",
+"0. Tijorat banklarida ichki audit to‘g‘risidagi nizom (ro‘yxat raqami 3302, 07.0"
+],
+[
+"47",
+"new_para",
+"",
+"0. Tijorat banklarida korporativ boshqaruv to‘g‘risidagi nizom (ro‘yxat raqami 3"
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Prezidentining 2017-yil 12-sentabrdagi PQ-3270-son «"
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Prezidentining 2015-yil 6-maydagi PQ-2344-son «Tijor"
+],
+[
+"47",
+"new_para",
+"",
+"0. O‘zbekiston Respublikasi Prezidentining 2023-yil 11-sentabrdagi PF-158-son «“"
+],
+[
+"47",
+"new_para",
+"",
+"0. Sullivan & Cromwell LLP. FFIEC Proposes Revisions to CAMELS Rating System. – "
+],
+[
+"47",
+"new_para",
+"",
+"0. European Banking Authority. Risk Dashboard: Data as of Q4 2024. – Paris: EBA,"
+],
+[
+"47",
+"new_para",
+"",
+"0. European Banking Authority. EBA updates its risk dashboard for EU banking sec"
+],
+[
+"47",
+"new_para",
+"",
+"0. Wilson E.B. Probable Inference, the Law of Succession, and Statistical Infere"
+],
+[
+"47",
+"new_para",
+"",
+"0. Nickell S. Biases in Dynamic Models with Fixed Effects // Econometrica. – 198"
+],
+[
+"47",
+"new_para",
+"",
+"0. Cameron A.C., Gelbach J.B., Miller D.L. Bootstrap-Based Improvements for Infe"
+],
+[
+"FSSA",
+"insert",
+"Washington, DC: IMF, 2025.",
+" – https://www.imf.org/en/publications/cr/issues/2025/06/23/republic-of-uzbekist"
+],
+[
+"47",
+"replace",
+"adabiyotlar ro‘yxati 174 ta manbani",
+"adabiyotlar ro‘yxati 183 ta manbani"
+],
+[
+"48",
+"insert",
+"",
+"  (2.1)"
+],
+[
+"48",
+"insert",
+"",
+"  (2.2)"
+],
+[
+"48",
+"insert",
+"",
+"  (3.1)"
+],
+[
+"48",
+"insert",
+"",
+"  (3.2)"
+],
+[
+"48",
+"insert",
+"",
+"  (3.3)"
+]
+]

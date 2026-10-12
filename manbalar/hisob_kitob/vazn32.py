@@ -44,7 +44,8 @@ OUT['panel_entropiya_korsatkich']=wpe.round(3).to_dict()
 OUT['ind_entropiya']=we.round(3).to_dict()
 W=pd.DataFrame({'Ekspert':pd.Series(EXP)[BL],'Entropiya':wb_e,'Variatsiya':wb_cv,'Bosh komponentlar':wb_p})
 cl=coef.clip(lower=0); W['Logit (K, V – ekspert)']=pd.Series({'K':EXP['K'],'V':EXP['V'],**(cl/cl.sum()*(1-EXP['K']-EXP['V'])).to_dict()})[BL]
-W['O‘rtacha (empirik)']=W[['Entropiya','Variatsiya','Bosh komponentlar','Logit (K, V – ekspert)']].mean(axis=1)
+# o'rtacha faqat barcha 5 blokni empirik baholagan usullardan olinadi (logit K va V ni baholamagan, unda ekspert vaznlari bor)
+W['O‘rtacha (empirik)']=W[['Entropiya','Variatsiya','Bosh komponentlar']].mean(axis=1)
 print(W.round(3).to_string()); OUT['vaznlar']=W.round(3).to_dict()
 # --- C) 5 bankka qo'llash: turli vaznlarda MBII va sinf
 def mbii_w(code,y,w): return M.mbii(R[code][y]['ind'],w)[0]

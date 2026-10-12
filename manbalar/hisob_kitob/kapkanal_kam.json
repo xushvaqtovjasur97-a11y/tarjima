@@ -1,0 +1,80 @@
+{
+ "Asosiy|2026": {
+  "max_farq": 0.001,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Asosiy|2027": {
+  "max_farq": 0.008,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Asosiy|2028": {
+  "max_farq": 0.012,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Ijobiy|2026": {
+  "max_farq": 0.001,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Ijobiy|2027": {
+  "max_farq": 0.0,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Ijobiy|2028": {
+  "max_farq": 0.0,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Keskin salbiy|2026": {
+  "max_farq": 0.001,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Keskin salbiy|2027": {
+  "max_farq": 0.044,
+  "qizil": 4,
+  "qizil_kapital": 4,
+  "zona_ozgargan": []
+ },
+ "Keskin salbiy|2028": {
+  "max_farq": 0.019,
+  "qizil": 2,
+  "qizil_kapital": 2,
+  "zona_ozgargan": []
+ },
+ "Salbiy|2026": {
+  "max_farq": 0.001,
+  "qizil": 0,
+  "qizil_kapital": 0,
+  "zona_ozgargan": []
+ },
+ "Salbiy|2027": {
+  "max_farq": 0.016,
+  "qizil": 2,
+  "qizil_kapital": 2,
+  "zona_ozgargan": []
+ },
+ "Salbiy|2028": {
+  "max_farq": 0.017,
+  "qizil": 1,
+  "qizil_kapital": 2,
+  "zona_ozgargan": [
+   [
+    "Mikrokreditbank",
+    2.755,
+    2.747
+   ]
+  ]
+ }
+}
