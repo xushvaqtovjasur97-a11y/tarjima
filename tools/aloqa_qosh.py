@@ -119,7 +119,7 @@ D.insert('Har ikki bankning 2021–2025-yillar yakunidagi Markaziy bankka taqdim
 am = {y: AM[y] for y in Y}
 b25 = am['2025']
 D.insert('Rasmdan ko‘rinib turibdiki, besh yil davomida banklarning moliyaviy barqarorligi turlicha', 'asosan davlat ko‘magiga tayanishini ko‘rsatadi.',
-         ' Indeks vaznlar va sinflar chegaralarini baholashda qatnashmagan oltinchi bank – «Aloqabank» ATB ma’lumotlarida ham tekshirildi (3.2.3-rasmda uzuq chiziq bilan ko‘rsatilgan, 1-ilova, 1.6). Bankning MHXS asosidagi indeksi 2021–2024-yillarda '
+         ' Indeks empirik vaznlar baholanishida qatnashmagan oltinchi bank – «Aloqabank» ATB ma’lumotlarida ham tekshirildi (3.2.3-rasmda uzuq chiziq bilan ko‘rsatilgan, 1-ilova, 1.6). Bankning MHXS asosidagi indeksi 2021–2024-yillarda '
          + f(min(am[y]['mbii'] for y in Y[:4]), 2) + '–' + f(max(am[y]['mbii'] for y in Y[:4]), 2) + ' ball bilan II sinfda bo‘lgan, 2025-yilda esa MHXS bo‘yicha zarar natijasida daromadlilik bloki '
          + f(b25['bloklar']['D'], 2) + ' ballgacha pasayib, indeks ' + f(b25['mbii'], 2) + ' ballga tushgan va 4.1-paragrafdagi qizil zona chegarasiga (2,75) yaqinlashgan. Milliy hisobot bo‘yicha esa xuddi shu yili indeks '
          + f(b25['milliy'], 3) + ' ballni, ya’ni I sinf chegarasini tashkil etgan. Demak, tanlanmadan tashqari bankda ham ΔMBII ('
@@ -129,7 +129,7 @@ cap15 = D.para('1.5. «Ipoteka-bank» ATB')
 t15 = D.table_after('1.5. «Ipoteka-bank» ATB')
 after_el = t15._tbl.getnext()   # bo'sh paragraf
 emp = Paragraph(after_el, body)
-c16 = para_after(after_el, cap15, '1.6. «Aloqabank» ATB (vaznlar baholanishida qatnashmagan, tashqi tekshiruv)')
+c16 = para_after(after_el, cap15, '1.6. «Aloqabank» ATB (empirik vaznlar baholanishida qatnashmagan, tanlanmadan tashqari tekshiruv)')
 nt16 = copy.deepcopy(t15._tbl); c16._p.addnext(nt16)
 T16 = Table(nt16, body)
 IND = [('K1. CET1 monandligi, %', 'CET1'), ('K2. Regulyativ kapital monandligi, %', 'CAR'), ('K3. Kapital / aktivlar, %', 'LEV'),
@@ -180,7 +180,7 @@ D.insert('Rasmdan ko‘rinib turibdiki, ikkala bankda ham MHXS 9 bo‘yicha qadr
 # 2.3.5-rasm va 3.2.3-rasm: «Aloqabank» chizig'i (oddiy rangda)
 D.chart_add_series('/word/charts/chart21.xml', 1, '«Aloqabank»', [round(v, 2) for v in koef], '70AD47', tag='AL')
 D.chart_axis_max('/word/charts/chart21.xml', 'l', 5)
-D.chart_add_series('/word/charts/chart29.xml', 4, '«Aloqabank» (tashqi tekshiruv)', [round(am[y]['mbii'], 2) for y in Y], '00A3A3', dash='dash', label_idx={4}, tag='AL')
+D.chart_add_series('/word/charts/chart29.xml', 4, '«Aloqabank» (tanlanmadan tashqari)', [round(am[y]['mbii'], 2) for y in Y], '00A3A3', dash='dash', label_idx={4}, tag='AL')
 for ch in ('chart21', 'chart29'):
     D.chart_sync_xlsx(f'/word/charts/{ch}.xml')
 D.replace('2.3.5-rasm. «O‘zsanoatqurilishbank» ATB va «Mikrokreditbank» ATB da yashirin kredit riski koeffitsiyenti', ' va «Mikrokreditbank» ATB da', ', «Mikrokreditbank» ATB va «Aloqabank» ATB da', tag='AL')
@@ -195,7 +195,7 @@ t = D.table('Yashirin kredit riski koeffitsiyenti | MBII-8: milliy hisobot')
 D.add_row(t, len(t.rows) - 1, ['«Aloqabank» ATB', f(a['2025']['NPL_n']), f(a['2025']['S3_i']), f(a['2025']['KYKR'], 2), '3,26', f(b25['mbii'], 2), 'yashil', 'sariq'], tag='AL')
 D.replace('Beshta bankda milliy hisobot va MHXS hisoboti asosidagi integral indeks', 'Beshta bankda', 'Oltita bankda', tag='AL')
 D.insert('Jadvaldan ko‘rinib turibdiki, MHXS ma’lumotlariga o‘tish beshta bankdan uchtasining', 'sariq zonadan qizil zonaga o‘tadi.',
-         ' Vaznlar baholanishida qatnashmagan «Aloqabank» ATB da ham xuddi shunday holat kuzatiladi: u milliy hisobot bo‘yicha yashil zonada (3,26 ball), MHXS bo‘yicha esa sariq zonada (' + f(b25['mbii'], 2) + ' ball) joylashadi, ya’ni oltita bankdan to‘rttasining zonasi yomonlashadi.', tag='AL')
+         ' Oltinchi bank – «Aloqabank» ATB da ham xuddi shunday holat kuzatiladi: u milliy hisobot bo‘yicha yashil zonada (3,26 ball), MHXS bo‘yicha esa sariq zonada (' + f(b25['mbii'], 2) + ' ball) joylashadi, ya’ni oltita bankdan to‘rttasining zonasi yomonlashadi.', tag='AL')
 D.insert('MHXS hisobotlari mavjud bo‘lgan beshta bank misolida milliy ko‘rsatkichlardan MHXS ko‘rsatkichlariga o‘tish', 'uchta bankning erta ogohlantirish zonasini yomon tomonga o‘zgartirishi ko‘rsatildi',
          ' («Aloqabank» ATB bilan birga – oltita bankdan to‘rttasining)', tag='AL')
 
