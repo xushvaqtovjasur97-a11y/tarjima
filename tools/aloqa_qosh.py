@@ -197,16 +197,16 @@ D.replace('Beshta bankda milliy hisobot va MHXS hisoboti asosidagi integral inde
 D.insert('Jadvaldan ko‘rinib turibdiki, MHXS ma’lumotlariga o‘tish beshta bankdan uchtasining', 'sariq zonadan qizil zonaga o‘tadi.',
          ' Vaznlar baholanishida qatnashmagan «Aloqabank» ATB da ham xuddi shunday holat kuzatiladi: u milliy hisobot bo‘yicha yashil zonada (3,26 ball), MHXS bo‘yicha esa sariq zonada (' + f(b25['mbii'], 2) + ' ball) joylashadi, ya’ni oltita bankdan to‘rttasining zonasi yomonlashadi.', tag='AL')
 D.insert('MHXS hisobotlari mavjud bo‘lgan beshta bank misolida milliy ko‘rsatkichlardan MHXS ko‘rsatkichlariga o‘tish', 'uchta bankning erta ogohlantirish zonasini yomon tomonga o‘zgartirishi ko‘rsatildi',
-         ' (tashqi tekshiruv sifatida qo‘shilgan «Aloqabank» ATB bilan – oltita bankdan to‘rttasining)', tag='AL')
+         ' («Aloqabank» ATB bilan birga – oltita bankdan to‘rttasining)', tag='AL')
 
 # =====================================================================
 # 4) Kirish, II bob xulosalari, Xulosa
 # =====================================================================
-D.insert('Tadqiqotning obyekti sifatida O‘zbekiston Respublikasi tijorat banklari', '«Mikrokreditbank» ATB', ', natijalarni tekshirish uchun esa «Aloqabank» ATB', tag='AL')
+D.replace('Tadqiqotning obyekti sifatida O‘zbekiston Respublikasi tijorat banklari', ' va «Mikrokreditbank» ATB', ', «Mikrokreditbank» ATB va «Aloqabank» ATB', tag='AL')
 D.insert('ATB misolida MHXS 9 bo‘yicha qadrsizlangan kreditlar ulushi 2021–2025-yillarda rasmiy muammoli kreditlar ulushidan mos ravishda', '1,6–3,0 va 2,8–3,3 barobar yuqori bo‘lgani aniqlangan',
          ' (uchinchi davlat banki – «Aloqabank» ATB da ' + f(min(koef), 1) + '–' + f(max(koef), 1) + ' barobar, 2025-yilda esa milliy hisobotdagi ' + f(y25['NP_n']) + ' mlrd so‘m foyda o‘rniga MHXS bo‘yicha ' + f(-y25['NP_i']) + ' mlrd so‘m zarar)', tag='AL')
 D.insert('o‘yicha 3-bosqich kreditlari ulushining milliy tasnifdagi muammoli kreditlar ulushiga nisbati taklif etildi. Koeffitsiyent', '«Mikrokreditbank» ATB da 2,77–3,30',
-         ', tekshiruv uchun qo‘shilgan «Aloqabank» ATB da ' + f(min(koef), 2) + '–' + f(max(koef), 2), tag='AL')
+         ', «Aloqabank» ATB da ' + f(min(koef), 2) + '–' + f(max(koef), 2), tag='AL')
 D.insert('sh darajasini o‘lchash uchun yashirin kredit riski koeffitsiyenti taklif etildi. U tahlil qilingan banklarda', '«Mikrokreditbank» ATB da 2,77–3,30 ni',
          ', «Aloqabank» ATB da ' + f(min(koef), 2) + '–' + f(max(koef), 2) + ' ni', tag='AL')
 D.insert('Milliy prudensial hisobot va MHXS bo‘yicha hisobot o‘rtasidagi tafovut muntazam xususiyatga ega bo‘lib', '',
@@ -242,6 +242,10 @@ _pt = D.para('Dissertatsiyaning tuzilishi va hajmi.').text
 _old = re.search(r'ro‘yxati \d+ ta manbani', _pt).group(0)
 D.replace('Dissertatsiyaning tuzilishi va hajmi.', _old, f'ro‘yxati {n} ta manbani', tag='AL')
 D.save(DST)
+
+# qo‘shtirnoqlar (“…”) va Times New Roman shrifti – butun matnga
+from pardoz import pardoz
+print('pardoz:', pardoz(DST))
 
 # mundarija sahifalari
 sys.argv = ['x']

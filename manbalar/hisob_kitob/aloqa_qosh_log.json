@@ -1485,13 +1485,13 @@
 "AL",
 "insert",
 " yomon tomonga o‘zgartirishi ko‘rsatildi",
-" (tashqi tekshiruv sifatida qo‘shilgan «Aloqabank» ATB bilan – oltita bankdan to"
+" («Aloqabank» ATB bilan birga – oltita bankdan to‘rttasining)"
 ],
 [
 "AL",
-"insert",
-"«Mikrokreditbank» ATB",
-", natijalarni tekshirish uchun esa «Aloqabank» ATB"
+"replace",
+" va «Mikrokreditbank» ATB",
+", «Mikrokreditbank» ATB va «Aloqabank» ATB"
 ],
 [
 "AL",
@@ -1503,7 +1503,7 @@
 "AL",
 "insert",
 "«Mikrokreditbank» ATB da 2,77–3,30",
-", tekshiruv uchun qo‘shilgan «Aloqabank» ATB da 2,46–4,90"
+", «Aloqabank» ATB da 2,46–4,90"
 ],
 [
 "AL",

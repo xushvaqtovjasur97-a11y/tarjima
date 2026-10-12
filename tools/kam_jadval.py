@@ -100,4 +100,5 @@ for s in D.d.sections:
         s.orientation = WD_ORIENT.LANDSCAPE
         s.page_width, s.page_height = s.page_height, s.page_width
 D.save(DST)
+import sys; sys.path.insert(0, '/home/user/tarjima/tools'); from pardoz import pardoz; pardoz(DST)
 print('saqlandi', DST)
