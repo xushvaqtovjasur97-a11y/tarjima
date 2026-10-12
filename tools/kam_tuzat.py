@@ -449,6 +449,10 @@ for p in D.paras():
 print('adabiyotlar soni:', n)
 D.replace('Dissertatsiyaning tuzilishi va hajmi.', 'adabiyotlar ro‘yxati 174 ta manbani', f'adabiyotlar ro‘yxati {n} ta manbani', tag='47')
 
+# hajm ko'rsatkichlari (sahifalar tuzatishlardan keyin LibreOffice bo'yicha)
+D.replace('Dissertatsiyaning tuzilishi va hajmi.', 'asosiy matni 229 betni', 'asosiy matni 232 betni', tag='47')
+D.replace('Dissertatsiyaning tuzilishi va hajmi.', 'ilovalar esa 12 betni', 'ilovalar esa 13 betni', tag='47')
+
 # 48-band: formulalarni raqamlash
 for s, num in (('Ktaf = (XMHXS – Xmilliy) / Xmilliy × 100%', '(2.1)'), ('Kykr = (S3 / LMHXS) / (NPL / Lmilliy)', '(2.2)'),
                ('si = k + (xi – ak) / (ak+1 – ak)', '(3.1)'), ('MBII = Σ wj · Bj, Bj = (1 / nj)', '(3.2)'),
@@ -458,3 +462,34 @@ for s, num in (('Ktaf = (XMHXS – Xmilliy) / Xmilliy × 100%', '(2.1)'), ('Kykr
 D.save(DST)
 json.dump(K.LOG, open('/home/user/tarjima/manbalar/hisob_kitob/kam_tuzat_log.json', 'w'), ensure_ascii=False, indent=0)
 print('saqlandi:', DST, len(K.LOG), 'ta amal')
+
+
+# ---------------- mundarija sahifa raqamlarini yangilash (LibreOffice PDF bo'yicha, ikki bosqich)
+def mundarija(docx_path):
+    import subprocess, tempfile, os, re as _re, docx as _docx
+    from docx.oxml.ns import qn as _qn
+    tmp = tempfile.mkdtemp()
+    subprocess.run(['soffice', '--headless', '--convert-to', 'pdf', '--outdir', tmp, docx_path], capture_output=True, timeout=600)
+    pdf = os.path.join(tmp, os.path.basename(docx_path)[:-5] + '.pdf')
+    n = int(_re.search(r'Pages:\s+(\d+)', subprocess.run(['pdfinfo', pdf], capture_output=True, text=True).stdout).group(1))
+    pages = [' '.join(subprocess.run(['pdftotext', '-f', str(p), '-l', str(p), pdf, '-'], capture_output=True, text=True).stdout.split()) for p in range(1, n + 1)]
+    d = _docx.Document(docx_path)
+    start = [i for i, p in enumerate(d.paragraphs) if p.text.strip() == 'MUNDARIJA'][0]
+    cur = 2; changed = 0
+    for p in d.paragraphs[start + 1:]:
+        if '\t' not in p.text:
+            break
+        title, pg = p.text.rsplit('\t', 1)
+        key = ' '.join(title.split()[:6])
+        hit = next((i + 1 for i in range(cur, n) if key in pages[i]), None)
+        if hit is None:
+            continue
+        cur = hit - 1
+        if str(hit) != pg.strip():
+            t = [x for x in p._p.iter(_qn('w:t'))][-1]
+            if t.text.strip() == pg.strip():
+                t.text = str(hit); changed += 1
+    d.save(docx_path)
+    return changed
+
+print('mundarija:', mundarija(DST), 'ta raqam yangilandi;', mundarija(DST), 'ta (2-bosqich)')

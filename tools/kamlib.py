@@ -269,6 +269,18 @@ class Doc:
     def delete_para(self, p, tag=''):
         if isinstance(p, str):
             p = self.para(p)
+        ppr = p._p.find(qn('w:pPr'))
+        sect = ppr.find(qn('w:sectPr')) if ppr is not None else None
+        if sect is not None:
+            # bo'lim ajratgichi yo'qolmasligi uchun uni oldingi paragrafga ko'chiramiz
+            prev = p._p.getprevious()
+            while prev is not None and prev.tag != qn('w:p'):
+                prev = prev.getprevious()
+            pp = prev.find(qn('w:pPr'))
+            if pp is None:
+                pp = etree.SubElement(prev, qn('w:pPr'))
+                prev.remove(pp); prev.insert(0, pp)
+            pp.append(sect)
         p._p.getparent().remove(p._p)
         LOG.append((tag, 'delete_para', p.text[:60], ''))
 
