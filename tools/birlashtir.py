@@ -14,7 +14,7 @@ ITEMS=[('D',P+'Kirish.docx'),
 ('B','II BOB. O‘ZBEKISTON BANK TIZIMIDA MOLIYAVIY BARQARORLIKNI BAHOLASH AMALIYOTINING XALQARO STANDARTLARGA MUVOFIQLIGI TAHLILI'),
 ('D',P+'2.1-paragraf.docx'),('D',P+'2.2-paragraf.docx'),('D',P+'2.3-paragraf.docx'),('D',P+'II_bob_xulosalar.docx'),
 ('B','III BOB. XALQARO STANDARTLARGA ASOSLANGAN INTEGRAL BAHOLASH METODIKASI VA UNING EKONOMETRIK ASOSLANISHI'),
-('D',P+'3.1-paragraf.docx'),('D',P+'3.2-paragraf.docx'),('D',P+'3.3-paragraf.docx'),
+('D',P+'3.1-paragraf.docx'),('D',P+'3.2-paragraf.docx'),('D',P+'3.3-paragraf.docx'),('D',P+'III_bob_xulosalar.docx'),
 ('B','IV BOB. TIJORAT BANKLARI MOLIYAVIY BARQARORLIGINI BAHOLASH METODOLOGIYASINI TAKOMILLASHTIRISH YO‘NALISHLARI'),
 ('D',P+'4.1-paragraf.docx'),('D',P+'4.2-paragraf.docx'),('D',P+'4.3-paragraf.docx'),('D',P+'IV_bob_xulosalar.docx')]
 def heads(d):
