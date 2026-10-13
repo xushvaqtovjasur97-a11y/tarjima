@@ -1,0 +1,134 @@
+[
+ {
+  "p": 639,
+  "old": "Integral indeks qiymatini muammo",
+  "new": "Keyingi bosqichda integral indeks qiymatini muammo",
+  "why": "Мантиқий ўтиш учун боғловчи қўшилди"
+ },
+ {
+  "p": 647,
+  "old": "G. Kaminsky va C. Reinhart signallar usuli",
+  "new": "G. Kaminsky va C. Reinhartning signallar usuli",
+  "why": "Қаратқич келишиги қўшимчаси тушиб қолган"
+ },
+ {
+  "p": 662,
+  "old": "ballni tashkil etib, uning asosiy sababi 2.3-paragrafda aniqlangan holat bo‘lib,",
+  "new": "ballni tashkil etadi, uning asosiy sababi esa 2.3-paragrafda aniqlangan holatdir:",
+  "why": "Боғланмаган гап кесими тикланди"
+ },
+ {
+  "p": 668,
+  "old": "choraklik ma’lumotlarga asoslangan, Markaziy",
+  "new": "choraklik ma’lumotlarga asoslangan bo‘lib, Markaziy",
+  "why": "Гап қисмлари боғланди"
+ },
+ {
+  "p": 676,
+  "old": "ahamiyatli bo‘lgan; shu sababli",
+  "new": "ahamiyatli bo‘lgan. Shu sababli",
+  "why": "Нуқтали вергул ўрнига мустақил хулоса гапи"
+ },
+ {
+  "p": 677,
+  "old": "o‘z ichiga oladi; 2020-yil ko‘rsatkichlari",
+  "new": "o‘z ichiga oladi. Biroq 2020-yil ko‘rsatkichlari",
+  "why": "Нуқтали вергул ўрнига боғловчили гап"
+ },
+ {
+  "p": 682,
+  "old": "3.3-paragrafdagi satellit modelda",
+  "new": "Ta’kidlash joizki, 3.3-paragrafdagi satellit modelda",
+  "why": "Янги фикрга ўтиш боғловчиси қўшилди"
+ },
+ {
+  "p": 688,
+  "old": "Biroq taklif etilgan usul o‘zgarishsiz",
+  "new": "Shu bilan birga, taklif etilgan usul o‘zgarishsiz",
+  "why": "Кетма-кет «бироқ» такрори бартараф этилди"
+ },
+ {
+  "p": 688,
+  "old": "stress-test uchun mo‘ljallangan, Bazel",
+  "new": "stress-test uchun mo‘ljallangan. Bazel",
+  "why": "Қўшма гап ажратилди, вергул хатоси"
+ },
+ {
+  "p": 696,
+  "old": "Buning sababi 3.3-paragrafda",
+  "new": "Bu holat 3.3-paragrafda",
+  "why": "«Сабаби ... билан изоҳланади» грамматик хато"
+ },
+ {
+  "p": 697,
+  "old": "Ssenariylar bo‘yicha banklarning",
+  "new": "Mazkur natijalarni yaqqol ifodalash maqsadida ssenariylar bo‘yicha banklarning",
+  "why": "Расмга ўтишда боғловчи жумла"
+ },
+ {
+  "p": 705,
+  "old": "pasayadi va yuqori darajada saqlanadi",
+  "new": "pasayadi, biroq yuqori darajada saqlanadi",
+  "why": "Зид маънодаги қисмлар тўғри боғланди"
+ },
+ {
+  "p": 714,
+  "old": "o‘z kuchida qoladi): “O‘zsanoatqurilishbank” ATB da",
+  "new": "o‘z kuchida qoladi). Jumladan, “O‘zsanoatqurilishbank” ATB da",
+  "why": "Қавсдан кейинги осилиб қолган икки нуқта тузатилди"
+ },
+ {
+  "p": 718,
+  "old": "ko‘plab banklar, ayniqsa davlat banklarining",
+  "new": "ko‘plab banklarning, ayniqsa davlat banklarining",
+  "why": "Қаратқич келишиги мослиги тикланди"
+ },
+ {
+  "p": 720,
+  "old": "degan savolga esa, ya’ni",
+  "new": "degan savolga, ya’ni",
+  "why": "«esa» юкламаси жойи тўғриланди"
+ },
+ {
+  "p": 720,
+  "old": "masalasiga javob bermaydi",
+  "new": "masalasiga esa javob bermaydi",
+  "why": "«esa» юкламаси жойи тўғриланди"
+ },
+ {
+  "p": 734,
+  "old": "sur‘atining",
+  "new": "sur’atining",
+  "why": "Тутуқ белгиси тўғриланди"
+ },
+ {
+  "p": 735,
+  "old": "past bo‘lishi qariyb yarmiga",
+  "new": "past bo‘lishining qariyb yarmi",
+  "why": "Келишик хатоси гапни бузган"
+ },
+ {
+  "p": 737,
+  "old": "bashorat qilmasligi, chunki davlat ko‘magi davlat banklarining daromadliligini barqarorlashtirishi aniqlangan.",
+  "new": "bashorat qilmasligi aniqlangan, chunki davlat ko‘magi davlat banklarining daromadliligini barqarorlashtiradi.",
+  "why": "Эргаш гап кесими нотўғри жойлашган"
+ },
+ {
+  "p": 738,
+  "old": "Taklif etilayotgan chora-tadbirlar amaldagi",
+  "new": "Umuman olganda, taklif etilayotgan chora-tadbirlar amaldagi",
+  "why": "Жадвалга умумлаштирувчи ўтиш"
+ },
+ {
+  "p": 743,
+  "old": "Taklif etilayotgan chora-tadbirlar birgalikda",
+  "new": "Yuqoridagi qiyosiy tahlildan kelib chiqib aytish mumkinki, taklif etilayotgan chora-tadbirlar birgalikda",
+  "why": "Олдинги жадвал билан боғланиш"
+ },
+ {
+  "p": 747,
+  "old": "Takliflarni amalga oshirish “yo‘l xaritasi”",
+  "new": "Yuqorida qayd etilganlardan kelib chiqib, takliflar “yo‘l xaritasi”",
+  "why": "Тавтология бартараф этилди, боғловчи қўшилди"
+ }
+]

@@ -221,5 +221,5 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 ## Bog‘lash tahriri (qizil)
 - Foydalanuvchi so‘rovi: bog‘lanmagan joylar, yarim qolgan jumlalar, “:”/“;” bilan uzilgan gaplarni tuzatish, gap va tahlillarni bir-biriga bog‘lash; o‘zgarishlar qizil.
-- Har bob to‘liq o‘qilib (Kirish, I–IV bob, Xulosa), 89 ta minimal tahrir kiritildi: tools/tuz_boglash.py (tahrirlar ro‘yxati scratchpad/bog/edits_*.json). Faqat o‘zgargan qism qizil.
+- Har bob to‘liq o‘qilib (Kirish, I–IV bob, Xulosa), 89 ta minimal tahrir kiritildi: tools/tuz_boglash.py (tahrirlar ro‘yxati tools/boglash_tahrirlar/edits_*.json; ishga tushirish: python3 tools/tuz_boglash.py tools/boglash_tahrirlar/). Faqat o‘zgargan qism qizil.
 - Hajm: adabiyotlar 246-betga surildi → asosiy matn 242 bet (tools/tuz_hajm242.py), mundarija yangilandi.

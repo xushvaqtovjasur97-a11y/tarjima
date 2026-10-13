@@ -1,0 +1,98 @@
+[
+ {
+  "p": 107,
+  "old": "deb hisoblaydi; turlar o‘rtasida",
+  "new": "deb hisoblaydi. Ularning fikricha, turlar o‘rtasida",
+  "why": "Нуқтали вергул билан уланган гап ажратилди"
+ },
+ {
+  "p": 112,
+  "old": "Monografiyada esa bank ijtimoiy",
+  "new": "O.I. Lavrushin tahriridagi monografiyada esa bank ijtimoiy",
+  "why": "Қайси монография экани аниқлаштирилиб, жадвал билан боғланди"
+ },
+ {
+  "p": 136,
+  "old": "foiz stavkasi riski esa 25 foiz bankda",
+  "new": "foiz stavkasi riski esa banklarning 25 foizida",
+  "why": "Келишик хатоси тузатилди"
+ },
+ {
+  "p": 145,
+  "old": "Mualliflar AQShning 1959–2024-yillardagi",
+  "new": "Rasmda aks ettirilganidek, mualliflar AQShning 1959–2024-yillardagi",
+  "why": "Таҳлил расмга ҳавола билан бошланди"
+ },
+ {
+  "p": 171,
+  "old": "Demak, zamonaviy tendensiya",
+  "new": "Yuqoridagilardan kelib chiqib aytish mumkinki, zamonaviy tendensiya",
+  "why": "Хулоса олдинги таҳлил билан боғланди"
+ },
+ {
+  "p": 188,
+  "old": "Bazel qo‘mitasi 2017-yilda yakuniy",
+  "new": "Shuni ham qayd etish lozimki, Bazel qo‘mitasi 2017-yilda yakuniy",
+  "why": "Янги фикрга ўтиш учун боғловчи қўшилди"
+ },
+ {
+  "p": 203,
+  "old": "xorijiy valyutadagi likvidlikka eng katta – 30 foiz vazn berilgan.",
+  "new": "xorijiy valyutadagi likvidlikka eng katta – 30 foiz vazn berilgan. Bu esa O‘zbekiston sharoitida valyuta riskiga sezgirlikni integral bahoning alohida bloki sifatida ajratish zarurligini ko‘rsatadi.",
+  "why": "Жадвал таҳлилига боғловчи хулоса қўшилди"
+ },
+ {
+  "p": 216,
+  "old": "rivojlangan; 1929–1933-yillarda",
+  "new": "rivojlangan. Masalan, 1929–1933-yillarda",
+  "why": "Нуқтали вергул билан уланган гап ажратилди"
+ },
+ {
+  "p": 221,
+  "old": "Muallif fikricha, baholash natijasini",
+  "new": "Fikrimizcha, baholash natijasini",
+  "why": "Муаллиф ноаниқлиги бартараф этилди"
+ },
+ {
+  "p": 228,
+  "old": "yomonlashtiradi; 1993–2007-yillarda",
+  "new": "yomonlashtiradi. Muallif ma’lumotiga ko‘ra, 1993–2007-yillarda",
+  "why": "Нуқтали вергул билан уланган гап ажратилди"
+ },
+ {
+  "p": 235,
+  "old": "amalga oshiradi; Yevropa bank boshqarmasi yagona",
+  "new": "amalga oshiradi, Yevropa bank boshqarmasi esa yagona",
+  "why": "Гап қисмлари боғланди"
+ },
+ {
+  "p": 238,
+  "old": "Mualliflar eng maqbul yondashuv",
+  "new": "E. Gualandri va M. Noera eng maqbul yondashuv",
+  "why": "Қайси муаллифлар экани аниқлаштирилди"
+ },
+ {
+  "p": 245,
+  "old": "2005-U ko‘rsatmaga asoslangan tizimda",
+  "new": "Xususan, 2005-U ko‘rsatmaga asoslangan tizimda",
+  "why": "Жадвал таҳлили билан боғланди"
+ },
+ {
+  "p": 255,
+  "old": "Tizimli ahamiyatli kredit tashkilotlarini aniqlashda Rossiya banki",
+  "new": "Makroprudensial monitoringning muhim yo‘nalishlaridan biri tizimli ahamiyatli banklarni aniqlash hisoblanadi. Tizimli ahamiyatli kredit tashkilotlarini aniqlashda Rossiya banki",
+  "why": "Расмдан кейин янги фикрга боғловчи гап қўшилди"
+ },
+ {
+  "p": 256,
+  "old": "75 foizdan oshmasligi kerak va 2011-yil iyunidan boshlab bu ko‘rsatkich har kuni monitoring qilinadi;",
+  "new": "75 foizdan oshmasligi kerak edi va 2011-yil iyunidan boshlab bu ko‘rsatkich har kuni monitoring qilingan;",
+  "why": "Замон мувофиқлиги тикланди (кейин бекор қилинган)"
+ },
+ {
+  "p": 206,
+  "old": "aniqlash, boshqa mamlakatlar",
+  "new": "aniqlash hamda boshqa mamlakatlar",
+  "why": "Уюшиқ бўлаклар боғланди"
+ }
+]

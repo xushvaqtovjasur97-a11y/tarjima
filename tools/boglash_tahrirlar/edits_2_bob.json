@@ -1,0 +1,92 @@
+[
+ {
+  "p": 292,
+  "old": "O‘zbekistonda banklar moliyaviy barqarorligini baholash bugungi",
+  "new": "Mazkur me’yoriy baza asosida O‘zbekistonda banklar moliyaviy barqarorligini baholash bugungi",
+  "why": "Меъёрий базадан баҳолаш тизимига ўтиш боғловчиси"
+ },
+ {
+  "p": 299,
+  "old": "B.T. Berdiyarov aynan",
+  "new": "Shuni ta’kidlash joizki, B.T. Berdiyarov aynan",
+  "why": "Узилиб қолган гапни олдинги фикр билан боғлаш"
+ },
+ {
+  "p": 301,
+  "old": "bu muammo hali dolzarbligini ko‘rsatadi",
+  "new": "bu muammo hali ham dolzarb ekanini ko‘rsatadi",
+  "why": "Грамматик боғланиш тузатилди"
+ },
+ {
+  "p": 308,
+  "old": "XVJ va Jahon banki FSAP doirasida",
+  "new": "Biroq rasmiy ko‘rsatkichlarning yuqoriligi xalqaro standartlarga to‘liq muvofiqlikni anglatmaydi. XVJ va Jahon banki FSAP doirasida",
+  "why": "Янги фикрга ўтишда боғловчи гап қўшилди"
+ },
+ {
+  "p": 320,
+  "old": "Islohotlarning yakunlanish muddatlari",
+  "new": "Mazkur muammolarni bartaraf etishga qaratilgan islohotlarning yakunlanish muddatlari",
+  "why": "Олдинги таҳлил билан боғлаш"
+ },
+ {
+  "p": 322,
+  "old": "Bank tizimining kapital",
+  "new": "Shuningdek, bank tizimining kapital",
+  "why": "Хулосалар ўртасида боғловчи"
+ },
+ {
+  "p": 344,
+  "old": "Rasmda ko‘rinadiki",
+  "new": "Rasmdan ko‘rinadiki",
+  "why": "Келишик қўшимчаси тузатилди"
+ },
+ {
+  "p": 348,
+  "old": "CAMELS tizimida aktivlar rentabelligi",
+  "new": "2.2.4-rasm ma’lumotlarini xalqaro mezonlar bilan solishtiradigan bo‘lsak, CAMELS tizimida aktivlar rentabelligi",
+  "why": "Расм таҳлилига ҳавола қўшилди"
+ },
+ {
+  "p": 361,
+  "old": "foiz bo‘lib, u ham kreditlarni",
+  "new": "foiz bo‘lib, bank ham kreditlarni",
+  "why": "Ноаниқ олмош аниқлаштирилди"
+ },
+ {
+  "p": 378,
+  "old": "Bu o‘z navbatida,",
+  "new": "Bu, o‘z navbatida,",
+  "why": "Кириш сўз вергул билан ажратилди"
+ },
+ {
+  "p": 429,
+  "old": "tashkil etadi, Ularni Bazel III",
+  "new": "tashkil etadi. Ularni Bazel III",
+  "why": "Нотўғри тиниш белгиси: вергул ўрнига нуқта"
+ },
+ {
+  "p": 438,
+  "old": "bu esa 2.3-paragrafda aniqlangan tafovutlarning",
+  "new": "bu esa yuqorida ikki bank misolida aniqlangan tafovutlarning",
+  "why": "Параграфнинг ўзига нотўғри ҳавола тузатилди"
+ },
+ {
+  "p": 440,
+  "old": "Bu o‘z navbatida,",
+  "new": "Bu, o‘z navbatida,",
+  "why": "Кириш сўз вергул билан ажратилди"
+ },
+ {
+  "p": 444,
+  "old": "Amaldagi baholash tizimida bankning",
+  "new": "Shu bilan birga, amaldagi baholash tizimida bankning",
+  "why": "Узилиб қолган хулосани олдингиси билан боғлаш"
+ },
+ {
+  "p": 452,
+  "old": "Bu turli yo‘nalishdagi signallarni",
+  "new": "Bu holat turli yo‘nalishdagi signallarni",
+  "why": "Олмош аниқлаштирилди, гап боғланди"
+ }
+]
