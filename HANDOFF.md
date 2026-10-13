@@ -13,6 +13,7 @@
 - Muallif v3 ga nisbatan kiritgan o‘zgarishlar: titulda “MAXMUDOV OMON TUXTAYEVICH”; Kirishdagi me’yoriy hujjatlar ro‘yxatidan PQ-2344 olib tashlangan; ilmiy-tadqiqot ishlari rejasiga bog‘liqlikda “ilmiy loyiha”; tadqiqot usullaridan “ekspert baholash (…)” olib tashlangan.
 
 - 2026-10-13: asosiy faylga kiritildi (qizil): 1.2.3-jadvalda NSFR 1-daraja aktivlar 0 → 0–5 va izoh; jadval manbasiga va adabiyotlarga (31-o‘rin) Basel Framework (LCR, NSF) qo‘shildi, ro‘yxat 188 ta (`tools/tuz_123.py`). Fayl muallifga hali berilmagan.
+- 2026-10-13: asosiy faylga kiritildi: 1.3.2-rasm AQSh PCA chegaralari amaldagi 12 CFR § 324.403 ga moslashtirildi (1-darajali 8/6/6/4, CET1 6,5/4,5/4,5/3; rasm oddiy rangda), matnga qizil jumla, manba va adabiyot (189 ta) (`tools/tuz_132.py`). Fayl muallifga hali berilmagan.
 - **Qo‘shish navbati (muallif “keyin hammasini birdan qo‘shasan” dedi):**
   1. 1.1.5-rasm (faqat 2021–2025, G-7, 12 bank) – muallif ma’qulladi; `tools/qosh_115.py` bilan qo‘shiladi (9-ilova, 4 manba, hajm/mundarija yangilanadi).
   2. 1.1.6-rasm: Correia, Luck, Verner (QJE 2026) AQSh 1959–2024 AUC – `Namuna_1.1.6-rasm_yangi.docx`, `tools/namuna_116.py`; muallif MA’QULLADI, navbatda (O‘zbekiston Z-score varianti rad etilgan – 4.1-§ ni takrorlaydi). Qo‘shilsa: Chiaramonte & Poli (2014) boshqa joyda keltirilmasa adabiyotlardan olib tashlash.
