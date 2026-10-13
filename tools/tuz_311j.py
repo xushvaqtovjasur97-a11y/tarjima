@@ -13,7 +13,7 @@ tbl = docx.table.Table(cap._p.getnext(), D.d)
 for i, (old, new) in N.FIX.items():
     c = tbl.cell(i, 1)
     assert c.text == old, (i, c.text)
-    if i == 1:
+    if i == 2:
         D.cell_replace(tbl, i, 1, '1,65–3,30', '1,65–4,90', tag='311j')
     else:
         D.cell_replace(tbl, i, 1, old[len('2.1-§: '):], new[len('2.1-§: '):], tag='311j')
