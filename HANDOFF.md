@@ -154,3 +154,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - “O‘sha joyda” (272, 277) va “Roadmap”… (254, 256, 267, 271, 274, 276, 278) → yo‘l xaritasining to‘liq nomi (Item 31 tekshirildi – makro stress-test, to‘g‘ri).
 - “IMF Country Report No. 25/145 (25/227), 2025” (259, 262, 266, 267, 269, 270, 273) → to‘liq FSSA / BCP manbasi.
 - Skriptlar: tools/tuz_snoska_ibid.py, tools/tuz_snoska_imf.py (qayta ishga tushirilmasin).
+
+## 2.2.1-rasm (kiritildi)
+- Diagramma chiziqli shaklga o‘tkazildi (tools/tuz_221.py, namuna_221l.py); ma’lumotlar bul2603.xlsx 5.1.2-jadval bilan tekshirildi.
+- 285, 286-snoskalar: manba “Statistik byulleten: 2026-yil mart. – 5.1.2-jadval” ga aniqlashtirildi (qizil).
