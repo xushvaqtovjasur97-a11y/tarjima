@@ -121,7 +121,10 @@ if __name__ == '__main__':
 
     head('Ma’lumotlar va metodologiya')
     par('Tadqiqotda “O‘zsanoatqurilishbank” ATB ning 2023-yil (2021–2023-yillar ma’lumotlari bilan) va 2025-yil (2024–2025-yillar) uchun auditdan o‘tgan konsolidatsiyalangan '
-        'moliyaviy hisobotlari [7; 8] hamda bankning milliy hisobot ma’lumotlari [9] qo‘llandi. Hisobotlarda amortizatsiyalangan qiymatda baholanadigan mijozlarga kreditlar '
+        'moliyaviy hisobotlari [7; 8] hamda bankning milliy hisobot ma’lumotlari [9] qo‘llandi. Har bir yil uchun ushbu yilni qamragan eng so‘nggi hisobot olindi, chunki unda '
+        'oldingi yillar ma’lumotlari qayta hisoblangan: bank 2023-yilda 2021–2023-yillarni qamragan uch yillik hisobot e’lon qilib, 2021–2022-yillar ma’lumotlarini qayta '
+        'hisoblagan. Ma’lumotlarning izchilligi 2024-yil uchun hisobot [11] bilan tekshirildi: undagi 2023 va 2024-yillar kesishma jadvallari va bosqichlararo o‘tishlar '
+        'tanlangan hisobotlardagi qiymatlarga to‘liq mos keladi. Hisobotlarda amortizatsiyalangan qiymatda baholanadigan mijozlarga kreditlar '
         'uch segment (korporativ, davlat va munitsipal tashkilotlar, jismoniy shaxslar) bo‘yicha MHXS 9 bosqichlari va Markaziy bank tasnifi toifalari kesimida '
         '(kesishma jadval), shuningdek bosqichlararo o‘tishlar bilan oshkor qilingan. Segmentlar ma’lumotlari yig‘ilib, bank bo‘yicha jami ko‘rsatkichlar hisoblandi. '
         'Bosqichlarni belgilash mezonlari bankning hisob siyosatidan, milliy tasnif mezonlari Markaziy bank nizomi [10] va toifalar ta’riflaridan olindi.')
@@ -221,6 +224,7 @@ if __name__ == '__main__':
         'Joint Stock Commercial Bank “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026.',
         '“O‘zsanoatqurilishbank” ATB ning Markaziy bankka taqdim etilgan prudensial hisobot shakllari (crs003C, crs003L, crs003O), 2021–2025-yillar.',
         'Tijorat banklarida aktivlar sifatini tasniflash va aktivlar bo‘yicha ehtimoliy yo‘qotishlarni qoplash uchun zaxiralarni shakllantirish hamda ulardan foydalanish tartibi to‘g‘risidagi nizom (O‘zbekiston Respublikasi Markaziy banki Boshqaruvining qarori, ro‘yxat raqami 2696, 14.07.2015) // https://lex.uz.',
+        'JSCB “Uzbek Industrial and Construction Bank” and its Subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the Year Ended 31 December 2024. – Tashkent, 2025. – https://sqb.uz.',
     ]
     for i, r in enumerate(REFS, 1):
         par(f'{i}. {r}', size=12, indent=False, ls=1.0)
