@@ -166,3 +166,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 2.1.3-rasm olib tashlandi (kiritildi)
 - 2.2.2-rasm bilan takror edi; 2.1.4→2.1.3, 2.1.5→2.1.4 (sarlavha va havolalar qizil); matnda “(batafsil tahlil 2.2-paragrafda keltirilgan)” (tools/tuz_213del.py).
 - Namuna: 2.2.2-rasm chiziqli + 13% minimum (tools/namuna_222l.py) – hali kiritilmagan. Mundarija/hajm keyin yangilansin.
+
+## 2.2.2-rasm (kiritildi)
+- Chiziqli diagramma + 13% minimum (tools/tuz_222.py); 2.1-§ “Amaldagi baholash tizimi natijalariga…” xatboshisi qisqartirildi (2.2-§ ga havola); 2.2-§ ga rasm tahlili jumlasi, stress-test – 2.1.3-rasmga havola; rasm manbasiga 2693-son nizom qo‘shildi.
+- Mundarija yangilandi; hajm: asosiy matn 236 bet, ilovalar 15 bet.
