@@ -12,11 +12,11 @@ from pardoz import pardoz
 
 DST = '/home/user/tarjima/Namuna_2.3.4-rasm.docx'
 Y = ['2021', '2022', '2023', '2024', '2025']
-CAT = [('Standart', [192.4, 238.3, 848.8, 1013.3, 746.4], '70AD47', 'FFFFFF'),
-       ('Substandart', [797.7, 860.1, 518.6, 577.8, 2290.9], 'FFC000', '000000'),
-       ('Qoniqarsiz', [953.2, 490.5, 581.2, 1326.1, 243.9], 'ED7D31', 'FFFFFF'),
-       ('Shubhali', [225.3, 988.9, 910.8, 628.2, 642.1], 'C00000', 'FFFFFF'),
-       ('Umidsiz', [609.4, 1206.3, 45.0, 540.2, 1386.9], '7F1F1F', 'FFFFFF')]
+CAT = [('Standart', [192.4, 238.3, 848.8, 1013.3, 746.4], '00B050', '000000'),
+       ('Substandart', [797.7, 860.1, 518.6, 577.8, 2290.9], 'FFE14D', '000000'),
+       ('Qoniqarsiz', [953.2, 490.5, 581.2, 1326.1, 243.9], 'FFA726', '000000'),
+       ('Shubhali', [225.3, 988.9, 910.8, 628.2, 642.1], 'FF5050', '000000'),
+       ('Umidsiz', [609.4, 1206.3, 45.0, 540.2, 1386.9], 'C00000', 'FFFFFF')]
 TOT = [round(sum(c[1][i] for c in CAT), 1) for i in range(5)]
 SHARE = [round(100 * (CAT[0][1][i] + CAT[1][1][i]) / TOT[i], 1) for i in range(5)]
 LINE = ('Milliy tasnifda muammoli hisoblanmagan qismi (standart va substandart), % (o‘ng o‘q)', SHARE, '1F4E79')
@@ -27,13 +27,13 @@ PCT = [(c[0], [round(100 * c[1][i] / TOT[i], 1) for i in range(5)], c[2], c[3]) 
 
 
 def chart():
-    xml, rows = W.bar_chart(CATS, PCT, ytitle='3-bosqich kreditlariga nisbatan, %', stacked=True, ymin=0, ymax=100, major=20, label_fmt='0.0', gap=45)
+    xml, rows = W.bar_chart(CATS, PCT, ytitle='%', stacked=True, ymin=0, ymax=100, major=20, label_fmt='0.0', gap=60)
     sers = re.findall(r'<c:ser>.*?</c:ser>', xml, re.S)
     for s_, c in zip(sers, PCT):
         dl = ''.join(f'<c:dLbl><c:idx val="{i}"/><c:delete val="1"/></c:dLbl>' for i, v in enumerate(c[1]) if v < 4)
         if dl:
             xml = xml.replace(s_, s_.replace('<c:dLbls>', '<c:dLbls>' + dl, 1), 1)
-    xml = xml.replace('<c:legendPos val="b"/>', '<c:legendPos val="r"/>')
+    pass
     return xml, rows
 
 
@@ -68,7 +68,7 @@ if __name__ == '__main__':
     par('2.3.4-rasm – 2021–2025-yillar (namuna)', bold=True, align=WD_ALIGN_PARAGRAPH.CENTER)
     q = dd.add_paragraph(); q.alignment = WD_ALIGN_PARAGRAPH.CENTER
     rid = W.add_chart(dd, chart())
-    q._p.append(etree.fromstring(W.chart_run_xml(rid, 16.5, 10.5, '2.3.4-rasm')))
+    q._p.append(etree.fromstring(W.chart_run_xml(rid, 15.0, 7.5, '2.3.4-rasm')))
     par('2.3.4-rasm. “O‘zsanoatqurilishbank” ATB da MHXS 9 bo‘yicha 3-bosqich kreditlarining milliy tasnif toifalari bo‘yicha tarkibi, 2021–2025-yillar, %',
         bold=True, align=WD_ALIGN_PARAGRAPH.CENTER)
     par('Izoh: yillar ostida – 3-bosqich kreditlarining jami summasi, mlrd so‘m.', italic=True, size=12, align=WD_ALIGN_PARAGRAPH.LEFT)
