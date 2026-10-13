@@ -203,4 +203,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 - 2.3.5-rasm: chiziqli diagrammaga almashtirildi (chart21.xml, 16x8,5 sm, yorliqlar ustma-ust tushmaydi, 3 bank + 1,0 chizig‘i), matnda “ikkala bank” → “uch bank” (qizil). Skript: tools/tuz_235.py.
 - 2.3-§: koeffitsiyent bo‘yicha 3 joyda “ikkala bank” → “uchala bank”, xulosada 1,65–3,30 → 1,65–4,90 (qizil). Skript: tools/tuz_uchala.py. 4-bobdagi “ikkala bank” (MBII, 2 bank) o‘zgartirilmadi.
-- Ochiq taklif: (2.2) formulada L_MHXS ta’rifini aniqlashtirish (MKB da FVTPL kreditlar bosqichlarga kirmaydi) – foydalanuvchi hali javob bermadi.
+- (2.2) formula: L_MHXS ta’rifi aniqlashtirildi (bosqichlarga taqsimlangan kreditlar, MKB FVTPL 2021: 2 729,6; 2025: 1 362,7 mlrd), qizil. Skript: tools/tuz_lmhxs.py.
