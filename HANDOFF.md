@@ -200,3 +200,5 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - 2021–2025, 100% ustunlar, yorqin ranglar, jami summalar ustida (tools/namuna_234.py, tuz_234.py); 2021–2023 ma’lumotlari SQB MHXS 2023 (S. 53–55) kesishma jadvallaridan; nom “…, 2021–2025-yillar, %”; snoskaga manba va izoh; matnda besh yillik ulushlar (qizil).
 - 2.3.4-rasm izohi snoskadan rasm nomi ostidagi kursiv qatorga ko‘chirildi (qizil). Qolgan hisob-kitoblar (mezonlar, 2025 kesishma, 5 yillik bosqichlar, o‘tishlar, kredit hajmi solishtirmasi) diss’ga KIRITILMAYDI – maqolada: Maqola_SQB_milliy_va_MHXS9.docx (tools/maqola_sqb.py).
 - SQB_MHXS_2024.txt – bu 30.06.2024 oraliq (auditdan o‘tmagan) hisobot! Yillik 2024 hisoboti: manbalar/bank_mhxs_matn/SQB_MHXS_2024_yillik.txt (sqb.uz). Tekshirildi: 2023 va 2024 kesishma jadvallari va bosqichlararo o‘tishlar 2023 va 2025 hisobotlaridagi qiymatlarga to‘liq mos. Maqola metodologiyasiga shu izoh va [11] manba qo‘shildi.
+
+- 2.3.5-rasm: chiziqli diagrammaga almashtirildi (chart21.xml, 16x8,5 sm, yorliqlar ustma-ust tushmaydi, 3 bank + 1,0 chizig‘i), matnda “ikkala bank” → “uch bank” (qizil). Skript: tools/tuz_235.py.
