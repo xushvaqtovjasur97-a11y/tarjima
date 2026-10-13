@@ -12,6 +12,8 @@
 - Ranglar: yashil – taqrizchi, qizil – kamchiliklar bo‘yicha tuzatishlar, ko‘k (0070C0) – “Aloqabank” qo‘shimchalari; diagrammalar oddiy rangda. Qo‘shtirnoq “…”, shrift Times New Roman.
 - Muallif v3 ga nisbatan kiritgan o‘zgarishlar: titulda “MAXMUDOV OMON TUXTAYEVICH”; Kirishdagi me’yoriy hujjatlar ro‘yxatidan PQ-2344 olib tashlangan; ilmiy-tadqiqot ishlari rejasiga bog‘liqlikda “ilmiy loyiha”; tadqiqot usullaridan “ekspert baholash (…)” olib tashlangan.
 
+- **Kutilayotgan (muallifga eslatish kerak):** “ekspert vaznlari” → “tayanch vaznlar” (o‘z vaznlarimizga oid ~33 joy, adabiyotdagi “ekspert usuli” o‘zgarmaydi); 3.2-§ boshidagi va cheklovlar jumlasida vaznlar “CAMEL nisbati asosida moslashtirilgan” deb yozish; Kirish usullariga “analogiya (CAMEL vaznlariga tayanish) va statistik verifikatsiya”; 3.1-§ da daromadlilik vazni 0,25→0,15 kamaytirilganining asosini (“Uchinchidan…”) qo‘shish. Sabab: “ekspert” so‘zi so‘rovnoma talabini tug‘diradi. Muallif “keyin eslatasan” dedi.
+
 ## Tayyor ishlar
 
 | Fayl | Mazmuni |
