@@ -210,3 +210,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - 3.1.2-jadval: chapda № ustuni (1., 1.1 … 5.2), K1… belgilari saqlandi; ustun kengliklari to‘g‘rilandi; 'Likvidlik blokida…' xatboshisidan keyin chegaralarni asoslovchi yangi xatboshi + inflyatsiya snoskasi (MB byulleteni 1.2-jadval), qizil. Skript: tools/tuz_312j.py.
 - 3.1.2-rasm: chegaralarda ball qiymatlari (1,0–4,0), 'Misol: ikki bank' (8,1%→3,04; 10,4%→3,96); (3.1) formula ikki qatorda, markazda; izohda k = 1, 2, 3, 4; misol gapiga uzluksiz shkala natijasi (qizil). Skript: tools/tuz_312r.py.
 - 3.1.3-jadval: uch manba nomlandi; 'uch jihatda'; 'Uchinchidan…' (daromadlilik 0,25→0,15, kapital/likvidlik) asoslanishi; Asoslash ustuni daromadlilik qatori (qizil). Skript: tools/tuz_313j.py. 'ekspert → tayanch' hali qilinmagan.
+- 3.1.4-jadval: 'Tavsifi' ustuni ballar orqali (qizil). Skript: tools/tuz_314j.py.
