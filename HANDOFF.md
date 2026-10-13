@@ -148,3 +148,9 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Hisob: `manbalar/hisob_kitob/panel33.py` (25 bank, 2021_IV–2025_IV, 421 kuzatuv; panel MBII 8 ko‘rsatkich, 3.1 dagi langarlar – A variant; ln Z-score, 8 chorakli siljuvchi sd), `model33.py` (Pooled/RE/TWFE + Hausman, BP LM; Anderson–Hsiao; davlat ulushi mediatsiyasi; NPL satellit).
 - Asosiy natijalar: davlat banki −0,69*** (yarmi depozit bazasi va NIM orqali); depozit/aktiv va NIM musbat; MBII inersiyasi 0,50 (F=17,2); kredit o‘sishi(t−4) Z-score ni pasaytiradi, milliy NPL ga ta’sir yo‘q; YaIM o‘sishi NPL ni −1,4…−1,9 p.p., stavka +0,7…+1,0 p.p.; Z-score davlat banklari zaifligini ko‘rmaydi.
 - Ochiq: Ipoteka-bank xususiylashtirish choragi (2023_III deb olingan) aniqlashtirilsin.
+
+## Snoskalar: qisqa havolalar to‘liq manbaga (qizil)
+- “Ko‘rsatilgan asar” (252, 253, 255) → Бердияров / Karaliyev to‘liq manbasi.
+- “O‘sha joyda” (272, 277) va “Roadmap”… (254, 256, 267, 271, 274, 276, 278) → yo‘l xaritasining to‘liq nomi (Item 31 tekshirildi – makro stress-test, to‘g‘ri).
+- “IMF Country Report No. 25/145 (25/227), 2025” (259, 262, 266, 267, 269, 270, 273) → to‘liq FSSA / BCP manbasi.
+- Skriptlar: tools/tuz_snoska_ibid.py, tools/tuz_snoska_imf.py (qayta ishga tushirilmasin).
