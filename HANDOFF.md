@@ -202,3 +202,5 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - SQB_MHXS_2024.txt – bu 30.06.2024 oraliq (auditdan o‘tmagan) hisobot! Yillik 2024 hisoboti: manbalar/bank_mhxs_matn/SQB_MHXS_2024_yillik.txt (sqb.uz). Tekshirildi: 2023 va 2024 kesishma jadvallari va bosqichlararo o‘tishlar 2023 va 2025 hisobotlaridagi qiymatlarga to‘liq mos. Maqola metodologiyasiga shu izoh va [11] manba qo‘shildi.
 
 - 2.3.5-rasm: chiziqli diagrammaga almashtirildi (chart21.xml, 16x8,5 sm, yorliqlar ustma-ust tushmaydi, 3 bank + 1,0 chizig‘i), matnda “ikkala bank” → “uch bank” (qizil). Skript: tools/tuz_235.py.
+- 2.3-§: koeffitsiyent bo‘yicha 3 joyda “ikkala bank” → “uchala bank”, xulosada 1,65–3,30 → 1,65–4,90 (qizil). Skript: tools/tuz_uchala.py. 4-bobdagi “ikkala bank” (MBII, 2 bank) o‘zgartirilmadi.
+- Ochiq taklif: (2.2) formulada L_MHXS ta’rifini aniqlashtirish (MKB da FVTPL kreditlar bosqichlarga kirmaydi) – foydalanuvchi hali javob bermadi.
