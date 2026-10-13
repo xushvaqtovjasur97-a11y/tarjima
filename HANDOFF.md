@@ -181,3 +181,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 1.3.1-jadval (kiritildi)
 - BCBS WP4 bo‘yicha: CAMEL (1979)/CAMELS (1997); SEER (1993, avval FIMS), SCOR (1995); RATE (1998–2013); SAABA (1997) – statistik model; PATROL 5 komponent; RAST (1999); snoskaga BCBS WP4 P. 4–5 (tools/tuz_131j.py).
 - 1.3.1-jadval qo‘shimcha: “CAMEL (1978–1979), CAMELS (1997)”, SAABA – “Reyting va statistik-ekspert model” (tools/tuz_131j2.py). Matn o‘zgarmadi (1978 – Tarullo; 25 ta baza – Lavrushin–Mamonova p. 114–115 tasdiqlandi). BAITE izohi kerak emas (muallif).
+
+## Chizmalarda matn sig‘ishi (kiritildi)
+- tools/sigish.py – qutichalarga matn sig‘ishini Liberation Serif (TNR metrik) o‘lchamlari bilan tekshiradi; tools/tuz_sigish.py – har qutida ≥15% zaxira bo‘lishi uchun chizma balandligi oshirildi: 1.1.2 (×1,04), 1.1.7 (×1,08), 1.2.1 (×1,25), 1.2.4 (×1,13), 1.3.1 (×1,12, sarlavha qutichasi kengaytirildi), 1.3.4 (×1,27), 2.1.1 (×1,20), 2.1.2 (×1,12), 2.1.4 (×1,12), 2.3.1 (×1,14), 4.3.1 (×1,02). Qayta ishga tushirilmasin (sigish.py bilan tekshirish mumkin).
+- PRA snoskalarida “July 2023. – P.”; mundarija yangilandi; hajm 237 bet + ilovalar 15 bet.
