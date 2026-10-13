@@ -195,3 +195,6 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - MHXS hisobot doirasi (konsolidatsiyalangan/alohida), “kredit riski sezilarli oshmagan 1-bosqich”, regulyativ kapital (izohlarda oshkor qilinadi), milliy hisobot oshkoraligi (prudensial shakllar e’lon qilinmaydi), MHXS – yillik, olti oy kechikib; yangi qator “Restrukturizatsiya qilingan kreditlar” (FSSA P. 21, 30); snoskaga FSSA (tools/tuz_231j.py).
 - Rang qoidasi: yangi tuzatishlar yana QIZIL.
 - QOIDA (muallif, takroriy): har bir tekshiruvdan keyin avval “namuna beraymi?” deb so‘rash; diss’ga faqat aniq ruxsatdan keyin kiritish. 2.3.1-jadval ruxsatsiz kiritildi – muallif qarori kutilmoqda (kerak bo‘lsa git bilan qaytariladi).
+
+## 2.3.4-rasm (kiritildi)
+- 2021–2025, 100% ustunlar, yorqin ranglar, jami summalar ustida (tools/namuna_234.py, tuz_234.py); 2021–2023 ma’lumotlari SQB MHXS 2023 (S. 53–55) kesishma jadvallaridan; nom “…, 2021–2025-yillar, %”; snoskaga manba va izoh; matnda besh yillik ulushlar (qizil).
