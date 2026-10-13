@@ -135,8 +135,7 @@ def add_after(anchor_sub, text):
     a = [p for p in D.paras() if re.match(r'^\d+\. ', p.text) and anchor_sub in p.text][-1]
     D.new_para_after(a, '0. ' + text, tag='115')
 
-add_after('Revisions to the Large Financial Institution Rating System', 'Board of Governors of the Federal Reserve System, Office of Inspector General. Summary Analysis of Failed Bank Reviews. – Washington, DC, September 2011. – https://oig.federalreserve.gov/reports/Cross_Cutting_Final_Report_9-30-11.pdf.')
-add_after('Summary Analysis of Failed Bank Reviews', 'Board of Governors of the Federal Reserve System, Office of Inspector General. Material Loss Review of Silicon Valley Bank: Report 2023-SR-B-013. – Washington, DC, September 25, 2023.')
+add_after('Revisions to the Large Financial Institution Rating System', 'Board of Governors of the Federal Reserve System, Office of Inspector General. Material Loss Review of Silicon Valley Bank: Report 2023-SR-B-013. – Washington, DC, September 25, 2023.')
 add_after('Federal Deposit Insurance Corporation Improvement Act', 'Federal Deposit Insurance Corporation, Office of Inspector General. Material Loss Review of First Republic Bank: Report EVAL-24-03. – Arlington, VA, November 2023. – https://www.fdicoig.gov/reports-publications/bank-failures.')
 add_after('Cornett M.M., Guo L.', 'Correia S., Luck S., Verner E. Failing Banks // Quarterly Journal of Economics. – 2026. – Vol. 141, No. 1. – P. 147–204.')
 start = False; n = 0
@@ -160,8 +159,4 @@ D.replace(hp, re.search(r'ro‘yxati \d+ ta manbani', hp.text).group(0), f'ro‘
 D.save(F)
 print('pardoz:', pardoz(F))
 
-sys.argv = ['x']
-_src = open('/home/user/tarjima/tools/kam_tuzat.py').read().split('# ---------------- mundarija sahifa raqamlarini yangilash')[1].split("print('mundarija:'")[0]
-exec(_src.split('\n', 1)[1])
-print('mundarija:', mundarija(F), mundarija(F))
 print(len(K.LOG), 'amal')
