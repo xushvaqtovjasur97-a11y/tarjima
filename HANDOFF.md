@@ -185,3 +185,8 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## Chizmalarda matn sig‘ishi (kiritildi)
 - tools/sigish.py – qutichalarga matn sig‘ishini Liberation Serif (TNR metrik) o‘lchamlari bilan tekshiradi; tools/tuz_sigish.py – har qutida ≥15% zaxira bo‘lishi uchun chizma balandligi oshirildi: 1.1.2 (×1,04), 1.1.7 (×1,08), 1.2.1 (×1,25), 1.2.4 (×1,13), 1.3.1 (×1,12, sarlavha qutichasi kengaytirildi), 1.3.4 (×1,27), 2.1.1 (×1,20), 2.1.2 (×1,12), 2.1.4 (×1,12), 2.3.1 (×1,14), 4.3.1 (×1,02). Qayta ishga tushirilmasin (sigish.py bilan tekshirish mumkin).
 - PRA snoskalarida “July 2023. – P.”; mundarija yangilandi; hajm 237 bet + ilovalar 15 bet.
+
+## 2.2-§ qayta tuzildi (kiritildi) va ranglar
+- tools/tuz_22.py, tuz_22b.py: 2.2.2 (SQB), 2.2.3 (MKB), 2.2.4 (Aloqabank) alohida jadvallar va har biri bo‘yicha ikki xatboshili tahlil + uch bankni bog‘lovchi xatboshi; 2.2.5, 2.2.6, 2.2.8-rasmlar (jadvalni takrorlagan) olib tashlandi; 2.2.7 → 2.2.5-rasm; 2.2.3-jadval → 2.2.5-jadval (“Aloqabank” ustuni, “Baho” yangilandi); 2.2.3 va 2.2.4-rasmlar chiziqli (5% erta ogohlantirish, ROA 1% mezon chiziqlari); 2.2-§ boshida “Mikrokreditbank” tizimli bank deb noto‘g‘ri ko‘rsatilgani tuzatildi.
+- 2026-10-13: muallif so‘rovi bilan BARCHA qizil (FF0000) va ko‘k (0070C0) matn qora qilindi (tools/qora.py; chizma/diagramma ranglari va 2.2.5-rasm legendasidagi ━ belgilari o‘zgarmadi). Bundan keyin rang qoidasini muallifdan aniqlashtirish kerak.
+- Mundarija yangilandi; hajm 238 bet + ilovalar 15 bet.
