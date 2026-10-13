@@ -206,3 +206,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - (2.2) formula: L_MHXS ta’rifi aniqlashtirildi (bosqichlarga taqsimlangan kreditlar, MKB FVTPL 2021: 2 729,6; 2025: 1 362,7 mlrd), qizil. Skript: tools/tuz_lmhxs.py.
 - 3.1.1-jadval: 2-qator 1,65–3,30 → 1,65–4,90; 5-qator dalili 2.1-§ ga mos (erta ogohlantirish/tezkor choralar yo‘q), qizil. Skript: tools/tuz_311j.py.
 - 3.1.1-rasm: och fon + to‘q matn (oq yozuvlar ko‘rinmay qolmasligi uchun), 6-qutichada 'K 0,25; A 0,30; L 0,20; D 0,15; V 0,10'. Skript: tools/tuz_311r.py (namuna_311r.py, namuna_311r_rang.py).
+- 3.1.1-jadval: 2,3,4,7-qator dalillari 'tahlil qilingan banklarda' umumlashtirildi (13,5% gacha; 1,4 f.p. gacha; 27,3–30,9%; 5,4–5,7 f.p.), kirish gapiga 'bank tizimi darajasida va tahlil qilingan uchta davlat banki misolida' (qizil). Skript: tools/tuz_311j2.py.
