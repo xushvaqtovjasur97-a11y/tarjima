@@ -173,3 +173,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 ## 1.2.5: rasm → matritsa-jadval (kiritildi)
 - 1.2.5-rasm o‘rniga “standart × blok” 1.2.5-jadval (matn qizil), izoh qatori; matnda “(1.2.5-jadval)”, “Jadvaldan ko‘rinadiki” (tools/tuz_125m.py). Izzi P. 85 (Table 3.9) kitobdan tekshirildi – to‘g‘ri.
+
+## 1.3.1-rasm (kiritildi)
+- Sarlavha “(Bazel qo‘mitasi tasnifi asosida, muallif to‘ldirgan)”, BAITE olib tashlandi, “SEER (avval FIMS)”; matnda “Bazel bank nazorati qo‘mitasi G-10 ning oltita mamlakatida (…)”; snoskaga BCBS WP4, P. 5–6 (Table 1) (tools/tuz_131.py – qayta ishga tushirilmasin).
+- BAITE 1.2.2-jadval (“RATE”) va 1.3.1-jadvaldan (“RATE (1998)”) ham olib tashlandi. Diss’da BAITE qolmadi.
