@@ -190,3 +190,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - tools/tuz_22.py, tuz_22b.py: 2.2.2 (SQB), 2.2.3 (MKB), 2.2.4 (Aloqabank) alohida jadvallar va har biri bo‘yicha ikki xatboshili tahlil + uch bankni bog‘lovchi xatboshi; 2.2.5, 2.2.6, 2.2.8-rasmlar (jadvalni takrorlagan) olib tashlandi; 2.2.7 → 2.2.5-rasm; 2.2.3-jadval → 2.2.5-jadval (“Aloqabank” ustuni, “Baho” yangilandi); 2.2.3 va 2.2.4-rasmlar chiziqli (5% erta ogohlantirish, ROA 1% mezon chiziqlari); 2.2-§ boshida “Mikrokreditbank” tizimli bank deb noto‘g‘ri ko‘rsatilgani tuzatildi.
 - 2026-10-13: muallif so‘rovi bilan BARCHA qizil (FF0000) va ko‘k (0070C0) matn qora qilindi (tools/qora.py; chizma/diagramma ranglari va 2.2.5-rasm legendasidagi ━ belgilari o‘zgarmadi). Bundan keyin rang qoidasini muallifdan aniqlashtirish kerak.
 - Mundarija yangilandi; hajm 238 bet + ilovalar 15 bet.
+
+## 2.3.1-jadval (kiritildi, qizil – muallif tuzatishlarni yana qizilda ko‘rsatishni so‘radi)
+- MHXS hisobot doirasi (konsolidatsiyalangan/alohida), “kredit riski sezilarli oshmagan 1-bosqich”, regulyativ kapital (izohlarda oshkor qilinadi), milliy hisobot oshkoraligi (prudensial shakllar e’lon qilinmaydi), MHXS – yillik, olti oy kechikib; yangi qator “Restrukturizatsiya qilingan kreditlar” (FSSA P. 21, 30); snoskaga FSSA (tools/tuz_231j.py).
+- Rang qoidasi: yangi tuzatishlar yana QIZIL.
