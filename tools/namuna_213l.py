@@ -19,7 +19,7 @@ def chart():
     xml, rows = W.line_table_chart(Y, SER, ytitle='Risk bo‘yicha tortilgan aktivlarga nisbatan, %', ymin=10, ymax=20, major=2, fmt='0.0', w=31750, dtable=False)
     xml = xml.replace('<c:tickLblPos val="none"/>', '<c:tickLblPos val="low"/>', 1)
     sers = re.findall(r'<c:ser>.*?</c:ser>', xml, re.S)
-    for s, (nm, v, col), pos in zip(sers, SER, ('t', 'b')):
+    for s, (nm, v, col), pos in zip(sers, SER, ('t', 't')):
         xml = xml.replace(s, s.replace('<c:cat>', W._dlbls(1050, pos, col, fmt='0.0') + '<c:cat>', 1), 1)
     xml = xml.replace('<c:size val="5"/>', '<c:size val="7"/>')
     xml = xml.replace('</c:plotArea>', '</c:plotArea>' + W._legend('b'), 1)
