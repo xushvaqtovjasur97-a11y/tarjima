@@ -212,5 +212,5 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - 3.1.3-jadval: uch manba nomlandi; 'uch jihatda'; 'Uchinchidan…' (daromadlilik 0,25→0,15, kapital/likvidlik) asoslanishi; Asoslash ustuni daromadlilik qatori (qizil). Skript: tools/tuz_313j.py. 'ekspert → tayanch' hali qilinmagan.
 - 3.1.4-jadval: 'Tavsifi' ustuni ballar orqali (qizil). Skript: tools/tuz_314j.py.
 - 3.1.5-jadval ikkiga bo‘lindi: 3.1.5 (milliy, 3 bank) va 3.1.6 (MHXS, 3 bank) + izohlar, manbalar, tahlil (qizil); eski 3.1.6 → 3.1.7; eski 3.1.3-rasm (bloklar ballari) va uning 2 tahlil xatboshisi o‘chirildi; 3.1.4-rasm → 3.1.3-rasm (sezgirlik, 6 toifa); 3.1-§ xulosasi, 3.3-§ xulosasi, umumiy xulosalar va 4.1-§ dagi havolada “83–86” → “56–86”, Aloqabank qo‘shildi. Hisob: manbalar/hisob_kitob/mbii31_3bank.py (.json). Aloqabank milliy K3 = EQ/TA (12,2). Skript: tools/tuz_315j.py. TOC yangilandi.
-- HAJM: asosiy matn endi 241 bet (bib 245), ilovalar 15; Kirishda 238 deb yozilgan – foydalanuvchidan so‘rash kerak.
+- HAJM: asosiy matn 241 bet (bib 245), ilovalar 15; Kirishda 241 ga tuzatildi (tools/tuz_hajm241.py).
 - Muassasa: 'Denov tadbirkorlik va pedagogika INSTITUTI' (titul va Kirish), qizil. tools/tuz_institut.py
