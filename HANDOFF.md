@@ -14,7 +14,7 @@
 
 - **Qo‘shish navbati (muallif “keyin hammasini birdan qo‘shasan” dedi):**
   1. 1.1.5-rasm (faqat 2021–2025, G-7, 12 bank) – muallif ma’qulladi; `tools/qosh_115.py` bilan qo‘shiladi (9-ilova, 4 manba, hajm/mundarija yangilanadi).
-  2. 1.1.6-rasm: yangi namuna (O‘zbekiston Z-score) RAD ETILDI – 4.1-§ ni takrorlaydi. Muallif “kerak emas” dedi (eski rasm qoladimi yoki olib tashlanadimi – aniqlashtirilmoqda).
+  2. 1.1.6-rasm: Correia, Luck, Verner (QJE 2026) AQSh 1959–2024 AUC – `Namuna_1.1.6-rasm_yangi.docx`, `tools/namuna_116.py`; muallif ko‘rib chiqmoqda (O‘zbekiston Z-score varianti rad etilgan – 4.1-§ ni takrorlaydi). Qo‘shilsa: Chiaramonte & Poli (2014) boshqa joyda keltirilmasa adabiyotlardan olib tashlash.
 - 1.1.5-rasm yangi varianti faqat namuna faylda: `Namuna_1.1.5-rasm_yangi.docx` (2021–2025, G-7, 12 bank). Muallif ko‘rib chiqib ruxsat bermaguncha asosiy faylga QO‘SHILMAYDI; qo‘shish skripti tayyor: `tools/qosh_115.py`.
 - QOIDA: muallif “alohida faylda ber” desa – faqat namuna fayl; asosiy faylga faqat aniq ruxsatdan keyin.
 - **Kutilayotgan (muallifga eslatish kerak):** “ekspert vaznlari” → “tayanch vaznlar” (o‘z vaznlarimizga oid ~33 joy, adabiyotdagi “ekspert usuli” o‘zgarmaydi); 3.2-§ boshidagi va cheklovlar jumlasida vaznlar “CAMEL nisbati asosida moslashtirilgan” deb yozish; Kirish usullariga “analogiya (CAMEL vaznlariga tayanish) va statistik verifikatsiya”; 3.1-§ da daromadlilik vazni 0,25→0,15 kamaytirilganining asosini (“Uchinchidan…”) qo‘shish. Sabab: “ekspert” so‘zi so‘rovnoma talabini tug‘diradi. Muallif “keyin eslatasan” dedi.
