@@ -21,7 +21,7 @@ SMLR = [round(100 * s / (p + n), 2) for s, p, n in zip(SML, PERF, NPL)]
 LO, HI = round(NPLR[-1] * 2, 1), round(NPLR[-1] * 3, 1)    # rasmiy ko‘rsatkichdan 2–3 barobar
 print(SMLR, LO, HI)
 
-CATS = [f'{y}-y. oxiri' for y in Y] + ['Ilmiy baho:\nquyi chegara', 'Ilmiy baho:\nyuqori chegara']
+CATS = list(Y) + ['Ilmiy baho:\nquyi chegara', 'Ilmiy baho:\nyuqori chegara']
 SER = [('Muammoli kreditlar (rasmiy)', NPLR + [None, None], '2A78D6', 'FFFFFF'),
        ('Alohida e’tibor talab qiluvchi kreditlar', SMLR + [None, None], 'FFC000', '000000'),
        ('Muqobil baholar (2025-yil)', [None] * 5 + [LO, HI], 'EB6834', 'FFFFFF')]
