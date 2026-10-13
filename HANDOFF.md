@@ -205,3 +205,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - 2.3-§: koeffitsiyent bo‘yicha 3 joyda “ikkala bank” → “uchala bank”, xulosada 1,65–3,30 → 1,65–4,90 (qizil). Skript: tools/tuz_uchala.py. 4-bobdagi “ikkala bank” (MBII, 2 bank) o‘zgartirilmadi.
 - (2.2) formula: L_MHXS ta’rifi aniqlashtirildi (bosqichlarga taqsimlangan kreditlar, MKB FVTPL 2021: 2 729,6; 2025: 1 362,7 mlrd), qizil. Skript: tools/tuz_lmhxs.py.
 - 3.1.1-jadval: 2-qator 1,65–3,30 → 1,65–4,90; 5-qator dalili 2.1-§ ga mos (erta ogohlantirish/tezkor choralar yo‘q), qizil. Skript: tools/tuz_311j.py.
+- 3.1.1-rasm: och fon + to‘q matn (oq yozuvlar ko‘rinmay qolmasligi uchun), 6-qutichada 'K 0,25; A 0,30; L 0,20; D 0,15; V 0,10'. Skript: tools/tuz_311r.py (namuna_311r.py, namuna_311r_rang.py).
