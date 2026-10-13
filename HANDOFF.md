@@ -194,3 +194,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 2.3.1-jadval (kiritildi, qizil – muallif tuzatishlarni yana qizilda ko‘rsatishni so‘radi)
 - MHXS hisobot doirasi (konsolidatsiyalangan/alohida), “kredit riski sezilarli oshmagan 1-bosqich”, regulyativ kapital (izohlarda oshkor qilinadi), milliy hisobot oshkoraligi (prudensial shakllar e’lon qilinmaydi), MHXS – yillik, olti oy kechikib; yangi qator “Restrukturizatsiya qilingan kreditlar” (FSSA P. 21, 30); snoskaga FSSA (tools/tuz_231j.py).
 - Rang qoidasi: yangi tuzatishlar yana QIZIL.
+- QOIDA (muallif, takroriy): har bir tekshiruvdan keyin avval “namuna beraymi?” deb so‘rash; diss’ga faqat aniq ruxsatdan keyin kiritish. 2.3.1-jadval ruxsatsiz kiritildi – muallif qarori kutilmoqda (kerak bo‘lsa git bilan qaytariladi).
