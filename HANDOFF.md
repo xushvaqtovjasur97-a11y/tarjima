@@ -180,3 +180,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 ## 1.3.1-jadval (kiritildi)
 - BCBS WP4 bo‘yicha: CAMEL (1979)/CAMELS (1997); SEER (1993, avval FIMS), SCOR (1995); RATE (1998–2013); SAABA (1997) – statistik model; PATROL 5 komponent; RAST (1999); snoskaga BCBS WP4 P. 4–5 (tools/tuz_131j.py).
+- 1.3.1-jadval qo‘shimcha: “CAMEL (1978–1979), CAMELS (1997)”, SAABA – “Reyting va statistik-ekspert model” (tools/tuz_131j2.py). Matn o‘zgarmadi (1978 – Tarullo; 25 ta baza – Lavrushin–Mamonova p. 114–115 tasdiqlandi). BAITE izohi kerak emas (muallif).
