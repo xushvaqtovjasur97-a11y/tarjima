@@ -170,3 +170,6 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 2.2.2-rasm (kiritildi)
 - Chiziqli diagramma + 13% minimum (tools/tuz_222.py); 2.1-§ “Amaldagi baholash tizimi natijalariga…” xatboshisi qisqartirildi (2.2-§ ga havola); 2.2-§ ga rasm tahlili jumlasi, stress-test – 2.1.3-rasmga havola; rasm manbasiga 2693-son nizom qo‘shildi.
 - Mundarija yangilandi; hajm: asosiy matn 236 bet, ilovalar 15 bet.
+
+## 1.2.5: rasm → matritsa-jadval (kiritildi)
+- 1.2.5-rasm o‘rniga “standart × blok” 1.2.5-jadval (matn qizil), izoh qatori; matnda “(1.2.5-jadval)”, “Jadvaldan ko‘rinadiki” (tools/tuz_125m.py). Izzi P. 85 (Table 3.9) kitobdan tekshirildi – to‘g‘ri.
