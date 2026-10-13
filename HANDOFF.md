@@ -20,6 +20,7 @@
 - 2026-10-13: asosiy faylga kiritildi: 2.1.1-rasm – likvidlik qutichasi “(№ 2709: LCR; NSFR – monitoring)”, № 2696, kontrsiklik bufer № 3697, “Risklarga asoslangan nazorat” qutichasi shrifti −1 pt; qisqa snoska; matnda nizom raqamlari va NSFR holati (qizil) (`tools/tuz_211.py`).
 - 2026-10-13: asosiy faylga kiritildi: 2.1.2-rasm “NSFR – monitoring” (oddiy rang), snoska standartlashtirildi, 2.1.1-jadval NSFR qatori (qizil) (`tools/tuz_212.py`).
 - 2026-10-13: asosiy faylga kiritildi: 2.1.1-jadvalga I darajali kapital monandligi (K2) qatori (3697-son nizom 105-band) qizil rangda (`tools/tuz_211j.py`).
+- 2026-10-13: asosiy faylga kiritildi: 2.1.4-rasm “Regulyativ minimum (2026-yildan, buferlar bilan)” 8,5 va 12; rasm snoskalari standart ifodaga keltirildi (“Tadqiqot natijasida muallif tomonidan …”) (`tools/tuz_213.py`).
 - QOIDA: muallif “alohida faylda ber” desa – faqat namuna fayl; asosiy faylga faqat aniq ruxsatdan keyin.
 - **Kutilayotgan (muallifga eslatish kerak):** “ekspert vaznlari” → “tayanch vaznlar” (o‘z vaznlarimizga oid ~33 joy, adabiyotdagi “ekspert usuli” o‘zgarmaydi); 3.2-§ boshidagi va cheklovlar jumlasida vaznlar “CAMEL nisbati asosida moslashtirilgan” deb yozish; Kirish usullariga “analogiya (CAMEL vaznlariga tayanish) va statistik verifikatsiya”; 3.1-§ da daromadlilik vazni 0,25→0,15 kamaytirilganining asosini (“Uchinchidan…”) qo‘shish. Sabab: “ekspert” so‘zi so‘rovnoma talabini tug‘diradi. Muallif “keyin eslatasan” dedi.
 
