@@ -27,10 +27,14 @@ PCT = [(c[0], [round(100 * c[1][i] / TOT[i], 1) for i in range(5)], c[2], c[3]) 
 
 
 def chart():
-    xml, rows = W.bar_chart(CATS, PCT, ytitle='%', stacked=True, ymin=0, ymax=100, major=20, label_fmt='0.0', gap=60)
+    xml, rows = W.bar_chart(CATS, PCT, ytitle='%', stacked=True, ymin=0, ymax=105, major=20, label_fmt='0.0', gap=60)
     sers = re.findall(r'<c:ser>.*?</c:ser>', xml, re.S)
     for s_, c in zip(sers, PCT):
-        dl = ''.join(f'<c:dLbl><c:idx val="{i}"/><c:delete val="1"/></c:dLbl>' for i, v in enumerate(c[1]) if v < 4)
+        dl = ''.join(f'<c:dLbl><c:idx val="{i}"/><c:layout><c:manualLayout><c:x val="0"/><c:y val="-0.045"/></c:manualLayout></c:layout>'
+                     f'<c:numFmt formatCode="0.0" sourceLinked="0"/><c:spPr><a:noFill/><a:ln><a:noFill/></a:ln></c:spPr>'
+                     f'<c:txPr><a:bodyPr/><a:lstStyle/><a:p><a:pPr>{W._rpr(1050, True, "000000")}</a:pPr><a:endParaRPr lang="uz-Latn-UZ"/></a:p></c:txPr>'
+                     f'<c:dLblPos val="ctr"/><c:showLegendKey val="0"/><c:showVal val="1"/><c:showCatName val="0"/><c:showSerName val="0"/>'
+                     f'<c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbl>' for i, v in enumerate(c[1]) if v < 4)
         if dl:
             xml = xml.replace(s_, s_.replace('<c:dLbls>', '<c:dLbls>' + dl, 1), 1)
     pass
