@@ -158,3 +158,7 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 2.2.1-rasm (kiritildi)
 - Diagramma chiziqli shaklga o‘tkazildi (tools/tuz_221.py, namuna_221l.py); ma’lumotlar bul2603.xlsx 5.1.2-jadval bilan tekshirildi.
 - 285, 286-snoskalar: manba “Statistik byulleten: 2026-yil mart. – 5.1.2-jadval” ga aniqlashtirildi (qizil).
+
+## 2.2.1-jadval (kiritildi)
+- Sarlavhadan “yil oxiriga” olib tashlandi; ROA 2021 1,4→1,3 (jadval, matn, 2.2.4-rasm); 2024: zaxiralar/NPL 45,5→45,4, depozitlar/kreditlar 53,6→53,5 (tools/tuz_221j.py).
+- 2023 substandart+NPL 19,5 to‘g‘ri (CBU Annual Report 2023, p. 57: 16% + 3,5%) – o‘zgartirilmadi.
