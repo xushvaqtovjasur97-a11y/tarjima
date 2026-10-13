@@ -4,6 +4,14 @@
 
 **Tarmoq:** `claude/awesome-archimedes-fqf08d`
 
+## ASOSIY ISHCHI FAYL (2026-10-13 dan)
+
+`Dissertatsiya_Maxmudov_O.T_asosiy.docx` – muallif o‘zi tahrirlab yuborgan yagona asosiy fayl. Bundan keyingi barcha o‘zgarishlar **shu faylning o‘ziga** kiritiladi (nusxa → tahrir → saqlash).
+- `tools/kam_tuzat.py` va `tools/aloqa_qosh.py` taqrizchi faylidan v2/v3 ni qaytadan yig‘adi – ularni qayta ishga tushirish muallifning qo‘lda kiritgan tuzatishlarini yo‘qotadi; endi ishlatilmaydi (faqat tarix uchun). Tahrirlar uchun `tools/kamlib.py` (`Doc`) va `tools/pardoz.py` dan foydalaniladi.
+- v2, v3 va eski `Dissertatsiya_Maxmudov_O.T.docx` – oraliq versiyalar, foydalanuvchiga qayta berilmaydi.
+- Ranglar: yashil – taqrizchi, qizil – kamchiliklar bo‘yicha tuzatishlar, ko‘k (0070C0) – “Aloqabank” qo‘shimchalari; diagrammalar oddiy rangda. Qo‘shtirnoq “…”, shrift Times New Roman.
+- Muallif v3 ga nisbatan kiritgan o‘zgarishlar: titulda “MAXMUDOV OMON TUXTAYEVICH”; Kirishdagi me’yoriy hujjatlar ro‘yxatidan PQ-2344 olib tashlangan; ilmiy-tadqiqot ishlari rejasiga bog‘liqlikda “ilmiy loyiha”; tadqiqot usullaridan “ekspert baholash (…)” olib tashlangan.
+
 ## Tayyor ishlar
 
 | Fayl | Mazmuni |
