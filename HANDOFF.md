@@ -177,3 +177,6 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 ## 1.3.1-rasm (kiritildi)
 - Sarlavha “(Bazel qo‘mitasi tasnifi asosida, muallif to‘ldirgan)”, BAITE olib tashlandi, “SEER (avval FIMS)”; matnda “Bazel bank nazorati qo‘mitasi G-10 ning oltita mamlakatida (…)”; snoskaga BCBS WP4, P. 5–6 (Table 1) (tools/tuz_131.py – qayta ishga tushirilmasin).
 - BAITE 1.2.2-jadval (“RATE”) va 1.3.1-jadvaldan (“RATE (1998)”) ham olib tashlandi. Diss’da BAITE qolmadi.
+
+## 1.3.1-jadval (kiritildi)
+- BCBS WP4 bo‘yicha: CAMEL (1979)/CAMELS (1997); SEER (1993, avval FIMS), SCOR (1995); RATE (1998–2013); SAABA (1997) – statistik model; PATROL 5 komponent; RAST (1999); snoskaga BCBS WP4 P. 4–5 (tools/tuz_131j.py).
