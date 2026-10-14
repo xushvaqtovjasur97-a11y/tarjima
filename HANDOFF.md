@@ -231,3 +231,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Yangi 3.1.3-rasm: uch bank MBII 2021–2025 (milliy va MHXS), sonlar jadvali, izoh, tahlil; eski 3.1.3 → 3.1.4 (qizil) — tools/tuz_313r.py, ma’lumot: manbalar/hisob_kitob/mbii31_dyn3.json. Hajm 243 bet (tools/tuz_hajm243.py), mundarija yangilandi.
 - 3.2.1-jadval: entropiya va logit qatorlari aniqlashtirildi, 3.3/4.1 havolasi, 0,31 → 0,30 (qizil) — tools/tuz_321j.py.
 - 3.2.2-jadval izohi (logit likvidlik vazni sababi) va 428-izohga 2022–2024 hisobotlari; 3.2.1-rasm takror bo‘lgani uchun olib tashlandi, tahlil jadvalga bog‘landi, 3.2.2→3.2.1, 3.2.3→3.2.2 (qizil) — tools/tuz_322j.py. Hajm 242 bet (tools/tuz_hajm242b.py).
+- Adabiyotlar ro‘yxatiga 11 ta MHXS hisoboti (qizil), 197 → 208 manba; 3.2.2-jadval izohi umumiy shaklda; Kirishda manbalar soni 208 — tools/tuz_adab11.py.
