@@ -223,3 +223,5 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Foydalanuvchi so‘rovi: bog‘lanmagan joylar, yarim qolgan jumlalar, “:”/“;” bilan uzilgan gaplarni tuzatish, gap va tahlillarni bir-biriga bog‘lash; o‘zgarishlar qizil.
 - Har bob to‘liq o‘qilib (Kirish, I–IV bob, Xulosa), 89 ta minimal tahrir kiritildi: tools/tuz_boglash.py (tahrirlar ro‘yxati tools/boglash_tahrirlar/edits_*.json; ishga tushirish: python3 tools/tuz_boglash.py tools/boglash_tahrirlar/). Faqat o‘zgargan qism qizil.
 - Hajm: adabiyotlar 246-betga surildi → asosiy matn 242 bet (tools/tuz_hajm242.py), mundarija yangilandi.
+
+- 1.2.3-rasm: o‘q nomi, legenda, pog‘ona foizlari, vergulli x qiymatlari; 183-xatboshiga kontrsiklik bufer izohi (qizil) — tools/tuz_123r.py. Hajm o‘zgarmadi (242 bet).
