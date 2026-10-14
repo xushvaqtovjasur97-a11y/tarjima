@@ -226,3 +226,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 - 1.2.3-rasm: o‘q nomi, legenda, pog‘ona foizlari, vergulli x qiymatlari; 183-xatboshiga kontrsiklik bufer izohi (qizil) — tools/tuz_123r.py. Hajm o‘zgarmadi (242 bet).
 - Yashirin kredit riski: (2.3) tuzatish formulasi va izohi 2.3-§ ga, 2.3.2-jadvalga koeffitsiyent qatori, 4.3-§ ga havola (qizil) — tools/tuz_ykr.py. Hajm 242 bet.
+- Barcha yashil fon (highlight) belgilari olib tashlandi (50 ta) — tools/tuz_yashil_fon.py.
