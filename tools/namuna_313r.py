@@ -17,7 +17,7 @@ SER = []
 for k, nm, col in BANK:
     for var, lab, dash in (('milliy', 'milliy hisobot', None), ('MHXS', 'MHXS', 'dash')):
         SER.append((f'{nm}: {lab}', [round(J[f'{k} {var}'][y]['mbii'], 2) for y in Y], col, dash))
-GR = [('I sinf chegarasi', [3.25] * 5, 'A6A6A6', 'sysDash'), ('III sinf chegarasi', [2.5] * 5, 'A6A6A6', 'sysDash')]
+GR = [('I va II sinflar chegarasi', [3.25] * 5, 'C00000', 'sysDash'), ('II va III sinflar chegarasi', [2.5] * 5, 'C00000', 'sysDash')]
 CAP = '3.1.3-rasm. Uch bankda moliyaviy barqarorlikning integral indeksi: milliy hisobot va MHXS asosida, 2021–2025-yillar, ball'
 LEAD = ('2025-yilda aniqlangan tafovut bir yillik holat emasligini tekshirish uchun integral indeks uchala bank bo‘yicha '
         '2021–2025-yillar uchun ham ikki variantda hisoblandi (3.1.3-rasm).')
@@ -30,12 +30,12 @@ ANAL = ('Rasmdan ko‘rinib turibdiki, MHXS ma’lumotlari asosidagi indeks ucha
         'integral indeksdagi aksidir.')
 FN = ('Tadqiqot natijasida muallif tomonidan banklarning Markaziy bankka taqdim etilgan prudensial hisobot shakllari va MHXS bo‘yicha '
       'moliyaviy hisobotlari asosida hisoblandi.')
-IZOH = 'Izoh: uzluksiz chiziq – milliy hisobot, uzuq chiziq – MHXS; kulrang chiziqlar – I va II sinflar (3,25 ball) hamda II va III sinflar (2,50 ball) chegaralari.'
+IZOH = 'Izoh: uzluksiz chiziq – milliy hisobot, uzuq chiziq – MHXS; qizil chiziqlar – I va II sinflar (3,25 ball) hamda II va III sinflar (2,50 ball) chegaralari.'
 
 
 def _lastlbl(text):
-    return (f'<c:dLbls><c:dLbl><c:idx val="4"/><c:tx><c:rich><a:bodyPr/><a:lstStyle/><a:p><a:pPr>{W._rpr(900, False, "7F7F7F")}</a:pPr>'
-            f'<a:r><a:rPr lang="uz-Latn-UZ" sz="900" b="0"><a:solidFill><a:srgbClr val="7F7F7F"/></a:solidFill>'
+    return (f'<c:dLbls><c:dLbl><c:idx val="4"/><c:tx><c:rich><a:bodyPr/><a:lstStyle/><a:p><a:pPr>{W._rpr(1050, True, "C00000")}</a:pPr>'
+            f'<a:r><a:rPr lang="uz-Latn-UZ" sz="1050" b="1"><a:solidFill><a:srgbClr val="C00000"/></a:solidFill>'
             f'<a:latin typeface="Times New Roman"/><a:cs typeface="Times New Roman"/></a:rPr><a:t>{text}</a:t></a:r></a:p></c:rich></c:tx>'
             '<c:spPr><a:noFill/><a:ln><a:noFill/></a:ln></c:spPr><c:dLblPos val="r"/><c:showLegendKey val="0"/><c:showVal val="1"/>'
             '<c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbl>'
@@ -44,13 +44,13 @@ def _lastlbl(text):
 
 def chart():
     xml, rows = W.line_table_chart(Y, SER + GR, ytitle='ball', ymin=2.0, ymax=3.75, major=0.25, fmt='0.00', w=28575, dtable=False,
-                                   layout=(0.11, 0.04, 0.78, 0.84))
+                                   layout=(0.11, 0.04, 0.70, 0.84))
     xml = xml.replace('<c:tickLblPos val="none"/>', '<c:tickLblPos val="low"/>', 1)
     xml = xml.replace('<c:numFmt formatCode="0" sourceLinked="0"/>', '<c:numFmt formatCode="0.00" sourceLinked="0"/>', 1)
     sers = re.findall(r'<c:ser>.*?</c:ser>', xml, re.S)
-    for s, t in zip(sers[6:], ['3,25', '2,50']):
+    for s, t in zip(sers[6:], ['3,25 (I/II)', '2,50 (II/III)']):
         ns = re.sub(r'<c:marker>.*?</c:marker>', '<c:marker><c:symbol val="none"/></c:marker>', s, flags=re.S)
-        ns = ns.replace('<c:cat>', _lastlbl(t) + '<c:cat>', 1).replace('w="28575"', 'w="12700"')
+        ns = ns.replace('<c:cat>', _lastlbl(t) + '<c:cat>', 1).replace('w="28575"', 'w="19050"')
         xml = xml.replace(s, ns, 1)
     return xml, rows
 
