@@ -228,3 +228,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Yashirin kredit riski: (2.3) tuzatish formulasi va izohi 2.3-§ ga, 2.3.2-jadvalga koeffitsiyent qatori, 4.3-§ ga havola (qizil) — tools/tuz_ykr.py. Hajm 242 bet.
 - Barcha yashil fon (highlight) belgilari olib tashlandi (50 ta) — tools/tuz_yashil_fon.py.
 - 2.3.7-rasm: tafovut zanjiri tartibi, bloklar rangi, vergulli yorliqlar; 366-izohda “2.3.2- va 2.3.4-jadvallar” (qizil) — tools/tuz_237r.py. Hajm 242 bet.
+- Yangi 3.1.3-rasm: uch bank MBII 2021–2025 (milliy va MHXS), sonlar jadvali, izoh, tahlil; eski 3.1.3 → 3.1.4 (qizil) — tools/tuz_313r.py, ma’lumot: manbalar/hisob_kitob/mbii31_dyn3.json. Hajm 243 bet (tools/tuz_hajm243.py), mundarija yangilandi.
