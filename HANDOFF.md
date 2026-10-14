@@ -235,3 +235,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - 3.2.3-jadval: sarlavha, umumiy izoh, AUC oralig‘i, logit izohi (qizil) — tools/tuz_323j.py.
 - 3.2.3-jadval: “Aloqabank” (tanlanmadan tashqari) qatori, izoh, tahlil; nomi “Tanlangan banklarning…”; 3,248 talqini (qizil) — tools/tuz_323alq.py.
 - 3.2.1-rasm (Monte-Karlo): vergulli yorliqlar, qisqartmalar izohi, umumiy izoh, Dirixle parametri, sezgir banklar (qizil) — tools/tuz_321mc.py.
+- 3.2.4-jadval: nomi (2021–2024 kuzatuvlari), izoh (panel, 8 ko‘rsatkich, hodisalar oynasi), keyingi xatboshi “tayanch vaznli indeks” (qizil) — tools/tuz_324j.py.
