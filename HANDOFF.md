@@ -234,3 +234,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Adabiyotlar ro‘yxatiga 11 ta MHXS hisoboti (qizil), 197 → 208 manba; 3.2.2-jadval izohi umumiy shaklda; Kirishda manbalar soni 208 — tools/tuz_adab11.py.
 - 3.2.3-jadval: sarlavha, umumiy izoh, AUC oralig‘i, logit izohi (qizil) — tools/tuz_323j.py.
 - 3.2.3-jadval: “Aloqabank” (tanlanmadan tashqari) qatori, izoh, tahlil; nomi “Tanlangan banklarning…”; 3,248 talqini (qizil) — tools/tuz_323alq.py.
+- 3.2.1-rasm (Monte-Karlo): vergulli yorliqlar, qisqartmalar izohi, umumiy izoh, Dirixle parametri, sezgir banklar (qizil) — tools/tuz_321mc.py.
