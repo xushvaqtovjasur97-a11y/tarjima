@@ -243,3 +243,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 
 - Ikki nuqta bilan bog‘lanmay qolgan 16 joy mantiqan bog‘landi (ko‘k rangda, `tools/tuz_ikkinuqta.py`); hajm 244 bet saqlandi.
 - 3.1.7-jadval aniqlashtirildi (Taqqoslash mezoni; XVJ qatorlari; yangi “Vaznlar” va “Boshqaruv sifati” qatorlari; MBII choralari zonalar bilan), izohda Lavrushin 2011 → 4336-U, keyingi xatboshida 3.2-§ ga havola (`tools/tuz_317j.py`, qizil). Hajm 245 bet.
+- 3.2.1-jadval aniqlashtirildi: C. Shannon, ko‘rsatkich vaznlarini bloklarga jamlash, PCA vazni formulasi, logitda K va V tayanch vaznlari (`tools/tuz_321j_aniq.py`, qizil). Jadval izohi (419) avvaldan mavjud – yangi izoh qo‘shilmadi.
