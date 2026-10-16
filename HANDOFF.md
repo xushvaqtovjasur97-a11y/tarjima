@@ -239,3 +239,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - MBII-13/MBII-8 belgilari 3.2-§ da kiritildi, 3.3-§ da havola, sinf chegaralari va 3.2.4 izohida (qizil) — tools/tuz_mbii8.py.
 - Hajm 243 bet (MBII-8 ta’rifidan keyin), mundarija yangilandi.
 - 3.2.2-rasm: yorliqsiz chiziqlar, sinf chegaralari, ostida sonlar jadvali va izoh; 3.2-§ sinf chegaralari (teng oraliqlar) va MBII-13 tekshiruvi (qizil) — tools/tuz_322r_sinf.py, manbalar/hisob_kitob/sinf_mbii13.py. Hajm 244 bet.
+- Nuqtali vergul bilan ulangan mustaqil gaplar bog‘landi (16 joy, KO‘K rangda 0070C0) — tools/tuz_nuqtavergul.py.
