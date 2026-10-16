@@ -15,9 +15,9 @@ SER = [('Substandart va muammoli kreditlar', [12.5, 15.9, 19.5, 21.0, 15.0], '70
        ('Muammoli kreditlar, davlat ulushi mavjud banklar', [5.4, 3.9, 4.0, 3.9, 3.2], 'EB6834', None),
        ('Muammoli kreditlar, jami', [5.2, 3.6, 3.5, 4.0, 3.0], '2A78D6', None),
        ('Muammoli kreditlar, boshqa banklar', [4.1, 2.1, 2.4, 4.1, 2.6], '70AD47', None)]
-GR = [('Erta ogohlantirish chegarasi (5 %)', [5.0] * 5, 'C00000', 'sysDash')]
+GR = [('Erta ogohlantirish chegarasi (5 %)', [5.0] * 5, 'FF0000', None)]
 CAP = '2.2.3-rasm. O‘zbekiston bank tizimida aktivlar sifati ko‘rsatkichlari, %'
-IZOH = 'Izoh: diagramma ostidagi jadvalda ko‘rsatkichlarning yil oxiridagi qiymatlari, foizda; qizil uzuq chiziq – 5 foizlik erta ogohlantirish chegarasi.'
+IZOH = 'Izoh: diagramma ostidagi jadvalda ko‘rsatkichlarning yil oxiridagi qiymatlari, foizda; qizil chiziq – 5 foizlik erta ogohlantirish chegarasi.'
 
 
 def _lbls(color, pos='t'):
@@ -35,7 +35,14 @@ def chart():
     # yuqori chiziq (12–21 %) – raqamlar nuqtalar ustida
     xml = xml.replace(sers[0], sers[0].replace('<c:cat>', _lbls('7030A0') + '<c:cat>', 1), 1)
     # chegara chizig‘i – marker yo‘q, ingichka
-    ns = re.sub(r'<c:marker>.*?</c:marker>', '<c:marker><c:symbol val="none"/></c:marker>', sers[-1], flags=re.S).replace('w="28575"', 'w="19050"')
+    ns = re.sub(r'<c:marker>.*?</c:marker>', '<c:marker><c:symbol val="none"/></c:marker>', sers[-1], flags=re.S).replace('w="28575"', 'w="34925"')
+    lab = ('<c:dLbls><c:dLbl><c:idx val="2"/><c:tx><c:rich><a:bodyPr wrap="none"/><a:lstStyle/><a:p><a:pPr>' + W._rpr(1100, True, 'FF0000') + '</a:pPr>'
+           '<a:r><a:rPr lang="uz-Latn-UZ" sz="1100" b="1"><a:solidFill><a:srgbClr val="FF0000"/></a:solidFill>'
+           '<a:latin typeface="Times New Roman"/><a:cs typeface="Times New Roman"/></a:rPr><a:t>Erta ogohlantirish chegarasi (5 %)</a:t></a:r></a:p></c:rich></c:tx>'
+           '<c:spPr><a:noFill/><a:ln><a:noFill/></a:ln></c:spPr><c:dLblPos val="t"/><c:showLegendKey val="0"/><c:showVal val="1"/>'
+           '<c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbl>'
+           '<c:showLegendKey val="0"/><c:showVal val="0"/><c:showCatName val="0"/><c:showSerName val="0"/><c:showPercent val="0"/><c:showBubbleSize val="0"/></c:dLbls>')
+    ns = ns.replace('<c:cat>', lab + '<c:cat>', 1)
     xml = xml.replace(sers[-1], ns, 1)
     return xml, rows
 
