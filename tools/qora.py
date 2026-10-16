@@ -20,11 +20,22 @@ def in_drawing(e):
     return False
 
 
+KEY = set('━╍─═■●▲◆ ')          # jadvallardagi chiziq belgilari (legenda) – rangi saqlanadi
+
+
+def is_key(c):
+    r = c.getparent().getparent() if c.getparent() is not None else None
+    if r is None or r.tag != qn('w:r'):
+        return False
+    t = ''.join(x.text or '' for x in r.iter(qn('w:t'))).strip()
+    return bool(t) and set(t) <= KEY
+
+
 def clean(root):
     n = 0; other = collections.Counter()
     for c in list(root.iter(qn('w:color'))):
         v = (c.get(qn('w:val')) or '').upper()
-        if v in COLS and not in_drawing(c):
+        if v in COLS and not in_drawing(c) and not is_key(c):
             c.getparent().remove(c); n += 1
         elif v not in ('', 'AUTO', '000000') and not in_drawing(c):
             other[v] += 1
