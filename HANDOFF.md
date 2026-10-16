@@ -242,3 +242,4 @@ cbu.uz, lex.uz, natlib.uz, library.ziyonet.uz, ebook.tsue.uz, sqb.uz, mkbank.uz 
 - Nuqtali vergul bilan ulangan mustaqil gaplar bog‘landi (16 joy, KO‘K rangda 0070C0) — tools/tuz_nuqtavergul.py.
 
 - Ikki nuqta bilan bog‘lanmay qolgan 16 joy mantiqan bog‘landi (ko‘k rangda, `tools/tuz_ikkinuqta.py`); hajm 244 bet saqlandi.
+- 3.1.7-jadval aniqlashtirildi (Taqqoslash mezoni; XVJ qatorlari; yangi “Vaznlar” va “Boshqaruv sifati” qatorlari; MBII choralari zonalar bilan), izohda Lavrushin 2011 → 4336-U, keyingi xatboshida 3.2-§ ga havola (`tools/tuz_317j.py`, qizil). Hajm 245 bet.
