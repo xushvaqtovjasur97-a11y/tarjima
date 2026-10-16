@@ -1,0 +1,72 @@
+[
+ {
+  "type": "para",
+  "p": 591,
+  "old": "zarar sifatida yo‘qotishi muammo hodisasi",
+  "new": "zarar sifatida yo‘qotishi, muammo hodisasi",
+  "why": "“ya’ni” bilan kelgan izohlovchi bo‘lak ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 595,
+  "old": "ya’ni 8,4 foizi muammo",
+  "new": "ya’ni 8,4 foizi, muammo",
+  "why": "“ya’ni” bilan kelgan izohlovchi bo‘lak ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 599,
+  "old": "muammo manbasini",
+  "new": "muammo manbaini",
+  "why": "“manba” so‘zining egalik shakli “manbai” (matnning o‘zida ham “asosiy manbai”)"
+ },
+ {
+  "type": "para",
+  "p": 616,
+  "old": "o‘zaro bog‘liq va to‘rt",
+  "new": "o‘zaro bog‘liq bo‘lgani va to‘rt",
+  "why": "“sababli” bilan bog‘langan uyushiq qismda sifatdosh shakli tushib qolgan"
+ },
+ {
+  "type": "para",
+  "p": 616,
+  "old": "0,65–0,96 ni tashkil etib kengaydi",
+  "new": "0,65–0,96 ni tashkil etib, kengaydi",
+  "why": "ravishdosh oboroti vergul bilan ajratiladi (matndagi “tashkil etib,” qo‘llanishiga mos)"
+ },
+ {
+  "type": "para",
+  "p": 630,
+  "old": "zaiflik manbasiga",
+  "new": "zaiflik manbaiga",
+  "why": "“manba” so‘zining egalik shakli “manbai”"
+ },
+ {
+  "type": "para",
+  "p": 632,
+  "old": "yetarlicha jiddiy, biroq",
+  "new": "yetarlicha jiddiy bo‘lishi, biroq",
+  "why": "kesim shakli tushib qolgan: inkor “bo‘lmasligi” ikkala qismga tegishli bo‘lib, ma’no buziladi"
+ },
+ {
+  "type": "para",
+  "p": 636,
+  "old": "so‘m kursi va inflyatsiya alohida",
+  "new": "so‘m kursi va inflyatsiya, alohida",
+  "why": "“ya’ni” bilan kelgan izohlovchi bo‘lak ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 666,
+  "old": "Milliy hisobot ma’lumotlariga ko‘ra “O‘z",
+  "new": "Milliy hisobot ma’lumotlariga ko‘ra, “O‘z",
+  "why": "gap boshidagi kirish birikmasi (“...ga ko‘ra”) vergul bilan ajratiladi (matndagi boshqa holatlarga mos)"
+ },
+ {
+  "type": "para",
+  "p": 670,
+  "old": "chiqarish bo‘yicha qarorlar o‘zgarmagan",
+  "new": "chiqarish bo‘yicha qarorlar, o‘zgarmagan",
+  "why": "“jumladan” bilan kelgan izohlovchi bo‘lak ikki tomondan vergul bilan ajratiladi"
+ }
+]

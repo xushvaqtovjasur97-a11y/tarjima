@@ -1,0 +1,100 @@
+[
+ {
+  "type": "para",
+  "p": 49,
+  "old": "institutlarini nazorat reytinglari",
+  "new": "institutlarining nazorat reytinglari",
+  "why": "Kelishik xatosi: tushum emas, qaratqich kelishigi kerak (institutlarining nazorat reytinglari tizimi)"
+ },
+ {
+  "type": "para",
+  "p": 90,
+  "old": "taklifi “O‘zsanoatqurilishbank”",
+  "new": "taklifidan “O‘zsanoatqurilishbank”",
+  "why": "“foydalanilmoq” fe’li chiqish kelishigini talab qiladi: taklifidan … foydalanilgan"
+ },
+ {
+  "type": "para",
+  "p": 91,
+  "old": "taklifi “O‘zsanoatqurilishbank”",
+  "new": "taklifidan “O‘zsanoatqurilishbank”",
+  "why": "“foydalanilmoq” fe’li chiqish kelishigini talab qiladi: taklifidan … foydalanilgan"
+ },
+ {
+  "type": "para",
+  "p": 92,
+  "old": "taklifi “O‘zsanoatqurilishbank”",
+  "new": "taklifidan “O‘zsanoatqurilishbank”",
+  "why": "“foydalanilmoq” fe’li chiqish kelishigini talab qiladi: taklifidan … foydalanilgan"
+ },
+ {
+  "type": "para",
+  "p": 93,
+  "old": "taklifi “O‘zsanoatqurilishbank”",
+  "new": "taklifidan “O‘zsanoatqurilishbank”",
+  "why": "“foydalanilmoq” fe’li chiqish kelishigini talab qiladi: taklifidan … foydalanilgan"
+ },
+ {
+  "type": "para",
+  "p": 94,
+  "old": "taklifi “O‘zsanoatqurilishbank”",
+  "new": "taklifidan “O‘zsanoatqurilishbank”",
+  "why": "“foydalanilmoq” fe’li chiqish kelishigini talab qiladi: taklifidan … foydalanilgan"
+ },
+ {
+  "type": "para",
+  "p": 101,
+  "old": "Bir mualliflar uni",
+  "new": "Ayrim mualliflar uni",
+  "why": "Kalka (rus. «одни авторы»): «bir» ko‘plikdagi ot bilan qo‘llanmaydi; «ayrim mualliflar»"
+ },
+ {
+  "type": "para",
+  "p": 111,
+  "old": "V.V. Ivanov bank faoliyatining",
+  "new": "V.V. Ivanov uni bank faoliyatining",
+  "why": "Gapda «ta’riflaydi» fe’lining to‘ldiruvchisi tushib qolgan"
+ },
+ {
+  "type": "para",
+  "p": 138,
+  "old": "Minskiy modelining",
+  "new": "Minsky modelining",
+  "why": "Familiya yozilishini paragrafdagi «Minsky» shakli bilan bir xillashtirish"
+ },
+ {
+  "type": "para",
+  "p": 144,
+  "old": "moliyaviy tsikl davomida",
+  "new": "moliyaviy sikl davomida",
+  "why": "Imlo: so‘z boshidagi «ц» «s» bilan yoziladi (sikl), qolgan boblarda ham «sikl»"
+ },
+ {
+  "type": "para",
+  "p": 144,
+  "old": "iqtisodiy tsiklning",
+  "new": "iqtisodiy siklning",
+  "why": "Imlo: «sikl» (so‘z boshidagi «ц» → «s»)"
+ },
+ {
+  "type": "para",
+  "p": 152,
+  "old": "barqarorlikni bir tomondan miqdoriy",
+  "new": "barqarorlikni, bir tomondan, miqdoriy",
+  "why": "Kirish so‘z «bir tomondan» vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 152,
+  "old": "ikkinchi tomondan dinamik",
+  "new": "ikkinchi tomondan, dinamik",
+  "why": "Kirish so‘z «ikkinchi tomondan» vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 153,
+  "old": "Bu o‘z navbatida,",
+  "new": "Bu, o‘z navbatida,",
+  "why": "Kirish so‘z «o‘z navbatida» ikki tomondan vergul bilan ajratiladi"
+ }
+]

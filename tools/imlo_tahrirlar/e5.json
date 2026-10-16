@@ -1,0 +1,8 @@
+[
+ {"type":"para","p":489,"old":"taraqqiyot tashkiloti va Yevropa","new":"taraqqiyot tashkiloti hamda Yevropa","why":"ikki tashkilot nomini bog‘lashda ketma-ket ikkinchi «va» noaniqlik tug‘diradi – «hamda»"},
+ {"type":"cell","t":31,"r":2,"c":1,"old":"standart chetlanishi o‘rtacha qiymatga nisbati","new":"standart chetlanishining o‘rtacha qiymatga nisbati","why":"«X ning Y ga nisbati» qurilmasida qaratqich kelishigi kerak"},
+ {"type":"para","p":513,"old":"yakuniy tasdig‘i emas, balki","new":"yakuniy tasdig‘ini emas, balki","why":"«emas, balki» parallel qurilmasi: ikkala bo‘lak «ko‘rsatadi» fe’lining to‘ldiruvchisi (tushum kelishigi)"},
+ {"type":"para","p":535,"old":"esa zarar bilan yakunlagan","new":"esa yilni zarar bilan yakunlagan","why":"o‘timli «yakunlamoq» fe’lining to‘ldiruvchisi tushib qolgan"},
+ {"type":"para","p":562,"old":"yillik o‘sishi 10 foiz punktga oshishi","new":"yillik o‘sishining 10 foiz punktga oshishi","why":"harakat nomi oldidagi egada qaratqich kelishigi (matndagi «ulushining … oshishi» shakliga mos)"},
+ {"type":"para","p":567,"old":"asosida qayta baholandi","new":"asosida qayta baholanadi","why":"keyingi (4.2) paragrafga havola – hozirgi-kelasi zamon (matndagi «4.1-paragrafda … yoritiladi» kabi)"}
+]

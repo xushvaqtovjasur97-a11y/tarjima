@@ -1,0 +1,23 @@
+[
+ {
+  "type": "para",
+  "p": 353,
+  "old": "2020-yil oxirida bu bankda 3-bosqich",
+  "new": "2020-yil oxirida “Mikrokreditbank” ATB da 3-bosqich",
+  "why": "“bu bankda” Aloqabank jumlasidan keyin noaniq; keyingi xulosa MKB haqida"
+ },
+ {
+  "type": "para",
+  "p": 519,
+  "old": "tarqoqlik usullarining o‘rtachasiga (0,31)",
+  "new": "tarqoqlik usullarining o‘rtachasiga (0,30)",
+  "why": "(0,32+0,322+0,272)/3=0,305; P497 da ham 0,30"
+ },
+ {
+  "type": "para",
+  "p": 472,
+  "old": "(2.3.3–2.3.5-jadvallar;",
+  "new": "(2.3.2–2.3.5-jadvallar;",
+  "why": "SQB qiymatlari 2.3.2 va 2.3.4-jadvallarda"
+ }
+]

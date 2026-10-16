@@ -78,6 +78,13 @@ for e in E:
         done[t] += 1
     except Exception as ex:
         skip.append((t, e.get('p', e.get('t')), e['old'][:40], str(ex)[:60]))
+
+# “kamsitib ko‘rsatish” (kamsitmoq – kamsitish ma’nosida) → “kamaytirib ko‘rsatish” (understate)
+nk = 0
+for p in D.paras():
+    while 'kamsitib' in text_of(p._p):
+        D.replace(p, 'kamsitib', 'kamaytirib'); nk += 1
+done['kamsitib→kamaytirib'] = nk
 D.save(F)
 print('kiritildi:', dict(done), '| o‘tkazib yuborildi:', len(skip), pardoz(F))
 for s in skip:

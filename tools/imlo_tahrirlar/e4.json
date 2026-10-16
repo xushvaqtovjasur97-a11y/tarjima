@@ -1,0 +1,85 @@
+[
+ {
+  "type": "para",
+  "p": 360,
+  "old": "rioya etilishi hamon",
+  "new": "rioya etilishi, hamon",
+  "why": "“ya’ni” bilan kelgan ajratilgan izohlovchi ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "cell",
+  "t": 18,
+  "r": 4,
+  "c": 2,
+  "old": "2 yoki 3-bosqichga",
+  "new": "2- yoki 3-bosqichga",
+  "why": "Sanalayotgan tartib sonlarda har biridan keyin chiziqcha qo‘yiladi (matndagi “54- va 55-bandlari”, “2- va 3-modellar” shakliga muvofiq)"
+ },
+ {
+  "type": "para",
+  "p": 388,
+  "old": "MHXS esa aksincha oshirgan",
+  "new": "MHXS esa, aksincha, oshirgan",
+  "why": "“aksincha” kirish so‘zi vergul bilan ajratiladi (P404dagi “esa, aksincha,” shakliga muvofiq)"
+ },
+ {
+  "type": "para",
+  "p": 404,
+  "old": "tan olishini yaqqol",
+  "new": "tan olishini, yaqqol",
+  "why": "“ya’ni” bilan kelgan izohlovchi gap o‘rtasida ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 405,
+  "old": "Bazel III ga ko‘ra mavjud",
+  "new": "Bazel III ga ko‘ra, mavjud",
+  "why": "Manbani bildiruvchi kirish birikmasi (“...ga ko‘ra”) vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 405,
+  "old": "Bazel III metodikasi hamda",
+  "new": "Bazel III metodikasi – hamda",
+  "why": "Gap o‘rtasidagi tire bilan ajratilgan izohlovchi ikkinchi tire bilan yopilishi kerak, aks holda “ikki hisobot turi” ham izohlovchiga qo‘shilib qoladi"
+ },
+ {
+  "type": "para",
+  "p": 428,
+  "old": "ulushiga nisbati taklif etildi",
+  "new": "ulushiga nisbati, taklif etildi",
+  "why": "“ya’ni” bilan kelgan izohlovchi gap o‘rtasida ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "para",
+  "p": 447,
+  "old": "bu ikki me’yor 2.3-paragrafda ko‘rsatilganidek Bazel III",
+  "new": "bu ikki me’yor, 2.3-paragrafda ko‘rsatilganidek, Bazel III",
+  "why": "“-ganidek” qiyosiy oboroti gap o‘rtasida vergullar bilan ajratiladi (muallifning boshqa joylardagi qo‘llanishiga muvofiq)"
+ },
+ {
+  "type": "cell",
+  "t": 28,
+  "r": 4,
+  "c": 0,
+  "old": "3-bosqich kreditlar ulushi",
+  "new": "3-bosqich kreditlari ulushi",
+  "why": "Ot+ot birikmasida egalik qo‘shimchasi kerak (matnda va 3.1.2-jadvalda “3-bosqich kreditlari”)"
+ },
+ {
+  "type": "cell",
+  "t": 28,
+  "r": 5,
+  "c": 0,
+  "old": "2-bosqich kreditlar ulushi",
+  "new": "2-bosqich kreditlari ulushi",
+  "why": "Ot+ot birikmasida egalik qo‘shimchasi kerak (matnda va 3.1.2-jadvalda “2-bosqich kreditlari”)"
+ },
+ {
+  "type": "para",
+  "p": 487,
+  "old": "sinflari chegaralari keyingi",
+  "new": "sinflari chegaralari, keyingi",
+  "why": "“ya’ni” bilan kelgan izohlovchi gap o‘rtasida ikki tomondan vergul bilan ajratiladi"
+ }
+]
