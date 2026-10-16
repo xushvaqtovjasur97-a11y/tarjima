@@ -14,7 +14,7 @@ import wordart as W
 
 F = '/home/user/tarjima/Dissertatsiya_Maxmudov_O.T_asosiy.docx'
 DST = '/home/user/tarjima/Namuna_4.2.1-rasm.docx'
-CAP0 = '4.2.1-rasm. Bank tizimida muammoli kreditlar ulushining'
+CAP0 = 'rasm. Bank tizimida muammoli kreditlar ulushining haqiqiy dinamikasi'   # raqamsiz (4.2.1 → 4.2.3 ga surilgan)
 W_CM, H_CM = 16.0, 9.0
 # seriya nomi → {nuqta indeksi: yorliq joyi}; haqiqiy: 2021-y. III chorak cho‘qqisi va har yil oxiri (IV chorak)
 LBL = {'Haqiqiy (2021–2025)': {2: 't', 3: 'l', 7: 'l', 11: 'b', 15: 'b', 19: 'b'},
