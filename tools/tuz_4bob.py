@@ -111,6 +111,28 @@ for e in E:
     else:
         raise ValueError(t)
     log.append(t)
+
+# ---- qo‘lda: format sig‘dirmagan tuzatishlar
+def row_cell(cap, row_start, col, old, new):
+    tb = D.table_after(cap)
+    rows = [r for r in tb.rows if r.cells[0].text.strip().startswith(row_start)]
+    assert len(rows) == 1, (cap, row_start)
+    c = rows[0].cells[col]
+    assert c.text.strip() == old, (c.text, old)
+    minimal(c.paragraphs[0], old, new)
+
+
+row_cell('Oltita bankda milliy hisobot va MHXS hisoboti', '“Ipoteka-bank”', 1, '3,6', '3,5')
+tb = D.table_after('Prognozda qo‘llangan satellit modellar natijalari')
+c = [r for r in tb.rows if r.cells[0].text.strip() == 'Davr'][0].cells[3]
+minimal(c.paragraphs[0], '2021-y. IV chorak – 2025-y. IV chorak', '2022-y. I chorak – 2025-y. IV chorak')
+for pi, old, new in [
+        (84, '2027-yilda tizim aktivlarining 24,3 foizini', '2027-yilda tanlangan banklar aktivlarining 24,3 foizini'),
+        (710, 'ularning tizim aktivlaridagi ulushi 24,3 foizni', 'ularning tanlangan banklar aktivlaridagi ulushi 24,3 foizni'),
+        (728, 'tizim aktivlarining 24,3 foizini tashkil etuvchi', 'tanlangan banklar aktivlarining 24,3 foizini tashkil etuvchi')]:
+    assert text_of(PS[pi]._p).count(old) == 1, (pi, old)
+    minimal(PS[pi], old, new)
+    log.append('qo‘lda')
 D.save(F)
 import collections
 print(len(log), dict(collections.Counter(log)), pardoz(F))

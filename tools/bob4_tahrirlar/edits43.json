@@ -1,0 +1,226 @@
+[
+ {
+  "type": "para",
+  "p": 673,
+  "old": "boshlang‘ich kapital to‘liq aks ettirilmagan muammoli kreditlarga tuzatilganda esa monandlik 7,7 foizgacha",
+  "new": "boshlang‘ich kapital monandligi to‘liq aks ettirilmagan muammoli kreditlarga tuzatilib, subordinar qarzlar chegirilganda esa monandlik 7,7 foizgacha",
+  "why": "FSSA ¶16 (P. 24): 7,7 % natijasi ikki tuzatishdan kelib chiqadi – boshlang‘ich CAR ni kam ko‘rsatilgan NPL ga tuzatish VA subordinar qarzni chegirish; ‘kapital tuzatilganda’ emas, ‘kapital monandligi tuzatilganda’."
+ },
+ {
+  "type": "para",
+  "p": 674,
+  "old": "Unda 23 ta chora besh yo‘nalish bo‘yicha guruhlangan: qonunchilikni takomillashtirish, prudensial talablarni kuchaytirish, korporativ boshqaruv va risklarni boshqarish talablarini takomillashtirish, Markaziy bankning nazorat jarayonlarini takomillashtirish hamda banklarni tiklash, tugatish va omonatlarni sug‘urtalash tizimini rivojlantirish",
+  "new": "Unda 35 ta chora sakkiz yo‘nalish bo‘yicha guruhlangan bo‘lib, ularning asosiylari qonunchilikni takomillashtirish, prudensial talablarni kuchaytirish, korporativ boshqaruv, risklarni boshqarish va litsenziyalash talablarini takomillashtirish, Markaziy bankning nazorat jarayonlarini takomillashtirish, banklarni sanatsiya qilish, tugatish va omonatlarni sug‘urtalash tizimini rivojlantirish hamda moliyaviy barqarorlikni ta’minlash choralarini kuchaytirishdan iborat",
+  "why": "Yo‘l xaritasi (manbalar/fsap/CBU_FSAP_Roadmap_2025-2028.pdf) 35 ta band, 8 bo‘lim (I–VIII); I–V bo‘limlarning o‘zida 25 ta band. 23/besh noto‘g‘ri; 2-bobdagi izohlar ‘Item 31’ ga havola qiladi. V bo‘lim – bank resolution (= sanatsiya, P45 dagi atama), ‘tiklash’ (recovery) emas."
+ },
+ {
+  "type": "para",
+  "p": 674,
+  "old": "aktivlarni tasniflash va zaxiralar shakllantirish talablarini",
+  "new": "aktivlarni tasniflash va zaxiralarni shakllantirish talablarini",
+  "why": "Grammatika (tushum kelishigi); boshqa joylarda ‘zaxiralarni shakllantirish’."
+ },
+ {
+  "type": "para",
+  "p": 674,
+  "old": "qayta tuzilgan aktivlar ta’rifini “muammoli qayta tuzilgan aktivlar” bo‘yicha Bazel standartiga moslashtirish",
+  "new": "qayta tuzilgan aktivlar ta’rifini Bazel standartidagi “forborne exposures” ta’rifiga moslashtirish",
+  "why": "Yo‘l xaritasi 3-band: ‘forborne exposures’; forborne aktivlar muammoli bo‘lmasligi ham mumkin – ‘muammoli qayta tuzilgan’ tarjimasi noaniq. 2.1-§ (P302) va 2.1.2-jadvaldagi atamaga moslashtirildi."
+ },
+ {
+  "type": "para",
+  "p": 679,
+  "old": "bunda 3.3–4.1-paragraflarda ochiq ma’lumotlar",
+  "new": "bunda 3.3–4.2-paragraflarda ochiq ma’lumotlar",
+  "why": "8 ko‘rsatkichli panel indeksi (MBII-8) 4.2-§ prognozida ham qo‘llangan (4.2.6-jadval: ‘milliy hisobot (MBII-8)’)."
+ },
+ {
+  "type": "para",
+  "p": 680,
+  "old": "tahlil davrida qizil zonadagi banklarning yarmida bir yil ichida jiddiy zarar yuz bergani aniqlangan",
+  "new": "tahlil davrida qizil zonadagi kuzatuvlarning yarmidan keyin bir yil ichida jiddiy zarar yuz bergani aniqlangan",
+  "why": "4.1.6-jadval va ews41.json ‘zona’: 34 bank-chorak kuzatuvidan 17 tasi (50 %) – banklar emas, kuzatuvlar; 4.1-§ (P628) va IV bob xulosasi ham ‘kuzatuvlarning’ deydi."
+ },
+ {
+  "type": "para",
+  "p": 680,
+  "old": "4.1-paragrafda esa aynan kapital ko‘rsatkichi O‘zbekiston banklarida",
+  "new": "4.1-paragrafda esa aynan kapitalning aktivlarga nisbati O‘zbekiston banklarida",
+  "why": "4.1-§ da faqat ‘Kapital / aktivlar’ tekshirilgan (AUC 0,445); kapital monandligi koeffitsiyentlari ochiq ma’lumotlarda yo‘qligi sababli tekshirilmagan. IV bob xulosasi (P707) ham ‘kapitalning aktivlarga nisbati’."
+ },
+ {
+  "type": "para",
+  "p": 681,
+  "old": "MHXS hisobotlari mavjud bo‘lgan beshta bank misolida ko‘rsatish mumkin",
+  "new": "MHXS hisobotlari mavjud bo‘lgan beshta bank hamda “Aloqabank” ATB misolida ko‘rsatish mumkin",
+  "why": "4.3.2-jadval nomi ‘Oltita bankda…’ va unda “Aloqabank” ATB ham bor; matn beshta bank deydi."
+ },
+ {
+  "type": "para",
+  "p": 684,
+  "old": "valyuta riski bloki esa yuqori ball (3,96) olgan. Demak, MHXS ma’lumotlariga o‘tish faqat aktivlar sifatini emas, balki barcha bloklarni o‘zgartiradi",
+  "new": "8 ko‘rsatkichli panel indeksida mavjud bo‘lmagan valyuta riski bloki esa yuqori ball (3,96) olgan. Demak, MHXS ma’lumotlariga va to‘liq indeksga o‘tish faqat aktivlar sifatini emas, balki boshqa bloklarni ham o‘zgartiradi",
+  "why": "MBII-8 (panel) 4 blokdan iborat, valyuta bloki yo‘q; BRB dagi 3,96 ball MHXS ga o‘tish emas, indeks tarkibi farqi ta’siri (4.2-§ P669 dagi izoh bilan bir xil mantiq). ‘barcha bloklarni’ – ortiqcha umumlashtirish."
+ },
+ {
+  "type": "para",
+  "p": 684,
+  "old": "jadvaldagi “MBII: milliy hisobot” ustunida",
+  "new": "jadvaldagi “MBII-8: milliy hisobot” ustunida",
+  "why": "4.3.2-jadval ustuni “MBII-8: milliy hisobot” deb nomlangan."
+ },
+ {
+  "type": "para",
+  "p": 684,
+  "old": "To‘liq, 13 ko‘rsatkichli to‘liq indeks bo‘yicha",
+  "new": "13 ko‘rsatkichli to‘liq indeks (MBII-13) bo‘yicha",
+  "why": "‘to‘liq’ takrori; MBII-13 belgisi 3.2-§ da kiritilgan."
+ },
+ {
+  "type": "para",
+  "p": 684,
+  "old": "va ular ham zonalar o‘zgarishi to‘g‘risidagi xulosani o‘zgartirmaydi.",
+  "new": "va ular “O‘zsanoatqurilishbank” ATB hamda “Mikrokreditbank” ATB bo‘yicha zonalar o‘zgarishi to‘g‘risidagi xulosani o‘zgartirmaydi. “Aloqabank” ATB ning MBII-13 bo‘yicha milliy indeksi esa yashil zona chegarasidan 0,002 ball past bo‘lgani sababli bank ikkala variantda ham sariq zonada qoladi, biroq MHXS ma’lumotlariga o‘tishda indeks 0,47 ballga pasayib, qizil zona chegarasiga yaqinlashadi.",
+  "why": "MBII-13 milliy: SQB 3,27 (yashil) → 2,81 (sariq), MKB 3,13 (sariq) → 2,47 (qizil) – xulosa saqlanadi; Aloqabank 3,248 (<3,25, sariq; 3.1.5-jadval izohi, P579 ‘ikkala variantda II sinf’) → 2,78 (sariq) – zona o‘zgarmaydi. Eski jumla Aloqabank uchun noto‘g‘ri."
+ },
+ {
+  "type": "para",
+  "p": 698,
+  "old": "Ikkinchi bosqichda besh blok bo‘yicha integral indeks, davlat banklari",
+  "new": "Ikkinchi bosqichda besh blok bo‘yicha integral indeks va MHXS hamda milliy indekslar farqi (ΔMBII), davlat banklari",
+  "why": "4.3.1-rasmning 2-bosqichida ΔMBII qutichasi bor, rasm tahlilida tushib qolgan."
+ },
+ {
+  "type": "para",
+  "p": 702,
+  "old": "Birinchi bosqichda qo‘shimcha normativ hujjatlar talab qilinmaydi, chunki indeks Markaziy bankda mavjud prudensial hisobotlar asosida hisoblanishi mumkin.",
+  "new": "Birinchi bosqichda indeksni hisoblash uchun qo‘shimcha normativ hujjatlar talab qilinmaydi, chunki u Markaziy bankda mavjud prudensial hisobotlar asosida hisoblanishi mumkin, kesishma jadvali esa “yo‘l xaritasi” doirasida ishlab chiqilayotgan oshkor qilish talablariga kiritiladi.",
+  "why": "4.3.4-jadvalning I bosqichida ‘oshkor qilish talablariga kesishma jadvalini kiritish’ bor – bu normativ hujjat (yo‘l xaritasi 5-band) talab qiladi; jumla jadvalga zid edi."
+ },
+ {
+  "type": "para",
+  "p": 708,
+  "old": "“O‘zsanoatqurilishbank” ATB esa milliy hisobot bo‘yicha yashil zonada",
+  "new": "“O‘zsanoatqurilishbank” ATB esa 2025-yilda milliy hisobot bo‘yicha yashil zonada",
+  "why": "4.1-§ (P624): 2022-y. IV – 2024-y. II choraklarida SQB milliy indeksi ham sariq zonada bo‘lgan; xulosa 2025-yilga tegishli (3,61 / 2,81)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "2.3-§: yashirin kredit riski koeffitsiyenti 1,65–4,90; 3-bosqich kreditlarining 57,2 %",
+  "new": "2.3-§: yashirin kredit riski koeffitsiyenti uch bankda 1,65–4,90; SQB da 2025-yilda 3-bosqich kreditlarining 57,2 %",
+  "why": "1,65–4,90 – uch bank (SQB, MKB, Aloqabank) oralig‘i; shu paragrafdagi 4.3.2-jadvalda Ipoteka-bank 5,56. 57,2 % – faqat SQB, 2025 (2.3-§, P360/P391)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "ochiq ma’lumotlarda MHXS 9 bosqichlari va bank kesimidagi prudensial ko‘rsatkichlar yo‘q",
+  "new": "ochiq ma’lumotlarda milliy tasnif va MHXS 9 bosqichlari kesishmasi faqat ayrim banklarda oshkor qilinadi, bank kesimidagi prudensial ko‘rsatkichlar esa yo‘q",
+  "why": "MHXS 9 bosqichlari banklarning ochiq MHXS hisobotlarida bor (dissertatsiya ulardan foydalangan); yo‘q narsa – kesishma (P685: ‘faqat ayrim banklarning yillik hisobotlarida’)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "qizil zonada muammo ehtimoli 50 %, yashil zonada 2 %",
+  "new": "qizil zonadagi kuzatuvlarda muammo hodisalari ulushi 50 %, yashil zonada 2 %",
+  "why": "4.1.6-jadval: 50 % va 2 % – kuzatilgan hodisalar ulushi; logit ehtimoli boshqa ustun (>27 % / <5 %)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "“yo‘l xaritasi”, 7, 12-choralar",
+  "new": "“yo‘l xaritasi”, 7, 12, 31-choralar",
+  "why": "Yo‘l xaritasi 31-band – to‘lov qobiliyati makro stress-testida MHXS 9 asosidagi NPL ma’lumotlaridan foydalanish (2.1-§ P305 va 277-izoh shu bandga havola qiladi) – qatorga bevosita tegishli."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "SQB milliy hisobot bo‘yicha yashil, MHXS bo‘yicha qizil zonada",
+  "new": "SQB keskin salbiy ssenariyda milliy hisobot bo‘yicha yashil, MHXS bo‘yicha qizil zonada",
+  "why": "2025-yilda SQB MHXS bo‘yicha sariq (2,81); qizil zona faqat salbiy/keskin salbiy ssenariyda (4.2.6-jadval: 2,70/2,59)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "FSAP tavsiyalari, “yo‘l xaritasi” choralari, tadqiqot natijalari va muallif takliflarining o‘zaro bog‘liqligi",
+  "old": "davlat banklarining indeksi 0,69 ball past",
+  "new": "davlat banklarining indeksi boshqa banklarnikidan 0,69 ball past",
+  "why": "Taqqoslash guruhi – barcha boshqa banklar (3.3-§ kanonik ifoda)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Takliflarni amalga oshirish bosqichlari",
+  "old": "7, 9, 12, 17-choralar",
+  "new": "7, 9, 12, 17, 31-choralar",
+  "why": "II bosqichdagi ‘stress-testlarni MHXS asosidagi indeks bilan o‘tkazish’ – yo‘l xaritasi 31-band."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Takliflarni amalga oshirish bosqichlari",
+  "old": "5, 19-choralar",
+  "new": "5, 19, 31, 35-choralar",
+  "why": "‘Indeksni to‘liq MHXS ma’lumotlariga o‘tkazish’ – 31-band (MHXS 9 NPL ma’lumotlari to‘liq shakllangach); ‘moliyaviy barqarorlik sharhida e’lon qilish’ – 35-band (FSR va makroprudensial kommunikatsiya)."
+ },
+ {
+  "type": "fn",
+  "id": "533",
+  "old": ": Proposed Revisions Would Limit – but Would Not Eliminate – Consideration of Management Component and Would Emphasize Material Financial Risks. – New York",
+  "new": ". – New York",
+  "why": "Haddan tashqari uzun; adabiyotlar ro‘yxatidagi 74-manba qisqa nom bilan: ‘…CAMELS Rating System. – New York, 20 May 2026. – https…’."
+ },
+ {
+  "type": "fn",
+  "id": "538",
+  "old": "quyidagi manbalar ma’lumotlari asosida hisoblandi: O‘zbekiston Respublikasi Markaziy banki. Banklar statistikasi: tijorat banklarining asosiy ko‘rsatkichlari va muammoli kreditlari to‘g‘risidagi oylik ma’lumotlar, 2021-yil aprel – 2026-yil yanvar. – https://cbu.uz/uz/statistics/bankstats/; “SNS” reyting agentligi. O‘zbekiston tijorat banklarining asosiy ko‘rsatkichlari bazasi (Banks_2025_IV, Banks_2026_II): 36 bank, 2021-yil IV chorak – 2026-yil II chorak; Joint Stock Commercial Bank “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026. – P. 2–3, 28–31; Акционерно-коммерческий банк “Микрокредитбанк”. Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 11–12; Joint-Stock Commercial Bank “Business Development Bank”. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditors’ Report. – Tashkent: KPMG Audit, 2026. – https://brb.uz/bank-haqida/moliyaviy-korsatkichlar – P. 8–9, 33, 69; Joint-stock commercial “Xalq Bank” of the Republic of Uzbekistan. Consolidated financial statements and independent auditor’s report for the year ended 31 December 2025. – Tashkent: Ernst & Young, 2026. – https://xb.uz/page/auditorlik-xulosalari-2 – P. 1–2, 12, 56; Joint Stock Commercial Mortgage Bank “Ipoteka Bank” and its subsidiaries. Consolidated Financial Statements and Independent Auditor’s Report for the year ended 31 December 2025. – Tashkent: Ernst & Young, 2026. – https://www.ipotekabank.uz/en/about/investors/ – P. 1–2.",
+  "new": "“O‘zsanoatqurilishbank”, “Mikrokreditbank”, “Biznesni rivojlantirish banki”, “Xalq banki”, “Ipoteka-bank” va “Aloqabank” ATBlarining 2025-yil uchun MHXS bo‘yicha moliyaviy hisobotlari, “SNS” reyting agentligi bazasi va Markaziy bank statistikasi asosida hisoblandi.",
+  "why": "Izoh haddan tashqari uzun (7 manba) va jadvaldagi oltinchi bank – “Aloqabank” ATB ning MHXS hisoboti (2,78; 7,2 %) manbasi yo‘q; 3.2-§ dagi 429/431-izohlar kabi umumiy shaklga keltirildi."
+ },
+ {
+  "type": "fn",
+  "id": "529",
+  "old": "Tashkent, 17 November 2025.",
+  "new": "Tashkent, 17.11.2025.",
+  "why": "Sana shakli 2-bob izohlari (247, 255, 271–278) va adabiyotlar ro‘yxati (11-manba: 17.11.2025) bilan bir xil."
+ },
+ {
+  "type": "fn",
+  "id": "530",
+  "old": "Tashkent, 17 November 2025.",
+  "new": "Tashkent, 17.11.2025. – Items 3, 5, 7, 9, 12, 19.",
+  "why": "Sana shakli 2-bob bilan bir xil; sanab o‘tilgan choralar yo‘l xaritasining 3, 5, 7, 9, 12, 19-bandlari (2-bob izohlaridagi ‘Item’ uslubida)."
+ },
+ {
+  "type": "fn",
+  "id": "534",
+  "old": "Tashkent, 17 November 2025.",
+  "new": "Tashkent, 17.11.2025. – Item 9.",
+  "why": "Erta ogohlantirish va PCA – 9-band; sana shakli 2-bob bilan bir xil (276-izoh)."
+ },
+ {
+  "type": "fn",
+  "id": "543",
+  "old": "Tashkent, 17 November 2025.",
+  "new": "Tashkent, 17.11.2025. – Item 7.",
+  "why": "ICAAP majburiyligi – 7-band; sana shakli 2-bob bilan bir xil."
+ },
+ {
+  "type": "fn",
+  "id": "531",
+  "old": "Tashkent, 17 November 2025;",
+  "new": "Tashkent, 17.11.2025;",
+  "why": "Sana shakli 2-bob izohlari va adabiyotlar ro‘yxati (17.11.2025) bilan bir xil."
+ },
+ {
+  "type": "fn",
+  "id": "544",
+  "old": "Tashkent, 17 November 2025;",
+  "new": "Tashkent, 17.11.2025;",
+  "why": "Sana shakli 2-bob izohlari va adabiyotlar ro‘yxati (17.11.2025) bilan bir xil."
+ },
+ {
+  "type": "fn",
+  "id": "547",
+  "old": "Tashkent, 17 November 2025;",
+  "new": "Tashkent, 17.11.2025;",
+  "why": "Sana shakli 2-bob izohlari va adabiyotlar ro‘yxati (17.11.2025) bilan bir xil."
+ }
+]
