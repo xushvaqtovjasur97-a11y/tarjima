@@ -9,5 +9,5 @@ for it in $(seq 1 $N); do
   echo "=== takror $it ($(pdfinfo $W/cur.pdf | grep Pages))"
   out=$(FIXSTATE=$W/fixed.json python3 /home/user/tarjima/tools/sahifalash/fix2.py $F $W/cur.pdf $W/bl.json)
   echo "$out"
-  echo "$out" | grep -q "oldinga" || break
+  echo "$out" | grep -q "oldinga\|yuqoriga" || break
 done
