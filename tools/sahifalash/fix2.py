@@ -91,7 +91,7 @@ for i, e in enumerate(els):
 def letters(s): return re.sub(r'[^A-Za-z‘’]', '', s)
 import os
 STATE = os.environ.get('FIXSTATE')
-FIXED = set(json.load(open(STATE))) if STATE and os.path.exists(STATE) else set()
+FIXED = dict(json.load(open(STATE))) if STATE and os.path.exists(STATE) and open(STATE).read().strip().startswith('{') else {}
 def page_lines(k):
     h = subprocess.run(['pdftotext', '-bbox', '-f', str(k), '-l', str(k), PDF, '-'], capture_output=True, text=True).stdout
     W = [(float(a), float(c), t) for a, c, t in re.findall(r'yMin="([\d.]+)" xMax="[\d.]+" yMax="([\d.]+)">([^<]*)<', h)]
@@ -135,7 +135,8 @@ for b in blocks:
         while k > b['s'] and els[k].tag == qn('w:p'):
             if tx(els[k]).strip(): b['h'] = (b['h'] or 0) + nlines(tx(els[k])) * LINE if b['h'] else None
             k -= 1
-    if f"{b['num']}-{b['kind']}" in FIXED: continue
+    b['key'] = f"{b['num']}-{b['kind']}"
+    if FIXED.get(b['key']) == 'A': continue
     mh = measured_h(b)
     if mh: b['h'] = mh
     elif b['kind'] == 'rasm' or not b['h']: b['h'] = None
@@ -164,7 +165,11 @@ CONN = re.compile(r'^(Xususan|Masalan|Jumladan|Shu jumladan|Bunda|Unda)\b')
 def plan_B(b):
     """oldingi sahifa oxiridagi gaplarni blokdan keyinga o‘tkazib, blokni yuqoriga tortish"""
     if not b['h'] or not b.get('hm'): return None
-    need = b['h'] / LINE - b['gap'] + 0.5
+    fnb = 0.0
+    for k in range(b['s'], b['e']):
+        for r in els[k].iter(qn('w:footnoteReference')):
+            fnb += math.ceil(len(FN.get(r.get(qn('w:id')), '')) / 118) * 0.48 + 0.25
+    need = b['h'] / LINE + fnb - b['gap'] + 0.5
     if need <= 0 or need > 10: return None
     ref = re.compile(re.escape(b['num']) + r'-(jadval|rasm)')
     moves, freed, k = [], 0.0, b['s'] - 1
@@ -225,9 +230,11 @@ for b in sorted(cands, key=lambda x: x['page']):
     if pb:
         desc = f"{b['num']}-{b['kind']} (sah. {b['page']}, oldingida {b['gap']:.1f} qator bo‘sh)"
         how = do_B(b, pb) if not DRY else '-'
-        FIXED.add(f"{b['num']}-{b['kind']}")
+        FIXED[b['key']] = 'B'
         log.append(desc + f" → B: oldingi {pb['lines']:.1f} qator matn blokdan keyinga ({how}), blok yuqoriga: «{tx(pb['moves'][0][0])[:50]}…»")
         continue
+    if FIXED.get(b['key']) == 'B':
+        log.append(f"{b['num']}-{b['kind']} → B dan keyin ham sig‘madi (QO‘LDA)"); continue
     # blokdan keyingi matn xatboshilari
     paras, j = [], b['e']
     while j < len(els) and is_text(els[j]) and len(paras) < 4:
@@ -299,9 +306,9 @@ for b in sorted(cands, key=lambda x: x['page']):
                     if mm:
                         D.replace(Paragraph(moved, None), mm.group(0), rep.format(n=b['num'])); break
             moved_desc.append(tx(moved)[:50])
-    FIXED.add(f"{b['num']}-{b['kind']}")
+    FIXED[b['key']] = 'A'
     log.append(desc + f" → {best['pi'] + 1} xatboshidan gaplar oldinga (taxm. {best['body']:.1f} qator, kerak {best['need']:.1f}): " + ' | '.join(moved_desc))
 if not DRY:
     D.save(DOCX)
-    if STATE: json.dump(sorted(FIXED), open(STATE, 'w'))
+    if STATE: json.dump(FIXED, open(STATE, 'w'))
 print('\n'.join(log) if log else 'muammo topilmadi')
