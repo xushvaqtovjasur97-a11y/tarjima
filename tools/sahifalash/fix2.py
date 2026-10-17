@@ -99,8 +99,22 @@ for b in blocks:
     if prev.tag != qn('w:p') or not letters(g['last'])[:25] or letters(g['last'])[:25] not in letters(tx(prev)):
         continue
     if b['kind'] == 'rasm':
-        # rasm balandligi: sahifadagi sarlavha qatorigacha (pdf)
-        b['h'] = None
+        # rasm balandligi: rasm o‘lchami + sonlar jadvali qatorlari + sarlavha
+        hh = 0
+        for k in range(b['s'], b['e']):
+            x = els[k]
+            for ext in x.iter('{http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing}extent'):
+                hh += int(ext.get('cy')) / 12700 + 6; break
+            if x.tag == qn('w:tbl'):
+                hh += 16.5 * len(x.findall(qn('w:tr')))
+            elif x.tag == qn('w:p') and not has_draw(x) and tx(x).strip():
+                hh += nlines(tx(x), 0) * LINE
+        b['h'] = hh
+    else:
+        k = b['e'] - 1
+        while k > b['s'] and els[k].tag == qn('w:p'):
+            if tx(els[k]).strip(): b['h'] = (b['h'] or 0) + nlines(tx(els[k])) * LINE if b['h'] else None
+            k -= 1
     b.update(gap=g['lines'], secid=g['secid'])
     cands.append(b)
 
@@ -121,10 +135,73 @@ REF = [(r'^Rasmdan ', '{n}-rasmdan '), (r'^Rasmda ', '{n}-rasmda '), (r'^Rasm ma
        (r'^Jadvaldan ', '{n}-jadvaldan '), (r'^Jadvalda ', '{n}-jadvalda '), (r'^Jadval ma’lumotlari', '{n}-jadval ma’lumotlari'),
        (r'^Ushbu rasm', '{n}-rasm'), (r'^Ushbu jadval', '{n}-jadval'), (r'^Mazkur rasm', '{n}-rasm'), (r'^Mazkur jadval', '{n}-jadval')]
 
+CONN = re.compile(r'^(Xususan|Masalan|Jumladan|Shu jumladan|Bunda|Unda)\b')
+def plan_B(b):
+    """oldingi sahifa oxiridagi gaplarni blokdan keyinga o‘tkazib, blokni yuqoriga tortish"""
+    if not b['h']: return None
+    need = b['h'] / LINE - b['gap'] + 0.4
+    if need <= 0 or need > 10: return None
+    ref = re.compile(re.escape(b['num']) + r'-(jadval|rasm)')
+    moves, freed, k = [], 0.0, b['s'] - 1
+    while k >= 0 and is_text(els[k]) and len(moves) < 3:
+        pe = els[k]; t, ss = sentences(pe); full = nlines(t)
+        for si in range(len(ss) - 1, -1, -1):
+            if ref.search(t[ss[si][0]:ss[si][1]]): return None
+            head = t[:ss[si][0]].strip()
+            fr = full - (nlines(head) if head else 0)
+            if freed + fr >= need:
+                return dict(moves=[(pe, si)] + moves, lines=freed + fr, need=need)
+        moves.insert(0, (pe, 0)); freed += full; k -= 1
+    return None
+
+def do_B(b, plan):
+    pieces = []
+    for pe, si in plan['moves']:
+        if si == 0:
+            pieces.append(pe)
+        else:
+            P_ = Paragraph(pe, None); t, ss = sentences(pe)
+            cut = ss[si][0]
+            D._normalize(P_)
+            run = D._split_at(P_, cut)
+            tail = copy.deepcopy(pe)
+            kids = [c for c in pe if c.tag != qn('w:pPr')]
+            kk = kids.index(run)
+            for c in kids[kk:]: pe.remove(c)
+            for c in [c for c in tail if c.tag != qn('w:pPr')][:kk]: tail.remove(c)
+            ts = list(pe.iter(qn('w:t')))
+            if ts: ts[-1].text = ts[-1].text.rstrip()
+            pieces.append(tail)
+    dest = els[b['e']] if b['e'] < len(els) else None
+    if dest is not None and is_text(dest) and re.match(r'^(\d\.\d\.\d+-(jadval|rasm)|Jadval|Rasm|Ushbu|Mazkur)', tx(dest).strip()):
+        anchor = dest                       # blok tahlili – undan keyin
+        for pc in pieces:
+            anchor.addnext(pc); anchor = pc
+        return 'tahlildan keyin'
+    if dest is not None and is_text(dest) and len(pieces) == 1 and CONN.match(tx(dest).strip()):
+        pc = pieces[0]                      # bog‘lovchi bilan boshlangan xatboshiga qo‘shib yuborish
+        kids = [c for c in pc if c.tag != qn('w:pPr')]
+        ts = [t for t in pc.iter(qn('w:t'))]
+        if ts: ts[-1].text = ts[-1].text.rstrip() + ' '
+        first_kid = next(c for c in dest if c.tag != qn('w:pPr'))
+        for c in kids: first_kid.addprevious(c)
+        if pc.getparent() is not None: pc.getparent().remove(pc)
+        return 'keyingi xatboshiga qo‘shildi'
+    last = els[b['e'] - 1]
+    for pc in pieces:
+        last.addnext(pc); last = pc
+    return 'blokdan keyin'
+
 done, log = set(), []
 for b in sorted(cands, key=lambda x: x['page']):
     if b['secid'] in done: continue
     done.add(b['secid'])
+    pb = plan_B(b)
+    if pb:
+        desc = f"{b['num']}-{b['kind']} (sah. {b['page']}, oldingida {b['gap']:.1f} qator bo‘sh)"
+        how = do_B(b, pb) if not DRY else '-'
+        log.append(desc + f" → B: oldingi {pb['lines']:.1f} qator matn blokdan keyinga ({how}), blok yuqoriga: «{tx(pb['moves'][0][0])[:50]}…»")
+        continue
     # blokdan keyingi matn xatboshilari
     paras, j = [], b['e']
     while j < len(els) and is_text(els[j]) and len(paras) < 4:
