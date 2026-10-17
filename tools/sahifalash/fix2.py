@@ -100,8 +100,8 @@ def page_lines(k):
     return [(min(w[0] for w in ws), ' '.join(w[2] for w in ws), max(w[1] - w[0] for w in ws), y) for y, ws in sorted(L.items())]
 def measured_h(b):
     """blok balandligi PDF dan: sahifa boshidan blokdan keyingi matn qatorigacha"""
-    if b['e'] >= len(els) or not is_text(els[b['e']]): return None
-    key = letters(tx(els[b['e']]))[:20]
+    nxt_text = b['e'] < len(els) and is_text(els[b['e']])
+    key = letters(tx(els[b['e']]))[:20] if nxt_text else ''
     PLs = page_lines(b['page'])
     for top, t, hh, y in PLs:
         if key and letters(t)[:20] == key:
