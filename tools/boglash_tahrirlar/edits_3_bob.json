@@ -1,0 +1,122 @@
+[
+ {
+  "p": 473,
+  "old": "Uzluksiz shkalada esa ball quyidagi",
+  "new": "Bunday shkalada ball quyidagi",
+  "why": "Такрорий боғловчи олиб ташланди, гап олдингисига боғланди"
+ },
+ {
+  "p": 481,
+  "old": "jihati ekanini tan olib, ammo boshqa",
+  "new": "jihati ekanini tan olgan holda, boshqa",
+  "why": "Грамматик боғланиш тўғриланди"
+ },
+ {
+  "p": 485,
+  "old": "ko‘rsatkichlardan biri: “Aloqabank”",
+  "new": "ko‘rsatkichlardan biri hisoblanadi: “Aloqabank”",
+  "why": "Кесим етишмаган, гап тўлдирилди"
+ },
+ {
+  "p": 496,
+  "old": "Milliy hisobot ma’lumotlari bo‘yicha uchala bank yuqori baholanadi",
+  "new": "3.1.5-jadval ma’lumotlaridan ko‘rinib turibdiki, milliy hisobot ma’lumotlari bo‘yicha uchala bank yuqori baholanadi",
+  "why": "Жадвал таҳлили жадвалга ҳаволасиз бошланган"
+ },
+ {
+  "p": 501,
+  "old": "MHXS ma’lumotlari asosida esa uchala",
+  "new": "3.1.6-jadval ma’lumotlariga ko‘ra, MHXS ma’lumotlari asosida esa uchala",
+  "why": "Жадвал таҳлили жадвалга ҳаволасиз бошланган"
+ },
+ {
+  "p": 535,
+  "old": "Bu uchta amaliy natijaga olib keladi.",
+  "new": "Yuqoridagi tahlil natijalari uchta amaliy xulosaga olib keladi.",
+  "why": "Ноаниқ «Bu» ўрнига боғловчи жумла"
+ },
+ {
+  "p": 536,
+  "old": "Integral indeksning ikkinchi metodik elementi",
+  "new": "Vaznlardan tashqari, integral indeksning ikkinchi metodik elementi",
+  "why": "Янги фикрга ўтиш олдинги таҳлилга боғланди"
+ },
+ {
+  "p": 536,
+  "old": "1,75 ball. Ular ham",
+  "new": "1,75 ball hisoblanadi. Ular ham",
+  "why": "Кесимсиз гап тўлдирилди"
+ },
+ {
+  "p": 540,
+  "old": "Shu bilan birga, II sinf ichida",
+  "new": "Bundan tashqari, II sinf ichida",
+  "why": "Такрорий боғловчи алмаштирилди"
+ },
+ {
+  "p": 541,
+  "old": "Empirik asoslangan indeks beshta",
+  "new": "Shundan so‘ng empirik asoslangan indeks beshta",
+  "why": "Олдинги таҳлил билан боғланиш қўшилди"
+ },
+ {
+  "p": 544,
+  "old": "Indeks empirik vaznlar baholanishida qatnashmagan",
+  "new": "Natijalarning umumiyligini tekshirish maqsadida indeks empirik vaznlar baholanishida qatnashmagan",
+  "why": "Янги фикрга ўтиш мақсади кўрсатилди"
+ },
+ {
+  "p": 552,
+  "old": "Beshinchi gipoteza esa muammoli",
+  "new": "To‘rtinchi gipoteza asosiy faoliyatdan olinadigan barqaror daromad bankka kapitalni ichki manbalar hisobiga to‘ldirish imkonini berishiga asoslanadi. Beshinchi gipoteza esa muammoli",
+  "why": "Тўртинчи гипотеза асоси тушиб қолган эди"
+ },
+ {
+  "p": 558,
+  "old": "Kreditlar yillik o‘sishining medianasi",
+  "new": "Shu bilan birga, kreditlar yillik o‘sishining medianasi",
+  "why": "Хулосадан кейин янги фикр боғловчисиз келган"
+ },
+ {
+  "p": 570,
+  "old": "Omillar ta’sirini baholash uchun",
+  "new": "Tavsifiy tahlilda aniqlangan farqlarni ekonometrik jihatdan tekshirish va omillar ta’sirini baholash uchun",
+  "why": "Тавсифий таҳлилдан моделга ўтиш боғланди"
+ },
+ {
+  "p": 579,
+  "old": "Bu indeksni har chorakda hisoblash",
+  "new": "Mazkur holat indeksni har chorakda hisoblash",
+  "why": "Ноаниқ «Bu» аниқлаштирилди"
+ },
+ {
+  "p": 586,
+  "old": "Bu davlat banklarini isloh qilishda",
+  "new": "Olingan natijalar davlat banklarini isloh qilishda",
+  "why": "Ноаниқ «Bu» аниқлаштирилди"
+ },
+ {
+  "p": 592,
+  "old": "Jadal kreditlash avvalo daromadlilikning",
+  "new": "Fikrimizcha, jadal kreditlash avvalo daromadlilikning",
+  "why": "Изоҳловчи гап олдингисига боғланди"
+ },
+ {
+  "p": 598,
+  "old": "Biroq bu baho faqat sakkiz chorakni qamraydi",
+  "new": "Shuni ta’kidlash joizki, YaIM o‘sishi va asosiy stavka bo‘yicha olingan baholar ham faqat sakkiz chorakni qamraydi",
+  "why": "«Bu baho» нотўғри валюта курсига боғланиб қолган"
+ },
+ {
+  "p": 605,
+  "old": "Natijalarni talqin qilishda tahlil",
+  "new": "Biroq natijalarni talqin qilishda tahlil",
+  "why": "Чекловларга ўтиш олдинги хулоса билан боғланди"
+ },
+ {
+  "p": 612,
+  "old": "vazn bergan bo‘lib, yangi ma’lumotlar",
+  "new": "vazn bergani sababli, yangi ma’lumotlar",
+  "why": "Сабаб-оқибат боғланиши аниқлаштирилди"
+ }
+]

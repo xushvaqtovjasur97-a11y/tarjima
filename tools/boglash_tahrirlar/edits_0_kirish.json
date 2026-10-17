@@ -1,0 +1,44 @@
+[
+ {
+  "p": 45,
+  "old": "Bank tizimini isloh qilish strategiyasida",
+  "new": "Shu munosabat bilan, bank tizimini isloh qilish strategiyasida",
+  "why": "Олдинги хатбоши билан мантиқий боғловчи қўшилди"
+ },
+ {
+  "p": 46,
+  "old": "qarorlari hamda",
+  "new": "qarori hamda",
+  "why": "Битта қарор санаб ўтилган, бирлик шакли керак"
+ },
+ {
+  "p": 53,
+  "old": "N.Karabayev tijorat banklari",
+  "new": "Shuningdek, N.Karabayev tijorat banklari",
+  "why": "Санаб ўтилган фикрлар ўртасида боғловчи қўшилди"
+ },
+ {
+  "p": 79,
+  "old": "193,9 mlrd so‘m zarar)",
+  "new": "193,9 mlrd so‘m zarar qayd etilgan)",
+  "why": "Қавс ичидаги жумлада кесим етишмаган"
+ },
+ {
+  "p": 82,
+  "old": "beshta yirik bank MHXS",
+  "new": "beshta yirik bankning MHXS",
+  "why": "Келишик қўшимчаси тушиб қолган"
+ },
+ {
+  "p": 82,
+  "old": "bo‘yicha reyting baholanib",
+  "new": "bo‘yicha reytingi baholanib",
+  "why": "Эгалик қўшимчаси тушиб қолган, жумла боғланмаган"
+ },
+ {
+  "p": 78,
+  "old": "bo‘lsa-da, aktivlar sifati",
+  "new": "bo‘lsa-da, bank tizimi aktivlar sifati",
+  "why": "Эга аниқ эмас, жумла боғланиши тикланди"
+ }
+]

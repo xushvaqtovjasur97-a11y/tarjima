@@ -1,0 +1,3039 @@
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.23.01 RAQAMLI
+                   ILMIY KENGASH
+      TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+              SATTOROVA NASIBA G‘ANIJON QIZI
+
+
+
+TIJORAT BANKLARI LIKVIDLILIGINI OPTIMALLASHTIRISH
+                    YO‘LLARI
+
+
+
+                 08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+       Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                              AVTOREFERATI
+
+
+
+
+                               Toshkent – 2026
+
+
+                                                                            1
+                                                                        UO‘K: 336.713(575.1)
+
+Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati
+                                 mundarijasi
+
+         Content of dissertation abstract of doctor of philosophy (PhD)
+                             on economical sciences
+
+    Оглавление автореферата диссертации доктора философии (PhD)
+                     по экономическим наукам
+
+
+Sattorova Nasiba G‘anijon qizi
+Tijorat banklari likvidliligini optimallashtirish yo‘llari....................................   3
+
+Сатторова Насиба Ганижон кизи
+Пути оптимизации ликвидности коммерческих банков..............................                   31
+
+Sattorova Nasiba Ganijon kizi
+Ways to optimize the liquidity of commercial banks........................................       61
+
+
+E’lon qilingan ishlar ro‘yxati
+List of published works
+Список опубликованных работ………………….……….............................                              67
+
+
+
+
+2
+TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI
+ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.23.01 RAQAMLI
+                   ILMIY KENGASH
+      TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+              SATTOROVA NASIBA G‘ANIJON QIZI
+
+
+
+TIJORAT BANKLARI LIKVIDLILIGINI OPTIMALLASHTIRISH
+                    YO‘LLARI
+
+
+
+                 08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+       Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                              AVTOREFERATI
+
+
+
+
+                               Toshkent – 2026
+
+                                                                            3
+     Falsafa doktori (PhD) dissertatsiyasi mavzusi                 Oliy    attestatsiya   komissiyasida
+В2024.2.PhD/Iqt4120 raqam bilan ro‘yxatga olingan.
+
+    Dissertatsiya Toshkent davlat iqtisodiyot universitetida bajarilgan.
+    Dissertatsiya avtoreferati uch tilda (o‘zbek, rus, ingliz (rezyume)) Ilmiy kengash veb-sahifasi
+(www.tsue.uz) va “ZiyoNet” Аxborot-ta‘lim portali (www.ziyonet.uz )da joylashtirilgan.
+
+       Ilmiy rahbar:                            Tojiyev Rahmatilla Rahmonovich
+                                                iqtisodiyot fanlari nomzodi, professor
+
+
+       Rasmiy opponentlar:                      Xudoyqulov Xurshid Xurramovich
+                                                iqtisodiyot fanlari doktori, professor
+
+                                                Berdiyarov Baxriddin Tavasharovich
+                                                iqtisodiyot fanlari doktori, professor
+
+
+       Yetakchi tashkilot:                      Turonbank aksiyadorlik tijorat banki
+
+
+      Dissertatsiya himoyasi Toshkent davlat iqtisodiyot universiteti huzuridagi ilmiy darajalar beruvchi
+DSc.03/2025.27.12.I.23.01 raqamli Ilmiy kengashning 2026-yil “____” _____ kuni soat _____ dagi
+majlisda bo‘lib o‘tadi. Manzil: 100066, Toshkent shahri, Islom Karimov ko‘chasi, 49-uy. Tel.:(99871) 239-
+01-49; faks (99871) 239-41-23; e-mail: info@tsue.uz.
+      Dissertatsiya bilan Toshkent davlat iqtisodiyot universitetining Axborot-resurs markazida tanishish
+mumkin (___________ raqami bilan ro‘yxatga olingan). Manzil: 100066, Toshkent shahri, Islom Karimov
+ko‘chasi, 49-uy. Tel.:(99871) ) 239-01-49; faks (99871) 239-41-23; e-mail: info@tsue.uz.
+      Dissertatsiya avtoreferati 2026-yil “____” ___________kuni tarqatildi.
+      (2026-yil) “____” ___________dagi___________raqamli reestr bayonnomasi).
+
+
+
+
+                                                                                            S.U. Mexmonov
+                                                            Ilmiy darajalar beruvchi Ilmiy kengash raisi,
+                                                            iqtisodiyot fanlari doktori, professor
+
+
+                                                                                              U.V. Gafurov
+                                                            Ilmiy darajalar beruvchi Ilmiy kengash kotibi,
+                                                            iqtisodiyot fanlari doktori, professor
+
+
+                                                                                       S.K. Xudoyqulov
+                                                            Ilmiy darajalar beruvchi Ilmiy kengash
+                                                            qoshidagi ilmiy seminar raisi, iqtisodiyot
+                                                            fanlari doktori, professor
+
+
+
+
+4
+            KIRISH (falsafa doktori (PhD)dissertatsiyasi annotatsiyasi)
+
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahon iqtisodiyotida
+kuzatilayotgan o‘sish sur’atlarining sekinlashuvi tijorat banklari faoliyatiga ko‘p
+qirrali salbiy ta’sir ko‘rsatmoqda. Xususan, bank mijozlarining iqtisodiy va
+moliyaviy holati qisqa muddat ichida o‘zgarib borishi, bank tizimida likvidlik
+darajasining pasayishi, moliya bozorlarida banklarga ishonchning zaiflashishi
+hamda kredit portfellari tarkibida muammoli aktivlar va zararlar ulushining keskin
+ortishi singari murakkab holatlar yuzaga kelmoqda. Shuningdek raqamli
+transformatsiya va yashil iqtisodiyot sohalari sezilarli darajadagi moliyaviy
+likvidlilikni talab etmoqda. UNCTAD hisobotlarida ta’kidlanganidek, xalqaro
+loyihalarni moliyalashtirishdagi pasayish tendensiyalari tijorat banklaridan o‘z
+resurs bazasini optimallashtirish va likvidlilik risklarini minimallashtirish orqali
+investitsion faollikni rag‘batlantirishni taqozo etmoqda 1. Davlat tomonidan amalga
+oshiriladigan qo‘llab-quvvatlovchi chora-tadbirlar, avvalo, tijorat banklarining
+likvidlilik pozitsiyasini mustahkamlash, shu orqali esa bank tizimiga bo‘lgan
+ishonchni saqlab qolish va tiklashga xizmat qiladi. Bundan ko‘rinadiki, jahonda
+tijorat banklari likvidliligini optimallashtirishning ahamiyati tobora oshib
+bormoqda.
+      Jahonda global raqobat va moliyaviy barqarorlikni ta’minlash zarurligining
+oshib borishi sharoitida tijorat banklari likvidliligini optimallashtirish yo‘llari
+tadqiqiga bag‘ishlangan ilmiy izlanishlar doirasi kengayib bormoqda. Tijorat
+banklari likvidliligini boshqarish masalasini strategik menejment tizimida ko‘rib
+chiqish, bank menejmentida likvidlilikni optimallashtirishning zamonaviy
+yondashuvlarini ishlab chiqish, aksiyadorlarning manfaatlari bank qiymatining
+uzoq muddatli va barqaror o‘sishi bilan uzviy bog‘liqligini ta’minlash, bank
+kengashining likvidlilikni optimallashtirish borasidagi oqilona siyosatini ishlab
+chiqish, uning aktivlari va passivlarini shakllantirishda o‘zaro qarama-qarshi
+bo‘lgan likvidlilik-foydalilik ko‘rsatkichlari o‘rtasidagi oqilona nisbatni ta’minlash
+masalalari bu boradagi ilmiy tadqiqotlarning ustuvor yo‘nalishlaridan hisoblanadi.
+      O‘zbekistonda tijorat banklari likvidliligini optimallashtirish doirasida bank
+kapitali tarkibida davlat ulushini bosqichma-bosqich qisqartirish, milliy
+iqtisodiyotda pul taklifini oshirish orqali kredit resurslari qiymatini pasaytirish
+davlat iqtisodiy siyosatining ustuvor yo‘nalishlaridan biri sifatida belgilangan. Bu
+yo‘nalish doirasida tijorat banklarining likvidlilik holatini barqaror saqlash,
+likvidlilikni optimallashtirish mexanizmlarini joriy etish, shuningdek, bank
+aksiyadorlari va mijozlarining moliyaviy xizmatlarga talabini uzluksiz va to‘liq
+qondirish masalalariga alohida e’tibor qaratilmoqda. Shuningdek, banklar faoliyati
+barqarorligini ta’minlashda kapitalning yetarliligi va likvidlilik ko‘rsatkichlari
+bo‘yicha belgilangan me’yorlarga qat’iy rioya etish muhim vazifa sifatida qayd
+etilgan. Shu bilan birga, amaldagi talablarni qayta ko‘rib chiqish, ularni
+takomillashtirish va bank nazorati sohasida xalqaro e’tirof etilgan Bank nazorati
+
+1     UNCTAD (2024). World Nations Conference on                Trade   and   Development.   Available   at:
+[https://unctad.org/publication/world-investment-report-2024.
+                                                                                                          5
+bo‘yicha Bazel qo‘mitasi standartlariga muvofiqlashtirish orqali moliyaviy
+barqarorlikni mustahkamlash strategik yo‘nalish sifatida belgilab berilgan. Mazkur
+vazifalarning ijrosini ta’minlash, avvalo, tijorat banklari likvidliligini tizimli va
+ilmiy asoslangan yondashuvlar orqali optimallashtirishni taqozo etadi.
+     O‘zbekiston Respublikasi Prezidentining 2025-yil 30-yanvardagi PF-16-son
+““O‘zbekiston-2030” strategiyasini “Atrof-muhitni asrash va “yashil iqtisodiyot”
+yilida amalga oshirishga oid davlat dasturi to‘g‘risida”gi, 2022-yil 28-yanvardagi
+PF-60-son “2022-2026-yillarda Yangi O‘zbekistonni rivojlantirish strategiyasi
+to‘g‘risida”gi, 2020-yil 12-maydagi PF-5992-son “2020-2025-yillarda O‘zbekiston
+Respublikasining bank tizimini isloh qilish strategiyasi to‘g‘risida”gi, 2020-yil
+5-oktabrdagi PF-6079-son ““Raqamli O‘zbekiston-2030” strategiyasini tasdiqlash
+va amalga oshirish chora-tadbirlari to‘g‘risida”gi farmonlari, 2023-yil
+18-avgustdagi PQ-283-son “Davlat ishtirokidagi korxonalar va tijorat banklarini
+isloh qilish mexanizmini takomillashtirish bo‘yicha qo‘shimcha chora-tadbirlari
+to‘g‘risida”gi, 2019-yil 4-oktabrdagi PQ-4477-son “2019-2030-yillar davrida
+O‘zbekiston Respublikasining “yashil” iqtisodiyotga o‘tish strategiyasini tasdiqlash
+to‘g‘risida”gi qarorlari, O‘zbekiston Respublikasi Vazirlar Mahkamasining 2025-yil
+8-apreldagi 210-son “2025-2030-yillarda davlat moliyasini boshqarish tizimini
+takomillashtirish strategiyasini tasdiqlash to‘g‘risida”gi qarori hamda boshqa
+me’yoriy-huquqiy hujjatlarda belgilangan vazifalarni bajarishda mazkur
+dissertatsiya ishi muayyan darajada xizmat qiladi.
+     Tadqiqotning respublikada fan va texnologiyalar rivojlanishining ustuvor
+yo‘nalishlariga mosligi. Mazkur dissertatsiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I. “Demokratik va huquqiy jamiyatni ma’naviy-
+axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor
+yo‘nalishiga muvofiq bajarilgan.
+     Muammoning            o‘rganilganlik     darajasi.     Bankning      likvidligini
+optimallashtirish muammosini hal qilish “likvidlik”, “to‘lov qobiliyati”, “likvidlik
+xavfi” tushunchalarining mohiyati, funksiyalarining xususiyatlari, likvidlikni
+boshqarish vazifalari, bank likvidligiga ta’sir qiluvchi omillar to‘plami, likvidlikni
+boshqarish usullari bilan bevosita bog‘liq. Bu nazariy jihatlar mahalliy va xorijiy
+olimlarning qator ilmiy ishlarida ko‘rib chiqilmoqda. Bank likvidligini
+ta’minlashning zamonaviy yondashuvlari o‘zbekistonlik iqtisodchi olimlardan
+Sh.Z.Abdullayeva, B.T.Berdiyarov, B.B.Izbosarov, A.A.Omonov, O.B.Sattorov,
+S.J.Gadoyev, A.Y.Abdullayev2ning ilmiy ishlarida tijorat banklari likvidliligini
+boshqarishning ayrim nazariy va amaliy jihatlari tadqiq qilingan.
+2
+ Abdullayeva Sh.Z. Bank risklari sharoitida tijorat banklarining kredit portfelini diversifikatsiyalash. Iqtisod fanlari
+doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. –Toshkent: BMA, 2000. -46 b.; Berdiyarov B.T.
+O‘zbekiston Respublikasi tijorat banklarining likvidliligi va to‘lov qobiliyatini ta’minlash masalalari. Iqtisod fanlari
+doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. – Toshkent: BMA, 2020. -72 b.; Izbosarov B.B.
+Globallashuv sharoitida tijorat banklarining likvidliligini ta’minlash metodologiyasini takomillashtirish. Iqtisod
+fanlari doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. – Toshkent: BMA, 2023. -69 b.; Omonov A.A.
+Bank kapitalini samarali boshqarish masalalari. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan diss.
+avtoreferati. – Toshkent:BMA, 2004.–21 b.; Sattorov O.B. Tijorat banklari likvidliligini ta’minlashni
+takomillashtirish. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan diss. avtoreferati. – Toshkent: BMA,
+2008. – 21 b.; Gadoyev S.J. Tijorat banklarida likvidlilik riskini boshqarishni takomillashtirish. I.f.b.f.d. diss.
+avtoreferati. – Toshkent: BMA, 2020.-48 b.; Abdullayev A.Y. Tijorat banklarining likvidlilik darajasini oshirish
+6
+      Tijorat banklari likvidliligini boshqarish masalalari rossiyalik iqtisodchi
+olimlardan Ye.Jukov, G.G.Korobova, T.Kox, V.Zaxarov, V.Ivanov, O.Lavrushin,
+I.Larionova, Yu.Levina, V.Tenlar, E.V. Samoylov, A.V.Dorojkin., E. Yu.Lyalkova,
+S.K.Yankovskaya3ning ilmiy izlanishlarida o‘z ifodasini topgan.
+      Xorijiy iqtisodiy adabiyotlarda tijorat banklarining likvidligini boshqarish
+muammolari P.Rouz, J.Sinki, Rodjer L. Miller, Devid D. Van-Xuz, Djonson M.D.,
+Matz Leonard M., Frast Stiven M., Harm C., Koch Timothy W., Philippe Jorion,
+Sara Yasar, George Kladakis, Wenhao Li, Luo, Kaisheng4ning ilmiy tadqiqotlaridan
+o‘rin olgan.
+      Dissertatsiya mavzusining dissertatsiya bajarilayotgan oliy ta’lim
+muassasasining ilmiy tadqiqot ishlari rejasi bilan bog‘liqligi.               Mazkur
+dissertatsiya tadqiqoti Toshkent davlat iqtisodiyot universiteti ilmiy tadqiqot ishlari
+rejasiga muvofiq “O‘zbekistonda ijtimoiy-iqtisodiy rivojlanishning makroiqtisodiy
+barqarorligi va prognozlashtirishini ta’minlashning ilmiy-uslubiy asoslari va
+uslubiyatlarini takomillashtirish” ilmiy loyiha doirasida bajarilgan.
+      Tadqiqotning maqsadi tijorat banklari likvidliligini optimallashtirishga
+qaratilgan ilmiy taklif va amaliy tavsiyalar ishlab chiqishdan iborat.
+      Tadqiqotning vazifalari:
+      tijorat banklari likvidliligini boshqarishning nazariy asoslari va unga xos
+xususiyatlarni o‘rganish;
+
+metodologiyasini takomillashtirish. Iqtisod fanlari doktori (DSc) ilmiy darajasini olish uchun yozilgan diss.
+avtoreferati. – Toshkent: BMA, 2018. - 74 b.
+3
+  Банковское дело: учебник для студентов вузов, обучающихся по экон. спец. / Под ред. Е.Ф.Жукова. – М.:
+ЮНИТИ-ДАНА: Единство, 2006. – 575 с.; Банковское дело: Учебник / Под ред. д-ра экон. наук, проф.
+Г.Г.Коробова. – М.: Экономистъ, 2004. -751 с.; Тимоти У. Кох. Управление банком: пер. с англ. В 5-ти томах
+(книгах), 6-ти частях. – Уфа: Спектр. Часть I, 2003. – 112 с.; Иванов В. «Проблемы ликвидности банковских
+систем России: причины и возможные пути выхода» Бюллетень финансовой информации, №10(41), октябрь
+1998 г. стр.22.; Банковское дело: Учебник. -2-е изд., перераб. и доп./ Под ред. О.И. Лаврушина. – М.: Финансы
+и статистика, 2004. – 672 с.; Ларионова И.В. Управление активами и пассивами в коммерческом банке. – М.:
+Консалтбанкир, 2003. – 272 с.; Левина Ю.Б. Банковская ликвидность: сущность, анализ и управление. – М.:
+ЭКОН, 2001. – 164 с.; Тен В.В. Модели и инструменты управления финансовой устойчивостью банка. – М.:
+Анкил, 2006., - 290с.; Самойлов Е.В. – “Совершенствование методов управления мгновенной и краткосрочной
+ликвидностью коммерческого банка”. Автореферат диссертации на соискание ученой степени кандидата
+экономических наук. – М.: Нижний Новгород, 2006.- 26 с., Дорожкин А.В. Выбор оптимальной структуры
+банковского портфеля с учетом ликвидности. Автореферат диссертации на соискание ученой степени
+кандидата экономических наук. – М.: Москва, 2005.- 24 с., Лялькова, Елена Юрьевна. Обеспечение
+ликвидности коммерческих банков : диссертация кандидата экономических наук. – М.: Иваново, 2013.- 198
+с., Янковская С.К. Экономический анализ рисков ликвидности коммерческого банка. Автореферат
+диссертации на соискание ученой степени кандидата экономических наук. – М.: Воронеж, 2012.- 24 с.
+4
+   Роуз П.С. Банковский менеджмент. БМА. – М.: Дело-ЛТД, 1995.-743 с.; Дж. Синки, мл. Управление
+финансами в коммерческих банках. пер. с англ. 4-го переработанного изд. БМА. – М., 1994, Catallaxy. – 820
+с.; Matz Leonard M. Liquidity Risk Management / Leonard M. Matz. − Sheshunoff Information Services Inc, USA,
+2002. − 8 p., Фраст Стивен М. Настольная книга банковского аналитика. – Днепропетровск: Баланс Бизнес
+Букс, 2006 . – 672 с.; Harm C. Bank management between shareholders and regulators. – Vienna: SUERF, 2002.
+ISBN 3-902109-13-0.; Koch Timothy W. University of South Carolina. Bank Management/3rd Edition - The Dryden
+Press Harcourt Brace College Publishers. Fort Worth Philadelphia – Tokyo, 1995.; Philippe Jorion. Financial risk
+manager/GARP. Handbook. Fourth edition.- Published by John Wiley & Sons, Inc., 2007.; Yasar, Sara – “Essays on
+Bank Liquidity Creation” ACADEMIC DISSERTATION- Finlyandiya. 2021. ISBN 978-952-476-986-0.; Kladakis,
+Georgios – “Empirical Studies on Bank Liquidity Creation: Implications for Regulation, Credit Ratings and Ethics”
+A thesis submitted in partial fulfilment of the requirements for the degree of Doctor of Philosophy - Buyuk Britaniya.
+2021.; Li, Wenhao – “Public Liquidity and Banking” in partial fulfillment of the requirements for the degree of Doctor
+of Philosophy – AQSh. 2019.; LUO, KAISHENG Bank deposits, liquidity management and macroeconomy. Doctoral
+thesis, Durham University. – UK, 2023.
+                                                                                                                     7
+      bank likvidliligini optimal darajada ta’minlashga xizmat qiluvchi usullarni
+aniqlash;
+      banklarda likvidlikni boshqarish strategiyalarini baholash;
+      bankning likvid mablag‘larga bo‘lgan ehtiyojini baholash;
+      ATB “Agrobank” likvidliligiga ta’sir etuvchi asosiy omillarni tahlil qilish;
+      xorijiy davlatlarda likvidlikni ta’minlash amaliyotini o‘rganish va uning ijobiy
+jihatlarini milliy bank tizimida qo‘llash bo‘yicha ilmiy xulosalar ishlab chiqish;
+      bank tizimi likvidliligini optimallashtirishda Markaziy bankning rolini
+kuchaytirishga oid taklif va tavsiyalar ishlab chiqish;
+      tijorat banklari likvidliligini optimallashtirishga qaratilgan ilmiy-amaliy
+takliflar tayyorlash.
+      Tadqiqotning obyekti sifatida O‘zbekiston Respublikasi tijorat banklari,
+xususan Agrobank aksiyadorlik tijorat bankining likvidliligini optimallashtirish
+amaliyoti olingan.
+      Tadqiqotning predmeti bo‘lib tijorat banki likvidliligini optimallashtirishda
+vujudga keladigan moliyaviy-iqtisodiy munosabatlar tashkil etadi.
+      Tadqiqotning usullari. Dissertatsiyada tizimli yondashuv bilan birga
+boshqarishning qiyosiy va tarkibiy tahlil, tanlab tadqiq qilish usullari qo‘llanilgan.
+Shuningdek, maqsadli va dasturiy yondashuvlar, umumlashtirish, qayta ishlash,
+sintez usullari qo‘llanilgan.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+      uslubiy yondashuvga ko‘ra “tijorat banklari likvidligini optimallashtirish”
+tushunchasining iqtisodiy mazmuni bank aktivlari va majburiyatlari tuzilmasini real
+vaqtda qayta balanslash orqali likvidlik tavakkalchiliklarini minimallashtirish
+hamda filiallararo likvidlik disbalansini dinamik sinxronlashtiruvchi indekslar
+asosida prognoz qilish imkonini beruvchi innovatsion moliyaviy menejment
+vositalari joriy etilishini nazarda tutuvchi, banklar resurslaridan samarali va barqaror
+foydalanishni ta’minlovchi ilmiy-amaliy kategoriya sifatida takomillashtirilgan;
+      banklarda aktivlar diversifikatsiyasi, markazlashmagan resurslar manbalari va
+likvid aktivlarning tez aylanuvchanligi omillaridan boshqaruvda foydalanishni
+amalga oshirish orqali likvidlikni yetmish kunlik rejalashtirish modelida minimal
+likvidlik talablariga mos kelish ko‘rsatkichini 95 %gacha oshirish imkoni
+asoslangan;
+      Markaziy bankning qayta moliyalash, svop operatsiyalari va qimmatli
+qog‘ozlar bilan operatsiyalarni qamrab olgan likvidlilikni tartibga solish vositalarini
+diversifikatsiyalash hamda ularni qo‘llash mezonlarini takomillashtirish orqali bank
+tizimida kunlik likvidlik ehtiyojini 15-20 %gacha qoplash va qisqa muddatli moliya
+bozorida likvidlik disbalansini 30 %gacha kamaytirish taklif etilgan;
+      banklarda filiallararo likvidlik disbalansini VAR modeli va stress-test
+ssenariylari asosida aniqlash hamda muvofiqlashtirish usuli orqali korxonalar
+faoliyatini moliyaviy modellashtirishni optimallashtiruvchi, likvidlik taqchilligini
+18-22 %gacha kamaytirish va filiallararo pul oqimlari balansini 0,9 korrelyatsiya
+koeffitsiyenti darajasida uyg‘unlashtirish asoslangan.
+
+
+8
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      bank tizimi likvidliligini ta’minlashda Markaziy bankning so‘nggi navbatdagi
+kreditor sifatidagi rolini oshirish yo‘nalishlari asoslab berilgan;
+      Bazel qo‘mitasining likvidlilikni boshqarish va tartibga solish bo‘yicha yangi
+talablarini respublikamiz banklari amaliyotida qo‘llash bo‘yicha ilmiy tavsiyalar
+ishlab chiqilgan;
+      tijorat banklari likvidliligini optimallashtirish vositalarini rivojlantirish
+bo‘yicha ilmiy takliflar ishlab chiqilgan;
+      tijorat banklarida likvidlilikni boshqarishning innovatsion strategiyasini
+takomillashtirish bo‘yicha ilmiy-amaliy takliflar ishlab chiqilgan.
+      Tadqiqot natijalarining ishonchliligi. Dissertatsiya tadqiqotida olingan ilmiy
+natijalarning ishonchliligi ishda qo‘llanilgan yondashuv va usullarning maqsadga
+muvofiqligi, ma’lumotlar bazasining rasmiy manbalardan olinganligi, shuningdek,
+chiqarilgan xulosa, taklif va tavsiyalarning amaliyotga joriy etilganligi, olingan
+natijalarning vakolatli tashkilotlar tomonidan tasdiqlanganligi bilan izohlanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati izlanish natijasida olingan ilmiy xulosalar, ishlab chiqilgan taklif va
+tavsiyalar     tijorat    banklari     likvidliligini    optimallashtirish   amaliyotini
+takomillashtirishga qaratilgan ilmiy izlanishlarga asos sifatida xizmat qilishi, tijorat
+banklari likvidliligini optimallashtirishga oid uslubiy ko‘rsatmalarni ishlab chiqish,
+o‘quv adabiyotlarini yaratishda foydalanish mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni banklarning likvidliligini optimallashtirish amaliyotini
+takomillashtirishga qaratilgan chora-tadbirlar majmuini ishlab chiqishda hamda
+iqtisodiyot yo‘nalishidagi oliy o‘quv yurtlarida “Bank ishi”, “Tijorat banklarining
+aktiv va passivlarini boshqarish” va “Bank menejmenti” fanlarini o‘qitishda
+qo‘llanma sifatida foydalanish mumkin.
+      Tadqiqot natijalarining joriy qilinishi. Tijorat banklari likvidliligini
+optimallashtirishga qaratilgan ilmiy taklif va amaliy tavsiyalar asosida:
+      uslubiy yondashuvga ko‘ra “tijorat banklari likvidligini optimallashtirish”
+tushunchasining iqtisodiy mazmunini bank aktivlari va majburiyatlari tuzilmasini
+real vaqtda qayta balanslash orqali likvidlik tavakkalchiliklarini minimallashtirish
+hamda filiallararo likvidlik disbalansini dinamik sinxronlashtiruvchi indekslar
+asosida prognoz qilish imkonini beruvchi innovatsion moliyaviy menejment
+vositalari joriy etilishini nazarda tutuvchi, banklar resurslaridan samarali va barqaror
+foydalanishni ta’minlovchi ilmiy-amaliy kategoriya sifatida takomillashtirishga oid
+nazariy-uslubiy ishlanmalardan oliy o‘quv yurtlari talabalari uchun tavsiya etilgan
+“Tijorat banklari” nomli o‘quv qo‘llanmani tayyorlashda foydalanilgan (Toshkent
+davlat iqtisodiyot universiteti rektorining 2023-yil 28-avgustdagi 272-sonli
+buyrug‘i). Mazkur ilmiy taklifning amaliyotga joriy etilishi natijasida talabalarda
+innovatsion moliyaviy menejment vositalari joriy etilishini nazarda tutuvchi, banklar
+resurslaridan samarali va barqaror foydalanishni ta’minlovchi ilmiy-amaliy
+kategoriya       sifatida    takomillashtirilgan      “tijorat   banklari    likvidligini
+
+
+                                                                                       9
+optimallashtirish” tushunchasi bo‘yicha nazariy bilimlarni kengaytirish imkoni
+yaratilgan;
+     banklarda aktivlar diversifikatsiyasi, markazlashmagan resurslar manbalari va
+likvid aktivlarning tez aylanuvchanligi omillaridan boshqaruvda foydalanishni
+amalga oshirish orqali likvidlikni yetmish kunlik rejalashtirish modelida minimal
+likvidlik talablariga mos kelish ko‘rsatkichini 95 %gacha oshirish taklifi
+“Agrobank” ATBning faoliyatiga joriy etilgan (“Agrobank” ATBning 2025-yil 26-
+iyundagi 20-3_08/870-sonli ma’lumotnomasi). Mazkur ilmiy taklifning amaliyotga
+joriy etilishi natijasida banklarda aktivlar diversifikatsiyasi, markazlashmagan
+resurslar manbalari va likvid aktivlarning tez aylanuvchanligi omillaridan
+boshqaruvda foydalanishni amalga oshirish orqali likvidlikni optimallashtirish
+imkoni yaratilgan;
+     Markaziy bankning qayta moliyalash, svop operatsiyalari va qimmatli
+qog‘ozlar bilan operatsiyalarni qamrab olgan likvidlilikni tartibga solish vositalarini
+diversifikatsiyalash hamda ularni qo‘llash mezonlarini takomillashtirish orqali bank
+tizimida kunlik likvidlik ehtiyojini 15-20 %gacha qoplash va qisqa muddatli moliya
+bozorida likvidlik disbalansini 30 %gacha kamaytirish taklifi “Agrobank” ATBning
+faoliyatiga joriy etilgan (“Agrobank” ATBning 2025-yil 26-iyundagi 20-3_08/870-
+sonli ma’lumotnomasi). Mazkur ilmiy taklifning amaliyotga joriy etilishi natijasida
+Markaziy bankning qayta moliyalash, svop operatsiyalari va qimmatli qog‘ozlar
+bilan operatsiyalarni qamrab olgan likvidlilikni tartibga solish vositalarini
+diversifikatsiyalash hamda ularni qo‘llash mezonlarini takomillashtirish orqali
+likvidlikni optimallashtirish imkoni yaratilgan;
+     banklarda filiallararo likvidlik disbalansini VAR modeli va stress-test
+ssenariylari asosida aniqlash hamda muvofiqlashtirish usuli orqali korxonalar
+faoliyatini moliyaviy modellashtirishni optimallashtiruvchi, likvidlik taqchilligini
+18-22 %gacha kamaytirish va filiallararo pul oqimlari balansini 0,9 korrelyatsiya
+koeffitsiyenti darajasida uyg‘unlashtirish taklifi “Agrobank” ATBning faoliyatiga
+joriy etilgan (“Agrobank” ATBning 2025-yil 26-iyundagi 20-3_08/870-sonli
+ma’lumotnomasi). Mazkur ilmiy taklifning amaliyotga joriy etilishi natijasida
+banklarda filiallararo likvidlik disbalansini VAR modeli va stress-test ssenariylari
+asosida aniqlash hamda muvofiqlashtirish usuli orqali likvidlikni optimallashtirish
+imkoni yaratilgan.
+     Tadqiqot natijalarining aprobatsiyasi. Tadqiqot natijalari 3 ta xalqaro va 5
+ta respublika miqyosida o‘tkazilgan – jami 8 ta ilmiy-amaliy anjumanlarida
+muhokamadan o‘tkazilgan.
+     Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya ishi mavzusi
+bo‘yicha jami 13 ta ilmiy ish, jumladan, O‘zbekiston Respublikasi Oliy attestatsiya
+komissiyasining doktorlik dissertatsiyalari asosiy ilmiy natijalarini chop etishga
+tavsiya etilgan mahalliy jurnallarda 6 ta, xorijiy jurnallarda 3 ta maqola chop etilgan.
+     Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, 3 ta bob,
+xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat. Tadqiqot hajmi
+134 betni tashkil etgan.
+
+
+10
+                     DISSERTATSIYANING ASOSIY MAZMUNI
+      Kirish qismida dissertatsiya mavzusining dolzarbligi va zarurati asoslangan,
+tadqiqotning maqsadi va asosiy vazifalari, obyekti va predmeti shakllantirilgan,
+respublika fan va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga bog‘liqligi
+ko‘rsatilgan, tadqiqotning ilmiy yangiligi va amaliy natijalari bayon etilgan, olingan
+natijalarning ilmiy va amaliy ahamiyati yoritib berilgan. Shuningdek, tadqiqot
+natijalarining amaliyotga joriy etilishi, nashr qilingan ishlar va dissertatsiya tuzilishi
+bo‘yicha ma’lumotlar keltirilgan.
+      Dissertatsiyaning “Tijorat banklari likvidliligini optimallashtirishni
+nazariy asoslari” deb nomlangan birinchi bobida bank likvidliligini boshqarishning
+nazariy asoslari, tijorat banklari likvidligi boshqarish usullari, banklarda likvidlikni
+boshqarish strategiyalar qiyosiy tahlil qilingan. Tijorat banklari likvidliligini
+samarali boshqarish bankning ishonchliligini mustahkamlashga xizmat qiladi.
+Chunki aksiyadorlarning manfaatlari bank qiymatining uzoq muddatli va barqaror
+o‘sishi bilan uzviy bog‘liq. Bank kengashining likvidlilikni boshqarish borasidagi
+siyosati uning aktivlari va passivlarini shakllantirishda o‘zaro qarama-qarshi bo‘lgan
+likvidlilik-foydalilik ko‘rsatkichlari o‘rtasidagi oqilona nisbatni ta’minlashga
+qaratilishi lozim.
+      Likvidlilik tijorat banki faoliyatining muhim sifat ko‘rsatkichlaridan biri bo‘lib,
+bankning ishonchliligi va barqarorligini ko‘rsatadi. Bankning likvidliligi qanchalik
+yuqori bo‘lsa, uning majburiyatlarni bajarish imkoniyati ham shunchalik yuqori
+bo‘ladi.
+      Bank likvidliligini bankning omonatchilari va kreditorlari oldidagi
+majburiyatlarni o‘z vaqtida va yo‘qotishlarsiz bajarish qobiliyati sifatida talqin qilish
+adabiyotlarda ko‘p uchraydi5.
+      Taniqli iqtisodchi olim J.Sinkining fikricha, likvidlilik tijorat banklari uchun
+depozitlarning qaytarilishiga va kreditga talabni qondirishga tayyor turish uchun
+muhim hisoblanadi. Ayni paytda, kutilmagan pul oqimi bilan bog‘liq o‘zgarishlar
+bank likvidliligiga tahdid soladi6. O.I. Lavrushin tijorat banklarining likvidliligi
+uning moliyaviy turg‘unligi va barqarorligi, shuningdek, “bankning yеtarli
+darajadagi kapitali mavjudligi, qulay joylashtirilishi va tegishli muddatni hisobga
+olib, bankning aktiv va passiv mablag‘lari kattaligi sifatida aniqlanadi” deb
+ta’kidlaydi7.
+      P. Rouz likvidlilikni bankning “hayotiyligi”ni saqlab turuvchi mexanizm
+sifatida tavsiflaydi. Uning fikricha, likvidlilikni samarali boshqarish bankni shok
+holatlaridan himoya qiladi va uning bozordagi nufuzini saqlab qoladi 8. M. Osband
+esa likvidlilikni bank risk-menejmenti bilan uzviy bog‘liq holda ko‘radi. U
+likvidlilik yetishmasligi ko‘p hollarda aktiv–muddat disbalansi va aktivlar sifatining
+pasayishi natijasida yuzaga kelishini ta’kidlaydi9.
+5
+  Лаврушин О.И. Банковское дело: учебник для вузов – М.: Финансы и статистика, 2000. – 140с.
+6
+  Синки Ж. Управление финансами в коммерческом банке: Пер. с англ. – М.: Catallaxy, 1994. – 1548 с.
+7
+  Банковский менежмент: учебник /кол. Авторов; под ред. Проф О.И.Лаврушина.- 2 изд.. переб. и доп. – М.:
+КНОРУС, 2009. – с.142.
+8 Rose P. S., Hudgins S. C. Bank Management & Financial Services. – New York: McGraw-Hill, 2013. – 750 p.
+9 Osband M. Bank Risk and Liquidity Management. – Berlin: Springer, 2011. – 264 p.
+
+                                                                                                      11
+     Ekonometrist L. Goodhart esa bank likvidliligini faqat mikrodarajada baholash
+yetarli emasligini, uning makroiqtisodiy omillar — pul-kredit siyosati, siyosiy
+barqarorlik, inflyatsiya va kapital bozorlari likvidligi bilan bevosita bog‘liqligini
+qayd etadi10. B. Bernankening fikricha, likvidlilik faqat banklarning ichki
+muammosi emas, balki makroiqtisodiy barqarorlikning muhim shartidir 11.
+     Muallifning fikricha, “tijorat banklari likvidligini optimallashtirish” — bank
+aktivlari va majburiyatlarini real vaqt rejimida qayta muvofiqlashtirish orqali
+likvidlik tavakkalchiliklarini kamaytirish hamda filiallararo likvidlik
+nomutanosibligini dinamik ko‘rsatkichlar asosida oldindan prognoz qilishga xizmat
+qiluvchi boshqaruv yondashuvidir12.
+
+
+
+
+                1-rasm. O‘zbekiston bank tizimining likvidlik ko‘rsatkichlari13
+     1-rasmdan ko‘rinadiki, 2021–2025-yillar davomida bank tizimi likvidlilik
+ko‘rsatkichlari o‘zgaruvchan bo‘lgan. Yuqori likvidli aktivlar ulushi 14,2 %dan 19,4
+%gacha oshib, 2025-yilda 17,3 %ni tashkil etganini ko‘rishimiz mumkin. LCR har
+doim me’yor(100 %)dan yuqorida bo‘lib, 2021-yilda 224,5 % bilan maksimal
+darajaga chiqqan. NSFR esa nisbatan barqaror bo‘lib, 109,9–115,6 % oralig‘ida
+bo‘lgan. Bunday likvidlilik ko‘rsatkichlari umumiy me’yorlarga mos bo‘lganini,
+biroq ularning dinamikasi notekis ekanini ko‘rish mumkin. Aynan shu holat
+likvidlikni statik emas, balki real vaqtda va optimallashtirilgan boshqaruv asosida
+tashkil etish zaruratini yuzaga keltiradi.
+     Tadqiqotning “Tijorat banklarida likvidlilikni joriy holati va uning tahlili”
+deb nomlangan ikkinchi bobida tijorat banklarida likvidlikni ta’minlashning joriy
+holati tahlil qilinib, tijorat banklari likvidligiga ta’sir qiluvchi omillar baholangan
+
+10 Goodhart, C. The Basel Committee on Banking Supervision: A History. — Cambridge: Cambridge University Press,
+
+2019. — 420 p.
+11 Bernanke B., Blanchard O. Monetary Policy and Financial Stability. — Cambridge: MIT Press, 2023. — 412p.
+12
+   Sattorova N.G‘. Tijorat banklari. O‘quv qo‘llanma. – T.: “Innovatsion rivojlanish” nashriyot-matbaa uyi, 2024. 312
+bet.
+13
+   Markaziy bank ma’lumlotlari asosida muallif tomonidan tuzildi.
+12
+va uning likvidligiga ta’siri aniqlangan. Bank likvidliligini optimallashtirish
+bo‘yicha qarorlarni qabul qilishda joriy likvidlik holati, resurslarga talabning davriy
+ravishda o‘zgarib turishi, resurslarga talabning kutilayotgan o‘zgarishlari, resurslar
+manbalari va ularning qiymati, aktivlarning sifati, resurslarning jamlanganligi,
+bankning kapitali va foydaliligini hisobga olgan holdagi bankning umumiy
+moliyaviy holati, balansdan tashqari majburiyatlar va shartnomalar, jumladan,
+ishlatilmayotgan kredit liniyalari, akkreditivlar, qimmatbaho qog‘ozlar va valyutani
+sotib olish bo‘yicha tuzilgan shartnomalar singari omillar chuqur tahlil qilinishi
+lozim.
+      Ta’kidlash lozimki, bank likvidliligini samarali boshqarish aktiv va passivlarni
+boshqarishni o‘z ichiga olishi kerak. Tijorat banklari likvidliligini ta’minlash va uni
+oqilona boshqarish bank aktivlari va majburiyatlari oqimi, ya’ni bank
+mablag‘larining manbalari va bu mablag‘lardan foydalanish muddatlarini
+muvofiqlashtirishga asoslanadi.
+                                                                               1-jadval
+            “Agrobank” ATB ning likvidlilik ko‘rsatkichlari holati         14
+                                                                                   (foiz hisobida)
+                                                                                       Me’yoriy
+                                                 Hisobot sanasiga amalda
+          Ko‘rsatkichlar                                                               darajasi
+                                        01.01.2022       01.01.2023   01.01.2024
+                                                                                           Min
+  Joriy likvidlik koeffitsiyenti           0,789            0,757       0,799
+                                                                                          0,300
+  Likvidlilikni qoplash me’yori                                                            Min
+                                           1,628            1,217       1,232
+  koeffitsiyenti                                                                          1,000
+  Sof barqaror moliyalashtirish                                                            Min
+                                           1,159            1,103       1,040
+  me’yori koeffitsiyenti                                                                  1,000
+     1-jadval ma’lumotlariga ko‘ra, “Agrobank” ATBning joriy likvidlilik
+koeffitsiyenti O‘zbekiston Respublikasi Markaziy banki tomonidan belgilangan
+talablar doirasida bo‘lgan. Boshqacha aytganda, bu ko‘rsatkich 2024-yilning
+1-yanvar holatiga ko‘ra 0,799 koeffitsiyentni tashkil etgan bo‘lsa, bu ko‘rsatkich
+talab qilingan darajadan 0,499 birlikka yuqori bo‘lganligini kuzatish mumkin.
+     Shuningdek, “Agrobank” ATB tomonidan likvidlilikni qoplash me’yori
+koeffitsiyenti va sof barqaror moliyalashtirish me’yori koeffitsiyenti talablari ham
+kuzatib borilgan. Bankda likvidlilikni qoplash me’yori koeffitsiyenti 2024-yil
+1-yanvar holatiga ko‘ra 1,232 koeffitsiyenti tashkil etgan bo‘lsa, bu ko‘rsatkich
+2023-yilga nisbatan solishtirilganda 0,015 koeffitsiyentga oshganligini ko‘rish
+mumkin. 2024-yilning boshiga likvidlilikni qoplash me’yori koeffitsiyenti talab
+qilingan darajadan 0,040 birlikka ortganligini ko‘rish mumkin.
+     Shu bilan birga, sof barqaror moliyalashtirish me’yori koeffitsiyenti
+2024-yilga kelib 2022-2023-yilga nisbatan sezilarli darajada kamayganligini ko‘rish
+mumkin. Bu ko‘rsatkich 2024-yilning 1-yanvar holatiga ko‘ra 1,040 koeffitsiyentni
+tashkil etgan bo‘lsa ham, bu talab qilingan darajadan 0,040 birlikka ortiqligini
+ko‘rish mumkin.
+
+
+14 “Agrobank” ATB ning hisobot ma’lumotlari asosida tuzilgan.
+
+                                                                                                     13
+                                                                         2-jadval
+          O‘zbekiston Respublikasida pul massasi hajmida va tijorat banklari
+              passivlarining umumiy hajmida depozitlarning salmog‘i 15
+                                                                                                                     (foizda)
+                                                                   Yillar
+            Ko‘rsatkichlar
+                                         31.12.2020 31.12.2021 31.12.2022 31.12.2023                            31.12.2024
+   M2 pul agregati hajmida milliy
+                                            46,9            49,0              51,1               56,0               75,8
+   valyutadagi depozitlar salmog‘i
+   Tijorat   banklari passivlari
+                                            37,3            41,8              45,4               43,5               47,2
+   hajmida depozitlar salmog‘i
+       2-jadvalda keltirilgan ma’lumotlardan yaqqol ko‘rinadiki, respublikamizda
+  2020-2024-yillarda milliy valyutadagi depozitlarning M2 pul agregati hajmida
+  salmog‘i yuqori bo‘lgan. Bundan tashqari, bu ko‘rsatkich 2024-yilda 2020-yilga
+  nisbatan yuqori sur’atda o‘sgan. 2020-2024-yillarda depozitlarning tijorat banklari
+  passivlarining umumiy hajmidagi salmog‘i yuqori bo‘lgan. Endi “Agrobank”
+  ATBning kapital bazasi tarkibini ko‘rib chiqish lozim.
+                                                                             3-jadval
+            “Agrobank” ATBning kapital bazasi tarkibi va dinamikasi       16
+
+                                                   (1 yanvar holatiga, ming. so‘mda)
+                                                                     Yillar
+O‘zlik kapitali tarkibi
+                            2018        2019         2020            2021              2022              2023          2024
+Ustav kapital             1 335 562,6 2 162 962,6 4 393 016,5 4 907 783,0 8 553 958,9 8 553 958,9 10 770 191,0
+Qo‘shilgan kapital         1 416,8     1 416,8      1 416,8         1 416,8           1 416,8           1 416,8       1 416,8
+Rezerv kapitali            14 240,4   43 204,8     57 678,9        198 014,8         382 704,7      204 209,7        771 131,6
+Taqsimlanmagan foyda 22 720,2         27 821,4     174 976,0       263 998,5         408 056,2      745 682,2        754 167,7
+Jami o‘zlik kapitali      1 373 940,0 2 235 405,6 4 627 088,4 5 371 213,2 9 346 136,7 9 505 267,0 12 296 907,3
+
+        Ma’lumki, bankning moliyaviy barqarorligi ko‘p jihatdan bank kapitali sifatiga
+  bog‘liq. Odatda ustav kapitalining to‘langan qismi birinchi darajali kapitalning eng
+  barqaror elementi sanaladi. “Agrobank” ATB kapital bazasi tahlili ko‘rsatishicha,
+  2024-yilga kelib, ustav kapitalining umumiy o‘zlik (regulyativ) kapital tarkibidagi
+  salmog‘i 114,1 foizni tashkil etgan. Bu esa, 2022-2023 yilga nisbatan 3-5 foizga
+  oshganligini izohlaydi (3-jadval).
+        Ustav kapitalining bank umumiy kapitali tarkibidagi salmog‘i ortib borishi
+  bank kapitalini tartibga solishning zamonaviy tendensiyalariga mos keladi.
+  Chunonchi, kapital yеtarliligi bo‘yicha talablarni isloh qilishda umumiy kapitalning
+  sifatli elementlari ulushini oshirishga alohida e’tibor qaratilmoqda. Mustahkam
+  kapital bazasi, o‘zlik kapitalning sezilarli ulushini anglatadi. Bank kapitalining
+  asosini ustav fondi va bankning moliyaviy barqarorligini ta’minlash maqsadida turli
+  maqsadlar uchun mo‘ljallangan qonuniy va boshqa fondlar tashkil etadi. Bankning
+  o‘zlik kapitali qanchalik katta bo‘lsa, uning likvidligi yuqori bo‘ladi17.
+
+  15  O‘zbekiston Respublikasi Markaziy bankining statistik ma’lumotlari asosida tuzilgan.
+  16
+     ATB “Agrobank”ning hisobot ma’lumotlari asosida tuzilgan.
+  17
+     Коваленко О.Г., Курилова А.А. Теоретические основы управления ликвидностью банка. Вестник НГИЭИ,
+  2024, №5
+  14
+     Ta’kidlash lozimki, tijorat banklari depozit bazasi tarkibida beqaror manba
+hisoblangan transaksion, ya’ni talab qilib olinguncha bo‘lgan depozitlar
+salmog‘ining ortishi bank likvidliligiga nisbatan salbiy ta’sir qilishi mumkin.
+Chunki muddatsiz depozitlar istalgan paytdan talab qilinishi bois, likvid
+mablag‘larga doimiy talabni yuzaga keltiradi. Talab qilib olgunga qadar depozitlar
+miqdori qanchalik yuqori bo‘lsa, bankdan shunchalik ko‘p birlamchi likvid
+aktivlarni talab qiladi. Talab qilib olgunga qadar depozitlar bankka jalb qilingan eng
+arzon, shu bilan birga beqaror, ya’ni qiyin boshqariladigan mablag‘lar hisoblanadi 18.
+
+
+
+          12.30%
+                      26.70%    27.00%                 22.30%
+                                           36.30%
+          27.80%
+                      15.80%    15.60%                 21.20%      64.70%
+                                           10.30%                           78.67%     83.75%   80.25%   79.96%
+                                                                                                                  87.15%
+
+
+
+          60.00%      57.50%    57.40%                 56.50%
+                                           53.40%
+                                                                   35.30%
+                                                                            21.33%     16.25%   19.75%   20.04%
+                                                                                                                  12.85%
+
+
+
+
+                   Talab qilib olinguncha depozitlar            Jamg`arma depozitlar       Muddatli depozitlar
+
+        2-rasm. “Agrobank” ATBning depozit bazasi tarkibi va dinamikasi19
+      Shunga qaramay, xalqaro bank nazorati bo‘yicha Bazel qo‘mitasining
+likvidlilikni tartibga solish va boshqarish bo‘yicha yangi talablariga ko‘ra joriy
+likvidlilik koeffitsiyenti 100 %dan kam bo‘lmasligi lozimligi e’tiborga olinsa,
+Agrobank depozit bazasi tarkibida transaksion depozitlar salmog‘ini yanada
+kamaytirish maqsadga muvofiq.
+      Muallifning fikricha, “Agrobank” ATB depozit bazasi sifatini oshirish va uning
+barqaror manbalardan tashkil topishini rag‘batlantirish maqsadida bank marketingi
+doirasida bank xizmatlarining maxsus paketlari shakllantirilishi lozim. Bunda asosiy
+e’tibor, katta miqdordagi pul mablag‘larini uzoq muddatli (odatda 3 yildan ortiq)
+depozitlarga joylashtirgan mijozlarga bankning boshqa xizmatlari bahosidan
+chegirmalar taqdim etishga qaratilishi kerak. Bu, birinchidan, depozit bazasi sifatini
+oshirishga, ikkinchidan, likvid mablag‘larga talabni barqarorlashtirishga xizmat
+qiladi.
+      Odatda tijorat banki bankrotlikka yuz tutganda uning kapitali mijozlar va
+ta’sischilar oldidagi majburiyatlarni qoplashga yo‘naltiriladi. Shu sababli ham,
+kapital hajmi qanchalik ko‘p bo‘lsa, shunga mutanosib ravishda bankning to‘lovga
+qobilligi ham shunchalik yuqori bo‘ladi. Bundan ko‘rinadiki, bankning kapital
+bazasi uning likvidliligiga ta’sir etuvchi muhim ichki omillardan biri hisoblanadi.
+18
+   Berdiyarov B.T. Tijorat banklari likvidliligini ta’minlashning nazariy masalalari // “Iqtisodiyot va innovatsion
+texnologiyalar” ilmiy elektron jurnali. № 4, iyul-avgust, 2016-y.
+19
+   “Agrobank” ATB ning hisobot ma’lumotlari asosida tuzilgan.
+                                                                                                                           15
+     Shunday bo‘lsa-da, kapital tarkibida kutilishi mumkin bo‘lgan ehtimoliy
+yo‘qotishlarni qoplash uchun zaxiralar ham shakllantiriladiki, bular, o‘z navbatida,
+100 % xarajatga olib borilishi bois, bank daromadliligining pasayishiga sabab
+bo‘ladi. Ayni paytda, Bank nazorati bo‘yicha Bazel qo‘mitasining yangi talablari
+kapital tarkibida sof foydadan shakllantiriladigan zaxiralarni oshirishni ko‘zda
+tutmoqda.
+
+                           Tijorat banklari likvidlilik darajasiga ta’sir etuvchi omillar
+
+
+
+
+                                Tashqi                                          Ichki
+
+
+
+             Qayta moliyalashtirish                            Umumiy                           Maxsus
+           va majburiy zaxira siyosati
+                                                                                                  Bank aktivlari
+                                                        Bank menejmenti
+              Iqtisodiy va siyosiy                                                                sifati darajasi
+                                                            darajasi
+            vaziyatning barqarorligi
+                                                                                               Bank balansi talab va
+                                                            Iqtisodiy
+                                                                                                majburiyatlarning
+              Bank qonunchiligini                     subyektlarning turli
+                                                          yo‘nalishlar                                holati
+           takomillashtirilish darajasi
+                                                      bo‘yicha manfaatlari
+                                                          muvofiqligi                          Tashqi manbaalardan
+          Olib borilayotgan pul-kredit                                                           mablag‘larni jalb
+           siyosatining samaradorligi                                                           qilish imkoniyatlari
+                                                         Bank mijozlar
+                                                        bazasining o‘ziga
+               Moliya bozorining                        xos xususiyatlari
+               rivojlanish darajasi                                                                Kapital bazasi
+                                                           Bank imiji
+              Bank tizimini tartibga
+                                                                                                 Depozitlar sifati
+            solishning sifati va holati
+
+
+               Aholining bandlik
+                    darajasi
+
+
+     3-rasm. Tijorat banklari likvidlik darajasiga ta’sir etuvchi omillarning
+                                 guruhlanishi20
+     3-rasmdan kelib chiqib, tijorat banklarining likvidlik darajasiga tashqi va ichki
+omillar ta’sir qiladi degan xulosaga kelish mumkin. Bank tashqi omillarning ta’sirini
+cheklab qo‘yishi mumkin emas, shuning uchun tijorat bankining faoliyati bilan
+bevosita bog‘liq ichki omillarga ko‘proq e’tibor qaratish kerak, chunki ularni
+boshqarib likvidlilikka salbiy ta’sirini kamaytirish mumkin. Aks holda, bu omillar
+likvidlik risklarining paydo bo‘lishiga olib keladi, bu moliyaviy vositalarni to‘lov
+
+
+20 Tojiyev R. Banklarda likvidlilikni boshqarish strategiyalari. // Iqtisodiyot va ta’lim. №2.2018. 12-14b.
+
+16
+ vositalariga tezkor ravishda aylantira olishning yo‘qolishi yoki qo‘shimcha
+ majburiyatlarni jalb qilish bilan bog‘liq bo‘lgan risklarni anglatadi21.
+      Muallifning fikricha, bank kapitali tarkibidagi eng barqaror manba oddiy
+ aksiyalarning to‘langan qismi, boshqacha aytganda ustav kapitali miqdorining
+ oshirib borilishi milliy bank tizimiga ishonchni mustahkamlash, likvidlilikni
+ oshirishga xizmat qiladi.
+      Likvidlilik va risk o‘rtasidagi munosabatni sodda qilib quyidagicha ifodalash
+ mumkin: bank aktivlarining riskliligi qanchalik yuqori bo‘lsa, uning likvidliligi
+ shunchalik past bo‘ladi.
+                                                                           4-jadval
+                “Agrobank” ATB likvidli aktivlarining tarkibi 22 (mln. so‘mda)
+     Likvidli          01.01.2020-y.      01.01.2021-y.      01.01.2022-y.      01.01.2023-y.       01.01.2024-y.
+№
+     aktivlar         mln.so`m %da       mln.so`m %da       mln.so`m %da       mln.so`m %da       mln.so`m    %da
+     Kassadagi naqd
+     pul va
+1.                     613 054    41,1   1 012 360   32     1 131 135   31,5   2 375 800   51,7   1 880 296   40
+     qimmatbaho
+     metallar
+     Bankning
+2.   O‘z.R. MB dagi    501 039    33,6   1 368 936   43,3   1 698 020   47,3   1 290 092   28,1   1 125 678   24
+     hisobvaraqlari
+     Boshqa
+3.   banklardagi       376 976    25,3   780 547     24,7   762 124     21,2   929 005     20,2   1 693 056   36
+     hisobvaraqlari
+     Jami likvidli
+                      1 491 070   100    3 161 844   100    3 591 280   100    4 594 898   100    4 699 031   100
+     aktivlar
+
+       Yuqorida keltirilgan 4-jadval ma’lumotlaridan ko‘rish mumkinki,
+ 2020–2024-yillar davomida “Agrobank” ATB likvidli aktivlari tarkibida sezilarli
+ o‘zgarishlar kuzatilgan. Jumladan, kassadagi naqd pul va qimmatbaho metallarning
+ ulushi 2020-yildagi 41,1 foizdan 2022-yilda 31,5 foizgacha pasaygan bo‘lsa-da,
+ 2023-yilda yana keskin o‘sib, 51,7 foizga yetgani, 2024-yilda esa 40 foizga tushgani
+ qayd etilmoqda. Bu bankning naqd mablag‘lar bilan operatsiyalarni kamaytirayot-
+ ganidan dalolat beradi.
+       Tijorat banklarining likvidlik mosligini ta’minlashda makro va
+ mikrodarajadagi omillarning ta’siri juda muhim ahamiyatga ega bo‘lib, ularning
+ ta’sirini aniq baholash masalasi zamonaviy moliyaviy tahlilda ustuvor
+ yo‘nalishlardan biri hisoblanadi.
+       Mikrodarajadagi erkli o‘zgaruvchi sifatida filiallarning kapitallashuv darajasi,
+ resurslar bazasi va kredit foiz stavkalari tanlandi. Makro darajadagi erkli
+ o‘zgaruvchi sifatida hududlarda faoliyat yurituvchi raqobatchi banklar soni hisobga
+ olindi. Shu bilan birga, tadqiqotning asosiy yangiligi sifatida uchta qo‘shimcha
+ o‘zgaruvchi — aktivlar diversifikatsiyasi (DIV), resurslar markazlashmaganligi
+ (DFUND) va likvid aktivlar aylanuvchanligi (TURN) modelga kiritildi. Bu
+ o‘zgaruvchilar likvidlik ko‘rsatkichiga to‘g‘ridan-to‘g‘ri ta’sir etuvchi omillar
+ sifatida baholandi.
+
+
+ 21 Трошин В. А. Ликвидность коммерческого банка // Молодой ученый. — 2024. — №7.
+ 22 “Agrobank” ATBning balans ma`lumotlari asosida tuzilgan.
+
+                                                                                                              17
+     Shu asosda aksiyadorlik tijorat “Agrobank” filiallarining likvidlik
+ko‘rsatkichiga ta’sir etuvchi omillarning umumiy funksiyasi quyidagicha
+ifodalanadi:
+                     y70=f (DIV, DFUND, TURN, CR, LM, NB),
+     bu yerda: y70 – “Agrobank” filiallarining 70 kunlik likvidlik talabiga mos
+kelish ulushi (0–1 orasida); DIV – aktivlar diversifikatsiyasi indeksi (Herfindahl–
+Hirschman indeksidan hisoblangan); DFUND – resurslar markazlashmaganligi
+indeksi (RetailShare ↑, Top10 depositor share ↓); TURN – likvid aktivlar
+aylanuvchanligi koeffitsiyenti; CR – filial kapitallashuv darajasi; LM – filial
+resurslar bazasi (uzun pullar hajmi); NB – hududdagi raqobatchi banklar soni.
+                                                                           5-jadval
+                   Panel regression model ko‘rsatkichlari natijalari
+                       (2009-2024-yillar ma’lumotlari asosida)23
+Erksiz o‘zgaruvchi: y70      Yig‘ma model (1)        O‘zgarmas effekt (2)      Tasodifiy effekt (3)
+DIV                              0.188***                  0.179*                  0.183***
+DFUND                            0.212***                  0.209*                  0.213***
+TURN                              0.149**                   0.157                   0.152**
+Konstanta                        0.320***                  0.305*                  0.311***
+Kuzatuvlar soni                     150                      150                       150
+Filiallar soni                       10                       10                        10
+R-kvadrat                           0.64                    0.68                      0.66
+
+      Gipotezani shakllantirgandan so‘ng, tanlangan o‘zgaruvchilarni natural
+logarifmga o‘tkazib, panel ma’lumotlar asosida regressiya tahlilini amalga oshirish
+maqsad qilindi. Bunda birinchi navbatda o‘zgaruvchilarning tasviriy statistikasi
+tahlil qilinib, ularning o‘rtacha qiymatlari, standart chetlanishlari, maksimum va
+minimum nuqtalari hisoblandi.
+      5-jadvalda keltirilgan natijalardan ko‘rinib turibdiki, DIV, DFUND va TURN
+barcha modellarda ijobiy va statistik ahamiyatli ta’sir ko‘rsatmoqda. DFUND
+koeffitsiyenti eng katta (0.209–0.213), bu resurslar bazasi markazlashuvining
+kamayishi filiallarda likvidlik ko‘rsatkichini sezilarli oshirishini anglatadi. DIV
+koeffitsiyenti (0.179–0.188) ham barqaror ijobiy natija ko‘rsatdi. Aktivlar
+diversifikatsiya darajasi oshishi filiallarda likvidlikning uzoq muddatli rejada
+ta’minlanishini kuchaytiradi. TURN (0.149–0.157) likvid aktivlar aylanuvchanligi
+ta’sirini ko‘rsatadi. Aylanuvchanlik qancha yuqori bo‘lsa, filial shuncha tez likvid
+resurslarni mobilizatsiya qila oladi. R-kvadrat ko‘rsatkichi 0.64–0.68 oralig‘ida
+bo‘lib, modelning izohlash qobiliyati yuqori ekanini ko‘rsatadi. J.Xausman testi
+natijalariga ko‘ra, o‘zgarmas effekt modeli (FE) tasodifiy effekt modelidan afzal
+hisoblandi, ya’ni filiallarning individual xususiyatlari hisobga olinishi shart
+hisoblanadi.
+
+23
+  Aksiyadorlik tijorat “Agrobank” ma’lumotlari asosida Eviews-12.0 dasturi yordamida muallif tomonidan
+tayyorlangan.
+
+18
+      6-jadvaldan ko‘rinib turibdiki, DIV, DFUND va TURN o‘zgaruvchilari uchun
+FE va RE koeffitsiyentlari orasida katta farq mavjud emas. Ammo umumiy W-
+statistika χ2=0.027χ²=0.027χ2=0.027 va P-qiymat < 0.05 bo‘lgani uchun tasodifiy
+effekt modeli inkor qilinadi, ya’ni o‘zgarmas effekt modeli (FE) afzal hisoblanadi.
+Bu natija filiallarning individual xususiyatlari (masalan, ichki siyosat, mijozlar
+segmenti, hududiy bozor sharoiti) likvidlik ko‘rsatkichiga ta’sir qilayotganini
+anglatadi. Shu sababli, FE modelidan foydalanish natijalarni aniqroq va ishonchliroq
+qiladi.
+                                                                            6-jadval
+                                                           24
+                                J.Xausman testi natijalari
+                        O‘zgarmas effekt Tasodifiy effekt
+ O‘zgaruvchilar                                                        Farq (a-b)            P-qiymat
+                             (FE)             (RE)
+ DIV                         0.179           0.183                        -0.004               0.412
+ DFUND                       0.209           0.213                        -0.004               0.368
+ TURN                        0.157           0.152                         0.005               0.295
+ W (χ²)                       —                —                            —                  0.027
+
+      Tadqiqotda VAR (Vector Autoregression) modeli orqali likvidlik, depozitlar,
+kapitallashuv va uzun pullar o‘zaro bog‘liqligi o‘rganildi. VAR modeli orqali
+o‘zgaruvchilarning avvalgi qiymatlari orqali kelgusi davrlarda qanday o‘zgarishlar
+kutilganini baholash imkoni yuzaga keladi. Bundan tashqari, stress-test ssenariylari
+orqali turli salbiy va ijobiy sharoitlarda likvidlik taqchilligi qanday o‘zgarishi
+o‘rganildi. Tadqiqotimizning maqsadi likvidlik taqchilligini 18–22 %gacha
+kamaytirish va filiallararo pul oqimlari uyg‘unlashuvini 0.9 korrelyatsiya darajasiga
+yetkazishdan iborat hisoblanadi. Dissertatsiya ishidagi ma’lumotlar va
+o‘zgaruvchilar quyidagilardan iborat:
+      Liquidity Deficit – filiallarda likvidlik taqchilligi, asosiy indikator;
+      DEP – filiallardagi depozitlar hajmi;
+      CAP – kapitallashuv darajasi;
+      LM – uzun pullar, ya’ni resurs bazasi;
+      AR – kreditlar bo‘yicha o‘rtacha foiz stavkasi.
+      Bu o‘zgaruvchilar 2020–2024-yillar oralig‘ida oylik ma’lumotlar asosida
+hisoblangan. Jadvalda ularning agregat qiymatlari aks ettirilgan.
+      “Agrobank” ATB bankining filiallar o‘rtasidagi pul oqimlari doim ham bir-
+biriga uyg‘un harakat qilmaydi. Masalan, ayrim filiallarda muayyan oylarda
+depozitlar oqimi yuqori bo‘lishi mumkin, boshqa filiallarda esa aksincha pasayish
+kuzatiladi. Natijada bir filialda ortiqcha likvidlik mavjud bo‘lgan paytda, boshqa
+filialda mablag‘ yetishmasligi yuzaga keladi. Bu holat bank tizimida umumiy
+likvidlik disbalansini kuchaytiradi, xususan, filiallar o‘rtasida resurslar noteks
+taqsimlanishi sababli umumiy tizim samaradorligi pasayadi.
+      Tahlillarga ko‘ra, bazaviy holatda, xususan, hech qanday muvofiqlashtirish
+algoritmi qo‘llanilmagan paytda filiallararo pul oqimlari o‘rtasidagi korrelyatsiya
+
+24
+     “Agrobank” ATB ma’lumotlari asosida Eviews-12.0 dasturi yordamida muallif tomonidan tayyorlangan.
+                                                                                                         19
+past darajada ekanligini ko‘rsatadi. Bu degani, filiallar bir-biri bilan muvofiq harakat
+qilmayapti va har biri ko‘proq mustaqil ravishda ishlamoqda.
+
+
+
+
+ 4-rasm. “Agrobank” ATB filiallar likvidliligiga nisbatan impuls reaksiyasi 25
+      Biroq pul oqimlarini muvofiqlashtirish bo‘yicha maxsus algoritm
+qo‘llanilganda vaziyat keskin o‘zgardi. Filiallar o‘rtasidagi korrelyatsiya
+ko‘rsatkichi 0.9 darajasiga yaqinlashdi, bu esa juda yuqori uyg‘unlikni anglatadi.
+Xususan, bir filialdagi depozitlar oqimi oshsa, boshqa filiallarda ham o‘xshash
+yo‘nalishdagi o‘zgarishlar kuzatilishi mumkin.
+      Muallifning fikricha, tijorat bankining muvaffaqiyatli faoliyati rivojlanishiga
+qaratilgan boshqariladigan innovatsion faoliyatga tashabbus ko‘rsatish hamda uni
+samarali amalga oshirilishi uchun sharoit yaratish uchun quyidagi tamoyillarga rioya
+etish zarur:
+
+
+25Tadqiqot natijalariga asoslanib dissertant tomonidan ishlab chiqilgan.
+
+20
+      innovatsion ishlanmalar uchun potensial shart-sharoit hisoblangan
+tendensiyalarni aniqlash hamda g‘oyalarni shakllantirish uchun rag‘batlarni yaratish
+(ushbu tamoyil asosan bank rahbariyati harakatlariga kiradi);
+      bankning mahsuldorligiga samarali ta’sir qila oladigan g‘oya va takliflarning
+to‘satdan yuzaga kelishini ko‘zlagan holda bank intellektual salohiyatini ongli
+ravishda saqlab turish;
+      har qanday innovatsion jarayon siklini tezlashtirish maqsadida boshqaruv
+darajalarining maqbullashishi;
+      bank mahsulotlarini ishlab chiqish hamda amalga tatbiq etish muddatlarini
+innovatsion jarayonning bosqichlari sonini qisqartirish orqali emas, balki “estafeta”
+samarasidan qutilish maqsadida parallel boruvchi bir nechta bosqichlarni
+muvofiqlashtirish orqali minimallashtirish.
+      Yuqorida bayon etilganlardan kelib chiqqan holda, kredit tashkilotlari
+innovatsion faoliyatining zamonaviy amaliyoti quyidagicha ko‘rinishga ega bo‘lishi
+mumkin: bank mahsulotlari bozori ishtirokchilari (bank va nobank tashkilotlari)
+imkoniyatlarining katta yoyilmasi kechayotgan innovatsion jarayonlarga to‘g‘ridan-
+to‘g‘ri ta’sir qiladi. Zamonaviy sharoitlarda jon saqlash uchun, ya’ni bozorda
+layoqatli talabga ega mahsulotlar turini yaratish va amalga oshirish uchun bir bank
+uchun ayrim holatlarda o‘z quvvatlari, moliyaviy resurslari hamda innovatsion
+salohiyati doim yеtarli bo‘lmaydi.
+      Shu sababli, bank faoliyatini innovatsion boshqaruvi sohasida uzoq muddatli
+strategik uyushmalar, hamkorlik kelishuvlari va shunday shakllarga ega
+tuzilmalararo tashkiliy tuzilmalar yuzaga kelishi qayd etilgan. Bunday tuzilmalararo
+tashkiliy tuzilmalar bir qator qo‘shma tadbirlar yoki bir martalik innovatsion
+loyihalarni doimiy asosda amalga oshirilishini ko‘zda tutadi. Ularni amalga oshirish
+jarayonida nou-xau, mavjud ma’lumotlar bazasi bilan almashish, qo‘shma
+maydonlardan foydalanish, texnologiyalar, kommunikatsion tizimlar va
+boshqalarning bir-biriga mos kelishi jarayonlari yuzaga keladi.
+      Dissertatsiyaning “Tijorat banklari likvidliligini optimallashtirishda xorij
+tajribasidan foydalanish yo‘llari” deb nomlangan uchinchi bobida tijorat banklari
+likvidligini optimallashtirishning xorij tajribasidan foydlanish imkoniyatlari, milliy
+iqtisodiyot va banklar tomonidan ajratilgan kreditlarning o‘zaro bog‘liqligi tadqiq
+qilingan.
+      Tijorat banklarining xalqaro amaliyotlari o‘z ichiga xalqaro savdoda ishtirok
+qiluvchilar o‘rtasidagi munosabatlar, ssuda kapitali bozorida investisiya faoliyatini
+yurituvchi, turizm, xorijiy qimmatbaho qog‘ozlarni sotib olish va sotish, valyuta
+ayirboshlash, chek, inkassatsiya uchun bank akseptlarini qabul qilish bilan
+shug‘ullanuvchi mijozlar tomonidan talab qilinadigan xizmatlarni o‘z ichiga oladi.
+      AQShda me’yoriy yoki huquqiy jihatdan likvidlilik me’yorlari qat’iy
+belgilanmagan. Boshqacha aytganda, AQShda likvidlilik me’yorlarini belgilash va
+ularga rioya qilinishi ustidan nazorat o‘rnatish bank rahbariyatining vazifasi
+hisoblanadi.
+      Ayni paytda, tijorat banki likvidligini baholash ko‘rsatkichlarini tanlashda
+quyidagilarga alohida e’tibor qaratiladi:
+
+                                                                                   21
+      bank faoliyat yurituvchi bozor;
+      bank turi yoki shakli;
+      bank operatsiyalari tarkibi va ko‘lami.
+      Jumladan, AQShda likvidlilikni baholash maqsadida quyida keltirilgan
+ko‘rsatkichlarning bankka jalb qilingan mablag‘larga (depozitlar) nisbatidan
+foydalaniladi:
+      kassa aktivlari (birlamchi zaxiralar);
+      kassa aktivlari va davlat qimmatli qog‘ozlariga qo‘yilmalar (birlamchi +
+ikkilamchi zaxiralar);
+      berilgan kreditlar.
+      Ta’kidlash lozimki, bank likvidliligini ta’minlash uchun birlamchi
+zaxiralarning depozitlarga nisbati ko‘rsatkichining darajasi 5-10 foizdan kam
+bo‘lmasligi maqsadga muvofiq. Birlamchi va ikkilamchi zaxiralar yig‘indisining
+depozitlarga nisbati esa 15-25 %dan kam bo‘lmasligi kerak. Shuningdek, AQSh
+banklari amaliyoti ko‘rsatishicha, tijorat banklari tomonidan likvidlilikni
+boshqarishda quyidagi moliyaviy koeffitsiyentlardan ham foydalanilmoqda:
+      1. Pul pozitsiyasi ko‘rsatkichi: (pul mablag‘lari + jamg‘arma muassasalari
+tomonidan qo‘yilmalar) / jami aktivlar.
+      2. Likvidli qimmatli qog‘ozlar ko‘rsatkichi: AQSh Hukumatining qimmatli
+qog‘ozlari / jami aktivlar.
+      3. Federal zaxira fondlarining netto pozitsiyasi: (federal zaxira fondlarining
+sotiladigan qoldiqlari – federal zaxira fondlarining sotib olinadigan qoldiqlari) / jami
+aktivlar.
+      4. Mavjud quvvatlardan foydalanish koeffitsiyenti: (sof kreditlar+ijaradagi
+aktivlar) / jami aktivlar.
+      5. Garovga qo‘yilgan qimmatli qog‘ozlarning solishtirma salmog‘i: garovga
+qo‘yilgan qimmatli qog‘ozlar / bankning qimmatli qog‘ozlar portfeli.
+      6. Harakatdagi pulning solishtirma salmog‘i: pul bozori aktivlari / pul bozori
+majburiyatlari.
+      7. Foiz stavkalari o‘zgarishiga moyil majburiyatlarga qisqa muddatli
+investitsiyalarning nisbati: qisqa muddatli investitsiyalar / foiz stvakalari
+o‘zgarishiga moyil majburiyatlar.
+      8. Qo‘yilmalarning tuzilmaviy nisbati: talab qilib olinguncha depozitlar /
+muddatli depozitlar.
+      9. Asosiy depozitlar ulushi: asosiy depozitlar/jami aktivlar.
+      10. Brokerlik depozitlari ko‘rsatkichi: brokerlik depozitlari/jami depozitlar.
+      Yuqoridagi holatlar shundan dalolat beradiki, mamlakat bank tizimi rivojlanib
+borgan sari likvidlilik bo‘yicha normativlar soni va unga talab ham oshib borishi
+mumkin. Zero, iqtisodiyotning taraqqiy etishida birlamchi ko‘rsatkich turmush
+tarzining yaxshilanishi bo‘lib, unga alohida e’tibor qaratiladi. Shu boisdan,
+iqtisodiyotdagi barcha yuridik va jismoniy shaxslarning omonatlari, manfaatlari va
+huquqlarini kafolatlash hukumatning muhim vazifalaridan biri hisoblanadi.
+
+
+
+22
+      Muallifning fikricha, respublikamiz tijorat banklari menejment tizimida ham
+yuqoridagi kabi moliyaviy koeffitsiyentlardan foydalanish va ularni doimiy
+kuzatgan holda tahlil qilib borish foydadan xoli bo‘lmaydi.
+      Shunisi e’tiborga molikki, AQSh Federal zaxira tizimining CAMELS tizimi
+orqali likvidlilikni baholashga nisbatan pozitsiyasi likvidlilikni zaxiralar va passivlar
+orqali o‘lchab bo‘lmasligini nazarda tutadi. Boshqacha aytganda, bank likvidliligi
+moliyaviy barqarorlikning barcha omillariga, xususan, kredit portfeli sifati va bank
+faoliyati samaradorligiga uzviy bog‘liq.
+      Fransiyada likvidlilik koeffitsiyenti to‘lov muddati uch oygacha bo‘lgan
+joylashtirilgan mablag‘lar, tez sotiladigan qimmatli qog‘ozlar va naqd pul
+mablag‘lari summasining talab qilib olinguncha va uch oy muddatga qadar jalb
+qilingan mablag‘lar summasiga nisbati orqali aniqlanadi. Bu koeffitsiyent har
+chorakda hisoblanadi va uning 60 foizdan kam bo‘lishiga yo‘l qo‘ymaslik talab
+etiladi. Demak, tijorat banklari resurslarning qolgan 40 foizini uzoq muddatga
+joylashtirishlari mumkin.
+      Buyuk Britaniyada esa likvidlilik koeffitsiyenti naqd pullar, “Nostro”
+hisobraqami qoldig‘i, talab qilib olinguncha va 1 kungacha joylashtirilgan aktivlar,
+qimmatli qog‘ozlar (qayta hisobga olingan veksellarni ham qo‘shgan holda)
+summasini jami jalb qilingan mablag‘larga nisbati orqali aniqlanadi. Bu
+ko‘rsatkichning minimal darajasi 12,5 foizni tashkil etadi va unga rioya qilish
+bo‘yicha banklar har oyda muntazam ravishda hisobot berib borishlari lozim.
+      Bundan tashqari, Buyuk Britaniya tijorat banklari boshqa qator
+koeffitsiyentlarni ham hisoblaydilar. Biroq bu ma’lumot xarakteriga ega bo‘lib, ular
+bo‘yicha Markaziy bankka hisobot topshirish talab etilmaydi. Bunday
+koeffitsiyentlar qatoriga quyidagilarni kiritish mumkin:
+      kassa koeffitsiyenti (likvid aktivlar va overdraft shaklidagi kreditlar
+summasining jalb qilingan mablag‘larga nisbati);
+      bir oylik koeffitsiyent (1 oygacha muddatga joylashtirilgan aktivlarning 1 oyga
+qadar so‘ndiriladigan majburiyatlarga nisbati);
+      olti oylik koeffitsiyent (6 oygacha muddatga joylashtirilgan aktivlarning
+6 oyga qadar so‘ndiriladigan majburiyatlarga nisbati).
+      Buyuk Britaniya banklari individual asosda o‘z likvidliligini monitoring qilishi
+va boshqarishi lozim bo‘lib, bunda ularning yalpi likvidlilik yеtarliligi tartibini
+bajarishda boshqa guruhlarga tayanishlari taqiqlanadi.
+      Germaniya bank amaliyotida ham qariyb o‘xshash koeffitsiyentlardan
+foydalaniladi, biroq likvidlilik koeffitsiyenti uzoqroq muddatga, ya’ni 4 yil va undan
+ortiq muddatga joylashtirilgan aktivlarning xuddi shunday muddatga jalb qilingan
+mablag‘larga nisbatini o‘zida ifoda etadi. Bundan tashqari, qisqa va o‘rta muddatga
+(4 yilga qadar) joylashtirilgan aktivlarning tegishli muddatga jalb qilingan
+mablag‘larga nisbati koeffitsiyenti ham hisoblanib, ular bo‘yicha banklar hisobot
+berib turadilar. Mazkur koeffitsiyentlarning me’yoriy darajasi 100 % etib
+belgilangan. Bundan ko‘zlangan maqsad qisqa muddatli ssudalarning o‘rta va uzoq
+muddatli qo‘yilmalarga aylanishini qisqartirishdir.
+
+                                                                                      23
+      Yaponiyada likvidlilikni tartibga solishda joriy likvidlilik koeffitsiyentidan
+foydalaniladi va uning me’yoriy darajasi minimum 30 % etib belgilangan.
+      MDH davlatlari orasida Rossiya Federatsiyasi bank tizimida likvidlilikni
+tartibga solishda 5 ta me’yoriy ko‘rsatkichdan foydalaniladi:
+      lahzali likvidlilik koeffitsiyenti (min. 20 %);
+      joriy likvidlilik me’yori (min. 50 %);
+      uzoq muddatli likvidlilik me’yori (maks. 120 %);
+      umumiy likvidlilik me’yori (min. 20%);
+      qimmatli qog‘ozlar bilan bog‘liq operatsiyalar bo‘yicha likvidlilik me’yori
+(min. 10 %).
+       “Bazel-3”ga muvofiq, tijorat banklari likvidliligini tartibga solish bo‘yicha 2
+ta koeffitsiyentni (liquidity coverage ratio, net stable funding ratio) joriy etildi.
+Jumladan, joriy likvidlilik koeffitsiyenti (Liquidity Coverage Ratio (LCR)) 2015-yil
+1-yanvardan boshlab joriy qilindi.
+      Xalqaro amaliyotda tijorat banklari likvidliligini miqdor va sifat jihatdan
+baholash uchun bankning moliyaviy barqarorligi, ishonchliligi va uning faoliyati
+xavfsizligini aks ettiruvchi turli xil ko‘rsatkichlardan foydalaniladi. Bir qator
+davlatlarda likvidlilik ko‘rsatkichi qonuniy jihatdan belgilab qo‘yiladi, ya’ni uning
+yo‘l qo‘yish mumkin bo‘lgan darajasi o‘rnatiladi.
+      Muallifning fikricha, bank amaliyotiga yuqorida ta’kidlangan likvidlilik
+koeffitsiyentlarining joriy etilishi bank faoliyatining barqarorligi va to‘lov
+qobiliyatini oshirishga xizmat qiladi. Biroq bank aktivlari tarkibida yuqori
+miqdordagi likvid mablag‘larning saqlab turilishi bank faoliyatining rentabelligiga,
+daromadlilik darajasiga salbiy ta’sir qilishi mumkin.
+      Umuman, bank likvidliligini tartibga solish xorij amaliyotining tahlilidan kelib
+chiqib, quyidagilarni xulosa qilish mumkin:
+      xorijiy banklarning likvidliligi, balans likvidliligini ifodalovchi va balans
+asosida hisoblanuvchi moliyaviy koeffitsiyentlar, shuningdek, ma’lum davrlarda
+aktivlar va passivlarning oborotini hisobga olgan holda likvid mablag‘larga
+potensial ehtiyojni aniqlash asosida o‘lchanadi;
+      ba’zi xorijiy mamlakatlarda, masalan AQShda likvidlilik me’yorlari regulyator
+tomonidan belgilanmagan. Likvidlilik me’yorlarini belgilash va unga rioya qilish
+bank rahbariyatining vazifasiga kiradi;
+      likvidlilikni tartibga solish bo‘yicha Bazel talablari tijorat banklari joriy
+likvidliligini oshirishni taqozo etmoqda.
+      Respublikamizda tijorat banklarini faoliyatini kuchaytirish choralarini
+ta’minlashning eng ustuvor vazifalardan etib belgilandi. Shu jihatdan,
+respublikamizda bank tizimi likvidliligini boshqarishni takomillashtirish bilan
+bog‘liq quyidagi muammolar mavjud:
+      1. Markaziy bankning so‘nggi navbatdagi kreditor sifatidagi rolini oshirish,
+xususan, banklarni qayta moliyalash imkoniyatini kengaytirish muammosi.
+Respublikamiz Markaziy bankining pul-kredit siyosati doirasida tijorat banklari
+
+
+24
+likvidliligini tartibga solish imkoniyati quyidagi omillar hisobiga cheklanib
+qolmoqda:
+      qayta moliyalash siyosatida faqat to‘g‘ridan-to‘g‘ri moliyalash shakllarining
+qo‘llanilishi, lombard kreditlar va trattalarni qayta hisobga olish yo‘li bilan
+banklarga qo‘shimcha likvidlilikni taqdim etish amaliyotining sustligi;
+      ochiq bozor operatsiyalari ko‘lamining sezilarli darajada kichikligi.
+Respublikamizda Markaziy bankning ochiq bozor operatsiyalari yordamida bank
+tizimi likvidliligiga ta’siri sezilarli darajada yuqori emas. Buning boisi shundaki,
+mamlakatimizda davlat qimmatli qog‘ozlarigina ochiq bozor operatsiyalarida
+foydalanilishi mumkin. Davlat byudjetining profitsit bilan bajarilishi sharoitida
+davlat qimmatli qog‘ozlarini muomalaga chiqarish cheklanganligi bois, Markaziy
+bankning ochiq bozor operatsiyalaridan foydalanishi katta samara bermasligi
+mumkin;
+      tijorat banklari likvidliligiga tezkor ta’sir qilish imkonini beruvchi REPO, svop,
+overnayt kreditlari kabilardan foydalanish imkoniyatidan to‘liq foydalanilmayot-
+ganligi;
+      Markaziy bankning pul-kredit siyosati instrumenti sifatida depozit siyosatidan
+keng foydalanilmayotganligi;
+      majburiy zaxiralar siyosatining egiluvchan emasligi, boshqacha aytganda,
+banklarning majburiy zaxiralarga ajaratadigan mablag‘lardan foydalanish
+imkoniyati cheklanib qolishi. Muallifning fikricha, tijorat banklari likvidliligini
+boshqarish ularning jalb qilingan mablag‘larining muayyan qismini bank
+aylanmasidan chetga chiqishini emas, balki operatsion kunning muayyan vaqtiga
+talab qilingan likvid mablag‘larni saqlashni ko‘zda tutishi lozim;
+      inqirozli vaziyatlar uchun bank tizimi likvidliligini oshirishning favqulodda
+choralari ishlab chiqilmaganligi va ularning huquqiy jihatdan mustahkamlab
+qo‘yilmaganligi. Bank likvidliligini tashqi tartibga soluvchi organ sifatida Markaziy
+bank murakkab vaziyatlarda bank tizimi likvidliligini ta’minlash bo‘yicha strategiya
+va dasturlarga ega bo‘lishi lozim.
+      2. Respublikamizda tijorat banklari likvidliligini optimallashtirish bilan bog‘liq
+muammolar. Ularning asosiylari sirasiga quyidagilarni kiritish mumkin:
+      bankning asosiy resurs ta’minotchilari bilan mustahkam aloqalarni yo‘lga
+qo‘yishda bunday mijozlarga alohida imtiyozlarni ko‘zda tutuvchi bank xizmatlari
+majmuining ishlab chiqilmaganligi, bank marketing faoliyatining samarali yo‘lga
+qo‘yilmaganligi;
+      tijorat banklari depozit bazasida transaksion depozitlar salmog‘i yuqoriligi va
+natijada kutilmaganda likvidlilik riskining yuzaga kelish ehtimoli mavjudligi;
+      jamg‘arma va muddatli depozitlarni jalb etish bo‘yicha choralarni kuchaytirish
+zaruratining mavjudligi, depozit sertifikatlarini muomalaga chiqarish va
+joylashtirishning talab darajasida emasligi;
+      bank passivlarining muddati va miqdoridan qat’iy nazar aktiv operatsiyalarda
+foydalanish hollariga yo‘l qo‘yilayotganligi;
+                                                                                     25
+      tijorat banklari aktivlarining umumiy hajmida yuqori likvidli qimmatli
+qog‘ozlarga qilingan investitsiyalar ulushining sezilarli darajada kichikligi
+      bankning nolikvid aktivlarini transformatsiya qilish imkonini beruvchi aktivlar
+sekyuritizatsiyasi amaliyoti mavjud emasligi va natijada risklarni boshqa tomonga
+o‘tkazish imkoniyatining cheklanishi;
+      kreditlarning ikkilamchi bozorining shakllanmaganligi va bankning kreditlarini
+sotish hisobiga likvid aktivlarga ega bo‘lish imkoniyati mavjud emasligi.
+      Banklarda likvidlilikni boshqarish bo‘yicha muallif tomonidan taklif
+etilayotgan model istalgan tijorat bankining boshqaruvida foydalanilishi mumkin.
+      Muallifning fikricha, respublikamiz tijorat banklarida likvidlilikni ta’minlashni
+quyidagi yo‘nalishlarda takomillashtirish zarurati mavjud:
+      bankning likvidlilikni boshqarish strategiyasida foiz stavkasi o‘zgarishiga
+moyil bo‘lgan aktivlar va passivlar o‘rtasidagi farqni (gep) boshqarish uchun foiz
+svoplaridan foydalanish imkoniyatlarini belgilash;
+      murakkab vaziyatlarda likvidlilikni boshqarishda aktivlarni qulay baholarda
+sotish va past xarajatlar bilan resurs jalb qilish imkoniyatlarini ko‘rib chiqish;
+      banklar tomonidan kredit hosilalari, aktivlar sekyuritizatsiyasi bo‘yicha
+operatsiyalarni amalga oshirishning huquqiy asoslarini takomillashtirish orqali
+bankning riskli aktivlarini sotish yordamida likvid mablag‘larga talabni qondirish
+imkoniyatini ta’minlash.
+
+
+
+
+          5-rasm. Banklarda likvidlilikni samarali tashkil etish strategiyasi 26
+    Bundan tashqari, inqirozli vaziyatlarda likvidlilikni samarali tartibga solish
+uchun likvidlilikni ssenariya asosida boshqarish amaliyotini joriy qilish lozim.
+
+26   Muallif ishlanmasi.
+26
+Bunda to‘lovlarni aktiv va passiv operatsiyalar bo‘yicha, shuningdek, mijoz va bank
+operatsiyalari, kirim va chiqim, reja va istiqbol kesimida guruhlash talab etiladi.
+
+                                      XULOSA
+
+      Tadqiqot davomida tijorat banklarida likvidlilikni optimallashtirish
+yo‘nalishida quyidagi asosiy ilmiy xulosalar shakllantirildi:
+      1. Banklarda likvidlilikning kamayishi, avvalo, bankning mijozlarga kredit
+ajratish imkoniyatini cheklanishi va pul majburiyatlaridan kelib chiquvchi aktiv
+operatsiyalarni amalga oshirish imkoniyatini yo‘qotishiga sabab bo‘ladi. Shuning
+uchun ham faol aktiv siyosatni yuritish salohiyatiga ega bo‘lmagan tijorat bankini
+to‘liq likvid hisoblash mumkin emas.
+      2. O‘tkazilgan tahlillar natijasiga ko‘ra, likvidlilikni ta’minlashda banklararo
+kreditlardan foydalanishga alohida e’tibor berish maqsadga muvofiq emas. Chunki
+bunday kreditlar hajmi oshishi foizli xarajatlarning sezilarli darajada ko‘payishiga,
+bu esa o‘z navbatida, sof foizli marja darajasi pasayishiga olib keladi.
+      3. Bank likvidliligini samarali boshqarish muammosini bartaraf etish
+maqsadida quyidagi strategik yo‘nalishlar tavsiya etiladi:
+      aktivlarni boshqarish orqali likvidlilikni ta’minlash, ya’ni likvid mablag‘larni
+aktivlar tarkibidan shakllantirish orqali barqarorlikni ta’minlash;
+      passivlarni boshqarish strategiyasi, ya’ni likvidlikka ehtiyojni asosan qarz
+mablag‘lar va jalb qilingan resurslar hisobiga qondirish orqali ta’minlash;
+      aktiv va passivlarni muvofiqlashtirilgan tarzda boshqarish, ya’ni bank
+resurslari va majburiyatlari o‘rtasidagi mutanosiblikni saqlash orqali likvidlilikni
+barqaror darajada saqlab turish.
+      4. Tаdqiqot nаtijаlаrigа ko‘rа, аyrim rivojlаngаn dаvlаtlаrdа, jumlаdаn
+АQShdа, likvidlilikkа oid normаtiv ko‘rsаtkichlаr bevositа nаzorаt orgаnlаri
+tomonidаn belgilаnmаydi. Bundаy shаroitdа likvidlilik standartlarini ishlab chiqish
+va ularga amal qilish to‘liq bank rahbariyati mas’uliyatiga yuklanadi. Shu bilan
+birga, likvidlilikni tartibga solishga qaratilgan Bazel qoidalari tijorat banklarining
+amaldagi likvid pozitsiyasini mustahkamlashni talab etadi.
+      5. “Agrobank” ATBning majburiyatlar tuzilmasida jalb qilingan kredit
+resurslari ulushi ortishi, xususan, banklararo qarz mablag‘lari ko‘payishi, foiz
+xarajatlari oshishi orqali bankning sof foizli daromad marjasiga salbiy ta’sir
+etmoqda. Bunday moliyaviy dinamika bankning daromadlilik ko‘rsatkichlarini
+zaiflashtirib, likvidlilikni ta’minlashdagi xarajatlarni oshiradi.
+      Tahlillar ko‘ra, mamlakatimizda tijorat banklari likvidliligini samarali tartibga
+solish va optimallashtirish maqsadida quyidagi ustuvor yo‘nalishlarni amalga
+oshirish maqsadga muvofiq:
+      1. Markaziy bankning likvidlilikni boshqarishga qaratilgan instrumentlarini
+yanada rivojlantirish zarur. Shu maqsadda:
+                                                                                    27
+      a) overnayt kreditlaridan foydalanish imkoniyatlarini kengaytirish tavsiya
+etiladi. Muallifning fikricha, Markaziy bank tomonidan tijorat banklariga overnayt
+kreditlarini ajratishda quyidagi mezonlar asos qilib olinishi mumkin:
+      operatsion kun yakunida bank tomonidan bajarilmagan to‘lov
+topshiriqnomalari yoki boshqa to‘lov hujjatlari mavjudligi, shuningdek, avval
+taqdim etilgan, ammo hali so‘ndirilmagan Markaziy bank krediti bo‘yicha
+majburiyatlar;
+      kredit ajratilayotgan paytda bankning depozitariydagi depo hisob raqamida
+overnayt kredit summasi va unga hisoblanadigan foizlarni to‘liq qoplashga yetarli
+miqdordagi davlat qimmatli qog‘ozlari mavjudligi;
+      b) lombard kreditlaridan foydalanish mexanizmlarini amaliyotga samarali
+boshqarish muhim ahamiyat kasb etadi. Bu turdagi kreditlar tijorat banklariga
+Markaziy bank tomonidan belgilangan foiz stavkasi asosida taqdim etiladi va bunda
+bankning rasmiy murojaati yoki lombard krediti auksionida ishtirok etish haqidagi
+buyurtmasi asos sifatida xizmat qiladi.
+      v) bank likvidliligini tartibga solishda ochiq bozor hamda REPO
+operatsiyalaridan foydalanish amaliyotini takomillashtirish muhim ahamiyat kasb
+etadi. Hozirgi kunda O‘zbekiston Respublikasida Markaziy bankning ochiq bozor
+operatsiyalarini keng ko‘lamda qo‘llashi hali ham cheklangan bo‘lib, buning asosiy
+sababi ushbu operatsiyalar uchun zarur davlat qimmatli qog‘ozlari hajmining yetarli
+darajada rivojlanmagani bilan izohlanadi. So‘nggi yillarda davlat byudjeti defitsit
+bilan ijro etilayotgani qimmatli qog‘ozlar emissiyasini oshirishga ehtiyoj
+tug‘dirayotgan       bo‘lsa-da,   bozor     infratuzilmasining     yetarli   darajada
+shakllanmaganligi bunday instrumentlarning samarali muomalasini cheklab turibdi.
+Shu bois, hozirgi sharoitda Markaziy bankning ochiq bozor operatsiyalari orqali
+likvidlikni tartibga solish imkoniyatlarini kengaytirish maqsadga muvofiq.
+      g) Tijorat banklari likvidliligini ta’minlashda Markaziy bank va banklar
+o‘rtasida, shuningdek, tijorat banklarining o‘zaro hamkorligi asosida valyuta svop
+operatsiyalarini amalga oshirish mexanizmlarini rivojlantirish dolzarb hisoblanadi.
+Markaziy bank likvidlilikni tartibga solishning ilg‘or vositasi sifatida banklar bilan
+o‘zaro svop kelishuvlarini kengaytirishi maqsadga muvofiq.
+      2. Bank tizimi barqarorligini saqlash va likvidlilikni ta’minlash maqsadida
+Markaziy bank samarali dasturlarga ega bo‘lishi zarur. Bu yo‘nalishda favqulodda
+holatlar uchun maxsus likvidlilik dasturlarini joriy etish, tijorat banklarining
+muammoli aktivlarini sotib olish yoki ular bo‘yicha kafolat mexanizmlarini ishlab
+chiqish muhim ahamiyatga ega. Shuningdek, qayta moliyalash stavkasi darajasini
+sezilarli darajada pasaytirish, garov sifatida qabul qilinishi mumkin bo‘lgan
+qimmatli qog‘ozlar ro‘yxatini kengaytirish, garovsiz kredit berish amaliyotini joriy
+etish hamda majburiy zaxira talablarini bajarishda Markaziy bank kreditlaridan
+
+
+28
+foydalanish imkoniyatini kengaytirish choralari tizimli ravishda amalga oshirilishi
+maqsadga muvofiq.
+      3. Bank nazorati bo‘yicha Bazel qo‘mitasining likvidlilikni boshqarish va
+tartibga solishga oid zamonaviy tavsiyalarini amaliyotga tatbiq etish uchun tegishli
+iqtisodiy, huquqiy va institutsional muhitni shakllantirish dolzarb ahamiyat kasb
+etadi:
+      a) milliy bank tizimida depozit bazasining katta qismi hali ham qisqa muddatli
+va transaksion depozitlardan iborat bo‘lib, bu holat banklarni yuqori likvidli
+aktivlarni katta miqdorda saqlashga majbur qilmoqda. Buning natijasida banklarning
+rentabellik darajasi pasayishi xavfi yuzaga keladi. Mazkur muammoni bartaraf etish
+uchun, uzoq muddatli depozitlar bo‘yicha imtiyozli, pasaytirilgan majburiy zaxira
+normativlarini qo‘llash amaliyotini kengaytirish zarur. Bu depozit bazasini
+barqarorlashtiradi, likvidlik bosimini kamaytiradi va banklarning moliyaviy
+natijalarini yaxshilashga xizmat qiladi;
+      b) bank kapitalining yetarlilik darajasi ayrim holatlarda makroiqtisodiy
+tebranishlar va likvidlik risklariga nisbatan to‘liq himoyalanmagan bo‘lishi mumkin.
+Bunday muammoni bartaraf etish uchun, Basel III talablari doirasida I darajali
+kapital tarkibida sof foyda hisobidan 2,5 foizlik konservatsiya buferini
+shakllantirishni qat’iy davom ettirish maqsadga muvofiq. Bu bufer kapitalning
+barqarorligini oshiradi, risklarni yutish qobiliyatini kuchaytiradi va bank tizimining
+stress holatlariga chidamliligini ta’minlaydi.
+      v) banklarning riskka tortilgan aktivlari bilan taqqoslaganda bazaviy kapital
+sifatining yetarli darajada bo‘lmasligi likvidlik riskini oshirishi mumkin. Mazkur
+muammoni hal etish uchun, bazaviy I darajali kapital (Common Equity Tier1—
+CET1), ya’ni oddiy aksiyalar bo‘yicha to‘langan kapital va taqsimlanmagan foyda
+ulushini oshirish bo‘yicha institutsional choralarni kuchaytirish lozim. CET1
+bo‘yicha minimal talabning 4,5 % etib belgilangani bunday kapital sifatini yuqori
+darajada saqlab turish bilan birga banklarning to‘lovga qobiliyatliligini
+mustahkamlaydi va tizimli xavflarga nisbatan barqarorlikni oshiradi.
+      4. Tijorat banklarida likvidlilikni optimal darajada saqlab turish uchun quyidagi
+yo‘nalishlarda tizimli choralar ko‘rish zarur:
+      likvidlilikni boshqarish strategiyasi doirasida foiz stavkalari o‘zgarishiga sezgir
+bo‘lgan aktiv va passivlar o‘rtasidagi nomutanosiblikni kamaytirish maqsadida foiz
+svoplari singari hosila moliyaviy instrumentlardan foydalanish imkoniyatlarini
+nazarda tutish;
+      moliyaviy beqarorlik yoki likvidlilik tanqisligi yuzaga kelgan holatlarda
+aktivlarni bozordagi maqbul narxlarda sotish va minimal xarajatlar asosida
+qo‘shimcha moliyaviy manbalarni jalb qilish usullarini joriy etish;
+
+
+
+                                                                                      29
+     kredit hosilalari va aktivlar sekyuritizatsiyasi bilan bog‘liq operatsiyalarni
+amalga oshirish orqali bank portfelidagi risk darajasi yuqori bo‘lgan aktivlarni sotish
+hisobiga likvid mablag‘larga ehtiyojni qondirish imkoniyatini yaratish.
+
+
+
+
+30
+ НАУЧНЫЙ СОВЕТ DSc.03/2025.27.12.I.23.01 ПО ПРИСУЖДЕНИЮ
+УЧЕНЫХ СТЕПЕНЕЙ ПРИ ТАШКЕНТСКОМ ГОСУДАРСТВЕННОМ
+          ЭКОНОМИЧЕСКОМ УНИВЕРСИТЕТЕ
+  ТАШКЕНТСКИЙ ГОСУДАРСТВЕННЫЙ ЭКОНОМИЧЕСКИЙ
+                   УНИВЕРСИТЕТ
+
+
+
+
+             САТТОРОВА НАСИБА ГАНИЖОН КИЗИ
+
+
+
+   ПУТИ ОПТИМИЗАЦИИ ЛИКВИДНОСТИ КОММЕРЧЕСКИХ
+                     БАНКОВ
+
+
+
+             08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                              АВТОРЕФЕРАТ
+    диссертации на соискание ученой степени доктора философии (PhD) по
+                          экономическим наукам
+
+
+
+
+                             Ташкент – 2026
+
+                                                                         31
+       Тема диссертации доктора философии (PhD) зарегистрирована                    в   Высшей
+аттестационной комиссии под номером В2024.2.PhD/Iqt4120
+
+      Диссертация выполнена в Ташкентском государственном экономическом университете.
+      Автореферат диссертации опубликован на трех языках (узбекский, русский и английский
+(резюме)) на веб-сайте ученого совета (www.tsue.uz) и информационно-образовательном портале
+«ZiyoNet» (www.ziyonet.uz).
+
+      Научный руководитель:              Тожиев Рахматилла Рахмонович
+                                         кандидат экономических наук, профессор
+
+
+      Официальные оппоненты:             Худойкулов Хуршид Хуррамович
+                                         доктор экономических наук, профессор
+
+                                         Бердияров Бахриддин Тавашарович
+                                         доктор экономических наук, профессор
+
+
+      Ведущая организация:               Акционерный коммерческий банк «Туронбанк»
+
+
+      Защита диссертации состоится на заседании Научного совета DSc.03/2025.27.12.I.23.01 по
+присуждению ученых степени при Ташкентском государственном экономическом университете
+«__» _____ 2026 г. в ___ часов. Адрес: 100066, г. Ташкент, ул. Ислама Каримова, 49. Тел.: (99871)
+239-01-49; факс: (99871) 239-41-23; e-mail: tdiu@tdiu.uz.
+       С диссертацией можно ознакомиться в информационно-ресурсном центре Ташкентского
+государственного экономического университета (зарегистрирована под номером ____). (Адрес:
+100066, г. Ташкент, ул. Ислама Каримова, 49. Тел.: (99871) 239-01-49; факс: (99871) 239-41-23; e-
+mail: tdiu@tdiu.uz
+     Автореферат диссертации разослан «__» _____ 2026 г.
+     (протокол заседания совета №___ от «__» _____ 2026 г.)
+
+
+
+
+                                                                            С.У. Мехмонов
+                                                      Председатель Научного совета по
+                                                      присуждению учёных степеней, доктор
+                                                      экономических наук, профессор
+
+
+                                                                             У.В. Гафуров
+                                                      Учёный секретарь Научного совета по
+                                                      присуждению учёных степеней, доктор
+                                                      экономических наук, профессор
+
+
+                                                                          С.К. Худайкулов
+                                                      Председатель научного семинара при
+                                                      Научном совете по присуждению
+                                                      учёных       степеней,        доктор
+                                                      экономических наук, профессор
+
+
+32
+     ВВЕДЕНИЕ (аннотация к диссертации доктора философии (PhD))
+     Актуальность и востребованность темы диссертации. Замедление
+темпов роста, наблюдаемое в мировой экономике, оказывает разностороннее
+негативное влияние на деятельность коммерческих банков. В частности,
+возникают такие сложные ситуации, как изменение экономического и
+финансового положения клиентов банка в краткосрочной перспективе,
+снижение уровня ликвидности в банковской системе, ослабление доверия к
+банкам на финансовых рынках, а также резкое увеличение доли проблемных
+активов и убытков в структуре кредитных портфелей. Кроме этого, сферы
+цифровой трансформации и зеленой экономики требуют значительного
+уровня финансовой ликвидности. Как отмечается в отчетах UNCTAD,
+тенденции к снижению финансирования международных проектов требуют от
+коммерческих банков стимулирования инвестиционной активности за счет
+оптимизации собственной ресурсной базы и минимизации рисков
+ликвидности1. Поддерживающие меры, осуществляемые государством,
+служат, прежде всего, укреплению ликвидных позиций коммерческих банков,
+а тем самым сохранению и восстановлению доверия к банковской системе. Из
+этого видно, что в мире возрастает значение оптимизации ликвидности
+коммерческих банков.
+     В условиях глобальной конкуренции и необходимости поддержания
+финансовой стабильности расширяется спектр научных исследований,
+направленных на оптимизацию ликвидности коммерческих банков.
+Рассмотрение вопроса управления ликвидностью коммерческих банков в
+системе стратегического управления, разработка современных подходов к
+оптимизации ликвидности в банковском управлении, обеспечение
+неразрывной связи интересов акционеров с долгосрочным и устойчивым
+ростом стоимости банка, разработка советом банка рациональной политики по
+оптимизации ликвидности, обеспечение рационального соотношения между
+противоположными показателями ликвидности и полезности при
+формировании его активов и пассивов являются приоритетными
+направлениями научных исследований в этой области.
+     В рамках оптимизации ликвидности коммерческих банков в Узбекистане
+одним из приоритетных направлений государственной экономической
+политики определено поэтапное сокращение доли государства в структуре
+капитала банка, снижение стоимости кредитных ресурсов за счет увеличения
+денежного предложения в национальной экономике. В рамках данного
+направления особое внимание уделяется вопросам поддержания стабильного
+состояния ликвидности коммерческих банков, внедрения механизмов
+оптимизации ликвидности, а также непрерывного и полного удовлетворения
+спроса на финансовые услуги акционеров и клиентов банка. Кроме этого,
+важной задачей в обеспечении устойчивости деятельности банков является
+строгое соблюдение установленных норм достаточности капитала и
+показателей ликвидности. Помимо этого стратегическим направлением
+1UNCTAD         (2024). World Nations Conference on              Trade   and   Development.   Available   at:
+[https://unctad.org/publication/ world-investment-report-2024.
+                                                                                                          33
+определено укрепление финансовой устойчивости путем пересмотра
+действующих требований, их совершенствования и приведения в соответствие
+со стандартами Базельского комитета по банковскому надзору, получившими
+международное признание в области банковского надзора. Обеспечение
+выполнения этих задач требует, прежде всего, оптимизации ликвидности
+коммерческих банков посредством системного и научно обоснованного
+подходов.
+     Данная диссертационная работа в определенной степени послужит
+выполнению задач, поставленных в указах и постановлениях Президента
+Республики Узбекистан № УП-16 «О Государственной программе по
+реализации Стратегии «Узбекистан – 2030» в «Год охраны окружающей среды
+и «зелёной экономики» от 30 января 2025 года, № УП-60 «О Стратегии
+развития нового Узбекистана на 2022-2026 годы» от 28 января 2022 года, №
+УП-5992 от 12 мая 2020 года «О Стратегии реформирования банковской
+системы Республики Узбекистан на 2020-2025 годы», № УП-6079 «Об
+утверждении Стратегии «Цифровой Узбекистан-2030» и мерах по ее
+эффективной реализации» от 5 октября 2020 года, № ПП-283 «О
+дополнительных мерах по совершенствованию механизма реформирования
+предприятий и коммерческих банков с участием государства» от 18 августа
+2023 года, № ПП-4477 «Об утверждении Стратегии по переходу Республики
+Узбекистан на «зеленую» экономику на период 2019-2030 годов» от 4 октября
+2019 года, постановлении Кабинета Министров Республики Узбекистан № 210
+«Об утверждении Стратегии совершенствования системы управления
+государственными финансами на 2025-2030 годы» от 8 апреля 2025 года, а
+также в других нормативно-правовых актах.
+     Соответствие исследований с приоритетными направлениями
+развития науки и технологии в республике. Данное диссертационное
+исследование выполнено в соответствии с приоритетным направлением
+развития науки и технологии в республике «I. Духовно-нравственное и
+культурное развитие демократического и правового общества, формирование
+инновационной экономики».
+     Степень изученности проблемы. Решение задачи оптимизации
+ликвидности банка напрямую связано с сутью понятий «ликвидность»,
+«платежеспособность», «риск ликвидности», особенностями его функций,
+задачами управления ликвидностью, совокупностью факторов, влияющих на
+ликвидность банка, методами управления ликвидностью. Эти теоретические
+аспекты рассматриваются в ряде научных работ отечественных и зарубежных
+ученых. Современные подходы к обеспечению банковской ликвидности
+отражены в научных работах узбекских ученых-экономистов, таких как
+Ш.З.Абдуллаева, Б.T.Бердияров, Б.Б.Избосаров, А.A.Омонов, О.B.Сатторов,
+С.Ж.Гадоев, А.Ю.Абдуллаев2, в которых исследованы некоторые
+
+2 Abdullayeva Sh.Z. Bank risklari sharoitida tijorat banklarining kredit portfelini diversifikatsiyalash. Iqtisod fanlari
+doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. -Toshkent, BMA. 2000. -46 b.; Berdiyarov B.T.
+O‘zbekiston Respublikasi tijorat banklarining likvidliligi va to‘lov qobiliyatini ta’minlash masalalari. Iqtisod fanlari
+doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. - Toshkent, BMA. 2020. -72 b.; Izbosarov B.B.
+Globallashuv sharoitida tijorat banklarining likvidliligini ta’minlash metodologiyasini takomillashtirish. Iqtisod
+34
+теоретические и практические аспекты управления ликвидностью
+коммерческих банков.
+     Вопросы управления ликвидностью коммерческих банков нашли
+отражение в научных исследованиях таких российских ученых-экономистов,
+как Е.Жуков, Г.Г.Коробова, Т.Кох, В.Захаров, В.Иванов, О.Лаврушин,
+И.Ларионова, Ю.Левина, В.Тенлар, Э.В.Самойлов, А.В.Дорожкин,
+Е.Ю.Лялкова, С.K.Янковская3.
+     Проблемы управления ликвидностью коммерческих банков нашли
+отражение в зарубежной экономической литературе, в частности в научных
+исследованиях P.Rouz, J.Sinki, Rodjer L. Miller, Devid D. Van-Xuz, Djonson
+M.D., Matz Leonard M., Frast Stiven M., Harm C., Koch Timothy W., Philippe
+Jorion, Sara Yasar, George Kladakis, Wenhao Li, Luo, Kaisheng4.
+     Связь темы диссертации с планом научно-исследовательских работ
+высшего образовательного учреждения, в котором выполнена
+диссертация. Данное диссертационное исследование выполнено в
+соответствии с планом научно-исследовательских работ Ташкентского
+
+fanlari doktori ilmiy darajasini olish uchun yozilgan diss. avtoreferati. - Toshkent, BMA. 2023. -69 b.; Omonov A.A.
+Bank kapitalini samarali boshqarish masalalari. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan diss.
+avtoreferati. - Toshkent, BMA, 2004.–21 b.; Sattorov O.B. Tijorat banklari likvidliligini ta’minlashni
+takomillashtirish. Iqtisod fanlari nomzodi ilmiy darajasini olish uchun yozilgan diss. avtoreferati. - Toshkent, BMA,
+2008. – 21 b.; Gadoev S.J. Tijorat banklarida likvidlilik riskini boshqarishni takomillashtirish. I.f.b.f.d. diss.
+avtoreferati. – Toshkent, BMA. 2020.-48 b.; Abdullayev A.Y. Tijorat banklarining likvidlilik darajasini oshirish
+metodologiyasini takomillashtirish. Iqtisod fanlari doktori (DSc) ilmiy darajasini olish uchun yozilgan diss.
+avtoreferati. - Toshkent, BMA. 2018. - 74 b.
+3 Банковское дело: учебник для студентов вузов, обучающихся по экон. спец. / Под ред. Е.Ф.Жукова. – М.:
+
+ЮНИТИ-ДАНА: Единство, 2006. – 575 с.; Банковское дело: Учебник / Под ред. д-ра экон. наук, проф.
+Г.Г.Коробова. – М.: Экономистъ, 2004. -751 с.; Тимоти У. Кох. Управление банком: пер. с англ. В 5-ти томах
+(книгах), 6-ти частях. – Уфа: Спектр. Часть I, 2003. – 112 с.; Иванов В. «Проблемы ликвидности банковских
+систем России: причины и возможные пути выхода» Бюллетень финансовой информации, №10(41), октябрь
+1998 г. стр.22.; Банковское дело: Учебник. -2-е изд., перераб. и доп./ Под ред. О.И. Лаврушина. – М.: Финансы
+и статистика, 2004. – 672 с.; Ларионова И.В. Управление активами и пассивами в коммерческом банке. – М.:
+Консалтбанкир, 2003. – 272 с.; Левина Ю.Б. Банковская ликвидность: сущность, анализ и управление. – М.:
+ЭКОН, 2001. – 164 с.; Тен В.В. Модели и инструменты управления финансовой устойчивостью банка. – М.:
+Анкил, 2006., - 290с.; Самойлов Е.В. – “Совершенствование методов управления мгновенной и краткосрочной
+ликвидностью коммерческого банка”. Автореферат диссертации на соискание ученой степени кандидата
+экономических наук. – М.: Нижний Новгород, 2006.- 26 с., Дорожкин А.В. Выбор оптимальной структуры
+банковского портфеля с учетом ликвидности. Автореферат диссертации на соискание ученой степени
+кандидата экономических наук. – М.: Москва, 2005.- 24 с., Лялькова, Елена Юрьевна. Обеспечение
+ликвидности коммерческих банков : диссертация кандидата экономических наук. – М.: Иваново, 2013.- 198
+с., Янковская С.К. Экономический анализ рисков ликвидности коммерческого банка. Автореферат
+диссертации на соискание ученой степени кандидата экономических наук. – М.: Воронеж, 2012.- 24 с.
+4 Роуз П.С. Банковский менеджмент. БМА. – М.: Дело-ЛТД, 1995.-743 с.; Дж. Синки, мл. Управление
+
+финансами в коммерческих банках. пер. с англ. 4-го переработанного изд. БМА. – М., 1994, Catallaxy. – 820
+с.; Matz Leonard M. Liquidity Risk Management / Leonard M. Matz. − Sheshunoff Information Services Inc, USA,
+2002. − 8 p., Фраст Стивен М. Настольная книга банковского аналитика. – Днепропетровск: Баланс Бизнес
+Букс, 2006 . – 672 с.; Harm C. Bank management between shareholders and regulators. – Vienna: SUERF, 2002.
+ISBN 3-902109-13-0.; Koch Timothy W. University of South Carolina. Bank Management/3rd Edition - The Dryden
+Press Harcourt Brace College Publishers. Fort Worth Philadelphia – Tokyo, 1995.; Philippe Jorion. Financial risk
+manager/GARP. Handbook. Fourth edition.- Published by John Wiley & Sons, Inc., 2007.; Yasar, Sara – “Essays on
+Bank Liquidity Creation” ACADEMIC DISSERTATION- Finlyandiya. 2021. ISBN 978-952-476-986-0.; Kladakis,
+Georgios – “Empirical Studies on Bank Liquidity Creation: Implications for Regulation, Credit Ratings and Ethics”
+A thesis submitted in partial fulfilment of the requirements for the degree of Doctor of Philosophy - Buyuk Britaniya.
+2021.; Li, Wenhao – “Public Liquidity and Banking” in partial fulfillment of the requirements for the degree of Doctor
+of Philosophy – AQSh. 2019.; LUO, KAISHENG Bank deposits, liquidity management and macroeconomy. Doctoral
+thesis, Durham University. – UK, 2023.
+                                                                                                                   35
+государственного экономического университета в рамках научного проекта
+«Совершенствование научно-методических основ и методик обеспечения
+макроэкономической стабильности и прогнозирования социально-
+экономического развития в Узбекистане».
+    Цель исследования заключается в разработке научных предложений и
+практических рекомендаций, направленных на оптимизацию ликвидности
+коммерческих банков.
+    Задачи исследования:
+    изучение теоретических основ и специфических особенностей
+управления ликвидностью коммерческих банков;
+    определение методов, служащих для обеспечения оптимального уровня
+ликвидности банка;
+    оценка стратегий управления ликвидностью в банках;
+    оценка потребности банка в ликвидных средствах;
+    анализ основных факторов, влияющих на ликвидность АКБ «Агробанк»;
+    изучение практики обеспечения ликвидности в зарубежных странах и
+разработка научных выводов по применению ее положительных аспектов в
+национальной банковской системе;
+    разработка предложений и рекомендаций по усилению роли
+Центрального банка в оптимизации ликвидности банковской системы;
+    подготовка научно-практических предложений, направленных на
+оптимизацию ликвидности коммерческих банков.
+    Объектом исследования выбрана практика оптимизации ликвидности
+коммерческих банков Республики Узбекистан, в частности, акционерного
+коммерческого банка «Агробанк».
+    Предмет     исследования      составляют     финансово-экономические
+отношения, возникающие при оптимизации ликвидности коммерческого
+банка.
+    Методы исследования. В диссертации наряду с системным подходом
+использованы методы сравнительно-структурного анализа, выборочного
+исследования управления. Также применялись целевой и программный
+подходы, методы обобщения, обработки, синтеза.
+    Научная новизна исследования заключается в следующем:
+    усовершенствовано,      согласно      методологическому     подходу,
+экономическое     содержание     понятия     «оптимизация    ликвидности
+коммерческих банков» как научно-практическая категория, обеспечивающая
+эффективное     и    устойчивое     использование     ресурсов    банков,
+предусматривающая внедрение инновационных инструментов финансового
+менеджмента, позволяющее минимизировать риски ликвидности и
+прогнозировать дисбаланс ликвидности между филиалами на основе
+динамически синхронизирующихся индексов путем перебалансировки
+структуры активов и обязательств банка в реальном времени;
+    обоснована возможность повысить в банках показатель соответствия
+минимальным требованиям ликвидности до 95 % в модели
+семидесятидневного планирования ликвидности за счет использования в
+
+36
+управлении факторов диверсификации активов, децентрализованных
+источников ресурсов и быстрой оборачиваемости ликвидных активов;
+     предложено покрыть суточную потребность в ликвидности в банковской
+системе до 15-20 % и снизить дисбаланс ликвидности на краткосрочном
+финансовом рынке до 30 % за счет диверсификации инструментов
+регулирования    ликвидности     Центрального     банка,   охватывающих
+рефинансирование, своп-операции и операции с ценными бумагами, а также
+совершенствования критериев их применения.
+     обосновано снижение дефицита ликвидности до 18-22% и гармонизация
+баланса межфилиальных денежных потоков на уровне коэффициента
+корреляции 0,9 путем выявления и координации межфилиального дисбаланса
+ликвидности в банках на основе модели VAR и сценариев стресс-
+тестирования, обеспечивающие оптимизацию финансового моделирования
+деятельности предприятий.
+     Практические результаты исследования заключаются в следующем:
+     обоснованы направления повышения роли Центрального банка как
+кредитора последней инстанции в обеспечении ликвидности банковской
+системы:
+     разработаны научные рекомендации по применению в практике банков
+республики новых требований Базельского комитета по управлению и
+регулированию ликвидности;
+     разработаны научные предложения по развитию инструментов
+оптимизации ликвидности коммерческих банков;
+     разработаны научно-практические предложения по совершенствованию
+инновационной стратегии управления ликвидностью в коммерческих банках.
+     Достоверность результатов исследования. Достоверность научных
+результатов, полученных в диссертационном исследовании, объясняется
+целесообразностью применяемых в работе подходов и методов, получением
+базы данных из официальных источников, внедрением в практику сделанных
+выводов, предложений и рекомендаций, а также подтверждением полученных
+результатов компетентными организациями.
+     Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследований объясняется тем, что
+полученные в результате исследований научные выводы, выработанные
+предложения и рекомендации могут служить основой для научных
+исследований, направленных на совершенствование практики оптимизации
+ликвидности коммерческих банков, а также могут быть использованы при
+разработке методических указаний по оптимизации ликвидности
+коммерческих банков, создании учебной литературы.
+     Практическая значимость результатов исследования выражается
+возможностью использования разработанных научных предложений и
+практических рекомендаций в качестве руководства при разработке комплекса
+мер, направленных на совершенствование практики оптимизации
+ликвидности банков, а также при преподавании таких дисциплин, как
+«Банковское дело», «Управление активами и пассивами коммерческих
+банков» и «Банковский менеджмент» в высших образовательных учреждениях
+                                                                       37
+экономического профиля.
+     Внедрение результатов исследования. На основе научных предложений
+и практических рекомендаций, направленных на оптимизацию ликвидности
+коммерческих банков:
+     теоретико-методические разработки по совершенствованию, согласно
+методологическому подходу, экономического содержания понятия
+«оптимизация ликвидности коммерческих банков» как научно-практической
+категории, обеспечивающей эффективное и устойчивое использование
+ресурсов    банков,   предусматривающей      внедрение    инновационных
+инструментов финансового менеджмента, позволяющее минимизировать
+риски ликвидности и прогнозировать дисбаланс ликвидности между
+филиалами на основе динамически синхронизирующихся индексов путем
+перебалансировки структуры активов и обязательств банка в реальном
+времени использованы при подготовке учебного пособия «Коммерческие
+банки», рекомендованного для студентов высших образовательных
+учреждений (приказ № 272 ректора Ташкентского государственного
+экономического университета от 28 августа 2023 года). В результате
+внедрения данного научного предложения в практику у студентов появилась
+возможность расширить теоретические знания по усовершенствованному
+понятию «оптимизация ликвидности коммерческих банков», как научно-
+практической категории, предусматривающей внедрение инновационных
+инструментов финансового менеджмента, обеспечивающих эффективное и
+устойчивое использование банковских ресурсов;
+     предложение по повышению в банках показателя соответствия
+минимальным требованиям ликвидности до 95 % в модели
+семидесятидневного планирования ликвидности за счет использования в
+управлении факторов диверсификации активов, децентрализованных
+источников ресурсов и быстрой оборачиваемости ликвидных активов
+внедрено в деятельность АКБ «Агробанк» (справка № 20-3_08/870 АКБ
+«Агробанк» от 26 июня 2025 года). Внедрение данного научного предложения
+в практику позволило оптимизировать ликвидность банков за счет
+использования в управлении факторов диверсификации активов,
+децентрализованных ресурсов и быстрой оборачиваемости ликвидных
+активов;
+     предложение по покрытию суточной потребности в ликвидности в
+банковской системе до 15-20 % и снижению дисбаланса ликвидности на
+краткосрочном финансовом рынке до 30 % за счет диверсификации
+инструментов     регулирования     ликвидности    Центрального     банка,
+охватывающих рефинансирование, своп-операции и операции с ценными
+бумагами, а также совершенствования критериев их применения, внедрено в
+деятельность АКБ «Агробанк» (справка № 20-3_08/870 АКБ «Агробанк» от 26
+июня 2025 года). Внедрение данного научного предложения в практику
+позволило оптимизировать ликвидность путем диверсификации инструментов
+регулирования     ликвидности     Центрального   банка,    охватывающих
+рефинансирование, своп-операции и операции с ценными бумагами, а также
+совершенствования критериев их применения;
+38
+     предложение по снижению дефицита ликвидности до 18-22 % и
+гармонизации баланса межфилиальных денежных потоков на уровне
+коэффициента корреляции 0,9 путем выявления и координации
+межфилиального дисбаланса ликвидности в банках на основе модели VAR и
+сценариев стресс-тестирования, обеспечивающие оптимизацию финансового
+моделирования деятельности предприятий, внедрено в деятельность АКБ
+«Агробанк» (справка № 20-3_08/870 АКБ «Агробанк» от 26 июня 2025 года).
+В результате внедрения данного научного предложения в практику создана
+возможность выявления дисбаланса ликвидности в банках на основе модели
+VAR и сценариев стресс-тестирования, а также оптимизации ликвидности
+методом координации.
+     Апробация результатов исследования. Результаты исследования
+обсуждались на 3 международных и 5 республиканских, в целом на 8 научно-
+практических конференциях.
+     Публикация      результатов      исследования.   Всего    по    теме
+диссертационной работы опубликовано 13 научных работ, в том числе: 6
+статей в отечественных и 3 статьи в зарубежных журналах, рекомендованных
+Высшей аттестационной комиссией Республики Узбекистан к публикации
+основных научных результатов докторских диссертаций.
+     Структура и объем диссертации. Структура диссертации состоит из
+введения, 3 глав, заключения, списка использованной литературы и
+приложений. Объем исследования составил 134 страниц.
+
+            ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во Введении обоснована актуальность и востребованность темы
+диссертации, сформулированы цель и основные задачи, объект и предмет
+исследования, указана соответствие исследований с приоритетными
+направлениями развития науки и технологии в республике, изложены научная
+новизна и практические результаты исследования, освещена научная и
+практическая значимость полученных результатов. Кроме этого, приведены
+данные о внедрении результатов исследований в практику, опубликованных
+работах и структуре диссертации.
+     В первой главе диссертации под названием «Теоретические основы
+оптимизации ликвидности коммерческих банков» исследованы
+теоретические основы управления ликвидностью банков, методы управления
+ликвидностью коммерческих банков, проведен сравнительный анализ
+стратегий управления ликвидностью в банках.
+     Эффективное управление ликвидностью коммерческих банков служит
+укреплению надежности банка. Так как интересы акционеров неразрывно
+связаны с долгосрочным и устойчивым ростом стоимости банка. Политика
+банковского совета по управлению ликвидностью должна быть направлена на
+обеспечение разумного соотношения между показателями ликвидности и
+полезности, что противоположно при формировании его активов и пассивов.
+     Ликвидность – один из важнейших качественных показателей
+деятельности коммерческого банка, свидетельствующий о надежности и
+                                                                       39
+стабильности работы банка. Чем выше ликвидность банка, тем выше его
+способность выполнять обязательства.
+     В литературе часто встречается трактовка ликвидности банка как
+способности банка своевременно и без потерь исполнять обязательства перед
+вкладчиками и кредиторами5.
+     Известный ученый-экономист Ж.Синки считает, что ликвидность
+является ключевым фактором для коммерческих банков, чтобы оставаться
+готовыми к возврату депозитов и удовлетворению кредитного спроса. Между
+тем, изменения, связанные с непредвиденным денежным потоком, угрожают
+ликвидности банка6. O.И.Лаврушин отмечает, что ликвидность коммерческих
+банков определяется как величина активов и пассивов банка с учетом его
+финансовой стабильности и устойчивости, а также: «достаточного уровня
+собственного капитала банка, удобного размещения и соответствующего
+срока»7.
+     П.Роуз описывает ликвидность как механизм, поддерживающий
+«жизнеспособность» банка. Он считает, что эффективное управление
+ликвидностью защитит банк от шоковых ситуаций и сохранит его репутацию
+на рынке8.
+     M.Осбанд, в свою очередь, видит ликвидность неразрывно связанной с
+управлением рисками банка. Он отмечает, что недостаток ликвидности во
+многих случаях является результатом дисбаланса между активом и сроком
+погашения и снижения качества активов 9.
+     Эконометрик Л.Гудхарт же отмечает, что оценка ликвидности банка
+только    на    микроуровне    недостаточна,   она    тесно   связана   с
+макроэкономическими факторами – денежно-кредитной политикой,
+политической стабильностью, инфляцией и ликвидностью рынков капитала 10.
+     Ликвидность, по мнению Б.Бернанке, является не только внутренней
+проблемой банков, но и важным условием макроэкономической
+стабильности11.
+     По мнению автора, «оптимизация ликвидности коммерческих банков» –
+это управленческий подход, который служит для снижения рисков
+ликвидности за счет перекоординации активов и обязательств банка в режиме
+реального времени, а также для прогнозирования дисбаланса ликвидности
+между филиалами на основе динамических показателей12.
+     На рисунке 1 показано, что в период 2021–2025 годов показатели
+ликвидности     банковской    системы    были     нестабильными.     Доля
+высоколиквидных активов увеличилась с 14,2 % до 19,4 %, достигнув 17,3 %
+
+5 Лаврушин О.И. Банковское дело:       учебник для вузов. – М.: Финансы и статистика, 2000. – 140 с.
+6
+  Синки Ж. Управление финансами в коммерческом банке: Пер. с англ. – М.: Catallaxy, 1994. – 1548 с.
+7
+  Банковский менежмент: учебник /кол. Авторов; под ред. Проф О.И.Лаврушина.- 2 изд.. переб. и доп. – М.:
+КНОРУС, 2009. – с.142.
+8
+  Rose P.S., Hudgins S.C. Bank Management & Financial Services. – New York: McGraw-Hill, 2013. – 750 p.
+9
+  Osband M. Bank Risk and Liquidity Management. – Berlin: Springer, 2011. – 264 p.
+10
+   Goodhart, C. The Basel Committee on Banking Supervision: A History. — Cambridge: Cambridge University Press,
+2019. — 420 p.
+11
+   Bernanke B., Blanchard O. Monetary Policy and Financial Stability. — Cambridge: MIT Press, 2023. — 412p.
+12
+   Sattorova N.G‘. “Tijorat banklari”. (O‘quv qo‘llanma).–T.: “Innovatsion rivojlanish nashriyot-matbaa uyi”, 2024.
+312 bet.
+40
+в 2025 году. Коэффициент ликвидности (LCR) постоянно превышал норму
+(100 %), достигнув максимума в 224,5 % в 2021 году.
+     Коэффициент непосредственных финансовых резервов (NSFR) был
+относительно стабильным, колебаясь в диапазоне 109,9–115,6 %. Видно, что
+такие показатели ликвидности соответствуют общим нормам, но их динамика
+неравномерна. Именно эта ситуация создает необходимость организации
+ликвидности не статически, а в реальном времени и на основе
+оптимизированного управления.
+
+
+
+
+ Рисунок 1. Показатели ликвидности банковской системы Узбекистана13
+    Во второй главе диссертации под названием «Текущее состояние
+ликвидности в коммерческих банках и ее анализ» проанализировано
+текущее состояние обеспечения ликвидности в коммерческих банках, оценены
+факторы, влияющие на ликвидность коммерческих банков, и определено ее
+влияние на ликвидность.
+    При принятии решений по оптимизации ликвидности банка должны быть
+тщательно проанализированы такие факторы, как текущее состояние
+ликвидности, периодические колебания спроса на ресурсы, ожидаемые
+изменения спроса на ресурсы, источники ресурсов и их стоимость, качество
+активов, концентрация ресурсов, общее финансовое состояние банка с учетом
+капитала и прибыльности банка, внебалансовые обязательства и контракты, в
+том числе неиспользуемые кредитные линии, аккредитивы, контракты на
+покупку ценных бумаг и валюты.
+    Следует отметить, что эффективное управление ликвидностью банка
+должно включать управление активами и пассивами. В основе обеспечения
+ликвидности коммерческих банков и рационального управления ею лежит
+согласование потоков активов и обязательств банка, то есть источников
+средств банка и сроков использования этих средств. Сотрудник
+
+13
+     Составлено автором на основе информации Центрального банка.
+                                                                       41
+коммерческого банка, отвечающий за ликвидность, должен уметь предвидеть
+изменения обоих потоков и, как следствие, достигать чистой ликвидной
+позиции банка, которая определяется как разница между предложением
+ликвидных средств и спросом на них.
+    Данные таблицы 1 показывают, что коэффициент текущей ликвидности
+АКБ «Агробанк» находился в пределах требований, установленных
+Центральным банком Республики Узбекистан. Другими словами, если этот
+показатель по состоянию на 1 января 2024 года составлял 0,799, то можно
+увидеть, что этот показатель был на 0,499 единицы выше требуемого уровня.
+                                                               Таблица 1
+         Состояние показателей ликвидности АКБ «Агробанк»      14
+
+                                                                             (в процентах)
+                                                                           Нормативный
+                                       Фактически на отчетную дату
+         Показатели                                                           уровень
+                                  01.01.2022     01.01.2023   01.01.2024
+Коэффициент текущей                                                             Min
+                                     0,789          0,757       0,799
+ликвидности                                                                    0,300
+Нормативный
+                                                                                Min
+коэффициент покрытия                 1,628          1,217       1,232
+                                                                               1,000
+ликвидности
+Нормативный
+коэффициент чистого                                                             Min
+                                     1,159          1,103       1,040
+устойчивого                                                                    1,000
+финансирования
+     Также соблюдены требования нормативного коэффициента покрытия
+ликвидности и нормативного коэффициента чистого устойчивого
+финансирования АКБ «Агробанк». Так, нормативный коэффициент покрытия
+ликвидности по состоянию на 1 января 2024 года составил коэффициент,
+равный 1,232, т.е можно наблюдать увеличение коэффициента на 0,015
+единицы по сравнению с 2023 годом. Также можно увидеть, что к началу 2024
+года нормативный коэффициент покрытия ликвидности увеличился на 0,040
+единицы от требуемого уровня.
+     Кроме того, можно заметить, что нормативный коэффициент чистого
+устойчивого финансирования к 2024 году значительно снизился по сравнению
+с 2022-2023 годами. Этот показатель на 0,040 единицы превышает требуемый
+уровень, даже если на 1 января 2024 года он составлял 1,040
+     Из данных, представленных в таблице 2, видно, что в нашей республике
+в 2020-2024 годах удельный вес депозитов в национальной валюте в объеме
+денежного агрегата М2 был высоким. Кроме того, в 2024 году этот показатель
+вырос более высокими темпами, чем в 2020 году. В 2020-2024 годах удельный
+вес депозитов в общем объеме пассивов коммерческих банков был высоким.
+Теперь рассмотрим структуру капитальной базы АКБ «Агробанк».
+
+
+
+14 Составлено на основе данных отчета АКБ «Агробанк».
+
+42
+                                                           Таблица 2
+     Удельный вес депозитов в объеме денежной массы и общем объеме
+        пассивов коммерческих банков в Республике Узбекистан15
+                                                                                                    (в процентах)
+                                                            Годы
+          Показатели
+                                  31.12.2020 31.12.2021 31.12.2022 31.12.2023                        31.12.2024
+ Удельный вес депозитов в
+ национальной валюте в
+                                     46,9            49,0             51,1               56,0             75,8
+ объеме денежного агрегата
+ М2
+ Удельный вес депозитов в
+ объеме          пассивов            37,3            41,8             45,4               43,5             47,2
+ коммерческих банков
+                                                              Таблица 3
+        Структура и динамика капитальной базы АКБ «Агробанк»16
+                                (по состоянию на 1 января, в тыс.сумах)
+    Структура                                                 Годы
+   обственного
+                      2018        2019        2020             2021             2022             2023       2024
+    капитала
+Уставный капитал   1 335 562,6 2 162 962,6 4 393 016,5      4 907 783,0      8 553 958,9 8 553 958,9 10 770 191,0
+Добавленный
+                    1 416,8      1 416,8     1 416,8          1 416,8          1 416,8          1 416,8    1 416,8
+капитал
+Резервный
+                    14 240,4    43 204,8    57 678,9        198 014,8        382 704,7      204 209,7     771 131,6
+капитал
+Нераспределенная
+                    22 720,2    27 821,4    174 976,0       263 998,5        408 056,2      745 682,2     754 167,7
+прибыль
+Общий
+собственный        1 373 940,0 2 235 405,6 4 627 088,4      5 371 213,2      9 346 136,7 9 505 267,0 12 296 907,3
+капитал
+
+     Как известно, финансовая устойчивость банка во многом зависит от
+качества капитала банка. Обычно оплаченная часть уставного капитала
+является наиболее стабильным элементом капитала первого уровня. Анализ
+базы капитала АКБ «Агробанк» показал, что к 2024 году удельный вес
+уставного капитала в структуре общего собственного (регулирующего)
+капитала составил 114,1 процентов. Это указывает на рост этого показателя на
+3-5 % по сравнению с 2022-2023 годами (табл. 3).
+     Увеличение удельного веса уставного капитала в структуре совокупного
+капитала банка соответствует современным тенденциям регулирования
+собственного капитала банка. Особое внимание уделяется увеличению доли
+качественных элементов в совокупном капитале при реформировании
+требований к достаточности капитала. Имея солидную капитальную базу,
+собственный капитал означает значительную долю капитала. Основу капитала
+банка составляют уставный фонд, а также уставные и иные фонды различного
+назначения, предназначенные для обеспечения финансовой устойчивости
+банка. Чем больше собственный капитал банка, тем выше его ликвидность 17.
+
+15  Составлено на основе статистических данных Центрального банка Республики Узбекистан.
+16 Составлено  на основе данных отчета АКБ «Агробанк».
+17
+   Коваленко О.Г., Курилова А.А. Теоретические основы управления ликвидностью банка. Вестник НГИЭИ,
+2024, №5
+                                                                                                                   43
+     Следует отметить, что увеличение удельного веса транзакционных, то
+есть депозитов до востребования, которые коммерческие банки считают
+нестабильным источником в структуре депозитной базы, может отрицательно
+сказаться на ликвидности банка. Поскольку бессрочные депозиты
+востребованы с любого момента, возникает постоянный спрос на ликвидные
+средства. Чем выше сумма депозитов до востребования, тем больше
+первичных ликвидных активов требуется от банка. Депозиты до
+востребования являются самыми дешевыми, но в то же время нестабильными,
+то есть трудно управляемыми фондами, привлекаемыми в банк 18.
+
+
+
+          12.30%
+                      26.70%    27.00%                 22.30%
+                                           36.30%
+          27.80%
+                      15.80%    15.60%                 21.20%      64.70%
+                                           10.30%                           78.67%     83.75%   80.25%   79.96%
+                                                                                                                  87.15%
+
+
+
+          60.00%      57.50%    57.40%                 56.50%
+                                           53.40%
+                                                                   35.30%
+                                                                            21.33%     16.25%   19.75%   20.04%
+                                                                                                                  12.85%
+
+
+
+
+                                                                  Накопленнные
+                    Депозиты
+                   Talab         до востребования
+                         qilib olinguncha depozitlar            Jamg`arma
+                                                                  депозитыdepozitlar       Muddatli
+                                                                                            Срочные depozitlar
+                                                                                                      депозиты
+
+   Рисунок 2. Структура и динамика депозитной базы АКБ «Агробанк»19
+     Тем не менее, принимая во внимание, что согласно новым требованиям
+Базельского комитета по международному банковскому надзору за
+регулированием и управлением ликвидностью коэффициент текущей
+ликвидности не должен быть менее 100 %, целесообразно дальнейшее
+снижение удельного веса трансакционных депозитов в структуре депозитной
+базы АКБ «Агробанк».
+     По мнению автора, в целях повышения качества депозитной базы АКБ
+«Агробанк» и стимулирования ее формирования из устойчивых источников в
+рамках банковского маркетинга должны быть сформированы специальные
+пакеты банковских услуг. Основное внимание при этом следует уделить
+предоставлению скидок от стоимости прочих услуг банка клиентам,
+размещающим крупные суммы денег на долгосрочных (обычно более 3 лет)
+депозитах. Это служит, во-первых, повышению качества депозитной базы, а
+во-вторых, стабилизации спроса на ликвидные средства.
+   Как правило, при банкротстве коммерческого банка его капитал
+направляется на покрытие обязательств перед клиентами и учредителями. По
+
+18
+   Berdiyarov B.T. Tijorat banklari likvidliligini ta’minlashning nazariy masalalari // “Iqtisodiyot va innovatsion
+texnologiyalar” ilmiy elektron jurnali. № 4, iyul-avgust, 2016-y.
+19
+   Составлено на основе данных отчета АКБ «Агробанк».
+44
+этой причине, чем больше размер капитала, тем пропорционально выше
+платежеспособность банка. Из этого видно, что капитальная база банка
+является одним из важных внутренних факторов, влияющих на его
+ликвидность.
+    Тем не менее, резервы также формируются для покрытия ожидаемых
+вероятных потерь в структуре капитала, которые, в свою очередь, приводят к
+снижению прибыльности банка, поскольку они приводят к 100-процентным
+расходам.    Между тем, новые требования Базельского комитета по
+банковскому надзору предусматривают увеличение резервов, формируемых
+из чистой прибыли в структуре капитала.
+
+                     Факторы, влияющие на уровень ликвидности коммерческих банков
+
+
+
+
+                             Внешние                                        Внутренние
+
+
+             Политика внутреннего                              Общие                        Специальные
+               рефинансирования
+            и обязательных резервов
+                                                                                                Уровень качества
+                                                     Уровень управления
+                 Стабильность                                                                  банковских активов
+               экономической и                            банком
+            политической ситуации
+                                                          Соответствие                       Состояние требований
+                                                            интересов                          и обязательств по
+         Уровень совершенствования                       экономических                       банковскому балансу
+        банковского законодательства                      субъектов по
+                                                           различным
+                                                          направлениям                            Возиожности
+         Эффективность проводимой                                                                 привлечения
+            денежно-кредитной                                                                  средств из внешних
+                политики                                 Особенности                               источников
+                                                       клиентской базы
+               Уровень развития                             банка
+              финансового рынка                                                                   База капитала
+                                                         Имидж банка
+            Качество и состояние
+          регулирования банковской                                                             Качество депозитов
+                  системы
+
+              Уровень занятости
+                 населения
+
+
+ Рисунок 3. Группировка факторов, влияющих на уровень ликвидности
+                        коммерческих банков20
+    Из рисунка 3 можно сделать вывод, что на уровень ликвидности
+коммерческих банков влияют как внешние, так и внутренние факторы. Банк
+не может ограничивать влияние внешних факторов, поэтому следует уделять
+
+20 Tojiyev R. Banklarda likvidlilikni boshqarish strategiyalari. // Iqtisodiyot va ta’lim. №2.2018. 12-14b.
+
+                                                                                                                  45
+больше внимания внутренним факторам, непосредственно связанным с
+деятельностью коммерческого банка, так как, управляя ими, можно
+уменьшить их негативное влияние на ликвидность. В противном случае эти
+факторы приводят к возникновению рисков ликвидности, которые
+представляют собой риски, связанные с потерей способности быстро
+конвертировать финансовые средства в платежные инструменты или
+привлечением дополнительных обязательств21.
+     По мнению автора, наиболее устойчивым источником в структуре
+капитала банка является оплаченная часть обыкновенных акций, иными
+словами, увеличение размера уставного капитала служит укреплению доверия
+к национальной банковской системе, повышению ликвидности.
+     Взаимосвязь ликвидности и риска можно выразить просто: чем выше
+риск активов банка, тем ниже его ликвидность.
+     Из данных таблицы 4, представленных ниже, видно, что за период
+2020-2024 годов в структуре ликвидных активов АКБ «Агробанк» произошли
+значительные изменения. В частности, отмечается, что, хотя доля наличных
+денег и драгоценных металлов в кассе снизилась с 41,1 % в 2020 году до 31,5
+%, а в 2022 году, она снова резко выросла до 51,7 % в 2023 году и упала до 40
+% в 2024 году.
+     Это свидетельствует о том, что банк сокращает операции с наличными
+деньгами.
+                                                                   Таблица 4
+     Структура ликвидных активов АКБ «Агробанк» (в млн. сумах)
+                                                        22
+
+ Ликвидные          01.01.2020 г.      01.01.2021 г.      01.01.2022 г.      01.01.2023 г.       01.01.2024 г.
+ активы            млн. сум В %       млн. сум В%        млн. сум %da       млн. сум В %       млн. сум    В%
+ Наличные
+ деньги и
+                   613 054     41,1   1 012 360   32     1 131 135   31,5   2 375 800   51,7   1 880 296   40
+ драгоценные
+ металлы в кассе
+ Расчетный счет
+ банка в
+ Национальном
+                   501 039     33,6   1 368 936   43,3   1 698 020   47,3   1 290 092   28,1   1 125 678   24
+ Банке
+ Республики
+ Узбекистан
+ Расчетный счет
+                   376 976     25,3   780 547     24,7   762 124     21,2   929 005     20,2   1 693 056   36
+ в других банках
+ Итого
+ ликвидных         1 491 070   100    3 161 844   100    3 591 280   100    4 594 898   100    4 699 031   100
+ активов
+
+    В обеспечении соответствия ликвидности коммерческих банков очень
+важно влияние факторов макро-и микроуровня, в связи с чем вопрос точной
+оценки их влияния является одним из приоритетных в современном
+финансовом анализе.
+    В качестве свободных переменных на микроуровне выбраны уровень
+капитализации филиалов, ресурсная база и процентные ставки по кредитам. В
+качестве свободной переменной на макроуровне учтены количество банков-
+
+21 Трошин В. А. Ликвидность коммерческого банка // Молодой ученый. — 2024. — №7.
+22 Составлено на основе данных баланса АКБ «Агробанк».
+
+46
+конкурентов, работающих в регионах. В то же время три дополнительные
+переменные – диверсификация активов (DIV), децентрализация ресурсов
+(DFUND) и оборачиваемость ликвидных активов (TURN) – включены в
+модель в качестве основной новизны исследования. Эти переменные
+оценивались как факторы, непосредственно влияющие на показатель
+ликвидности.
+    На этой основе общая функция факторов, влияющих на показатель
+ликвидности филиалов акционерного коммерческого АКБ «Агробанк»,
+выражается в следующем виде:
+                     y70=f (DIV, DFUND, TURN, CR, LM, NB),
+    где: y70 – доля филиалов АКБ «Агробанк» в соответствии с 70-дневным
+требованием к ликвидности (от 0 до 1); DIV – индекс диверсификации
+активов (рассчитывается по индексу Херфиндаля-Хиршмана); DFUND –
+индекс децентрализации ресурсов (RetailShare ↑, Top10 depositor share ↓);
+TURN – коэффициент оборачиваемости ликвидных активов; CR – уровень
+капитализации филиала; LM – база ресурсов филиала (объем длинных денег);
+NB – количество банков-конкурентов в регионе.
+                                                              Таблица 5
+          Результаты показателей модели панельной регрессии
+                      (на основе данных 2009-2024 годов)23
+Зависимая переменная: Сборная модель                  Неизменный эффект Случайный эффект
+          y70                (1)                              (2)                (3)
+DIV                      0.188***                           0.179*           0.183***
+DFUND                    0.212***                           0.209*           0.213***
+TURN                      0.149**                            0.157            0.152**
+Константа                0.320***                           0.305*           0.311***
+Количество наблюдений       150                               150               150
+Количество филиалов          10                                10                10
+R-квадрат                   0.64                             0.68               0.66
+
+     После формирования гипотезы поставлена цель провести регрессионный
+анализ на основе панельных данных путем преобразования выбранных
+переменных в натуральный логарифм. При этом сначала анализирована
+описательная статистика переменных, вычислялись их средние значения,
+стандартные отклонения, а также точки максимума и минимума.
+     Из результатов, представленных в таблице 5, видно, что DIV, DFUND и
+TURN во всех моделях оказывают положительное и статистически значимое
+влияние. Наибольшим является коэффициент DFUND (0,209–0,213),
+означающий, что уменьшение централизации ресурсной базы существенно
+повышает показатель ликвидности в филиалах. Коэффициент DIV (0,179–
+0,188) также показал стабильный положительный результат. Повышение
+уровня диверсификации активов увеличивает обеспечение ликвидности в
+филиалах в долгосрочном плане. TURN (0,149-0,157) показывает влияние
+23
+     Подготовлено автором на основе данных АКБ «Агробанк» с использованием программы Eviews-12.0.
+                                                                                                    47
+оборачиваемости ликвидных активов: чем выше оборачиваемость, тем
+быстрее филиал может мобилизовать ликвидные ресурсы. Показатель R-
+квадрата находится в диапазоне 0,64-0,68, что указывает на высокую
+интерпретационную способность модели. Согласно результатам теста
+Дж.Хаусмана, модель неизменного эффекта (FE) считалась предпочтительнее
+модели случайного эффекта, что означает, что необходимо учитывать
+индивидуальные характеристики ветвей.
+     Как видно из таблицы 6, для переменных DIV, DFUND и TURN, вероятно,
+нет большой разницы между коэффициентами FE и RE. Но поскольку общая
+W-статистика χ2 = 0,027 χ2 = 0,027 χ2 = 0,027 и P-значение < 0,05, модель
+случайного эффекта отвергается, т.е. предпочтительна модель неизменного
+эффекта (FE). Этот результат означает, что индивидуальные характеристики
+филиалов (например, внутренняя политика, клиентский сегмент,
+региональные рыночные условия) влияют на показатель ликвидности. По этой
+причине использование модели FE делает результаты более точными и
+надежными.
+                                                               Таблица 6
+                     Результаты теста Дж.Хаусмана   24
+
+                      Неизменный          Случайный
+     Переменные                                              Разница (a-b)        P- значение
+                      эффект (FE)         эффект (RE)
+DIV                      0.179               0.183                -0.004              0.412
+DFUND                    0.209               0.213                -0.004              0.368
+TURN                     0.157               0.152                 0.005              0.295
+W (χ²)                    —                   —                     —                 0.027
+
+    В исследовании изучена взаимосвязь ликвидности, депозитов,
+капитализации и длинных денег с помощью модели VAR (Vector
+Autoregression). С помощью модели VAR можно оценить, какие изменения
+ожидаются в предстоящие периоды, по прошлым значениям переменных.
+Кроме того, с помощью сценариев стресс-тестирования изучено, как дефицит
+ликвидности изменяется в различных отрицательных и положительных
+условиях. Целью нашего исследования считается сокращение дефицита
+ликвидности до 18-22 % и доведение консолидации денежных потоков между
+филиалами до уровня корреляции 0.9. Данные и переменные в диссертации
+включают:
+    Liquidity Deficit – дефицит ликвидности в филиалах, основной индикатор;
+    DEP – объем депозитов в филиалах;
+    CAP – уровень капитализации;
+    LM – длинные деньги, то есть ресурсная база;
+    AR – средняя процентная ставка по кредитам.
+    Эти переменные рассчитаны на основе ежемесячных данных в период с
+2020 по 2024 год. В таблице отражены их агрегатные значения.
+
+
+24 Подготовлено автором на основе данных АКБ "Агробанк" с использованием программы Eviews-12.0.
+
+48
+      Рисунок 4. Импульсная реакция на ликвидность филиалов АКБ
+                             «Агробанк»25
+    Денежные потоки банка АКБ «Агробанк» между филиалами не всегда
+движутся гармонично друг к другу. Например, в некоторых филиалах поток
+депозитов в определенные месяцы может быть высоким, в то время как в
+других филиалах наблюдается обратное снижение. В результате возникает
+нехватка средств в другом филиале, в то время как в одном филиале
+существует избыточная ликвидность. Эта ситуация усугубляет общий
+дисбаланс ликвидности в банковской системе, в частности, снижается общая
+эффективность системы из-за неравномерного распределения ресурсов между
+филиалами.
+    Анализ показал, что корреляция между межотраслевыми денежными
+потоками в базовом случае была на низком уровне, особенно в то время, когда
+не применялся алгоритм координации. Это означает, что филиалы не
+
+
+25 Разработана автором на основе результатов проведенного исследования.
+
+                                                                          49
+действуют в соответствии друг с другом, и каждый работает скорее
+независимо.
+     Однако ситуация кардинально изменилась, когда был применен
+специальный алгоритм координации денежных потоков. Показатель
+корреляции между ветвями приблизился к 0,9, что означает очень высокую
+согласованность. В частности, если поток депозитов в одном филиале
+увеличивался, то аналогичные изменения направления могли наблюдаться и в
+других филиалах.
+     По мнению автора, для развития успешной деятельности коммерческого
+банка необходимо инициировать управляемую инновационную деятельность,
+а также создавать условия для ее эффективной реализации, придерживаться
+следующих принципов:
+     выявление тенденций, являющихся потенциальными предпосылками для
+инновационных разработок, и создание стимулов для формирования идей
+(этот принцип в основном относится к действиям руководства банка);
+     сознательное поддержание интеллектуального потенциала банка в
+ожидании внезапного появления идей и предложений, которые могут
+эффективно повлиять на производительность банка;
+     оптимизация уровней управления с целью ускорения цикла любого
+инновационного процесса;
+     минимизация сроков разработки и внедрения банковских продуктов не за
+счет сокращения количества этапов инновационного процесса, а за счет
+координации нескольких параллельных этапов с целью избавления от эффекта
+«эстафеты».
+     Исходя из вышесказанного, современная практика инновационной
+деятельности кредитных организаций может выглядеть следующим образом:
+большое распространение возможностей участников рынка банковских
+продуктов (банковских и небанковских организаций) напрямую влияет на
+протекающие инновационные процессы. В современных условиях для
+поддержания жизнедеятельности, то есть для создания и внедрения на рынке
+ассортимента продукции, имеющей достойный спрос, банку в некоторых
+случаях не всегда хватает собственных мощностей, финансовых ресурсов и
+инновационного потенциала.
+     Поэтому в сфере инновационного управления банковской деятельностью
+отмечается появление долгосрочных стратегических объединений,
+соглашений о сотрудничестве и межструктурных организационных структур
+с аналогичными формами. Эти межструктурные организационные структуры
+предусматривают реализацию на постоянной основе ряда совместных
+мероприятий или разовых инновационных проектов. В процессе их
+реализации происходят процессы совместимости ноу-хау, обмена
+существующей базой данных, использования совместных пространств,
+технологий, коммуникационных систем и другие.
+     В третьей главе диссертации под названием «Пути использования
+зарубежного опыта в оптимизации ликвидности коммерческих банков»
+
+50
+исследованы возможности использования зарубежного опыта оптимизации
+ликвидности коммерческих банков, взаимосвязь национальной экономики и
+кредитов, выделяемых банками.
+    Международная практика коммерческих банков включает в себя
+взаимоотношения между участниками международной торговли, услуги,
+востребованные      клиентами,     осуществляющими      инвестиционную
+деятельность на рынке ссудного капитала, занимающимися туризмом,
+покупкой и продажей иностранных ценных бумаг, обменом валюты, приемом
+банковских акцептов на чеки, инкассации.
+    В США юридически или нормативно не установлены строгие нормы
+ликвидности. Иными словами, в США задачей руководства банка является
+установление норм ликвидности и контроль за их соблюдением.
+    В настоящее время при выборе показателей оценки ликвидности
+коммерческого банка особое внимание уделяется:
+    рынку, на котором работает банк;
+    типу или форме банка;
+    структуре и объему банковских операций.
+    В частности, для оценки ликвидности в США используется отношение
+приведенных ниже показателей к привлеченным средствам банка (депозитам):
+    кассовые активы (первичные резервы);
+    кассовые активы и вложения в государственные ценные бумаги
+(первичные + вторичные резервы);
+    выданные кредиты.
+    Следует отметить, что для обеспечения ликвидности банка
+целесообразно, чтобы уровень показателя отношения первичных резервов к
+депозитам был не менее 5-10 %. А отношение суммы первичных и вторичных
+резервов к депозитам не должно быть меньше 15-25 %.
+    Кроме этого, как показывает практика банков США, при управлении
+ликвидностью коммерческими банками также используются следующие
+финансовые коэффициенты:
+    1. Показатель денежной позиции: денежные средства + вложения
+сберегательных учреждений / совокупные активы.
+    2. Показатель ликвидных ценных бумаг: государственные ценные бумаги
+США / общие активы.
+    3. Нетто-позиция федеральных резервных фондов: продаваемые остатки
+федеральных резервных фондов – покупаемые остатки федеральных
+резервных фондов / общие активы.
+    4. Коэффициент использования имеющихся мощностей: чистые
+кредиты+арендные активы / общие активы.
+    5. Удельный вес залоговых ценных бумаг: залоговые ценные бумаги /
+портфель ценных бумаг банка.
+    6. Удельный вес денежных средств в обращении: активы денежного
+рынка / обязательства денежного рынка.
+
+
+                                                                      51
+    7. Отношение     краткосрочных      инвестиций     к     обязательствам,
+подверженным изменениям процентных ставок: краткосрочные инвестиции /
+обязательства, подверженные изменениям процентных ставок.
+    8. Структурное соотношение вкладов: депозиты до востребования /
+срочные депозиты.
+    9. Доля основных депозитов: основные депозиты/общие активы.
+    10. Показатель брокерских депозитов: брокерские депозиты / всего
+депозитов.
+    Вышеуказанные обстоятельства свидетельствуют о том, что по мере
+развития банковской системы страны количество нормативов ликвидности и
+спрос на нее также могут увеличиваться. Ведь первичным показателем в
+развитии экономики является улучшение образа жизни населения, которому
+уделяется особое внимание. В связи с этим, одной из важнейших задач
+правительства является гарантирование сбережений, интересов и прав всех
+юридических и физических лиц в экономике.
+    По мнению автора, что и в системе управления коммерческими банками
+нашей республики будет невыгодно использовать финансовые коэффициенты,
+подобные приведенным выше, и анализировать их с постоянным
+наблюдением.
+    Примечательно, что позиция Федеральной резервной системы США в
+отношении оценки ликвидности через систему CAMELS подразумевает, что
+ликвидность не может быть измерена с помощью резервов и пассивов. Иными
+словами, ликвидность банка неразрывно зависит от всех факторов финансовой
+устойчивости, в частности от качества кредитного портфеля и эффективности
+деятельности банка.
+    Во Франции коэффициент ликвидности определяется отношением суммы
+размещенных средств, быстро реализуемых ценных бумаг и денежных средств
+со сроком погашения до трех месяцев к сумме привлеченных средств до
+востребования и сроком до трех месяцев. Этот коэффициент рассчитывается
+ежеквартально и не должен превышать 60 %. Это означает, что коммерческие
+банки могут размещать оставшиеся 40 % ресурсов в долгосрочной
+перспективе.
+    В Великобритании коэффициент ликвидности определяется отношением
+суммы наличных средств, остатка на счете «Nostro», активов, размещенных до
+востребования и сроком до 1 дня, ценных бумаг (включая переучтенные
+векселя) к общей сумме привлеченных средств. Минимальный уровень этого
+показателя составляет 12,5 %, и банки должны регулярно отчитываться о его
+соблюдении каждый месяц.
+    Кроме того, британские коммерческие банки также рассчитывают ряд
+других коэффициентов. Однако это носит информационный характер, по
+которому не требуется сдавать отчетность в Центральный банк. К числу таких
+коэффициентов можно отнести:
+    кассовый коэффициент (отношение суммы ликвидных активов и
+кредитов в форме овердрафта к привлеченным средствам);
+
+52
+      месячный коэффициент (отношение активов, размещенных на срок до
+1 месяца, к обязательствам, погашенным на срок до 1 месяца);
+      шестимесячный коэффициент (отношение активов, размещенных на срок
+до 6 месяцев, к обязательствам, погашенным на срок до 6 месяцев).
+      Британские банки должны проводить мониторинг и управлять своей
+ликвидностью на индивидуальной основе, при этом им не разрешается
+полагаться на другие группы при выполнении процедуры достаточности
+валовой ликвидности.
+      В банковской практике Германии также используются почти
+аналогичные коэффициенты, но коэффициент ликвидности выражает
+отношение активов, размещенных на более длительный срок, то есть на 4 года
+и более, к средствам, привлеченным на аналогичный срок. Кроме того,
+рассчитывается также коэффициент отношения активов, размещенных на
+короткий и средний срок (до 4 лет), к средствам, привлеченным на
+соответствующий срок, по которым банки отчитываются. Нормативный
+уровень этих коэффициентов установлен на уровне 100 %. Целью этого
+является сокращение превращения краткосрочных кредитов в среднесрочные
+и долгосрочные инвестиции.
+      В Японии при регулировании ликвидности используется коэффициент
+текущей ликвидности, нормативный уровень которого установлен на уровне
+минимум 30 %.
+      В банковской системе Российской Федерации при регулировании
+ликвидности используются 5 нормативных показателей:
+      коэффициент мгновенной ликвидности (мин. 20 %);
+      норма текущей ликвидности (мин. 50 %);
+      норма долгосрочной ликвидности (макс. 120 %);
+      норма общей ликвидности (мин. 20 %);
+      норматив ликвидности по операциям с ценными бумагами (мин. 10 %).
+      В соответствии с «Базелем-3» введены 2 коэффициента регулирования
+ликвидности коммерческих банков (liquidity coverage ratio, net stable funding
+ratio). В частности, коэффициент текущей ликвидности (Liquidity Coverage
+Ratio (LCR)) был введен с 1 января 2015 года.
+      В международной практике для количественной и качественной оценки
+ликвидности коммерческих банков используются различные показатели,
+отражающие финансовую устойчивость, надежность банка и безопасность его
+деятельности. В ряде государств показатель ликвидности устанавливается
+законодательно, то есть устанавливается его допустимый уровень.
+      По мнению автора, внедрение в банковскую практику вышеуказанных
+коэффициентов ликвидности будет способствовать повышению стабильности
+и платежеспособности банковской деятельности. Однако сохранение в составе
+активов банка высоких объемов ликвидных средств может негативно
+сказаться на рентабельности деятельности банка, уровне рентабельности.
+      В целом, исходя из анализа зарубежной практики регулирования
+ликвидности банков, можно сделать следующий вывод:
+
+                                                                           53
+     ликвидность иностранных банков измеряется на основе финансовых
+коэффициентов, представляющих ликвидность баланса и рассчитываемых на
+основе баланса, а также определения потенциальной потребности в ликвидных
+средствах с учетом оборачиваемости активов и пассивов в определенные
+периоды;
+     в некоторых зарубежных странах, например в США, нормы ликвидности
+не установлены регулятором. В обязанности руководства банка входит
+установление и соблюдение норм ликвидности;
+     Базельские требования к регулированию ликвидности требуют
+увеличения текущей ликвидности коммерческих банков.
+     Основным направлением реформирования банковской системы является
+ориентация коммерческих банков на обеспечение роста их доходов,
+финансовой устойчивости. В последние годы коммерческие банки становятся
+финансовым институтом, направляющим финансовые ресурсы в сферу
+операций финансового посредничества.
+     В связи с этим одной из приоритетных задач определено обеспечение мер
+по усилению деятельности коммерческих банков в нашей республике. В связи
+с этим, в нашей республике существуют следующие проблемы, связанные с
+совершенствованием управления ликвидностью банковской системы:
+     1. Повышение роли центрального банка как кредитора последней
+инстанции – это, в частности, проблема расширения возможностей банков по
+рефинансированию. Возможность регулирования ликвидности коммерческих
+банков в рамках денежно-кредитной политики Центрального банка
+республики остается ограниченной за счет следующих факторов:
+     применение в политике рефинансирования только форм прямого
+финансирования, слабая практика предоставления банкам дополнительной
+ликвидности за счет перерасчета ломбардных кредитов и трат;
+     значительно меньшие масштабы операций на открытом рынке. В нашей
+республике влияние Центрального банка на ликвидность банковской системы
+с помощью операций на открытом рынке не является значительным. Это
+связано с тем, что в нашей стране только государственные ценные бумаги
+могут использоваться в операциях на открытом рынке. Поскольку выпуск
+государственных ценных бумаг ограничен в условиях профицитного
+исполнения государственного бюджета, использование Центральным банком
+операций на открытом рынке может не иметь большого эффекта;
+     недостаточное развитие рынка межбанковских кредитов, в частности
+кредитных аукционов. Как известно, ставка, используемая Центральным
+банком при рефинансировании коммерческих банков, обычно должна
+определяться исходя из средней ставки межбанковских кредитов. Однако в
+условиях слабого развития рынка межбанковского кредитования, аукциона
+кредитов в нашей республике ставка рефинансирования Центрального банка
+устанавливается исходя из годового уровня инфляции, и эта ставка
+недостаточно гибкая;
+
+
+54
+    неспособность в полной мере воспользоваться такими возможностями,
+как РЕПО, своп, кредиты овернайт, которые позволяют быстро влиять на
+ликвидность коммерческих банков;
+    недостаточное широкое использование депозитной политики как
+инструмента денежно-кредитной политики Центрального банка;
+    негибкость политики обязательных резервов, другими словами,
+ограниченный доступ банков к средствам, которые они выделяют на
+обязательные резервы. По мнению автора, управление ликвидностью
+коммерческих банков должно предусматривать не отклонение определенной
+части их привлеченных средств от банковского оборота, а сохранение
+требуемых ликвидных средств на определенное время операционного дня;
+    не разработаны и юридически не закреплены чрезвычайные меры
+повышения ликвидности банковской системы для кризисных ситуаций.
+Центральный банк как орган внешнего регулирования банковской
+ликвидности должен иметь стратегию и программы по обеспечению
+ликвидности банковской системы в сложных ситуациях.
+    2. Проблемы, связанные с оптимизацией ликвидности коммерческих
+банков в нашей республике. К числу основных можно отнести следующие:
+    не разработан комплекс банковских услуг, предусматривающий особые
+льготы для таких клиентов при налаживании прочных связей с основными
+поставщиками ресурсов банка, не налажена эффективная маркетинговая
+деятельность банка;
+    высокая доля транзакционных депозитов в депозитной базе
+коммерческих банков и, как следствие, возможность внезапного
+возникновения риска ликвидности;
+    наличие необходимости усиления мер по привлечению сберегательных и
+срочных вкладов, недостаточный уровень выпуска и размещения депозитных
+сертификатов;
+    допущение случаев использования активов в операциях независимо от
+срока и суммы банковских пассивов;
+    значительно маленькая доля инвестиций в высоколиквидные ценные
+бумаги в общем объеме активов коммерческих банков;
+    отсутствие    практики    секьюритизации    активов,   позволяющей
+трансформировать неликвидные активы банка, и, как следствие, ограничение
+возможности передачи рисков другой стороне;
+    не сформированность вторичного рынка кредитов и невозможность
+приобретения ликвидных активов за счет продажи кредитов банка.
+    Предложенная автором модель управления ликвидностью в банках может
+быть использована в управлении любым коммерческим банком.
+    По мнению автора, существует необходимость совершенствования
+обеспечения ликвидности в коммерческих банках нашей республики по
+следующим направлениям:
+
+
+
+                                                                      55
+    определение возможностей использования процентных свопов для
+управления разницей между активами и пассивами (gep), подверженными
+изменениям процентной ставки, в стратегии управления ликвидностью банка;
+    рассмотрение возможностей продажи активов по выгодным ценам и
+привлечения ресурсов с низкими затратами при управлении ликвидностью в
+сложных ситуациях;
+    обеспечение возможности удовлетворения спроса на ликвидные средства
+с помощью реализации рисковых активов банка путем совершенствования
+правовых основ осуществления банками операций по кредитным
+деривативам, секьюритизации активов.
+
+                    Стратегия эффективной организации ликвидности в банках
+
+
+       Система правил,       Порядок взаимодействия служб,         Рекомендации по       Управление ликвидностью
+        инструкций и                                                  управлению           на основе сценариев,
+                             подразделений и ответственных                                   порядок внесения
+         принципов,          лиц банка в процессе управления        ликвидностью в        изменений в стратегию
+       регулирующих                                              кризисных ситуациях     управления ликвидностью
+     ликвидность и риск               ликвидностью                   (инструкция,          на основе изменений
+                                                                внутренний регламент)          конъюнктуры
+
+
+           Сведения об
+        активах, пассивах,                                                       Контроль за процессом
+                                  Отправители            Получатели
+         обязательствах,                                                       управления и исполнением
+                                    данных                данных
+           нормативах                                                                  решений
+        ликвидности и др.
+
+
+
+
+                  Формы предоставления      Аналитическая информация об         Подготовка и
+                 необходимой информации      уровне риска и результатах         регистрация
+                      для управления           оценки ликвидности для         управленческого
+                      ликвидностью            принятия управленческого            решения
+                                                      решения
+                                       Управление ликвидностью банка
+
+Рисунок 5. Стратегия эффективной организации ликвидности в банках26
+    Кроме того, для эффективного регулирования ликвидности в кризисных
+ситуациях необходимо внедрить практику управления ликвидностью на
+основе сценариев. Это требует группировки платежей по активным и
+пассивным операциям, в разрезе операций с клиентами и банками, а также по
+вводу и выводу средств, плановым и перспективным показателям.
+
+                                             ЗАКЛЮЧЕНИЕ
+
+    В ходе исследования сформулированы следующие основные научные
+выводы в направлении оптимизации ликвидности в коммерческих банках:
+
+
+26   Разработка автора
+56
+    1. Снижение ликвидности в банках приводит, прежде всего, к тому, что
+банк ограничивает возможности по предоставлению кредитов клиентам и
+теряет возможность осуществлять активные операции, вытекающие из
+денежных обязательств. Следовательно, невозможно полностью рассчитать
+ликвидность коммерческого банка, который не обладает потенциалом для
+ведения активной политики.
+    2. Согласно результатам проведенного анализа, нецелесообразно уделять
+большое внимание использованию межбанковских кредитов для обеспечения
+ликвидности. Так как увеличение объема таких кредитов приводит к
+значительному увеличению процентных расходов, что, в свою очередь,
+приводит к снижению уровня чистой процентной маржи.
+    3. Для устранения проблемы эффективного управления банковской
+ликвидностью рекомендуются следующие стратегические направления:
+    обеспечение ликвидности посредством управления активами, то есть
+обеспечение стабильности путем формирования ликвидных средств из состава
+активов;
+    обеспечение стратегии пассивного управления, то есть обеспечение
+потребности в ликвидности главным образом за счет погашения долга за счет
+привлеченных средств и ресурсов;
+    поддержание ликвидности на стабильном уровне путем скоординирован-
+ного управления активами и пассивами, то есть поддержания пропорции
+между банковскими ресурсами и пассивами.
+    4. Согласно результатам исследования, в развитых странах, в том числе в
+США, нормативные показатели по ликвидности напрямую не определяются
+регулирующими органами. В таких условиях разработка и внедрение
+стандартов ликвидности полностью входит в компетенцию руководства банка.
+В то же время Базельские правила, направленные на регулирование
+ликвидности, требуют укрепления текущей ликвидной позиции коммерческих
+банков.
+    5. Увеличение доли привлеченных кредитных ресурсов в структуре
+обязательств АКБ «Агробанк», в частности увеличение межбанковских
+заемных средств, отрицательно сказывается на марже чистых процентных
+доходов банка за счет роста процентных расходов. Такая финансовая
+динамика ослабляет показатели рентабельности банка, увеличивая затраты на
+обеспечение ликвидности.
+    Согласно анализу автора, в целях эффективного регулирования и
+оптимизации ликвидности коммерческих банков в нашей стране
+целесообразно реализовать следующие приоритетные направления:
+    1. Необходимо дальнейшее развитие инструментов Центрального банка,
+направленных на управление ликвидностью. С этой целью:
+
+                                                                         57
+    а) рекомендуется расширить доступ к овернайт-кредитам. По мнению
+автора, за основу при выделении Центральным банком овернайт-кредитов
+коммерческим банкам могут быть взяты следующие критерии:
+    наличие платежных поручений или иных платежных документов, не
+исполненных банком в конце операционного дня, а также обязательства по
+ранее предоставленному, но еще не погашенному кредиту Центрального
+банка;
+    наличие на депозитном счете банка в депозитарии на момент выдачи
+кредита количества государственных ценных бумаг, достаточного для полного
+покрытия суммы овернайт-кредита и начисленных на него процентов;
+    б) важное значение приобретает эффективное управление механизмами
+использования ломбардных кредитов на практике. Эти виды кредитов
+предоставляются коммерческим банкам на основе процентной ставки,
+установленной Центральным банком, и основанием для этого служит
+официальное обращение банка или распоряжение об участии в аукционе
+ломбардного кредита;
+    в) при регулировании банковской ликвидности важно совершенствовать
+практику использования открытого рынка, а также операций РЕПО. В
+настоящее время широкомасштабное использование Центральным банком
+операций на открытом рынке в Республике Узбекистан все еще ограничено, и
+основная причина этого заключается в недостаточном развитии объемов
+государственных ценных бумаг, необходимых для этих операций. Хотя в
+последние годы исполнение государственного бюджета с дефицитом
+порождает необходимость увеличения эмиссии ценных бумаг, недостаточно
+сформированная рыночная инфраструктура ограничивает эффективное
+обращение этих инструментов. В связи с этим в нынешних условиях
+целесообразно расширить        возможности   Центрального банка        по
+регулированию ликвидности посредством операций на открытом рынке;
+    г) в обеспечении ликвидности коммерческих банков актуальным является
+развитие механизмов осуществления валютно-своповых операций между
+Центральным банком и банками, а также на основе взаимодействия
+коммерческих банков. Целесообразно, чтобы Центральный банк расширил
+свои своп-соглашения с банками как передовой инструмент регулирования
+ликвидности.
+    2. Центральный банк должен иметь эффективные программы для
+поддержания стабильности банковской системы и обеспечения ликвидности.
+Важное значение в этом направлении имеет внедрение специальных программ
+ликвидности на случай чрезвычайных ситуаций, приобретение проблемных
+активов коммерческих банков или разработка механизмов гарантий на них.
+Также целесообразно системно осуществлять такие меры, как значительное
+
+58
+снижение уровня ставки рефинансирования, расширение перечня ценных
+бумаг, которые могут быть приняты в качестве обеспечения, внедрение
+практики без залогового кредитования и расширение доступа к кредитам
+Центрального банка при выполнении обязательных резервных требований.
+     3. Для внедрения в практику современных рекомендаций Базельского
+комитета по банковскому надзору по управлению и регулированию
+ликвидности      приобретает     актуальное    значение    формирование
+соответствующей экономической, правовой и институциональной среды:
+     а) в национальной банковской системе большая часть депозитной базы
+по-прежнему состоит из краткосрочных и транзакционных депозитов, что
+вынуждает банки хранить высоколиквидные активы в больших количествах.
+В результате возникает риск снижения рентабельности банков. Для
+устранения данной проблемы необходимо расширить практику применения
+льготных, пониженных нормативов обязательного резерва по долгосрочным
+депозитам. Это стабилизирует депозитную базу, снижает давление на
+ликвидность и улучшает финансовые результаты банков;
+     б) уровень достаточности капитала банка в отдельных случаях может
+быть полностью не защищен от макроэкономических колебаний и рисков
+ликвидности. Чтобы преодолеть эту проблему, в рамках требований Базеля III
+целесообразно строго продолжать формирование консервационного буфера в
+размере 2,5 % чистой прибыли в структуре капитала уровня I. Этот буфер
+повышает стабильность капитала, повышает его способность поглощать риски
+и обеспечивает устойчивость банковской системы к стрессовым ситуациям;
+     в) недостаточное качество базового капитала по сравнению с
+рискованными активами банков может увеличить риск ликвидности. Для того,
+чтобы решить эту проблему, необходимо усилить институциональные меры
+по увеличению доли капитала базового уровня I (Common Equity Tier1 –
+CET1), то есть капитала, выплачиваемого по обыкновенным акциям, и
+нераспределенной прибыли. Установление минимального требования CET1
+на уровне 4,5 % укрепляет платежеспособность банков и повышает
+устойчивость к системным рискам, сохраняя при этом высокое качество
+капитала.
+     4. Для поддержания оптимального уровня ликвидности в коммерческих
+банках необходимо принимать системные меры по следующим направлениям:
+     предусмотрение возможности использования производных финансовых
+инструментов, таких как процентные свопы, с целью уменьшения дисбаланса
+между активами и пассивами, чувствительными к изменениям процентных
+ставок, в рамках стратегии управления ликвидностью;
+
+
+
+                                                                        59
+     внедрение методов реализации активов на рынке по приемлемым ценам
+и привлечения дополнительных финансовых ресурсов на основе минимальных
+затрат в случаях финансовой нестабильности или дефицита ликвидности;
+     создание возможности удовлетворения потребности в ликвидных
+средствах за счет реализации активов с высоким уровнем риска в портфеле
+банка путем проведения операций, связанных с кредитными деривативами и
+секьюритизацией активов.
+
+
+
+
+60
+ SCIENTIFIC COUNCIL FOR AWARDING SCIENTIFIC DEGREES
+ DSc.03/2025.27.12.I.23.01 UNDER TASHKENT STATE UNIVERSITY
+       OF ECONOMICS GRANTING SCIENTIFIC DEGREES
+        TASHKENT STATE UNIVERSITY OF ECONOMICS
+
+
+
+
+              SATTOROVA NASIBA GANIJON KIZI
+
+
+
+WAYS TO OPTIMIZE THE LIQUIDITY OF COMMERCIAL BANKS
+
+
+
+              08.00.07 - Finance, money circulation and credit
+
+
+
+
+                                 ABSTRACT
+       of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                             Tashkent – 2026
+
+
+                                                                        61
+      The topic of the Doctor of Philosophy (PhD) dissertation was registered at the Higher
+Attestation Commission under the number B2024.2.PhD/Iqt4120.
+
+
+      The dissertation has been accomplished at the Tashkent State University of Economics.
+      The abstract of dissertation is posted in three languages (Uzbek, Russian and English (resume)) on
+the website of the Scientific Council www.tsue.uz) and on the website of «ZiyoNet» informational and
+educational portal (www.ziyonet.uz).
+
+
+      Scientific supervisor:                   Tojiyev Rahmatilla Rahmonovich
+                                               candidate of economic sciences, professor
+
+      Official opponents:                      Khudoyqulov Khurshid Khurramovich
+                                               doctor of economic sciences, professor
+                                               Berdiyarov Bakhriddin Tavasharovich
+                                               doctor of economic sciences, professor
+
+      Leading organization:                    Turonbank Joint Stock Commercial Bank
+
+
+      The defense of the dissertation will take place on _________ «__», 2026 at ___at the meeting of
+Scientific Council for awarding scientific degrees DSc.03/2025.27.12.I.23.01 at Tashkent state university
+of economics. Address: 100066, Tashkent city, Islam Karimov street, house 49. Phone: (99871) 239-01-
+49; Phone/fax: (99871) 239-41-23; e-mail: tdiu@tsue.uz.
+      The dissertation can be reviewed at the Information Resource Center of Tashkent state university of
+economics (registered under the number____). Address: 100066, Tashkent city, Islam Karimov street,
+house 49. Phone: (99871) 239-01-49; Phone/fax: (99871) 239-41-23; e-mail: tdiu@tsue.uz.
+      The abstract of dissertation sent out on «___» _____________ 2026.
+      (Protocol of the register under № ____ on «___» _____________ 2026).
+
+
+
+
+                                                                                     S.U. Mekhmonov
+                                                                 Chairman of the Scientific council
+                                                                 awarding Scientific degrees, Doctor of
+                                                                 Economics, Professor
+
+                                                                                        U.V. Gafurov
+                                                                 Academic secretary of the Scientific
+                                                                 council awarding Scientific degrees,
+                                                                 Doctor of Economics, Professor
+
+                                                                                    S.K. Khudoyqulov
+                                                                 Chairman of the Scientific seminar
+                                                                 under the Scientific council awarding
+                                                                 scientific  degrees,     Doctor    of
+                                                                 Economics, Professor
+
+
+62
+     INTRODUCTION (abstract of the dissertation of Doctor of Philosophy
+                                (PhD))
+
+       Relevance and necessity of the dissertation topic. The slowdown in
+economic growth caused by the pandemic in the world is creating a number of
+problems, such as rapid changes in the economic and financial situation of
+commercial bank clients, reduced liquidity in banks, a decline in confidence in the
+banking system, and a sharp increase in losses in the loan portfolio. According to
+international experience, in such difficult conditions, first of all, state support for the
+banking system serves to strengthen the reliability of commercial banks. In
+particular, in this regard, the European Central Bank announced that banks will not
+be required to maintain a liquidity buffer for an indefinite period 27. This decision of
+the European Central Bank has been implemented in Italy, Spain, Germany, and
+France28. It can be seen that the importance of optimizing the liquidity of commercial
+banks is increasing worldwide.
+       In the context of global competition and the growing need to ensure financial
+stability in the world, the scope of scientific research devoted to the study of ways
+to optimize the liquidity of commercial banks is expanding. The priority areas of
+scientific research in this area include considering the issue of liquidity management
+of commercial banks in the strategic management system, developing modern
+approaches to liquidity operation in bank management, ensuring the inextricable link
+between the interests of shareholders and the long-term and sustainable growth of
+the bank's value, developing a rational policy of the bank's board on liquidity
+management, and ensuring a rational ratio between the mutually contradictory
+liquidity-profitability indicators in the formation of its assets and liabilities.
+       The purpose of the research is to develop scientific proposals and practical
+recommendations aimed at optimizing the liquidity of commercial banks.
+       Objectivesof the research:
+       to study the theoretical foundations of liquidity management of commercial
+banks and its specific features;
+       to identify methods that serve to ensure optimal bank liquidity;
+       to evaluate liquidity management strategies in banks;
+       to determine the bank's need for liquid funds;
+       to analyze the main factors affecting the liquidity of JSCB "Agrobank";
+       to study the practice of ensuring liquidity in foreign countries and develop
+scientific conclusions on the application of its positive aspects in the national
+banking system;
+       to develop proposals and recommendations to strengthen the role of the
+Central Bank in optimizing the liquidity of the banking system;
+
+
+
+
+27  https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr200312~45417d8643.en.html
+28  https://www.reuters.com/article/health-coronavirus-turkey-banks/turkish-banking-watchdog-eases-banks-
+liquidity-ratio-due-to-coronavirus-idUSL8N2BJ8BU
+                                                                                                            63
+       The object of the study is the practice of optimizing the liquidity of
+commercial banks of the Republic of Uzbekistan, in particular, the joint-stock
+commercial bank Agrobank.
+       The subject of the study is the organizational and economic relations arising
+in the optimization of the liquidity of a commercial bank.
+       Research methods. The dissertation uses a systematic approach, as well as
+comparative and structural analysis of management, selective research methods.
+Also, targeted and programmatic approaches, generalization, processing, synthesis
+methods were used.
+       The scientific novelty of the study consists of the following:
+       According to the methodological approach, the economic content of the
+concept of “optimization of liquidity of commercial banks” is improved as a
+scientific and practical category that provides for the introduction of innovative
+financial management tools that allow minimizing liquidity risks by real-time
+rebalancing the structure of bank assets and liabilities and forecasting inter-branch
+liquidity imbalances based on dynamically synchronizing indices, ensuring the
+effective and sustainable use of bank resources;
+       The possibility of increasing the minimum liquidity requirement compliance
+indicator in the seventy-day planning model by implementing asset diversification
+in banks, decentralized sources of resources and the use of rapid turnover of liquid
+assets in management is based on the possibility of increasing the liquidity ratio to
+95%;
+       It is proposed to diversify the Central Bank's liquidity regulation tools,
+including refinancing, swap operations and securities transactions, and improve the
+criteria for their application to cover the daily liquidity needs in the banking system
+by up to 15-20% and reduce the liquidity imbalance in the short-term financial
+market by up to 30%;
+       It is based on the method of determining and coordinating inter-branch
+liquidity imbalances in banks based on the VAR model and stress test scenarios,
+optimizing financial modeling of enterprise activities, reducing the liquidity deficit
+to 18-22% and harmonizing the balance of inter-branch cash flows at a correlation
+coefficient of 0.9.
+       The practical results of the research are as follows:
+       Directions for increasing the role of the Central Bank as a lender of last resort
+in ensuring the liquidity of the banking system have been substantiated;
+       Scientific recommendations have been developed on the application of the
+new requirements of the Basel Committee on liquidity management and regulation
+in the practice of banks of our republic;
+       Scientific proposals have been developed on the development of tools for
+optimizing the liquidity of commercial banks;
+       Scientific and practical proposals have been developed on optimizing liquidity
+in commercial banks.
+
+
+
+64
+       Implementation of research results. On the base of the scientific proposals
+and practical recommendations aimed to optimizing the liquidity of commercial
+banks:
+       according to the methodological approach, the economic content of the
+concept of "optimizing the liquidity of commercial banks" as a scientific and
+practical category that provides for the introduction of innovative financial
+management tools that minimize liquidity risks through real-time rebalancing of the
+structure of bank assets and liabilities and forecast inter-branch liquidity imbalances
+based on dynamically synchronizing indices, ensuring the effective and sustainable
+use of bank resources, was used in the preparation of a recommended textbook for
+students of higher educational institutions entitled "Commercial Banks" (Order of
+the Rector of the Tashkent State University of Economics No. 272 dated August 28,
+2023). As a result of the implementation of this scientific proposal, students have
+the opportunity to expand their theoretical knowledge on the concept of
+"optimization of liquidity of commercial banks", which has been improved as a
+scientific and practical category, providing for the introduction of innovative
+financial management tools and ensuring the effective and sustainable use of bank
+resources;
+       A proposal to increase the minimum liquidity requirement compliance rate in
+the seventy-day liquidity planning model to 95% by implementing asset
+diversification, decentralized resource sources, and rapid turnover of liquid assets in
+banks has been implemented in the activities of Agrobank JSCB (Reference No.
+N20-3_08/870 of Agrobank JSCB dated June 26, 2025). As a result of the
+implementation of this scientific proposal in practice, it has become possible to
+optimize liquidity in banks by implementing asset diversification, decentralized
+resource sources, and rapid turnover of liquid assets in banks;
+       The proposal of the Central Bank to cover the daily liquidity needs in the
+banking system by up to 15-20% and reduce the liquidity imbalance in the short-
+term financial market by up to 30% by diversifying liquidity regulation tools
+covering refinancing, swap operations and securities transactions and improving the
+criteria for their application was implemented in the activities of JSCB "Agrobank"
+(Reference of JSCB "Agrobank" No. N20-3_08/870 dated June 26, 2025). As a
+result of the implementation of this scientific proposal in practice, it was possible to
+optimize liquidity by diversifying liquidity regulation tools covering refinancing,
+swap operations and securities transactions of the Central Bank and improving the
+criteria for their application;
+       A proposal to optimize the financial modeling of enterprises' activities by
+determining and coordinating inter-branch liquidity imbalances in banks based on
+the VAR model and stress-test scenarios, reducing the liquidity deficit to 18-22%
+and harmonizing the balance of inter-branch cash flows at a correlation coefficient
+of 0.9 was introduced into the activities of Agrobank JSCB (Reference of Agrobank
+JSCB dated June 26, 2025 No. N20-3_08/870). As a result of the implementation of
+this scientific proposal into practice, it became possible to optimize liquidity by
+
+
+                                                                                     65
+determining and coordinating inter-branch liquidity imbalances in banks based on
+the VAR model and stress-test scenarios.
+       Publication of research results. A total of 13 scientific works have been
+published on the topic of the dissertation. Of these, 9 articles have been published in
+scientific journals recommended by the Higher Attestation Commission of the
+Republic of Uzbekistan for disseminating the main scientific results of doctoral
+dissertations, including 6 articles in national journals and 3 articles in international
+journals.
+       Structure and scope of the dissertation. The dissertation consists of an
+introduction, three chapters, a conclusion, a list of used literature, and appendices.
+The total volume of the dissertation is 134 pages.
+
+
+
+
+66
+                   E’LON QILINGAN ISHLAR RO‘YXATI
+                      LIST OF PUBLISHED WORKS
+                  СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+
+                             I bo‘lim (I часть, part I)
+      1. Sattorova N.G‘. Analyzing the Effects of Blockchain Technology on
+Liquidity Management in Banking Institutions // 23rd International Conference,
+NEW2AN 2023 and 16th Conference, ruSMART 2023 Dubai, United Arab
+Emirates, December 21–22, 2023Proceedings, Part I. 2024, pp. 377–386.
+      2. Sattorova N.G‘. Analyzing Liquidity in Bank with Distributed Knowledge
+Based Systems A Data Driven Modelling Approach // In The 8th International
+Conference on Future Networks & Distributed Systems (ICFNDS ’24), Marakech,
+Morocco. ACM, New York, NY, USA. December 11.12.2024, pp. 653-659.
+      3. Sattorova N.G‘. The Role of Islamic Finance in the Economy of Uzbekistan
+// International Journal of Culture and Modernity. 2022, pp. 160-163.
+      4. Sattorova N.G‘. Banklar inqirozida likvidlilikni boshqarish // Iqtisodiy
+taraqqiyot va tahlili. 2023-yil, 1-son. May 192-197-betlar.
+      5. Sattorova N.G‘. Innovative Strategy of Liquidity Management in
+Commercial Banks // European journal of innovation in nonformal education, 3(6),
+Jun-2023, pp. 207-213.
+      6. Sattorova N.G‘. Exploring the Potential of Islamic Finance in Uzbekistan
+// Yashil iqtisodiyot va taraqqiyot. 2023-yil, iyul. 7-son. 277-283 betlar.
+      7. Sattorova N.G‘. Tijorat banklarining likvidligini ta’minlashda xorij tajribasi
+// “Yashil iqtisodiyot va taraqqiyot” jurnali. 2024-yil, aprel. 4-son. 1487-1490-
+betlar.
+      8. Sattorova N.G‘. Factors determining liquidity management in commercial
+banks and a comparative analysis of emerging markets // Raqamli iqtisodiyot va
+axborot texnologiyalari Elektron ilmiy jurnal // Maxsus son. 2024 yil. 68-71-betlar.
+      9. Sattorova N.G‘. Pul bozori barqarorligini ta’minlashda tijorat banklarida
+likvidlikni boshqarish samaradorligi // Yashil” iqtisodiyot va taraqqiyot. 2025-yil,
+iyun. 6-son. 188-191-betlar.
+      10. Sattorova N.G‘. Bank likvidligini boshqarishda valyuta kursi barqarorligini
+ta’minlash mexanizmlari // Yashil” iqtisodiyot va taraqqiyot. 2025-yil, iyun. 5-son.
+1686-1689-betlar.
+      11. Sattorova N.G‘. Methods of ensuring liquidity of commercial banks in
+Uzbekistan // International multidisciplinary journal for Research & Development
+SJIF eISSN:2394-6334. Volume 12, issue 06 (2025). pp. 55-58.
+      12. Sattorova N.G‘. Banklarda likvidlilik strategiyalari // Hududlarda
+investitsiyalarni keng joriy etish orqali ijtimoiy rivojlanishni ta’minlash yo‘llari.
+Talabalar ilmiy-amaliy konferensiyasining ma’ruza tezislari to‘plami (2019-yil
+29- mart). – T.: “Iqtisodiyot” nashriyoti, 2019-yil. 387-389-betlar.
+      13. Sattorova N.G‘. Banklar transformatsiyasi sharoitida banklar likvidliligi
+muammolari // Bank tizimini innovatsion isloh qilish sharoitida tijorat banklarini
+
+                                                                                    67
+transformatsiyalashning ilmiy-amaliy asoslari. Respublika ilmiy-amaliy on-layn
+konferensiyasi materiallari to‘plami. – T.: TDIU, 2021-yil. 220-224-betlar.
+
+                              II bo‘lim (II часть, part II)
+      1. Sattorova N.G‘. Effective Loan Portfolio in Commercial Banks Management
+Issues // International Journal of Development and Public Policy. e- ISSN 2792-
+3991 (online), Published under Volume: 1 Issue: 5 in October -2021 Copyright (c)
+2021 Author (s). Volume: 1. Issue: 5, 2021, pp. 52-57.
+      2. Sattorova N.G‘. The Role of the Foreign Exchange Market in Ensuring the
+Stability of the National Currency in the Country // Spanish Journal of Innovation
+and Integrity. 2022. pp. 20-27.
+      3. Sattorova N.G‘. Mustaqillik yillarda O‘zbekiston bank tizimi barqarorligini
+ta’minlash: muammolar va imkoniyatlar // O‘zbеkistonning bugungi taraqqiyot
+tamoyillari va rivojlanish istiqbollari. Xalqaro ilmiy-amaliy anjumani matеriallari
+to‘plami. T.: TDIU, 2021-yil. 39-44 betlar.
+      4. Sattorova N.G‘. O‘zbekiston Respublikasi pul tizimining zamonaviy
+rivojlanish tendensiyalari // Banklarni transformatsiya qilish va bank xizmatlari
+bozorida raqobatni rivojlantirish yo‘nalishlari. Xalqaro ilmiy-amaliy konferensiya.
+2024 yil. 100-105 betlar.
+      5. Sattorova    N.G‘.     Banklarda     lividlilikni boshqarish      masalalari
+// O‘zbekistonda tadbirkborlikni rivojlantirish asosida kambag‘allikni qisqartirish va
+aholi farovonligini oshirishning ustuvor yo‘nalishlari. Respublika ilmiy-amaliy
+anjumani ilmiy maqola va ma’ruzalar to‘plami(2021 yil 2 iyun). – T.: TDIU, 2021-
+yil. 627-631-betlar.
+      6. Sattorova N.G‘. O‘zbekiston bank tizimi raqobatbardoshligini rivojlantirish
+yo‘nalishlari // O‘zbekistonda taraqqiyot strategiyasini rivojlantirishning ustuvor
+yo‘nalishlari. Respublika talabalar ilmiy – amaliy anjumani ilmiy maqola va
+ma’ruzalar to‘plami (2022 – yil 31 – mart). – T.: “IQTISODIYOT” DUK, 2022.
+71-75-betlar.
+      7. Sattorova N.G‘. Bank xizmatlari bozorini rivojlantirishda raqamli
+iqtisodiyotning o‘rni va istiqbollari // Yangi O‘zbekiston taraqqiyot strategiyasi –
+talabalar nigohida. Talabalar ilmiy-amaliy konferensiyasining maqolalar toʻplami
+(2023 yil 20 aprel). –Tashkent: “IQTISODIYOT”, 2023. 225-227 betlar.
+      8. Sattorova N.G‘. Tijorat banklarining moliya bozoridagi investitsion
+operatsiyalarini rivojlantirish istiqbollari // Moliya bozorini rivojlantirishning
+ustuvor yo‘nalishlari, zamonaviy tendensiyalari va istiqbollari. II respublika ilmiy-
+amaliy konferensiyasi materiallari to‘plami. – T.: TDIU 2023. 220-222-betlar.
+
+
+
+
+68
+           Bosishga ruxsat etildi: 09.01.2026-yil.
+         Bichimi 60x84 1/16, “Times New Roman”
+        garniturada raqamli bosma usulida bosildi.
+  Shartli bosma tabogʻi 4.3. Adadi: 100. Buyurtma: № 1.
+                    Tel (99) 817 44 54.
+              Guvohnoma reyestr № 219951
+“PUBLISHING HIGH FUTURE” OK nashriyotida bosildi.
+Toshkent sh., Uchtepa tumani, Ali qushchi koʻchasi, 2A-uy.
+
+
+
+                                                             69
+

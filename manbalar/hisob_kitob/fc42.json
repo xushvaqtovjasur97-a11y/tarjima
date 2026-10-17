@@ -1,0 +1,745 @@
+{
+ "tizim_model": {
+  "b": {
+   "const": 2.9827,
+   "NPL_l1": 0.4938,
+   "G": -0.1514
+  },
+  "se": {
+   "const": 0.8739,
+   "NPL_l1": 0.1336,
+   "G": 0.0585
+  },
+  "p": {
+   "const": 0.0006,
+   "NPL_l1": 0.0002,
+   "G": 0.0096
+  },
+  "N": 20,
+  "R2": 0.589,
+  "davr": "2021_I–2025_IV",
+  "LR": -0.299
+ },
+ "lag_tanlov": {
+  "0": {
+   "b": 0.125,
+   "p": 0.168,
+   "AIC": 45.4
+  },
+  "1": {
+   "b": 0.05,
+   "p": 0.471,
+   "AIC": 48.6
+  },
+  "2": {
+   "b": -0.116,
+   "p": 0.27,
+   "AIC": 45.7
+  },
+  "3": {
+   "b": -0.151,
+   "p": 0.036,
+   "AIC": 39.6
+  },
+  "4": {
+   "b": -0.151,
+   "p": 0.01,
+   "AIC": 33.3
+  },
+  "5": {
+   "b": -0.132,
+   "p": 0.016,
+   "AIC": 35.7
+  }
+ },
+ "panel_NPL": {
+  "b": {
+   "S3_l1": 0.6836,
+   "YaIM_osish": -0.1529,
+   "c": 2.0493
+  },
+  "se": {
+   "S3_l1": 0.1002,
+   "YaIM_osish": 0.0605,
+   "c": 0.536
+  },
+  "p": {
+   "S3_l1": 0.0,
+   "YaIM_osish": 0.0119,
+   "c": 0.0002
+  },
+  "N": 420,
+  "R2w": 0.505,
+  "LR": -0.483
+ },
+ "panel_ROA": {
+  "b": {
+   "S3": -0.2011,
+   "c": 3.3535
+  },
+  "se": {
+   "S3": 0.0762,
+   "c": 0.2661
+  },
+  "p": {
+   "S3": 0.0087,
+   "c": 0.0
+  },
+  "N": 394,
+  "R2w": 0.031
+ },
+ "ssenariy": {
+  "Asosiy": {
+   "2026": 6.9,
+   "2027": 6.9,
+   "2028": 6.9
+  },
+  "Ijobiy": {
+   "2026": 8.0,
+   "2027": 8.0,
+   "2028": 8.0
+  },
+  "Salbiy": {
+   "2026": 4.5,
+   "2027": 5.5,
+   "2028": 6.9
+  },
+  "Keskin salbiy": {
+   "2026": 1.6,
+   "2027": 5.5,
+   "2028": 6.9
+  }
+ },
+ "tizim_NPL_yo‘li": {
+  "Asosiy": [
+   3.13,
+   3.13,
+   3.08,
+   3.03,
+   3.13,
+   3.18,
+   3.2,
+   3.22,
+   3.22,
+   3.23,
+   3.23,
+   3.23
+  ],
+  "Ijobiy": [
+   3.13,
+   3.13,
+   3.08,
+   3.03,
+   2.96,
+   2.93,
+   2.92,
+   2.91,
+   2.9,
+   2.9,
+   2.9,
+   2.9
+  ],
+  "Salbiy": [
+   3.13,
+   3.13,
+   3.08,
+   3.03,
+   3.49,
+   3.72,
+   3.84,
+   3.89,
+   3.77,
+   3.71,
+   3.68,
+   3.66
+  ],
+  "Keskin salbiy": [
+   3.13,
+   3.13,
+   3.08,
+   3.03,
+   3.93,
+   4.38,
+   4.6,
+   4.71,
+   4.17,
+   3.91,
+   3.77,
+   3.71
+  ]
+ },
+ "tizim": {
+  "2025|2025": {
+   "S3_w": 2.94,
+   "ROA_w": 1.69,
+   "MBII_med": 3.41,
+   "MBII_w": 3.38,
+   "yashil": 16.0,
+   "sariq": 9.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 33.79
+  },
+  "Asosiy|2026": {
+   "S3_w": 2.98,
+   "ROA_w": 1.68,
+   "MBII_med": 3.4,
+   "MBII_w": 3.38,
+   "yashil": 16.0,
+   "sariq": 9.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 33.79
+  },
+  "Asosiy|2027": {
+   "S3_w": 3.16,
+   "ROA_w": 1.64,
+   "MBII_med": 3.39,
+   "MBII_w": 3.36,
+   "yashil": 15.0,
+   "sariq": 10.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 37.31
+  },
+  "Asosiy|2028": {
+   "S3_w": 3.17,
+   "ROA_w": 1.64,
+   "MBII_med": 3.39,
+   "MBII_w": 3.36,
+   "yashil": 15.0,
+   "sariq": 10.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 37.31
+  },
+  "Ijobiy|2026": {
+   "S3_w": 2.98,
+   "ROA_w": 1.68,
+   "MBII_med": 3.4,
+   "MBII_w": 3.38,
+   "yashil": 16.0,
+   "sariq": 9.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 33.79
+  },
+  "Ijobiy|2027": {
+   "S3_w": 2.86,
+   "ROA_w": 1.71,
+   "MBII_med": 3.41,
+   "MBII_w": 3.39,
+   "yashil": 17.0,
+   "sariq": 8.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 32.43
+  },
+  "Ijobiy|2028": {
+   "S3_w": 2.85,
+   "ROA_w": 1.71,
+   "MBII_med": 3.42,
+   "MBII_w": 3.39,
+   "yashil": 18.0,
+   "sariq": 7.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 31.94
+  },
+  "Keskin salbiy|2026": {
+   "S3_w": 2.98,
+   "ROA_w": 1.68,
+   "MBII_med": 3.4,
+   "MBII_w": 3.38,
+   "yashil": 16.0,
+   "sariq": 9.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 33.79
+  },
+  "Keskin salbiy|2027": {
+   "S3_w": 4.63,
+   "ROA_w": 1.35,
+   "MBII_med": 3.18,
+   "MBII_w": 3.2,
+   "yashil": 12.0,
+   "sariq": 9.0,
+   "qizil": 4.0,
+   "qizil_aktiv": 24.33,
+   "sariq_qizil_aktiv": 45.88
+  },
+  "Keskin salbiy|2028": {
+   "S3_w": 3.65,
+   "ROA_w": 1.55,
+   "MBII_med": 3.34,
+   "MBII_w": 3.31,
+   "yashil": 15.0,
+   "sariq": 8.0,
+   "qizil": 2.0,
+   "qizil_aktiv": 5.86,
+   "sariq_qizil_aktiv": 37.31
+  },
+  "Salbiy|2026": {
+   "S3_w": 2.98,
+   "ROA_w": 1.68,
+   "MBII_med": 3.4,
+   "MBII_w": 3.38,
+   "yashil": 16.0,
+   "sariq": 9.0,
+   "qizil": 0.0,
+   "qizil_aktiv": 0.0,
+   "sariq_qizil_aktiv": 33.79
+  },
+  "Salbiy|2027": {
+   "S3_w": 3.82,
+   "ROA_w": 1.51,
+   "MBII_med": 3.31,
+   "MBII_w": 3.28,
+   "yashil": 14.0,
+   "sariq": 9.0,
+   "qizil": 2.0,
+   "qizil_aktiv": 5.86,
+   "sariq_qizil_aktiv": 43.42
+  },
+  "Salbiy|2028": {
+   "S3_w": 3.6,
+   "ROA_w": 1.56,
+   "MBII_med": 3.34,
+   "MBII_w": 3.31,
+   "yashil": 15.0,
+   "sariq": 9.0,
+   "qizil": 1.0,
+   "qizil_aktiv": 2.43,
+   "sariq_qizil_aktiv": 37.31
+  }
+ },
+ "guruh": {
+  "2025|2025|0": {
+   "S3_w": 2.49,
+   "ROA_w": 3.02,
+   "MBII_med": 3.61,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "2025|2025|1": {
+   "S3_w": 3.17,
+   "ROA_w": 0.99,
+   "MBII_med": 3.15,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2026|0": {
+   "S3_w": 2.53,
+   "ROA_w": 3.02,
+   "MBII_med": 3.61,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2026|1": {
+   "S3_w": 3.21,
+   "ROA_w": 0.98,
+   "MBII_med": 3.13,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2027|0": {
+   "S3_w": 2.69,
+   "ROA_w": 2.99,
+   "MBII_med": 3.6,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2027|1": {
+   "S3_w": 3.41,
+   "ROA_w": 0.94,
+   "MBII_med": 3.09,
+   "sariq": 6.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2028|0": {
+   "S3_w": 2.7,
+   "ROA_w": 2.98,
+   "MBII_med": 3.6,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Asosiy|2028|1": {
+   "S3_w": 3.43,
+   "ROA_w": 0.94,
+   "MBII_med": 3.08,
+   "sariq": 6.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2026|0": {
+   "S3_w": 2.53,
+   "ROA_w": 3.02,
+   "MBII_med": 3.61,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2026|1": {
+   "S3_w": 3.21,
+   "ROA_w": 0.98,
+   "MBII_med": 3.13,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2027|0": {
+   "S3_w": 2.43,
+   "ROA_w": 3.04,
+   "MBII_med": 3.62,
+   "sariq": 3.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2027|1": {
+   "S3_w": 3.09,
+   "ROA_w": 1.0,
+   "MBII_med": 3.17,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2028|0": {
+   "S3_w": 2.42,
+   "ROA_w": 3.04,
+   "MBII_med": 3.62,
+   "sariq": 2.0,
+   "qizil": 0.0
+  },
+  "Ijobiy|2028|1": {
+   "S3_w": 3.08,
+   "ROA_w": 1.01,
+   "MBII_med": 3.17,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Keskin salbiy|2026|0": {
+   "S3_w": 2.53,
+   "ROA_w": 3.02,
+   "MBII_med": 3.61,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Keskin salbiy|2026|1": {
+   "S3_w": 3.21,
+   "ROA_w": 0.98,
+   "MBII_med": 3.13,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Keskin salbiy|2027|0": {
+   "S3_w": 3.93,
+   "ROA_w": 2.74,
+   "MBII_med": 3.5,
+   "sariq": 7.0,
+   "qizil": 0.0
+  },
+  "Keskin salbiy|2027|1": {
+   "S3_w": 5.0,
+   "ROA_w": 0.62,
+   "MBII_med": 2.81,
+   "sariq": 2.0,
+   "qizil": 4.0
+  },
+  "Keskin salbiy|2028|0": {
+   "S3_w": 3.1,
+   "ROA_w": 2.9,
+   "MBII_med": 3.56,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Keskin salbiy|2028|1": {
+   "S3_w": 3.93,
+   "ROA_w": 0.83,
+   "MBII_med": 2.99,
+   "sariq": 4.0,
+   "qizil": 2.0
+  },
+  "Salbiy|2026|0": {
+   "S3_w": 2.53,
+   "ROA_w": 3.02,
+   "MBII_med": 3.61,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Salbiy|2026|1": {
+   "S3_w": 3.21,
+   "ROA_w": 0.98,
+   "MBII_med": 3.13,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Salbiy|2027|0": {
+   "S3_w": 3.25,
+   "ROA_w": 2.87,
+   "MBII_med": 3.54,
+   "sariq": 5.0,
+   "qizil": 0.0
+  },
+  "Salbiy|2027|1": {
+   "S3_w": 4.13,
+   "ROA_w": 0.8,
+   "MBII_med": 2.96,
+   "sariq": 4.0,
+   "qizil": 2.0
+  },
+  "Salbiy|2028|0": {
+   "S3_w": 3.05,
+   "ROA_w": 2.91,
+   "MBII_med": 3.56,
+   "sariq": 4.0,
+   "qizil": 0.0
+  },
+  "Salbiy|2028|1": {
+   "S3_w": 3.88,
+   "ROA_w": 0.84,
+   "MBII_med": 3.0,
+   "sariq": 5.0,
+   "qizil": 1.0
+  }
+ },
+ "qizil_banklar": {
+  "Keskin salbiy|2027": [
+   "Agrobank",
+   "Asaka bank",
+   "Mikrokreditbank",
+   "Turon bank"
+  ],
+  "Keskin salbiy|2028": [
+   "Mikrokreditbank",
+   "Turon bank"
+  ],
+  "Salbiy|2027": [
+   "Mikrokreditbank",
+   "Turon bank"
+  ],
+  "Salbiy|2028": [
+   "Turon bank"
+  ]
+ },
+ "banklar": {
+  "SQB": {
+   "koef": 2.96,
+   "2025": {
+    "milliy": 3.61,
+    "MHXS": 2.81,
+    "S3_milliy": 2.53,
+    "S3_MHXS": 7.48
+   },
+   "Asosiy|2026": {
+    "milliy": 3.61,
+    "MHXS": 2.81,
+    "S3_milliy": 2.56,
+    "S3_MHXS": 7.58
+   },
+   "Asosiy|2027": {
+    "milliy": 3.61,
+    "MHXS": 2.79,
+    "S3_milliy": 2.72,
+    "S3_MHXS": 8.06
+   },
+   "Asosiy|2028": {
+    "milliy": 3.61,
+    "MHXS": 2.79,
+    "S3_milliy": 2.73,
+    "S3_MHXS": 8.08
+   },
+   "Ijobiy|2026": {
+    "milliy": 3.61,
+    "MHXS": 2.81,
+    "S3_milliy": 2.56,
+    "S3_MHXS": 7.58
+   },
+   "Ijobiy|2027": {
+    "milliy": 3.62,
+    "MHXS": 2.82,
+    "S3_milliy": 2.46,
+    "S3_MHXS": 7.28
+   },
+   "Ijobiy|2028": {
+    "milliy": 3.62,
+    "MHXS": 2.82,
+    "S3_milliy": 2.45,
+    "S3_MHXS": 7.25
+   },
+   "Salbiy|2026": {
+    "milliy": 3.61,
+    "MHXS": 2.81,
+    "S3_milliy": 2.56,
+    "S3_MHXS": 7.58
+   },
+   "Salbiy|2027": {
+    "milliy": 3.57,
+    "MHXS": 2.7,
+    "S3_milliy": 3.29,
+    "S3_MHXS": 9.73
+   },
+   "Salbiy|2028": {
+    "milliy": 3.59,
+    "MHXS": 2.73,
+    "S3_milliy": 3.1,
+    "S3_MHXS": 9.16
+   },
+   "Keskin salbiy|2026": {
+    "milliy": 3.61,
+    "MHXS": 2.81,
+    "S3_milliy": 2.56,
+    "S3_MHXS": 7.58
+   },
+   "Keskin salbiy|2027": {
+    "milliy": 3.49,
+    "MHXS": 2.59,
+    "S3_milliy": 3.99,
+    "S3_MHXS": 11.78
+   },
+   "Keskin salbiy|2028": {
+    "milliy": 3.59,
+    "MHXS": 2.72,
+    "S3_milliy": 3.14,
+    "S3_MHXS": 9.28
+   }
+  },
+  "MKB": {
+   "koef": 2.8,
+   "2025": {
+    "milliy": 2.9,
+    "MHXS": 2.47,
+    "S3_milliy": 4.41,
+    "S3_MHXS": 12.34
+   },
+   "Asosiy|2026": {
+    "milliy": 2.89,
+    "MHXS": 2.46,
+    "S3_milliy": 4.47,
+    "S3_MHXS": 12.51
+   },
+   "Asosiy|2027": {
+    "milliy": 2.84,
+    "MHXS": 2.42,
+    "S3_milliy": 4.75,
+    "S3_MHXS": 13.29
+   },
+   "Asosiy|2028": {
+    "milliy": 2.84,
+    "MHXS": 2.42,
+    "S3_milliy": 4.76,
+    "S3_MHXS": 13.33
+   },
+   "Ijobiy|2026": {
+    "milliy": 2.89,
+    "MHXS": 2.46,
+    "S3_milliy": 4.47,
+    "S3_MHXS": 12.51
+   },
+   "Ijobiy|2027": {
+    "milliy": 2.91,
+    "MHXS": 2.49,
+    "S3_milliy": 4.29,
+    "S3_MHXS": 12.01
+   },
+   "Ijobiy|2028": {
+    "milliy": 2.92,
+    "MHXS": 2.5,
+    "S3_milliy": 4.28,
+    "S3_MHXS": 11.97
+   },
+   "Salbiy|2026": {
+    "milliy": 2.89,
+    "MHXS": 2.46,
+    "S3_milliy": 4.47,
+    "S3_MHXS": 12.51
+   },
+   "Salbiy|2027": {
+    "milliy": 2.72,
+    "MHXS": 2.39,
+    "S3_milliy": 5.74,
+    "S3_MHXS": 16.06
+   },
+   "Salbiy|2028": {
+    "milliy": 2.75,
+    "MHXS": 2.39,
+    "S3_milliy": 5.4,
+    "S3_MHXS": 15.11
+   },
+   "Keskin salbiy|2026": {
+    "milliy": 2.89,
+    "MHXS": 2.46,
+    "S3_milliy": 4.47,
+    "S3_MHXS": 12.51
+   },
+   "Keskin salbiy|2027": {
+    "milliy": 2.58,
+    "MHXS": 2.39,
+    "S3_milliy": 6.95,
+    "S3_MHXS": 19.44
+   },
+   "Keskin salbiy|2028": {
+    "milliy": 2.75,
+    "MHXS": 2.39,
+    "S3_milliy": 5.47,
+    "S3_MHXS": 15.31
+   }
+  }
+ },
+ "backtest_tizim": [
+  {
+   "davr": "2022",
+   "haqiqiy": [
+    3.51,
+    3.38,
+    3.73,
+    3.53
+   ],
+   "bizning": [
+    3.71,
+    3.84,
+    3.77,
+    3.65
+   ],
+   "MAE_bizning": 0.21,
+   "MAE_naiv": 0.12,
+   "MAE_qaytuvchi": 1.08
+  },
+  {
+   "davr": "2023",
+   "haqiqiy": [
+    4.52,
+    4.05,
+    4.18,
+    3.97
+   ],
+   "bizning": [
+    3.5,
+    3.4,
+    3.43,
+    3.48
+   ],
+   "MAE_bizning": 0.73,
+   "MAE_naiv": 0.65,
+   "MAE_qaytuvchi": 0.33
+  },
+  {
+   "davr": "2024",
+   "haqiqiy": [
+    4.26,
+    3.8,
+    3.65,
+    2.99
+   ],
+   "bizning": [
+    3.99,
+    3.98,
+    3.99,
+    3.98
+   ],
+   "MAE_bizning": 0.44,
+   "MAE_naiv": 0.44,
+   "MAE_qaytuvchi": 0.48
+  }
+ ],
+ "backtest_bank": {
+  "N": 25,
+  "zona_mos": 19,
+  "MAE_MBII": 0.212,
+  "MAE_MBII_naiv": 0.212
+ }
+}

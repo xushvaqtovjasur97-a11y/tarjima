@@ -1,0 +1,2469 @@
+       TOSHKENT INTERNATIONAL UNIVERSITY
+     HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+  DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+   TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+           UMAROV DAVRON SHAVKATOVICH
+
+
+
+TIJORAT BANKLARI DAROMADLARINI OSHIRISH ASOSIDA
+  MOLIYAVIY BARQARORLIKNI TA’MINLASH YOʻLLARI
+
+
+
+              08.00.07 – Moliya, pul muomalasi va kredit,
+
+
+
+
+    Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                           AVTOREFERATI
+
+
+
+
+                       Toshkent shahri – 2025-yil
+                                                           UO‘K: 336.713:005.915(575.1)
+                     Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD)
+                          dissertatsiyasi avtoreferati mundarijasi
+
+                     Оглавление автореферата диссертации
+               доктора философии (PhD) по экономическим наукам
+
+          Content of dissertation abstract for Doctor of Philosophy (PhD)
+                                   in Economics
+
+Umarov Davron Shavkatovich
+Tijorat banklari daromadlarini oshirish asosida moliyaviy barqarorligini ta’minlash
+yoʻllari ………………………………………………………………..…………… 3
+
+
+Умаров Даврон шавкатович
+Пути обеспечения финансовой устойчивости коммерчэских банков на основе
+увеличения их доходов .........................................................................................27
+
+
+Umarov Davron Shavkatovich
+Ways to ensure financial stability of commercial banks by increasing their profits
+……………………………………………………………………………….……51
+
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованних работ
+List of published works……………………………………...……………………55
+
+
+
+
+2
+       TOSHKENT INTERNATIONAL UNIVERSITY
+     HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+  DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+   TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI
+
+
+
+
+           UMAROV DAVRON SHAVKATOVICH
+
+
+
+TIJORAT BANKLARI DAROMADLARINI OSHIRISH ASOSIDA
+ MOLIYAVIY BARQARORLIGINI TA’MINLASH YOʻLLARI
+
+
+
+              08.00.07 – Moliya, pul muomalasi va kredit,
+
+
+
+
+    Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                           AVTOREFERATI
+
+
+
+
+                       Toshkent shahri – 2025-yil
+4
+             KIRISH(falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahonda iqtisodiy va
+geosiyosiy inqirozlarning vujudga kelishi bevosita banklarning daromadliligini
+ta’minlash asosida moliyaviy barqarorlikni oshirishga boʻlgan zarurat vujudga
+kelganligini ta’kidlash lozim. Yaponiya banklari 1990-yilda yuz bergan inqirozdan
+keyingi yillarda qator oʻzgarishlarga yuz tutdi. Bunda mamlakatda aktivlar
+pufagining rivojlanishi natijasida “yoʻqotilgan 10 yillik” nomli inqiroz natijasida
+banklarning koʻplab kreditlari qaytmasligiga olib keldi. Natijada esa, banklarning
+daromadlilik darajasiga jiddiy ta’sirlar vujudga keldi. Keyinchalik Yaponiya
+monetar regulyatori tomonidan qaytarilmaydigan kreditlar va ularni tartibga solish
+yuzasidan koʻplab qoidalar ishlab chiqildi va amaliyotga joriy etildi. Xalqaro hisob-
+kitob banki (Bank for International Settlements) tomonidan global miqyosda
+banklarning daromadliligini rivojlantirish tendensiyalari tahlil qilinadi1. Ular
+tomonidan banklarning daromadliligini baholashda kapital rentabelligi, bozor
+bahosining balans qiymatiga nisbati koʻrsatkichi va me’yoriy talablardan yuqori
+boʻlgan kapital hajmi orqali chidamlilik (boshqaruv buferi)ni baholash asosida
+oʻzlarining ilmiy xulosalarni asoslab beradi. Bozor qiymatining oshishi kapital
+rentabelligi va boshqaruv buferini shakllantirishda ijobiy ta’sir etishini koʻrsatib
+oʻtishadi. Ushbu tendensiyalar banklarning moliyaviy barqarorligini oshirishning
+dolzarbligini oʻzida ifodalab beradi.
+      Jahonda banklarning moliyaviy barqarorligini ta’minlashga ichki ta’sir etuvchi
+omillarni oldindan aniqlash, ularni bartaraf etishga qaratilgan stratetgiyani ishlab
+chiqishda ichki omillarni boshqarish, banklarning moliyaviy barqarorligiga ta’sir
+etuvchi moliyaviy natijalarining nomoliyaviy xususiyat kasb etadigan tashqi va ichki
+omillarini tizimlashtirish, taqsimlanmagan foydani shakllanishida bankning
+moliyaviy instrumentlaridan foydalanishi, foizli daromadlarni shakllantirishdagi
+rolini oshirish, foizli daromadlarning bank aktivlari rentabelligiga statistik ta’sir
+etmayotganligi bank faoliyatida aktivlarni iqtisodiyotning turli tarmoqlariga
+joylashtirish, mamlakatda makroiqtisodiy koʻrsatkichlarning bank daromadliligiga
+ta’sirini baholagan holda valyuta kursining devalvatsion tendensiyasini ketishini
+oldini olishga qaratilgan chora-tadbilarni amalga oshirish kabi jihatlar muhim
+yoʻnalishlar sifatida qayd etilmoqda.
+      Oʻzbekistonda banklarning daromadliligini oshirish asnosida moliyaviy
+barqarorligini oshirishda kredit oluvchining kreditga layoqatliligini baholash,
+bankning joylashgan mikrohududini inobatga olish orqali kredit foiz stavkalari
+bankning daromadliligiga ta’sirini aniqlash, banklarda moliyaviy menejmentning
+vertikal shakllanishida nomonetar omillarni gorizontal-vertikal elementlar bilan
+tushuntirish, bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga
+ijobiy ta’sir etuvchi omil ekanligini inobatga olish, bank aktivlarining rentabelligida
+foizsiz daromadlarning roli kamayib borayotganligini inobatga olib operatsion
+harajatlarni raqamlashtirishni boshqarish va uni yanada takomillashtirishga
+qaratilgan tadqiqotlar olib borish dolzarbdir.
+
+1
+ Caparusso, J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience of Global Banks: A
+Tight Link. Bank for International Settlements, Monetary and Economic Department.
+      Ushbu dissertatsiya ishi ma’lum darajada yuqorida koʻrsatilgan muammolarni,
+shuningdek, Oʻzbekiston Respublikasi Prezidentining farmon va qarorlarida
+belgilangan vazifalarni hal etishga xizmat qiladi. Xususan, Oʻzbekiston
+Respublikasi Prezidentining 2020-yil 5-oktabrdagi 6079-sonli “Raqamli
+Oʻzbekiston – 2030 strategiyasini va uni samarali amalga oshirish chora-tadbirlarini
+tasdiqlash toʻgʻrisida”gi, 2020-yil 12-maydagi “2020–2025-yillarga moʻljallangan
+Oʻzbekiston Respublikasining bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi
+PF-5992-sonli farmonlari, Oʻzbekiston Respublikasi Prezidentining 2018-yil 23-
+martdagi “Bank xizmatlari ommabopligini oshirish boʻyicha qoʻshimcha chora-
+tadbirlar toʻgʻrisida”gi PQ-3620-sonli, 2021-yil 2018-sentabrdagi “2019-2021-
+yillarda Oʻzbekiston Respublikasini innovatsion rivojlantirish strategiyasini
+tasdiqlash toʻgʻrisida”gi PF-5544-son qarorlari va ushbu faoliyatga tegishli boʻlgan
+me’yoriy hujjatlarda belgilab oʻtilgan vazifalarni amaliyotga tatbiq etishda mazkur
+dissertatsiya tadqiqoti muayyan darajada xizmat qiladi.
+       Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yoʻnalishlariga bogʻliqligi. Mazkur tadqiqot ishi respublika fan va texnologiyalari
+rivojlanishining “Demokratik va huquqiy jamiyatni ma’naviy-axloqiy va madaniy
+rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor yoʻnalishiga
+muvofiq bajarilgan.
+       Mavzuning oʻrganilganlik darajasi. Ingliz tilida olib borilgan koʻplab
+tadqiqotlarda banklarning daromadliligini oshirish asnosida, ularning moliyaviy
+barqarorligini ta’minlashga qaratilgan siyosatini shakllantirish va uni samarali
+tashkil etish borasida ilmiy xulosalar asoslangan. Akbaş H. E., Albertazzi U.,
+Almazari A. A., Athanasoglou P. P., Caparusso, J., Căpraru B., Hasanov F. J., Idris
+A.A., Klaassen P., Kusi B.A., Lamothe P., Liu H., Rahman M.M., Sari F.N., Socol
+A., Sujud H., Sutiman S., Tan Y., Topak M.S.2 kabi olimlar oʻzlarining ilmiy
+2
+  Akbaş, H. E., Aysan, A. F., & Ceyhan, S. P. (2012). Determinants of bank profitability: An investigation on Turkish
+banking sector. Öneri Dergisi, 10(37), 103-110.; Albertazzi, U., & Gambacorta, L. (2009). Bank profitability and the
+business cycle. Journal of financial stability, 5(4), 393-409.; Almazari A. A. Impact of internal factors on bank
+profitability: Comparative study between Saudi Arabia and Jordan //Journal of Applied finance and banking. – 2014.
+– Т. 4. – №. 1. – С. 125.; Athanasoglou, P. P., Brissimis, S. N., & Delis, M. D. (2008). Bank-specific, industry-specific
+and macroeconomic determinants of bank profitability. Journal of international financial Markets, Institutions and
+Money, 18(2), 121-136.; Caparusso, J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience
+of Global Banks: A Tight Link. Bank for International Settlements, Monetary and Economic Department.; Caparusso,
+J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience of Global Banks: A Tight Link.
+Bank for International Settlements, Monetary and Economic Department.; Căpraru, B., & Ihnatov, I. (2014). Banks’
+profitability in selected Central and Eastern European countries. Procedia Economics and Finance, 16, 587-591.;
+Hasanov, F. J., Bayramli, N., & Al-Musehel, N. (2018). Bank-specific and macroeconomic determinants of bank
+profitability: Evidence from an oil-dependent economy. International Journal of Financial Studies, 6(3), 78.; Idris, A.
+A., & Hasbiah, S. (2023). Assessment Of Financial Performance at PT. Bank Tabungan Negara (Persero) Tbk Using
+The Dupont System Method Period 2019-2021. Economics and Business Journal (ECBIS), 1(3), 185-190.; Klaassen,
+P., & van Eeghen, I. (2015). Analyzing bank performance—Linking RoE, RoA and RAROC: US commercial banks:
+1992-2014. Journal of Financial Perspectives, 3(2).; Kusi, B. A., Ansah-Adu, K., & Agyei, A. (2015). Evaluating
+banking profit performance in Ghana during and post profit decline: a five step du-Pont approach. EMAJ: Emerging
+Markets Journal, 5(2), 29-40.; Kusi, B. A., Ansah-Adu, K., & Sai, R. (2015). Evaluating bank profitability in Ghana:
+a five step Du-Pont model approach. International Journal of Finance & Banking Studies (2147-4486), 4(3), 69-82.;
+Lamothe, P., Delgado, E., Solano, M. A., & Fernández, S. M. (2024). A global analysis of bank profitability factors.
+Humanities and Social Sciences Communications, 11(1), 1-12.; Liu, H., & Wilson, J. O. (2010). The profitability of
+banks in Japan. Applied Financial Economics, 20(24), 1851-1866.; Rahman M. M., Hamid M. K., Khan M. A. M.
+Determinants of bank profitability: Empirical evidence from Bangladesh //International journal of business and
+management. – 2015. – Т. 10. – №. 8. – С. 135.; Sari, F. N., & Endri, E. (2019). Determinants of Return on Assets
+(ROA) On Conventional Banks Listed On Indonesian Stock Exchange (IDX) Period 2013–2017. IOSR journal of
+6
+xulosalarida mamlakat va jahon miqyosidagi banklarda moliyaviy barqarorlikning
+turli jihatlariga qaratilgan tadqiqotlar amalga oshirilgan.
+      Oʻzbekistonlik olim va tadqiqotchilardan Sh. Baxriddinov, A. Absalamov,
+B.Aliev, A. Bektemirov, R. Bozorov, S. Ziyodullaev, N. Jumaev, X. Zunnunova,
+B.Izbosarov, L. Muradova, H. Rahmatov, I. Sadikov, O. Sattorov, M. Tashtamirov,
+I. Tursunov, Sh. Ubaeva, Sh. Xannaev, Q. Hamraev, N. Sharipova3 ilmiy ishlarida
+banklarda jismoniy shaxslar uchun depozit siyosatini tashkil etishning turli
+elementlari tahlil etilgan.
+      Yuqoridagi tadqiqotlarda banklarda jismoniy shaxslar uchun depozit siyosatini
+ishlab chiqish va uning ijtimoiy-iqtisodiy omillar ta’sirida oʻzgarishi, moliyaviy
+natijalarning shakllanishiga bogʻliqligi kabi jihatlardan ilmiy xulosalar
+shakllantirilmaganligi mazkur dissertatsia izlanishni olib borish dolzarbligini oʻzida
+ifoda etadi.
+      Dissertatsiya mavzusining dissertatsiya bajarilgan oliy ta’lim muassasasi
+ilmiy-tadqiqot ishlari rejalari bilan bogʻliqligi. Dissertatsiya ishi Toshkent davlat
+
+business and management (IOSR-JBM), 21(4), 52-62.; Socol, A., & Danuletiu, A. E. (2013). Analysis of the romanian
+banks'performance through roa, roe and non-performing loans models. Annales Universitatis Apulensis: Series
+Oeconomica, 15(2), 594.; Sujud, H., & Hashem, B. (2017). Effect of Bank Innovations on Profitability and Return on
+Assets (ROA) of Commercial Banks in Lebanon. International journal of economics and finance, 9, 35.; Sutiman, S.,
+Suteja, J., Anwar, M., & Rachmawaty, R. (2024). Determinants of Bank Profitability and Implications for Company
+Value with Moderating Dividend Policy. Owner: Riset dan Jurnal Akuntansi, 8(3), 2856-2867.; Tan Y., Floros C.,
+Anchor J. The profitability of Chinese banks: impacts of risk, competition and efficiency //Review of Accounting and
+Finance. – 2017. – Т. 16. – №. 1. – С. 86-105.; Topak, M. S., & Talu, N. H. (2017). Bank specific and macroeconomic
+determinants of bank profitability: Evidence from Turkey. International Journal of Economics and Financial Issues,
+7(2), 574-584.
+3
+  Алиев Б. Х., Салманов С. И. Мониторинг развития российского банковского сектора в сравнении с
+кризисными периодами 1998 и 2008 гг //Финансовая аналитика: проблемы и решения. – 2015. – №. 19 (253). –
+С. 2-14.; Absalamov, A., Majidov, M. (2022). Ўзбекистон банкларида актив-пассивларни бошқариш ҳолати.
+Moliya va bank ishi, 8(1), 123-132.; Бахриддинов Ш. Тижорат банкларида активларни самарали бошқариш
+йўллари: и.ф.б.ф.д. ... автореферат. – Т.: ТМИ, 2022. – 57 б.; Бектемиров А., Маликова Д. М., Аҳмедов Ҳ. Ф.
+Тижорат банки фаолияти самарадорлигини ошириш истиқболлари //Journal of marketing, business and
+management. – 2023. – Т. 2. – №. 2. – С. 149-154.; Бозоров Р. Ҳ. Тижорат банклари молиявий барқарорлигини
+таъминлашни такомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2020. – 52 б.; Жумаев Н.Х. Жаҳон
+иқтисодиѐтининг янги инқирози – иқтисодий ҳаракатсизлик. 03.04.2020 й. https://review.uz/oz/exg; Избосаров
+Б. Ўзбекистонда тижорат банклари ликвидлилигини таъминлашнинг методологик ва ҳуқуқий асосларини
+ўзига хос хусусиятлари//International Journal of Finance and Digitalization. www.ijfd.uz. Vol. 1 Issue 02, 2022;
+Зиёдуллаев С. Тижорат банклари активларининг рентабеллигини оширишнинг долзарб масалалари
+//Economics and Innovative Technologies. – 2022. – Т. 10. – №. 5. – С. 43-48.; Зуннунова Х.М. Тижорат банклари
+бозор қийматини баҳолаш амалиётини такомиллаштириш. и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2022. –
+52 б.; Мурадова Л. Ф. Ўзбекистон иқтисодиётини модернизациялаш шароитида тижорат банклари активлари
+даромадлигини ошириш йўллари: и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2018. – 57 б.; Раҳматов Ҳ.Ў.
+Иқтисодиётни диверсификациялаш шароитида тижорат банк активларини самарадорлигини ошириш
+масалалари: и.ф.д. ... автореферат. – Т.: Ўз.Р. БМА, 2020. – 66 б.; Садиков И. Миллий иқтисодиётимизда
+тижорат банкларининг молиявий барқарорлигини мустаҳкамлашнинг назарий асослари //Research and
+Publications. – 2024. – Т. 1. – №. 1. – С. 161-168.; Сатторов О.Б. Ўзбекистон Республикаси банк тизими
+барқарорлигини таъминлаш методологиясини такомиллаштириш: и.ф.д. ... автореферат. – Т.: ТМИ, 2018. – 67
+б.; Таштамиров М. Р. Тенденции развития банковской системы и ее устойчивости в условиях негативной
+экономической конъюнктуры //Вестник евразийской науки. – 2017. – Т. 9. – №. 1 (38). – С. 92.; Турсунов И.Т.
+Тижорат банклари молиявий барқарорлигини таъминлашнинг илмий-амалий масалалари//Страховой рынок
+Узбекистана. – 2024. – Т. 1. – №. 10. – С. 15-17.; Убаева Ш. Л. Тижорат банклари барқарорлигини самарали
+бошқариш механизмини ткомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.: ТДИУ, 2018. – 53 б.; Ханнаев Ш.Қ.
+Тижорат банклари фаолияти самарадорлигини баҳолашни такомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.:
+ЎзР. БМА, 2021. – 62 б.; Ҳамраев Қ.И. Ўзбекистон Республикаси инвестицион фондларнинг соф активларидан
+самарали фойдаланишни эконометрик моделлаштириш: и.ф.б.ф.д. ... автореферат. – Урганч: УрдУ, 2020. -55
+б.; Шарипова Н. Банклар молиявий барқарорлиги кўрсаткичларини эконометрик моделлаштириш //Iqtisodiy
+taraqqiyot va tahlil. – 2023. – Т. 1. – №. 4. – С. 239-245.
+iqtisodiyot universiteti ilmiy-tadqiqot ishlari rejasining «Oʻzbekiston Respublikasi
+iqtisodiyotining barqaror rivojlanishi sharoitida bank-moliya, soliq va investitsiya
+faoliyatini modernizatsiyalash muammolarini ilmiy ishlab chiqish» mavzusi
+doirasida bajarilgan.
+      Tadqiqotning maqsadi Oʻzbekistonda bank moliyaviy barqarorligini
+ta’minlashda daromadlilikni oshirish yuzasidan ilmiy taklif va amaliy tavsiyalar
+ishlab chiqishdan iborat.
+      Tadqiqotning vazifalari:
+      tijorat banki moliyaviy barqarorligini ta’minlashda bank daromadlari nazariy
+asoslari va oʻziga xos xususiyatlari.
+      barqaror moliyaviy rentabellik banklarning daromadlililigini ta’minlash omili
+sifatida.
+      tijorat bankining moliyaviy barqarorligini shakllantiruvchi va unga ta’sir
+etuvchi omillarni ekonometrik baholash.
+      tijorat banklarida moliyaviy barqarorlikni ta’minlashda bankning balans
+koʻrsatkichlarining tahlili.
+      tijorat banklari moliyaviy barqarorligini ta’minlashda kapital rentabelligiga
+ta’sir etuvchi omillarni baholash.
+      tijorat banklari moliyaviy barqarorligini ta’minlashda aktivlar rentabelligiga
+ta’sir etuvchi omillarni baholash.
+      tijorat banklari daromadliligini oshirish orqali moliyaviy barqarorlikni
+ta’minlashning ilgʻor tajribalari.
+      tijorat banklari daromadliligini oshirish orqali moliyaviy barqarorlikni
+ta’minlashning ustuvor yoʻnalishlari.
+      Tadqiqotning obyekti sifatida “O‘zsanoatqurilishbank” ATBning moliyaviy
+koʻrsatkichlari tanlab olingan.
+      Tadqiqotning predmeti Oʻzbekistonda bank moliyaviy barqarorligini
+ta’minlashda daromadlilikni oshirish jarayonida vujudga keladigan iqtisodiy
+munosabatlar hisoblanadi.
+      Tadqiqotning usullari Dissertatsiya ishida ilmiy abstraksiyalash, mantiqiy
+fikrlash, multinominal logistic regression, tabulation frequency, ARIMA modeli,
+dinamikada oʻrganish, ma’lumotlarni guruhlash, taqqoslash kabi tahlil usullaridan
+foydalanilgan.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+        bank kredit siyosatida mijozning kreditga layoqatliligini baholash jarayoniga
+bankning joylashgan mikrohudud omilini integratsiya qilish asosida kredit foiz
+stavkalarining differensiallashuvini ta’minlab, bankning foizli daromadlarining
+barqaror o‘sishi asoslangan;
+        banklarda moliyaviy menejmentning vertikal shakllanish tizimiga nomonetar
+omillarni gorizontal-vertikal integratsiya asosida qo‘shish orqali banklarning
+moliyaviy rentabelligini oshirish asoslangan;
+        bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga ijobiy
+ta'sir etuvchi omil ekanligini inobatga olish asosida banklarning moliya bozoridagi
+daromadliligini oshirish taklif etilgan;
+
+8
+      bank aktivlarining rentabelligida foizsiz daromadlarning roli kamayib
+borayotganligini inobatga olib operasion xarajatlarni raqamlashtirish orqali
+banklarning daromadliligini oshirishni moliyaviy barqarorlikni ta'minlashga
+uygʻunlashtirish taklif etilgan.
+      Tadqiqotning amaliy natijasi quyidagilardan iborat:
+      banklarning moliyaviy barqarorligini ta’minlashda ichki ta’sir etuvchi
+omillarni oldindan aniqlash va ularni bartaraf etishga qaratilgan strategiyani ishlab
+chiqishda ichki omillarni boshqarish orqali ularning salbiy ta’sirini oldindan
+aniqlash va uni prognozlashtirishga imkoniyat mavjudligi.
+      banklarning moliyaviy barqarorligiga ta’sir etuvchi moliyaviy natijalar bilan
+birga, nomoliyaviy xususiyat kasb etadigan tshqi va ichki omillarni ham
+tizimlashtirish asosida baholashlarni amalga oshirish maqsadga muvofiqlig.
+      taqsimlanmagan foydani shakllanishida bankning moliyaviy instrumentlardan
+foydalanishi va foizli daromadlarni shakllantirishdagi rolini oshirish orqali bankning
+moliyaviy barqarorligiga shart-sharoit yaratib berishi.
+      foizli daromadlarning bank aktivlari rentabelligiga statistik ta’sir
+etmayotganligi bank faoliyatida aktivlarni iqtisodiyotning turli tarmoqlariga
+joylashtirishda tahlillar zarur ekanligini ifodalab berishi.
+      mamlakatda makroiqtisodiy koʻrsatkichlarning bank daromadliligiga ta’sirini
+baholagan holda valyuta kursining devalvatsion tendensiyasini qizib ketishini oldini
+olishga qaratilgan chora-tadbilarni amalga oshirish taklif etilgan.
+      Olingan natijalarning ishonchliligi. Tadqiqot natijalarining tahlil jarayonida
+Oʻzbekiston Respublikasi Markaziy banki, “O‘zsanoatqurilishbank” ATBning
+moliyaviy hisobot koʻrsatkichlari, Oʻzbekiston Respublikasi Prezidenti huzuridagi
+Davlat statistika agentligining rasmiy ma’lumotlaridan muayyan me’yoriy hujjatlar,
+tegishli idora va tashkilotlarning hisobotlaridan foydalanilganligi, ishda qoʻllanilgan
+yondashuv va usullarning maqsadga muvofiqligi hamda ilmiy asoslanganligi,
+keltirilgan xulosa, taklif va tavsiyalarning Oʻzbekiston Respublikasi tijorat banklari
+amaliyotlarida joriy etilganligi bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati Oʻzbekistonda tijorat banklari moliyaviy barqarorligini
+ta’minlashda daromadlilikni oshirish faoliyatida moliyaviy siyosatni ishlab chiqish
+hamda uni yanada rivojlantirishga oid ilmiy tadqiqot ishlarini amalga oshirishda
+ilmiy-uslubiy asos sifatida foydalanish mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining amaliy ahamiyati Oʻzbekiston Respublikasi tijorat
+banklari faoliyatida daromadlilikni oshirish orqali moliyaviy barqarorlikni
+ta’minlash yoʻllari va metodlarini ishlab chiqish, ushbu amaliyotni
+takomillashtirishda, shuningdek, mustaqil ilmiy tadqiqotlar olib borishda, ilmiy
+loyiha, oliy ta’lim muassasalarida “Bank ishi”, “Bank risk menejmenti” kabi
+fanlarning oʻquv dasturini ishlab chiqish va uning amaliy bazasini mustahkamlash
+mumkinligi bilan izohlanadi.
+        Tadqiqot natijalarining joriy qilinishi. Tijorat banklari moliyaviy
+barqarorligini ta'minlashda daromadlilikni oshirish boʻyicha olingan ilmiy natijalar
+asosida:
+        bank kredit siyosatida mijozning kreditga layoqatliligini baholash jarayoniga
+bankning joylashgan mikrohudud omilini integratsiya qilish asosida kredit foiz
+stavkalarining differensiallashuvini ta’minlab, bankning foizli daromadlarining
+barqaror o‘sishiga doir taklifi Oʻzbekiston Respublikasi Prezidentining 2020 yil 12
+maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son farmonining 4-
+xatboshisi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston sanoat-qurilish banki
+ATBning 2025 yil 2 apreldagi 03-07/6728-son ma'lumotnomasi). Natijada, bank
+daromadlarida kreditlardan olingan foizlarning ulushi 2024 yilda oʻtgan yilga
+nisbatan 11 foizga oshgan;
+        banklarda moliyaviy menejmentning vertikal shakllanish tizimiga nomonetar
+omillarni gorizontal-vertikal integratsiya asosida qo‘shish orqali banklarning
+moliyaviy rentabelligini oshirish taklifi Oʻzbekiston Respublikasi Prezidentining
+2020 yil 12 maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston
+Respublikasining bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son
+farmonining 2-ilovasi 40-bandi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston
+sanoat-qurilish banki ATBning 2025 yil 2 apreldagi 03-07/6728-son
+ma'lumotnomasi). Mazkur taklifni amaliyotga joriy etish natijasida bankda xodimlar
+faoliyat samaradorligi oshishi orqali bank daromadliligi 2024 yilda oʻtgan yilga
+nisbatan 1,6 barobarga oshgan;
+        bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga ijobiy
+ta'sir etuvchi omil ekanligini inobatga olish asosida banklarning moliya bozoridagi
+daromadliligini oshirish taklifi Oʻzbekiston Respublikasi Prezidentining 2020 yil 12
+maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son farmonining 1-bandi 1-
+xatboshi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston sanoat-qurilish banki
+ATBning 2025 yil 2 apreldagi 03-07/6728-son ma'lumotnomasi). Mazkur taklifni
+amaliyotga joriy etish natijasida bankning moliya bozoridagi faoliyati boʻyicha
+daromadlilgi 2024 yilda oʻtgan yilga nisbatan 28 foizga oshgan;
+      bank aktivlarining rentabelligida foizsiz daromadlarning roli kamayib
+borayotganligini inobatga olib operasion xarajatlarni raqamlashtirish orqali
+banklarning daromadliligini oshirishni moliyaviy barqarorlikni ta'minlashga
+uygʻunlashtirish taklifi Oʻzbekiston Respublikasi Prezidentining 2020 yil 12
+maydagi “2020 — 2025 yillarga moʻljallangan Oʻzbekiston Respublikasining bank
+tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-son farmonining 1-ilovasi 3-
+boʻlimi 3-bandi ijrosini ta'minlashga xizmat qildi (Oʻzbekiston sanoat-qurilish banki
+ATBning 2025 yil 2 apreldagi 03-07/6728-son ma'lumotnomasi). Mazkur taklifni
+amaliyotga joriy etish natijasida bank raqamli texnologiyalarni joriy etishi natijasida
+operasion xarajatlari 2024 yilda oʻtgan yilga nisbatan 7,1 foizga kamaygan.
+      Tadqiqot natijalarining aprobatsiyasi. Dissertatsiyaning asosiy gʻoya va
+xulosalari 2 ta xalqaro, 2 ta respublika ilmiy-amaliy anjumanlarida muhokamadan
+oʻtkazilgan.
+      Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya ishi boʻyicha jami 7
+ta ilmiy ish, shu jumladan, Oʻzbekiston Respublikasi Oliy attestatsiyasi komissiyasi
+tomonidan tavsiya etilgan mahalliy ilmiy nashrlarda 1 ta, nufuzli xorijiy jurnallarda
+2 ta ilmiy maqola nashr etilgan.
+
+10
+     Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+sakkizta paragraf, xulosa, foydalanilgan adabiyotlar roʻyxatidan iborat.
+Dissertatsiyaning asosiy matnining hajmi 129 betni tashkil etadi.
+
+                        DISSERTATSIYANING ASOSIY MAZMUNI
+      Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekti va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+      Dissertatsiyaning “Tijorat banklari daromadlarini oshirish asosida
+moliyaviy barqarorligini ta’minlash nazariy asoslari” deb nomlangan birinchi
+bobida tijorat banki moliyaviy barqarorligini ta’minlashda bank daromadlari nazariy
+asoslari va oʻziga xos xususiyatlari, barqaror moliyaviy rentabellik banklarning
+daromadlililigini ta’minlash omili sifatida tijorat bankining moliyaviy barqarorligini
+shakllantiruvchi va unga ta’sir etuvchi omillarni ekonometrik baholangan.
+      Banklarning moliyaviy barqarorligini baholashga nisbatan yagona
+yondashuvning ishlab chiqilmaganligi, moliyaviy barqarorlik koʻrsatkichlarining
+yagona yondashuv asosida hisoblab chiqarilmasligi, ularni oʻzaro boshqa bank
+sektorlari bilan solishtirish imkonini bermaydigan holatlarning mavjudligi
+kuzatilishini ta’kidlash lozim.
+      Olib borilgan tadqiqotlar asosida quyidagi ilmiy xulosalarni ishlab chiqishga
+harakat qildik:
+      Birinchidan, banklarning moliyaviy brqarorligini ta’minlashda ichki ta’sir
+etuvchi omillarni oldindan aniqlash va ularni bartaraf etishga qaratilgan strategiyani
+ishlab chiqish zarur va buning imkoni mavjudligi. Ichki omillarni boshqarishga
+imkoniyat mavjudligi ularning salbiy ta’sirini oldindan aniqlash va uni
+prognozlashtirishga imkoniyat mavjud;
+      Ikkinchidan, banklarning moliyaviy barqarorligiga ta’sir etuvchi tashqi
+omillarni oldindan aniqlash imkoni mavjud boʻlmasada, ularning salbiy ta’sirini
+oldini olishga harakat qilish mumkin. Unda bankning tashqi omillarga
+sezuvchanligini kamaytirishga erishish lozim boʻladi;
+      Uchinchidan, banklarning moliyaviy barqarorligini xalqaro tashkilotlar va
+agentliklar tomonidan tavsiya etilgan va nisbatan koʻplab yetakchi banklar
+tomonidan tan olinadigan metodlarni qoʻllashga e’tibor berish. Bunda Markaziy
+bankning pul-kredit siyosatini amalga oshirish bilan bogʻliq boʻlgan harakterli
+jihatlarini inobatga olgan holda bankning moliyaviy strategiyasi yoʻnalishlarini
+ishlab chiqish lozim boʻladi.
+      2024-yil mart oyida Toshkentda boʻlib oʻtgan forumda Fitch Ratings agentligi
+direktor oʻrinbosari Pavel Kaptel mamlakatimizdagi banklarni xususiylashtirish
+jarayonlari yuzasidan oʻzining xulosalarini bayon etdi4. Unga koʻra, davlat
+banklarining xususiylashtirilishi jarayonida, ularning rentabellik koʻrsatishlari
+
+4
+   Kaptel P. O‘zbekiston davlat banklarini xususiylashtirish yana kechroqqa qoldirilishi mumkin — Fitch.
+https://www.gazeta.uz/uz/2024/03/19/privatization/
+zarurligi, bu esa ularning jozibadorligini ta’minlashga xizmat qilib
+xususiylashtirishni tezlashtirishga olib kelishini ta’kidlab oʻtdi.
+     Biz banklarning moliyaviy barqarorligini baholashda sifat va miqdoriy
+koʻrsatkichlar bilan birga bank xodimlarining nuqtai nazaridan moliviy
+barqarorlikni baholashda soʻrovnoma metodidan foydalangan holda tahlil qilishga
+harakat qildik. 2024 yilning avgust oyida “Oʻzsanoatqurilishbank” ATB viloyat va
+tumanlarda joylashgan hududiy va bank xizmatlari markazlari xodimlari oʻrtasida
+oʻtkazilgan soʻrovnoma asosida ma’lumotlar toʻplandi. Ushbu soʻrovnoma
+https://docs.google.com/forms/d/1PC90xiQJDhj6xjioYct-OnUdDtvXmtgBpVy_Brbb6Mk/edit
+elektron manzilda joylashgan boʻlib, unda 901 nafar bank xodimlari ishtirok etdi.
+     Bank kredit foiz stavkasining bank daromadliligiga ta’sir etishi darajasini
+soʻrovnomada ishtirok etganlarning kredit siyosatiga nisbatan boshqa yondashuvlari
+bilan aloqadorlikda tahlil qilamiz. Bunda 1-jadvalda keltirilgan model ma’lumotlari
+asosida ayrim ilmiy xulosalarni shakllantirish mumkin. Biz bankning kredit foiz
+stavkalarining daromadliligiga nisbatan ta’sirini respondentlarning yondashuvlari
+asosida baholaymiz, bunda:
+                                                                           1-jadval
+         Bank kredit foiz stavkasining bank daromadliligiga ta’siri omillarini
+                                      baholash
+                                         Umumiy holati      Shahar markazi    Shahar chekkasi
+                                       Coefficient P>t Coefficient P>t Coefficient P>t
+                                         F(6, 896)=9.58 F(6, 896)=7.50         F(6, 896)=3.53
+                                         Prob>F=0.0000 Prob>F=0.0000           Prob>F=0.0019
+Yoshingiz                             -.0111744     0.164 -.0068246   0.457 -.0260161     0.134
+Jinsingiz                             .5848224      0.000 .6418505    0.000 .3651383      0.285
+Ma’lumotingiz                         -.0416172     0.593 -.0381733   0.665 -.0708851     0.668
+Sizning bankingiz quyidagilarning
+qaysi biri asosida kredit foiz         .0901576    0.117 .1094273     0.086 -.0191766    0.891
+stavkalarini belgilagani eng yaxshi?
+Qarz oluvchining layoqatini
+tekshirishda kredit skoring (KAMI)     .4734377    0.000 .4079019     0.000 .6951354     0.000
+qanchalik muhim?
+Kreditlar qaytmasligida quyidagilardan
+                                       -.0137176   0.798 -.0204391    0.731 .0237649     0.848
+qaysi biri asosiy sabab?
+/cut1                                  .3754127          .5835814           -.5842361
+/cut2                                  2.584171          2.750567           1.879179
+/cut3                                  5.162689          5.309335           4.563697
+/cut4                                  6.12139           6.422789           4.977078
+
+     Birinchidan, yosh yoki ma’lumot darajasining oʻzgarib borishi ushbu savolga
+nisbatan yondashuvni oʻzgartirmayotganligini kuzatish mumkin. Bu esa, bank
+xodimlari oʻrtasida oʻzgarmas qadriyatning shakllanganligini ko‘rsatadi. Umuman
+olganda, bank xodimlari munosabatlarida bir tizimlilikni kuzatish nobarqaror
+boʻlmoqda.
+
+12
+      Ikkinchidan, erkak bank xodimlari kredit foiz stavkasini va kredit oluvchining
+moliyaviy layoqatini baholash kreditning bank daromaliligiga ta’sirida asosiy omil
+vazifasini oʻtayotganligini kuzatish mumkin. Bu esa, erkak bank xodimlari ayollarga
+nisbatan bank krediti foiz stavkasini muhim, deb hisoblamoqda. Shahar
+chekkarogʻida joylashgan bankda esa, erkak bank xodimlari bu toʻgʻrisida
+nobarqaror va statistik ahamiyatga ega boʻlgan umumiy yondashuvga ega ekanligini
+koʻrish mumkin. Shuningdek, kredit oluvchining kreditga layoqatliligi har qanday
+holda ham baholash muhim ekanligini qayd etish lozim.
+      Uchinchidan, kredit foiz stavkasining bank daromaliliga ta’sirini baholashda
+bank xodimlari uni belgilash asoslari va kredit qaytmasligi omili kabi jihatlarni
+muhim ahamiyatga ega emas degan xulosaga ega boʻlishmoqda. Boshqacha qilib
+aytganda, ushbu savollar borasidagi javoblarning kredit foiz stavkasining
+daromadlilikka ta’siri statistik ahamiyatga ega boʻlayotganligini kuzatmaymiz.
+      Bank xodimlari kredit oluvchining kreditga layoqatliligini baholash bankning
+daromadliligiga eng muhim ta’sir etuvchi omil ekanligini qayd etishmoqda.
+Umumiy holatda va shahar markazida joylashgan bank ofisida faoliyat olib boruvchi
+erkak xodimlar kredit foiz stavkalari bank daromadliliga ta’sir etishini asosiy omil
+sifatida koʻrishayotganligini ta’kidlash lozim. Boshqa omillar esa statistik jihatdan
+oʻzining barqaror ta’siriga ega boʻlmayotganligini kuzatish mumkin. Xulosa o‘rnida
+shuni aytish lozimki:
+      Bankning boshqaruvni tashkil etishga nisbatan bank xodimlarining demografik
+koʻrsatkichlari va moliyaviy koʻrsatkichlarga nisbatan yondashuvlari asosida ilmiy
+xulosalarni shakllantirishga e’tibor qaratamiz (2-jadvalga qarang):
+      -respondentlardan bankning moliyaviy barqarorligiga ta’sir etuvchi omillarda
+ijobiy xususiyat kasb etish “rais qarori”da ekanligin kuzatamiz, aksincha “respublika
+boshqarma boshliqlari qarori” kategoriyasi salbiy xususiyat (10 foizlik ehtimol
+bilan) sifatida aksariyat ishtirokchilar tomonidan belgilangan.
+      Bu esa, markaziy boshqaruvda bank raisining qarorini undan qabul qilib
+oluvchilar boshqacha tarzda talqin qilishadi, degan xulosa kelib chiqishi mumkin.
+      -ayrim hollarda bank xodimlari tomonidan rais qarorini ham salbiy xususiyat
+kasb etishini ta’kidlaydigan holatlar mavjudligini koʻramiz. Masalan, kichik
+yoshdagilar, kredit oluvchining layoqatini tekshirishni muhim deb hisoblaydiganlar
+va foizsiz daromad tarkibini aniq bilmasligi ortib borishi holatlariga moyillik rais
+qarorini salbiy deb hisoblashga asos boʻladi. Shuningdek, respublikasa boshqarma
+boshliqlarining qarorlarini ijobiy tendensiya bilan baholanganlar, kredit oluvchining
+layoqatini tekshirishni muhim deb hisoblaydiganlar va foizli daromad tarkibini aniq
+bilish ortib borishi holatlariga moyil boʻlishini erkak hodimlarda kuzatish mumkin;
+      -viloyat bank ofisining rahbarlari qarorini ijobiy baholanishi har qanday
+holatda ham statistik ahamiyatga ega boʻlmayotganligin ta’kidlash lozim. Biroq, 10
+foizlik ehtimollik bilan kredit oluvchining layoqatini tekshirishni muhim deb
+hisoblaydiganlar va foizsiz daromad tarkibini aniq bilmasligi ortib borishi
+holatlariga moyillik viloyat bank rahbarining qarorini salbiy ta’sirga ega deb
+baholanayotganligini koʻrish mumkin.
+                                                                      2-jadval
+        Bank boshqaruvining bankning moliyaviy siyosatiga ta’sirini baholash
+Koʻrsatkich ta’siri                                                Ijobiy ta’sir  Salbiy ta’sir
+                                                                 F(21,881)=2.62 F(21, 881)=1.55
+Statistik ahamiyatlilik
+                                                                 Prob>F=0.0001 Prob>F=0.0552
+Koʻrsatkichlar                                                   Coeff. P>t Coeff. P>t
+Rais_qarori (ijobiy) / Resp. boshqarma boshlig‘i qarori (salbiy) (base outcome)
+              Respublika boshqarma boshliqlari qarori (ijobiy) / Rais qarori (salbiy)
+Yoshingiz                                                         -.013 0.327 -.021       0.068
+Jinsingiz                                                          .559 0.011 .237        0.218
+Ma’lumotingiz                                                     -.008 0.943 -.130       0.231
+Bank kredit foiz stavkasi bank daromadliligiga ta’sir darajasi …   .224 0.090 -.064       0.573
+Qarz oluvchining layoqatini tekshirishda kredit skoring (KAMI) …? .201 0.078 .226         0.056
+Bankingizning foizli daromadlari tarkibida eng katta ulush …?      .236 0.001 -.094       0.181
+Bankingizning foizsiz daromadlari tarkibida eng katta ulush …?    -.083 0.255 -.109       0.108
+_cons                                                             -2.52 0.000 .659        0.267
+                                       Viloyat boshligʻi qarori
+Yoshingiz                                                         -.032 0.280 .007        0.600
+Jinsingiz                                                         -.056 0.918 .199        0.328
+Ma’lumotingiz                                                     -.202 0.448 -.127       0.282
+Bank kredit foiz stavkasi bank daromadliligiga ta’sir darajasi …   .263 0.410 -.093       0.433
+Qarz oluvchining layoqatini tekshirishda kredit skoring (KAMI) …? -.480   0.131   .230    0.068
+Bankingizning foizli daromadlari tarkibida eng katta ulush …?    -.086    0.667   -.051   0.469
+Bankingizning foizsiz daromadlari tarkibida eng katta ulush …?   -.083    0.675   -.123   0.086
+_cons                                                            -.659    0.653   -.539   0.413
+                                   Bank boshqaruvchimiz qarori
+Yoshingiz                                                        .0211    0.053    .029   0.038
+Jinsingiz                                                        -.080    0.638    .030   0.894
+Ma’lumotingiz                                                    -.173    0.083   -.121   0.330
+Bank kredit foiz stavkasi bank daromadliligiga ta’sir darajasi …  .175    0.069    .047   0.725
+Qarz oluvchining layoqatini tekshirishda kredit skoring (KAMI) …? -.139   0.217   .202    0.170
+Bankingizning foizli daromadlari tarkibida eng katta ulush …?     .191    0.002   -.133   0.123
+Bankingizning foizsiz daromadlari tarkibida eng katta ulush …?    -.015   0.795   -.088   0.256
+_cons                                                             -1.14   0.044   -1.68   0.022
+
+     -bankning toʻgʻridan-toʻgʻri rahbarining qarorini ijobiy deb hisoblaydiganlar –
+yoshi kattalar (5 foizlik ehtimol bilan), oliy ma’lumotga ega boʻlmaslik, kredit foiz
+stavkasini (10 foizlik ehtimol bilan) muhim deb hisoblaydiganlar va foizli daromad
+tarkibini aniq bilish ortib borishi holatlariga moyil boʻlishini qayd etish lozim. Bank
+boshqaruvchisining qarori yoshi kattalar tomonidan 5 foizlik ehtimol bilan salbiy
+xususiyat kasb etadi, degan mazmundagi yondashuv koʻrsatilmoqda. Bunda bank
+14
+boshqaruvchisining qarori viloyat rahbari qaroridan koʻra ta’sirli ahamiyatga ega
+ekanligini kuzatish mumkin.
+      Umumiy olib qaraganda, bank boshqaruvi raisi va bank boshqaruvchining
+qarorlari bankning moliyaviy barqarorligiga ijobiy ta’sir etishi nuqtai nazaridan
+koʻproq statistik ahamiyatga ega ekanligini koʻrish mumkin. Aksincha, salbiy
+ta’sirga ega boʻlish holatlari respublika boshqarma boshliqlari va viloyat
+rahbarlarining qarorlari ta’siri ostida shakllanishi respondentlar tomonidan qayd
+etilmoqda.
+      - Bankning moliyaviy barqarorligini ta’minlashda bank boshqaruvi raisining
+qarorlarini tushuntirish ishlariga qaratilgan seminar treninglarni yanada koʻproq
+amalga oshirilishi maqsadga muvofiq hisoblanadi. Bunda makaziy apparat
+boshqarma boshliqlari va hududiy bank ofislari boshqaruvchilarining yodashuvlari
+va talqinini oʻzaro uygʻunlashtirish muhim ahamiyatga ega hisoblanadi.
+      Mazkur holatda bankning moliyaviy barqarorligini ta’minlashga qaratilgan
+nomonetar omillarni yanada takomillashtirishga nisbatan imkoniyatlar vujudga
+keladi. Natijada, bankning moliyaviy barqarorligini ta’minlash borasida ijobiy
+siljishlar kuzatilish mumkin.
+      Dissertatsiya ishining ikkinchi bobi “Tijorat banklari daromadlarini
+oshirish asosida moliyaviy barqarorligini ta’minlash tendensiyalari tahlili” deb
+nomlangan bo‘lib, unda dissertatsiyaning tahliliy qismlari bayon etilgan. Mazkur
+tahlillarda tijorat banklarida moliyaviy barqarorlikni ta’minlashda bankning balans
+koʻrsatkichlarining tahlili, tijorat banklari moliyaviy barqarorligini ta’minlashda
+kapital rentabelligiga ta’sir etuvchi omillarni baholash, tijorat banklari moliyaviy
+barqarorligini ta’minlashda aktivlar rentabelligiga ta’sir etuvchi omillar tadqiq
+etilgan.
+      Tadqiqotni amalga oshirishda foizli va foizsiz daromadlarning ta’sirini
+baholashga harakat qilamiz. Unda “Oʻzsanoatqurilishbank” ATBning 2017-2024-
+yil oylar kesimidagi ma’lumotlariga asoslangan holda tahlillarimizni amalga
+oshirishni nazarda tutganmiz. “Oʻzsanoatqurilishbank” ATBning 2017-2024-
+yillardagi oylik koʻrsatkichlarining tasviriy statistikasini koʻrish mumkin. Unda
+bankning kapital rentabelligi koʻrsatkichiga ta’sir etishi mumkin boʻlgan omillar
+tizimlashtirilgan. Ushbu koʻrsatkichga bankning balans va daromad omillarining
+oʻzaro ta’siri aniqlanib, ularning baholanishiga e’tibor qaratamiz.
+      Dastlab bank kapitali rentabelligining statsionar testi boʻyicha tekshirib olamiz.
+Bunda Dikkey-Fuller testini qoʻllaymiz va natijada quyidagi 3-jadvaldagi holatga
+ega boʻlamiz.
+      3-jadvaldan xulosa qilib aytganda, bank kapital rentabelligi statsionar
+ekanligini ta’kidlash lozim. Bu esa, ushbu koʻrsatkichdan tuziladigan
+modellarimizda toʻliq foydalanish mumkinligini aks ettirib beradi.
+      “Oʻzsanoatqurilishbank” ATBning tanlangan koʻrsatkichlari asosida kichik
+kvadratlar usuli orqali toʻgʻri chiziqli regressiya funksiyasini tuzib chiqamiz.
+Natijada, dastlabki modelimiz bank kapitali rentabelligini 49,54 foizga tushurib
+bermoqda. Mazkur modelni toʻliq keltirmaganimizning sababi modelga kiritilgan
+koʻrsatkichlarning oʻzaro multikolleniarligining yuqori ekanligini keltirish lozim.
+Shu boisdan, mazkur modelni qaytadan koʻrib chiqish uchun ayrim koʻrsatkichlarni
+modeldan chiqaramiz. Ular siraisga quyidagilar kirishi lozim:
+    1. Kredit va lizing operatsiyalari boʻyicha foizlar, diskontlar (chegirmalar) va
+badallar (x11);
+    2. Jami foizli daromadlar (x7);
+    3. Boshqa banklardagi hisobvaraqlar boʻyicha foizli daromadlar (x9);
+    4. Qimmatli qogʻozlar va ularga qilingan investisiyalar boʻyicha foizli
+daromadlar (x10);
+    5. Koʻrsatilgan xizmatlar va vositachilik uchun olingan daromadlar (x13)
+
+                                                                                 3-jadval
+                               Dickey-Fuller test for unit root
+Interpolated Dickey-Fuller                   Number of obs =92
+      Test Statistic   1%Critical Value      5% Critical Value       10%Critical Value
+Z(t) 4.748             -3.521                -2.896                  -2.583
+MacKinnon approximate p-value for Z(t) = 0.0001
+
+     Shundan kelib chiqib, balans koʻrsatkichlarini tashkil etuvchi omillarni
+navbatdagi modelimizning tarkibiy oʻzgaruvchilari sifatida kiritamiz. Natijada,
+quyidagi 4-jadvalda keltirilgan modelga ega boʻlamiz. Uni biz quyidagi 1-formulada
+yanada aniqroq koʻrishimiz mumkin.
+     1-formula bilan keltirilgan 4-jadval asosidagi modelda bankning kapital
+rentabelligiga ta’sir etuvchi omillarni koʻrish mumkin. Unga koʻra quyidagi ilmiy
+xulosalarni shakllantirishga muvaffaq boʻldik:
+
+        𝑌 (𝑅𝑂𝐸) = −0,830𝑒 −10 𝑥3 − 0,378𝑒 −9 𝑥4 − 5,61𝑒 −8 𝑥5 + 9,49𝑒 −9 𝑥6 + 8,0495 (1)
+
+      Birinchidan, “Oʻzsanoatqurilishbank” ATBning 2017-2024-yillardagi
+faoliyatida bank kapitali rentabelligi balans koʻrsatkichlarida boshqa banklar va
+moliyaviy tashkilotlardan olinishi lozim boʻlgan mablagʻlar, qimmatli qogʻozlar va
+ularga qilingan investitsiyalar va moliyaviy instrumentlar boʻyicha mijozlarning
+majburiyatlari salbiy etayotganligini ko‘rish mumkin. Biroq, ularning ta’siri juda
+kichikligicha qolayotganligini ham ta’kidlash lozim.
+      Ikkinchidan, taqsimlanmagan foydaning ta’siri ijobiy boʻlib, u ham kichik
+darajada ta’sir etayotganligini ta’kidlash lozim.
+      Bank kapitali rentabelligi shakllanishiga ta’sir etuvchi omillar qatorida
+taqsimlanmagan foyda ijobiy xususiyat kasb etayotganligini qayd etish lozim.
+Ushbu koʻrsatkichning qanchalik yuqori boʻlishi rentabellikni oshirishga xizmat
+qilishini koʻrish mumkin. Biroq, boshqa moliya institutlaridan olinishi lozim boʻlgan
+mablagʻlar, moliya bozoridagi faoliyat va moliyaviy instrumentlar boʻyicha faoliyat
+salbiy, lekin juda kichik ta’sirga ega ekanligini kuzatamiz.
+      Bankning moliyaviy natijalari kapital rentabelligiga ta’siri p-value=0,0007
+ekanligidan kuchli statistik ahamiyatli ekanligini qayd etish lozim. Jumladan, 5-
+jadvalda tuzilgan model kapital rentabelligini 36 foizgagina tushurib bera olishini
+qayd etish lozim.
+
+
+16
+                                                                      4-jadval
+              “Oʻzsanoatqurilishbank” ATB kapitali rentabelligiga balans
+                       koʻrsatkichlari ta’siri tahlili modeli
+                                                          Number of obs            =   93
+Source         SS                  df   MS
+                                                          F(6, 86)                 =   9.81
+Model          700.362684          6 116.727114           Prob > F                 =   0.0000
+Residual       1473.92337          86 17.1386439          R-squared                =   0.3221
+Total          2174.28606          92 23.6335441          Adj R-squared            =   0.2748
+                                                          Root MSE                 =   4.1399
+
+
+                                                                           [95%
+           Model oʻzgaruvchilari             Coef.   Std. Err. t    P>t                 Interval]
+                                                                           Conf.
+Kassadagi naqd pul va boshqa toʻlov
+                                           2.13e-09 2.55e-09 0.84 0.404 -2.93e-09 7.19e-09
+hujjatlari – X1.
+Bankning Markaziy bankdagi mablagʻlari
+                                           7.62e-10 8.57e-10 0.89 0.376 -9.40e-10 2.47e-09
+– X2.
+Boshqa       banklar     va     moliyaviy
+tashkilotlardan olinishi lozim boʻlgan -8.30e-10 3.68e-10 -2.25 0.027 -1.56e-09 -9.72e-11
+mablagʻlar, sof – X3.
+Qimmatli qogʻozlar va ularga qilingan
+                                           -3.78e-09 1.19e-09 -3.19 0.002 -6.14e-09 -1.42e-09
+investisiyalar, sof (x4)
+Moliyaviy       instrumentlar     boʻyicha
+                                           -5.61e-08 2.04e-08 -2.76 0.007 -9.66e-08 -1.56e-08
+mijozlarning majburiyatlari, sof (x5)
+Taksimlanmagan foyda (x6)                  9.49e-09 2.07e-09 4.59 0.000 5.38e-09 1.36e-08
+_cons                                      8.04954 1.370277 5.87 0.000 5.325519 10.77356
+
+    5-jadvalda tuzilgan modelning ifodasini 2.3-formulada keltirilgan holat bilan
+yanada aniq tushuntirishga harakat qilamiz.
+
+         𝑌 (𝑅𝑂𝐸) = −3,52𝑒 −8 𝑥8 − 1,15𝑒 −7 𝑥9 + 8,83𝑒 −8 𝑥10 + 3,39𝑒 −8 𝑥13 − 3,05𝑒 −7 𝑥15 +
+                                       13,7182 (2)
+      2-formula bilan keltirilgan 5-jadval asosidagi modelda bankning kapital
+rentabilligiga ta’sir etuvchi omillarni koʻrish mumkin. Unga koʻra quyidagi ilmiy
+xulosalarni shakllantirishga muvaffaq boʻldik:
+      Birinchidan, “Oʻzsanoatqurilishbank” ATBning 2017-2024-yillardagi
+moliyaviy natijalari toʻgʻrisidagi hisobot koʻrsatkichlarining ayrim omillari salbiy
+ta’sirga ega boʻlmoqda. Markaziy bankdagi hisobvaraqlar boʻyicha foizli
+daromadlar, boshqa banklardagi hisobvaraqlar boʻyicha foizli daromadlar va
+investisiyadan olingan foyda va dividendlar bankning kapitali rentabilligiga juda
+kichik miqdorda, biroq salbiy ta’sir etmoqda.
+      Ikkinchidan, qimmatli qogʻozlar va ularga qilingan investitsiyalar boʻyicha
+foizli daromadlar va koʻrsatilgan xizmatlar va vositachilik uchun olingan
+daromadlar bank kapitali rentabelligiga ijobiy, biroq kichik darajada ta’sir
+etayotganligini kuzatish mumkin. Bu esa, qimmatli qogʻozlardan keladigan
+moliyaviy manfaatdorlik ijobiy ta’sir qilayotganligini, shuningdek bank operasion
+faoliyatdan ham ijobiy tendensiyalarni shakllanayotganligini koʻrish mumkin.
+                                                                         5-jadval
+      “Oʻzsanoatqurilishbank” ATB kapitali rentabilligiga moliyaviy natijalar
+                              ta’siri tahlili modeli
+                                                       Number of obs          =   57
+Source        SS                 df   MS
+                                                       F(6, 50)               =   4.70
+ Model        486.740691         6 81.1234485          Prob > F               =   0.0007
+ Residual     862.689089         50 17.2537818         R-squared              =   0.3607
+ Total        1349.42978         56 24.0969604         Adj R-squared          =   0.2840
+                                                       Root MSE               =   4.1538
+
+
+                                                    Std.                  [95%
+         Model oʻzgaruvchilari             Coef.              t     P>t              Interval]
+                                                    Err.                  Conf.
+ Markaziy bankdagi hisobvaraqlar boʻyicha
+                                            -3.52e-07 1.36e-07 -2.59 0.013 -6.24e-07 -7.89e-08
+ foizli daromadlar (x8)
+ Boshqa banklardagi hisobvaraqlar boʻyicha
+                                            -1.15e-07 4.72e-08 -2.43 0.019 -2.10e-07 -2.00e-08
+ foizli daromadlar (x9)
+ Qimmatli qogʻozlar va ularga qilingan
+ investitsiyalar boʻyicha foizli daromadlar 8.83e-08 5.08e-08 1.74 0.088 -1.37e-08 1.90e-07
+ (x10)
+ Koʻrsatilgan xizmatlar va vositachilik
+                                            3.39e-08 9.18e-09 3.69 0.001 1.55e-08 5.23e-08
+ uchun olingan daromadlar (x13)
+ Xorijiy valyutalardagi foyda (x14)         4.42e-09 3.70e-09 1.20 0.238 -3.01e-09 1.18e-08
+ Investitsiyadan     olingan    foyda   va
+                                            -3.05e-07 1.42e-07 -2.15 0.037 -5.90e-07 -1.95e-08
+ dividendlar (x15)
+_cons                                      13.71821 1.248538 10.99 0.000 11.21045 16.22598
+
+
+     Uchinchidan, bankning xorijiy valyutalar bilan bogʻliq operatsiyalardan
+oladigan daromadi kapital rentabelligiga ijobiy ta’sir etmayotganligini ifodalab
+bermoqda.
+     Umumiy xulosa qilib aytganda, bank kapitali rentabilligi shakllanishida
+moliyaviy natijalarning ta’siri sezilarli ahamiyat kasb etadi. Shuningdek, qimmatli
+qogʻozlarga yoʻnaltirilgan mablagʻlardan, koʻra ularning ortidan shakllangan
+daromad sezilarli ta’sirga ega boʻlmoqda.
+     Bank kapitali rentabilligini oshirishga qaratilgan islohotlarda unga ta’sir
+etuvchi (va etmaydigan) omillar nuqtai nazaridan quyidagi jihatlarga e’tibor berish
+lozim boʻladi.
+     Bankning qimmatli qogʻozlarga qilgan investitsiyalarining ta’sirini oshirish
+uchun tizimli tahlilni amalga oshirish.
+     Ikkinchidan, kapital rentabilligida operasion faoliyat bilan birga, moliya
+bozoridagi faoliyatdan ham daromad barqarorligini oshirish. Jumladan, xorijiy
+valyutalar bilan bogʻliq operatsiyalar samaradorligini oshirish maqsadga muvofiq
+hisoblanadi.
+18
+    Umuman olganda, qimmatli qogʻozlarga ortiqcha investitsiya va moliyaviy
+majburiyatlarning ortishi ROEni salbiy ta’sir etishga olib kelishi mumkin.
+                                                                           6-jadval
+                               Dickey-Fuller test for unit root
+Interpolated Dickey-Fuller                   Number of obs =92
+      Test Statistic   1%Critical Value      5% Critical Value      10%Critical Value
+Z(t) -3.449             -3.521               -2.896                 -2.583
+MacKinnon approximate p-value for Z(t) = 0.0094
+
+      Bank aktivlari rentabilligining statsionarlik (Dikkey-Fuller) testidan
+oʻtkazamiz natijada, 6-jadvalda keltirilgan holatga ega boʻlamiz. Unga koʻra, bank
+aktivlari rentabilligi statsionar ekanligini koʻrish mumkin. Bu esa, modelimizni
+tuzishda ushbu koʻrsatkichdan toʻlaqonli foydalanish mumkinligini koʻrsatadi.
+      Biz tanlab olgan koʻrsatkichlarning sonidan kelib chiqib, ushbu omillarning
+tanlab olinishida “lasso linear regression” modelidan foydalanamiz. Bu bilan esa,
+statistik jihatdan barcha koʻrsatkichlarning ta’siirini bir paytda ifodalaydigan
+modelni shakllantirishga muvaffaq boʻlish mumkin.
+                                                                         7-jadval
+Lasso linear model                   No. of obs              = 57
+                                     No. of covariates       = 15
+Selection: Cross-validation          No. of CV folds         = 10
+
+
+                                   No.        Out of-sample R-      CV mean prediction
+        Description     lambda
+                                 nonzero          squared                 error
+1   first lambda    .4251014        0             -0.0229               .5612665
+20 lambda before .0725798           4              0.2595               .4062976
+*21 selected lambda .066132         4              0.2604               .4058086
+22 lambda after      .060257        4              0.2580               .4071181
+24 last lambda      .0500264        4              0.2486               .4122779
+
+      “Lasso” toʻgʻri chiziqli regressiyasini amalga oshirish orqali biz tomonimizdan
+umumiy tanlab olingan koʻrsatkichlarning barchasining bir paytda modelga
+kiritilishini tekshirishni bitta tahlil bilan aniqlashga erishamiz. Natijada, 7-jadval
+ma’lumotlari asosida keltirilgan modelni koʻrishimiz mumkin. Bunda 4 ta
+koʻrsatkich tanlab olingan.
+      Ular sirasiga quyidagi omillarni kiritilganligini kuzatish mumkin: bankning
+Markaziy bankdagi mablagʻlari (x2), qimmatli qogʻozlar va ularga qilingan
+investisiyalar, sof (x4), Markaziy bankdagi hisobvaraqlar boʻyicha foizli daromadlar
+(x8), investisiyadan olingan foyda va dividendlar (x15) kabi koʻrsatkichlar. Ushbu
+koʻrsatkichlardan foydalanib, kichik kvadratlar usuliga asoslangan toʻgʻri chiziqli
+regressiya modelini tuzib chiqamiz va natijada 8-jadval ma’lumotlarida keltirilgan
+modelni shakllantirishga muvaffaq boʻlamiz.
+                                                                       8-jadval
+           Oʻzsanoatqurilishbank ATB aktivlar rentabelligiga ta’sir etuvchi
+                       tanlangan koʻrsatkichlari modeli
+                                                                Number of obs              =   68
+Source          SS                df     MS
+                                                                F(6, 86)                   =   5.59
+Model           11.3312777        4 2.83281943                  Prob > F                   =   0.0006
+Residual        31.9448942        63 .507061813                 R-squared                  =   0.2618
+Total           43.2761719        67 .645913014                 Adj R-squared              =   0.2150
+                                                                Root MSE                   =   .71208
+
+                                                                                [95%
+     Model oʻzgaruvchilari       Coef.         Std. Err.        t         P>t                  Interval]
+                                                                                Conf.
+bankning Markaziy bankdagi
+                                6.57e-10       1.48e-10         4.45      0.000 3.61e-10       9.52e-10
+mablagʻlari (x2)
+qimmatli qogʻozlar va ularga
+qilingan investisiyalar, sof    3.03e-12       9.58e-11         0.03      0.975 -1.88e-10      1.94e-10
+(x4)
+Markaziy bankdagi
+hisobvaraqlar boʻyicha foizli -9.07e-09        1.49e-08         -0.61 0.544 -3.88e-08          2.06e-08
+daromadlar (x8)
+investisiyadan olingan foyda va
+                                -1.78e-08      1.64e-08         -1.09 0.281 -5.05e-08          1.49e-08
+dividendlar (x15)
+_cons                           6.57e-10       1.48e-10         4.45      0.000 3.61e-10       9.52e-10
+
+Akaike’s information criterion and Bayesian information criterion
+Model       N        ll(null)          ll(model)           df       AIC           BIC
+.           68       -81.12303         -70.80098           3        147.602       154.2605
+
+      8-jadvalda keltirilgan model oʻrtacha darajada satistik ahamiyatga ega
+ekanligini koʻrish mumkin. Sababi AIC va BIC koʻrsatkichlari oʻrtacha
+kojffisientlar bilan ifodalangan. Shuningdek, bankning Markaziy bankdagi
+mablagʻlari (x2)dan tashqari koʻrsatkichlarning ta’siri statistik ahamiyat (p-value)
+koeffisiyenti yuqoriligicha qolmoqda. Shu boisdan, biz tahlillarimizni amalga
+oshirishda balans va moliyaviy natijalarga oid boʻlgan koʻrsatkichlarni alohida
+guruhlagan holda ekonometrik baholashlarimizni davom ettiramiz.
+      Bank aktivlari rentabelligining barqaror boʻlishida Kassadagi naqd pul va
+boshqa toʻlov hujjatlari (x1) va Bankning Markaziy bankdagi mablagʻ (x2) omillari
+statistik ahamiyatga ega. Ushbu koʻrsatkichlarning ta’siri yuqori statistik ahamiyat
+bilan ta’sir etayotganligini qayd etish lozim. Shu nuqtai nazardan ushbu olmillar
+bankning aktivlari rentabelligini ta’sinlashda muhim rol oʻynayotganligini
+ta’kidlash maqsadga muvofiq.
+      Bank aktivlari rentabelligini ta’minlashda bankning Markaziy bankdagi
+mablagʻlari toʻgʻri proporsional ravishda yuqori statistik ahamiyatli ta’sirga ega
+boʻlmoqda. Bu esa, bankning aktivlari koʻproq iqtisodiyotning turli tarmoqlariga
+20
+emas, balki Markaziy bankda saqlashga boʻlgan moyillikning yuqori ekanligini
+oʻzida ifodalab bermoqda. Shuningdek, kassadagi naqd pullar ham aktiflar
+rentabelligini baholashda muhim omillardan biri boʻlmoqda. Jumladan, ushbu
+omilning hal qiluvchi statistik ahamiyatga ega ekanligi bank aktivlarini
+diversifikasiya qilishga boʻlgan zaruratni oʻzida ifodalab beradi.
+                                                                      9-jadval
+          Oʻzsanoatqurilishbank ATB aktivlar rentabelligiga ta’sir etuvchi
+                      moliyaviy natija koʻrsatkichlari modeli
+                                                            Number of obs               = 68
+Source        SS                   df     MS
+                                                            F(6, 61)                    = 8.99
+Model         20.3055439           6      3.38425732        Prob > F                    = 0.0000
+Residual      22.970628            61 .376567672            R-squared                   = 0.4692
+Total         43.2761719           67 .645913014            Adj R-squared               = 0.4170
+                                                            Root MSE                    = .61365
+
+
+                                                                                [95%
+    Model oʻzgaruvchilari         Coef.         Std. Err.    t          P>t                 Interval]
+                                                                                Conf.
+Markaziy bankdagi
+hisobvaraqlar boʻyicha foizli      -3.85e-08     1.47e-08        -2.62 0.011 -6.80e-08 -9.09e-09
+daromadlar (x8)
+Boshqa banklardagi
+hisobvaraqlar boʻyicha foizli      -1.74e-08     2.57e-09        -6.77 0.000 -2.25e-08 -1.23e-08
+daromadlar (x9)
+Kredit va lizing operatsiyalari
+boʻyicha foizlar, diskontlar       2.40e-09      4.22e-10        5.69   0.000    1.56e-09   3.24e-09
+(chegirmalar) va badallar (x11)
+Jami foizsiz daromadlar (x12)      -6.31e-10     3.44e-10        -1.83 0.072 -1.32e-09      5.70e-11
+Koʻrsatilgan xizmatlar va
+vositachilik uchun olingan         -7.40e-09     1.98e-09        -3.74 0.000 -1.14e-08 -3.44e-09
+daromadlar (x13)
+Investisiyadan olingan foyda
+                                   -3.51e-08     2.04e-08        -1.72 0.090 -7.58e-08      5.60e-09
+va dividendlar (x15)
+_cons                              1.781324      .2159975        8.25   0.000    1.34941    2.213238
+
+     Shu nuqtai nazardan bank aktivlari rentabelligini moliyaviy natijalar
+toʻgʻrisidagi hisobot koʻrsatkichlari asosidagi baholashlarini amalga oshirishni
+koʻzda tutish maqsadga muvofiq boʻladi. Bu esa, ushbu omillarning tanlab
+olinishida lasso linear regression modelidan foydalanishni nazarda tutadi. X7
+omildan X15 omiligacha boʻlgan koʻrsatkichlarning oʻzgarishlarini bank aktivlari
+rentabilligiga ta’sirini aniqlash va baholashga e’tibor beramiz.
+     Lasso linear regression modelidan foydalanib bank aktivlari rentabelligiga 9-
+jadval asosda tuzilgan model koʻrsatkichlarining barchasi yuqori/oʻrtacha statistik
+ahamiyat bilan ta’sirga ega boʻlmoqda. Ushbu model aktivlar rentabelligini (R-
+squared) 46,92 foizga ifodalab bera olishini koʻrsatib turibdi. Qoldiqlarning oʻrtacha
+kvadrat xatosi xam kichik (Root MSE = 0.61365) ekanligi ushbu modelni qabul
+qilish mumkin ekanligini aks ettirib beradi.
+      Shundan kelib chiqib, quyidagi ilmiy xulosalarni shakllantirishimiz mumkin:
+      Birinchidan, Markaziy bankdagi hisobvaraqlar boʻyicha foizli daromadlar va
+boshqa banklardagi hisobvaraqlar boʻyicha foizli daromadlar bank aktivlari
+rentabelligiga salbiy biroq juda kichik darajada statistik yuqori ahamiyat bilan ta’sir
+etmoqda. Bu esa, ularning oʻsishi aktivlar rentabelliligini oshirmayotganligini oʻzida
+ifodalab beradi.
+      Ikkinchidan, kredit va lizing operatsiyalari boʻyicha foizlar, diskontlar
+(chegirmalar) va badallar ijobiy va juda yuqori statistik ahamiyat bilan ta’sir
+etmoqda. Uning oshishi aktivlar rentabelligini oshirmoqda.
+      Uchinchidan, bank faoliyatida jami foizsiz daromadlar bank aktivlari
+rentabelligiga salbiy va kuchsiz ta’sir etmoqda. Shuningdek, uning qiymati bir
+birlikka oʻzgarishi aktivlar rentabelligining sezilarsiz oshishiga olib keladi.
+      Toʻrtinchidan, koʻrsatilgan xizmatlar va vositachilik uchun olingan daromadlar
+va investisiyadan olingan foyda va dividendlar aktivlar rentabelligiga teskari
+proporsional ta’sir etmoqda. Shuningdek, ularning bir birlikka oshishi aktivlar
+rentabilligini sezilarsiz pasayishiga olib keladi.
+      Foizli daromadlarning bank aktivlari rentabilligiga statistik ta’sir
+etmayotganligi bank faoliyatida aktivlarni iqtisodiyotning turli tarmoqlariga
+joylashtirishda tahlillar zarur ekanligini ifodalab beradi. Shu boisdan, bank
+aktivlarini joylashtirishda foizli daromadlarning rolini oshirish va unga nisbatan
+samarali moliyaviy qarorlarni qabul qilish tizimini takomillashtirish zarur.
+      Dissertatsiya ishining “Tijorat banklari daromadlarini oshirish asosida
+moliyaviy barqarorligini ta’minlash yoʻllari” deb nomlangan uchinchi bobida
+tijorat banklari daromadliligini oshirish orqali moliyaviy barqarorlikni
+ta’minlashning ilgʻor tajribalari va tijorat banklari daromadlarini oshirish asosida
+moliyaviy barqarorligini ta’minlash yoʻllari ilmiy xulosalar va takliflar
+shakllantirilgan.
+      Banklar faoliyatida moliyaviy samaradorlik koʻrsatkichlari oʻsishini
+ta’minlash, mijozlarga xizmat koʻrsatish sifati va tezkorligini oshirish,
+avtomatlashtirilgan va innovatsion dasturiy modullarni joriy etib borish maqsadida
+jahon tijorat banklari tajribasida keng qoʻllab kelinayotgan “Process Mining” hamda
+“Task Mining” dasturiy modullarini amaliyotga joriy etish maqsadga muvofiq
+hisoblanadi.
+       Ushbu modulni qoʻllashdan maqsad kreditlash va toʻlov tizimlari bilan bogʻliq
+boʻlgan jarayonlarni avtomatlashtirish va boshqarishni qulaylashtirishga yordam
+beradi. Uning afzalliklari quyidagilardan iborat hisoblanadi.
+       moliyaviy munosabatga doir jarayonlarni real vaqtda tahlil qilish;
+       jarayonlarni toʻliq raqamlashtirishga imkoniyat beradi;
+       jarayondagi toʻgʻri boʻlmagan holatlarni aniqlaydi va ularni bartaraf etiish
+yuzasidan takliflar beradi;
+       vaqt va xarajatlarni tejashga xizmat qiladi;
+       Prosess-mayning modulini bank amaliyotida joriy etish natijasida bir qator
+ijobiy natijalarga erishish mumkin boʻladi. Shu boisdan, bank xizmatlarini amalga
+22
+oshirishda prosess-mayning modulidan foydalanish orqali kredit berish, omonatlarni
+jalb etish, onlayn bank xizmatlarini ta’minlash kabi yoʻnalishda samaradorlikni
+oshirishga xizmat qiladi.
+     Unda quyidagi jihatlarni inobatga olish muhim hisoblanadi:
+     Birinchidan, moliyaviy xizmatlarni amalga oshirishdagi ma’lumotlarni
+toʻplash bilan birga, ularni guruhlarga tizimlashtirish zarur hisoblanadi.
+     Ikkinchidan, jarayonlarni yuz berishi bosqichlarini tahlil qilishga e’tibor
+qaratish va ularni tizimlashtirish.
+     Uchinchidan, katta ma’lumotlar bazasini tahlil qilishda ularni yuzaga kelish
+jarayonlarini ham optimallashtirib borish maqsadga muvofiq hisoblanadi.
+     Mazkur modulning joriy etilishi davomida oddiy va takrorlanuvchi jarayonlarni
+aniqlash asosida avtomatlashtirishni ta’minlash muhim hisoblanadi. bu esa,
+proesess-mayning jarayonlarini muvaffaqiyatli amalga oshirilishini ta’minlashga
+xizmat qiladi. Bunda “Task Mining” jarayoni alohida o‘rin tutadi. Ushbu modul
+jarayonlarni optimallashtirishda oddiy va takrorlanish xususiyatidagi amallarni
+raqamlashtirishga xizmat qiladi.
+     Umuman olganda, bank xizmatlari bozorida raqobatbardoshlilikni oshirish va
+banklarning daromadliligini ta’minlashda xarajatlarni qisqartirishga qaratilgan
+raqamli texnologiyalarni qoʻllash muhim. Ongli mehnat va qobiliyatni talab
+etmaydigan, takrorlanish va oddiylik xususiyatini kasb etadigan vazifalarni
+avtomatlashtirish dolzarblik kasb etadi. Bu esa, banklarning vazifalar taqsimotida
+standart taqdim etadigan vazifalarni raqamlashtirish zamonaviy omil ekanligini
+oʻzida ifoda etadi.
+     Mazkur modulni joriy etishda quyidagi bosqichlarga rioya etilishi maqsadga
+muvofiq bo‘ladi.
+     Birinchidan, kompyuterda qoʻllaniladigan amaliyotlarni qayd etish.
+     Ikkinchidan, ushbu jarayonda toʻplaniladigan shaxsiy ma’lumotlarni
+anonimlashtirish va ularning xavfsizligini ta’minlashga qaratilgan amaliyotni
+belgilash.
+     Uchinchidan, takrorlanuvchi va vaqt talab etadigan amaliyotlarni aniqlash va
+ularni sinflarga ajratishga qaratilgan qadamlarni amalga oshirish.
+     Toʻrtinchidan, vazifalarni vizuallashtirishga qaratilgan avtomatlashtirishning
+algoritmlarini ishlab chiqish.
+     “Task Mining” modulini joriy etish orqali mijozlarga xizmat koʻrsatish bilan
+bogʻliq xarajatlarni qisqartirishga qaratilgan amaliyotga erishish muhim. “Task
+Mining” modulini joriy etishda vazifalarni standart va nostandart xususiyat bilan
+tizimlashtirish oʻziga xos ahamiyat kasb etadi.
+     Shu nuqtai nazardan kelib chiqib, task mayning modulining quyidagi
+afzalliklarini qayd etib oʻtish mumkin. Birinchidan, moliyaviy samaradorlikni
+oshirish bilan birga, vaqtni tejashga va xatoliklarni kamaytirishga xizmat qiladi.
+Ikkinchidan, takrorlanuvchi vazifalarni qulaylashtirishga olib keladi va operasion
+xarajatlarni kamaytiradi. Uchinchidan, vazifalarni takomillashtirib borish uchun
+ma’lumotlar bazasini boyitib borishga zamin hozirlaydi.
+     “Task Mining” hujjatlarni qayta ishlash, raqamli jarayonlarni standartlashtirish,
+moliyaviy xizmatlarda takrorlanuvchi faoliyatlar hajmi va vaqtini qisqartirish, bank
+xizmatlarini taqdim etishni tezlashtirish, toʻlov jarayonlarini tahlil qilib borish va
+inson mehnatiga doir boʻlgan xarajatlarni qisqartiradi.
+      Prosess mayning va task mayning modullarini birgalikda bank faoliyatiga joriy
+etish xarajatlarni qisqartirishga sezilarli ta’sir etadi. Bu esa, bankning daromadlilik
+darajasini oshirishga xizmat qiladi. Shuningdek, ushbu ikki modulning integrasion
+tuzilmada birgalikda ishlashi maqsadga muvofiq bo‘ladi. Shu bilan birga, bu ikki
+modulning oʻzaro farqli va oʻxshash tomonlarini quyidagi 10-jadvalda kuzatish
+mumkin.
+      Bir vaqtda ham jarayonlarni, ham vazifalarni avtomatlashtirish orqali bankning
+joriy xarajatlarini qisqartirishga va daromadlilikning oshishiga olib kelishga erishish
+mumkin.
+                                                                              10-jadval
+      Mining modullarining oʻzaro xususiyatlari taqqoslama matrisasi
+ Xususiyat              Task Mining                             Process Mining
+
+ Kuzatish doirasi       Mayda vazifalarni tahlil qiladi        Katta biznes jarayonlarni
+                                                               tahlil qiladi
+ Ma’lumot manbai        Harakatlar bosqichi va ekran qaydlari Jarayonlar bosqichlari
+ Qoʻllanilish maqsadi   Vaqtni     tejash    va    vazifalarni Jarayon       samaradorligini
+                        avtomatlashtirish                      tahlil qilish
+
+     Bank tizimida biznes jarayonlar samardorligini oshirish va optimallashtirilgan
+biznes jarayonlarni amaliyotga joriy etib borish hisobiga bank faoliyati
+barqarorligini ta’minlash maqsadida “Lean Management” va “Six Sigma”
+metodlarini qoʻllash maqsadga muvofiq bo‘ladi.
+     Bunda hududiy bank filiallari faoliyati samaradorligini oshirish maqsadida
+bosh bank bilan toʻgʻridan-toʻgʻri munosabatlarga kirishishi muhim ahamiyatga ega
+hisoblanadi. Bu esa, bilvosita bank sub’yektlariga boʻlgan zaruratni keltirib
+chiqarmaydi. Shu boisdan, hududiy boshqalarmalar faoliyatini qayta koʻrib chiqish
+maqsadga muvofiq hisoblanadi.
+     “Lean Management” tizimi ortiqcha xarakat va resurslar sarfini kamaytirishni
+nazarda tutadi. Bundan koʻzlangan maqsada qoʻshimcha qiymat yaratmaydigan va
+qiymat zanjirida rentabelligi past boʻlgan sub’yekt va jarayonlarni aniqlash
+hisoblanadi. mazkur boshqaruv tamoyilini qoʻllash orqali bank faoliyatida
+quyidagilarni tejashga erishish mumkin boʻladi.
+     Birinchidan, resurslar tejaladi. Bunda bankning asosiy vositalari va bino
+inshootlaridan ortiqcha foydalanish qisqaradi. Ularni saqlab turish va ularndan
+foydalanish bilan bogʻliq xarajatlar qisqaradi.
+     Ikkinchidan, vaqt tejaladi. Mijozlarga xizmat koʻrsatish bilan bogʻliq
+jarayonlarda kutish va ma’lum ishlarni bajarish uchun ketadigan vaqt
+qisqartirilishiga olib keladi.
+     Uchinchidan, ortiqcha jarayonlarni bekor qilinishiga erishiladi. Bunda ortiqcha
+jarayonlar uchun sarf etiladigan resurs va energiya sarf etilishi oldi olinadi.
+     Bank faoliyatida mazkur boshqaruv metodining qoʻllanishi moliyaviy va
+nomoddiy resurslarning ortiqcha sarf etilishining oldini olishga xizmat qiladi.
+
+24
+Natijada, bankning moliyaviy barqarorligini ta’minlashning asoslari
+mustahkamlanadi.
+     Banklarda resurslar va ortiqcha faoliyatlarni qisqartirish orqali moliyaviy
+tejamkorlikning yoʻnalishlarini ishlab chiqishda “Lean management” uslubi muhim.
+     Mazkur boshqaruv metodining mantiqiy davomi sifatida Six Sigma ham oʻziga
+xos xususiyat kasb etadi. mazkur metod sifatni statistik jihatdan nazorat qilishni
+oʻzida aks ettiradi. Bunda oʻzbek tilida beshta M (5M) shaklida uning mohiyatini
+yaada aniqroq tushuntirib berish mumkin.
+     M – Muammoni aniqlash. Bunda mijozlarga xizmat koʻrsatish tizimidagi
+muammoni aniqlash va uni baholashdan iborat.
+     M – Mezon koʻrsatkichlari. Bunda muammoni qanday aniqlash va uni baholash
+yoʻllarini belgilash.
+     M – Metodologiya. Muammoni yuzaga kelishiga sabab boʻlgan omillarni
+tizimlashtirish va uni tahlil qilish metodini ishlab chiqish.
+     M – Modifikasiya. Muammoni tahlilidan kelib chiqib yangi xususiyatlar va
+yechimlarni joriy etish.
+     M – Monitoring. Amalga oshirilgan jarayonlar va joriy etilgan xususiyatlarni
+nazorat qilib borish tizimi.
+     Bank boshqaruvida mazkur metodlarning qoʻllanishi va 5M tamoyiliga
+asoslangan faoliyatni amalga oshirishi ortiqcha xarajatlardan saqlanishga olib
+keladi. Natijada, bankning daromadlilik darajasini oshirishga imkoniyat vujudga
+keladi.
+
+                                     XULOSA
+
+      Dissertatsion tadqiqotimiz davomida quyidagi ilmiy xulosa va takliflarni ishlab
+chiqishga muvaffaq boʻldik:
+      1. Kredit oluvchining kreditga layoqatliligini baholashda bankning joylashgan
+mikrohududini inobatga olish orqali kredit foiz stavkalari bankning daromadliligiga
+ta’sir etuvchi muhim omil ekanligini tahlil qilish taklif etilgan.
+      2. Banklarda moliyaviy menejmentning vertikal shakllanishida nomonetar
+omillarni gorizontal-vertikal elementlar bilan tushuntirish orqali banklarning
+moliyaviy rentabelligini oshirish asoslangan.
+      3. Bank taqsimlanmagan foydasi bank kapitali rentabelligi shakllanishiga
+ijobiy ta’sir etuvchi omil ekanligini inobatga olish asosida banklarning moliya
+bozoridagi daromadliligini oshirish taklif etilgan.
+      4. Bank aktivlarining rentabelligida foizsiz daromadlarning roli kamayib
+borayotganligini inobatga olib operatsion xarajatlarni raqamlashtirish orqali
+banklarning daromadliligini oshirishni moliyaviy barqarorlikni ta’minlashga
+uygʻunlashtirish taklif etilgan.
+      5. Banklarning moliyaviy barqarorligini ta’minlashda ichki ta’sir etuvchi
+omillarni oldindan aniqlash va ularni bartaraf etishga qaratilgan strategiyani ishlab
+chiqishda ichki omillarni boshqarish orqali ularning salbiy ta’sirini oldindan
+aniqlash va uni prognozlashtirishga imkoniyat mavjud.
+      6. Banklarning moliyaviy barqarorligiga ta’sir etuvchi moliyaviy natijalar
+bilan birga, nomoliyaviy xususiyat kasb etadigan tashqi va ichki omillarni ham
+tizimlashtirish asosida baholashlarni amalga oshirish maqsadga muvofiqligi
+asoslangan.
+      7. Taqsimlanmagan        foydani      shakllanishida     bankning     moliyaviy
+instrumentlardan foydalanishi va foizli daromadlarni shakllantirishdagi rolini
+oshirish orqali bankning moliyaviy barqarorligiga shart-sharoit yaratib berishi
+asoslangan.
+      8. Foizli daromadlarning bank aktivlari rentabelligiga statistik ta’sir
+etmayotganligi bank faoliyatida aktivlarni iqtisodiyotning turli tarmoqlariga
+joylashtirishda tahlillar zarur ekanligini ifodalab berishi asoslangan.
+      9. Mamlakatda makroiqtisodiy koʻrsatkichlarning bank daromadliligiga
+ta’sirini baholagan holda valyuta kursining devalvatsion tendensiyasini qizib
+ketishini oldini olishga qaratilgan chora-tadbilarni amalga oshirish taklif etilgan.
+
+
+
+
+26
+     НАУЧНЫЙ СОВЕТ DSc. 22/29.12.2023.I.175.01 ПО
+      ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+  ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+ТАШКЕНТСКИЙ ГОСУДАРСТВЕННЫЙ ЭКОНОМИЧЕСКИЙ
+                УНИВЕРСИТЕТ
+
+
+
+
+             УМАРОВ ДАВРОН ШАВКАТОВИЧ
+
+
+
+ ПУТИ ОБЕСПЕЧЕНИЯ ФИНАНСОВОЙ УСТОЙЧИВОСТИ
+КОММЕРЧЕСКИХ БАНКОВ НА ОСНОВЕ УВЕЛИЧЕНИЯ ИХ
+                  ДОХОДОВ
+
+
+
+         08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+                         АВТОРЕФЕРАТ
+   диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                     город Ташкент– 2025 год
+28
+      ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+    Актуальность и востребованность темы диссертации. Следует
+отметить, что возникновение экономических и геополитических кризисов в
+мире обусловлено необходимостью повышения финансовой устойчивости на
+основе обеспечения доходности банков. Японские банки претерпели ряд
+изменений в годы после кризиса 1990 года. При этом развитие пузыря активов
+в стране привело к тому, что многие банковские кредиты не вернулись в
+результате кризиса под названием «потерянные 10 лет». В результате это
+существенно повлияло на уровень рентабельности банков. Впоследствии
+японским монетарным регулятором разработано и внедрено в практику
+множество правил, касающихся невозвратных кредитов и их регулирования.
+Банком международных расчетов (Bank for International Settlements)
+анализируются тенденции развития прибыльности банков в глобальном
+масштабе5. Данный банк обосновывает свои научные выводы на основе
+оценки им рентабельности капитала при оценке рентабельности банков,
+показателя отношения рыночной цены к балансовой стоимости и
+устойчивости (управленческого буфера) через объем капитала, превышающий
+нормативные требования. По мнению специалитсов вышеупомянутого банка,
+увеличение рыночной стоимости оказывает положительное влияние на
+рентабельность капитала и формирование управленческого буфера. Эти
+тенденции отражают актуальность повышения финансовой устойчивости
+банков.
+    В качестве важных направлений в банковской деятельности в мире
+выделяются такие аспекты, как реализация мер, направленных на
+предварительное выявление внутренних факторов, влияющих на обеспечение
+финансовой устойчивости банков, управление внутренними факторами при
+разработке стратегии, направленной на их устранение, систематизация
+внешних и внутренних факторов, влияющих на финансовую устойчивость
+банков, приобретающих нефинансовый характер финансовых результатов,
+повышение роли банка в формировании нераспределенной прибыли,
+использовании финансовых инструментов и формировании процентных
+доходов, повышение статистической значимости процентных доходов для
+рентабельности активов банков, размещение активов в различных секторах
+экономики, недопущение перегрева тенденции девальвации валютного курса
+с оценкой влияния макроэкономических показателей на доходность банка в
+стране.
+    В Узбекистане проводение исследований, направленных на оценку
+кредитоспособности заемщика при повышении финансовой устойчивости
+банков на основе повышения доходности, определение влияния кредитных
+процентных ставок на доходность банка с учетом микрорегиона, где находится
+банк, объяснение неблагоприятных факторов в вертикальном формировании
+финансового менеджмента в банках с горизонтально-вертикальными
+
+5
+ Caparusso, J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience of Global Banks: A
+Tight Link. Bank for International Settlements, Monetary and Economic Department.
+элементами, учет того, что нераспределенная прибыль банка является
+фактором, положительно влияниящим на формирование рентабельности
+капитала банка, управление и дальнейшее совершенствование цифровизации
+операционных расходов с учетом снижения роли беспроцентных доходов
+имеет актуальное значение.
+    Данная диссертационная работа в определенной степени служит
+решению вышеуказанных проблем, а также задач, поставленных указами и
+постановлениями Президента Республики Узбекистан. В частности,
+настоящее диссертационное исследование в определенной степени призвана
+обеспечить практическую поддержку реализации задач, поставленных
+указами и постановлениями Президента Республики Узбекистан от 5 октября
+2020 года № УП-6079 «Об утверждении Стратегии «Цифровой Узбекистан и
+мерах по ее эффективной реализации», от 12 мая 2020 года № УП-5992 «О
+Стратегии реформирования банковской системы Республики Узбекистан на
+2020-2025 годы», от 23 марта 2018 года ПП-3620 «О дополнительных мерах
+по повышению доступности банковских услуг», от 21 сентября 2021 года №
+УП-5544 «Об утверждении Стратегии инновационного развития Республики
+Узбекистан на 2019–2021 годы», а также нормативными документами,
+касающимися данной деятельности.
+      Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетным направлением развития науки и
+технологий республики I. «Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+      Степень изученности проблемы. Многие исследования, проведенные
+на английском языке, основаны на научных выводах о формировании
+политики банков и ее эффективной организации, направленной на
+обеспечение их финансовой устойчивости на основе повышения доходности.
+В своих научных выводах такие ученые, как Akbaş H. E., Albertazzi U.,
+Almazari A. A., Athanasoglou P. P., Caparusso, J., Căpraru B., Hasanov F. J., Idris
+A.A., Klaassen P., Kusi B.A., Lamothe P., Liu H., Rahman M.M., Sari F.N., Socol
+A., Sujud H., Sutiman S., Tan Y., Topak M.S.6 провели исследования,
+6
+  Akbaş, H. E., Aysan, A. F., & Ceyhan, S. P. (2012). Determinants of bank profitability: An investigation on Turkish
+banking sector. Öneri Dergisi, 10(37), 103-110.; Albertazzi, U., & Gambacorta, L. (2009). Bank profitability and the
+business cycle. Journal of financial stability, 5(4), 393-409.; Almazari A. A. Impact of internal factors on bank
+profitability: Comparative study between Saudi Arabia and Jordan //Journal of Applied finance and banking. – 2014.
+– Т. 4. – №. 1. – С. 125.; Athanasoglou, P. P., Brissimis, S. N., & Delis, M. D. (2008). Bank-specific, industry-specific
+and macroeconomic determinants of bank profitability. Journal of international financial Markets, Institutions and
+Money, 18(2), 121-136.; Caparusso, J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience
+of Global Banks: A Tight Link. Bank for International Settlements, Monetary and Economic Department.; Caparusso,
+J., Lewrick, U., & Tarashev, N. A. (2023). Profitability, Valuation and Resilience of Global Banks: A Tight Link.
+Bank for International Settlements, Monetary and Economic Department.; Căpraru, B., & Ihnatov, I. (2014). Banks’
+profitability in selected Central and Eastern European countries. Procedia Economics and Finance, 16, 587-591.;
+Hasanov, F. J., Bayramli, N., & Al-Musehel, N. (2018). Bank-specific and macroeconomic determinants of bank
+profitability: Evidence from an oil-dependent economy. International Journal of Financial Studies, 6(3), 78.; Idris, A.
+A., & Hasbiah, S. (2023). Assessment Of Financial Performance at PT. Bank Tabungan Negara (Persero) Tbk Using
+The Dupont System Method Period 2019-2021. Economics and Business Journal (ECBIS), 1(3), 185-190.; Klaassen,
+P., & van Eeghen, I. (2015). Analyzing bank performance—Linking RoE, RoA and RAROC: US commercial banks:
+30
+посвященные различным аспектам финансовой устойчивости в банках на
+уровне страны и в мировом масштабе.
+    В научных работах таких узбекских ученых и исследователей, как
+Б.Алиев, А.Абсаламов, Ш.Бахриддинов, А.Бектемиров, Р.Базаров,
+С.Зиядуллаев,    Н.Жумаев,   Х.Зуннунова,   Б.Избосаров,  Л.Мурадова,
+Х.Рахматов, И.Садиков, О.Сатторов, М.Таштамиров, И.Турсунов, Ш.Убаева,
+Ш.Ханнаев, К.Хамраев, Н.Шарипова7 проанализированы различные элементы
+организации депозитной политики физических лиц в банках.
+
+1992-2014. Journal of Financial Perspectives, 3(2).; Kusi, B. A., Ansah-Adu, K., & Agyei, A. (2015). Evaluating
+banking profit performance in Ghana during and post profit decline: a five step du-Pont approach. EMAJ: Emerging
+Markets Journal, 5(2), 29-40.; Kusi, B. A., Ansah-Adu, K., & Sai, R. (2015). Evaluating bank profitability in Ghana:
+a five step Du-Pont model approach. International Journal of Finance & Banking Studies (2147-4486), 4(3), 69-82.;
+Lamothe, P., Delgado, E., Solano, M. A., & Fernández, S. M. (2024). A global analysis of bank profitability factors.
+Humanities and Social Sciences Communications, 11(1), 1-12.; Liu, H., & Wilson, J. O. (2010). The profitability of
+banks in Japan. Applied Financial Economics, 20(24), 1851-1866.; Rahman M. M., Hamid M. K., Khan M. A. M.
+Determinants of bank profitability: Empirical evidence from Bangladesh //International journal of business and
+management. – 2015. – Т. 10. – №. 8. – С. 135.; Sari, F. N., & Endri, E. (2019). Determinants of Return on Assets
+(ROA) On Conventional Banks Listed On Indonesian Stock Exchange (IDX) Period 2013–2017. IOSR journal of
+business and management (IOSR-JBM), 21(4), 52-62.; Socol, A., & Danuletiu, A. E. (2013). Analysis of the romanian
+banks'performance through roa, roe and non-performing loans models. Annales Universitatis Apulensis: Series
+Oeconomica, 15(2), 594.; Sujud, H., & Hashem, B. (2017). Effect of Bank Innovations on Profitability and Return on
+Assets (ROA) of Commercial Banks in Lebanon. International journal of economics and finance, 9, 35.; Sutiman, S.,
+Suteja, J., Anwar, M., & Rachmawaty, R. (2024). Determinants of Bank Profitability and Implications for Company
+Value with Moderating Dividend Policy. Owner: Riset dan Jurnal Akuntansi, 8(3), 2856-2867.; Tan Y., Floros C.,
+Anchor J. The profitability of Chinese banks: impacts of risk, competition and efficiency //Review of Accounting and
+Finance. – 2017. – Т. 16. – №. 1. – С. 86-105.; Topak, M. S., & Talu, N. H. (2017). Bank specific and macroeconomic
+determinants of bank profitability: Evidence from Turkey. International Journal of Economics and Financial Issues,
+7(2), 574-584.
+7
+  Алиев Б. Х., Салманов С. И. Мониторинг развития российского банковского сектора в сравнении с
+кризисными периодами 1998 и 2008 гг //Финансовая аналитика: проблемы и решения. – 2015. – №. 19 (253). –
+С. 2-14.; Absalamov, A., Majidov, M. (2022). Ўзбекистон банкларида актив-пассивларни бошқариш ҳолати.
+Moliya va bank ishi, 8(1), 123-132.; Бахриддинов Ш. Тижорат банкларида активларни самарали бошқариш
+йўллари: и.ф.б.ф.д. ... автореферат. – Т.: ТМИ, 2022. – 57 б.; Бектемиров А., Маликова Д. М., Аҳмедов Ҳ. Ф.
+Тижорат банки фаолияти самарадорлигини ошириш истиқболлари //Journal of marketing, business and
+management. – 2023. – Т. 2. – №. 2. – С. 149-154.; Бозоров Р. Ҳ. Тижорат банклари молиявий барқарорлигини
+таъминлашни такомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2020. – 52 б.; Жумаев Н.Х. Жаҳон
+иқтисодиѐтининг янги инқирози – иқтисодий ҳаракатсизлик. 03.04.2020 й. https://review.uz/oz/exg; Избосаров
+Б. Ўзбекистонда тижорат банклари ликвидлилигини таъминлашнинг методологик ва ҳуқуқий асосларини
+ўзига хос хусусиятлари//International Journal of Finance and Digitalization. www.ijfd.uz. Vol. 1 Issue 02, 2022;
+Зиёдуллаев С. Тижорат банклари активларининг рентабеллигини оширишнинг долзарб масалалари
+//Economics and Innovative Technologies. – 2022. – Т. 10. – №. 5. – С. 43-48.; Зуннунова Х.М. Тижорат банклари
+бозор қийматини баҳолаш амалиётини такомиллаштириш. и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2022. –
+52 б.; Мурадова Л. Ф. Ўзбекистон иқтисодиётини модернизациялаш шароитида тижорат банклари активлари
+даромадлигини ошириш йўллари: и.ф.б.ф.д. ... автореферат. – Т.: ЎзР. БМА, 2018. – 57 б.; Раҳматов Ҳ.Ў.
+Иқтисодиётни диверсификациялаш шароитида тижорат банк активларини самарадорлигини ошириш
+масалалари: и.ф.д. ... автореферат. – Т.: Ўз.Р. БМА, 2020. – 66 б.; Садиков И. Миллий иқтисодиётимизда
+тижорат банкларининг молиявий барқарорлигини мустаҳкамлашнинг назарий асослари //Research and
+Publications. – 2024. – Т. 1. – №. 1. – С. 161-168.; Сатторов О.Б. Ўзбекистон Республикаси банк тизими
+барқарорлигини таъминлаш методологиясини такомиллаштириш: и.ф.д. ... автореферат. – Т.: ТМИ, 2018. – 67
+б.; Таштамиров М. Р. Тенденции развития банковской системы и ее устойчивости в условиях негативной
+экономической конъюнктуры //Вестник евразийской науки. – 2017. – Т. 9. – №. 1 (38). – С. 92.; Турсунов И.Т.
+Тижорат банклари молиявий барқарорлигини таъминлашнинг илмий-амалий масалалари//Страховой рынок
+Узбекистана. – 2024. – Т. 1. – №. 10. – С. 15-17.; Убаева Ш. Л. Тижорат банклари барқарорлигини самарали
+бошқариш механизмини ткомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.: ТДИУ, 2018. – 53 б.; Ханнаев Ш.Қ.
+Тижорат банклари фаолияти самарадорлигини баҳолашни такомиллаштириш: и.ф.б.ф.д. ... автореферат. – Т.:
+ЎзР. БМА, 2021. – 62 б.; Ҳамраев Қ.И. Ўзбекистон Республикаси инвестицион фондларнинг соф активларидан
+самарали фойдаланишни эконометрик моделлаштириш: и.ф.б.ф.д. ... автореферат. – Урганч: УрдУ, 2020. -55
+б.; Шарипова Н. Банклар молиявий барқарорлиги кўрсаткичларини эконометрик моделлаштириш //Iqtisodiy
+taraqqiyot va tahlil. – 2023. – Т. 1. – №. 4. – С. 239-245.
+     То, что в вышеуказанных исследованиях не сформулированы научные
+выводы по таким аспектам, как разработка депозитной политики для
+физических лиц в банках и ее изменение под влиянием социально-
+экономических факторов, зависимость от формирования финансовых
+результатов, выражает актуальность проведения данного диссертационного
+исследования.
+     Связь диссертационного исследования с планами научно-
+исследовательских работ высшего образовательного учреждения, где
+выполнена диссертация. Диссертационная работа выполнена в соответствии
+с планом научно-исследовательских работ Ташкентского государственного
+экономического университета в рамках темы «Научная разработка проблем
+модернизации банковско-финансовой, налоговой и инвестиционной
+деятельности в условиях устойчивого развития экономики Республики
+Узбекистан».
+     Целью исследования является разработка научных предложений и
+практических рекомендаций по повышению доходности при обеспечении
+финансовой устойчивости банка в Узбекистане.
+     Задачи исследования:
+     изучение теоретических основ и специфики банковских доходов в
+обеспечении финансовой устойчивости коммерческого банка;
+     исследование стабильной финансовой рентабельности как фактора
+обеспечения прибыльности банков;
+     эконометрическая оценка факторов, формирующих и влияющих на
+финансовую устойчивость коммерческого банка;
+     анализ показателей баланса банка в обеспечении финансовой
+устойчивости коммерческих банков;
+     оценка факторов, влияющих на рентабельность капитала при
+обеспечении финансовой устойчивости коммерческих банков;
+     оценка факторов, влияющих на рентабельность активов при обеспечении
+финансовой устойчивости коммерческих банков;
+     изучение передового опыта обеспечения финансовой устойчивости за
+счет повышения доходности коммерческих банков;
+     выявление приоритетных направлений обеспечения финансовой
+устойчивости за счет повышения доходности коммерческих банков.
+     В качестве объекта исследования выбраны финансовые показатели АКБ
+«Промстройбанк».
+     Предметом исследования являются экономические отношения,
+возникающие в процессе повышения доходности при обеспечении
+финансовой устойчивости банка в Узбекистане.
+     Методы исследования. В диссертационной работе использованы такие
+методы анализа, как научная абстракция, логическое мышление, multinominal
+logistic regression, tabulation frequency, модель ARIMA, обучение в динамике,
+группировка данных, сравнение.
+     Научная новизна исследования заключается в следующем:
+
+32
+     обоснован устойчивый рост процентных доходов банка, обеспечивающий
+дифференциацию кредитных процентных ставок на основе интеграции такого
+фактора, как микрарайон, где расположен банк, в процесс оценки
+кредитоспособности клиента в кредитной политики банка;
+     обосновано повышение финансовой рентабельности банков за счет
+включения на основе горизонтально-вертикальной интеграции немонетарных
+факторов в вертикальную систему формирования финансового менеджмента
+в банках;
+     предложено повысить доходность банков на финансовом рынке на основе
+учета того, что нераспределенная прибыль банка является фактором,
+положительно влияющим на формирование рентабельности капитала банка;
+     предложено гармонизировать повышение доходности банков с
+обеспечением финансовой устойчивости за счет цифровизации операционных
+расходов, учитывая, что роль беспроцентных доходов в рентабельности
+активов банка снижается.
+     Практические результаты исследования заключаются в следующем:
+     при разработке стратегии, направленной на предопределение и
+устранение внутренних факторов в обеспечении финансовой устойчивости
+банков, имеется возможность предопределить и спрогнозировать их
+негативное влияние путем управления внутренними факторами;
+     обоснована целесообразность проведения оценок на основе
+систематизации как внешних, так и внутренних факторов, которые наряду с
+финансовыми результатами влияют на финансовую устойчивость банков,
+приобретают нефинансовый характер;
+     обосновано использование банком финансовых инструментов и создание
+условий для финансовой устойчивости банка за счет повышения его роли в
+формировании процентных доходов при формировании нераспределенной
+прибыли;
+     обосновано, что отсутствие статистического влияния процентных
+доходов на рентабельность активов банка свидетельствует о том, что анализ
+необходим в банковской деятельности при размещении активов в различных
+секторах экономики;
+     предложено осуществить меры, направленные на недопущение перегрева
+девальвационной тенденции курса валют, с оценкой влияния
+макроэкономических показателей на доходность банка в стране.
+     Достоверность полученных результатов определяется использованием
+в процессе анализа результатов исследования показателей финансовой
+отчетности    Центрального     банка   Республики    Узбекистан,     АКБ
+«Узпромстройбанк», официальных данных Национального комитета
+Республики Узбекистан по статистике, определенных нормативных
+документов, отчетов соответствующих ведомств и организаций,
+целесообразностью и научной обоснованностью применяемых в работе
+подходов и методов, внедрением представленных заключений, предложений
+и рекомендаций в практику коммерческих банков Республики Узбекистан.
+    Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования объясняется тем, что они могут
+быть использованы в качестве научно-методической основы при проведении
+научно-исследовательских работ по разработке финансовой политики
+коммерческих банков в Узбекистане и ее дальнейшему развитию в
+деятельности по повышению доходности в обеспечении финансовой
+устойчивости.
+    Практическая значимость результатов исследования объясняется
+возможностью использования их в разработке путей и методов обеспечения
+финансовой устойчивости путем повышения доходности в деятельности
+коммерческих банков Республики Узбекистан, совершенствовании этой
+практики, в проведении самостоятельных научных исследований, разработке
+научного проекта, а также в разработке учебных программ в высших
+образовательных учреждениях по таким дисциплинам, как «Банковское дело»,
+«Банковский риск-менеджмент» и формировании их практической базы.
+    Внедрение результатов исследования. На основании полученных
+научных результатов по повышению доходности при обеспечении
+финансовой устойчивости коммерческих банков:
+    предложение по устойчивому росту процентных доходов банка,
+обеспечивающий дифференциацию кредитных процентных ставок на основе
+интеграции такого фактора, как микрарайон, где расположен банк, в процесс
+оценки кредитоспособности клиента в кредитной политики банка послужило
+обеспечению выполнения абзаца 4 Указа Президента Республики Узбекистан
+от 12 мая 2020 года № ПФ-5992 «О Стратегии реформирования банковской
+системы Республики Узбекистан на 2020-2025 годы» (справка АКБ
+“Узпромстройбанк” Узбекистана от 2 апреля 2025 года № 03-07/6728). В
+результате, доля процентов, полученных по кредитам в доходах банка, в 2024
+году увеличилась на 11 процентов по сравнению с предыдущим годом;
+    предложение по повышению финансовой рентабельности банков за счет
+включения на основе горизонтально-вертикальной интеграции немонетарных
+факторов в вертикальную систему формирования финансового менеджмента
+в банках послужило обеспечению выполнения пункта 40 Приложения 2 к
+Указу Президента Республики Узбекистан от 12 мая 2020 года № ПФ-5992 «О
+Стратегии реформирования банковской системы Республики Узбекистан на
+2020-2025 годы» (справка АКБ “Узпромстройбанк” Узбекистана от 2 апреля
+2025 года № 03-07/6728). В результате внедрения данного предложения в
+практику, благодаря повышению эффективности деятельности сотрудников в
+банке, доходность банка в 2024 году увеличилась в 1,6 раза по сравнению с
+предыдущим годом;
+    предложение по повышению доходности банков на финансовом рынке на
+основе учета того, что нераспределенная прибыль банка является фактором,
+положительно влияющим на формирование рентабельности капитала банка,
+послужило обеспечению выполнения абзаца 1 пункта 1 Указа Президента
+Республики Узбекистан от 12 мая 2020 года № ПФ-5992 «О Стратегии
+реформирования банковской системы Республики Узбекистан на 2020-2025
+34
+годы» (справка АКБ “Узпромстройбанк” Узбекистана от 2 апреля 2025 года №
+03-07/6728). В результате внедрения данного предложения в практику
+доходность деятельности банка на финансовом рынке в 2024 году увеличилась
+на 28 процентов по сравнению с предыдущим годом;
+     предложение по гармонизации повышения доходности банков с
+обеспечением финансовой устойчивости за счет цифровизации операционных
+расходов, учитывая, что роль беспроцентных доходов в рентабельности
+активов банка снижается, послужило обеспечению выполнения пункта 3
+раздела 3 Приложения 1 к Указу Президента Республики Узбекистан от 12 мая
+2020 года № ПФ-5992 «О Стратегии реформирования банковской системы
+Республики Узбекистан на 2020-2025 годы» (справка АКБ “Узпромстройбанк”
+Узбекистана от 2 апреля 2025 года № 03-07/6728). В результате внедрения
+цифровых технологий операционные расходы банка в 2024 году снизились на
+7,1 процентов по сравнению с предыдущим годом.
+     Апробация результатов исследования. Основные идеи и выводы
+диссертации обсуждались на 2 международных, 2 республиканских научно-
+практических конференциях.
+     Опубликованность       результатов     исследования.     Всего    по
+диссертационной работе опубликовано 7 научных работ, в том числе 1 в
+отечественном научном издании, рекомендованной Высшей аттестационной
+комиссией Республики Узбекистан, 2 научные статьи в престижных
+зарубежных журналах.
+     Структура и объем диссертации. Содержание диссертации состоит из
+введения, трех глав, восьми параграфов, заключения, списка использованной
+литературы. Объем основного текста диссертации составляет 129 страниц.
+
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+    Во Введении к диссертации обоснована актуальность и востребованность
+темы исследования, приведены сведения о степени изученности проблемы,
+цели и задачах, объекте и предмете исследования, научной новизне и
+практических    результатах,    достоверности,   внедрении     результатов
+исследования, структуре и объеме диссертации.
+    В первой главе диссертации «Теоретические основы обеспечения
+финансовой устойчивости коммерческих банков на основе повышения их
+доходности» рассмотрены теоретические основы и специфика банковских
+доходов в обеспечении финансовой устойчивости коммерческого банка, дана
+эконометрическая оценка устойчивой финансовой рентабельности как
+фактора обеспечения прибыльности банков, факторов, формирующих и
+влияющих на финансовую устойчивость коммерческого банка.
+    Следует отметить, что не разработан единый подход к оценке финансовой
+устойчивости банков, не производится расчет показателей финансовой
+устойчивости на основе единого подхода, что не позволяет сравнивать их с
+другими банковскими секторами.
+    На основе проведенных исследований мы постарались выработать
+следующие научные выводы:
+     Во-первых, необходимо определить внутренние факторы в обеспечении
+финансовой устойчивости банков и разработать стратегию, направленную на
+их устранение. Наличие возможности управлять внутренними факторами
+позволяет заранее определить их негативное влияние и спрогнозировать его.
+     Во-вторых, хотя нет возможности заранее определить внешние факторы,
+влияющие на финансовую устойчивость банков, можно попытаться
+предотвратить их негативное влияние. При этом необходимо будет добиться
+снижения чувствительности банка к внешним факторам.
+     В-третьих, ориентация на обеспечение финансовой устойчивости банков
+с помощью методов, рекомендованных международными организациями и
+агентствами и признанных относительно многими ведущими банками. При
+этом необходимо будет разработать направления финансовой стратегии банка
+с учетом характерных аспектов, связанных с реализацией денежно-кредитной
+политики Центрального банка.
+     На форуме в Ташкенте в марте 2024 года заместитель директора агентства
+Fitch Ratings Павел Каптель изложил свои выводы о процессах приватизации
+банков в нашей стране8. По его словам, в процессе приватизации
+государственных банков необходимо, чтобы они демонстрировали
+доходность, что приведет к ускорению приватизации, служа обеспечению их
+привлекательности.
+     Мы попытались проанализировать финансовую устойчивость банков с
+помощью анкетного метода оценки финансовой устойчивости с точки зрения
+персонала банка, наряду с качественными и количественными показателями.
+В августе 2024 года на основе опроса сотрудников региональных и районных
+центров банковских услуг АКБ “Узпромстройбанк” были собраны данные.
+Этот      опрос      был     размещен      по     электронному       адресу
+https://docs.google.com/forms/d/1PC90xiQJDhj6xjioYct-OnUdDtvXmtgBpVy_Brbb6Mk/edit
+на, в котором приняли участие 901 сотрудник банка.
+    Нами проанализирована степень влияния процентной ставки по
+банковскому кредиту на доходность банка в связи с другими подходами
+участников опроса к кредитной политике. При этом на основе данных модели,
+представленных в таблице 1, можно сформулировать некоторые научные
+выводы. Далее мы оценили влияние кредитных процентных ставок банка на
+доходность, исходя из подходов респондентов. В частности:
+    во-первых, можно наблюдать, что изменение возраста или уровня
+образования не меняет подхода к этому вопросу. Таким образом, можно
+проследить формирование неизменной ценности среди сотрудников банка. В
+целом, наблюдение системности во взаимоотношениях банковских
+работников становится неустойчивым;
+    во-вторых, можно проследить, как мужчины – банковские служащие
+оценивают процентную ставку по кредиту и финансовую жизнеспособность
+заемщика, выступая в качестве ключевого фактора влияния кредита на
+доходность банка. При этом мужчины – банковские служащие, в отличие от
+
+8
+  Каптел П. Ўзбекистон давлат банкларини хусусийлаштириш яна кечроққа қолдирилиши мумкин — Fitch.
+https://www.gazeta.uz/uz/2024/03/19/privatization/
+36
+женщин, считают, что процентная ставка по банковскому кредиту важна.
+Однако в банке, расположенном на окраине города, можно увидеть, что
+сотрудники банка – мужчины придерживаются общего подхода к этому
+вопросу, что является нестабильным и статистически значимым. Также стоит
+отметить, что оценка кредитоспособности заемщика важна в любом случае;
+    в-третьих, при оценке влияния процентной ставки по кредиту на
+доходность банка сотрудники банка делают вывод о том, что такие аспекты,
+как основания ее установления и фактор невозврата кредита, не имеют
+значения. Другими словами, по результатам ответов на эти вопросы мы не
+наблюдали, является ли влияние процентной ставки по кредиту на доходность
+статистически значимым.
+                                                                Таблица 1
+        Оценка факторов влияния процентной ставки по банковскому
+                       кредиту на доходность банка
+                                   Umumiy holati      Shahar markazi Shahar chekkasi
+                                 Coefficient P>t Coefficient P>t Coefficient P>t
+                                   F(6, 896)=9.58 F(6, 896)=7.50         F(6, 896)=3.53
+                                   Prob>F=0.0000 Prob>F=0.0000           Prob>F=0.0019
+Ваш возраст                     -.0111744     0.164 -.0068246   0.457 -.0260161     0.134
+Ваш пол                         .5848224      0.000 .6418505    0.000 .3651383      0.285
+Ваше образование                -.0416172     0.593 -.0381733   0.665 -.0708851     0.668
+Какой из следующих процентных
+ставок по кредиту лучше всего   .0901576    0.117 .1094273      0.086 -.0191766    0.891
+устанавливает Ваш банк?
+Насколько важен кредитный
+скоринг (KAMI) при проверке     .4734377    0.000 .4079019      0.000 .6951354     0.000
+кредитоспособности заемщика?
+Что из следующего является
+основной причиной невозврата    -.0137176   0.798 -.0204391     0.731 .0237649     0.848
+кредитов?
+/cut1                           .3754127           .5835814           -.5842361
+/cut2                           2.584171           2.750567           1.879179
+/cut3                           5.162689           5.309335           4.563697
+/cut4                           6.12139            6.422789           4.977078
+
+    На наш взгляд, и как отмечают сотрудники банка, оценка
+кредитоспособности заемщика является важнейшим фактором, влияющим на
+доходность банка. Следует отметить, что сотрудники – мужчины, работающие
+в офисе банка в целом и в центре города, рассматривают процентные ставки
+по кредитам как ключевой фактор, влияющий на доходность банка. Можно
+наблюдать, что другие факторы статистически не имеют своего устойчивого
+влияния.
+    Далее мы обратили внимание на формирование научных выводов на
+основе подходов банка к организации управления в отношении
+демографических и финансовых показателей персонала банка (см. таблицу 2).
+    Во-первых, мы наблюдали у респондентов, что положительная
+характеристика факторов, влияющих на финансовую устойчивость банка,
+заключается в «решении председателя», в то время как категория «решение
+руководителей республиканских управлений» определяется большинством
+участников как отрицательная характеристика (с вероятностью 10%).
+    Это может привести к тому, что в центральном управлении решение
+председателя банка будет интерпретироваться по-другому теми, кто его
+принимает.
+    Во-вторых, мы видим, что в некоторых случаях есть случаи, когда
+сотрудники банка подчеркивают, что решение председателя также носит
+негативный характер. Например, молодые сотрудники – те, кто считает
+важным проверить кредитоспособность заемщика, и предрасположенность к
+возрастающим случаям незнания точной структуры беспроцентного дохода,
+являются основанием считать решение председателя отрицательным. Следует
+также отметить, что в республике наблюдается тенденция к тому, что решения
+руководителей управлений оцениваются с положительной тенденцией –
+сотрудники мужского пола, те, кто считает важным проверить
+кредитоспособность и четко знать структуру процентного дохода, становятся
+более восприимчивыми.
+    В-третьих, следует отметить, что положительная оценка решения
+руководителей офиса областного банка ни в коем случае не является
+статистически значимой. Однако с 10-процентной вероятностью можно
+увидеть, что тенденция к увеличению числа случаев, когда те, кто считает
+важным проверить кредитоспособность заемщика и не знают точной
+структуры беспроцентного дохода, оценивают решение руководителя
+областного банка как негативное.
+    В-четвертых, следует отметить, что те, кто считает решение
+непосредственного руководителя банка положительным – пожилые люди (с
+вероятностью 5%), не имеющие высшего образования, те, кто считает, что
+процентная ставка по кредиту важна (с вероятностью 10%), и те, кто четко
+знает    структуру     процентного    дохода,   увеличиваются.     Показан
+содержательный подход, согласно которому решение управляющего банка
+приобретает негативный характер с вероятностью 5% со стороны пожилых
+людей. При этом можно заметить, что решение управляющего банка имеет
+более внушительное значение, чем решение руководителя области.
+                                                                Таблица 2
+       Оценка влияния управления банком на финансовую политику
+                                   банка
+                                                      Положитель Отрицательное
+Влияние показателя
+                                                      ное влияние      влияние
+                                                     F(21,881)=2.62 F(21, 881)=1.55
+Статистическая значимость
+                                                     Prob>F=0.0001 Prob>F=0.0552
+Показатели                                           Coeff. P>t Coeff. P>t
+
+
+
+38
+Решение предеседателя (положительное) / Решение
+руководителя          республиканского          управления (base outcome)
+(отрицательное)
+    Решение руководителя республиканского управления (положительное) / Решение
+                             предеседателя (отрицательное)
+Ваш возраст                                                 -.013 0.327 -.021 0.068
+Ваш пол                                                      .559 0.011 .237 0.218
+Ваше образование                                            -.008 0.943 -.130 0.231
+Степень влияния процентной ставки по банковскому кредиту на
+                                                             .224 0.090 -.064 0.573
+доходность банка …
+Кредитный скоринг (KAMI) при проверке кредитоспособности
+                                                             .201 0.078 .226 0.056
+заемщика…?
+Самый большой процентный доход в структуре процентного
+                                                             .236 0.001 -.094 0.181
+дохода вашего банка …?
+Самая большая доля в структуре беспроцентного дохода вашего
+                                                            -.083 0.255 -.109 0.108
+банка … ?
+_cons                                                       -2.52 0.000 .659 0.267
+                     Решение руководителя областного управления
+Ваш возраст                                                 -.032 0.280    .007   0.600
+Ваш пол                                                     -.056 0.918    .199   0.328
+Ваше образование                                            -.202 0.448   -.127   0.282
+Степень влияния процентной ставки по банковскому кредиту
+                                                             .263 0.410   -.093   0.433
+на доходность банка …
+Кредитный скоринг (KAMI) при проверке кредитоспособности
+                                                            -.480 0.131   .230    0.068
+заемщика…?
+Самый большой процентный доход в структуре процентного
+                                                            -.086 0.667   -.051   0.469
+дохода вашего банка …?
+Самая большая доля в структуре беспроцентного дохода вашего
+                                                            -.083 0.675   -.123   0.086
+банка … ?
+_cons                                                       -.659 0.653   -.539   0.413
+                          Решение управляющего Вашего бапка
+Ваш возраст                                                 .0211 0.053    .029   0.038
+Ваш пол                                                     -.080 0.638    .030   0.894
+Ваше образование                                            -.173 0.083   -.121   0.330
+Степень влияния процентной ставки по банковскому кредиту
+                                                             .175 0.069   .047    0.725
+на доходность банка …
+Кредитный скоринг (KAMI) при проверке кредитоспособности
+                                                            -.139 0.217   .202    0.170
+заемщика…?
+Самый большой процентный доход в структуре процентного
+                                                             .191 0.002   -.133   0.123
+дохода вашего банка …?
+Самая большая доля в структуре беспроцентного дохода вашего
+                                                            -.015 0.795   -.088   0.256
+банка … ?
+_cons                                                       -1.14 0.044   -1.68   0.022
+    В целом, можно видеть, что решения председателя правления банка и
+управляющего банка имеют большую статистическую значимость с точки
+зрения положительного влияния на финансовую устойчивость банка.
+Напротив, респонденты отмечают, что случаи негативного воздействия
+формируются под влиянием решений руководителей республиканских
+управлений и руководителей областей.
+    На наш взгляд, считается целесообразным дальнейшее проведение
+семинарских тренингов, направленных на разъяснение решений председателя
+правления банка в обеспечении финансовой устойчивости банка. При этом мы
+считаем важным совместить запоминание и интерпретацию руководителями
+управлений центрального аппарата и руководителями территориальных
+банковских офисов.
+    Мы считаем, что в данной ситуации появятся возможности для
+дальнейшего совершенствования немонетарных факторов, направленных на
+обеспечение финансовой устойчивости банка. В результате могут
+наблюдаться положительные сдвиги в обеспечении финансовой устойчивости
+банка.
+    Во второй главе диссертационной работы «Анализ тенденций
+обеспечения финансовой устойчивости коммерческих банков на основе
+увеличения их доходов» изложены аналитические части диссертации. В
+данном анализе исследованы анализ показателей баланса банка в обеспечении
+финансовой устойчивости коммерческих банков, оценка факторов, влияющих
+на рентабельность капитала в обеспечении финансовой устойчивости
+коммерческих банков, факторы, влияющие на рентабельность активов в
+обеспечении финансовой устойчивости коммерческих банков.
+    Мы попытались оценить влияние процентного и беспроцентного дохода
+при проведении наших исследований. В нем мы предусмотрели проведение
+нашего анализа на основе данных АКБ «Узпромстройбанк» за 2017-2024 годы.
+Можно посмотреть иллюстрированную статистику ежемесячных показателей
+АКБ «Узпромстройбанк» за 2017-2024 годы. В нем систематизированы
+факторы, которые могут повлиять на показатель рентабельности капитала
+банка. Нами определено и оценено взаимодействие факторов баланса и
+доходов банка на этот показатель.
+    Сначала мы проверили по стационарному тесту рентабельности капитала
+банка. При этом мы применили тест Дикки-Фуллера и получили результат,
+приведенный в таблице 3 ниже.
+    Подводя итог по данным таблицы 3, следует отметить, что
+рентабельность капитала банка является стационарной. Это отражает тот факт,
+что этот показатель может быть полностью использован в наших
+структурированных моделях.
+    Далее мы построили прямолинейную функцию регрессии методом малых
+квадратов на основе выбранных показателей АКБ «Узпромстройбанк». В
+результате наша первоначальная модель объясняет рентабельность капитала
+банка на уровне 49,54 процента. Следует отметить, что причиной неполного
+приведения      данной      модели      является     высокая      взаимная
+40
+мультиколлениальность включенных в модель показателей. Поэтому мы
+исключили из модели некоторые показатели, чтобы пересмотреть эту модель.
+Следует отметить, что в таких показателях, как: проценты по кредитным и
+лизинговым операциям, дисконты (скидки) и взносы (х 11), совокупный
+процентный доход (х7), процентный доход по счетам в других банках (х9),
+процентный доход по ценным бумагам и инвестициям в них (х 10) и проценты,
+полученные за оказанные услуги и посредничество, доходность (x13),
+мультиколлективность высока.
+                                                                  Таблица 3
+                          Dickey-Fuller test for unit root
+Interpolated Dickey-Fuller              Number of obs =92
+     Test Statistic 1%Critical Value 5% Critical Value 10%Critical Value
+Z(t) 4.748          -3.521              -2.896             -2.583
+MacKinnon approximate p-value for Z(t) = 0.0001
+
+    Исходя из этого, мы включили факторы, составляющие показатели
+баланса, в качестве структурных переменных нашей следующей модели. В
+результате мы получили модель, представленную в таблице 4 ниже. Более
+четко мы можем увидеть картину из нижеприведенной формулы 1.
+
+       𝑌 (𝑅𝑂𝐸) = −0,830𝑒 −10 𝑥3 − 0,378𝑒 −9 𝑥4 − 5,61𝑒 −8 𝑥5 + 9,49𝑒 −9 𝑥6 + 8,0495 (1)
+
+     В модели, основанной на таблице 4, представленной формулой 1, можно
+увидеть факторы, влияющие на рентабельность капитала банка. Согласно этой
+модели удалось сформулировать следующие научные выводы.
+     Во-первых, следует отметить, что в балансовых показателях
+рентабельности капитала АКБ «Узпромстройбанк» за 2017-2024 годы
+отрицательно отражаются обязательства клиентов по средствам, ценным
+бумагам и инвестициям в них и финансовым инструментам, полученным от
+других банков и финансовых организаций. Однако следует также отметить,
+что их влияние остается очень небольшим.
+     Во-вторых, следует отметить, что влияние нераспределенной прибыли
+является положительным, и он также оказывает незначительное влияние.
+     На наш взгляд, среди факторов, влияющих на формирование
+рентабельности капитала банка, следует отметить, что нераспределенная
+прибыль приобретает положительный характер. Как видно, насколько выше
+этот показатель, настолько увеличивается доходность. Однако мы наблюдаем,
+что денежные средства, которые должны быть получены от других
+финансовых институтов, деятельность на финансовом рынке и деятельность
+по финансовым инструментам имеют негативное, но очень незначительное
+влияние.
+     Следует отметить, что влияние финансовых результатов банка на
+рентабельность капитала сильно статистически значимо, поскольку p-
+value=0,0007. В частности, следует отметить, что модель, представленная в
+таблице 5, может объяснить рентабельность капитала только на 36 процентов.
+                                                                Таблица 4
+    Модель анализа влияния показателей баланса на рентабельность
+                   капитала АКБ «Узпромстройбанк»
+                                                         Number of obs           =   93
+Source         SS                df   MS
+                                                         F(6, 86)                =   9.81
+Model          700.362684        6 116.727114            Prob > F                =   0.0000
+Residual       1473.92337        86 17.1386439           R-squared               =   0.3221
+Total          2174.28606        92 23.6335441           Adj R-squared           =   0.2748
+                                                         Root MSE                =   4.1399
+
+
+                                                                         [95%
+         Переменные модели             Coef.        Std. Err. t     P>t            Interval]
+                                                                         Conf.
+Наличные деньги в кассе и другие                                         -2.93 e –
+                                  2.13 e-09         2.55 e-09 0.84 0.404           7.19 e-09
+платежные документы (x1).                                                09
+Средства банка в Центральном                        8.57 E-              -9.40 e-
+                                  E-10                        0.89 0.376           2.47 e-09
+банке (x2)                                          10                   10
+Средства, которые должны быть
+получены от другх банков и                                                  -1.56 e-
+                                  -8.30 e-10        3.68 e-10 -2.25 0.027            -9,72 e-11
+финансовых организаций, чистые                                              09
+(х3).
+Ценные бумаги и инвестиции в них,                                           -6.14 e-
+                                  -3,78 e-09        1,19 e-09 -3.19 0.002            -1.42 e-09
+чистые (x4)                                                                 09
+Обязательства    клиентов     по
+                                                                            -9.66 E-
+финансовым инструментам, чистые -5.61 e-08          2.04 e-08 -2.76 0.007            -1,56 E-08
+                                                                            08
+(x5)
+Нераспределенная прибыль (x6)                       2,07 E-             5.38 e- 1.36 e-
+                                  9,49 E-09                  4.59 0.000
+                                                    09                  09       08_cons
+_cons                                  8.04954      1.370277 5.87 0.000 5.325519 10.77356
+
+    В нашем исследовании мы попытались более точно объяснить выражение
+модели, построенное в таблице 5, состоянием, приведенным в формуле 2.
+
+         𝑌 (𝑅𝑂𝐸) = −3,52𝑒 −8 𝑥8 − 1,15𝑒 −7 𝑥9 + 8,83𝑒 −8 𝑥10 + 3,39𝑒 −8 𝑥13 − 3,05𝑒 −7 𝑥15 +
+                                       13,7182 (2)
+    В модели, основанной на таблице 5, представленной формулой 2, можно
+увидеть факторы, влияющие на рентабельность капитала банка. По
+результатам данной модели удалось сформулировать следующие научные
+выводы.
+    Во-первых, негативное влияние оказывают некоторые факторы
+показателей отчета о финансовых результатах АКБ «Узпромстройбанк» за
+2017-2024 годы. Процентный доход по счетам в Центральном банке,
+процентный доход по счетам в других банках, а также прибыль от инвестиций
+
+42
+и дивиденды оказывают очень незначительное, но отрицательное влияние на
+рентабельность капитала банка.
+    Во-вторых, можно наблюдать, что процентные доходы по ценным
+бумагам и вложениям в них и доходы, полученные за оказанные услуги и
+посредничество, оказывают положительное, но незначительное влияние на
+рентабельность капитала банка. Это говорит о том, что финансовый интерес,
+исходящий от ценных бумаг, оказывает положительное влияние, а также о
+том, что банк формирует положительные тенденции в операционной
+деятельности.
+                                                               Таблица 5
+  Модель анализа влияния финансовых результатов на рентабельность
+                   капитала АКБ «Узпромстройбанк»
+                                                      Number of obs         =    57
+Source       SS                df     MS
+                                                      F(6, 50)              =    4.70
+Model        486.740691        6 81.1234485           Prob > F              =    0.0007
+Residual     862.689089        50 17.2537818          R-squared             =    0.3607
+Total        1349.42978        56 24.0969604          Adj R-squared         =    0.2840
+                                                      Root MSE              =    4.1538
+
+
+                                               Std.                    [95%
+    Переменные модели               Coef.                 t     P>t               Interval]
+                                               Err.                    Conf.
+Процентный доход по счетам в                                         -6.24 e-
+                                 -3,52 e-07    1,36 e-07 -2.59 0.013          -7.89 e-08
+Центральном банке (x8)                                               07
+Процентный доход по счетам в                                         -2.10 e-
+                                 -1.15 e-07    4.72 e-08 -2.43 0.019          -2.00 e-
+других банках (x9)                                                   07
+Процентный доход по ценным
+                                                                       -1.37 e-
+бумагам и инвестициям в них 8,83 e-08          5,08 e-08 1.74 0.088             1.90 e-07
+                                                                       08
+(х10)
+Доходы,      полученные       за
+                                                                       1.55 e-
+оказанные        услуги        и 3.39 e-08     9.18 e-09 3.69 0.001               5.23 e-08
+                                                                       08
+посредничество (x13)
+Прибыль в иностранной валюте                   3.70 E-               -3.01 E-
+                                 4.42 E-09                1.20 0.238          1.18 E-08
+(х14)                                          09                    09
+Инвестиционная прибыль и                                             -5.90 e- -1.95 e-
+                                 -3.05 e-07    1.42 e-07 -2.15 0.037
+дивиденды от инвестиций (х15)                                        07       08_cons
+_cons                               13.71821   1.248538 10.99 0.000 11.21045 16.22598
+
+
+    В-третьих, доход, получаемый банком от операций с иностранной
+валютой, не оказывает положительного влияния на рентабельность капитала.
+    Подводя итог в целом, можно сказать, что влияние финансовых
+результатов на формирование рентабельности капитала банка приобретает все
+большее значение. Также существенное влияние оказывают денежные
+средства, ориентированные на ценные бумаги, по сравнению с доходами,
+формируемыми за ними.
+    Мы считаем, что в ходе реформ, направленных на повышение
+рентабельности капитала банка, необходимо будет обратить внимание на
+следующие аспекты с точки зрения факторов, влияющих (и не влияющих) на
+него:
+    во-первых, проведение систематического анализа с целью повышения
+эффективности вложений банка в ценные бумаги;
+    во-вторых, повышение стабильности доходов от деятельности на
+финансовом рынке наряду с операционной деятельностью в рентабельности
+собственного капитала. В частности, целесообразно повысить эффективность
+операций с иностранной валютой.
+    В целом, чрезмерные инвестиции в ценные бумаги и увеличение
+финансовых обязательств могут негативно повлиять на рентабельность
+инвестиций.
+                                                              Таблица 6
+                               Dickey-Fuller test for unit root
+Interpolated Dickey-Fuller                   Number of obs =92
+      Test Statistic   1%Critical Value      5% Critical Value      10%Critical Value
+Z(t) -3.449         -3.521                   -2.896                 -2.583
+MacKinnon approximate p-value for Z(t) = 0.0094
+
+     Далее мы провели стационарный тест (Дики-Фуллера) рентабельности
+активов банка. В результате мы получили состояние, представленное в
+таблице 6. По таблице видно, что рентабельность активов банка является
+стационарной. Это говорит о том, что данный показатель можно использовать
+в полной мере при построении нашей модели.
+     Мы использовали lasso linear regression для отбора этих факторов на
+основе количества выбранных нами показателей. Таким образом, мы думаем,
+что статистически можно сформулировать модель, которая представляет
+собой одновременное влияние всех показателей.
+                                                               Таблица 7
+Lasso linear model                   No. of obs              = 57
+                                     No. of covariates       = 15
+Selection: Cross-validation          No. of CV folds         = 10
+
+
+                                   No.        Out of-sample R-      CV mean prediction
+        Description     lambda
+                                 nonzero          squared                 error
+1   first lambda    .4251014        0             -0.0229               .5612665
+20 lambda before .0725798           4              0.2595               .4062976
+*21 selected lambda .066132         4              0.2604               .4058086
+22 lambda after      .060257        4              0.2580               .4071181
+24 last lambda      .0500264        4              0.2486               .4122779
+
+
+
+
+44
+    Реализуя lasso linear regression, мы добиваемся однозначного определения
+проверки включения в модель всех одновременно отобранных нами
+показателей. В результате мы можем увидеть модель, представленную на
+основе данных таблицы 7. При этом следует отметить, что выбрано 4
+показателя.
+    Нужно сказать, что к ним относятся такие показатели, как: средства банка
+в Центральном банке (x2), ценные бумаги и инвестиции в них, чистый (х 4),
+процентный доход по счетам в Центральном банке (x8), прибыль и дивиденды
+от инвестиций (х15). Используя эти показатели, построим модель
+прямолинейной регрессии, основанную на методе малых квадратов, и в
+результате сумеем построить модель, представленную в таблице 8.
+    В соответствии с ним следует отметить статистическую значимость
+построенной модели.
+
+                                                            Таблица 8
+           Модель выбранных показателей, влияющих на рентабельность
+                     активов АКБ «Узпромстройбанк»
+                                                                     Number of obs            =    68
+Source           SS                df     MS
+                                                                     F(6, 86)                 =    5.59
+Model            11.3312777        4 2.83281943                      Prob > F                 =    0.0006
+Residual         31.9448942        63 .507061813                     R-squared                =    0.2618
+Total            43.2761719        67 .645913014                     Adj R-squared            =    0.2150
+                                                                     Root MSE                 =    .71208
+
+                                                                                     [95%
+    Переменные модели             Coef.             Std. Err.        t         P>t                Interval]
+                                                                                     Conf.
+Денежные средства банка в в
+                            6,57 E-10               1,48 E-10        4.45      0.000 3.61 E-10    9.52 E-10
+Центральном банке (х2)
+Ценные       бумаги       и
+инвестиции в них, чистые 3.03 e-12                  9.58 e-11        0.03      0.975 -1.88 e-10 1.94 e-10
+(х4)
+Процентный доход по счетам
+                            -9,07 e-09              1,49 e-08        -0.61 0.544 -3.88 e-08 2.06 e-08
+в Центральном банке (х8)
+Прибыль и дивиденды от                                                                            1.49 e-
+                            -1.78 e-08              1.64 e-08        -1.09 0.281 -5.05 e-08
+инвестиций (х15)                                                                                  08_cons
+_cons                       6.57 e-10               1.48е-10         4.45      0.000 3.61 e-10    9.52 e-10
+
+Akaike's information Criterion and Bayesian information Criterion
+Model        N        ll(null)          ll(Model)               DF       AIC            BIC
+.            68       -81.12303         -70.80098               3        147.602        154.2605
+
+    На наш взгляд, модель, представленная в таблице 8, имеет умеренную
+статистическую значимость. Причина в том, что показатели AIC и BIC
+выражаются средними коэффициентами. Кроме того, влияние показателей,
+отличных от денежных средств банка в Центральном банке (х2), на
+коэффициент статистической значимости (p-value) остается высоким. С этой
+точки зрения, данная модель также не выразила существенного значения.
+Поэтому при выполнении нашего анализа мы продолжили наши
+эконометрические оценки, сгруппировав отдельно показатели, относящиеся к
+балансу и финансовым результатам.
+    По нашему мнению, статистическую значимость в устойчивости
+рентабельности активов банка приобретают такие факторы, как наличные
+деньги в кассе и другие платежные документы (х1) и денежные средства банка
+в Центральном банке (х2). Следует отметить, что на влияние этих показателей
+влияет высокая статистическая значимость. В связи с этим стоит отметить, что
+эти факторы играют важную роль в обеспечении рентабельности активов
+банка.
+    Мы считаем, что при обеспечении рентабельности активов банка средства
+банка в Центральном банке оказывают прямо пропорционально более высокий
+статистически значимое влияние. Это свидетельствует о том, что активы
+банка, как правило, хранятся в Центральном банке, а не в различных секторах
+экономики. Наличные деньги в кассе также являются одним из важных
+факторов при оценке рентабельности активов. В частности, определяющая
+статистическая значимость этого фактора выражает необходимость
+диверсификации активов банка.
+
+                                                            Таблица 9
+           Модель показателей финансового результата, влияющих на
+             рентабельность активов АКБ «Узпромстройбанк»
+                                                        Number of obs             = 68
+Source       SS                df   MS
+                                                        F(6, 61)                  = 8.99
+Model        20.3055439        6    3.38425732          Prob > F                  = 0.0000
+Residual     22.970628         61 .376567672            R-squared                 = 0.4692
+Total        43.2761719        67 .645913014            Adj R-squared             = 0.4170
+                                                        Root MSE                  = .61365
+
+
+                                                                          [95%
+     Переменные моедли     Coef.            Std. Err.      t        P>t              Interval]
+                                                                          Conf.
+Процентный доход по
+счетам в Центральном          -3,85 e-08     1,47 e-08 -2.62 0.011 -6.80 e-08 -9.09 e-09
+банке (х8)
+Процентный доход по
+счетам в других банках        -1.74 e-08     2.57 e-09 -6.77 0.000 -2.25 e-08         -1.23 e-
+(х9)
+Проценты,       дисконты
+(скидки) и взносы по
+                               2.40 e-09     4.22 E-10         5.69 0.000 1.56 e-09 3,24 e-09
+кредитным и лизинговым
+операциям и др. (х11)
+
+46
+Всего     безпроцентных
+                            -6,31 E-10   3,44 E-10 -1.83 0.072 -1.32 e-09 5.70e-11
+доходов (х12)
+Доходы, полученные за
+оказанные     услуги  и     -7,40 e-09   1,98 e-09 -3.74 0.000 -1.14 E-08 -3,44 E-09
+посредничество (x13)
+Инвестиционная прибыль
+                                                                            5.60 e-
+и дивиденды от              -3,51 E-08   2,04 E-08 -1.72 0.090 -7.58 e-08
+                                                                           09_cons
+инвестиций (х15)
+_cons                   1.781324.2159975 .2159975 8.25 0.000 1.34941 2.213238
+
+     В связи с этим мы считаем целесообразным предусмотреть проведение
+оценки рентабельности активов банка на основе показателей отчетности о
+финансовых результатах. Это подразумевает использование модели lasso
+linear regression в выборке этих факторов. В исследовании мы уделили
+внимание выявлению и оценке влияния изменений показателей от фактора х 7
+до фактора х15 на рентабельность активов банка.
+     На рентабельность активов банка с помощью модели lasso linear regression
+оказывают влияние все показатели модели, построенные на основе таблицы 9,
+с высокой/средней статистической значимостью. Эта модель показывает, что
+рентабельность активов (R-squared) может выражаться в 46,92%.
+Среднеквадратичная ошибка остатков также мала (Root MSE = 0,61365), что
+отражает приемлемость этой модели.
+     Исходя из этого, можно сформулировать следующие научные выводы.
+     Во-первых, процентные доходы по счетам в Центральном банке и
+процентные доходы по счетам в других банках негативно влияют на
+рентабельность активов банка, но в очень небольшой степени со
+статистически высокой значимостью. Это говорит о том, что их рост не
+увеличивает рентабельность активов.
+     Во-вторых, на проценты, дисконты (скидки) и взносы по кредитным и
+лизинговым операциям сказывается положительная и очень высокая
+статистическая значимость. Его увеличение повышает рентабельность
+активов.
+     В-третьих, совокупные беспроцентные доходы в банковской
+деятельности негативно и слабо влияют на рентабельность активов банка.
+Кроме того, изменение его стоимости на единицу приводит к незначительному
+увеличению рентабельности активов.
+     В-четвертых, доходы, полученные за оказанные услуги и посредничество,
+а также прибыль и дивиденды от инвестиций обратно пропорционально
+влияют на рентабельность активов. Кроме того, их увеличение на единицу
+приводит к незначительному снижению рентабельности активов.
+     Мы считаем, что тот факт, что процентные доходы не оказывают
+статистического влияния на рентабельность активов банка, свидетельствует о
+том, что анализ необходим при размещении активов в различных секторах
+экономики в банковской сфере. Поэтому мы считаем необходимым повысить
+роль процентного дохода в размещении активов банка и усовершенствовать
+систему принятия эффективных финансовых решений в отношении него.
+     В третьей главе диссертационной работы «Пути обеспечения
+финансовой устойчивости коммерческих банков на основе повышения их
+доходности» сформулированы научные выводы и предложения о передовом
+опыте обеспечения финансовой устойчивости коммерческих банков за счет
+повышения их доходности и пути обеспечения финансовой устойчивости
+коммерческих банков на основе повышения их доходности.
+     Мы считаем целесообразным внедрение в практику программных
+модулей Process Mining и Task Mining, широко поддерживаемых опытом
+мировых коммерческих банков, с целью обеспечения роста показателей
+финансовой эффективности деятельности банков, повышения качества и
+оперативности обслуживания клиентов, внедрения автоматизированных и
+инновационных программных модулей.
+      Цель применения данного модуля – помочь автоматизировать и
+упростить управление процессами, связанными с кредитно-платежными
+системами. Мы считаем, что его преимущества заключаются в следующем.
+     позволяет анализировать процессы финансовых отношений в реальном
+времени;
+     позволяет полностью цифровизировать процессы;
+     выявляет неправильные обстоятельства в процессе и вносит предложения
+по их устранению;
+     служит для экономии времени и средств.
+      На наш взгляд, в результате внедрения в банковскую практику модуля
+Process Mining удастся добиться ряда положительных результатов. Поэтому
+мы считаем, что использование модуля Process Mining при осуществлении
+банковских услуг будет способствовать повышению эффективности в таких
+направлениях, как кредитование, привлечение вкладов, предоставление услуг
+онлайн-банкинга.
+     В нем важно учитывать следующие аспекты:
+     во-первых, наряду со сбором информации при оказании финансовых
+услуг необходима их систематизация по группам;
+     во-вторых, сосредоточиться на анализе стадий протекания процессов и их
+систематизации;
+     в-третьих, при анализе больших баз данных целесообразно также
+оптимизировать процессы их возникновения.
+     При внедрении данного модуля важно обеспечить автоматизацию на
+основе определения простых и повторяющихся процессов. Это служит для
+обеспечения успешной реализации процессов Process Mining. Особое значение
+в этом имеет Task Mining. Этот модуль служит для цифровизации операций в
+простом и повторяющемся свойстве при оптимизации процессов.
+     В целом, на рынке банковских услуг важно применение цифровых
+технологий, направленных на повышение конкурентоспособности и
+сокращение затрат при обеспечении доходности банков. Поэтому необходимо
+подчеркнуть, что актуальность приобретает автоматизация задач, не
+требующих сознательного труда и способностей, приобретающая характер
+
+48
+повторяемости и простоты. Это говорит о том, что цифровизация задач,
+которая приобретает стандартный характер в распределении задач банков,
+является современным фактором.
+     Мы считаем целесообразным при внедрении данного модуля следовать
+следующим этапам:
+     во-первых, зафиксировать практики, применяемые на компьютере;
+     во-вторых, установить практику, направленную на анонимизацию
+личных данных, которые собираются в процессе, и обеспечение их
+безопасности;
+     в-третьих, определить повторяющиеся и трудоемкие практики и
+предпринять шаги, направленные на их разделение на классы;
+     в-четвертых, разработать алгоритмы автоматизации, направленные на
+визуализацию задач.
+     Мы считаем, что важно достичь практики, направленной на сокращение
+затрат, связанных с обслуживанием клиентов, путем внедрения модуля Task
+Mining. Поэтому при внедрении модуля Task Mining особое значение
+приобретает систематизация задач стандартным и нестандартным свойством.
+     Исходя из этой точки зрения, можно отметить следующие преимущества
+модуля Task Mining. Во-первых, он служит для экономии времени и
+уменьшения ошибок при одновременном повышении финансовой
+эффективности. Во-вторых, это делает повторяющиеся задачи более
+удобными и снижает эксплуатационные расходы. В-третьих, это подготовит
+почву для дальнейшего обогащения базы данных для улучшения задач.
+     Task Mining состоит в обработке документов, стандартизации цифровых
+процессов, сокращении объема и времени повторяющейся деятельности в
+сфере финансовых услуг, ускорении предоставления банковских услуг,
+анализе платежных процессов и сокращении затрат на человеческий труд.
+     Мы считаем, что совместное внедрение модулей Process Mining и Task
+Mining в банковское дело существенно повлияет на сокращение затрат. Это, в
+свою очередь, способствует повышению уровня доходности банка. Также
+стоит отметить, что особое значение приобретает совместная работа этих двух
+модулей в интеграционной структуре. Однако взаимные различия и сходства
+этих двух модулей можно проследить в таблице 10 ниже.
+     Мы считаем, что за счет автоматизации как процессов, так и задач
+одновременно можно добиться сокращения текущих расходов банка и
+повышения прибыльности.
+                                                       Таблица 10
+    Сопоставительная матрица взаимных свойств модулей Mining
+ Характеристика     Task Mining              Process Mining
+
+Круг отслеживания   Анализ мелких задач     Анализ крупных бизнес-процессов
+Источник            Этап     действий     и Этапы процессов
+информации          экранные заметки
+Цель применения     Экономия времени      и Анализ эффективности процесса
+                    автоматизация задач
+
+     В целях повышения эффективности бизнес-процессов в банковской
+системе и обеспечения стабильности банковской деятельности за счет
+внедрения в практику оптимизированных бизнес-процессов целесообразно
+применять методы Lean Management и Six Sigma.
+     При этом считается важным, чтобы филиалы территориального банка
+вступали в прямые отношения с головным банком в целях повышения
+эффективности его деятельности. Это косвенно не создает необходимости для
+банковских организаций. Поэтому целесообразно пересмотреть деятельность
+территориальных органов.
+     Система Lean Management подразумевает сокращение избыточных
+усилий и расхода ресурсов. Из этого следует, что целью является выявление
+субъектов и процессов, которые не создают добавленную стоимость и имеют
+низкую доходность в цепочке создания стоимости. Применяя данный принцип
+управления, мы считаем, что в банковской деятельности можно добиться
+экономии.
+     Во-первых, экономятся ресурсы. При этом сокращается чрезмерное
+использование основных средств банка и строительных конструкций. Затраты,
+связанные с их обслуживанием и использованием, сокращаются.
+     Во-вторых, экономится время. Это приводит к сокращению времени
+ожидания и выполнения определенных задач в процессах, связанных с
+обслуживанием клиентов.
+     В-третьих, достигается устранение избыточных процессов. Это позволяет
+избежать чрезмерных затрат ресурсов и энергии на процессы.
+     На наш взгляд, применение данного метода управления в банковской
+деятельности позволит избежать перерасхода финансовых и нематериальных
+ресурсов. В результате укрепляются основы обеспечения финансовой
+устойчивости банка.
+     На наш взгляд, метод Lean Management важен при разработке
+направлений финансовой экономии за счет сокращения ресурсов и
+избыточной деятельности в банках.
+     Как логическое продолжение данного метода управления, Six Sigma
+также приобретает свою специфику. Данный метод отражает статистический
+контроль качества. При этом мы считаем, что его сущность может быть более
+четко объяснена в форме пяти М (5М) на узбекском языке.
+     М – Muammoni aniqlash (выявление проблемы). Это будет заключаться в
+выявлении проблемы в системе обслуживания клиентов и ее оценке.
+50
+     М – Mezon koʻrsatkichlari (критериальные показатели). При этом
+выявляются проблемы и определяются способы ее оценки.
+     М – Metodologiya (методология). Систематизация факторов, вызвавших
+возникновение проблемы, и разработка метода ее анализа.
+     М – Modifikasiya (модификация). Внедрение новых функций и решений
+на основе анализа проблемы.
+     М – Monitoring (мониторинг). Система контроля за реализованными
+процессами и внедренными особенностями.
+     Мы считаем, что применение этих методов в управлении банком и
+осуществление деятельности, основанной на принципе 5M, позволит избежать
+перерасхода средств. В результате появляется возможность повысить уровень
+доходности банка.
+
+                            ЗАКЛЮЧЕНИЕ
+
+    В ходе нашего диссертационного исследования нам удалось выработать
+следующие научные выводы и предложения:
+    10. При     оценке    кредитоспособности    заемщика    предлагается
+проанализировать, являются ли процентные ставки по кредиту важным
+фактором, влияющим на доходность банка, с учетом микрорегиона, в котором
+находится банк.
+    11. В основе вертикального формирования финансового менеджмента в
+банках лежит повышение финансовой рентабельности банков за счет
+объяснения     немонетарных     факторов    горизонтально-вертикальными
+элементами.
+    12. Предложено повысить доходность банков на финансовом рынке на
+основе учета того, что нераспределенная прибыль банка является фактором,
+положительно влияющим на формирование рентабельности капитала банка.
+    13. Учитывая, что роль беспроцентных доходов в рентабельности
+активов банка снижается, предложено совместить повышение доходности
+банков с обеспечением финансовой устойчивости за счет цифровизации
+операционных расходов.
+    14. При разработке стратегии, направленной на предопределение и
+устранение внутренних факторов в обеспечении финансовой устойчивости
+банков, есть возможность предопределить и спрогнозировать их негативное
+влияние путем управления внутренними факторами.
+    15. Обоснована целесообразность проведения оценок на основе
+систематизации как внешних, так и внутренних факторов, которые наряду с
+финансовыми результатами влияют на финансовую устойчивость банков,
+приобретают нефинансовый характер.
+    16. В основе формирования нераспределенной прибыли лежит
+использование банком финансовых инструментов и создание условий для
+финансовой устойчивости банка за счет повышения его роли в формировании
+процентных доходов.
+    17. Обосновано, что отсутствие статистического влияния процентных
+доходов на рентабельность активов банка свидетельствует о том, что анализ
+необходим в банковской деятельности при размещении активов в различных
+секторах экономики.
+    18. Предложено осуществить меры, направленные на недопущение
+перегрева девальвационной тенденции курса валют путем оценки влияния
+макроэкономических показателей на доходность банка в стране.
+
+
+
+
+52
+       SCIENTIFIC COUNCIL AWARDING OF THE
+   SCIENTIFIC DEGREES №DSc. 22/29.12.2023.I.175.01 AT
+       TASHKENT INTERNATIONAL UNIVERSITY
+    TASHKENT STATE UNIVERSITY OF ECONOMICS
+
+
+
+
+           UMAROV DAVRON SHAVKATOVICH
+
+
+
+
+WAYS TO ENSURE FINANCIAL STABILITY OF COMMERCIAL
+        BANKS BY INCREASING THEIR PROFITS
+
+
+
+
+            08.00.07 – Finance, money circulation and credit
+
+
+
+
+                               ABSTRACT
+     of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                       Tashkent city – 2025 year
+54
+  INTRODUCTION (Dissertation Abstract for Doctor of Philosophy (PhD))
+
+      The aim of the research is to develop scientific proposals and practical
+recommendations aimed at increasing profitability in ensuring the financial stability
+of banks in Uzbekistan.
+      Tasks of the research work are:
+      Theoretical foundations and specific characteristics of bank revenues in
+ensuring the financial stability of commercial banks;
+      Sustainable financial profitability as a factor in ensuring the profitability of
+banks;
+      Econometric assessment of factors forming and influencing the financial
+stability of commercial banks;
+      Analysis of bank balance sheet indicators in ensuring financial stability in
+commercial banks;
+      Assessment of factors affecting capital profitability in ensuring the financial
+stability of commercial banks;
+      Assessment of factors affecting asset profitability in ensuring the financial
+stability of commercial banks;
+      Advanced practices in ensuring financial stability through increasing the
+profitability of commercial banks;
+      Priority directions for ensuring financial stability through increasing the
+profitability of commercial banks.
+      The object of the study is the financial indicators of JSC Sanoatqurilishbank.
+      The subject of the study is the economic relations that arise in the process of
+increasing profitability to ensure the financial stability of banks in Uzbekistan.
+      Research methods. Analysis methods such as scientific abstraction, logical
+reasoning, multinomial logistic regression, tabulation frequency, ARIMA model,
+dynamic analysis, data grouping, and comparison were used in the research process.
+      The scientific novelty of the research is as follows:
+      The differentiation of credit interest rates has been substantiated on the basis of
+integrating the factor of the bank's micro-location into the process of assessing the
+client's creditworthiness in the bank's credit policy, thereby ensuring the stable
+growth of the bank's interest income.
+      Increasing the financial profitability of banks has been substantiated by
+incorporating non-monetary factors into the vertical structure of financial
+management in banks on the basis of horizontal-vertical integration.
+      A proposal has been made to increase the profitability of banks in the financial
+market, taking into account that undistributed profit is a factor positively influencing
+the formation of bank capital profitability.
+      Taking into account the declining role of non-interest income in the
+profitability of bank assets, a proposal has been made to harmonize the increase in
+bank profitability with ensuring financial stability through the digitalization of
+operating expenses.
+      The practical results of the research include:
+      In developing a strategy aimed at preemptively identifying and eliminating
+internal factors influencing the financial stability of banks, it is possible to
+preemptively detect and forecast their negative impact through the management of
+internal factors.
+      The expediency has been substantiated for conducting assessments based on
+the systematization of not only financial results affecting the financial stability of
+banks but also external and internal factors that acquire non-financial characteristics.
+      It has been substantiated that the use of financial instruments by the bank in the
+formation of undistributed profit and increasing its role in generating interest income
+creates conditions for the bank's financial stability.
+      The lack of statistical impact of interest income on the profitability of bank
+assets has been substantiated to indicate the need for analyses in placing assets across
+various sectors of the economy in banking operations.
+      Based on assessing the impact of macroeconomic indicators in the country on
+bank profitability, measures have been proposed to prevent the overheating of the
+devaluation trend in the exchange rate.
+      Reliability of research results. The reliability of the research results is
+determined by the use in the analysis process of financial reporting indicators from
+the Central Bank of the Republic of Uzbekistan and JSCB Sanoatqurilishbank,
+official data from the State Statistics Agency under the President of the Republic of
+Uzbekistan, relevant regulatory documents, and reports from corresponding
+agencies and organizations; the appropriateness and scientific substantiation of the
+approaches and methods applied in the work; and the implementation of the
+presented conclusions, proposals, and recommendations in the practices of
+commercial banks in the Republic of Uzbekistan.
+      The scientific and practical significance of research results. Scientific
+significance of the research results is explained by the possibility of using them as a
+scientific-methodological basis in conducting scientific research related to the
+development and further improvement of financial policy in the activities of
+increasing profitability to ensure the financial stability of commercial banks in
+Uzbekistan.
+      Practical significance of the research results is explained by the possibility of
+developing ways and methods to ensure financial stability through increasing
+profitability in the activities of commercial banks in the Republic of Uzbekistan,
+improving these practices, as well as conducting independent scientific research,
+developing scientific projects, and strengthening the practical foundation of the
+curriculum for subjects such as “Banking” and “Bank Risk Management” in higher
+education institutions.
+      Implementation of the research results. Based on the scientific results
+obtained regarding increasing profitability in ensuring the financial stability of
+commercial banks:
+      The proposal concerning the stable growth of the bank's interest income by
+ensuring the differentiation of credit interest rates on the basis of integrating the
+factor of the bank's micro-location into the process of assessing the client's
+creditworthiness in the bank's credit policy served to implement paragraph 4 of
+Decree PF-5992 of the President of the Republic of Uzbekistan dated May 12, 2020,
+"On the Strategy for Reforming the Banking System of the Republic of Uzbekistan
+56
+for 2020–2025" (Act of implementation of the work No. 03-07/6728 of JSCB
+Sanoatqurilishbank dated April 2, 2025). As a result, the share of interest received
+from loans in the bank's income increased by 11 percent in 2024 compared to the
+previous year;
+      The proposal to increase the financial profitability of banks by incorporating
+non-monetary factors into the vertical formation system of financial management in
+banks on the basis of horizontal-vertical integration served to implement clause 40
+of Appendix 2 to Decree PF-5992 of the President of the Republic of Uzbekistan
+dated May 12, 2020, "On the Strategy for Reforming the Banking System of the
+Republic of Uzbekistan for 2020–2025" (Act of implementation of the work No. 03-
+07/6728 of JSCB Sanoatqurilishbank dated April 2, 2025). As a result of
+implementing this proposal in practice, the bank's profitability increased 1.6 times
+in 2024 compared to the previous year due to improved employee performance
+efficiency.
+      The proposal to increase the profitability of banks in the financial market,
+taking into account that undistributed profit is a factor positively influencing the
+formation of bank capital profitability, served to implement subclause 1 of clause 1
+of Decree PF-5992 of the President of the Republic of Uzbekistan dated May 12,
+2020, "On the Strategy for Reforming the Banking System of the Republic of
+Uzbekistan for 2020–2025" (Act of implementation of the work No. 03-07/6728 of
+JSCB Sanoatqurilishbank dated April 2, 2025). As a result of implementing this
+proposal in practice, the bank's profitability in the financial market increased by 28
+percent in 2024 compared to the previous year.
+      The proposal to harmonize the increase in bank profitability with ensuring
+financial stability through the digitalization of operating expenses, taking into
+account the declining role of non-interest income in the profitability of bank assets,
+served to implement subclause 3 of section 3 of Appendix 1 to Decree PF-5992 of
+the President of the Republic of Uzbekistan dated May 12, 2020, "On the Strategy
+for Reforming the Banking System of the Republic of Uzbekistan for 2020–2025"
+(Act of implementation of the work No. 03-07/6728 of JSCB Sanoatqurilishbank
+dated April 2, 2025). As a result of implementing this proposal in practice, the bank's
+operating expenses decreased by 7.1 percent in 2024 compared to the previous year
+due to the introduction of digital technologies.
+      Approval of the research results. The main ideas and conclusions of the
+dissertation were discussed at two international and two national scientific-practical
+conferences.
+      Publication of the research results. A total of 7 scientific works were
+published based on the dissertation, including 1 article in a local scientific
+publication recommended by the Higher Attestation Commission of the Republic of
+Uzbekistan and 2 articles in prestigious foreign journals..
+      Structure and Volume of the Dissertation.The dissertation consists of an
+introduction, three chapters, a conclusion, a list of references, and appendices. The
+total volume of the dissertation is 129 pages.
+                     E’LON QILINGAN ISHLAR RO‘YXATI
+                   ОПУБЛИКОВАННЫЙ СПИСОК РАБОТ
+                            LIST OF PUBLICATIONS
+                              I bo‘lim (I chast; Part I)
+      1. Umarov D.Sh. Analysis of Bank Balance Sheet Indicators in Ensuring
+Financial Stability in Commercial Banks// American Journal of Economics and
+Business Management 2025, 8(10), pp. 4943-4951. (№12, Index Copernicus:
+08.00.00, OAK rayosatining 2024-yil 28-maydagi 360-son qarori).
+      2. Umarov D.Sh. Tijorat banki daromadlari – moliyaviy barqarorlikning omili
+sifatida//Yashil iqtisodiyot va taraqqiyot ilmiy-elektron jurnal – T.: 2024-yil, iyul.
+№ 7-son, 218-222 betlar. (№12, Index Copernicus; 08.00.00, OAK rayosatining
+2023-yil 1-apreldagi 336/3-son qarori).
+      3. Umarov D.Sh. Barqaror moliyaviy rentabillik banklarning daromadluligini
+ta’minlash omili sifatida// Muhandislik va iqtisodiyot ijtimoiy-iqtisodiy, innovatsion
+texnik, fan va ta’limga oid ilmiy-amaliy jurnal -2025-yil, oktyabr №10, 606-611
+betlar. (№12, Index Copernicus, 08.00.00, OAK rayosatining 2024-yil 28-
+avgustdagi 360/5-son qarori).
+      4. Umarov D.Sh. Increasing the profitability of commercial banks as a way to
+ensure financial// Innovation Science and Technology, Scopus, Electronic Journal
+Specializing in Scopus //ISSUE 10.ISSN3060-5229. International jurnal of topics.
+pp. 0217-223.
+      5. Umarov D.Sh. Tijorat bankining moliyaviy barqarorligini shakllantiruvchi
+va unga taʼsir etuvchi omillarni ekonometrik baholash. Muhandislik va iqtisodiyot
+ijtimoiy-iqtisodiy, innovatsion texnik, fan va ta’limga oid ilmiy-amaliy jurnal -2025-
+yil, oktyabr №9, 414-423 betlar. (№12, Index Copernicus, 08.00.00, OAK
+rayosatining 2024-yil 28-avgustdagi 360/5-son qarori).
+      6. Умаров Д.Ш. Финансовая рентабельность – фактор обеспечения
+устойчивости банков: Fundamental science and technology // Сборник научных
+статей по материалам XVI международной научнопрактической конференции
+(19 ноября 2024 г., г. Уфа). В 2 ч. Ч.1 / – Уфа: Изд. Научно-издательский центр
+Вестник науки, 2024. – С. 126-131.
+      7. Умаров Д.Ш. Анализ факторов, влияющих на финансовую
+устойчивость коммерческого банка. Инновационный потенциал развития
+науки в современном мире: технологии, инновации, достижения // Сборник
+научных статей по материалам XVI международной научно-практической
+конференции (22 ноября 2024 г., г. Уфа). В 3 ч. Ч.2 / – Уфа: Изд.
+Научноиздательский центр Вестник науки, 2024. – С. 79-84.
+      8. Umarov D.Sh. Tijorat bankida moliyaviy barqarorlikning nazariy asoslari:
+“Yashil iqtisodiyot sari: nazariy va amaliy yondashuvlar tahlili” mavzusidagi
+xalqaro ilmiy-amaliy anjuman materiallari to’plami. – Toshkent: TDIU, 2024-yil, 3-
+aprel. 601-604 betlar.
+      9. Umarov D.Sh. Barqaror moliyaviy rentabellik banklarning daromadlililigini
+ta'minlash omili sifatida: “Barqaror iqtisodiy oʻsish orqali aholi turmush
+farovonligini oshirish masalalari” mavzusidagi respublika ilmiy-amaliy anjuman
+materiallari toʻplami. – Toshkent: TDIU, 2024-yil 24-may. 465-468 betlar.
+58
+

@@ -1,0 +1,2571 @@
+        TASHKENT INTERNATIONAL UNIVERSITY
+       HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+    DSc 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+            RENESSANS TA’LIM UNIVERSITETI
+
+
+
+
+               SABIROVA LOBAR BAXROMOVNA
+
+
+
+TIJORAT BANKLARIDA KREDIT PORTFELI SIFATINI OSHIRISH
+                     YO‘LLARI
+
+
+
+                08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+      Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                             AVTOREFERATI
+
+
+
+
+                         Toshkent shahri – 2025 yil
+
+
+                                                                           1
+                                                        UO‘K: 336.71(575.1)
+
+
+             Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD)
+                  dissertatsiyasi avtoreferati mundarijasi
+
+    Оглавление автореферата диссертации доктора философии (PhD)
+                     по экономическим наукам
+
+       Content of dissertation abstract of doctor of philosophy (PhD)
+                           on economical sciences
+
+
+Sabirova Lobar Baxromovna
+Tijorat banklarida kredit portfeli sifatini oshirish yo‘llari…………………… 3
+
+
+Сабирова Лобар Бахромовна
+Пути повышения качества кредитного портфеля в коммерческих
+банках………………………………………………………………………..                                      27
+
+
+Sabirova Lobar Bakhromovna
+Ways to improve the quality of the loan portfolio in commercial banks…….. 53
+
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованных работ
+List of published works……………………………………………………...                           59
+
+
+
+
+2
+        TASHKENT INTERNATIONAL UNIVERSITY
+       HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+    DSc 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+            RENESSANS TA’LIM UNIVERSITETI
+
+
+
+
+               SABIROVA LOBAR BAXROMOVNA
+
+
+
+TIJORAT BANKLARIDA KREDIT PORTFELI SIFATINI OSHIRISH
+                     YO‘LLARI
+
+
+
+                08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+      Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                             AVTOREFERATI
+
+
+
+
+                         Toshkent shahri – 2025 yil
+
+
+                                                                           3
+4
+              KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+       Dissertatsiya mavzusining dolzarbligi va zaruriyati. Jahon iqtisodiyotida
+tijorat banklari kredit portfeli sifatini oshirish zaruriyati so‘nggi yillarda global
+iqtisodiy beqarorlik, pandemiya, geosiyosiy ziddiyatlar va inflyatsiya xavflari
+ortgani sababli yana-da dolzarb ahamiyat kasb etmoqda. Kredit portfeli sifatining
+yomonlashuvi banklar uchun nafaqat moliyaviy yo‘qotishlar, balki tizimli risklar
+xavfini kuchaytiradi. Shu bois, rivojlangan va rivojlanayotgan davlatlar banklari
+kredit baholash tizimlarini takomillashtirish, raqamli tahlil vositalarini joriy qilish,
+mijozlarning moliyaviy intizomi va to‘lov qobiliyatini real vaqtda monitoring qilish
+orqali portfel sifatini oshirishga intilmoqda. Masalan, 2023-yil yakunlariga ko‘ra,
+AQShning JPMorgan Chase banki umumiy kredit portfeli 1,17 trln dollarni tashkil
+etgan bo‘lib, bu kreditlarning 98 foizdan ortig‘i to‘lov intizomiga ega bo‘lgan
+mijozlarga ajratilgan1. Xuddi shunday, Germaniyaning Deutsche Bankida 2023-
+yilda 456 mlrd yevrolik kredit portfelining 94 foizi past riskli deb baholangan2.
+       Xalqaro miqyosda tijorat banklari kredit portfeli sifatini oshirish borasida olib
+borilayotgan ilmiy izlanishlar bank tizimi barqarorligini ta'minlash, kredit risklarini
+aniqlash va minimallashtirish, shuningdek, raqamli texnologiyalar asosida qaror
+qabul qilish jarayonlarini optimallashtirishga qaratilgan. Tadqiqotlarning asosiy
+e’tibori kredit baholashda sun’iy intellekt va mashinali o‘rganish algoritmlaridan
+foydalanish, mijozlarning kreditga layoqatlilik darajasini dinamik kuzatish,
+sektorlar va mintaqalar kesimida kredit portfelini diversifikatsiya qilishga
+qaratilgan. Biroq ko‘plab rivojlanayotgan davlatlarda bu boradagi ilmiy-amaliy
+izlanishlar hali yetarli darajada emas. Shu sababli, kelgusida bank kredit
+portfellarining sifati va risk turlarini chuqur tahlil qilish, sektorlar kesimida limitlar
+joriy etish, kredit sug‘urtasidan foydalanish, sun’iy intellect asosida yirik banklar
+risklarni oldindan aniqlash va boshqarish imkoniyatlarini kengaytirish va kredit
+resurslarining real sektor samaradorligiga ta’sirini o‘rganish zarur. Bu yo‘nalishdagi
+tadqiqotlar bank tizimining raqobatbardoshligi, moliyaviy barqarorlik va iqtisodiy
+o‘sishni qo‘llab-quvvatlashda muhim rol o‘ynaydi va shu sababli, ushbu mavzuning
+ilmiy va amaliy dolzarbligi tobora ortib bormoqda.
+       O‘zbekistonda bank tizimi barqarorligini ta’minlash, tijorat banklari kredit
+portfelini optimallashtirish va muammoli kreditlarning oldini olish bugungi
+iqtisodiy islohotlar sharoitida muhim strategik vazifa hisoblanadi. Mamlakatda olib
+borilayotgan bank sektorini transformatsiya qilish jarayonlari, jumladan, davlat
+ishtirokidagi banklarni xususiylashtirish, ochiq raqobat muhiti yaratish va xalqaro
+moliya institutlari bilan hamkorlikni kengaytirish ushbu tizimni chuqur ilmiy
+o‘rganishni taqozo etmoqda. Ayniqsa, so‘nggi yillarda muammoli kreditlar
+darajasining ayrim banklarda oshayotgani, kredit resurslarining maqsadli
+yo‘naltirilmasligi, yetarli tahlil va baholashlarsiz qarorlar qabul qilinishi, bank
+portfellarida riskli aktivlar ulushining yuqoriligi tizim barqarorligiga xavf solmoqda.
+Shu nuqtai nazardan, O‘zbekistonda ilmiy tadqiqotlar orqali kredit portfeli
+tuzilmasini, uning sektorlar bo‘yicha diversifikatsiyasini, mijozlarning to‘lov
+
+1
+    JPMorgan Chase & Co. 2023 Annual Report
+2
+    Deutsche Bank Annual Report 2023
+
+                                                                                        5
+qobiliyatini aniqlashda raqamli texnologiyalar va kredit reyting tizimlarining rolini
+o‘rganish nihoyatda dolzarbdir. Bundan tashqari, banklar tomonidan kredit risklarini
+baholashda xalqaro amaliyotga mos metodologiyalarni joriy etish, kredit
+monitoringi samaradorligini oshirish va kreditlar sifati bilan bog‘liq
+muammolarning ildiz sabablari bo‘yicha fundamental ilmiy tadqiqotlar olib borish
+orqali bank tizimining moliyaviy barqarorligini mustahkamlash mumkin. Shu bois,
+bu yo‘nalishda chuqur tahlil va ilmiy asoslangan takliflar ishlab chiqishga qaratilgan
+tadqiqotlar iqtisodiy siyosatning ajralmas qismi bo‘lishi lozim.
+       Ushbu ilmiy tadqiqot O‘zbekiston Respublikasi Prezidentining 2022 yil
+28 yanvardagi PF-60 son “2022-2026 yillarga mo‘ljallangan yangi O‘zbekistonning
+Taraqqiyot strategiyasi to‘g‘risida”gi farmoni, 2020 yil 5 oktyabrdagi PF-6079-son
+“Raqamli O‘zbekiston-2030” strategiyasini tasdiqlash va uni samarali amalga
+oshirish chora-tadbirlari to‘g‘risida”gi farmoni, 2020 yil 12 maydagi PF-5992-son
+“2020-2025 yillarga mo‘ljallangan O‘zbekiston Respublikasining bank tizimini
+isloh qilish strategiyasi to‘g‘risida”gi farmoni, 2023 yil 24 maydagi PQ-162-son
+“Raqamli xizmatlar qamrovi va sifatini oshirish hamda soha, tarmoq va hududlarni
+raqamli transformasiya qilish chora-tadbirlari to‘g‘risida”gi qarori va 2018 yil
+23 martdagi PQ-3620-son “Bank xizmatlari ommabopligini oshirish bo‘yicha
+qo‘shimcha chora-tadbirlar to‘g‘risida”gi qarorlari va boshqa ushbu sohadagi
+normativ-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishga muayyan
+darajada xizmat qiladi.
+       Tadqiqotning respublika fan va texnologiyalari rivojlani-shining ustuvor
+yo‘nalishlariga mosligi. Mazkur dissertatsiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I. “Demokratik va xuquqiy jamiyatni ma'naviy-
+ahloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor
+yo‘nalishiga muvofiq bajarilgan.
+       Muammoning o‘rganilganlik darajasi. Transformasiya jarayonida tijorat
+banklari kredit portfeli sifatini oshirish yo‘llarining ilmiy-amaliy jihatlari
+Miyamoto K., Jakob K., Castillo J.A., va Mora-Valencia A., Mbeukam L.S.,
+Ozili P.K., Ferreira C., Ofria, F. va Mucciardi M. kabi xorijlik iqtisodchi olimlarning
+tadqiqotlarida aks etgan3.
+       O‘zbekistonlik iqtisodchi olimlardan N.Jumayev, B.Berdiyarov, A.Burxanov,
+O.Sattarov, Sh.Xannaev, M.M.Toshbotev, Sh.S.Madrahimov, S.T.Ergashev va
+boshqalar bank valyuta operatsiyalari, bank tizimi barqarorligi, banklar likvidliligini
+boshqarish, tijorat banklarning iqtisodiy havfsizligi, tijorat banklari samaradorligiga
+ta’sir etuvchi omillar, chakana bank xizmatlari amaliyotini takomillashtirish, tijorat
+banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari,
+3
+  Miyamoto, K. (2022). Quantum algorithm for calculating risk contributions in a credit portfolio. EPJ Quantum
+Technology, 9(1), 1-16. Jakob, K. (2022). Estimating correlation parameters in credit portfolio models under time-
+varying and nonhomogeneous default probabilities. Journal of Credit Risk, 18(4). Castillo, J. A., & Mora-Valencia,
+A. (2023). The effect of moral hazard on the SMEs credit portfolio guaranteed by Colombia's National Guarantee
+Fund. Estudios Gerenciales, 39(168), 379-386. Mbeukam, L. S. (2024). Pricing and hedging of transition risk in
+Credit Portfolio (Doctoral dissertation, Université Paris Cité). Ozili, P. K. (2019). Non-performing loans and financial
+development: new evidence. The Journal of Risk Finance, 20(1), 59-81. Ferreira, C. (2022). Determinants of non-
+performing loans: A panel data approach. International Advances in Economic Research, 28(3), 133-153. Ofria, F.,
+& Mucciardi, M. (2022). Government failures and non-performing loans in European countries: a spatial
+approach. Journal of Economic Studies, 49(5), 876-887.
+
+6
+banklarda aholi omonatlarining jozibadorligini oshirish bo‘yicha ilmiy tadqiqotlar
+olib borishgan. Biroq shuni alohida ta'kidlash lozimki, transformasiya jarayonida
+tijorat banklari kredit portfeli sifatini oshirish yo‘llari, banklarda kredit portfel
+diversifikatsiyasi, kreditlar hajmi va ularning foizlariga ta’sir etuvchi omillar,
+ularning prognoz ko‘rsatkichlarini turli ekonometrik modellar asosida baholash va
+tahlillari mamlakatimiz iqtisodchi olimlari tomonidan yetarlicha tadqiqotlar amalga
+o‘rganilmagan.4
+        Dissertatsiya mavzusining dissertatsiya bajarilgan oliy ta'lim
+muassasalarining ilmiy tadqiqot ishlar rejalari bilan bog‘liqligi. Mazkur
+dissertasion tadqiqot mavzusi Renessans ta’lim universitetining ilmiy-tadqiqot
+ishlari rejasi bilan bog‘liq holda bajarilgan.
+        Tadqiqotning maqsadi mamlakatimiz tijorat banklari kredit portfeli sifatini
+oshirishga qaratilgan ilmiy-nazariy, amaliy va uslubiy taklif va tavsiyalarni ishlab
+chiqishdan iborat.
+        Tadqiqotning vazifalari:
+        tijorat banklarida kredit portfeli sifatini oshirishning ilmiy-nazariy va huquqiy
+asoslari tadqiq qilish;
+        tijorat banklarida kredit portfeli sifatini oshirishga qaratilgan ilmiy-nazariy
+qarashlarni tahlil qilish hamda ularning amaliy ahamiyatini baholashga xizmat
+qiluvchi xulosalarni shakllantirish;
+        tijorat banklari kredit portfelining amaldagi holati tahlilini baholash, tahlil
+qilish va xulosalar shakllantirish;
+        AT O‘zsanoatqurilishbank misolida foiz siyosari va unga ta’sir etuvchi
+omillarning empirik tahlili olib borish va xulosalar shakllantirish;
+        tijorat banklari kredit operatsiyalari va muammoli kreditlarining prognoz
+ko‘rsatkichlarini shakllantirish;
+        transformasiya jarayonida tijorat banklari kredit portfeli sifatini oshirishga
+qaratilgan ilmiy taklif hamda amaliy tavsiyalar ishlab chiqish.
+        Tadqiqotning obyekti sifatida O‘zbekistonda faoliyat ko‘rsatayotgan tijorat
+banklari, xususan AT O‘zsanoatqurilishbank va XAB Trastbanklari tanlangan.
+        Tadqiqotning predmeti tijorat banklari kredit portfeli sifatini oshirish
+jarayonida yuzaga keladigan iqtisodiy munosabatlar tashkil etadi.
+        Tadqiqotning usullari. Dissertatsiyada ilmiy abstraksiya, qiyosiy va tarkibiy
+tahlil, induksiya va deduksiya, iqtisodiy-statistik va ekonometrik baholash, xususan,
+
+
+4
+ Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Toshboev M.M. “Kredit portfeli risklarini boshqarish strategiyalari”, Iqtisodiyot va
+ta’lim jurnali, 2019-yil, №4. Madrahimov Sh.S. “Tijorat banklarida kredit portfeli muammolarini aniqlash va tahlil
+qilish”, Moliyaviy tahlil jurnali, 2018-yil, №2. Ergashev S.T. “Tijorat banklarining kredit portfeli barqarorligini
+ta’minlashning ilmiy asoslari”, Iqtisodiyot va innovatsion texnologiyalar, 2017-yil, №4.
+
+                                                                                                                     7
+strukruraviy vektorli avtoregressiya va Seasonal ARIMA modellaridan
+foydalanilgan.
+       Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+       tijorat banklari kredit portfelini diversifikatsiyalash, barqaror to‘lov intizomi
+va ichki talabni rag‘batlantirish asosida portfel sifati va risklarni boshqarish
+maqsadida brutto kreditlar tarkibida jismoniy shaxslarga ajratilgan kreditlar ulushini
+oshirish ilmiy asoslangan;
+       pul bozori instrumentlari ta’sirchanligini ta’minlash vositasida tijorat banklari
+kreditlari va foiz siyosatini samarali olib borish orqali bank kredit portfelini
+optimallashtirish ilmiy asoslangan;
+       transformatsiya jarayoni natijasida tijorat banklari kredit portfelini bozor
+mexanizmlari asosida shakllantirishda tijorat bankining kredit portfelida davlat
+tashkilotlariga ajratilayotgan kreditlarni kamaytirgan holda xususiy sektor ulushini
+oshirish taklif etilgan;
+       banklarda kredit portfelini oshirishning, hamda muammoli kreditlar
+holatining inflyasiya darajasi o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi
+ekonometrik baholash modeli asosida 2028 yil mart oyiga qadar prognoz
+ssenariylari taklif etilgan.
+       Tadqiqotning amaliy natijasi quyidagilardan iborat:
+       tijorat banklari kredit portfeli rektabelligini oshirish, ijtimoiy kreditlar
+ulushini kamaytirish maqsadida banklar ssuda resurslarini bozor mexanizmlari
+asosida taqsimlanishini ta’minlash ilmiy asoslangan;
+       tijorat banklarida kredit portfelini optimallashtirishda tashqi risklarni samarali
+boshqarishda maqsadida kredit foiz siyosatini yuritishda iqtisodiyotdagi inflyasiya
+darajasining oylik bir foizga oshishi bir oylik kechikish bilan O‘zsanoatqurilishbank
+ATBning kreditlari foizini -0,11 foizga pasaytirishini inobatga olish taklif etilgan;
+       pul bozoridagi foiz stavkaning bir foizga oshishi esa bir oylik lag bilan
+O‘zsanoatqurilishbank ATBning kreditlari foizini 0,65 foizga oshirishi, hamda
+muomaladagi oylik pul massasining bir foizga oshishi uch oylik kechikish bilan
+bank kreditlari foizini -0,36 foizga pasaytirishi ilmiy asoslangan.
+       Tadqiqot natijalarining ishonchliligi. Tadqiqot natijalarining ishonchliligi
+ularni taniqli iqtisodchi olimlarning transformasiya jarayonida tijorat banklari kredit
+portfeli sifatini oshirish yo‘llari xususidagi ilmiy-nazariy qarashlarini qiyosiy va
+tanqidiy tahlil qilinganligi, ilg‘or xorij tajribasi o‘rganilganligi va
+umumlashtirilganligi, shuningdek, statistik ma’lumotlar O‘zbekiston Respublikasi
+Markaziy banki, O‘zbekiston Respublikasi Statistika qo‘mitasi va O‘zbekiston
+tijorat banklari yillik hisobot ma’lumotlaridan olingani, shu bilan birga tegishli
+xulosa va takliflarning mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani
+bilan belgilanadi.
+       Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan transformasiya jarayonida tijorat banklari kredit portfeli
+sifatini oshirish yo‘llariga qaratilgan maxsus ilmiy-tadqiqotlarni amalga oshirishda
+foydalanish mumkinligi bilan izohlanadi.
+       Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformasiya jarayonida tijorat banklari kredit
+8
+portfeli sifatini oshirish yo‘llariga qaratilgan chora-tadbirlar majmuini ishlab
+chiqishda foydalaniladi, shuningdek, 2022-2026 yillarga mo‘ljallangan yangi
+O‘zbekistonning Taraqqiyot strategiyasida hamda 2020-2025 yillarga mo‘ljallangan
+O‘zbekiston Respublikasining bank tizimini isloh qilish strategiyasida ko‘rsatilgan
+vazifalarni bajarishga qaratilgan chora-tadbirlarni ishlab chiqishda foydalanilishi
+mumkin.
+       Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kredit portfeli
+sifatini oshirish yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+       tijorat banklari kredit portfelini diversifikatsiyalash, barqaror to‘lov intizomi
+va ichki talabni rag‘batlantirish asosida portfel sifati va risklarni boshqarish
+maqsadida brutto kreditlar tarkibida jismoniy shaxslarga ajratilgan kreditlar ulushini
+oshirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, ATB O‘zsanoatqurilishbank amaliyotida kredit portfelini diversifi-
+katsiyalash maqsadida jismoniy shaxlarga ajratilgan kreditlari brutto kreditlari
+tarkibida 2023 yilda 13,7 foizni tashkil etgan bo‘lsa, 2024 yilda 15,1 foizga
+oshirilgan.
+       pul bozori instrumentlari ta'sirchanligini ta'minlash vositasida tijorat banklari
+kreditlari va foiz siyosatini samarali olib borish orqali bank kredit portfelini
+optimallashtirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan
+(ATB O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumot-
+nomasi). Natijada, moliya boziri indikatorlaridan pul bozoridagi foizining bir foizga
+oshishi bir oylik lag bilan O‘zsanoatqurilishbank ATBning kreditlari foizini 0,65
+foizga oshirishi, hamda muomaladagi oylik pul massasining bir foizga oshishi esa
+uch oylik kechikish bilan bank kreditlari foizini -0,36 foizga pasaytirishi empirik
+tahlillar asosida aniqlangan.
+       transformatsiya jarayoni natijasida tijorat banklari kredit portfelini bozor
+mexanizmlari asosida shakllantirishda tijorat bankining kredit portfelida davlat
+tashkilotlariga ajratilayotgan kreditlarni kamaytirgan holda xususiy sektor ulushini
+oshirishga doir taklifi ATB O‘zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, bank kredit portfelida davlat tashkilotlariga ajratilgan kreditlari 2021 yilda
+30 foizdan 2024 yilda 22 fozigacha pasaytilishiga, hamda xususiy sektorga ajratilgan
+kreditlari shu davrda 60 foizdan 64 foizga oshirilishiga erishilgan.
+       banklarda kredit portfelini oshirishning, hamda muammoli kreditlar
+holatining inflyasiya darajasi o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi
+ekonometrik baholash modeli asosida 2028 yil mart oyiga qadar prognoz
+ssenariylariga doir taklifi ATB O‘zsanoatqurilishbank faoliyatiga joriy etilgan (ATB
+O‘zsanoatqurilishbankning 2025-yil 26 maydagi 04/8-08-24-son ma’lumotnomasi).
+Natijada, Seasonal ARIMA modeli asosida mavsumiy tebranishlarni inobatga olgan
+amalga oshirilgan optimal prognoz natijalariga ko‘ra, 95 foiz ehtimollik bilan 2028-
+yil mart oyiga borib 2024-yil dekabrdagi ko‘rsatkichga nisbatan kredit portfeli hajmi
+36,7 foizga o‘sishi, hamda bankning muammoli kreditlari hajmi esa 78,9 foizga
+oshishi kutilmoqda.
+
+                                                                                      9
+       Tadqiqot natijalarining aprobasiyasi. Mazkur tadqiqot natijalari 7 ta,
+jumladan 4 ta respublika va 3 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+       Tadqiqot natijalarining e'lon qilinishi. Dissertatsiya mavzusiga doir
+umumiy 12 ta ilmiy ish, xususan O‘zbekiston Respublikasi Oliy Attestasiya
+Komissiyasining doktorlik dissertatsiyalarining asosiy ilmiy natijalarini chop etish
+tavsiya etilgan ilmiy nashrlarda 5 ta maqola, jumladan, 4 ta respublika va 1 ta xorijiy
+jurnallarda nashr etilgan.
+       Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertatsiyaning tarkibi
+136 betni tashkil etgan.
+                     DISSERTASIYANING ASOSIY MAZMUNI
+       Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda ob'ekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+       Dissertatsiyaning “Tijorat banklarida kredit portfeli sifatini oshirishning
+ilmiy-nazariy asoslari” deb nomlangan birinchi bobida tijorat banklarida kredit
+portfeli sifatini oshirishning nazariy asoslari, tijorat banklari barqarorligini
+ta’minlashga qaratilgan me’yori huquqiy hujjatlar sharhi, hamda tijorat banklarida
+kredit portfeli sifatini oshirishga qaratilgan ilmiy-nazariy qarashlarni tahlil qilish
+hamda ularning amaliy ahamiyatini baholashga xizmat qiluvchi xulosalarni
+shakllantirilgan.
+       Rivojlanayotgan davlatlarda, ayniqsa bank tizimida davlat ishtiroki yuqori
+bo‘lgan mamlakatlarda tijorat banklarining kredit portfelini optimallashtirish
+dolzarb muammo sifatida qaraladi. Bunday davlatlarda davlat ulushidagi banklar
+iqtisodiyotning strategik yo‘nalishlarini moliyalashtirishda asosiy rolni o‘ynaydi.
+Ammo, bu banklar ko‘pincha iqtisodiy emas, balki siyosiy maqsadlarni amalga
+oshirishga yo‘naltirilgan kredit siyosatini yuritadilar. Natijada, kredit portfeli
+tarkibida yuqori riskli yoki daromadliligi past loyihalar salmoqli ulushni egallaydi.
+Shu bois, kredit portfelini ilmiy asosda diversifikatsiya qilish, risklarni aniqlash va
+ularni boshqarish vositalarini kuchaytirish orqali portfelning barqarorligi va
+samaradorligini ta’minlash zaruratga aylanadi.
+       Davlat ulushi yuqori bo‘lgan banklarda kredit qarorlarini qabul qilish
+jarayonida siyosiy bosimlarning mavjudligi, qarorlar bozor tamoyillariga emas,
+balki ma’muriy topshiriqlarga asoslanishi kuzatiladi. Masalan, davlat tomonidan
+belgilangan ustuvor sohalarni moliyalashtirish talab qilinadi, bu esa bankning kredit
+portfelini bir yo‘nalishga haddan ziyod yo‘naltiradi va diversifikatsiya prinsiplariga
+zid keladi. Bunday sharoitda kredit portfeli tarkibidagi tarmoqlar o‘rtasidagi balans
+buziladi, natijada portfel umumiy risk darajasi oshadi. Shuning uchun, ushbu banklar
+uchun portfel konsentratsiyasini o‘lchovchi indikatorlardan – xususan, Herfindahl-
+Hirschman indeksi (HHI)dan foydalanish muhimdir.
+
+
+10
+        Yana bir muhim jihat shuki, rivojlanayotgan davlatlarda moliyaviy
+bozorlarning chuqurligi va samaradorligi past bo‘lishi sababli banklar kredit
+ajratishda kamroq axborotga ega bo‘ladilar. Bu asosan kredit oluvchilarning
+moliyaviy hisobotlari sifatsizligi, tahlil qilish vositalarining yetishmasligi va
+raqamlashtirish darajasining pastligi bilan bog‘liq. Davlat banklarida bunday
+kamchiliklar yanada chuqurroq bo‘lib, ularning kredit siyosatida tizimli risklarning
+kuchayishiga olib keladi. Shu nuqtai nazardan, kredit portfelini optimallashtirishda
+kredit riskini aniqlash va tahlil qilishga mo‘ljallangan axborot tizimlarini joriy qilish
+zarur bo‘ladi.
+        Shuningdek, davlat ishtirokidagi banklar ko‘pincha iqtisodiy siyosat vositasi
+sifatida ishlatilgani sababli ularning kredit portfeli tarkibida bozordagi talabga emas,
+balki hukumat dasturlariga mos ravishda shakllangan segmentlar ko‘p bo‘ladi.
+Masalan, infratuzilma, energetika yoki qishloq xo‘jaligi kabi sohalarga doimiy
+e’tibor qaratiladi. Natijada, bank portfeli uzoq muddatli va likvidligi past kreditlarga
+to‘la bo‘lib, foiz daromadi kamayadi. Shu sababli optimallashtirish doirasida kredit
+turlarining muddatlar bo‘yicha balansini shakllantirish, likvidlik va rentabellik
+o‘rtasidagi muvozanatni ta’minlash katta ahamiyat kasb etadi.
+        Tijorat banklarida kredit portfelini optimallashtirish metodikasi – bu bank
+aktivlarining samaradorligini oshirish, risklarni minimallashtirish va daromadlilikni
+ta’minlashga yo‘naltirilgan ilmiy asoslangan yondashuvlar majmuasidir. Ushbu
+metodlarga quyidagilar kiradi.
+        1. Kredit portfeli tarkibini tahlil qilish
+        2. Risklarni aniqlash va baholash
+        3. Diversifikatsiya strategiyasini ishlab chiqish
+        4. Portfelni optimallashtirish modellari
+        5. Monitoring va qayta baholash
+        Tijorat banklari kredit portfeli samaradorligini oshirish iqtisodiy barqarorlik
+va raqobatbardoshlikni ta’minlashda muhim omil hisoblanadi. Kredit portfeli
+samaradorligini oshirish, tijorat banklariga nafaqat foyda olish imkoniyatini
+yaratadi, balki moliyaviy resurslarning optimal taqsimlanishini ta'minlaydi. Buning
+uchun banklar, kreditlashning barcha bosqichlarini tizimli ravishda qayta ko‘rib
+chiqishlari zarur. Kreditlar berishning sifatini yaxshilash, mijozlarning moliyaviy
+holatini chuqur tahlil qilish, shuningdek, kredit risklarini minimallashtirish
+samaradorlikni oshiradi. Banklar, shu bilan birga, kredit portfelini diversifikatsiya
+qilish va yangi, yuqori rentabellikka ega bo‘lgan sohalarga kreditlar ajratishni
+ko‘zda tutishi kerak.
+        N.Mirza va boshqalar tomonidan olib borilgan tadqiqotda yashil
+kreditlashning BRIC davlatlaridagi tijorat banklari kredit portfeli samaradorligiga
+ta’siri empirik va nazariy jihatdan o‘rganilgan. Tadqiqotda yashil kreditlar, ayniqsa
+kichik va o‘rta biznes subyektlariga ajratilgan kreditlarning banklarning umumiy
+moliyaviy natijalariga ta’siri tahlil qilingan. Olimlar yashil kreditlash banklarning
+rentabelligini oshirishi, kredit xavflarini kamaytirishi va uzoq muddatli barqarorlikni
+ta’minlashiga e’tibor qaratgan. Tadqiqot natijalari shuni ko‘rsatadiki, yashil
+kreditlarning ko‘payishi banklar uchun ijobiy moliyaviy natijalar yaratadi, chunki
+bu kreditlar qaytarilish darajasi yuqori bo‘lib, ekologik barqarorlikka asoslangan
+                                                                                      11
+biznes modellarini rag‘batlantiradi. Shuningdek, maqolada yashil kredit siyosati
+orqali banklarning ishonchliligi oshib, ularning uzoq muddatli investitsiyalar uchun
+yanada jozibador bo‘lishi ta’kidlangan. Empirik tahlil natijalariga ko‘ra, BRIC
+davlatlarida yashil kreditlashning kengayishi banklarning umumiy aktivlari
+daromadliligini oshirib, moliyaviy barqarorlik va kredit portfeli sifatining
+yaxshilanishiga ijobiy ta’sir ko‘rsatishi aniqlandi. Ushbu natijalar yashil kreditlash
+strategiyalarini yanada keng joriy etish zarurligini asoslab beradi.5
+       K.Miyamoto tomonidan olib borilgan tadqiqotda kredit portfelidagi risk
+hissalarini hisoblash uchun kvant algoritmlaridan foydalanish imkoniyatlari nazariy
+va empirik jihatdan o‘rganilgan. Muallif an’anaviy moliyaviy tahlil usullari va kvant
+hisoblash yondashuvlarini solishtirib, kredit risklarini aniqlash va baholashda kvant
+kompyuterlarining samaradorligini oshirish imkoniyatlarini tahlil qiladi. Tadqiqotda
+kvant algoritmlarining katta hajmdagi murakkab kredit portfellarini tez va aniq tahlil
+qilishda ustunlik berishi ta’kidlangan, chunki an’anaviy hisoblash metodlari katta
+ma’lumotlar bilan ishlashda sezilarli vaqt va resurs talab qiladi. Empirik natijalar
+shuni ko‘rsatadiki, kvant algoritmlari kredit xavflarining taqsimlanishini hisoblash
+jarayonini ancha tezlashtirib, banklarning portfel boshqarish strategiyalarini
+samaraliroq tashkil etishiga yordam beradi. Bundan tashqari, kvant hisoblashdan
+foydalanish kredit risklarini diversifikatsiya qilish va optimallashtirishda yanada
+aniqroq prognoz berish imkonini yaratadi. Ushbu tadqiqot kvant texnologiyalarining
+tijorat banklari uchun yangi moliyaviy tahlil vositasi sifatida ahamiyatini ochib
+beradi va kelajakda bank sektorida kvant hisoblash texnologiyalarini keng joriy etish
+zarurligini asoslaydi.6
+       K.Jakob tomonidan olib borilgan tadqiqotda kredit portfeli modellarida
+korrelyatsiya parametrlari baholash usullari o‘rganilib, ayniqsa, vaqt
+o‘zgaruvchanligi va nohomogen defolt ehtimollari sharoitida risklarni tahlil qilishga
+e’tibor qaratilgan. Empirik tahlil natijalari shuni ko‘rsatadiki, kredit portfelidagi
+defolt xavflarining vaqtdan kelib chiqib o‘zgarishi banklar uchun muhim risk omili
+bo‘lib, uni hisobga olmaslik noto‘g‘ri qarorlar qabul qilinishiga olib kelishi mumkin.
+Tadqiqotda real bozor ma’lumotlariga asoslangan simulyatsiya ishlari olib borilgan
+bo‘lib, natijalar defolt ehtimollarining o‘zgaruvchanligi kredit portfeli risklarining
+dinamikasiga sezilarli ta’sir ko‘rsatishini tasdiqlagan. Ushbu tadqiqot moliyaviy
+tizim barqarorligini ta’minlash va kredit risklarini aniqroq boshqarish uchun
+zamonaviy yondashuvlarni ishlab chiqish zarurligini ta’kidlaydi.7
+       Dissertatsiya ishining ikkinchi bobi «Tijorat banklari kredit portfelining
+amaldagi holati» deb nomlangan bo‘lib, unda mamlakatimiz bank tizimida kredit
+portfelning amaldagi holati tahlili, O‘zsanoatqurilishbank ATB va Trastbank XAB
+misollariida kredit portfelining amaldagi holati tahlili, shuningdek             ATB
+
+
+
+5
+  Mirza, N., Afzal, A., Umar, M., & Skare, M. (2023). The impact of green lending on banking performance: Evidence
+from SME credit portfolios in the BRIC. Economic Analysis and Policy, 77, 843-850.
+6
+  Miyamoto, K. (2022). Quantum algorithm for calculating risk contributions in a credit portfolio. EPJ Quantum
+Technology, 9(1), 1-16.
+7
+   Jakob, K. (2022). Estimating correlation parameters in credit portfolio models under time-varying and
+nonhomogeneous default probabilities. Journal of Credit Risk, 18(4).
+
+12
+O‘zsanoatqurilishbank misolida kredit portfeliga ta’sir etuvchi omillarning empirik
+tahlili kabi jihatlarga tadqiq etilgan.
+
+400 000                                                                                                  90,0%
+                    80,2%            78,7%
+350 000                                                74,1%                                             80,0%
+                                                                        68,5%             66,7%
+300 000                                                                                                  70,0%
+                                                                                                         60,0%
+250 000
+                                                                                                         50,0%
+200 000
+                                                                                          33,3%          40,0%
+                                                                        31,5%
+150 000                                                25,9%                                             30,0%
+                    19,8%            21,3%
+100 000                                                                                                  20,0%
+    50 000                                                                                               10,0%
+          0                                                                                              0,0%
+                 01.01.2021    01.01.2022       01.01.2023      01.01.2024             01.01.2025
+                    Jismoniy shaxlarga ajratilgan kreditlar, mlrd.so'mda
+                     Yuridik shaxlarga ajratilgan kreditlar, mlrd.so'mda
+                     Jismoniy shaxlarga ajratilgan kreditlarning kredit portfelidagi salmog‘i
+                     Yuridik shaxlarga ajratilgan kreditlarning kredit portfelidagi salmog‘i
+
+     1-rasm. Tijorat banklar tomonidan ajratilgan kreditlarning subyektlariga
+                    ko‘ra o‘zgarish dinamikasi8 (mlrd.so‘mda)
+
+       Yuqoridagi rasm orqali O‘zbekiston bank tizimida 2021–2025 yillar
+davomida jismoniy va yuridik shaxslarga ajratilgan kreditlar hajmi va ulushidagi
+dinamik o‘zgarishlarni tahlil qilamiz. mazkur tendensiyalar bank sektorining
+diversifikatsiyalashuvi, kredit portfelining ko‘p qirrali segmentlarga ajralib
+borayotgani va risklarni muvozanatlashgan holda boshqarish mexanizmlarining
+shakllanayotganini ko‘rsatadi. Jismoniy shaxslarga ajratilgan kreditlar ulushining
+ortib borayotgani banklar uchun barqaror daromad manbai hisoblanadi, chunki bu
+segment, odatda, katta miqdordagi kreditlar emas, balki ko‘plab mayda kreditlar
+orqali portfelni kengaytiradi. Bu esa kredit portfelining xatar darajasini pasaytiradi
+va bank barqarorligini mustahkamlashga xizmat qiladi. Shu sababli, so‘nggi yillarda
+kuzatilayotgan bu strukturaviy siljishlar moliyaviy tizimda muhim sifat
+o‘zgarishlarini yuzaga keltirib, bank xizmatlarining aholiga yanada yaqinlashishiga
+olib keldi.
+
+
+
+
+8
+    O‘zbekiston Respublikasi Markaziy bankning rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+
+                                                                                                             13
+    90 000,0                                                                                            90,0%
+                        78,9%
+    80 000,0                            70,5%                                                           80,0%
+    70 000,0                                                                                            70,0%
+                                                         57,5%
+    60 000,0                                                             52,0%            51,0%         60,0%
+    50 000,0                                             42,5%                                          50,0%
+                                                                          48,0%            49,0%
+    40 000,0                            29,5%                                                           40,0%
+    30 000,0            21,1%                                                                           30,0%
+    20 000,0                                                                                            20,0%
+    10 000,0                                                                                            10,0%
+          0,0                                                                                           0,0%
+                     01.01.2021      01.01.2022       01.01.2023      01.01.2024        01.01.2025
+                Xususiy banklarda jismoniy shaxlarga ajratilgan kreditlar, mlrd.so'mda
+                Xususiy banklarda yuridik shaxlarga ajratilgan kreditlar, mlrd.so'mda
+                Xususiy banklarda jismoniy shaxlarga ajratilgan kreditlarning kredit portfelidagi salmog‘i
+                Xususiy banklarda yuridik shaxlarga ajratilgan kreditlarning kredit portfelidagi salmog‘i
+
+     2-rasm. Xususiy banklar tomonidan ajratilgan kreditlarning subyektlariga
+                    ko‘ra o‘zgarish dinamikasi9 (mlrd.so‘mda)
+
+       Yuqiridagi rasm ma’lumotlarida 2021–2025 yillar davomida xususiy banklar
+tomonidan jismoniy va yuridik shaxslarga ajratilgan kreditlar hajmi hamda ularning
+umumiy kredit portfelidagi salmog‘i ko‘rsatilgan bo‘lib, O‘zbekistonda bank
+sektorini diversifikatsiya qilish, raqobat muhitini rivojlantirish hamda xususiy
+banklarning iqtisodiy faoliyatdagi rolini oshirish borasida amalga oshirilgan
+islohotlarning samaralarini yaqqol aks ettiradi. Jumladan, 2021 yilda jismoniy
+shaxslarga ajratilgan kreditlar hajmi 6 848 mlrd so‘mni tashkil etgan bo‘lsa, bu
+ko‘rsatkich 2025 yilga kelib 84 834 mlrd so‘mga yetgan, ya’ni 5 yil ichida deyarli
+12,4 barobarga oshgan. Jismoniy shaxslarga ajratilgan kreditlarning portfeldagi
+ulushi esa 21,1 foizdan 51,0 foizgacha o‘sib, tizimda muvozanatli kreditlash
+siyosatining shakllanayotganini ko‘rsatmoqda.
+       2020–2025 yillar davomida xorijiy va milliy valyutadagi kreditlar o‘rtasidagi
+nisbat va kredit portfelidagi salmoqlar dinamikasi O‘zbekiston bank tizimida valyuta
+xavflarini kamaytirish va mahalliy valyutada moliyalashtirish imkoniyatlarining
+kengayib borayotganini ko‘rsatadi. 2020 yilda xorijiy valyutadagi kreditlar hajmi
+100 947,3 mlrd so‘mni tashkil etgan bo‘lsa, 2025 yilga kelib bu ko‘rsatkich
+228 718,0 mlrd so‘mga yetgan. Ya’ni 5 yilda xorijiy valyutadagi kreditlar hajmi
+ 2,3 barobarga oshgan. Shu bilan birga, milliy valyutadagi kreditlar 2020 yildagi
+110 633,2 mlrd so‘mdan 2025 yilda 304 403,2 mlrd so‘mga yetgan, bu esa
+2,75 barobardan ortiq o‘sishni anglatadi. Mazkur statistik o‘zgarishlar milliy
+valyutadagi kreditlar hajmining xorijiy valyutadagiga nisbatan tezroq o‘sayotganini
+ko‘rsatadi.
+
+9
+    O‘zbekiston Respublikasi Markaziy bankning rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+
+14
+     350 000,0                                                               55,0%           57,1%      60,0%
+                     52,3%                                     52,5%
+                                   50,1%         50,2%
+     300 000,0                                                                                          50,0%
+                                   49,9%         49,8%
+     250 000,0       47,7%                                     47,5%
+                                                                             45,0%             42,9% 40,0%
+     200 000,0
+                                                                                                        30,0%
+     150 000,0
+                                                                                                        20,0%
+     100 000,0
+
+      50 000,0                                                                                          10,0%
+
+            0,0                                                                                         0,0%
+                   01.01.2020    01.01.2021    01.01.2022    01.01.2023    01.01.2024    01.01.2025
+
+                             Xorijiy valyutadagi kreditlar, mlrd.so'mda
+                             Milliy valyutadagi kreditlar, mlrd.so'mda
+                             Xorijiy valyutadagi kreditlarning kredit portfelidagi salmog‘i
+                             Milliy valyutadagi kreditlarning kredit portfelidagi salmog‘i
+
+ 3-rasm. Mamlakatimiz bank tizimida kredit portfelining valyuta birliklariga
+               ko‘ra o‘zgarish dinamikasi10 (mlrd.so‘mda)
+
+       Ushbu davrda milliy valyutadagi kreditlarning hajm jihatidan ortib
+borayotgani nafaqat makroiqtisodiy barqarorlik, balki banklar uchun aktivlar sifati
+va kredit xavflarining kamayishiga ijobiy ta’sir ko‘rsatadi. Milliy valyutada
+moliyalashtirishning kengayishi bilan banklar kredit siyosatini yanada
+moslashuvchan yurita boshladi, bu esa, o‘z navbatida, kredit oluvchilar soni va
+kreditlash segmentlarining diversifikatsiyalashuviga olib keldi. Xorijiy valyutadagi
+kreditlarning nisbatan pasayib borayotgan salmog‘i esa tashqi qarzlilikka
+bog‘liqlikning kamayib borayotganini bildiradi. Bu jarayonlar, o‘z navbatida,
+mamlakat moliyaviy tizimining ichki manbalar hisobidan rivojlanayotganini
+anglatadi.
+       2021–2025 yillar davomida jismoniy shaxslarga ajratilgan kreditlar tarkibida
+ipoteka kreditlari hajmi barqaror o‘sish sur’atlarini namoyon etdi. 2021 yilda 28
+300,8 mlrd so‘mni tashkil etgan ushbu kreditlar hajmi 2025 yilga kelib 67 729,5
+mlrd so‘mga yetdi. Bu esa ipoteka kreditlari hajmi besh yilda qariyb 2,4 barobar
+oshganini bildiradi. Ipoteka kreditlarining bu darajada oshishi aholining uy-joy bilan
+ta’minlanish ehtiyoji ortib borayotganidan dalolat beradi. Bu jarayonda ipoteka
+kreditlarining past foizli va uzoq muddatli shartlarda taqdim etilishi, davlat
+tomonidan ipoteka dasturlarining moliyaviy qo‘llab-quvvatlanishi asosiy rol
+o‘ynagan.
+
+
+10
+     O‘zbekiston Respublikasi Markaziy bankning rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+
+                                                                                                             15
+            01.01.2025
+
+
+            01.01.2024
+
+
+            01.01.2023
+
+
+            01.01.2022
+
+
+            01.01.2021
+
+
+                           0%             20%             40%             60%             80%          100%
+                                01.01.2021      01.01.2022      01.01.2023      01.01.2024      01.01.2025
+        Ipoteka kreditlari         28,3            35,9            46,5            58,2            67,7
+        Mikroqarz                  5,7             9,4             14,7            24,5            42,4
+        Iste'mol kreditlari        12,2            12,8            25,2            49,3            46,6
+        Boshqa kreditlar           8,6             11,3            14,6            16,6            20,9
+
+      4-rasm. Tijorat banklari kredit portfelida jismoniy shaxslarga ajratilgan
+       kreditlarining maqsadlariga ko‘ra o‘zgarish dinamikasi11 (trln.so‘mda)
+
+       2021–2025 yillar davomida tijorat banklari kredit portfelida yuridik
+shaxslarga ajratilgan kreditlar tarkibida eng katta ulushni kredit tashkilotlari
+bo‘lmagan yuridik shaxslarga berilgan kreditlar egallab kelmoqda. 2021 yilda ushbu
+kreditlar hajmi 203,4 trln so‘mni tashkil qilgan bo‘lsa, 2025 yilda 330,2 trln so‘mga
+yetgan. Bu davrda mazkur kreditlar hajmi 126,8 trln so‘mga yoki 62% ga oshgan.
+Bu o‘sish ko‘rsatkichlari yuridik shaxslar – xususan, korxona va tashkilotlar
+moliyaviy faoliyatining kengayib borayotganini, ularning tijorat banklariga bo‘lgan
+talabining ortganini ko‘rsatadi. Bu jarayonda real sektorni kreditlash ustuvor
+yo‘nalish bo‘lib qolmoqda.
+       AT “O‘zsanoatqurilishbank” tomonidan jismoniy shaxslarga ajratilgan
+kreditlar 2021 yil boshida 4 301 mlrd so‘mni tashkil etgan bo‘lsa, 2025 yil boshida
+bu ko‘rsatkich 9 864 mlrd so‘mga yetib, qariyb 2,3 barobarga oshgan.
+Bu o‘sish har yili barqaror sur’atlarda davom etgan: 2022 yilda biroz pasayish
+kuzatilgan bo‘lsada (4 260 mlrd so‘m), keyingi yillarda tezkor tiklanish va sezilarli
+o‘sish (2023 yilda 5 463 mlrd, 2024 yilda 7 814 mlrd so‘m) kuzatilgan. Bu esa
+bankning chakana moliyalashtirish bo‘yicha faoliyati izchil takomillashayotganini
+ko‘rsatadi.
+
+
+
+11
+     O‘zbekiston Respublikasi Markaziy bankning rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi
+
+16
+ 60 000                                                                                             100,0%
+                   89,2%             90,1%            88,6%             86,3%               84,9%   90,0%
+ 50 000
+                                                                                                    80,0%
+                                                                                                    70,0%
+ 40 000
+                                                                                                    60,0%
+ 30 000                                                                                             50,0%
+                                                                                                    40,0%
+ 20 000
+                                                                                                    30,0%
+                                                                        13,7%               15,1%   20,0%
+ 10 000            10,8%             9,9%             11,4%
+                                                                                                    10,0%
+          0                                                                                         0,0%
+                01.01.2021        01.01.2022       01.01.2023        01.01.2024       01.01.2025
+
+         AT O'zsanoatqurilishbankda jismoniy shaxlarga ajratilgan kreditlar, mlrd.so'mda
+
+         AT O'zsanoatqurilishbankda yuridik shaxlarga ajratilgan kreditlar, mlrd.so'mda
+
+         AT O'zsanoatqurilishbankda jismoniy shaxlarga ajratilgan kreditlarning kredit portfelidagi
+         salmog‘i
+
+      5-rasm. AT “O‘zsanoatqurilishbank” tomonidan ajratilgan kreditlarning
+             subyektlariga ko‘ra o‘zgarish dinamikasi12 (mlrd.so‘mda)
+
+      AT “O‘zsanoatqurilishbank” tomonidan jismoniy shaxslarga ajratilgan
+kreditlar 2021 yil boshida 4 301 mlrd so‘mni tashkil etgan bo‘lsa, 2025 yil
+boshida bu ko‘rsatkich 9 864 mlrd so‘mga yetib, qariyb 2,3 barobarga oshgan.
+Bu o‘sish har yili barqaror sur’atlarda davom etgan: 2022 yilda biroz pasayish
+kuzatilgan bo‘lsada (4 260 mlrd so‘m), keyingi yillarda tezkor tiklanish va
+sezilarli o‘sish (2023 yilda 5 463 mlrd, 2024 yilda 7 814 mlrd so‘m) kuzatilgan.
+Bu esa bankning chakana moliyalashtirish bo‘yicha faoliyati izchil
+takomillashayotganini ko‘rsatadi.
+      Yuridik shaxslarga ajratilgan kreditlar miqdori esa izchil o‘sib borgan:
+2021 yilda 35 598 mlrd so‘mdan 2025 yilda 55 635 mlrd so‘mga yetgan. Bu
+o‘sish 4 yil davomida 56,3% ni tashkil qilgan bo‘lsa-da, aynan jismoniy
+shaxslarga ajratilgan kreditlar bilan solishtirilganda nisbatan pastroq sur’atda
+bo‘lgan. Bu holat, bankning kredit portfelida sektorlararo muvozanatni asta -
+sekin diversifikatsiya qilishga urinayotganini anglatadi. Shu bilan birga, yuridik
+shaxslar portfeli doimiy ustunlikni saqlab qolmoqda – 2025 yilda ham 84,9%
+ulush bilan yetakchilik qilmoqda.
+
+
+
+12
+     O‘zsanoatqurilishbank ATBning yillik hisobot ma’lumotlari asosida muallif ishlanmasi
+
+                                                                                                           17
+     01.01.2024             14,57                               37,81                           8,02
+                              13,21                                27,33                         5,57
+     01.01.2022                 14,28                                25,90                           4,35
+                                 14,56                                21,94                      4,36
+     01.01.2020                     13,03                                14,53                   3,12
+                                                20,61                                   6,19          1,67
+     01.01.2018                                       18,09                                    2,08 0,72
+
+                   0%              20%               40%            60%              80%              100%
+       Davlat tashkilotlariga ajratilgan kreditlar       Korporativ kreditlar       Jismoniy shaxlarga kredit
+      6-rasm. AT “O‘zsanoatqurilishbank” tomonidan ajratilgan kreditlarning
+                turlariga ko‘ra o‘zgarish dinamikasi13 (trln.so‘mda)
+
+       O‘zsanoatqurilishbank kredit portfelining strukturaviy o‘zgarishi O‘zbekiston
+bank tizimidagi chuqur islohotlarning amaliy natijasi hisoblanadi. 5992-sonli
+farmonda davlat banklarini transformatsiya qilish, ularni xususiylashtirishga
+tayyorlash, menejment tizimini yangilash va zamonaviy bank texnologiyalarini joriy
+etish kabi ustuvor yo‘nalishlar belgilangan edi. Bu islohotlar natijasida banklar
+faoliyati samaradorligi oshib, resurslar ko‘proq xususiy sektor va aholiga
+yo‘naltirilmoqda. Davlat kreditlari ulushi qisqarib, korporativ va iste’mol kreditlari
+ulushi oshgani bankning bozor tamoyillariga moslashayotganidan darak beradi. Bu
+esa bank tizimining raqobatbardoshligini oshirish va iqtisodiyotda muhim rol
+o‘ynashini ta’minlashda muhim ahamiyat kasb etadi.
+ 500,00                                              1304,3%                                            1400,0%
+ 450,00                                                                                                 1200,0%
+ 400,00                                              439,27                                             1000,0%
+ 350,00
+ 300,00                      572,5%
+                                                                                                        800,0%
+ 250,00                                                                                                 600,0%
+ 200,00                                                          256,69
+                                                                                                        400,0%
+ 150,00                                                                       181,06                    200,0%
+ 100,00                                     132,6%                                          132,22
+  50,00                                                                                                 0,0%
+                  2,00        13,45       31,28                     -41,6%     -29,5%        -27,0%
+   0,00                                                                                                 -200,0%
+
+
+
+
+                           Overdraft kreditlar                Oldingi yilga nisbatan o'zgarishi
+
+         7-rasm. AT “O‘zsanoatqurilishbank” tomonidan ajratilgan overdraft
+                 kreditlarining o‘zgarish dinamikasi14 (mlrd.so‘mda)
+
+13
+     O‘zsanoatqurilishbank ATBning yillik hisobot ma’lumotlari asosida muallif ishlanmasi
+14
+     O‘zsanoatqurilishbank ATBning yillik hisobot ma’lumotlari asosida muallif ishlanmasi
+
+18
+       2022 yildan boshlab overdraft kreditlari hajmi keskin kamaygan. Jumladan,
+2022 yilda overdraft kreditlari 256,69 trln so‘mni tashkil etib, 41,6% ga kamaygan.
+Ushbu pasayish tendensiyasi keyingi yillarda ham davom etgan: 2023 yilda
+overdraft hajmi 181,06 trln so‘mga tushib, 29,5%, 2024 yilda esa 132,22 trln so‘mga
+tushib, 27,0% kamaygan. Bu pasayish bankning risklarni boshqarish strategiyasini
+o‘zgartirgani, yoki overdraft kreditlariga bo‘lgan ehtiyoj kamaygani bilan
+izohlanishi mumkin. Shuningdek, bankning kredit portfeli tarkibini qayta
+optimallashtirish va uzoq muddatli, barqaror kredit mahsulotlariga e’tibor qaratish
+strategiyasi ham bunga sabab bo‘lishi mumkin. Bu jarayonlar overdraft
+kreditlarining portfeldagi ulushining kamayishiga olib kelgan.
+
+            01.01.2024
+            01.01.2023
+            01.01.2022
+            01.01.2021
+            01.01.2020
+            01.01.2019
+
+                           0,00                  2000,00                  4000,00               6000,00
+                            01.01.2019 01.01.2020 01.01.2021 01.01.2022 01.01.2023 01.01.2024
+        Boshqa kreditlar      123,11     146,23      73,44      11,42      80,93     132,00
+        Iste'mol krediti      181,39        300,60         256,59        110,16         73,45    279,50
+        Mikroqarz             121,16        357,38         628,11        464,73        744,72   1819,20
+        Avtokredit            350,22        525,98         536,71        448,95        982,32    661,67
+        Ipoteka krediti       898,14       1792,92        2867,13       3314,06       3685,58   5260,58
+
+ 8-rasm. AT “O‘zsanoatqurilishbank” tomonidan jismoniy shaxlarga ajratilgan
+      kreditlarining turlari bo‘yicha o‘zgarish dinamikasi15 (mlrd.so‘mda)
+
+       AT O‘zsanoatbank tomonidan jismoniy shaxslarga ajratilgan kreditlar tahlili
+bankning mazkur segmentdagi faoliyati turli kredit turlari bo‘yicha qanday
+o‘zgarishlarga uchraganini aniq aks ettiradi. Ipoteka kreditlari 2019 yilda 898,14
+mlrd so‘mni tashkil qilgan bo‘lsa, 2024 yilga kelib bu ko‘rsatkich 5260,58 mlrd so‘m
+ga yetib, olti yil ichida 5,8 baravarga o‘sgan. Bu o‘sish ipoteka kreditlariga talabning
+ortgani, shuningdek, bankning ushbu yo‘nalishda ajratayotgan mablag‘lar hajmi
+sezilarli darajada kengayganini ko‘rsatadi.
+       AT O‘zsanoatbank jismoniy shaxslar kredit portfeli tahlili shuni ko‘rsatadiki,
+bank faoliyatida ipoteka va mikroqarzlar kreditlari asosiy ustuvor yo‘nalish bo‘lib
+bormoqda. Shu bilan birga, avtokredit va iste’mol kreditlarida davriy pasayish va
+o‘sishlar, boshqa kreditlarda esa keskin o‘zgarishlar mavjud. Bu esa bank kredit
+siyosatining jismoniy shaxslar ehtiyojlariga mos ravishda o‘zgarib borayotganini
+hamda ichki bozor talablariga tezkor moslashuv mavjudligini ko‘rsatadi.
+
+15
+     O‘zsanoatqurilishbank ATBning yillik hisobot ma’lumotlari asosida muallif ishlanmasi
+
+                                                                                                          19
+                                                                       1-jadval.
+       AT “O‘zsanoatqurilishbank” kredit portfelida korporativ kreditlarning
+              sohalar bo‘yicha o‘zgarish dinamikasi16 (mlrd.so‘mda)
+                                                                                                      2023 yilda
+                                                                                                      2016 yilga
+ Sohalar            01.01.2017       01.01.2021      01.01.2022      01.01.2023      01.01.2024
+                                                                                                       nisbatan
+                                                                                                      o‘zgarishi
+ Neft va gaz
+ va ximiya              3833,02          9999,56        10704,33        10885,33        11052,86         188,4%
+ sanoati
+       Ulushi             44,6%           27,4%            26,6%           23,8%             21,1%
+ Ishlab
+                        2024,88        12165,25         15849,75        18207,56        22529,20        1012,6%
+ chiqarish
+       Ulushi            23,6%            33,3%           39,4%           39,8%              43,0%
+ Energetika             1190,83          3396,79         2176,80         3114,93            2982,97      150,5%
+       Ulushi            13,9%             9,3%            5,4%            6,8%               5,7%
+ Transport
+                          775,85         2198,16         2367,54         2883,33            3269,40      321,4%
+ va aloqa
+       Ulushi              9,0%            6,0%            5,9%            6,3%               6,2%
+ Qurilish                 256,12          786,11          895,23         1625,42            1637,67      539,4%
+       Ulushi              3,0%            2,2%            2,2%            3,6%               3,1%
+ savdo va
+                          357,44         4338,73         4441,33         5554,15            7342,47     1954,2%
+ xismat
+       Ulushi               4,2%          11,9%            11,1%           12,1%             14,0%
+ qishloq
+                          146,49         3616,09         3745,48         3460,68            3572,13     2338,5%
+ xo'jaligi
+       Ulushi               1,7%            9,9%            9,3%            7,6%              6,8%
+
+       AT O‘zsanoatbank kredit siyosatidagi transformatsiyalar nafaqat bank
+faoliyatining diversifikatsiyasini, balki iqtisodiy siyosatdagi muhim ustuvorliklarni
+– iqtisodiyotni liberallashtirish, real sektorni qo‘llab-quvvatlash, aholining turmush
+darajasini oshirishga xizmat qiladigan tarmoqlarga kredit oqimini yo‘naltirish kabi
+yo‘nalishlarni ham yaqqol ko‘rsatadi. Shu tariqa, sohalar kesimidagi bu o‘zgarishlar
+O‘zbekiston iqtisodiyotida barqaror va o‘suvchan model shakllanayotganidan
+dalolat beradi.
+       Empirik tahlilimizda O‘zsanoatqurilishbank kreditlari foiziga (𝑆𝑄𝐵𝐿𝑅𝑡 ) ta’sir
+etuvchi omil sifatida iqtisodiyotdagi inflyatsiya darajasining o‘zgarishi
+(𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛𝑡 ), muomaladagi pul massasining o‘zgarishi (𝑀2𝑡 ) va iqtisodiyotdagi
+bozor foiz stavkalarining asosiy indikator hisoblangan pul bozoridagi foiz
+stavkaning o‘zgarishi (𝑀𝑀𝑅𝑡 ) tanlangan. Ushbu ko‘rsatkichlar albatta tashqi
+ko‘rsatkichlar hisoblansada, ammo O‘zsanoatqurilish ban yirik banklardan biri
+bo‘lganligi uchun bu bank foiz riskini tashqi omillarga ko‘ra belgilashi mantiqan
+to‘g‘ri qarordir. Tаnlаngаn kо‘rsаtkichlаr chоrаklik kо‘rsаtkichlаr bо‘lib, 2005q1-
+2024q2 dаvr оrаlig‘ini о‘z ichigа оlаdi. Shuningdеk, kо‘rsаtkichlаrning tа'sirini
+аniqlаshtirish uchun tаnlаngаn stаtistik mа'lumоtlаr nаturаl lоgоrifmlаngаn.
+       O‘zsanoatqurilishbank ATB kredit foiz stavkasiga ta’sir etuvchi omillarning
+strukturаviy vеktоrli аvtоrеgrеssiyа modeli quyidagi ko‘rinishda ifodalaymiz:
+
+
+16
+     O‘zsanoatqurilishbank ATBning yillik hisobot ma’lumotlari asosida muallif ishlanmasi
+
+20
+                                  4                     4               4
+
+      ∆𝑆𝑄𝐵𝐿𝑅𝑡 = 𝛼1 + 𝑝1 𝑒1 + ∑ 𝛽𝑖 ∆𝑆𝑄𝐵𝐿𝑅𝑡−𝑖 + ∑ 𝛿𝑖 𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛𝑡−𝑖 + ∑ 𝛾𝑖 ∆𝑀2𝑡−𝑖
+                                 𝑖=1                   𝑖=1              𝑖=1
+                         4
+
+                      + ∑ 𝜔𝑖 𝑀𝑀𝑅𝑡−𝑖
+                        𝑖=1
+
+
+                                                                       2-jаdvаl
+    O‘zsanoatqurilishbank kredit foiz stavkasiga ta’sir etuvchi omillarning
+            strukturаviy vеktоrli аvtоrеgrеssiyа modeli nаtijаsi.
+Vector Autoregression Estimates (with restrictions)
+
+                               𝑰𝒏𝒇𝒍𝒂𝒕𝒊𝒐𝒏𝒕             𝑴𝟐𝒕    𝑴𝑴𝑹𝒕             𝑺𝑸𝑩𝑳𝑹𝒕
+
+       𝑰𝒏𝒇𝒍𝒂𝒕𝒊𝒐𝒏𝒕−𝟏             0.000000         0.000000    0.000000         -0.114682
+                                   ---              ---         ---            (0.05124)
+                                                                              [-2.23814]
+
+          𝑴𝟐𝒕−𝟏                 0.000000         0.000000    0.000000         -0.021908
+                                   ---              ---         ---            (0.01774)
+                                                                              [-1.23513]
+
+          𝑴𝟐𝒕−𝟐                 0.000000         0.000000    0.000000         -0.017652
+                                   ---              ---         ---            (0.02100)
+                                                                              [-0.84044]
+
+          𝑴𝟐𝒕−𝟑                 0.000000         0.000000    0.000000         -0.364614
+                                   ---              ---         ---            (0.01878)
+                                                                              [-3.43999]
+
+         𝑴𝑴𝑹𝒕−𝟏                 0.000000         0.000000    0.000000          0.651017
+                                   ---              ---         ---            (0.18518)
+                                                                              [ 2.59893]
+
+
+       Model natijalariga ko‘ra, O‘zsanoatqurilishbank ATBning kreditlari foiziga
+tanlangan ko‘rsatkichlarning barchasining ta'sir mavjudligi aniqlandi. Bu biz
+tomonimizdan O‘zsanoatqurilishbank ATBning kreditlari foiziga ta'sir ko‘rsatuvchi
+tashqi omillarni to‘g‘ri tanlaganimizdan darak beradi. Ushbu omillarning
+O‘zsanoatqurilishbank ATBning kreditlari foiziga ta'siri aniq bo‘lsada, ammo ta'sir
+kuchlarining kechikishlaridagina farqlar mavjud.
+       Xususan, iqtisodiyotdagi inflyasiya darajasining oylik bir foizga oshishi bir
+oylik kechikish bilan O‘zsanoatqurilishbank ATBning kreditlari foizini -0.11 foizga
+pasaytirmoqda. Shuningdek, pul bozoridagi foiz stavkaning bir foizga oshishi esa
+bir oylik lag bilan O‘zsanoatqurilishbank ATBning kreditlari foizini 0.65 foizga
+oshirmoqda.
+Muomaladagi pul massasining oshishi tijorat banklarining ssuda kapitalini oshirish
+orqali ular foizining pasayishiga sabab bo‘ladi. Bu holat aksariyat iqtisodiyotlarda
+ishlaydigan amaliy qoidadir. Garchi muomaladagi pul massasining oshishi tovarlar
+bozoridan ko‘ra moliya bozoriga tezroq ta'sir ko‘rsatsada, ammo bu qisqa muddatda
+                                                                                           21
+amalga oshmaydi. Bu holatni bizning iqtisodiyotimizda ham ko‘rishimiz mumkin.
+Jumladan, muomaladagi oylik pul massasining bir foizga oshishi uch oylik kechikish
+bilan O‘zsanoatqurilishbank ATBning kreditlari foizini -0.36 foizga pasaytirmoqda.
+       Dissertatsiya ishining «Tijorat banklari kredit portfeli sifatini oshirish
+yo‘llari» deb nomlangan uchinchi bobida tijorat banklari kredit operatsiyalari va
+muammoli kreditlarining prognoz ko‘rsatkichlari, hamda tijorat banklari kredit
+portfeli sifatini oshirish bilan bog‘liq muammolar va ularni bartarash etishga
+qaratilgan ilmiy xulosalar va takliflar shakllantirilgan.
+       Muammoli kreditlarning yuqori ulushi bank portfeli diversifikatsiyasiga va
+kredit siyosatining samaradorligiga ham salbiy ta’sir ko‘rsatadi. Bunday sharoitda
+banklar kreditlash mezonlarini yanada qat'iylashtiradi, risklarni kamaytirish uchun
+ko‘proq garov va kafolatlar talab qiladi, bu esa o‘z navbatida iqtisodiyotdagi faol
+tadbirkorlik sub’yektlari uchun kredit resurslariga kirishni qiyinlashtiradi.
+Shuningdek, muammoli kreditlar moliyaviy hisobotlarda aktivlarning sifatsizligini
+oshiradi va investorlarda hamda xalqaro reyting agentliklarida bankka bo‘lgan
+ishonchni pasaytiradi. Bu holat bankning xorijiy moliya bozorlarida mablag‘ jalb
+qilish imkoniyatlarini cheklaydi. Shuning uchun muammoli kreditlarni erta aniqlash,
+monitoring qilish va ularni samarali boshqarish har bir tijorat bankining ustuvor
+strategik yo‘nalishlaridan biri bo‘lishi zarur.
+ 1 800,0                                                                       25,0%
+                                              21,1%     21,6%
+ 1 600,0
+ 1 400,0                                                                       20,0%
+
+ 1 200,0                                                              14,7%
+                                 12,4%                                         15,0%
+ 1 000,0
+     800,0
+                                                                               10,0%
+     600,0
+                5,1%
+     400,0                                     3,8%      3,5%                  5,0%
+                                 2,1%                                 2,2%
+     200,0     1,0%
+        -                                                                      0,0%
+              2020-01        2021-01          2022-01   2023-01      2024-01
+                       SQB NPL           NPL/SQB Loan    NPL/SQB capital
+
+        9-rasm. O‘zsanoatqurilishbankda muammoli kreditlar dinamikasi
+                                 (mlrd.so‘mda)
+
+      2020–2024 yillar davomida O‘zsanoatqurilishbankda muammoli kreditlar
+hajmi va ularning bank kredit portfelidagi hamda kapitalga nisbatan ulushi muayyan
+o‘zgarishlarga uchradi. 2023–2024 yillarda muammoli kreditlar hajmi biroz
+qisqargani (2024-yilda 1 283 mlrd so‘m) va kredit portfelidagi ulushi pasaygani
+kuzatiladi. Bunda bank tomonidan amalga oshirilgan risklarni boshqarish
+siyosatining mustahkamlanishi, kredit monitoringi jarayonlarining kuchaytirilgani
+va qayta moliyalashtirish mexanizmlarining tatbiq etilgani muhim rol o‘ynagan
+22
+bo‘lishi mumkin. Shunga qaramay, muammoli kreditlarning bank kapitaliga nisbati
+2023-yilda 21,6% ni, 2024-yilda esa 14,7% ni tashkil etgani bank moliyaviy
+barqarorligiga salbiy ta’sir ko‘rsatishi mumkin bo‘lgan xavf omillarining saqlanib
+qolayotganini bildiradi. Bu holat O‘zsanoatqurilishbank uchun kredit siyosatini
+chuqur tahlil asosida yuritish, yuqori riskli sohalarda kreditlash hajmini cheklash va
+ta’minotli kreditlar ulushini oshirish zarurligini ko‘rsatadi.
+       Bank tizimining kredit portfeli va muammoli kreditlarining dinamikasini
+Seasonal ARIMA (SARIMA) modeli asosida prognoz qilish hozirgi davrda
+nihoyatda muhim ahamiyat kasb etadi. Kredit portfeli – bu banklarning asosiy
+daromad manbai bo‘lib, uning hajmi va sifati bankning moliyaviy barqarorligi,
+likvidligi va ishonchliligini belgilab beradi. Kreditlar hajmi ortayotgan bo‘lsa-da, bu
+o‘sish doim ham sog‘lom kredit siyosatini anglatmaydi. Shuning uchun SARIMA
+kabi vaqt qatori modellaridan foydalangan holda kredit portfelining kelgusi oylarda
+yoki yillarda qanday o‘zgarishini oldindan aniqlash orqali, banklar strategik
+rejalashtirish, resurslarni taqsimlash va risklarni boshqarish jarayonlarini ancha
+samarali amalga oshirishi mumkin. Ayniqsa, mavsumiy omillar (masalan, qishloq
+xo‘jaligi, savdo va qurilish sohalaridagi mavsumiy kredit talabining o‘zgarishi)
+SARIMA modeli yordamida aniq aks ettiriladi va bu banklarga kredit taqsimoti,
+likvidlikni boshqarish va daromad prognozlarini to‘g‘ri tuzishda yordam beradi.
+
+
+
+
+10-rasm. O‘zsanoatqurilishbank kredit portfelining prognoz ko‘rsatkichlari,
+                             mlrd.so‘mda.
+
+       Yuqoridagi rasmdan ko‘rinib turibdiki, O‘zsanoatqurilish bankining jami
+kreditlar hajmi 2020-yil mart oyida 31 669 mlrd so‘mni tashkil etgan bo‘lsa, 2024-
+yil dekabriga kelib bu ko‘rsatkich 65 498,4 mlrd so‘mga yetgan. Ushbu davr
+mobaynida kredit hajmi deyarli ikki baravarga o‘sdi. Seasonal ARIMA modeli
+asosida amalga oshirilgan prognoz natijalariga ko‘ra, kreditlar hajmi 2028-yil mart
+
+                                                                                    23
+oyiga borib 89 600 mlrd so‘mga yetishi kutilmoqda. Bu esa 2024-yil dekabrdagi
+ko‘rsatkichga nisbatan taxminan 36,7% ga o‘sish demakdir. Model kreditlar
+hajmidagi mavsumiy tebranishlarni ham inobatga olgan bo‘lib, har chorakda
+ma’lum darajadagi o‘sish sur’atlarining o‘zgarib borishini aks ettiradi. Ayniqsa,
+2025 va 2027-yillar oralig‘ida biroz sekinlashgan, ammo barqaror o‘sish
+tendensiyasi kuzatiladi.
+
+
+
+
+     11-rasm. O‘zsanoatqurilishbankda muammoli kreditlarning prognoz
+                       ko‘rsatkichlari, mlrd.so‘mda.
+
+       Yuqoridagi rasmda muammoli kreditlar hajmidagi dinamikani ko‘rsatadi.
+2020-yil mart oyida ushbu ko‘rsatkich 331,6 mlrd so‘m bo‘lgan bo‘lsa, 2024-yil
+aprel oyida u eng yuqori nuqtaga chiqib, 2 982,0 mlrd so‘mga yetgan. Bu bank
+muammoli kreditlari hajmi 4 yil ichida 9 baravar ortganini anglatadi. Prognoz
+natijalariga ko‘ra, 2028-yil mart oyiga kelib bu ko‘rsatkich 3 300 mlrd so‘m atrofida
+bo‘lishi kutilmoqda, ya’ni muammoli kreditlar hajmi ortishda davom etadi, lekin
+o‘sish sur’ati nisbatan barqarorlashadi. Modelda 2025-yil boshlarida muammoli
+kreditlar sezilarli darajada yuqorilashi, ammo 2026-yildan boshlab ularning asta-
+sekin pasayishi va stabil holatga tushishi taxmin qilinmoqda. Bu esa bankning
+risklarni boshqarish mexanizmlarini mustahkamlashi zarurligini ko‘rsatadi.
+       Tijorat banklari kredit portfeli samaradorligini oshirish iqtisodiy barqarorlik
+va raqobatbardoshlikni ta’minlashda muhim omil hisoblanadi. Kredit portfeli
+samaradorligini oshirish, tijorat banklariga nafaqat foyda olish imkoniyatini
+yaratadi, balki moliyaviy resurslarning optimal taqsimlanishini ta'minlaydi. Buning
+uchun banklar, kreditlashning barcha bosqichlarini tizimli ravishda qayta ko‘rib
+chiqishlari zarur. Kreditlar berishning sifatini yaxshilash, mijozlarning moliyaviy
+holatini chuqur tahlil qilish, shuningdek, kredit risklarini minimallashtirish
+samaradorlikni oshiradi. Banklar, shu bilan birga, kredit portfelini diversifikatsiya
+24
+qilish va yangi, yuqori rentabellikka ega bo‘lgan sohalarga kreditlar ajratishni
+ko‘zda tutishi kerak.
+       Kredit portfeli samaradorligini oshirish uchun banklar moliyaviy tahlil va
+monitoringni doimiy ravishda olib borishlari lozim. Mijozlar va sanoat
+tarmoqlarining iqtisodiy holatini tahlil qilish, kreditlarning to‘lov qobiliyatini
+aniqlash va ularning qaytarilish xavfini oldindan baholash orqali banklar risklarni
+kamaytirishi mumkin. Shuningdek, banklar, kredit portfeli bilan bog‘liq bo‘lgan
+ijtimoiy va siyosiy omillarni ham inobatga olishlari lozim, chunki ular kreditlar
+bo‘yicha qarorlarni ta'sir qiluvchi asosiy omillardan biridir. Kredit portfeli
+samaradorligini oshirishda, shuningdek, raqamli texnologiyalardan foydalanish ham
+muhimdir. Kredit berish jarayonlarini raqamlashtirish, mijozlarni tez va samarali
+baholash imkonini yaratadi, bu esa kredit portfelining umumiy samaradorligini
+oshiradi.
+       Shu bilan birga, tijorat banklari uchun kredit portfeli samaradorligini
+oshirishning yana bir muhim yo‘nalishi – bankning ichki siyosatining
+yangilanishidir. Kredit siyosatini yangilash va kreditlarga bo‘lgan shartlarni
+optimallashtirish, xususan, kredit foiz stavkalarini, muddatlarini va ta’minot
+talablarini moslashtirish banklar uchun samaradorlikni oshirish imkoniyatlarini
+yaratadi. Shuningdek, banklar o‘zlarining kredit portfellarini tahlil qilish va yaxshi
+natijalarga erishgan mijozlarni aniqlash orqali yuqori riskli qarorlarni
+kamaytirishlari mumkin. Mijozlarning to‘lov qobiliyati, kredit tarixlari va moliyaviy
+holatiga asoslangan qarorlar orqali banklar kredit portfeli samaradorligini sezilarli
+darajada oshirishlari mumkin.
+                                     XULOSA
+       Rivojlanayotgan davlatlarda tijorat banklarining kredit portfeli
+samaradorligini oshirish iqtisodiy barqarorlik va moliyaviy tizimning rivojlanishi
+uchun muhim omillardan biri hisoblanadi. Biroq, ushbu davlatlarda mijozlarning
+to‘lov qobiliyatining pastligi kredit bozorida jiddiy muammolardan biri bo‘lib
+qolmoqda. Mijozlarning to‘lov qobiliyatining pastligi kreditlarning qaytarilish
+ehtimolini kamaytiradi, banklarning risk darajasini oshiradi va kredit portfelining
+sifatsiz bo‘lishiga olib keladi.
+       Kredit portfeli – bu bank tomonidan ajratilgan barcha kreditlar majmuasi
+bo‘lib, uning samaradorligi quyidagi omillar bilan belgilanadi:
+       1. Kreditlarning sifat darajasi (tartibli va muddati o‘tgan kreditlar ulushi).
+       2. Kredit risklarini boshqarish samaradorligi.
+       3. Qaytgan kreditlar va yangi ajratilgan kreditlar nisbatining barqarorligi.
+       4. Bank foydaliligi va rentabellik darajasi.
+       Agar kredit portfeli sifatsiz bo‘lsa, bu bankning likvidligi va barqarorligiga
+salbiy ta’sir ko‘rsatadi. Shu bois, rivojlanayotgan davlatlarda banklar mijozlarning
+to‘lov qobiliyatini oshirish va kredit portfelining sifati yaxshilash yo‘llarini
+izlashlari lozim.
+       Ko‘plab rivojlanayotgan mamlakatlarda aholi daromadlari nisbatan past
+bo‘lib, bu ularning kredit olish imkoniyatlarini cheklaydi. Past daromad darajasi
+tufayli qarz oluvchilar kredit majburiyatlarini to‘liq bajarishga qodir bo‘lmaydi.
+
+                                                                                   25
+Barqaror ish joyining mavjud emasligi mijozlarning to‘lov qobiliyatini
+zaiflashtiradi. Ishsizlik darajasining yuqoriligi banklar uchun kredit risklarini
+oshiradi va natijada kredit ajratish siyosatini qat’iylashtirishga olib keladi.
+       Rivojlanayotgan davlatlarda ko‘plab kishilar noformal iqtisodiy faoliyat bilan
+shug‘ullanishadi, bu esa ularning rasmiy daromadlarini hujjatlashtirishni
+qiyinlashtiradi. Banklar esa kredit ajratishda rasmiy hujjatlar va daromad
+manbalariga asoslangan holda qaror qabul qilishadi, bu esa ko‘plab mijozlar uchun
+kredit olish imkoniyatlarini cheklaydi.
+       Aholining moliyaviy bilim darajasi past bo‘lsa, ular kreditlarni qanday
+boshqarish kerakligini bilmaydi va noto‘g‘ri qarorlar qabul qiladi. Bu esa
+kreditlarning kechikishi yoki qaytarilmasligi ehtimolini oshiradi. Ko‘plab
+rivojlanayotgan mamlakatlarda kredit byurolari yetarlicha rivojlanmagan bo‘lib,
+mijozlarning kredit tarixi to‘g‘risida to‘liq ma’lumot mavjud emas. Natijada, banklar
+mijozlarning oldingi kredit majburiyatlarini qanchalik o‘z vaqtida bajarganligini
+baholay olmaydi.
+       Kredit risklarini samarali boshqarish uchun ishonchli va keng qamrovli
+ma’lumotlar bazasi talab etiladi. Rivojlanmagan davlatlarda axborot tizimlari zaif
+bo‘lib, qarz oluvchilarning kredit tarixi va moliyaviy holati haqida yetarli
+ma’lumotlar mavjud emas. Natijada, qarz oluvchining ishonchliligi noto‘g‘ri
+baholanadi. Shu bilan birga, bank sektorida kredit risklarini boshqarishga oid
+qonunchilik bazasining to‘liq shakllanmaganligi muhim muammolardan biridir.
+Qonunchilikning noaniqligi banklarga kredit ajratish jarayonida subyektiv qarorlar
+qabul qilish imkonini beradi, bu esa risklarni oshiradi.
+       Kredit risklarini samarali boshqarish tizimining rivojlanmaganligining
+oqibatlari quyidagi nohush holarlarga olib kelishi mumkin.
+       Kredit risklarini nazorat qilmaslik bank tizimining beqarorligiga sabab
+bo‘lishi mumkin. Kreditorlar katta yo‘qotishlarga uchragan holatda banklar
+moliyaviy inqirozga duch kelishi mumkin.
+       Bank tizimining yetarlicha ishonchli ishlamasligi natijasida investitsion
+faoliyat susayadi. Bu esa umumiy iqtisodiy rivojlanishga salbiy ta’sir ko‘rsatadi va
+kichik hamda o‘rta biznesning moliyaviy resurslarga bo‘lgan kirish imkoniyatlarini
+cheklaydi.
+       Kredit tizimining ishonchsizligi sababli aholining past daromadli qismi bank
+xizmatlaridan foydalanish imkoniyatidan mahrum bo‘ladi. Bu esa ularning iqtisodiy
+jihatdan rivojlanish imkoniyatlarini cheklaydi va ijtimoiy tengsizlikni kuchaytiradi.
+       Rasmiy kredit tizimining ishonchsizligi fuqarolarni noformal kredit
+manbalariga murojaat qilishga majbur qiladi. Noformal kredit bozorida yuqori foiz
+stavkalari va noqonuniy amaliyotlar mavjud bo‘lib, bu iqtisodiy beqarorlikni yanada
+kuchaytiradi.
+
+
+
+
+26
+       TASHKENT INTERNATIONAL UNIVERSITY
+      HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+   DSc 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+   ОБРАЗОВАТЕЛЬНЫЙ УНИВЕРСИТЕТ РЕНЕССАНС
+
+
+
+
+           САБИРОВА ЛОБАР БАХРОМОВНА
+
+
+
+ПУТИ ПОВЫШЕНИЯ КАЧЕСТВА КРЕДИТНОГО ПОРТФЕЛЯ В
+           КОММЕРЧЕСКИХ БАНКАХ
+
+
+
+        08.00.07 - Финансы, денежное обращение и кредит
+
+
+
+
+                         АВТОРЕФЕРАТ
+      на соискание ученой степени доктора философии (PhD)
+                    по экономическим наукам
+
+
+
+
+                   город Ташкент – 2025 год
+                                                            27
+28
+         ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+      Актуальность и необходимость темы диссертации. Необходимость
+повышения качества кредитного портфеля коммерческих банков в мировой
+экономике приобретает все большее значение в связи с глобальной
+экономической       нестабильностью,      пандемией,    геополитическими
+конфликтами и растущими рисками инфляции в последние годы. Ухудшение
+качества кредитного портфеля увеличивает риск не только финансовых
+потерь, но и системных рисков для банков. Поэтому банки развитых и
+развивающихся стран стремятся улучшить качество портфеля за счет
+совершенствования систем оценки кредитов, внедрения инструментов
+цифрового      анализа,    мониторинга     финансовой    дисциплины     и
+платежеспособности клиентов в режиме реального времени. Например, по
+итогам 2023 года общий кредитный портфель американского банка JPMorgan
+Chase составил 1,17 трлн долларов, более 98% этих кредитов были выделены
+клиентам с платежной дисциплиной17. Аналогичным образом, 94% кредитного
+портфеля немецкого Deutsche Bank в размере 456 млрд евро в 2023 году были
+оценены как низкорискованные18.
+      Научные исследования, проводимые на международном уровне по
+повышению качества кредитного портфеля коммерческих банков, направлены
+на обеспечение стабильности банковской системы, выявление и минимизацию
+кредитных рисков, а также оптимизацию процессов принятия решений на
+основе цифровых технологий. Основное внимание исследований
+сосредоточено на использовании алгоритмов искусственного интеллекта и
+машинного обучения при оценке кредитов, динамическом мониторинге
+уровня кредитоспособности клиентов, диверсификации кредитного портфеля
+в разрезе секторов и регионов. Однако во многих развивающихся странах
+научно-практические исследования в этой области все еще недостаточны.
+Поэтому в будущем необходимо глубоко проанализировать качество и виды
+рисков кредитных портфелей банков, ввести лимиты в разрезе секторов,
+использовать кредитное страхование, расширить возможности крупных
+банков по прогнозированию и управлению рисками на основе искусственного
+интеллекта и изучить влияние кредитных ресурсов на эффективность
+реального сектора. Исследования в этом направлении играют важную роль в
+поддержании конкурентоспособности банковской системы, финансовой
+стабильности и экономического роста, и поэтому научная и практическая
+актуальность данной темы возрастает.
+      Обеспечение стабильности банковской системы в Узбекистане,
+оптимизация кредитного портфеля коммерческих банков и предотвращение
+проблемных кредитов является важной стратегической задачей в условиях
+сегодняшних экономических реформ. Процессы трансформации банковского
+сектора в стране, включая приватизацию банков с государственным участием,
+создание открытой конкурентной среды и расширение сотрудничества с
+
+17
+     JPMorgan Chase & Co. 2023 Annual Report
+18
+     Deutsche Bank Annual Report 2023
+
+                                                                      29
+международными финансовыми институтами, требуют глубокого научного
+изучения этой системы. Особенно в последние годы рост уровня проблемных
+кредитов в некоторых банках, нецелевое направление кредитных ресурсов,
+принятие решений без достаточного анализа и оценки, высокая доля
+рискованных активов в банковских портфелях угрожают стабильности
+системы. С этой точки зрения чрезвычайно актуально изучение структуры
+кредитного портфеля в Узбекистане посредством научных исследований, его
+диверсификации по секторам, роли цифровых технологий и систем
+кредитного рейтинга в определении платежеспособности клиентов. Кроме
+того, банками можно укрепить финансовую устойчивость банковской системы
+путем внедрения методологий, соответствующих международной практике
+оценки кредитных рисков, повышения эффективности кредитного
+мониторинга и проведения фундаментальных научных исследований по
+коренным причинам проблем, связанных с качеством кредитов. Поэтому
+исследования, направленные на глубокий анализ и разработку научно
+обоснованных предложений в этом направлении, должны стать неотъемлемой
+частью экономической политики.
+      Данное научное исследование в определенной степени служит
+реализации задач, определенных в Указе Президента Республики Узбекистан
+от 28 января 2022 года No УП-60 "О Стратегии развития Нового Узбекистана
+на 2022-2026 годы," Указе Президента Республики Узбекистан от 5 октября
+2020 года No УП-6079 "Об утверждении Стратегии "Цифровой Узбекистан-
+2030" и мерах по ее эффективной реализации," Указе Президента Республики
+Узбекистан от 12 мая 2020 года No УП-5992 "О Стратегии реформирования
+банковской системы Республики Узбекистан на 2020-2025 годы,"
+Постановлении Президента Республики Узбекистан от 24 мая 2023 года No
+ПП-162 "О мерах по повышению охвата и качества цифровых услуг, а также
+цифровой трансформации сфер, отраслей и регионов," Постановлении
+Президента Республики Узбекистан от 23 марта 2018 года No ПП-3620 "О
+дополнительных мерах по повышению доступности банковских услуг" и
+других нормативно-правовых актах в данной сфере.
+       Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетным направлением развития науки и
+технологий республики I. "Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики."
+       Степень изученности проблемы. Научно-практические аспекты путей
+повышения качества кредитного портфеля коммерческих банков в процессе
+трансформации отражены в исследованиях таких зарубежных ученых-
+экономистов, как К.Миямото, К. Якоб, Ж.А. Кастильо и А. Мора-Валенсия,
+Л.С. Мбеукам, П.К. Озили, К. Феррейра, Ф. Офрия и М. Муччарди19.
+19
+  Miyamoto, K. (2022). Quantum algorithm for calculating risk contributions in a credit portfolio. EPJ Quantum
+Technology, 9(1), 1-16. Jakob, K. (2022). Estimating correlation parameters in credit portfolio models under time-
+varying and nonhomogeneous default probabilities. Journal of Credit Risk, 18(4). Castillo, J. A., & Mora-Valencia,
+
+30
+      Узбекские ученые-экономисты Н.Жумаев, Б.Бердияров, А.Бурханов,
+О.Саттаров, Ш.Ханнаев, М.М. Тошбоев, Ш.С. Мадрахимов, С.Т. Эргашев и
+другие проводили научные исследования по банковским валютным
+операциям, стабильности банковской системы, управлению ликвидностью
+банков, экономической безопасности коммерческих банков, факторам,
+влияющим на эффективность коммерческих банков, совершенствованию
+практики    розничных    банковских    услуг,    перспективам    развития
+сберегательной политики для физических лиц в коммерческих банках,
+повышению привлекательности вкладов населения в банках. Однако следует
+отметить, что пути повышения качества кредитного портфеля коммерческих
+банков в процессе трансформации, диверсификация кредитного портфеля в
+банках, факторы, влияющие на объем кредитов и их проценты, оценка и анализ
+их прогнозных показателей на основе различных эконометрических моделей
+недостаточно изучены учеными-экономистами нашей страны.20
+      Связь темы диссертации с планами научно-исследовательских
+работ высшего образовательного учреждения, где выполнена
+диссертация. Данное диссертационное исследование выполнено в
+соответствии с планом научно-исследовательских работ Университета
+образования Ренессанса.
+     Целью исследования является разработка научно-теоретических,
+практических и методических предложений и рекомендаций, направленных на
+повышение качества кредитного портфеля коммерческих банков нашей
+страны.
+     Задачи исследования:
+     исследование научно-теоретических и правовых основ повышения
+качества кредитного портфеля в коммерческих банках;
+     анализ научно-теоретических взглядов, направленных на повышение
+качества кредитного портфеля в коммерческих банках, и формирование
+выводов, служащих оценке их практической значимости;
+
+
+A. (2023). The effect of moral hazard on the SMEs credit portfolio guaranteed by Colombia's National Guarantee
+Fund. Estudios Gerenciales, 39(168), 379-386. Mbeukam, L. S. (2024). Pricing and hedging of transition risk in Credit
+Portfolio (Doctoral dissertation, Université Paris Cité). Ozili, P. K. (2019). Non-performing loans and financial
+development: new evidence. The Journal of Risk Finance, 20(1), 59-81. Ferreira, C. (2022). Determinants of non-
+performing loans: A panel data approach. International Advances in Economic Research, 28(3), 133-153. Ofria, F., &
+Mucciardi, M. (2022). Government failures and non-performing loans in European countries: a spatial
+approach. Journal of Economic Studies, 49(5), 876-887.
+20
+   Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Toshboev M.M. “Kredit portfeli risklarini boshqarish strategiyalari”, Iqtisodiyot va
+ta’lim jurnali, 2019-yil, №4. Madrahimov Sh.S. “Tijorat banklarida kredit portfeli muammolarini aniqlash va tahlil
+qilish”, Moliyaviy tahlil jurnali, 2018-yil, №2. Ergashev S.T. “Tijorat banklarining kredit portfeli barqarorligini
+ta’minlashning ilmiy asoslari”, Iqtisodiyot va innovatsion texnologiyalar, 2017-yil, №4.
+
+                                                                                                                   31
+      оценка, анализ и формирование заключений по анализу фактического
+состояния кредитного портфеля коммерческих банков;
+      проведение эмпирического анализа процентной политики и влияющих
+на нее факторов на примере АК "Узпромстройбанк" и формирование выводов;
+      формирование прогнозных показателей кредитных операций и
+проблемных кредитов коммерческих банков;
+      разработка научных предложений и практических рекомендаций,
+направленных на повышение качества кредитного портфеля коммерческих
+банков в процессе трансформации.
+      Объектом исследования являются коммерческие банки, действующие
+в Узбекистане, в частности, АКБ "Узпромстройбанк" и ЧАБ "Трастбанк."
+      Предметом исследования являются экономические отношения,
+возникающие в процессе повышения качества кредитного портфеля
+коммерческих банков.
+      Методы исследования. В диссертации использованы научная
+абстракция, сравнительный и структурный анализ, индукция и дедукция,
+экономико-статистическая и эконометрическая оценка, в частности, модели
+структурной векторной авторегрессии и Seasonal ARIMA.
+      Научная новизна исследования заключается в следующем:
+      научно обосновано увеличение доли кредитов, выделяемых физическим
+лицам в структуре валовых кредитов в целях диверсификации кредитного
+портфеля коммерческих банков, управления качеством портфеля и рисками на
+основе устойчивой платежной дисциплины и стимулирования внутреннего
+спроса;
+      научно обоснована оптимизация кредитного портфеля банка путем
+эффективного проведения кредитной и процентной политики коммерческих
+банков посредством обеспечения действенности инструментов денежного
+рынка;
+      в результате процесса трансформации при формировании кредитного
+портфеля коммерческих банков на основе рыночных механизмов предложено
+увеличить долю частного сектора в кредитном портфеле коммерческого банка
+за счет сокращения кредитов, выделяемых государственным организациям;
+      на основе эконометрической модели оценки, отражающей аспекты
+увеличения кредитного портфеля в банках, а также состояние проблемных
+кредитов, связанные с изменением уровня инфляции, предложены прогнозные
+сценарии до марта 2028 года.
+      Практический результат исследования заключается в следующем:
+      научно обосновано обеспечение распределения кредитных ресурсов
+банков на основе рыночных механизмов с целью повышения
+конкурентоспособности кредитного портфеля коммерческих банков и
+снижения доли социальных кредитов;
+      в целях эффективного управления внешними рисками при оптимизации
+кредитного портфеля в коммерческих банках при проведении кредитно-
+процентной политики предлагается учитывать, что ежемесячное повышение
+
+32
+уровня инфляции в экономике на один процент снижает процентные ставки по
+кредитам АКБ "Узпромстройбанк" на -0,11 процента с месячной задержкой;
+      научно обосновано, что повышение процентной ставки на денежном
+рынке на один процент увеличивает процентные ставки по кредитам АКБ
+"Узпромстройбанк" на 0,65 процента с месячным лагом, а увеличение
+месячной денежной массы в обращении на один процент снижает процентные
+ставки по банковским кредитам на -0,36 процента с трехмесячной задержкой.
+      Достоверность результатов исследования. Достоверность результатов
+исследования определяется сравнительным и критическим анализом научно-
+теоретических взглядов известных ученых-экономистов на пути повышения
+качества кредитного портфеля коммерческих банков в процессе
+трансформации, изучением и обобщением передового зарубежного опыта, а
+также тем, что статистические данные получены из годовых отчетных данных
+Центрального банка Республики Узбекистан, Комитета по статистике
+Республики Узбекистан и коммерческих банков Узбекистана, при этом
+соответствующие выводы и предложения внедрены в практику
+ответственными организациями.
+      Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования объясняется тем, что они могут
+быть использованы при проведении специальных научных исследований,
+направленных на пути повышения качества кредитного портфеля
+коммерческих банков в процессе трансформации.
+      Практическая значимость результатов исследования заключается в том,
+что разработанные научные предложения и практические рекомендации могут
+быть использованы при разработке комплекса мер, направленных на пути
+повышения качества кредитного портфеля коммерческих банков в процессе
+трансформации в Узбекистане, а также могут быть использованы при
+разработке мер, направленных на выполнение задач, указанных в Стратегии
+развития нового Узбекистана на 2022-2026 годы и Стратегии реформирования
+банковской системы Республики Узбекистан на 2020-2025 годы.
+      Внедрение результатов исследования. На основе полученных научных
+результатов по путям повышения качества кредитного портфеля
+коммерческих банков:
+      в целях диверсификации кредитного портфеля коммерческих банков,
+управления качеством портфеля и рисками на основе устойчивой платежной
+дисциплины и стимулирования внутреннего спроса, предложение по
+увеличению доли кредитов, выделенных физическим лицам, в структуре
+валовых кредитов внедрено в деятельность АКБ "Узпромстройбанк" (акт АКБ
+"Узпромстройбанк" No 04/8-08-24 от 26 мая 2025 года). В результате, в целях
+диверсификации кредитного портфеля в практике АКБ "Узпром-стройбанк"
+кредиты, выделенные физическим лицам, составили 13,7% в структуре
+валовых кредитов в 2023 году и увеличились на 15,1% в 2024 году;
+      предложение по оптимизации кредитного портфеля банка путем
+эффективного проведения кредитной и процентной политики коммерческих
+банков путем обеспечения эффективности инструментов денежного рынка
+                                                                        33
+внедрено в деятельность АКБ "Узпромстройбанк" (акт АКБ "Узпром-
+стройбанк" No 04/8-08-24 от 26 мая 2025 г.). В результате, на основе
+эмпирического анализа определено, что увеличение процентной ставки на
+денежном рынке на один процент с месячным лагом увеличивает процентные
+ставки по кредитам АКБ "Узпромстройбанк" на 0,65 процента, а увеличение
+месячной денежной массы в обращении на один процент снижает процентные
+ставки по банковским кредитам на -0,36 процента с трехмесячной задержкой;
+      в результате процесса трансформации, при формировании кредитного
+портфеля коммерческих банков на основе рыночных механизмов,
+предложение по увеличению доли частного сектора в кредитном портфеле
+коммерческого банка путем сокращения кредитов, выделяемых
+государственным организациям, было внедрено в деятельность АКБ
+"Узпромстройбанк" (акт АКБ "Узпромстройбанк" No 04/8-08-24 от 26 мая
+2025 г.). В результате кредиты, выделенные государственным организациям в
+кредитном портфеле банка, были снижены с 30 процентов в 2021 году до 22
+процентов в 2024 году, а кредиты, выделенные частному сектору, увеличились
+с 60 процентов до 64 процентов за тот же период;
+      предложение по прогнозным сценариям до марта 2028 года на основе
+модели эконометрической оценки, отражающей аспекты увеличения
+кредитного портфеля в банках, а также состояние проблемных кредитов,
+связанные с изменением уровня инфляции, было внедрено в деятельность АКБ
+"Узпромстройбанк" (акт АКБ "Узпромстройбанк" No 04/8-08-24 от 26 мая
+2025 года). В результате, согласно результатам оптимального прогноза,
+основанного на модели Seasonal ARIMA, с учетом сезонных колебаний, с 95-
+процентной вероятностью ожидается, что к марту 2028 года объем кредитного
+портфеля увеличится на 36,7% по сравнению с показателем декабря 2024 года,
+а объем проблемных кредитов банка увеличится на 78,9%.
+      Апробация результатов исследования. Результаты данного
+исследования были обсуждены на 7, в том числе 4 республиканских и 3
+международных научно-практических конференциях.
+      Публикация результатов исследования. По теме диссертации
+опубликовано 12 научных работ, в частности, 5 статьи в научных изданиях,
+рекомендованных Высшей аттестационной комиссией Республики
+Узбекистан для публикации основных научных результатов докторских
+диссертаций, в том числе 4 в республиканских и 1 в зарубежном журнале.
+      Структура и объем диссертации. Диссертация состоит из введения,
+трех глав, заключения и списка литературы. Объем диссертации составляет
+136 страниц.
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во введении диссертации обоснованы актуальность и востребованность
+темы исследования, степень изученности проблемы, цель, задачи, объект и
+предмет исследования, научная новизна и практические результаты,
+достоверность и внедрение результатов исследования, приведены сведения о
+структуре и объеме диссертации.
+
+34
+     В первой главе диссертации, озаглавленной "Научно-теоретические
+основы повышения качества кредитного портфеля в коммерческих
+банках", представлены теоретические основы повышения качества
+кредитного портфеля в коммерческих банках, обзор нормативно-правовых
+документов, направленных на обеспечение устойчивости коммерческих
+банков, а также анализ научно-теоретических взглядов, направленных на
+повышение качества кредитного портфеля в коммерческих банках, и
+сформулированы выводы, служащие для оценки их практической значимости.
+     В развивающихся странах, особенно в странах с высоким уровнем
+государственного участия в банковской системе, оптимизация кредитного
+портфеля коммерческих банков считается актуальной проблемой. В таких
+странах банки с государственной долей играют ключевую роль в
+финансировании стратегических направлений экономики. Однако эти банки
+часто проводят кредитную политику, направленную на достижение
+политических, а не экономических целей. В результате в структуре кредитного
+портфеля значительную долю занимают проекты с высоким риском или
+низкой доходностью. Поэтому становится необходимым обеспечить
+стабильность и эффективность кредитного портфеля путем диверсификации
+кредитного портфеля на научной основе, выявления рисков и усиления
+инструментов управления ими.
+     В банках с высокой долей государства наблюдается наличие
+политического давления в процессе принятия кредитных решений, решения
+основываются не на рыночных принципах, а на административных
+поручениях. Например, требуется финансирование приоритетных секторов,
+определенных государством, что чрезмерно ориентирует кредитный портфель
+банка в одном направлении и противоречит принципам диверсификации. В
+таких условиях баланс между секторами кредитного портфеля нарушается, в
+результате чего общий уровень риска портфеля увеличивается. Поэтому для
+этих банков важно использовать индикаторы, измеряющие портфельную
+концентрацию - в частности, индекс Херфиндаля-Хиршмана (HHI).
+     Еще один важный аспект заключается в том, что из-за низкой глубины и
+эффективности финансовых рынков в развивающихся странах банки имеют
+меньше информации при выдаче кредитов. Это в основном связано с низким
+качеством финансовой отчетности заемщиков, отсутствием инструментов
+анализа и низким уровнем цифровизации. Такие недостатки в
+государственных банках становятся еще более глубокими, что приводит к
+усилению системных рисков в их кредитной политике. С этой точки зрения,
+при    оптимизации     кредитного    портфеля     необходимо      внедрение
+информационных систем, предназначенных для выявления и анализа
+кредитного риска.
+     Также, поскольку банки с участием государства часто используются в
+качестве инструмента экономической политики, их кредитный портфель
+содержит множество сегментов, сформированных в соответствии с
+государственными программами, а не спросом на рынке. Например,
+                                                                        35
+постоянное внимание будет уделяться таким сферам, как инфраструктура,
+энергетика или сельское хозяйство. В результате портфель банка будет полон
+долгосрочных и низколиквидных кредитов, а процентные доходы снизятся.
+Поэтому в рамках оптимизации большое значение имеет формирование
+баланса видов кредитов по срокам, обеспечение баланса между ликвидностью
+и рентабельностью.
+      Методика оптимизации кредитного портфеля в коммерческих банках -
+это комплекс научно обоснованных подходов, направленных на повышение
+эффективности банковских активов, минимизацию рисков и обеспечение
+доходности. К этим методам относятся следующие.
+      1. Анализ структуры кредитного портфеля
+      2. Определение и оценка рисков
+      3. Разработка стратегии диверсификации
+      4. Модели оптимизации портфеля
+      5. Мониторинг и переоценка
+      Повышение эффективности кредитного портфеля коммерческих банков
+является важным фактором обеспечения экономической стабильности и
+конкурентоспособности. Повышение эффективности кредитного портфеля не
+только позволяет коммерческим банкам получать прибыль, но и обеспечивает
+оптимальное распределение финансовых ресурсов. Для этого банкам
+необходимо систематически пересматривать все этапы кредитования.
+Повышение качества кредитования, глубокий анализ финансового состояния
+клиентов, а также минимизация кредитных рисков повышают эффективность.
+Банки также должны предусмотреть диверсификацию кредитного портфеля и
+выделение кредитов новым, высокорентабельным секторам.
+      В исследовании, проведенном Н.Мирзой и другими, эмпирически и
+теоретически изучено влияние зеленого кредитования на эффективность
+кредитного портфеля коммерческих банков в странах БРИКС. В исследовании
+проанализировано влияние "зеленых" кредитов, особенно выделенных
+субъектам малого и среднего бизнеса, на общие финансовые результаты
+банков. Ученые обратили внимание на то, что зеленое кредитование повышает
+рентабельность банков, снижает кредитные риски и обеспечивает
+долгосрочную стабильность. Результаты исследования показывают, что
+увеличение "зеленых" кредитов создает положительные финансовые
+результаты для банков, поскольку эти кредиты имеют высокую степень
+погашения и стимулируют бизнес-модели, основанные на экологической
+устойчивости. В статье также подчеркивается, что "зеленая" кредитная
+политика повышает надежность банков и делает их более привлекательными
+для долгосрочных инвестиций. По результатам эмпирического анализа было
+установлено, что расширение зеленого кредитования в странах БРИКС
+положительно влияет на финансовую стабильность и качество кредитного
+портфеля, повышая доходность общих активов банков. Эти результаты
+
+
+
+36
+обосновывают необходимость более широкого внедрения стратегий зеленого
+кредитования.21
+      В исследовании, проведенном К.Миямото, теоретически и эмпирически
+изучены возможности использования квантовых алгоритмов для расчета
+вкладов риска в кредитный портфель. Автор анализирует возможности
+повышения эффективности квантовых компьютеров в выявлении и оценке
+кредитных рисков, сравнивая традиционные методы финансового анализа и
+подходы к квантовым вычислениям. В исследовании подчеркивается, что
+квантовые алгоритмы имеют преимущество в быстром и точном анализе
+больших объемов сложных кредитных портфелей, поскольку традиционные
+методы вычислений требуют значительного времени и ресурсов при работе с
+большими данными. Эмпирические результаты показывают, что квантовые
+алгоритмы значительно ускоряют процесс расчета распределения кредитных
+рисков и помогают банкам более эффективно организовывать стратегии
+управления портфелем. Кроме того, использование квантовых вычислений
+позволяет более точно прогнозировать при диверсификации и оптимизации
+кредитных рисков. Данное исследование раскрывает важность квантовых
+технологий как нового инструмента финансового анализа для коммерческих
+банков и обосновывает необходимость широкого внедрения квантовых
+вычислительных технологий в банковском секторе в будущем.22
+      В исследовании, проведенном К.Жакобом, были изучены методы
+оценки корреляционных параметров в моделях кредитного портфеля, уделяя
+особое внимание анализу рисков в условиях временной изменчивости и
+неоднородности вероятности дефолта. Результаты эмпирического анализа
+показывают, что изменение рисков дефолта в кредитном портфеле во времени
+является важным фактором риска для банков, и его игнорирование может
+привести к принятию неправильных решений. В исследовании были
+проведены симуляционные работы, основанные на реальных рыночных
+данных, результаты которых подтвердили, что изменчивость вероятности
+дефолта оказывает существенное влияние на динамику рисков кредитного
+портфеля. Данное исследование подчеркивает необходимость разработки
+современных подходов для обеспечения устойчивости финансовой системы и
+более точного управления кредитными рисками.23
+      Вторая глава диссертации называется "Текущее состояние кредитного
+портфеля коммерческих банков", в которой анализируется текущее
+состояние кредитного портфеля в банковской системе нашей страны, анализ
+текущего    состояния     кредитного   портфеля    на   примерах    АКБ
+"Узпромстройбанк" и ЧАБ "Трастбанк," а также эмпирический анализ
+
+
+21
+   Mirza, N., Afzal, A., Umar, M., & Skare, M. (2023). The impact of green lending on banking performance: Evidence
+from SME credit portfolios in the BRIC. Economic Analysis and Policy, 77, 843-850.
+22
+   Miyamoto, K. (2022). Quantum algorithm for calculating risk contributions in a credit portfolio. EPJ Quantum
+Technology, 9(1), 1-16.
+23
+    Jakob, K. (2022). Estimating correlation parameters in credit portfolio models under time-varying and
+nonhomogeneous default probabilities. Journal of Credit Risk, 18(4).
+
+                                                                                                               37
+факторов, влияющих              на    кредитный         портфель       на     примере     АКБ
+"Узпромстройбанк".
+
+400 000                                                                                  90,0%
+               80,2%          78,7%
+350 000                                      74,1%                                       80,0%
+                                                             68,5%            66,7%
+300 000                                                                                  70,0%
+                                                                                         60,0%
+250 000
+                                                                                         50,0%
+200 000
+                                                             31,5%            33,3%      40,0%
+150 000                                      25,9%                                       30,0%
+               19,8%          21,3%
+100 000                                                                                  20,0%
+ 50 000                                                                                  10,0%
+       0                                                                                 0,0%
+            01.01.2021      01.01.2022     01.01.2023     01.01.2024        01.01.2025
+
+           Кредиты физическим лицам, млрд.сум
+           Кредиты юридическим лицам, млрд.сум
+           Доля кредитов, выделенных физическим лицам, в кредитном портфеле
+           Доля кредитов, выделенных юридическим лицам, в кредитном портфеле
+
+           Рисунок 1. Динамика изменения кредитов, выделенных
+           коммерческими банками, по субъектам24 (в млрд. сум.)
+
+      С помощью приведенного выше рисунка мы проанализируем
+динамические изменения объема и доли кредитов, выделенных физическим и
+юридическим лицам в банковской системе Узбекистана в 2021-2025 годах. Эти
+тенденции свидетельствуют о диверсификации банковского сектора,
+разделении кредитного портфеля на многогранные сегменты и формировании
+сбалансированных механизмов управления рисками. Растущая доля кредитов,
+выделяемых физическим лицам, является стабильным источником дохода для
+банков, поскольку этот сегмент, как правило, расширяет портфель за счет
+множества мелких кредитов, а не крупных кредитов. Это снижает уровень
+риска кредитного портфеля и способствует укреплению стабильности банка.
+Поэтому эти структурные сдвиги, наблюдаемые в последние годы, привели к
+значительным качественным изменениям в финансовой системе и
+приближению банковских услуг к населению.
+
+
+
+24
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz
+
+38
+     90 000,0     78,9%                                                                  90,0%
+     80 000,0                   70,5%                                                    80,0%
+     70 000,0                                                                            70,0%
+                                               57,5%
+     60 000,0                                                 52,0%         51,0%        60,0%
+     50 000,0                                  42,5%                                     50,0%
+                                                               48,0%          49,0%
+     40 000,0                   29,5%                                                    40,0%
+     30 000,0     21,1%                                                                  30,0%
+     20 000,0                                                                            20,0%
+     10 000,0                                                                            10,0%
+          0,0                                                                            0,0%
+                01.01.2021   01.01.2022     01.01.2023     01.01.2024     01.01.2025
+                Кредиты, выделенные физическим лицам в частных банках, млрд.сум
+                Кредиты, выделенные юридическим лицам в частных банках, млрд.сум
+                Доля кредитов, выделенных физическим лицам, в кредитном портфеле
+                Доля кредитов, выделенных юридическим лицам, в кредитном портфеле
+
+       Рисунок 2. Динамика изменения кредитов, выделенных частными
+                    банками, по субъектам25 (в млрд. сум.)
+
+      Данные на рисунке выше показывают объем кредитов, выделенных
+частными банками физическим и юридическим лицам в 2021-2025 годах, а
+также их долю в общем кредитном портфеле, что наглядно отражает
+результаты реформ, проведенных в Узбекистане по диверсификации
+банковского сектора, развитию конкурентной среды и повышению роли
+частных банков в экономической деятельности. В частности, если в 2021 году
+объем кредитов, выделенных физическим лицам, составил 6 848 млрд сумов,
+то к 2025 году этот показатель достиг 84 834 млрд сумов, то есть за 5 лет
+увеличился почти в 12,4 раза. Доля кредитов, выделенных физическим лицам
+в портфеле, увеличилась с 21,1 процента до 51,0 процента, что свидетельствует
+о формировании в системе сбалансированной кредитной политики.
+      Соотношение кредитов в иностранной и национальной валюте и
+динамика удельного веса кредитного портфеля в 2020-2025 годах
+свидетельствуют о снижении валютных рисков в банковской системе
+Узбекистана и расширении возможностей финансирования в местной валюте.
+Если в 2020 году объем кредитов в иностранной валюте составил 100 947,3
+млрд сумов, то к 2025 году этот показатель достигнет 228 718,0 млрд сумов.
+То есть за 5 лет объем кредитов в иностранной валюте увеличился в 2,3 раза.
+При этом кредиты в национальной валюте выросли с 110 633,2 млрд сумов в
+2020 году до 304 403,2 млрд сумов в 2025 году, что означает рост более чем в
+2,75 раза. Эти статистические изменения показывают, что объем кредитов в
+национальной валюте растет быстрее, чем в иностранной валюте.
+
+ O Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+25
+
+www.cbu.uz
+
+                                                                                              39
+ 350 000,0                                                           55,0%        57,1%       60,0%
+                 52,3%                                  52,5%
+                              50,1%        50,2%
+ 300 000,0                                                                                    50,0%
+                              49,9%        49,8%
+ 250 000,0       47,7%                                  47,5%
+                                                                     45,0%            42,9% 40,0%
+ 200 000,0
+                                                                                              30,0%
+ 150 000,0
+                                                                                              20,0%
+ 100 000,0
+
+     50 000,0                                                                                 10,0%
+
+          0,0                                                                                 0,0%
+                01.01.2020   01.01.2021   01.01.2022   01.01.2023   01.01.2024   01.01.2025
+
+                     Кредиты в иностранной валюте, млрд.сум
+                     Кредиты в национальной валюте, млрд.сум
+                     Доля кредитов в иностранной валюте в кредитном портфеле
+                     Доля кредитов в национальной валюте в кредитном портфеле
+
+     Рисунок 3. Динамика изменения кредитного портфеля в банковской
+         системе страны в разрезе валютных единиц26 (в млрд. сум.)
+
+     Увеличение объема кредитов в национальной валюте в этот период
+окажет положительное влияние не только на макроэкономическую
+стабильность, но и на качество активов банков и снижение кредитных рисков.
+С расширением финансирования в национальной валюте банки стали
+проводить более гибкую кредитную политику, что, в свою очередь, привело к
+увеличению числа заемщиков и диверсификации сегментов кредитования.
+Относительно снижающийся удельный вес кредитов в иностранной валюте
+свидетельствует об уменьшении зависимости от внешней задолженности. Эти
+процессы, в свою очередь, означают, что финансовая система страны
+развивается за счет внутренних источников.
+     В 2021-2025 годах объем ипотечных кредитов в структуре кредитов,
+выделенных физическим лицам, продемонстрировал стабильные темпы роста.
+Объем этих кредитов, который в 2021 году составил 28 300,8 млрд сумов, к
+2025 году достиг 67 729,5 млрд сумов. Это означает, что объем ипотечных
+кредитов за пять лет увеличился почти в 2,4 раза. Такой рост ипотечных
+кредитов свидетельствует о растущей потребности населения в жилье. В этом
+процессе основную роль сыграли предоставление ипотечных кредитов на
+низких процентных и долгосрочных условиях, финансовая поддержка
+ипотечных программ со стороны государства.
+
+26
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz
+
+40
+             01.01.2025
+
+             01.01.2024
+
+             01.01.2023
+
+             01.01.2022
+
+             01.01.2021
+
+                          0%         20%          40%          60%          80%         100%
+                          01.01.2021 01.01.2022 01.01.2023 01.01.2024 01.01.2025
+      Ипотечные кредиты      28,3       35,9       46,5       58,2       67,7
+      Микрокредит             5,7        9,4       14,7       24,5       42,4
+      Iste'mol kreditlari    12,2       12,8       25,2       49,3       46,6
+      Другие кредиты          8,6       11,3       14,6       16,6       20,9
+
+     Рисунок 4. Динамика изменения кредитного портфеля коммерческих
+      банков в зависимости от целей кредитов, выделенных физическим
+                            лицам27 (в трлн.сум)
+
+      В течение 2021-2025 годов в структуре кредитов, выделенных
+юридическим лицам в кредитном портфеле коммерческих банков,
+наибольшую долю занимают кредиты, выданные юридическим лицам, не
+являющимся кредитными организациями. В 2021 году объем этих кредитов
+составил 203,4 трлн сумов, а в 2025 году достиг 330,2 трлн сумов. За этот
+период объем этих кредитов увеличился на 126,8 трлн сумов, или на 62%. Эти
+показатели роста свидетельствуют о расширении финансовой деятельности
+юридических лиц - в частности, предприятий и организаций, увеличении их
+спроса на коммерческие банки. Приоритетным направлением в этом процессе
+остается кредитование реального сектора.
+      Кредиты, выделенные физическим лицам АКБ "Узпромстройбанк" на
+начало 2021 года составили 4 301 млрд сумов, а к началу 2025 года этот
+показатель достиг 9 864 млрд сумов, увеличившись почти в 2,3 раза.
+      Этот рост продолжался стабильными темпами каждый год: хотя в 2022
+году наблюдалось небольшое снижение (4 260 млрд сумов), в последующие
+годы наблюдалось быстрое восстановление и значительный рост (5 463 млрд
+в 2023 году, 7 814 млрд сумов в 2024 году). Это свидетельствует о
+последовательном совершенствовании деятельности банка по розничному
+финансированию.
+
+
+27
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz
+
+                                                                                             41
+ 60 000                                                                                      100,0%
+                  89,2%          90,1%           88,6%          86,3%             84,9%      90,0%
+ 50 000
+                                                                                             80,0%
+                                                                                             70,0%
+ 40 000
+                                                                                             60,0%
+ 30 000                                                                                      50,0%
+                                                                                             40,0%
+ 20 000
+                                                                                             30,0%
+                                                                13,7%             15,1%      20,0%
+ 10 000           10,8%           9,9%           11,4%
+                                                                                             10,0%
+         0                                                                                   0,0%
+               01.01.2021      01.01.2022     01.01.2023      01.01.2024        01.01.2025
+              Кредиты физическим лицам, млрд.сум
+              Кредиты юридическим лицам, млрд.сум
+              Доля кредитов, выделенных физическим лицам, в кредитном портфеле
+              Доля кредитов, выделенных юридическим лицам, в кредитном портфеле
+
+     Рисунок 5. Динамика изменения по субъектам кредитов, выделенных
+                  АКБ "Узпромстройбанк"28 (в млрд. сум.)
+
+      Кредиты, выделенные физическим лицам АКБ "Узпромстройбанк" на
+начало 2021 года составили 4 301 млрд сумов, а к началу 2025 года этот
+показатель достиг 9 864 млрд сумов, увеличившись почти в 2,3 раза. Этот рост
+продолжался стабильными темпами каждый год: хотя в 2022 году
+наблюдалось небольшое снижение (4 260 млрд сумов), в последующие годы
+наблюдалось быстрое восстановление и значительный рост (5 463 млрд в 2023
+году, 7 814 млрд сумов в 2024 году). Это свидетельствует о последовательном
+совершенствовании деятельности банка по розничному финансированию.
+      Объем кредитов, выделенных юридическим лицам, неуклонно рос: с 35
+598 млрд сумов в 2021 году до 55 635 млрд сумов в 2025 году. Хотя этот рост
+за 4 года составил 56,3%, он был относительно ниже по сравнению с
+кредитами, выделенными физическим лицам. Это означает, что банк пытается
+постепенно диверсифицировать межсекторальный баланс в своем кредитном
+портфеле. При этом портфель юрлиц сохраняет постоянное преимущество -
+лидирует и в 2025 году с долей 84,9%.
+
+
+
+
+28
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+42
+      01.01.2024             14,57                                   37,81                             8,02
+      01.01.2023               13,21                                  27,33                            5,57
+      01.01.2022                14,28                                   25,90                           4,35
+      01.01.2021                  14,56                                   21,94                         4,36
+      01.01.2020                     13,03                                   14,53                      3,12
+      01.01.2019                                  20,61                                        6,19       1,67
+      01.01.2018                                         18,09                                        2,08 0,72
+
+                   0%               20%                40%             60%               80%                 100%
+                            Кредиты, выделенные государственным организациям
+                            Корпоративные кредиты
+                            Кредиты физическим лицам
+
+ Рисунок 6. Динамика изменений по видам кредитов, выделенных АКБ
+                   "Узпромстройбанк"29 (в трлн.сум)
+      Структурное изменение кредитного портфеля АКБ "Узпромстройбанк"
+является практическим результатом глубоких реформ в банковской системе
+Узбекистана. Указом № 5992 были определены такие приоритетные
+направления, как трансформация государственных банков, их подготовка к
+приватизации, обновление системы менеджмента и внедрение современных
+банковских технологий. В результате этих реформ повышается эффективность
+деятельности банков, больше ресурсов направляется частному сектору.
+     500,00                                             1304,3%                                                1400,0%
+     450,00                                                                                                    1200,0%
+     400,00                                             439,27
+                                                                                                               1000,0%
+     350,00
+     300,00                                                                                                    800,0%
+                              572,5%
+     250,00                                                                                                    600,0%
+                                                                      256,69
+     200,00                                                                                                    400,0%
+     150,00                                                                       181,06
+                                                                                                               200,0%
+     100,00                                  132,6%                                              132,22
+      50,00                                                                                                    0,0%
+                 2,00         13,45        31,28                        -41,6%       -29,5%        -27,0%
+       0,00                                                                                                    -200,0%
+               01.01.2018    01.01.2019   01.01.2020    01.01.2021   01.01.2022   01.01.2023    01.01.2024
+
+                 Overdraft кредиты                     Изменение по сравнению с прошлым годом
+
+     Рисунок 7. Динамика изменения овердрафтных кредитов, выделенных
+                   АКБ "Узпромстройбанк"30 (в млрд. сум.)
+
+29
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+30
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+                                                                                                                      43
+      Сокращение доли государственных кредитов и увеличение доли
+корпоративных и потребительских кредитов свидетельствует о том, что банк
+адаптируется к рыночным принципам. Это играет важную роль в повышении
+конкурентоспособности банковской системы и обеспечении ее важной роли в
+экономике.
+      С 2022 года объем овердрафтных кредитов резко сократился. В
+частности, в 2022 году овердрафтные кредиты составили 256,69 трлн сумов,
+снизившись на 41,6%. Эта тенденция снижения продолжилась и в
+последующие годы: в 2023 году объем овердрафта снизился до 181,06 трлн
+сумов и составил 29,5%, а в 2024 году - до 132,22 трлн сумов и уменьшился на
+27,0%. Это снижение может быть объяснено изменением стратегии
+управления рисками банка или снижением спроса на овердрафтные кредиты.
+Также причиной может стать стратегия банка по переоптимизации структуры
+кредитного портфеля и ориентации на долгосрочные, устойчивые кредитные
+продукты. Эти процессы привели к уменьшению доли овердрафтных кредитов
+в портфеле.
+
+                     01.01.2024
+
+                     01.01.2023
+
+                     01.01.2022
+
+                     01.01.2021
+
+                     01.01.2020
+
+                     01.01.2019
+
+                                  0,00   1000,00 2000,00 3000,00 4000,00 5000,00 6000,00
+                                   01.01.2019 01.01.2020 01.01.2021 01.01.2022 01.01.2023 01.01.2024
+       Другие кредиты                123,11     146,23     73,44       11,42     80,93      132,00
+       Потребительские кредиты       181,39    300,60     256,59      110,16     73,45     279,50
+       Микрокредит                   121,16    357,38     628,11      464,73    744,72     1819,20
+       Автокредиты                   350,22    525,98     536,71      448,95    982,32     661,67
+       Ипотечные кредиты             898,14    1792,92    2867,13    3314,06    3685,58    5260,58
+
+     Рисунок 8. Динамика изменения по видам кредитов, выделенных АК
+           "Узпромстройбанк" физическим лицам31 (в млрд. сум.)
+
+     Анализ кредитов, выделенных АКБ "Узпромстройбанк" физическим
+лицам, наглядно отражает, какие изменения претерпела деятельность банка в
+данном сегменте по различным видам кредитов. Ипотечные кредиты в 2019
+году составили 898,14 млрд сумов, а к 2024 году этот показатель достиг
+
+31
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+44
+5260,58 млрд сумов, увеличившись за шесть лет в 5,8 раза. Этот рост
+свидетельствует о росте спроса на ипотечные кредиты, а также о значительном
+увеличении объема средств, выделяемых банком в этом направлении.
+      Анализ кредитного портфеля физических лиц АКБ "Узпромстройбанк"
+показывает, что ипотечные и микрозаемные кредиты становятся основным
+приоритетом в деятельности банка. В то же время по автокредитам и
+потребительским кредитам наблюдаются периодические спады и подъемы, а
+по другим кредитам - резкие колебания. Это показывает, что кредитная
+политика банка меняется в соответствии с потребностями физических лиц и
+что существует быстрая адаптация к требованиям внутреннего рынка.
+
+                                                            Таблица 1
+     Динамика изменения корпоративных кредитов в кредитном портфеле
+           АКБ "Узпромстройбанк" по отраслям32 (в млрд. сум.)
+                                                                                             Изменение
+                                                                                                в 2023
+                                                                                               году по
+ Отрасли                01.01.2017   01.01.2021   01.01.2022    01.01.2023      01.01.2024
+                                                                                             сравнению
+                                                                                                с 2016
+                                                                                                годом
+ Нефтегазовая и
+ химическая                3833,02      9999,56     10704,33      10885,33       11052,86       188,4%
+ промышленность
+             Доля           44,6%        27,4%        26,6%         23,8%          21,1%
+ Производство              2024,88     12165,25     15849,75      18207,56       22529,20      1012,6%
+             Доля           23,6%        33,3%        39,4%         39,8%          43,0%
+ Энергетика                1190,83      3396,79      2176,80       3114,93        2982,97       150,5%
+             Доля           13,9%         9,3%         5,4%          6,8%           5,7%
+ Транспорт и
+                            775,85      2198,16      2367,54       2883,33        3269,40       321,4%
+ связь
+             Доля            9,0%         6,0%          5,9%         6,3%           6,2%
+ Строительство              256,12       786,11        895,23      1625,42        1637,67       539,4%
+             Доля            3,0%         2,2%          2,2%         3,6%           3,1%
+ торговля и
+                            357,44      4338,73      4441,33       5554,15        7342,47      1954,2%
+ услуги
+             Доля             4,2%        11,9%        11,1%        12,1%           14,0%
+ сельское
+                            146,49      3616,09      3745,48       3460,68        3572,13      2338,5%
+ хозяйство
+             Доля             1,7%         9,9%         9,3%         7,6%            6,8%
+
+      Трансформации в кредитной политике АКБ "Узпромстройбанк"
+наглядно демонстрируют не только диверсификацию банковской
+деятельности, но и важные приоритеты экономической политики -
+либерализацию экономики, поддержку реального сектора, направление
+кредитного потока в отрасли, способствующие повышению уровня жизни
+населения. Таким образом, эти изменения в разрезе отраслей свидетельствуют
+о формировании устойчивой и динамичной модели в экономике Узбекистана.
+
+
+32
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+                                                                                                    45
+      В нашем эмпирическом анализе в качестве факторов, влияющих на
+процентные ставки по кредитам Узпромстройбанка (𝑆𝑄𝐵𝐿𝑅𝑡 ), были выбраны
+изменение уровня инфляции в экономике (𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛𝑡 ), изменение денежной
+массы в обращении (𝑀2𝑡 ) и изменение процентной ставки на денежном рынке
+(𝑀𝑀𝑅𝑡 ), которые являются основными индикаторами рыночных процентных
+ставок в экономике. Хотя эти показатели, безусловно, являются внешними,
+поскольку АКБ "Узпромстройбанк" является одним из крупнейших банков,
+логично, что этот банк определяет процентный риск в зависимости от внешних
+факторов. Выбранные показатели являются квартальными и охватывают
+период 2005q1-2024q2. Также для уточнения влияния показателей отобранные
+статистические данные были логарифмированы натурально.
+      Структурно-векторную       авторегрессионную     модель    факторов,
+влияющих на процентную ставку по кредитам АКБ "Узпромстройбанк"
+представим в следующем виде:
+                                  4                     4               4
+
+      ∆𝑆𝑄𝐵𝐿𝑅𝑡 = 𝛼1 + 𝑝1 𝑒1 + ∑ 𝛽𝑖 ∆𝑆𝑄𝐵𝐿𝑅𝑡−𝑖 + ∑ 𝛿𝑖 𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛𝑡−𝑖 + ∑ 𝛾𝑖 ∆𝑀2𝑡−𝑖
+                                 𝑖=1                   𝑖=1              𝑖=1
+                         4
+
+                      + ∑ 𝜔𝑖 𝑀𝑀𝑅𝑡−𝑖
+                        𝑖=1
+
+
+                                                          Таблица 2
+ Результат структурно-векторной авторегрессионной модели факторов,
+ влияющих на процентную ставку кредита АКБ "Узпромстройбанка".
+
+Vector Autoregression Estimates (with restrictions)
+
+                              𝑰𝒏𝒇𝒍𝒂𝒕𝒊𝒐𝒏𝒕              𝑴𝟐𝒕    𝑴𝑴𝑹𝒕             𝑺𝑸𝑩𝑳𝑹𝒕
+
+       𝑰𝒏𝒇𝒍𝒂𝒕𝒊𝒐𝒏𝒕−𝟏             0.000000         0.000000    0.000000         -0.114682
+                                   ---              ---         ---            (0.05124)
+                                                                              [-2.23814]
+
+          𝑴𝟐𝒕−𝟏                 0.000000         0.000000    0.000000         -0.021908
+                                   ---              ---         ---            (0.01774)
+                                                                              [-1.23513]
+
+          𝑴𝟐𝒕−𝟐                 0.000000         0.000000    0.000000         -0.017652
+                                   ---              ---         ---            (0.02100)
+                                                                              [-0.84044]
+
+          𝑴𝟐𝒕−𝟑                 0.000000         0.000000    0.000000         -0.364614
+                                   ---              ---         ---            (0.01878)
+                                                                              [-3.43999]
+
+         𝑴𝑴𝑹𝒕−𝟏                 0.000000         0.000000    0.000000          0.651017
+                                   ---              ---         ---            (0.18518)
+                                                                              [ 2.59893]
+
+
+46
+      По результатам модели установлено, что все выбранные показатели
+оказывают влияние на процент кредитов АКБ "Узпромстройбанк". Это
+свидетельствует о том, что мы правильно выбрали внешние факторы,
+влияющие на процентные ставки по кредитам АКБ "Узпромстройбанк". Хотя
+влияние этих факторов на процентные ставки по кредитам АКБ
+"Узпромстройбанк" очевидно, существуют различия только в задержках сил
+воздействия.
+      В частности, ежемесячное повышение уровня инфляции в экономике на
+один процент снижает процентные ставки по кредитам АКБ
+"Узпромстройбанк" на -0,11 процента с месячной задержкой. Кроме того,
+повышение процентной ставки на денежном рынке на один процент
+увеличивает процентные ставки по кредитам АКБ "Узпромстройбанк" на 0,65
+процента с месячным лагом.
+      Увеличение денежной массы в обращении приводит к снижению
+процентных ставок коммерческих банков за счет увеличения их ссудного
+капитала. Это практическое правило, которое работает в большинстве
+экономик. Хотя увеличение денежной массы в обращении влияет на
+финансовый рынок быстрее, чем на рынок товаров, это происходит не в
+краткосрочной перспективе. Мы можем видеть эту ситуацию и в нашей
+экономике. В частности, увеличение месячной денежной массы в обращении
+на один процент снижает процентные ставки по кредитам АКБ
+"Узпромстройбанк" с трехмесячной задержкой на -0,36 процента.
+      В третьей главе диссертации "Пути повышения качества кредитного
+портфеля коммерческих банков" сформулированы прогнозные показатели
+кредитных операций и проблемных кредитов коммерческих банков, а также
+научные выводы и предложения, направленные на решение проблем,
+связанных с повышением качества кредитного портфеля коммерческих
+банков.
+      Высокая доля проблемных кредитов также негативно влияет на
+диверсификацию банковского портфеля и эффективность кредитной
+политики. В таких условиях банки ужесточают критерии кредитования,
+требуют больше залогов и гарантий для снижения рисков, что, в свою очередь,
+затрудняет доступ к кредитным ресурсам для активных хозяйствующих
+субъектов в экономике. Кроме того, проблемные кредиты увеличивают низкое
+качество активов в финансовой отчетности и снижают доверие инвесторов и
+международных рейтинговых агентств к банку. Это ограничивает
+возможности банка привлекать средства на зарубежных финансовых рынках.
+Поэтому раннее выявление, мониторинг и эффективное управление
+проблемными кредитами должны быть одним из приоритетных
+стратегических направлений каждого коммерческого банка.
+
+
+
+
+                                                                        47
+     1 800,0                                                                                25,0%
+
+                                                   21,1%           21,6%
+     1 600,0
+
+     1 400,0                                                                                20,0%
+
+     1 200,0                                                                     14,7%
+                                                                                            15,0%
+     1 000,0                        12,4%
+
+      800,0
+                                                                                            10,0%
+      600,0
+                     5,1%
+      400,0                                         3,8%                                    5,0%
+                                                                    3,5%
+                                    2,1%                                             2,2%
+      200,0          1,0%
+
+          -                                                                                 0,0%
+                   2020-01         2021-01        2022-01         2023-01       2024-01
+                             SQB NPL         NPL/SQB Loan          NPL/SQB capital
+
+                  Рисунок 9. Динамика проблемных кредитов в АКБ
+                         "Узпромстройбанке"33 (млрд.сум)
+
+      В течение 2020-2024 годов объем проблемных кредитов в АКБ
+"Узпромстройбанке" и их доля в кредитном портфеле банка и по отношению
+к капиталу претерпели определенные изменения. В 2023-2024 годах
+наблюдается некоторое сокращение объема проблемных кредитов (1 283 млрд
+сумов в 2024 году) и снижение их доли в кредитном портфеле. Важную роль в
+этом может сыграть усиление политики управления рисками, проводимой
+банком, усиление процессов кредитного мониторинга и внедрение
+механизмов рефинансирования. Тем не менее, соотношение проблемных
+кредитов к капиталу банка составило 21,6% в 2023 году и 14,7% в 2024 году,
+что свидетельствует о сохранении факторов риска, которые могут негативно
+повлиять на финансовую устойчивость банка. Эта ситуация показывает, что
+АКБ "Узпромстройбанку" необходимо проводить кредитную политику на
+основе глубокого анализа, ограничивать объем кредитования в
+высокорисковых секторах и увеличивать долю обеспеченных кредитов.
+      Прогнозирование динамики кредитного портфеля и проблемных
+кредитов банковской системы на основе модели Seasonal ARIMA (SARIMA) в
+настоящее время имеет чрезвычайно важное значение. Кредитный портфель -
+это основной источник дохода банков, объем и качество которого определяют
+финансовую устойчивость, ликвидность и надежность банка. Хотя объем
+кредитов растет, этот рост не всегда означает здоровую кредитную политику.
+Поэтому, прогнозируя, как будет меняться кредитный портфель в ближайшие
+месяцы или годы, используя модели временных рядов, такие как SARIMA,
+банки могут более эффективно осуществлять процессы стратегического
+
+33
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+48
+планирования, распределения ресурсов и управления рисками. В частности,
+сезонные факторы (например, сезонные колебания спроса на кредиты в
+сельском хозяйстве, торговле и строительстве) четко отражаются с помощью
+модели SARIMA, что помогает банкам правильно распределять кредиты,
+управлять ликвидностью и составлять прогнозы доходов.
+
+
+
+
+         Рисунок 10. Прогнозные показатели кредитного портфеля АКБ
+                       "Узпромстройбанка"34. млрд.сум
+
+      Как видно из рисунка выше, общий объем кредитов АКБ
+"Узпромстройбанка" в марте 2020 года составил 31 669 млрд сумов, а к
+декабрю 2024 года этот показатель достиг 65 498,4 млрд сумов. За этот период
+объем кредита вырос почти в два раза. По результатам прогноза, основанного
+на модели Seasonal ARIMA, ожидается, что к марту 2028 года объем кредитов
+достигнет 89 600 млрд сумов. Это означает рост примерно на 36,7% по
+сравнению с показателем декабря 2024 года. Модель также учитывает
+сезонные колебания объема кредитов и отражает изменение темпов роста на
+определенном уровне каждый квартал. Особенно замедленная, но устойчивая
+тенденция роста будет наблюдаться между 2025 и 2027 годами.
+      Рисунок ныже показывает динамику проблемных кредитов. Если в марте
+2020 года этот показатель составлял 331,6 млрд сумов, то в апреле 2024 года
+он достиг пика и составил 2 982,0 млрд сумов. Это означает, что объем
+проблемных кредитов банка за 4 года увеличился в 9 раз. По результатам
+прогноза, к марту 2028 года ожидается, что этот показатель составит около 3
+300 млрд сумов, то есть объем проблемных кредитов продолжит расти, но
+темпы роста будут относительно стабильными. В модели прогнозируется, что
+
+34
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+                                                                                49
+проблемные кредиты значительно увеличатся в начале 2025 года, но
+постепенно снизятся и стабилизируются с 2026 года. Это указывает на
+необходимость укрепления банком механизмов управления рисками.
+
+
+
+
+        Рисунок 11. Прогнозные показатели проблемных кредитов в АКБ
+                       "Узпромстройбанке"35. млрд.сум.
+
+     Повышение эффективности кредитного портфеля коммерческих банков
+является важным фактором обеспечения экономической стабильности и
+конкурентоспособности. Повышение эффективности кредитного портфеля не
+только позволяет коммерческим банкам получать прибыль, но и обеспечивает
+оптимальное распределение финансовых ресурсов. Для этого банкам
+необходимо систематически пересматривать все этапы кредитования.
+Повышение качества кредитования, глубокий анализ финансового состояния
+клиентов, а также минимизация кредитных рисков повышают эффективность.
+Банки также должны предусмотреть диверсификацию кредитного портфеля и
+выделение кредитов новым, высокорентабельным секторам.
+     Для повышения эффективности кредитного портфеля банки должны
+постоянно проводить финансовый анализ и мониторинг. Банки могут снизить
+риски, анализируя экономическое состояние клиентов и отраслей
+промышленности, определяя платежеспособность кредитов и заранее
+оценивая риск их возврата. Банки также должны учитывать социальные и
+политические факторы, связанные с кредитным портфелем, поскольку они
+являются одним из основных факторов, влияющих на решения по кредитам.
+35
+     Разработка автора на основе данных годового отчета АКБ "Узпромстройбанк"
+
+50
+Использование цифровых технологий также важно для повышения
+эффективности кредитного портфеля. Цифровизация процессов кредитования
+позволяет быстро и эффективно оценивать клиентов, что повышает общую
+эффективность кредитного портфеля.
+      Вместе с тем, еще одним важным направлением повышения
+эффективности кредитного портфеля для коммерческих банков является
+обновление внутренней политики банка. Обновление кредитной политики и
+оптимизация условий кредитования, в частности, корректировка процентных
+ставок, сроков и требований по обеспечению кредита, создаст возможности
+для повышения эффективности деятельности банков. Кроме того, банки могут
+снизить риск принятия решений, анализируя свои кредитные портфели и
+выявляя клиентов, добившихся хороших результатов. Банки могут
+значительно повысить эффективность кредитного портфеля, принимая
+решения, основанные на платежеспособности клиентов, их кредитной истории
+и финансовом положении.
+                            ЗАКЛЮЧЕНИЕ
+      Повышение эффективности кредитного портфеля коммерческих банков
+в развивающихся странах является одним из важных факторов экономической
+стабильности и развития финансовой системы. Однако низкая
+платежеспособность клиентов в этих странах остается одной из серьезных
+проблем на кредитном рынке. Низкая платежеспособность клиентов снижает
+вероятность возврата кредитов, повышает уровень риска банков и приводит к
+низкому качеству кредитного портфеля.
+      Кредитный портфель - это совокупность всех выделенных банком
+кредитов, эффективность которых определяется следующими факторами:
+      1. Уровень качества кредитов (доля упорядоченных и просроченных
+кредитов).
+      2. Эффективность управления кредитными рисками.
+      3. Стабильность соотношения возвращенных кредитов и вновь
+выделенных кредитов.
+      4. Уровень рентабельности и рентабельности банка.
+      Если кредитный портфель низкого качества, это негативно влияет на
+ликвидность и стабильность банка. Поэтому в развивающихся странах банки
+должны искать пути повышения платежеспособности клиентов и улучшения
+качества кредитного портфеля.
+      Во многих развивающихся странах доходы населения относительно
+низки, что ограничивает их доступ к кредитам. Из-за низкого уровня дохода
+заемщики не могут полностью выполнять свои кредитные обязательства.
+Отсутствие стабильного рабочего места ослабляет платежеспособность
+клиентов. Высокий уровень безработицы увеличивает кредитные риски для
+банков и, как следствие, приводит к ужесточению политики кредитования.
+      В развивающихся странах многие люди занимаются неформальной
+экономической деятельностью, что затрудняет документирование их
+                                                                      51
+официальных доходов. Банки же принимают решения о выдаче кредитов,
+основываясь на официальных документах и источниках дохода, что
+ограничивает возможности получения кредитов для многих клиентов.
+      Если уровень финансовых знаний населения низкий, они не знают, как
+управлять кредитами, и принимают неправильные решения. Это увеличивает
+вероятность задержки или непогашения кредитов. Во многих развивающихся
+странах кредитные бюро недостаточно развиты, и нет полной информации о
+кредитной истории клиентов. В результате банки не могут оценить, насколько
+своевременно клиенты выполнили свои предыдущие кредитные
+обязательства.
+      Для эффективного управления кредитными рисками требуется надежная
+и всеобъемлющая база данных. В неразвитых странах слабы информационные
+системы, отсутствует достаточная информация о кредитной истории и
+финансовом положении заемщиков. В результате надежность заемщика
+оценивается неверно. Вместе с тем, одной из важных проблем является
+неполное формирование законодательной базы по управлению кредитными
+рисками в банковском секторе. Неопределенность законодательства позволяет
+банкам принимать субъективные решения в процессе кредитования, что
+увеличивает риски.
+      Последствия неразвитости эффективной системы управления
+кредитными рисками могут привести к следующим негативным последствиям.
+      Отсутствие контроля над кредитными рисками может привести к
+нестабильности банковской системы. В случае больших потерь кредиторов
+банки могут столкнуться с финансовым кризисом.
+      Недостаточно надежная работа банковской системы приводит к
+снижению инвестиционной активности. Это негативно сказывается на общем
+экономическом развитии и ограничивает доступ малого и среднего бизнеса к
+финансовым ресурсам.
+      Из-за ненадежности кредитной системы низкодоходная часть населения
+лишается доступа к банковским услугам. Это ограничивает их возможности
+экономического развития и усиливает социальное неравенство.
+      Недоверие официальной кредитной системы вынуждает граждан
+обращаться к неформальным источникам кредита. На неформальном
+кредитном рынке существуют высокие процентные ставки и незаконные
+операции, что еще больше усиливает экономическую нестабильность.
+
+
+
+
+52
+       SCIENTIFIC COUNCIL AWARDING SCIENTIFIC
+           DEGREES DSc.22/29.12.2023.I.175.01 AT
+         TASHKENT INTERNATIONAL UNIVERSITY
+        RENAISSANCE EDUCATIONAL UNIVERSITY
+
+
+
+
+              SABIROVA LOBAR BAKHROMOVNA
+
+
+
+WAYS TO IMPROVE THE QUALITY OF THE LOAN PORTFOLIO IN
+                 COMMERCIAL BANKS
+
+
+
+             08.00.07 - Finance, Money Circulation and Credit
+
+
+
+
+                                 ABSTRACT
+       of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                         Toshkent city – 2025 year
+
+                                                                        53
+54
+              INTRODUCTION (annotation of the dissertation of
+                     Doctor of Philosophy (PhD))
+
+       The purpose of the research is to develop scientific, theoretical,
+practical, and methodological proposals and recommendations aimed at
+improving the quality of the loan portfolio of commercial banks of our country.
+       Research objectives:
+       research into the scientific, theoretical, and legal foundations for
+improving the quality of the loan portfolio in commercial banks;
+       analysis of scientific and theoretical views aimed at improving the quality
+of the loan portfolio in commercial banks and the formation of conclusions that
+serve to assess their practical significance;
+       assessment, analysis and formation of conclusions on the analysis of the
+actual state of the loan portfolio of commercial banks;
+       conducting an empirical analysis of interest rate policy and the factors
+influencing it, using the example of JSC Uzpromstroybank, and forming
+conclusions;
+       formation of forecast indicators of credit operations and problem loans of
+commercial banks;
+       development of scientific proposals and practical recommendations aimed
+at improving the quality of the loan portfolio of commercial banks in the process
+of transformation.
+       The object of the research is commercial banks operating in Uzbekistan,
+in particular, JSC Uzpromstroybank and PJSC Trustbank.
+       The subject of the research is the economic relations arising in the
+process of improving the quality of the loan portfolio of commercial banks.
+       Research methods. The dissertation uses scientific abstraction,
+comparative and structural analysis, induction and deduction, economic-
+statistical and econometric assessment, in particular, structural vector
+autoregression and Seasonal ARIMA models.
+       The scientific novelty of the research is as follows:
+       scientifically substantiated increase in the share of loans allocated to
+individuals in the structure of gross loans in order to diversify the loan portfolio
+of commercial banks, manage the quality of the portfolio and risks based on
+sustainable payment discipline and stimulating domestic demand;
+       scientifically substantiated optimization of the bank's loan portfolio
+through the effective implementation of the credit and interest rate policy of
+commercial banks by ensuring the effectiveness of money market instruments;
+       as a result of the transformation process, when forming the loan portfolio
+of commercial banks based on market mechanisms, it is proposed to increase
+the share of the private sector in the loan portfolio of a commercial bank by
+reducing loans allocated to state organizations;
+
+
+                                                                                 55
+       forecast scenarios until march 2028 are proposed based on an econometric
+assessment model that reflects the aspects of increasing the loan portfolio in
+banks, as well as the state of problem loans related to changes in the inflation
+rate.
+       The practical results of the study are as follows:
+       in order to increase the competitiveness of the loan portfolio of
+commercial banks and reduce the share of social loans, it is scientifically
+substantiated to ensure the distribution of loan resources of banks based on
+market mechanisms;
+       in order to effectively manage external risks when optimizing the loan
+portfolio in commercial banks, it is proposed to take into account that an
+increase in the inflation rate in the economy by one percent per month will
+reduce the interest rate on loans of JSCB "Uzpromstroybank" by -0.11 percent
+with a delay of one month;
+       it is scientifically substantiated that a one percent increase in the interest
+rate in the money market will increase the interest rate on loans from JSCB
+"Uzpromstroybank" by 0.65 percent with a one-month lag, and a one percent
+increase in the monthly money supply in circulation will reduce the interest rate
+on bank loans by -0.36 percent with a three-month delay.
+       Reliability of the research results. The reliability of the research results
+is determined by a comparative and critical analysis of the scientific and
+theoretical views of well-known economists on ways to improve the quality of
+the loan portfolio of commercial banks in the process of transformation, the
+study and generalization of advanced foreign experience, as well as the fact that
+statistical data are obtained from the annual reporting data of the Central Bank
+of the Republic of Uzbekistan, the Statistics Committee of the Republic of
+Uzbekistan, and commercial banks of Uzbekistan, and at the same time, the
+relevant conclusions and proposals are implemented in practice by authorized
+organizations.
+       Scientific and practical significance of the research results. The
+scientific significance of the research results is explained by the fact that they
+can be used in conducting special scientific research aimed at improving the
+quality of the loan portfolio of commercial banks in the process of
+transformation.
+       The practical significance of the research results lies in the fact that the
+developed scientific proposals and practical recommendations can be used in the
+development of a set of measures aimed at improving the quality of the loan
+portfolio of commercial banks in the process of transformation in Uzbekistan,
+as well as in the development of measures aimed at fulfilling the tasks specified
+in the New Development Strategy of Uzbekistan for 2022-2026 and the Strategy
+for Reforming the Banking System of the Republic of Uzbekistan for 2020-
+2025.
+
+56
+       Implementation of research results. Based on the obtained scientific
+results on ways to improve the quality of the loan portfolio of commercial banks:
+       in order to diversify the loan portfolio of commercial banks, manage the
+quality of the portfolio and risks based on sustainable payment discipline and
+stimulating domestic demand, the proposal to increase the share of loans
+allocated to individuals in the structure of gross loans has been introduced into
+the activities of JSCB Uzpromstroybank (certificate of JSCB Uzpromstroybank
+No. 04/8-08-24 dated May 26, 2025). As a result, in order to diversify the loan
+portfolio in the practice of JSCB "Uzpromstroybank," loans allocated to
+individuals in the structure of gross loans amounted to 13.7% in 2023 and
+increased to 15.1% in 2024;
+       the proposal to optimize the bank's loan portfolio through the effective
+implementation of commercial bank loans and interest rate policy by ensuring
+the effectiveness of money market instruments has been implemented in the
+activities of JSCB Uzpromstroybank (certificate of JSCB Uzpromstroybank No.
+04/8-08-24 dated May 26, 2025). As a result, based on empirical analysis, it was
+determined that a one percent increase in the interest rate on the money market
+with a one-month lag will increase the interest rate on loans from JSCB
+"Uzpromstroybank" by 0.65 percent, and a one percent increase in the monthly
+money supply in circulation will reduce the interest rate on bank loans by -0.36
+percent with a three-month delay;
+       as a result of the transformation process, when forming the loan portfolio
+of commercial banks based on market mechanisms, the proposal to increase the
+share of the private sector in the loan portfolio of a commercial bank by reducing
+loans allocated to state organizations has been introduced into the activities of
+JSCB Uzpromstroybank (certificate of JSCB Uzpromstroybank No. 04/8-08-24
+dated May 26, 2025). As a result, loans allocated to state organizations in the
+bank's loan portfolio were reduced from 30 percent in 2021 to 22 percent in
+2024, and loans allocated to the private sector were increased from 60 percent
+to 64 percent during this period;
+       Based on the econometric assessment model reflecting the aspects of
+increasing the loan portfolio in banks, as well as the state of problem loans
+related to changes in the inflation rate, the proposal for forecast scenarios until
+March 2028 was introduced into the activities of JSCB Uzpromstroybank
+(certificate of JSCB Uzpromstroybank No. 04/8-08-24 dated May 26, 2025). As
+a result, according to the results of the optimal forecast based on the Seasonal
+ARIMA model, taking into account seasonal fluctuations, it is expected that by
+March 2028 the volume of the loan portfolio will increase by 36.7% compared
+to December 2024, and the volume of non-performing loans of the bank will
+increase by 78.9%.
+       Approbation of the research results. The results of this study were
+discussed at 7, including 4 republican and 3 international scientific and practical
+conferences.
+                                                                                57
+       Publication of research results. A total of 12 scientific works have been
+published on the topic of the dissertation, including 5 articles in scientific
+publications recommended by the Higher Attestation Commission of the
+Republic of Uzbekistan for the publication of the main scientific results of
+doctoral dissertations, including 4 in republican and 1 in foreign journals.
+       Structure and volume of the dissertation. The dissertation consists of
+an introduction, three chapters, a conclusion and a list of references. The volume
+of the dissertation is 136 pages.
+
+
+
+
+58
+                    E'LON QILINGAN ISHLAR RO‘YXATI
+                         СПИСOК ПУБЛИКАЦИЙ
+                         LIST OF PUBLICATIONS
+                              I bo‘lim (I част; Part I)
+
+       1. Sabirova L.B. Empirical analysis of factors affecting loans in commercial
+banks // American Journal of Economics and Business Management. ISSN: 2576-
+5973. Vol 7, Issue 10, 2024. 803-811 pp. (№12, Index Copernicus: 08.00.00, OAK
+rayosatining 2024-yil 28-maydagi 360-son qarori).
+       2. Sabirova L.B. Kredit portfelining sohalar bo‘yicha diversifikatsiyasi va
+uning sifati // Qo‘qon universiteti xabarnomasi ilmiy-elektron jurnali - Qo‘qon,
+№14, 2025-yil. ISSN 2181-1695. 70-77 b. (08.00.00, OAK Rayosatining 2022 yil
+12 avgustdagi 321/4-son qarori).
+       3. Sabirova L.B. Tijorat banklari kredit portfelining tahlili // Aktuar moliya va
+buxgalteriya hisobi ilmiy jurnali ISSN 2181-1865. – Toshkent, №5 (04), 2024 yil.
+137-151 b. (08.00.00, OAK rayosatining 2024-yil 31-yanvardagi 350/10-son qarori).
+       4. Sabirova L.B. Jismoniy shaxslar kreditlarining bank portfeli sifatiga ta’siri:
+tahliliy yondashuv // Yashil iqtisodiyot va taraqqiyot ilmiy elektron jurnal –
+Toshkent, №4, 2025 yil. 1533-1538 b. (№12, Index Copernicus; 08.00.00, OAK
+rayosatining 2023-yil 1-apreldagi 336/3-son qarori).
+       5. Sabirova L.B. Tijorat banklari kredit portfelini optimallashtirish masalalari
+//“Yashil iqtisodiyotni rivojlantirishning tashkiliy-iqtisodiy mexanizmlarini
+takomillashtirish yo‘llari” mavzusida xalqaro ilmiy-amaliy konferensiya
+materiallari to‘plami 2025 yil 22 fevral. 109-111 betlar.
+       6. Sabirova L.B. Muammoli kreditlarning vujudga kelishi borasida ilmiy-
+nazariy qarashlarni // “Yashil iqtisodiyotga o‘tish sharoitida O‘zbekiston bank-
+moliya tizimini rivojlantirishning dolzarb masalalari” mavzusida respublika ilmiy-
+amaliy konferensiya materiallari to‘plami 2025 yil 27 mart. 239-242 betlar.
+       7. Sabirova L.B. Kredit risklarini samarali boshqarish yo‘llari // International
+Conference on Advance Research in Humanities, Sciences and Education Hosted
+from Istanbul, The Turkey April 30th 2025. pp.238-241.
+       8. Sabirova L.B. Kredit resurslari va kredit foizlarini barqarorlashtirish
+yo‘llari // “Yashi taraqqiyot: Barqarorlik kelajoak uchun yechimlar” mavzusida
+respublika ilmiy-amaliy konferensiya materiallari to‘plami 2025 yil 16 aprel. 215-
+218 betlar.
+
+                                II bo‘lim (II част; Part II)
+
+      9. Qo‘shbaqov A.Sh., Sabirova L.B. Bank kreditlari va inflyatsiya darajasi //
+Moliya va bank ishi elektron ilmiy jurnali – Toshkent, №3, 2023 yil. 31-37 b.
+(08.00.00, №17).
+      10. Sabirova L.B. Rivojlanayotgan davlatlarda raqamli texnologiyalar va
+zamonaviy bank xizmatlarini rivojlantirish yo‘llari // “Yashil iqtisodiyotga o‘tish
+sharoitida O‘zbekiston bank-moliya tizimini rivojlantirishning dolzarb masalalari”
+
+                                                                                     59
+mavzusida respublika ilmiy-amaliy konferensiya materiallari to‘plami 2025 yil 27
+mart. 214-215 betlar.
+       11. Sabirova L.B. Muammoli kreditlarning bank samaradorligiga ta’sir
+borasida ilmiy-nazariy qarashlarni // “Yashi taraqqiyot: Barqarorlik kelajoak uchun
+yechimlar” mavzusida respublika ilmiy-amaliy konferensiya materiallari to‘plami
+2025 yil 16 aprel. 218-222 betlar
+       12. Sabirova L.B. Tijorat banklarining kredit portfeli samaradorligini
+oshirishda mijozlarning to‘lov qobiliyati // International Multidisciplinary
+Conference Hosted from Glasgow | England 28th February, 2025. pp. 325-328.
+
+
+
+
+60
+  Avtoreferat “Public Publish Printing” nashriyotida
+                 tahrirdan oʻtkazildi.
+
+
+
+
+         Bosishga ruxsat etildi: 28.06.2025-yil
+       Bichimi 60x84 1/16 , “Times New Roman”
+       garniturada raqamli bosma usulida bosildi.
+Shartli bosma tabogʻi 5,0. Adadi: 100. Buyurtma: №49.
+
+         «Public Publish Printing» MChJ
+           bosmaxonasida chop etildi.
+     Toshkent, M.Ulug‘bek tum., Moylisoy, 22.
+
+
+
+                                                        61
+

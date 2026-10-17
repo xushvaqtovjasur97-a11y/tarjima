@@ -1,0 +1,74 @@
+[
+ {
+  "type": "para",
+  "p": 155,
+  "old": "qaysi ko‘rsatkich tanlanishi",
+  "new": "qaysi ko‘rsatkichlar tanlanishi",
+  "why": "Son moslashuvi: keyingi “ularga” olmoshi ko‘plikdagi otga ishora qiladi"
+ },
+ {
+  "type": "para",
+  "p": 186,
+  "old": "ikki barobar oshadi.",
+  "new": "ikki barobar oshadi",
+  "why": "Izoh belgisi nuqtadan oldin turishi kerak (matndagi umumiy qoida): nuqta izohdan keyinga ko‘chiriladi"
+ },
+ {
+  "type": "para",
+  "p": 186,
+  "old": " Ikkinchidan, milliy",
+  "new": ". Ikkinchidan, milliy",
+  "why": "Izoh belgisidan keyin gap oxiridagi nuqta qo‘yiladi"
+ },
+ {
+  "type": "para",
+  "p": 246,
+  "old": "Unga ko‘ra banklar aktivlari",
+  "new": "Ularga ko‘ra banklar aktivlari",
+  "why": "Olmosh “qoidalar” (ko‘plik) bilan moslashishi kerak"
+ },
+ {
+  "type": "para",
+  "p": 248,
+  "old": "3,7 foizga yetadi.",
+  "new": "3,7 foizga yetadi",
+  "why": "Izoh belgisi nuqtadan oldin turishi kerak: nuqta izohdan keyinga ko‘chiriladi"
+ },
+ {
+  "type": "para",
+  "p": 248,
+  "old": " B. Charoenwong, M. Miao",
+  "new": ". B. Charoenwong, M. Miao",
+  "why": "Izoh belgisidan keyin gap oxiridagi nuqta qo‘yiladi"
+ },
+ {
+  "type": "para",
+  "p": 248,
+  "old": "amalda o‘zida qoldirayotganini",
+  "new": "amalda o‘zlarida qoldirayotganini",
+  "why": "Olmosh “banklar” (ko‘plik) bilan moslashishi kerak"
+ },
+ {
+  "type": "para",
+  "p": 259,
+  "old": "riskni kamsitib ko‘rsatishi",
+  "new": "riskni kamaytirib ko‘rsatishi",
+  "why": "Leksik xato: “kamsitmoq” (xo‘rlamoq) emas, “kamaytirib ko‘rsatmoq” (past ko‘rsatmoq) ma’nosi kerak"
+ },
+ {
+  "type": "para",
+  "p": 260,
+  "old": "Bu o‘z navbatida,",
+  "new": "Bu, o‘z navbatida,",
+  "why": "Kirish birikma “o‘z navbatida” ikki tomondan vergul bilan ajratiladi"
+ },
+ {
+  "type": "cell",
+  "t": 8,
+  "r": 8,
+  "c": 2,
+  "old": "1-oktyabrdan",
+  "new": "1-oktabrdan",
+  "why": "Imlo: amaldagi me’yor va matndagi boshqa holatlarga ko‘ra “oktabr”"
+ }
+]

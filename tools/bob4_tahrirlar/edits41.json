@@ -1,0 +1,283 @@
+[
+ {
+  "type": "para",
+  "p": 587,
+  "old": "bunday tizimlar nazorat reytinglari, moliyaviy koeffitsiyentlar tahlili, bankni guruhdosh banklar bilan solishtirish va statistik bashorat modellariga ajratilgan",
+  "new": "bunday tizimlar nazorat reytinglari, moliyaviy koeffitsiyentlar va guruhlab tahlil tizimlari, risklarni kompleks baholash tizimlari hamda statistik bashorat modellariga ajratilgan",
+  "why": "BCBS WP No. 4 tasnifi (va 1.3-§ dagi 1.3.1-jadval turlari): reyting, koeffitsiyentlar va guruhlab (peer group) tahlil, risklarni kompleks baholash (RATE, RAST), statistik modellar. Matnda kompleks baholash tushib qolgan, koeffitsiyent va guruhlab tahlil esa ikkiga bo‘lingan."
+ },
+ {
+  "type": "para",
+  "p": 591,
+  "old": "Hisob-kitoblar 3.3-paragrafda shakllantirilgan 25 ta bank paneli asosida amalga oshirildi.",
+  "new": "Hisob-kitoblar 3.3-paragrafda shakllantirilgan 25 ta bank paneli va integral indeksning shu panel uchun milliy hisobot ma’lumotlari asosida hisoblanadigan 8 ko‘rsatkichli choraklik varianti (3.2-paragrafda kiritilgan MBII-8) bo‘yicha amalga oshirildi.",
+  "why": "4.1-§ dagi barcha bashorat natijalari panel MBII-8 bo‘yicha (ews41.py: panel33.csv MBII); 3.2-§ (P493) va 3.3-§ (P527) dagi belgilashga havola yo‘q edi."
+ },
+ {
+  "type": "para",
+  "p": 594,
+  "old": "2024-yilda esa hodisalar yirik davlat banklarida (“Mikrokreditbank”, “Biznesni rivojlantirish banki”) va xususiylashtirilgan “Ipoteka-bank” ATB da yuz bergan bo‘lib",
+  "new": "2024-yilda esa hodisalar yirik davlat banklarida (“Mikrokreditbank”, “Biznesni rivojlantirish banki”), xususiylashtirilgan “Ipoteka-bank” ATB da va kichik xususiy “Garant bank” ATB da yuz bergan bo‘lib",
+  "why": "4.1.2-jadvalda 2024-yilda “Garant bank” ATB hodisasi (2024-y. IV chorak, 23,0 %) bor, matndagi 2024-yil ro‘yxatida tushib qolgan (Garant bank panelda eng kichik bank)."
+ },
+ {
+  "type": "para",
+  "p": 599,
+  "old": "ishonch oralig‘ining quyi chegarasi ham 0,76 dan yuqori",
+  "new": "ishonch oralig‘ining quyi chegarasi (0,76) ham qoniqarli daraja hisoblangan 0,7 dan yuqori",
+  "why": "Quyi chegara 0,763 (jadvalda 0,76) – “0,76 dan yuqori” deyish mantiqsiz; P595 dagi 0,7 mezoni bilan bog‘landi."
+ },
+ {
+  "type": "para",
+  "p": 603,
+  "old": "Z-score asosidagi, indeks bloklari asosidagi va davlat ulushini hisobga olgan modellar ham baholandi",
+  "new": "Z-score asosidagi, indeks bloklari asosidagi va davlat banklari uchun fiktiv o‘zgaruvchi kiritilgan modellar ham baholandi",
+  "why": "5-modelda davlat ulushi emas, “Davlat banki (fiktiv o‘zgaruvchi)” (DAVLAT 0/1) qo‘llangan (4.1.4-jadval, ews41.py)."
+ },
+ {
+  "type": "para",
+  "p": 607,
+  "old": "integral indeks koeffitsiyenti barcha modellarda manfiy va 1 foiz darajada ahamiyatli",
+  "new": "integral indeks koeffitsiyenti u kiritilgan barcha modellarda (1-, 3- va 5-modellar) manfiy va 1 foiz darajada ahamiyatli",
+  "why": "MBII 2- va 4-modellarda yo‘q; “barcha modellarda” noaniq."
+ },
+ {
+  "type": "para",
+  "p": 610,
+  "old": "2,75 balldan pastda esa har to‘rtinchi bankda bir yil ichida jiddiy zarar kutiladi",
+  "new": "2,75 balldan pastda esa kamida har to‘rtinchi bankda bir yil ichida jiddiy zarar kutiladi",
+  "why": "Ehtimol 2,75 ballda 26,6 %, undan pastda yuqoriroq (2,5 ballda 48,8 %)."
+ },
+ {
+  "type": "para",
+  "p": 610,
+  "old": "(4.1.5-jadval).",
+  "new": "(4.1.5-jadval, to‘liq jadval 6-ilovada keltirilgan).",
+  "why": "6-ilova (barcha chegaralar bo‘yicha to‘liq jadval) matnda hech qayerda havola qilinmagan."
+ },
+ {
+  "type": "para",
+  "p": 614,
+  "old": "2,75 ballik chegarada shovqin/signal nisbati eng past (0,09), ya’ni signal eng ishonchli bo‘ladi.",
+  "new": "Jadvaldagi chegaralar ichida 2,75 ballik chegarada shovqin/signal nisbati eng past (0,09), ya’ni signal eng ishonchli bo‘ladi (undan past chegaralarda bu nisbat yanada kamayadi, biroq I tur xato 38 foizdan oshadi – 6-ilova).",
+  "why": "6-ilovaga ko‘ra 2,40–2,70 chegaralarda NSR 0,01–0,06 (2,75 dagidan past), ammo I tur xato 38,5–80,8 %; “eng past” faqat 4.1.5-jadvaldagi chegaralar uchun to‘g‘ri."
+ },
+ {
+  "type": "para",
+  "p": 615,
+  "old": "faqat 2022-yil ma’lumotlari asosida tanlangan eng maqbul chegara (2,55 ball)",
+  "new": "faqat o‘qitish davri (2021-yil IV choragi – 2022-yil IV choragi) ma’lumotlari asosida tanlangan eng maqbul chegara (2,55 ball)",
+  "why": "O‘qitish tanlanmasi 2021_IV–2022_IV (113 kuzatuv, ews41 oos); shu xatboshining o‘zida ham shunday ko‘rsatilgan."
+ },
+ {
+  "type": "para",
+  "p": 617,
+  "old": "tadqiqotning asosiy obyektlari bo‘lgan",
+  "new": "tadqiqotning asosiy obyektlaridan bo‘lgan",
+  "why": "Asosiy obyektlar uchta davlat banki (“Aloqabank” ham), shu sababli “obyektlaridan”."
+ },
+ {
+  "type": "para",
+  "p": 617,
+  "old": "(4.1.3-rasm).",
+  "new": "(4.1.3-rasm; barcha banklar bo‘yicha choraklik indeks qiymatlari 4-ilovada keltirilgan).",
+  "why": "4-ilova (25 bank, MBII-8, 2021 IV – 2025 IV) matnda havola qilinmagan; 4.1.3-rasmdagi va xatboshidagi BRB, Garant, Ipoteka, Xalq, Tibisi qiymatlari shu ilovadan."
+ },
+ {
+  "type": "para",
+  "p": 620,
+  "old": "hisoblangan indeks esa butun davr mobaynida 2,18–2,47 ball bilan qizil zonada, ya’ni milliy indeksdan 0,4–0,5 ball pastda bo‘lgan.",
+  "new": "hisoblangan indeks (MBII-13) esa butun davr mobaynida 2,18–2,47 ball bilan qizil zonada, ya’ni milliy indeksdan 0,4–0,6 ball pastda bo‘lgan (bir xil tarkibdagi MBII-13 bo‘yicha ham farq 0,43–0,66 ballni tashkil etadi, 3.1.3-rasm).",
+  "why": "IV chorak MBII-8 va yillik MBII-13 (MHXS) farqi: 0,57; 0,51; 0,47; 0,46; 0,43 (2021–2025) – 0,4–0,5 emas. MBII-13 milliy/MHXS farqi 0,63; 0,48; 0,43; 0,53; 0,66 (mbii31_dyn3.json; 2025: 3,13 va 2,47 – kanonik). 4.2-§ (P669) dagi kabi tarkib farqi ko‘rsatildi."
+ },
+ {
+  "type": "para",
+  "p": 620,
+  "old": "milliy indeks esa signalni faqat chegara atrofida bergan",
+  "new": "milliy indeks esa 2024-yil I choragigacha chegara atrofida tebranib, kuchli signalni faqat zarardan ikki chorak oldin bergan",
+  "why": "Shu xatboshida milliy indeks 2024-y. II–III choraklarida 2,36–2,38 ga keskin pasaygani aytilgan – “faqat chegara atrofida” bunga zid."
+ },
+ {
+  "type": "para",
+  "p": 620,
+  "old": "Chunonchi, uning indeksi 2023-yil IV choragida 2,44 ballgacha va 2024-yil I choragida 2,20 ballgacha pasayib, zararlardan 1–3 chorak oldin qizil zonaga tushgan.",
+  "new": "Chunonchi, uning indeksi 2023-yil II choragidan boshlab qizil zonada bo‘lib, 2023-yil IV choragida 2,44 ballgacha va 2024-yil I choragida 2,20 ballgacha pasaygan, ya’ni har ikki zarardan kamida uch chorak oldin signal bergan.",
+  "why": "BRB: 2023_II 2,65, 2023_III 2,64 (qizil), 2023_IV 2,44, 2024_I 2,20 (birinchi hodisa choragi) – bank qizil zonaga birinchi zarardan 3 chorak oldin tushgan; “1–3 chorak oldin qizil zonaga tushgan” noto‘g‘ri."
+ },
+ {
+  "type": "para",
+  "p": 620,
+  "old": "Integral indeks o‘tkazib yuborgan yagona yirik hodisa “Tibisi bank” ATB ning 2022-yildagi zararlaridir. O‘sha paytda bank faoliyatining dastlabki bosqichida yuqori daromadlilik va kam muammoli kreditlar bilan uning indeksi 3,83 ballni tashkil etgan, zarar esa faoliyatning dastlabki bosqichidagi xarajatlar bilan bog‘liq bo‘lishi mumkin.",
+  "new": "Integral indeks 2022-yilda yashil zonada bo‘lgan xususiy banklardagi (“Anor bank”, “Invest Finance bank”, “Tibisi bank”) hodisalarni oldindan aniqlamagan, ulardan eng yirigi “Tibisi bank” ATB ning zararlaridir (kapitalning 12–15 foizi). O‘sha paytda, ya’ni bank faoliyatining dastlabki bosqichida, yuqori daromadlilik va kam muammoli kreditlar hisobiga uning indeksi 3,83 ballni tashkil etgan, zarar esa yangi bank xarajatlari va kredit portfelining jadal kengayishi bilan bog‘liq bo‘lishi mumkin (2022-yilda bank kreditlari qariyb 4,4 barobar oshgan).",
+  "why": "2,75 (va 3,25) chegarada Anor (2021_IV 3,55), IFB (3,79; 3,73) va Tibisi (3,83) hodisalari aniqlanmagan – bular 4.1.6-jadvaldagi yashil zonadagi 4 ta holat; “yagona” noto‘g‘ri. Tibisi kreditlari 345,0 → 1 506,8 mlrd so‘m (2021_IV→2022_IV, panel33.csv); keyingi gapdagi “kreditlar o‘sish sur’ati” xulosasi va 4.3-§ dagi “kredit portfeli tez kengaygan bank” ta’rifi shu dalilga tayanadi; “dastlabki bosqich” takrori olib tashlandi."
+ },
+ {
+  "type": "para",
+  "p": 621,
+  "old": "milliy hisobot asosidagi choraklik panel indeksi va 3.2-paragrafda MHXS hisobotlari asosida hisoblangan yillik indeks sifatida taqqoslandi",
+  "new": "milliy hisobot asosidagi choraklik panel indeksi (MBII-8) va 3.2-paragrafda MHXS hisobotlari asosida hisoblangan yillik indeks (MBII-13) sifatida taqqoslandi",
+  "why": "4.1.3/4.1.4-rasmlarda milliy qator – MBII-8 (panel33), MHXS qator – MBII-13 (mbii31_dyn3); 4.2-§ (4.2.6-jadval, P669) dagi belgilar bilan moslashtirildi."
+ },
+ {
+  "type": "para",
+  "p": 624,
+  "old": "bo‘lib, bank asosan yashil zonada, 2022-yil IV choragidan 2024-yil II choragigacha bo‘lgan davrda esa asosan sariq zonaning yuqori qismida (3,17–3,36 ball) joylashgan.",
+  "new": "bo‘lib, bank asosan yashil zonada joylashgan, 2022-yil IV choragidan 2024-yil II choragigacha bo‘lgan davrda esa indeks yashil va sariq zonalar chegarasi atrofida (3,17–3,36 ball) tebrangan.",
+  "why": "2022_IV–2024_II: 3,27; 3,22; 3,18; 3,32; 3,36; 3,17; 3,19 – 7 tadan 3 tasi yashil (≥3,25); keltirilgan 3,17–3,36 oralig‘ining o‘zi sariq zonadan chiqadi."
+ },
+ {
+  "type": "para",
+  "p": 624,
+  "old": "Ikki variant o‘rtasidagi farq 0,4–0,6 ballni tashkil etgan. Uning asosiy sababi",
+  "new": "Ikki variant o‘rtasidagi farq 0,45–0,80 ballni tashkil etgan. Bu farqning bir qismi indekslar tarkibidagi farq bilan bog‘liq, chunki milliy hisobot bo‘yicha MBII-8, MHXS bo‘yicha esa MBII-13 qo‘llangan. Bir xil tarkibdagi MBII-13 bo‘yicha farq 0,23–0,46 ballni, jumladan 2025-yilda 0,46 ballni (3,27 va 2,81) tashkil etadi (3.1.3-rasm). Farqning asosiy sababi",
+  "why": "IV chorak MBII-8 − yillik MBII-13 (MHXS): 0,47; 0,47; 0,45; 0,66; 0,80 (2021–2025) – 0,4–0,6 emas; 4.2-§ (P669, 4.2.6-jadval) da 2025-yil farqi 0,79–0,90 (3,61 va 2,81). Bir xil tarkibdagi MBII-13 farqi 0,37; 0,33; 0,23; 0,38; 0,46 (mbii31_dyn3.json; kanonik 3,27/2,81, ΔMBII −0,46)."
+ },
+ {
+  "type": "para",
+  "p": 628,
+  "old": "Xususan, yashil zona I sinfga, sariq va qizil zonalar esa II sinfning yuqori va quyi qismiga hamda III–IV sinflarga to‘g‘ri keladi.",
+  "new": "Xususan, yashil zona I sinfga, sariq zona II sinfning yuqori qismiga (2,75–3,25 ball), qizil zona esa II sinfning quyi qismi (2,50–2,75 ball) hamda III–IV sinflarga to‘g‘ri keladi.",
+  "why": "Asl gap “sariq va qizil zonalar ... III–IV sinflarga” deb o‘qilishi mumkin (sariq zona III sinfga kirmaydi); sinf chegaralari 3,25/2,50/1,75 bo‘yicha aniqlashtirildi."
+ },
+ {
+  "type": "para",
+  "p": 629,
+  "old": "Uchinchidan, tizim ochiq choraklik ma’lumotlarga asoslangan bo‘lib, Markaziy bank esa banklarning prudensial hisobotlari asosida uni kapital monandligi, likvidlik va valyuta riski ko‘rsatkichlari bilan to‘ldirishi mumkin.",
+  "new": "Uchinchidan, tizim ochiq choraklik ma’lumotlar asosidagi MBII-8 ga tayanadi, Markaziy bank esa banklarning prudensial hisobotlari asosida uni kapital monandligi, likvidlik, valyuta riski ko‘rsatkichlari va MHXS 9 bo‘yicha kreditlar bosqichlari bilan to‘ldirib, to‘liq MBII-13 ni qo‘llashi mumkin.",
+  "why": "Cheklov aynan MBII-8 ning tarkibi bilan bog‘liq (3.2-§ P493: kapital monandligi, MHXS 9 bosqichlari, valyuta tarkibi e’lon qilinmagan); belgilar bilan bog‘landi."
+ },
+ {
+  "type": "para",
+  "p": 630,
+  "old": "3.1-paragrafda taklif etilgan integral indeksning tijorat banklarida",
+  "new": "3.1-paragrafda taklif etilgan integral indeksning (ochiq choraklik ma’lumotlar asosidagi MBII-8 varianti) tijorat banklarida",
+  "why": "AUC 0,86/0,95 MBII-8 bo‘yicha; Kirishdagi ilmiy yangilik bandi ham “8 ko‘rsatkichli variant” deb ko‘rsatadi."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Ko‘rsatkichlarning muammo hodisalarini to‘rt chorak oldin",
+  "old": "MBII",
+  "new": "MBII-8",
+  "why": "Panel indeksi MBII-8 (3.3-§ jadvallari va 4.2-§ dagi belgilar bilan bir xil)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Muammo hodisasi ehtimolini baholovchi logit modellar",
+  "old": "MBII",
+  "new": "MBII-8",
+  "why": "Panel indeksi MBII-8."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Integral indeksning turli chegaralarida erta ogohlantirish signallarining aniqligi (to‘liq jadval)",
+  "old": "Chegara (MBII)",
+  "new": "Chegara (MBII-8)",
+  "why": "6-ilova – 4.1.5-jadvalning to‘liq varianti, panel indeksi MBII-8."
+ },
+ {
+  "type": "cell",
+  "table_caption": "Integral indeksning turli chegaralarida erta ogohlantirish",
+  "old": "MBII chegarasi",
+  "new": "MBII-8 chegarasi",
+  "why": "Panel indeksi MBII-8."
+ },
+ {
+  "type": "fn",
+  "id": "482",
+  "old": "quyidagi manbalar asosida ishlab chiqildi: Sahajwala R., Van den Bergh P. Supervisory risk assessment and early warning systems: Basel Committee on Banking Supervision Working Papers No. 4. – Basel: BIS, December 2000; Cole R.A., Gunther J.W. Predicting Bank Failures: A Comparison of On- and Off-Site Monitoring Systems // Journal of Financial Services Research. – 1998. – Vol. 13, No. 2. – P. 103–117; Оценка финансовой устойчивости кредитной организации: учебник / под ред. О.И. Лаврушина, И.Д. Мамоновой. – М.: КНОРУС, 2011. – С. 45, 107–114; Kaminsky G.L., Reinhart C.M. The Twin Crises: The Causes of Banking and Balance-of-Payments Problems // American Economic Review. – 1999. – Vol. 89, No. 3. – P. 473–500; Demirgüç-Kunt A., Detragiache E. The Determinants of Banking Crises in Developing and Developed Countries // IMF Staff Papers. – 1998. – Vol. 45, No. 1. – P. 81–109; Chiaramonte L., Poli F. Predicting European Bank Distress: Evidence from the Recent Financial Crisis // Governance, Regulation and Bank Stability / ed. by T. Lindblom, S. Sjögren, M. Willesson. – Basingstoke: Palgrave Macmillan, 2014. – P. 83–95; Betz F., Oprică S., Peltonen T.A., Sarlin P. Predicting distress in European banks // Journal of Banking & Finance. – 2014. – Vol. 45. – P. 225–241.",
+  "new": "Bazel qo‘mitasi materiallari hamda R. Cole va J. Gunther, G. Kaminsky va C. Reinhart, A. Demirgüç-Kunt va E. Detragiache, O.I. Lavrushin va I.D. Mamonova, L. Chiaramonte va F. Poli, F. Betz va hammualliflarning ushbu paragrafda keltirilgan tadqiqotlari asosida ishlab chiqildi.",
+  "why": "Haddan tashqari uzun (1317 belgi, 7 ta to‘liq manba); barcha manbalar 480–489-izohlarda va adabiyotlar ro‘yxatida (62, 79, 91, 104, 110, 112, 118, 130-manbalar) to‘liq keltirilgan."
+ },
+ {
+  "type": "fn",
+  "id": "505",
+  "old": "quyidagi manbalar ma’lumotlari asosida hisoblandi: O‘zbekiston Respublikasi Markaziy banki. Banklar statistikasi: tijorat banklarining asosiy ko‘rsatkichlari va muammoli kreditlari to‘g‘risidagi oylik ma’lumotlar, 2021-yil aprel – 2026-yil yanvar. – https://cbu.uz/uz/statistics/bankstats/; “SNS” reyting agentligi. O‘zbekiston tijorat banklarining asosiy ko‘rsatkichlari bazasi (Banks_2025_IV, Banks_2026_II): 36 bank, 2021-yil IV chorak – 2026-yil II chorak; Акционерно-коммерческий банк “Микрокредитбанк”. Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 11–12; Акционерно-коммерческий банк “Микрокредитбанк”. Финансовая отчетность за год, закончившийся 31 декабря 2023 года, и заключение независимых аудиторов. – Ташкент, 2024; Акционерно-коммерческий банк “Микрокредитбанк”. Финансовая отчетность за год, закончившийся 31 декабря 2021 года, и заключение независимых аудиторов. – Ташкент, 2022.",
+  "new": "4.1.2-jadvalda ko‘rsatilgan manbalar hamda “Mikrokreditbank” ATB ning 2021–2025-yillar uchun auditdan o‘tgan MHXS bo‘yicha moliyaviy hisobotlari asosida hisoblandi.",
+  "why": "Haddan tashqari uzun (5 ta manba, ~1030 belgi); ma’lumot manbalari 490-izohda, MKB MHXS hisobotlari adabiyotlar ro‘yxatida (185–189) mavjud."
+ },
+ {
+  "type": "fn",
+  "id": "506",
+  "old": "quyidagi manbalar ma’lumotlari asosida hisoblandi: O‘zbekiston Respublikasi Markaziy banki. Banklar statistikasi: tijorat banklarining asosiy ko‘rsatkichlari va muammoli kreditlari to‘g‘risidagi oylik ma’lumotlar, 2021-yil aprel – 2026-yil yanvar. – https://cbu.uz/uz/statistics/bankstats/; “SNS” reyting agentligi. O‘zbekiston tijorat banklarining asosiy ko‘rsatkichlari bazasi (Banks_2025_IV, Banks_2026_II): 36 bank, 2021-yil IV chorak – 2026-yil II chorak; Joint Stock Commercial Bank “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026. – P. 2–3; Акционерный коммерческий банк “Узбекский промышленно-строительный банк” и его дочерние организации. Консолидированная финансовая отчетность и аудиторское заключение за годы, закончившиеся 31 декабря 2023, 2022 и 2021 гг. – Ташкент, 2024.",
+  "new": "4.1.2-jadvalda ko‘rsatilgan manbalar hamda “O‘zsanoatqurilishbank” ATB ning 2021–2025-yillar uchun auditdan o‘tgan MHXS bo‘yicha konsolidatsiyalangan moliyaviy hisobotlari asosida hisoblandi.",
+  "why": "Haddan tashqari uzun (4 ta manba, ~960 belgi); manbalar 490-izohda va adabiyotlar ro‘yxatida (176, 177, 180–184)."
+ },
+ {
+  "type": "chart",
+  "part": "/word/charts/chart34.xml",
+  "ser": 0,
+  "values": [
+   86.8,
+   81.7,
+   75.2,
+   67.3,
+   58.3,
+   48.8,
+   39.3,
+   30.5,
+   23.0,
+   16.9,
+   12.1,
+   8.6,
+   6.0,
+   4.2,
+   2.9,
+   2.0,
+   1.3,
+   0.9,
+   0.6,
+   0.4,
+   0.3
+  ],
+  "why": "1-model (b0 = 9,607; b1 = −3,863) bo‘yicha aniq qiymatlar: 2,5 ballda 48,8 % (diagrammada ko‘rinadigan yorliq 48,7, matnda 48,8), 3,3 ballda 4,2 % (4,1 edi); qolganlari o‘zgarmaydi."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart33.xml",
+  "old": "MBII (AUC = 0,86)",
+  "new": "MBII-8 (AUC = 0,86)",
+  "why": "Panel indeksi MBII-8."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart33.xml",
+  "old": "MBII chegaralari: 2,75; 2,85; 3,25",
+  "new": "MBII-8 chegaralari: 2,75; 2,85; 3,25",
+  "why": "Panel indeksi MBII-8."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart34.xml",
+  "old": "MBII, ball",
+  "new": "MBII-8, ball",
+  "why": "Logit 1-model MBII-8 bo‘yicha baholangan."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart35.xml",
+  "old": "MKB: milliy hisobot asosida (choraklik)",
+  "new": "MKB: milliy hisobot, MBII-8 (choraklik)",
+  "why": "Milliy qator – panel MBII-8 (2025_IV 2,90; MBII-13 milliy 3,13 emas)."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart35.xml",
+  "old": "MKB: MHXS hisoboti asosida (yillik)",
+  "new": "MKB: MHXS hisoboti, MBII-13 (yillik)",
+  "why": "MHXS qator – MBII-13 (2,18–2,47)."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart36.xml",
+  "old": "SQB: milliy hisobot asosida (choraklik)",
+  "new": "SQB: milliy hisobot, MBII-8 (choraklik)",
+  "why": "Milliy qator – panel MBII-8 (2025_IV 3,61; MBII-13 milliy 3,27 emas)."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart36.xml",
+  "old": "SQB: MHXS hisoboti asosida (yillik)",
+  "new": "SQB: MHXS hisoboti, MBII-13 (yillik)",
+  "why": "MHXS qator – MBII-13 (2,72–2,92)."
+ }
+]

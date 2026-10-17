@@ -1,0 +1,148 @@
+ID 139825 | Allaberganov Sirojali Sahatovich | PhD |  | Tijorat banklari resurs bazasining barqarorligini ta’minlash yo‘llari
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH TASHKENT INTERNATIONAL UNIVERSITY ALLABERGANOV SIROJALI SAHATOVICH TIJORAT BANKLARI RESURS BAZASINING BARQARORLIGINI TA’MINLASH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bо‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2025-yil 1 UOʻK: 338.482.2(575.1) Iqtisodiyot fanlari bо‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философии (PhD) по экономическим наукам Content of dissertation abstract for doctor of philoso
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklarini transformatsiyalash jarayonida
+resurs bazasining barqarorligini ta’minlash yo‘llariga qaratilgan ilmiy taklif va
+amaliy tavsiyalarni ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ bank tizimi barqarorligini ta’minlash, ularda transformatsiya riskini
+kamaytirish maqsadi bank depozitlarining ajratilgan keditlardagi salmog‘ini
+minimal chegarasini 40 foiz qilib belgilash ilmiy asoslangan;
+ moliya bozori instrumenti ta’sirchanligini ta’minlash vositasida bankdan
+tashqari pul aylanmasini qisqartirish orqali bank resurs bazasida barqaror moliyaviy
+resurslar salmogʻini oshirish hamda resurs bazasi barqarorligini mustahkamlash
+ilmiy asoslangan;
+ bank omonat va kredit mahsulotlarini lokal shart-sharoitlarga moslashtiruvchi
+innovatsion strategiyalarni yaratish maqsadida hududiy resurslarni samarali jalb
+qilish hamda tijorat banklarining resurs bazasi barqarorligini ta’minlash taklif
+etilgan;
+ ATB Turonbank depozitlari hajmini oshirishning inflyatsiya darajasi
+o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi ekonometrik baholash modeli asosida
+2028 yilga qadar prognoz ssenariylari taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ Markaziy bank asosiy foiz stavkasining bir foizga oshishi, bir oylik kechikish
+bilan ATB Turonbank depozitlari hajmini 3,23 foizga qisqartirishi, pul bozoridagi
+foiz stavkaning bir foizga oshishi esa, ikki oylik kechikish bilan ATB Turonbank
+depozitlari hajmini 0,78 foizga oshirishi aniqlangan;
+ ATB Turonbankda qisqa muddatli depozitlari foizining bir foizga oshishi ikki
+oylik lag bilan bank depozitlari hajmini 0,62 foizga oshirishi, ammo iqtisodiyotdagi
+inflyatsiya darajasi, hamda muomaladagi pul massasining o‘zgarishi ATB
+Turonbank depozitlari hajmining o‘zgarishiga ta’siri yo‘qligi aniqlangan;
+ Markaziy bank asosiy foiz stavkasining bir foizga oshishi, bir oylik kechikish
+bilan ATB Turonbankda qisqa muddatli depozitlari foizini 0,44 foizga oshirishi, pul
+bozoridagi foiz stavkaning bir foizga oshishi, bir oylik kechikish bilan bankning
+qisqa muddatli depozitlari foizini 0,24 foizga oshirishi aniqlangan;
+ muomaladagi pul massasining o‘zgarishi ATB Turonbankning qisqa muddatli
+depozitlari foiziga ta’siri statistik ahamiyatga ega bo‘lsada, ammo bu sezilarsiz
+ 8
+ekanligi, hamda bank depozitlari hajmining o‘zgarishi depozit foiziga ta’siri yo‘qligi
+aniqlangan;
+ cheklangan resurslardan samarali foydalanish, bank kapital rentabelligini
+oshirish maqsadida chakana bank xizmatlariga orientatsiya qilish, hamda chakana
+kreditlarining umimiy kredit portfelidagi ulushini 20 foizdan oshirish taklif etilgan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa va takliflarning mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani
+bilan belgilanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan transformatsiya jarayonida tijorat banklari resurs bazasining
+barqarorligini ta’minlash yo‘llariga qaratilgan maxsus ilmiy-tadqiqotlarni amalga
+oshirishda foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformatsiya jarayonida tijorat banklari
+depozit bazasini mustahkamlash yo‘llariga qaratilgan chora-tadbirlar majmuini
+ishlab chiqishda foydalaniladi, shuningdek, 2022-2026 yillarga mo‘ljallangan yangi
+O‘zbekistonning Taraqqiyot strategiyasida hamda 2020–2025 yillarga
+mo‘ljallangan O‘zbekiston Respublikasining bank tizimini isloh qilish
+strategiyasida ko‘rsatilgan vazifalarni bajarishga qaratilgan chora-tadbirlarni ishlab
+chiqishda foydalanilishi mumkin.
+ Tadqiqot natijalarining joriy qilinishi. Transformatsiya jarayonida tijorat
+banklari resurs bazasining barqarorligini ta’minlash yo‘llari bo‘yicha olingan ilmiy
+natijalar asosida:
+ bank tizimi barqarorligini ta’minlash, ularda transformatsiya riskini
+kamaytirish maqsadi bank depozitlarining ajratilgan keditlardagi salmog‘ini
+minimal chegarasini 40 foiz qilib belgilashga doir taklifi ATB Turonbank faoliystiga
+joriy etilgan (ATB Turonbankning 2025 yil 19 fevraldagi 23/02-145-son
+ma’lumotnomasi). Natijada, ATB Turonbank amaliyotida transformatsiya riskini
+kamaytirish uchun bank depozitlarining ajratilgan keditlardagi salmog‘ini 2023 yil
+yanvar holatiga 35,5 foizdan 2024 yil yanvar holatiga 41,3 foizgacha oshirishga
+erishilgan.
+ moliya bozori instrumenti ta’sirchanligini ta’minlash vositasida bankdan
+tashqari pul aylanmasini qisqartirish orqali bank resurs bazasida barqaror moliyaviy
+resurslar salmogʻini oshirish hamda resurs bazasi barqarorligini mustahkamlashga
+doir taklifi ATB Turonbank faoliystiga joriy etilgan (ATB Turonbankning 2025 yil
+19 fevraldagi 23/02-145-son ma’lumotnomasi). Natijada, pul bozori foizining bir
+foizga oshishi bank depozitlarining real hajmini 0,78 foizga, hamda qisqa muddatli
+deposit foizining bir foizga oshishi esa bank depozitlarining real hajmini 0,62 foizga
+oshirishi strukturaviy vektorli avtoregressiya modeli orqali aniqlangan.
+ 9
+ bank omonat va kredit mahsulotlarini lokal shart-sharoitlarga moslashtiruvchi
+innovatsion strategiyalarni yaratish maqsadida hududiy resurslarni samarali jalb
+qilish hamda tijorat banklarining resurs bazasi barqarorligini ta’minlashga doir
+taklifi ATB Turonbank faoliystiga joriy etilgan (ATB Turonbankning 2025 yil 19
+fevraldagi 23/02-145-son ma’lumotnomasi). Natijada, ATB Turonbankning
+strategik rivojlanish dasturida lokal shart-sharoitlarga moslashtiruvchi innovatsion
+strategiyalarni yaratish va bunda hududlarda puldor jismoniy shaxslar hamda bank
+salohiyatidan kelib chiqqan holda kichik biznes va tadbirkorlik subyektlariga
+omonat turlarini kredit mahsulotlarini taklif qilish belgilab olingan.
+ ATB Turonbank depozitlari hajmini oshirishning inflyatsiya darajasi
+o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi ekonometrik baholash modeli asosida
+2028 yilga qadar prognoz ssenariylarini ishlab chiqishga doir taklifi ATB Turonbank
+faoliystiga joriy etilgan (ATB Turonbankning 2025-yil 19 fevraldagi 23/02-145-son
+ma’lumotnomasi). Natijada, Seasonal ARIMA va Holt-Winters eksponensial
+silliqlash modellari asosida, optimal ssenariyga ko‘ra, 95 foiz ehtimollikda bank
+depozitlarining umumiy real hajmi 2028 yilda 2024 yildagiga nisbatan 51 foizga
+oshishi empirik tahlillar asosida prognoz qilingan.
+ Tadqiqot natijalarining aprobasiyasi. Mazkur tadqiqot natijalari 12 ta,
+jumladan 7 ta respublika va 5 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+ Tadqiqot natijalarining e’lon qilinishi. Dissertatsiya mavzusi boʻyicha jami
+17 ta ilmiy maqola shu jumladan, O‘zbekiston Respublikasi Oliy Attestatsiya
+Komissiyasining doktorlik dissertatsiyalarining asosiy ilmiy natijalarini chop etish
+tavsiya etilgan ilmiy nashrlarda 5 ta maqola, jumladan, 3 tasi respublika va 2 tasi
+xorijiy jurnallarda nashr etilgan.
+ Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertatsiyaning tarkibi
+152 betni tashkil etgan.
+ DISSERTATSIYANING ASOSIY MAZMUNI
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Transformatsiya jarayonida tijorat banklari resurs
+bazasining barqarorligini ta’minlashning ilmiy-nazariy asoslari” deb
+nomlangan birinchi bobida bank tizimi barqarorligini ta’minlashda resurs bazasining
+o‘rni, hamda tijorat banklari barqarorligini ta’minlashda depozit bazasining tutgan
+o‘rniga qaratilgan ilmiy-nazariy qarashlari tadqiq etilgan va ilmiy xulosalar ishlab
+chiqligan.
+ Tijorat banklari faoliyatining barqarorligi va samaradorligi ko‘p jihatdan
+ularning resurs bazasiga bog‘liq. Resurs bazasi – bank tomonidan o‘z faoliyatini
+amalga oshirish uchun jalb qilingan mablag‘lar majmuasi bo‘lib, bankning
+
+ 10
+moliyaviy manbalarini tashkil etadi. Bu baza bankning asosiy faoliyati – kreditlash,
+investisiya va hisob-kitob operatsiyalarini amalga oshirish uchun asos bo‘ladi.
+ Tijorat banklari resurs bazasi to‘g‘ri boshqarilganda ularning likvidlik,
+daromaddorlik va moliyaviy barqarorligi ta’minlanadi. Ushbu baza bankning
+mijozlarga qo‘shimcha xizmatlar ko‘rsatish imkoniyatlarini kengaytiradi hamda
+banklar o‘rtasidagi raqobatbardoshlik darajasini oshiradi.
+ Tijorat banklarining resurslari asosan ikkiga bo‘linadi: ichki va tashqi. Ichki
+resurslar bankning ustav fondi va taqsimlanmagan foydasi hisoblansa, tashqi
+resurslar bank tomonidan mijozlardan jalb qilingan mablag‘lardan iborat. Tashqi
+resurslarga depozitlar, qarz mablag‘lari va boshqa moliyaviy manbalar kiradi.
+ Depozitlar tijorat banklari resurs bazasining asosiy qismi hisoblanadi. Depozit
+bazasi – bankka jismoniy va yuridik shaxslar tomonidan saqlash uchun topshirilgan
+mablag‘lar yig‘indisidir. Depozitlar bankka uzoq muddatli va barqaror moliyaviy
+manba bo‘lib xizmat qiladi. Depozitlar muddatli va talab qilib olinadigan
+depozitlarga bo‘linadi. Muddatli depozitlar muayyan shartnoma muddatida
+saqlanadi va foizlar to‘lanadi, talab qilib olinadigan depozitlar esa mijozlar
+tomonidan istalgan vaqtda qaytarib olinishi mumkin.
+ Depozit bazasining barqarorligi va kengayishi bankning moliyaviy
+barqarorligini ta’minlaydi. Bu bankka mijozlarning ishonchini oshirishga, foiz
+xarajatlarini optimallashtirishga va likvidlik darajasini oshirishga imkon beradi.
+Banklar depozit bazasini mustahkamlash uchun mijozlar uchun jozibador foiz
+stavka

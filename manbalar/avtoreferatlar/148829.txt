@@ -1,0 +1,167 @@
+ID 148829 | Yodgorov Mansur Nabievich | PhD |  | Tijorat banklari kapitali barqarorligini ta’minlash yo‘llari.
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH TASHKENT INTERNATIONAL UNIVERSITY YODGOROV MANSUR NABIEVICH TIJORAT BANKLARI KAPITALI BARQARORLIGINI TA’MINLASH YO‘LLARI 08.00.07 – «Moliya, pul muomalasi va kredit» Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahar – 2026 yil UOʻK: 336.71:336(575.1)) Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертaции доктора философии (PhD) по экономическим наукам Content of dissertation abstract for Doctor of Philosophy (PhD) in Eco
+=== MAQSAD
+Tadqiqotning maqsadi mamlakatimiz tijorat banklarini transformasiyalash
+jarayonida kapital barqarorligini ta’minlash yo‘llariga qaratilgan ilmiy-nazariy,
+amaliy va uslubiy taklif va tavsiyalarni ishlab chiqishdan iborat.
+
+
+
+8
+ Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Jurayev I.I. O‘zbekiston respublikasi tijorat bankla
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklari kapital yetarliligi koeffitsientining «o'rtacha qiymatga qaytish»
+(mean-reverting) xususiyatiga ega ekanligi, shuningdek inflyatsiya va valyuta
+kursining kapital barqarorligiga o'rta muddatli differensial ta'sir mexanizmi asoslangan;
+ pul massasining oshishi tijorat banklari kapital yetarliligi koeffitsientiga qisqa
+muddatda kredit ekspansiyasi va riskka tortilgan aktivlar o'sishi hisobiga kapital
+yetarliligini pasaytirsa, ikkinchi lag davrida daromadlarning kapitallashuvi hisobiga
+kapitalning qayta tiklanishi sodir bo'lishi orqali ikki bosqichli dinamik mexanizm orqali
+ro'y berishi asoslangan;
+ tijorat banklari yuqori likvidli aktivlar zaxirasining (HQLA) bank kapital
+barqarorligiga ta’siri «kechikish effekti» bilan namoyon bo’lishi va bank tizimida
+kapital yetarliligining «inersion o’z-o’zini tuzatish» (mean-reverting oscillation)
+mexanizmi asoslangan;
+ O'zsanoatqurilishbank ATBning kapital barqarorligi ta'minlashga qaratilgan eng
+yuqori aniqlikni ta'minlovchi Holt-Winters modeli (RMSE: aktivlar — 1,69; kredit
+portfeli — 3,59; kapital — 0,51) asosida 2025–2030 yillar uchun bazaviy, optimistik
+va pessimistik uch ssenariyali moliyaviy ko'rsatkichlar prognozi taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+10
+ tijorat banklari regulyativ kapital tarkibidagi nomutanosiblikni bartaraf etish
+maqsadida gibrid kapital instrumentlari – AT1 (Additional Tier 1) toifasidagi
+obligatsiyalar va subordinatsiyalangan qarz instrumentlarini joriy etish orqali kapital
+bazasini diversifikatsiya qilish va moliyaviy moslashuvchanlikni oshirish taklif etilgan;
+ tijorat banklarining kapital barqarorligini ta'minlashda xalqaro Basel III/IV
+standartlarini mahalliy iqtisodiy sharoitlarga moslashtirishga qaratilgan nazariy-
+metodologik yondashuv takomillashtirilib, Modigliani–Miller, Diamond–Dybvig
+nazariyalari hamda agentlik nazariyasi sintezi asosida riskka asoslangan kapital
+adekvatligi baholash tizimi va kontrsiklik kapital buferi mexanizmi ishlab chiqilgan;
+ bank kapitalini boshqarish borasida xorij tajribasini qiyosiy tahlil qilish asosida
+O'zbekiston tijorat banklari uchun makroiqtisodiy ssenariylarga asoslangan
+moslashtirilgan stress-test sinovlari tizimi va iqtisodiy faollik fazalariga mos kontrsiklik
+kapital buferi (CCyB) mexanizmini bosqichma-bosqich joriy etish taklif etilgan;
+ Markaziy bank asosiy stavkasining oshishi kreditlash faolligi va likvidlik
+sharoitlariga bosim o'tkazishi orqali kapital buferlarini vaqtincha qisqartirib, ammo
+uzoq muddatda bu ta'sirning inersiya asosida so'nishini inobatga olgan holda tijorat
+banklari kapital yetarliligi koeffitsientiga qisqa muddatli salbiy ta'sir mexanizmi
+asoslangan;
+ qisqa muddatda kredit portfeli o’sishi kapital infuziyalari hisobiga kapital
+yetarliligi koeffitsientini oshirsa, 6 oydan so’ng riskga tortilgan aktivlarning ortishi
+hisobiga kapital yetarliligini qisqartirishi vositasida tijorat banklarining kredit portfeli
+hajmi kapital yetarliligi koeffitsientiga ikki bosqichli paradoksal mexanizm orqali ta’sir
+ko’rsatishi aniqlangan;
+ yuqori rentabellikning riskli kreditlash ekspansiyasi va kapital buferlarining
+kamayishi hisobiga erishilishi asosida tijorat banklarining aktivlar rentabelligi
+koeffitsienti oshishi kapital yetarliligiga qisqa muddatda «rentabellik paradoksi»
+sifatida salbiy ta’sir ko’rsatishi aniqlangan;
+ Tadqiqot 
+=== XULOSA
+
+xulosalarni shakllantirish;
+ bank kapitalini boshqarish bo‘yicha хalqaro tajribasi tahlil qilish va
+mamlakatimiz bank tizimi kapital barqarorligini ta’minlash borasida xulosalar olish;
+ bank kapitali barqarorligiga ta’sir qiluvchi moliyaviy va kredit risklarni
+baholash, tahlil qilish va xulosalar shakllantirish;
+ bank kapitali barqarorligiga tashqi va ichki omillar ta’sirining econometrik
+modelini shakllantirish;
+ tijorat banklarida kapital barqarorligini ta’minlashning prognoz stenariylarini
+shakllantirish;
+ Tijorat banklari kapitali barqarorligini ta’minlash bilan bog‘liq
+muammolar va ularni bartaraf etish yo‘llariga qaratilgan ilmiy taklif hamda amaliy
+tavsiyalar ishlab chiqish.
+ Tadqiqotning ob’ekti sifatida O‘zbekistonda faoliyat ko‘rsatayotgan tijorat
+banklari, xususan ATB O‘zsanoatqurilishbankning kapital barqarorligini ta’minlash
+yo‘llari tanlangan.
+ Tadqiqotning predmeti tijorat banklari kapital barqarorligini ta’minlash
+jarayonida yuzaga keladigan iqtisodiy munosabatlar tashkil etadi.
+ Tadqiqotning usullari. Dissertasiyada ilmiy abstraksiya, qiyosiy va tarkibiy
+tahlil, induksiya va deduksiya, iqtisodiy-statistik va ekonometrik baholash, xususan,
+strukruraviy vektorli avtoregressiya, ARIMA, Seasonal ARIMA va Holt-Winters
+eksponensial silliqlash modellaridan foydalanilgan.
+ Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklari kapital yetarliligi koeffitsientining «o'rtacha qiymatga qaytish»
+(mean-reverting) xususiyatiga ega ekanligi, shuningdek inflyatsiya va valyuta
+kursining kapital barqarorligiga o'rta muddatli differensial ta'sir mexanizmi asoslangan;
+ pul massasining oshishi tijorat banklari kapital yetarliligi koeffitsientiga qisqa
+muddatda kredit ekspansiyasi va riskka tortilgan aktivlar o'sishi hisobiga kapital
+yetarliligini pasaytirsa, ikkinchi lag davrida daromadlarning kapitallashuvi hisobiga
+kapitalning qayta tiklanishi sodir bo'lishi orqali ikki bosqichli dinamik mexanizm orqali
+ro'y berishi asoslangan;
+ tijorat banklari yuqori likvidli aktivlar zaxirasining (HQLA) bank kapital
+barqarorligiga ta’siri «kechikish effekti» bilan namoyon bo’lishi va bank tizimida
+kapital yetarliligining «inersion o’z-o’zini tuzatish» (mean-reverting oscillation)
+mexanizmi asoslangan;
+ O'zsanoatqurilishbank ATBning kapital barqarorligi ta'minlashga qaratilgan eng
+yuqori aniqlikni ta'minlovchi Holt-Winters modeli (RMSE: aktivlar — 1,69; kredit
+portfeli — 3,59; kapital — 0,51) asosida 2025–2030 yillar uchun bazaviy, optimistik
+va pessimistik uch ssenariyali moliyaviy ko'rsatkichlar prognozi taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+10
+ tijorat banklari regulyativ kapital tarkibidagi nomutanosiblikni bartaraf etish
+maqsadida gibrid kapital instrumentlari – AT1 (Additional Tier 1) toifasidagi
+obligatsiyalar va subordinatsiyalangan qarz instrumentlarini joriy etish orqali kapital
+bazasini diversifikatsiya qilish va moliyaviy moslashuvchanlikni oshirish taklif etilgan;
+ tijorat banklarining kapital barqarorligini ta'minlashda xalqaro Basel III/IV
+standartlarini mahalliy iqtisodiy sharoitlarga moslashtirishga qaratilgan nazariy-
+metodologik yondashuv takomillashtirilib, Modigliani–Miller, Diamond–Dybvig
+nazariyalari hamda agentlik nazariyasi sintezi asosida riskka asoslangan kapital
+adekvatligi baholash tizimi va kontrsiklik kapital buferi mexanizmi ishlab chiqilgan;
+ bank kapitalini boshqarish borasida xorij tajribasini qiyosiy tahlil qilish asosida
+O'zbekiston tijorat banklari uchun makroiqtisodiy ssenariylarga asoslangan
+moslashtirilgan stress-test sinovlari tizimi va iqtisodiy faollik fazalariga mos kontrsiklik
+kapital buferi (CCyB) mexanizmini bosqichma-bosqich joriy etish taklif etilgan;
+ Markaziy bank asosiy stavkasining oshishi kreditlash faolligi va likvidlik
+sharoitlariga bosim o'tkazishi orqali kapital buferlarini vaqtincha qisqartirib, ammo
+uzoq muddatda bu ta'sirning inersiya asosida so'nishini inobatga olgan holda tijorat
+banklari kapital yetarliligi koeffitsientiga qisqa muddatli salbiy ta'sir mexanizmi
+asoslangan;
+ qisqa muddatda kredit portfeli o’sishi kapital infuziyalari hisobiga kapital
+yetarliligi koeffitsientini oshirsa, 6 oydan so’ng riskga tortilgan aktivlarning ortishi
+hisobiga kapital yetarliligini qisqartirishi vositasida tijorat banklarining kredit portfeli
+hajmi kapital yetarliligi koeffitsientiga ikki bosqichli paradoksal mexanizm orqali ta’sir
+ko’rsatishi aniqlangan;
+ yuqori rentabellikning riskli kreditlash ekspansiyasi va kapital buferlarining
+kamayishi hisobiga erishilishi asosida tijorat banklarining aktivlar rentabelligi
+koeffitsienti oshishi kapital yetarliligiga qisqa muddatda «rentabellik paradoksi»
+sifatida salbiy ta’sir ko’rsatishi aniqlangan;
+ Tadqiqot natijalarining ishonchliligi. Tadqiqot natijalarining ishonchliligi
+ularni taniqli iqtisodchi olimlarning transformasiya jarayonida tijorat banklari kapitali
+barqarorligini ta’minlash yo‘llari xususidagi ilmiy-nazariy qarashlarini qiyosiy va
+tanqidiy tahlil qilinganligi, ilg‘or xorij tajribasi o‘rganilganligi va umumlashtirilganligi,
+shuningdek, statistik ma’lumotlar O‘zbekiston Respublikasi Markaziy banki,
+O‘zbekiston Respublikasi Statistika qo‘mitasi va O‘zbekiston tijorat banklari yillik
+hisobot ma’lumotlaridan olingani, shu bilan birga tegishli xulosa va takliflarning
+mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani bilan belgilanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan tijorat banklari kapitali barqarorligini ta’minlash yo‘llariga
+qaratilgan maxsus ilmiy-tadqiqotlarni amalga oshirishda foydalanish mumkinligi bilan
+izohlanadi.
+ Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformasiya jarayonida tijorat banklari kapitali
+barqarorligini ta’minlashga qaratilgan chora-tadbirlar majmuini ishlab chiqishda
+foydalaniladi, shuningdek, yangi O‘zbekistonning 2030 yilgacha rivojlanish
+strategiyasida va 2020-2025 yillarga mo‘ljallangan O‘zbekiston Respublikasining bank
+ 11
+tizimini isloh qilish strategiyasida ko‘rsatilgan vazifalarni bajarishga qaratilgan chora-
+tadbirlarni ishlab chiqishda foydalanilishi mumkin.
+ Tadqiqot natijalarining joriy qilinishi. Tijorat banklari kapital barqarorligini
+ta’minlash yo‘llari bo‘yicha olingan ilmiy natijalar asosida:
+ tijorat banklari kapital yetarliligi koeffitsientining «o'rtacha qiymatga qaytish»
+(mean-reverting) xususiyatiga ega ekanligi, shuningdek inflyatsiya va valyuta
+kursining kapital barqarorligiga o'rta muddatli differensial ta'sir mexanizmiga doir
+taklifi ATB O'zsanoatqurilishbank faoliystiga joriy etilgan (ATB
+O'zsanoatqurilishbankning 2026-yil 4-maydagi 27-06/13937-son ma’lumotnomasi).
+Natijada, kapital yetarliligining ikki lag oldingi darajasidan −0,323 koeffitsienti bilan
+teskari yo'nalishda harakat qilishi (p<0,01), inflyatsiyaning 1 foizga oshishi kapital
+yetarliligini ikkinchi lag davrida 0,051 foizga oshirishi (p<0,10), hamda milliy valyuta
+almashinuv

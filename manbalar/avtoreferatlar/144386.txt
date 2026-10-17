@@ -1,0 +1,152 @@
+ID 144386 | Djalilov Gayrat Kaxramanovich | PhD |  | Banklarning moliyaviy barqarorligini ta'minlashning ustuvor yoʻnalishlari
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH TASHKENT INTERNATIONAL UNIVERSITY DJALILOV GAYRAT KAXRAMANOVICH BANKLARNING MOLIYAVIY BARQARORLIGINI TA'MINLASHNING USTUVOR YOʻNALISHLARI 08.00.07 – «Moliya, pul muomalasi va kredit» Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent shahar – 2026 yil UOʻK: 336.71:336(575.1)) Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертaции доктора философии (PhD) по экономическим наукам Content of dissertation abstract for Doctor of Philos
+=== MAQSAD
+Tadqiqotning maqsadi Oʻzbekistonda banklarning moliyaviy barqarorligini
+ta’minlashga qaratilgan ustuvor yoʻnalishlarini ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quydagilardan iborat:
+ muddatli depozitlarning 1-darajali asosiy kapitalga uzoq muddatda to‘g‘ri,
+qisqa muddatda esa teskari proporsional ta’sirini hisobga olish asosida bankning
+oylik moliyaviy barqarorligini ta’minlash hamda kapital yetarliligi va likvidlik
+o‘rtasidagi muvozanatni saqlashga qaratilgan taklif ishlab chiqilgan;
+ tijorat banklari aktiv va majburiyatlarni boshqarish mexanizmlarini
+takomillashtirishda kredit va lizing operatsiyalari leverej koeffitsiyentiga uzoq
+muddatda teskari ta’sir ko‘rsatishi empirik tahlillar asosida aniqlanib, bank
+moliyaviy ko‘rsatkichlarining qayta muvozanatga kelish darajasi bir oy muddatda
+72 foizga yetishi asoslangan;
+ bankning barqaror moliyalashtirish manbasiga qisqa muddatli davrda bank
+daromadlari va depozitlari ta’sir ko‘rsatmasligini ta’minlashga qaratilgan
+8
+mexanizmlarni joriy etish asosida likvidlik va moliyaviy barqarorlikka salbiy qisqa
+muddatli tebranishlarning oldini olish hamda ushbu manbaning uzoq, ya’ni 45–50
+kunlik davrda bosqichma-bosqich qayta tiklanishini ta’minlash taklif etilgan;
+ bankning barqaror moliyalashtirish hajmi qisqa muddatli davrda lkvidlikni
+qoplash koeffitsiyentini oshirishiga erishish orqali bankning ichki moliyaviy
+resurslarini qayta taqsimlash jarayonida daromad keltiradiga likvid aktivlarni oshirish
+taklif etilgan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ aktivlarning tarkibida foyda keltirmaydigan ulushni bosqichma-bosqich
+kamaytirib borishi orqali ularning kichik ulushida nolikvid aktivlarning hajmi
+ortishini oldini olish taklif etilgan.
+ Banklar moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy tajribalari
+oʻrganildi va mamlakatimiz sharoitida joriy etish boʻyicha takliflar ishlab chiqildi.
+ uzoq muddatli davrda barqaror moliyalashtirish zarur hajmining ogʻishi qayta
+muvozanatga kelishida 49,07 foiz darajada ekanligi asoslandi.
+ kredit va lizing operatsiyalari tezkor ravishda likvidlikni qoplash
+koeffitsiyentini oshirishi kreditlar qariyb yaqin vaqt ichida keladigan moliyaviy
+resurslarga tayanib moliyalashtirilayotganligini taxmin qilish mumkin.
+ Bank moliyaviy barqarorligini ta’minlashning ekotizimi ishlab chiqilgan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa, foydalanilgan adabiyotlar roʻyxati va ilovalardan tarkib topgan. Dissertatsiya
+hajmi 126 betni tashkil etadi.
+ DISSERTASIYANING ASOSIY MAZMUNI
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning oʻrganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+10
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi boʻyicha
+ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Banklarda moliyaviy barqarorlikning nazariy asoslari
+va ilgʻor tajribalari” deb nomlangan birinchi bobida banklarda moliyaviy
+barqarorlik zaruratining vujudga kelishi va uning mohiyati, banklarda moliyaviy
+barqarorlik koʻrsatkichlari va ularning oʻziga xos xususiyatlari, banklarning
+moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy tajribalari tadqiq etilgan va
+ilmiy xulosalar ishlab chiqilgan.
+ Bizningcha, banklarning moliyaviy barqarorligiga ta’sir etuvchi omillarni
+aniqlash va tizimlashtirish orqali uni ta’minlashga qaratilgan islohotlarni amalga
+oshirish mumkin boʻladi. Bunda quyidagi jihatlarga e’tibor berish maqsadga
+muvofiq hisoblanadi:
+ Birinchidan, bank barqarorligini ta’minlashga xizmat qiladigan moliyaviy va
+nomoliyaviy koʻrsatkichlar tizimini shakllantirish.
+ Ikkinchidan, bank barqarorligini shakllantiradigan huquqiy-institutsional
+tizimning takomillashganligi va milliy manfaatlarning inobatga olinganligi kabilarni
+tizimlashtirish.
+ Uchinchidan, bank moliyaviy barqarorligii ta’minlashning makroprudensial va
+korporativ instirumentlarining oʻzaro muvofiqlashtirilganligi va integrasion
+xususiyat kasb etishi.
+ Toʻrtinchidan, tijorat banklarining moliyaviy barqarorligiga ta’sir etadigan
+ichki va tashqi omillarni makroiqtisodiy, mikroiqtisodiy jihatdan tartibga solishga
+qaratilgan amaliyotni rivojlantirish kabilarga ustuvorlik berish shular jumlasiga
+kiradi, deb oʻylaymiz.
+ Hozirgi kunda koʻplab mamlakatlarda banklarning moliyaviy barqarorligini
+ta’minlashda turli rakurslardan islohotlarni amalga oshirish muhim ahamiyat kasb
+etmoqda. Bu borada, quyidagi yoʻnalishlarni inobatga olish maqsadga muvofiq
+boʻlmoqda.
+ Birinchidan, an’anaviy va islomiy bank xizmatlarining uygʻunlashgan
+platformasini ishga tushirish asnosida banklarning moliyaviy xizmatlarini
+rivojlantirish.
+ Ikkinchidan, davlatning moliyaviy qoʻllab-quvvatlashi va moliyaviy siyosati
+ortidan institutsional transformatsiyada barqarorlikni ta’minlash.
+ Uchinchidan, geosiyosiy nobarqarorlik sharoitida valyuta va pul-kredit
+siyosatining bank tizimiga salbiy ta’sirini yumshatishga erishish.
+ Toʻrtinchidan, Bazel III standartlarining joriy etilishida huquqiy, iqtisodiy va
+institutsional islohotlarni uygʻunlashtirish.
+ Beshinchidan, kiber moliyaviy firibgarliklar urchigan paytda unga qarshi
+moliyaviy texnologiyalarni va aholi moliyaviy savodxonligini oshirishga qaratilgan
+chora-tadbirlarni amalga oshirish.
+ Tadqiqotimizni dastlabki qadami sifatida Malayziya tajribasini oʻrganishga
+e’tibor qaratamiz.
+ Umuman olganda, Malayziya bank tizimida moliyaviy barqarorlikni
+ta’minlashga qaratilgan tajribalardan quyidagilarni xulosa qilish mumkin:
+ 11
+ Birinchidan, ICAAP (Internal Capital Adequacy Assessment Process) metodi
+asosida har bir bankning risk profilini boshqarishdagi moliyaviy mustaqilligini
+oshirishga e’tibor berish.
+ Ikkinchidan, kapital buferi dinamik (Countercyclical Capital Buffer)ligini joriy
+etish. Bunda bank aksiyadorlari va boshqaruv organlari tomonidan risk appetiti
+oshib borishiga qarshi zaxira kapitalini shakllantirishni nazarda tutadi. Bunda, riskka
+tortilgan aktivlar oʻsishi 20 foizdan ortib borishi bilan dinamik buferni
+shakllantirishda kapital zaxirasi 1 foiz atrofida boʻlishini belgilash maqsadga
+muvofiq.
+ Uchinchidan, sof barqaror moliyalashtirish koeffitsiyenti va likvidlikni qoplash
+me’yori kabilar toʻgʻrisida shaffof ma’lumotlar bazasini shakllantirish. Ular
+toʻgʻrisidagi hisobotlarni keng jamoatchilikka ochiqlash borasidagi tadbirlarni
+rivojlantirish muhim hisoblanadi.
+ Tadqiqotlarimizni davom ettirgan holda Janubiy Koreya davlatining
+tajribalarini oʻrganishga e’tibor qaratamiz.
+ Bizningcha, Janubiy Koreyaning tajribalaridan kelib chiqib, quyidagi ayrim
+ilmiy xulosalarni shakllantirish mumkin:
+ Birinchidan, moliya xizmatlari bozorida bitta bankning ulushi oshib ketishini
+oldini olish orqali katta moliyaviy qulashni bartaraf etish.
+ Ikkinchidan, moliyaviy xizmatlar bozorida kichik oʻyinchilarga nisbatan milliy
+va xalqaro standartlar asosida qoʻllab-quvvatlovchi mexnazimlarni joriy etish.
+ Uchinchidan, kapital etarliligi va va likvidlik bilan bogʻliq jarayonlarni
+regulyator tomonidan monitoring qilib borish.
+ Toʻrtinchidan, kichik banklarga qoʻshimcha kapital yoki likvidlik buferlarni
+saqlab turishlari uchun huquqiy asoslar va moliyaviy imkoniyatlarni oshirish zarur,
+deb oʻylaymiz.
+ Turkiya davlatning tajribasi oʻziga xos xususiyatga ega ekanligini ta’kidlash
+lozim.
+ Turkiya tajribasidan kelib chiqib banklarning moliyaviy barqarorligini
+ta’minlashda quyidagi jihatlarga e’tibor berish maqsadga muvofiq hisoblanadi:
+ Birinchidan, institusional mustaqillik – barqarorlik asosiy omili ekanligini
+e’tiborga olish. Jumladan, moliyaviy barqarorlikni ta’minlashda Markaziy bank
+nazorati, hisobdorlik kabilarni joriy etilishiga ustuvorlik berish.
+ Ikkinchidan, banklarning xizmatlari bozorida raqobat va barqarorlik oʻrtasidagi
+bogʻliqlikni tartibga solish. Bunda, raqobatning oshishi riskning ortishiga olib
+kelmasligini ta’minlash muhim hisoblanadi. Shuningdek, katta banklarning
+monopol xususiyat kasb etib qolmasligiga e’tibor qaratish.
+ Uchinchidan, likvidlik bilan bogʻliq murakkabliklar va moliyaviy stress
+nazoratini boshqarishda aktivlarning likvidli ulushiga me’yorlarni joriy etish.
+ Toʻrtinchidan, makroiqtisodiy barqarorlikni ta’minlash orqali banklarning
+moliyaviy faoliyatiga salbiy ta’sir etishga qaratilgan holatlarni bartaraf qilish. Turli
+sanksion risklar natijasida milliy valyutaning qadrsizlanishini oldini olishga ham
+e’tibor berilish lozim boʻladi.
+
+12
+ Banklarning moliyaviy barqarorligini ta’minlashda xalqaro standartlarni
+inobatga olinishi muhim hisoblanadi. Bu borada, Evropa Ittifoqining qator
+davlatlarida etakchi tajribalarning mavjudligini koʻrish mumkin. Masalan, Polsha
+bank sektori EI doirasida bank tizimi mintaqaviy va xalqaro talablariga (Basel III,
+IFRS 9) moslashishda muvaffaqiyatli yuridik va institusional islohotlarni amalga
+oshirganligini kuzatish mumkin. Shu bilan birga, kichik va oʻrta darajadagi banklar
+uchun kapital etarliligini ta’minlash boʻyicha xususiy kapitalni jalb qilish
+strategiyasining joriy etilishi ayni muddaolardan biri hisoblanadi.
+ Umuman olganda, Polsha tajribasi asosida quyidagi ilmiy xulosalarni
+shakllantirishga muvaffaq boʻldik:
+ Birinchidan, bank tizimining moliyaviy barqarorligini ta’minlashda makro
+prudensial siyosatni muvofiqlashtiruvchi respublika komissiyasini tashkil etish.
+Uning vazifalari qatoriga ilmiy asoslangan islohotlarni jo

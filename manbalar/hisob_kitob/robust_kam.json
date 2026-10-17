@@ -1,0 +1,156 @@
+{
+ "hodisa_5": {
+  "hodisalar": 10,
+  "banklar": 8,
+  "N": 308,
+  "pos": 26,
+  "AUC_MBII": 0.864,
+  "AUC_S3": 0.862,
+  "AUC_Z": 0.419,
+  "CI_MBII": [
+   0.653,
+   0.96
+  ],
+  "CI_S3": [
+   0.69,
+   0.955
+  ],
+  "CI_Z": [
+   0.012,
+   0.754
+  ],
+  "farq_MBII_S3_CI": [
+   -0.105,
+   0.072
+  ],
+  "farq_manfiy_ulush": 0.495
+ },
+ "hodisa_3": {
+  "hodisalar": 14,
+  "banklar": 9,
+  "N": 306,
+  "pos": 35,
+  "AUC_MBII": 0.785,
+  "AUC_S3": 0.776,
+  "AUC_Z": 0.484,
+  "CI_MBII": [
+   0.62,
+   0.915
+  ],
+  "CI_S3": [
+   0.62,
+   0.897
+  ],
+  "CI_Z": [
+   0.165,
+   0.733
+  ],
+  "farq_MBII_S3_CI": [
+   -0.086,
+   0.093
+  ],
+  "farq_manfiy_ulush": 0.404
+ },
+ "hodisa_10": {
+  "hodisalar": 6,
+  "banklar": 4,
+  "N": 312,
+  "pos": 15,
+  "AUC_MBII": 0.904,
+  "AUC_S3": 0.902,
+  "AUC_Z": 0.326,
+  "CI_MBII": [
+   0.375,
+   0.987
+  ],
+  "CI_S3": [
+   0.829,
+   0.966
+  ],
+  "CI_Z": [
+   0.005,
+   0.711
+  ],
+  "farq_MBII_S3_CI": [
+   -0.522,
+   0.101
+  ],
+  "farq_manfiy_ulush": 0.503
+ },
+ "IV_chorak": {
+  "N": 91,
+  "pos": 8,
+  "AUC_MBII": 0.726,
+  "AUC_S3": 0.756,
+  "CI_MBII": [
+   0.504,
+   0.915
+  ],
+  "CI_S3": [
+   0.515,
+   0.962
+  ]
+ },
+ "AUC_vaznlar": {
+  "Ekspert": 0.864,
+  "Entropiya": 0.875,
+  "Variatsiya": 0.878,
+  "Bosh komponentlar": 0.865,
+  "Logit (K, V – ekspert)": 0.907,
+  "O‘rtacha (empirik)": 0.871
+ },
+ "wilson": {
+  "barqaror": {
+   "n": 200,
+   "k": 4,
+   "ulush": 2.0,
+   "wilson": [
+    0.8,
+    5.0
+   ],
+   "banklar": 19
+  },
+  "qoniqarli": {
+   "n": 98,
+   "k": 13,
+   "ulush": 13.3,
+   "wilson": [
+    7.9,
+    21.4
+   ],
+   "banklar": 15
+  },
+  "zaif": {
+   "n": 10,
+   "k": 9,
+   "ulush": 90.0,
+   "wilson": [
+    59.6,
+    98.2
+   ],
+   "banklar": 5
+  },
+  "nobarqaror": {
+   "n": 0,
+   "k": 0,
+   "ulush": null,
+   "wilson": null,
+   "banklar": 0
+  }
+ },
+ "fisher": {
+  "I_II": 0.0002,
+  "II_III": 0.0
+ },
+ "farq_MBII_Z": {
+  "N": 214,
+  "pos": 18,
+  "AUC_MBII": 0.957,
+  "AUC_Z": 0.419,
+  "CI": [
+   0.192,
+   0.979
+  ],
+  "manfiy_ulush": 0.0
+ }
+}

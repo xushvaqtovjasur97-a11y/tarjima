@@ -1,0 +1,231 @@
+=== MAQSAD
+Tadqiqotning maqsadi Oʻzbekiston Respublikasida tijorat banklari resurs
+bazasini mustahkamlash yoʻllariga qaratilgan ilmiy takliflar va amaliy tavsiyalar ishlab
+chiqishdan iborat.
+ Tadqiqot vazifalari:
+ tijorat banklari resurs bazasini mustahkamlashning ilmiy-nazariy asoslari tadqiq
+etish;
+ tijorat banklari resurs bazasini mustahkamlash borasida ilmiy-nazariy qarashlar
+va uning metodologik asoslarini oʻrganish;
+ tijorat banklari majburiyatlarining amaldagi holatini tahlil qilish;
+ tijorat banklari kapitali tarkibi va oʻzgarishi dinamikasini baholash;
+ tijorat banklari resurs bazasi barqarorligiga taʼsir etuvchi omillarning
+ekonometrik modeli shakllantirish;
+ Oʻzbekiston Respublikasi tijorat banklari resurs bazasini mustahkamlash
+yoʻllarini oʻrganish va umumlashtirish natijasida zarur tavsiyalar shakllantirish.
+ Tadqiqotning obyekti sifatida Oʻzbekiston Respublikasida faoliyat olib
+borayotgan tijorat banklari olingan.
+ Tadqiqotning predmetini tijorat banklari resurs bazasini mustahkamlash
+jarayonida yuzaga keladigan iqtisodiy munosabatlar tashkil etadi.
+ Tadqiqotning usullari. Dissertatsiyada ilmiy abstraksiya, ekonometrik tahlil,
+qiyosiy va tarkibiy tahlil, iqtisodiy-statistik va e
+=== YANGILIK
+Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+ depozit foiz instrumenti taʼsirchanligini taʼminlash vositasida aholining boʻsh
+turgan pul mablagʻlarini bank tizimiga jalb etish orqali bank resurs bazasida barqaror
+moliyaviy mablagʻlar hissasini oshirish hamda resurs bazasini mustahkamlash taklifi
+asoslangan;
+
+мире: теория, методология, практика (pp. 80-89).; Burxanov A.U. (2020). Кредитование инвестиционных
+проектов: проблемы и решения (на примере коммерческих банков). Молодой ученый, (25), 210-213.; Burkhanov,
+A. (2020). Indicators to assess financial security of the banks Архив научных исследований, (27)., Abdullayeva Sh.Z.
+(2005). Bank risklari va kreditlash/ Darslik, Toshkent-Iqtisod-moliya. Xoshimov, E. A. (2020). Проблемы монетарной
+политики в условиях цифровизации. Studies, 16, 1203-1238. Berdiyarov B.T (2020) Oʻzbekiston Respublikasi tijorat
+banklarining likvidliligi va toʻlov qobiliyatini taʼminlash masalalari. I.f.d. diss. avtoref. – Toshkent, 73 b. Sattarov O.B.
+(2015). Bazel Qoʻmitasining bank nazoratiga oid yangi talablari va ularni Oʻzbekistonda qoʻllash imkoniyatlari. –
+Iqtisodiyot va innovatsion texnologiyalar ilmiy jurnal 4-son. 7 bet., O.B.Sattarov (2018). Oʻzbekiston Respublikasi bank
+tizimi barqarorligini taʼminlash metodologiyasini takomillashtirish. i.f.d. ilmiy darajasini olish uchun yozilgan
+dissertatsiya avtoreferati.-Toshkent., Absalamov A.T. (2020). Oʻzbekiston Respublikasi markaziy banki pul-kredit
+siyosati transmission mexanizmini takomillashtirish yoʻllari/ i.f.f.d. (PhD) ilmiy darajasini olish uchun yozilgan
+dissertatsiya avtoreferati.-Toshkent., B.U.Shermuxamedov (2020). Tijorat banklarida depozit siyosatini takomillashtirish
+yoʻllari. i.f.f.d. (PhD) ilmiy darajasini olish uchun yozilgan dissertatsiya avtoreferati.-Toshkent., Joʻrayev I.I. (2020).
+Oʻzbekiston Respublikasi tijorat banklari depozit bazasini mustahkamlash. i.f.f.d. ilmiy darajasini olish uchun yozilgan
+dissertatsiya avtoreferati.-Toshkent., Bektemirov, A., Malikova, D. M., & Boʻtayev, J. E. (2023). Tijorat banklarining
+depozit bazasini mustahkamlash yoʻllari. Journal of marketing, business and management, 2(2), 167-174.
+ 7
+ bank raqobatbardoshligini oshirish, mijozlarga yoʻnaltirilgan bozor
+mexanizmlarini asosida faoliyat yuritish, resurs bazasini diversifikatsiya qilish
+maqsadida “greenbond” shaklidagi innovatsion moliyaviy vositalarni muomalaga
+chiqarish taklif etilgan;
+ Oʻzbekiston tijorat banklarini kompleks transformatsiya qilish jarayonida
+muddatli depozitlar foizi va uning hajmiga moliya bozori instrumentlarining taʼsirini
+strukturaviy vektorli avtoregressiya baholash modeli orqali bank resurs bazasini
+mustahkamlash asoslangan;
+ AT Oʻzsanoatqurilishbank depozitlari hajmini oshirishning inflyatsiya darajasi
+oʻzgarishi bilan bogʻliq jihatlarini ifodalovchi ekonometrik baholash modeli asosida
+2027-yilga qadar prognoz ssenariylari taklif etilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ bankka jalb etilgan moliyaviy resurslar tarkibida barqaror resurslarning
+salmogʻini oshirish orqali bank majburiyatlarining barqarorligini oshirish ilmiy
+asoslangan;
+ Markaziy bank qayta moliyalash foizining oldingi oyda bir foizga oshishi
+keyingi oyda AT Oʻzsanoatqurilishbank qisqa muddatli depozitlari foizini 0,42 foizga
+oshirishi aniqlangan;
+ pul bozoridagi foiz stavkaning oldingi oyda bir foizga oshishi AT
+Oʻzsanoatqurilishbank qisqa muddatli depozitlari foizini keyingi oyda 0,22 foizga
+oshirishi aniqlangan;
+ muomaladagi pul massasi
+=== XULOSA
+XULOSA
+ Tijorat banklarida resurs bazasisi mustahkamlash orqali moliyaviy
+barqarorligini oshirishda quyidagilar taklif etildi va ilmiy asoslandi:
+ aholining boʻsh turgan pul mablagʻlarini bank tizimiga jalb etish orqali bank
+resurs bazasida barqaror moliyaviy mablagʻlar hissasini oshirish hamda resurs bazasini
+mustahkamlash lozimligi ilmiy asoslandi;
+ jahon iqtisodiyotidagi nobarqarorlikka qarshi bankda transaksion risklarni
+kamaytirish maqsadida kreditlarning barqaror resurslar bilan taʼminlanganlik
+darajasini oshirish ilmiy asoslandi;
+ bank raqobatbardoshligini oshirish, mijozlarga yoʻnaltirilgan bozor
+mexanizmlarini asosida faoliyat yuritish, resurs bazasini diversifikatsiya qilish
+maqsadida “greenbond” shaklidagi innovatsion moliyaviy vositalarni muomalaga
+chiqarish taklif etildi;
+ bankka jalb etilgan moliyaviy resurslar tarkibida barqaror resurslarning
+salmogʻini oshirish orqali bank majburiyatlarining barqarorligini oshirish asoslandi;
+ tijorat banklarini kompleks transformatsiya qilish jarayonida muddatli
+depozitlar foizi va uning hajmiga moliya bozori instrumentlarining taʼsirini oshirish
+taklif etildi;
+ Markaziy bank qayta moliyalash foizining oldingi oyda bir foizga oshishi
+keyingi oyda AT Oʻzsanoatqurilishbank qisqa muddatli depozitlari foizini 0,42 foizga
+oshirishi hamda pul bozoridagi foiz stavkaning oldingi oyda bir foizga oshishi bank
+qisqa muddatli depozitlari foizini keyingi oyda 0,22 foizga oshirishi ekonometrik
+model orqali aniqlandi;
+ muomaladagi pul massasining bir foizga oshishi ikki oylik lag bilan AT
+Oʻzsanoatqurilishbank qisqa muddatli depozitlari hajmini 0,31 foizga oshirishi hamda
+inflyatsiyaning bir foizga oshishi ikki oylik lag bilan bank qisqa muddatli depozitlari
+hajmini 0,04 foizga oshirishi strukturaviy vektorli aktoregressiya modeli orqali
+aniqlandi va isbotlab berildi.
+
+
+
+
+ 27
+ НАУЧНЫЙ СОВЕТ DSc.03/10.12.2019.I.16.01 ПО ПРИСУЖДЕНИЮ
+УЧЕНЫХ СТЕПЕНЕЙ ПРИ ТАШКЕНТСКОМ ГОСУДАРСТВЕННОМ
+ ЭКОНОМИЧЕСКОМ УНИВЕРСИТЕТЕ
+ ТАШКЕНТСКИЙ ГОСУДАРСТВЕННЫЙ ЭКОНОМИЧЕСКИЙ
+ УНИВЕРСИТЕТ
+
+
+
+
+ ВОХИДОВ ОЙБЕК РОЗИКОВИЧ
+
+
+
+ПУТИ УКРЕПЛЕНИЯ РЕСУРСНОЙ БАЗЫ КОММЕРЧЕСКИХ БАНКОВ
+ РЕСПУБЛИКИ УЗБЕКИСТАН
+
+
+
+
+ 08.00.07 – Финансы, денежное обращение и кредит
+
+
+
+
+ АВТОРЕФЕРАТ
+ диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+ Ташкент – 2024
+
+ 28
+29
+ ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+ Актуальность и востребованность темы диссертации. Повышение
+качества активов и пассивов коммерческих банков в мире является одним из
+основных направлений деятельности банковской системы, необходимым
+условием удовлетворения спроса клиентов на кредиты, эффективного
+распределения финансовых ресурсов. Это приобретает все большее значение с
+точки зрения расширения источников ресурсов и обеспечения их устойчивости
+в коммерческих банках, а также обеспечения их финансовой устойчивости за
+счет увеличения объема активов, с одной стороны, и стимулирования
+экономического роста – с другой. В частности, по данным Федеральной
+корпорации по страхованию депозитов США (the Federal deposit Insurance
+Corporation (FDIC)), «в банковской системе США гарантируется, что доля
+депозитов до востребования в общем объеме депозитов не превышает 20
+процентов»27. Это, в свою очередь, обеспечивает доходность и ликвидность
+банковских активов, обеспечивая стабильность ресурсов коммерческих банков
+и, в конечном итоге, повышая уровень финансовой устойчивости коммерческих
+банков.
+ В мире ведутся научные исследования, направленные на обеспечение
+устойчивости ресурсов коммерческих банков, обеспечение баланса между
+доходностью операций с активами и уровнем их рискованности за счет снижения
+риска трансформации и валютных рисков в банках, выхода коммерческих банков
+на международный фондовый рынок и привлечения их средств. Вопросы
+устранения дисбаланса в структуре ресурсов коммерческих банков, расширения
+источников привлечения ресурсов, снижения риска кризисного состояния
+коммерческих банков на международном уровне, внедрения инновационных
+технологий в деятельность коммерческих банков, удовлетворения потребностей
+клиентов в кредитовании на финансовом рынке, дальнейшего расширения и
+укрепления ресурсной базы коммерческих банков на международном уровне
+являются приоритетными направлениями научно-исследовательской работы в
+этой области.
+ Ключевым элементом финансового рынка в Узбекистане являются
+коммерческие банки, которые придают важное значение снижению доли
+государства в банковской системе, повышению показателей рентабельности
+банков, улучшению доступности и привлекательности инновационных услуг для
+населения. В частности, Президентом Республики Узбекистан определены такие
+задачи, как «повышение доли активов банков без доли государства в общем
+объеме активов банковской системы с текущих 15 процентов до 60 процентов к
+2025 году; повышение доли обязательств банков перед частным сектором в
+общем объеме обязательств с текущих 28 процентов до 70 процентов к концу
+2025 года»28. При эффективном выполнении этих задач приобретает актуальное
+27
+ https://www.fdic.gov Рассчитано автором на основе статистики официального сайта Федеральной корпорации
+по страхованию вкладов США (FDIC).
+28
+ Указ Президента Республики Узбекистан от 12 мая 2020 года № УП-5992 «О стратегии реформирования
+банковской системы Республики Узбекистан на 2020–2025 годы».
+ 30
+значение научно-исследовательская работа, направленная на обеспечение
+устойчивости ресурсов коммерческих банков и эффективное использование
+цифровых технологий при привлечении ресурсов.
+ Данное диссертационное исследование в определенной степени служит
+реализации задач, поставленных в Указах и Постановлениях Президента
+Республики Узбекистан от 28 января 2022 года № УП-60 «О Стратегии развития
+нового Узбекистана на 2022-2026 годы», от 12 мая 2020 года № УП-5992 «О
+стратегии реформирования банковской системы Республики Узбекистан на
+2020–2025 годы», от 23 января 2018 года № ПП-3620 «О дополнительных мерах
+по повышению доступности банковских услуг», от 12 сентября 2017 года № ПП-
+3270 «О мерах по дальнейшему развитию и повышению устойчивости
+банковской системы республики» и в других нормативно-правовых актах данной
+области.
+ Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное исследование выполнено в
+соответствии с приоритетным направлением развития науки и технологий
+республики I. «Духовно-нравственное и культурное развитие демократического
+и правового общества, формирование инновационной экономики».
+ Степень изученности проблемы. Научно-практические и
+методологические аспекты укрепления ресурсной базы коммерческих банков
+подробно изучены в научных работах таких зарубежных ученых-экономистов,
+как R.Han, M.Melecky, S.Mushtaq, D.Siddiqui, L.Lin, J.Eisenschmidt, F.Smets,
+D.Broby, D.Andolfatto, L.Gambacorta, H.S.Shin, F.H.Raisse, M.Lé, D.Thesmar,
+D.Kim, W.Sohn, A.Garel, A.Petit-Romec, J.Hugonnier, E.Morellec и др29.
+ Среди узбекских ученых-экономистов Н.X.Жумаев, А.У.Бурханов,
+Ш.З.Абдуллаева, О.B.Саттаров, Б.T.Бердияров, А.T.Абсаламов, И.Ж.Жураев,
+Б.U.Шермухамедов, А.Бектемиров, Д.M.Маликова провели научные
+исследования по вопросам укрепления ресурсной базы коммерческих банков в
+нашей стране и значения монетарной политики в ней, обеспечения финансовой
+безопасности банков путем укрепления ресурсной базы, новые требования
+Базельского комитета по банковскому надзору и возможности их применения в
+Узбекистане, совершенствование методологии обеспечения устойчивости
+банковской системы Республики Узбекистан, обеспечения ликвидности и
+
+29
+ . Han, R., & Melecky, M. (2013). Financial inclusion for financial stability: Access to bank deposits and the growth of
+deposits in the global financial crisis. World Bank policy research working paper, (6577). Mushtaq, S., & Siddiqui, D. A.
+(2017). Effect of interest rate on bank deposits: Evidences from Islamic and non-Islamic economies. Future Business
+Journal, 3(1), 1-8.Lin, L. (2020). Bank deposits and the stock market. The Review of Financial Studies, 33(6), 2622-
+2658.Jens Eisenschmidt and Frank Smets (2019). Negative Interest Rates: Lessons from the Euro Area. European Central
+Bank Working Paper.Broby, D. (2021). Financial technology and the future of banking. Financial Innovation, 7(1), 1-19.
+Andolfatto, D. (2021). Assessing the impact of central bank digital currency on private banks. The Economic
+Journal, 131(634), 525-540.Gambacorta, L., & Shin, H. S. (2018). Why bank capital matters for monetary policy. Journal
+of Financial Intermediation, 35, 17-29.Fraisse, H., Lé, M., & Thesmar, D. (2020). The real effects of bank capital
+requirements. Management Science, 66(1), 5-23.Kim, D., & Sohn, W. (2017). The effect of bank capital on lending: Does
+liquidity matter?. Journal of Banking & Finance, 77, 95-107.Garel, A., & Petit-Romec, A. (2017). Bank capital in the
+crisis: Itʻs not just how much you have but who provides it. Journal of Banking & Finance, 75, 152-166.Hugonnier, J.,
+& Morellec, E. (2017). Bank capital, liquid reserves, and insolvency risk. Journa

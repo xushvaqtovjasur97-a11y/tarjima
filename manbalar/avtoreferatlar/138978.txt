@@ -1,0 +1,166 @@
+ID 138978 | Mirzayeva Matluba G‘aybulla qizi | PhD |  | Xususiy banklarning kapitallashuv darajasini oshirish yo‘llari
+HEAD: TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/10.12.2019.I.16.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI “O‘ZBEKISTON IQTISODIYOTINI RIVOJLANTIRISHNING ILMIY ASOSLARI VA MUAMMOLARI” ILMIY TADQIQOT MARKAZI MIRZAYEVA MATLUBA G‘AYBULLA QIZI XUSUSIY BANKLARNING KAPITALLASHUV DARAJASINI OSHIRISH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (Doctor of Philosophy) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2025-yil 1 UDK: 330.142.222 Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавле
+=== MAQSAD
+Tadqiqotning maqsadi bo‘lib O‘zbekiston Respublikasi xususiy banklari
+kapitallashuv darajasini oshirishga qaratilgan ilmiy taklif va amaliy tavsiyalar
+ishlab chiqish hisoblanadi.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ qo‘shimcha kapitalning asosiy tarkibi hisoblangan uzoq muddatli subordinar
+qarzni chiqarish amaliyotini “yashil subordinar obligatsiyalar” va “fintex asosidagi
+tokenlashtirilgan subordinar moliyalashtirish vositalari” hisobiga kengaytirish
+orqali xususiy banklar kapitallashuv darajasini (3%≤KDXB≤5%) oshirish hamda
+resurs bazasini mustahkamlashga asoslangan;
+ xususiy banklarning o‘z mablag‘lari manbalari tarkibida aksiyalarning
+an’anaviy chiqarilishi bilan birga innovatsion moliyaviy instrumentlar –
+konvertatsiya qilinadigan obligatsiyalar, steykling (staked) aktivlar orqali
+
+dissertatsiya avtoreferati –Toshkent: DJQA, 2005. -21 b.; Ortiqov U.D. Bank resurslari va ularni boshqarish. Iqtisod
+fanlari nomzodi ilmiy darajasini olish uchun yozilgan dissertatsiya avtoreferati –Toshkent: BMA, 2008. -20 b.;
+Розукулов У.У. Анализ надежности коммерческих банков и пути укрепления их устойчивости. Автореферат
+диссертации на соиск. учен. степ. к.э.н. –Ташкент: БФА, 2002. -22 с. Egamova M.E. “Tijorat banklari
+kapitallashuv darajasini oshirishda daromadning roli”. Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy
+darajasini olish uchun yozilgan avtoreferati Toshkent: TMI, 2019.-56 b. Qurbonov R.B. “Xususiy banklarning resurs
+bazasi va uni mustahkamlash masalalari” Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) ilmiy darajasini olish
+uchun yozilgan avtoreferati Toshkent: TMI, 2012.-56 b.
+
+ 7
+mablag‘ topish usullarini diversifikatsiya qilish asosida emission daromad hajmini
+oshirish hisobiga banklarning kapitallashuv darajasini 25 foizgacha oshirish
+imkoni aniqlangan;
+ xususiy banklarning qo‘shimcha kapitali tarkibida mustaqil balansga ega
+bo‘lmagan sho‘ba korxonalariga qilingan moliyaviy qo‘yilmalar hajmini sho‘ba
+korxonalarining raqamli bank xizmatlari va fintex startaplar bilan
+integratsiyalashgan yangi formatda rivojlantirish orqali kapitallashuv darajasini
+(5%≤KDXB≤10%) oshirish chegaralari asoslangan;
+ xususiy banklar foydasini reinvestitsiya qilishda “smart reinvestitsiya
+strategiyalari”, ya’ni o‘ziga qaytariladigan sarmoyali loyihalarga foydani qayta
+tiklash asosida moliyaviy oqimlarni maqsadli yo‘naltirish vositasida joriy
+moliyaviy yil foydasining 30 foizini bank ustav kapitaliga yo‘naltirish orqali bank
+kapitallashuv darajasini oshirish taklifi asoslangan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ xususiy banklar kapitallashuv darajasini oshirishni mualliflik yondashuvi
+shakllantirilgan;
+ muomalaga uzoq muddatli subordinar qarzlarini chiqarish orqali tijorat
+banklari kapitallashuv darajasini oshirish va uning barqarorligini taʼminlash taklifi
+asoslangan;
+ xususiy banklar kapitalini oddiy aksiyalarni doimiy emissiya qilish hisobiga
+ko‘paytirish orqali ularning kapitallashuv darajasini oshirish taklifi shakllantirilgan;
+ xususiy banklarning fond bozoridagi ishtirokini faollashtirish orqali ularning
+o‘z mablag‘lari tarkibida emission daromad ulushini oshirish orqali bank
+tomonidan qo‘shimcha ravishda foyda olishga erishishi mumkinligi asoslangan;
+ xorijiy davlatlar amaliyotini tizimli tahlil qilish asosida mamlakatimizda
+xususiy banklarning kapitallashuv darajasini oshirishing mavjud muammolarini
+yechimlari bo‘yicha tavsiyalar asoslangan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa va foydalanilgan adabiyotlar ro‘yxatini o‘z ichiga olgan holda 113 betdan
+iborat.
+
+ DISSERTATSIYANING ASOSIY MAZMUNI
+ Kirish qismida tadqiqotning dolzarbligi va zaruriyati asoslangan,
+tadqiqotning maqsadi va vazifalari, obyekti va predmeti tavsiflangan, respublika
+fan va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga mosligi ko‘rsatilgan,
+ilmiy yangiligi va amaliy natijalari bayon qilinib, olingan natijalarning ilmiy va
+amaliy ahamiyati ochib berilgan, tadqiqot natijalarining amaliyotga joriy qilinishi,
+nashr etilgan ishlar va dissertatsiya tuzilishi bo‘yicha maʼlumotlar keltirilgan.
+ Dissertatsiya ishining “Xususiy banklarning kapitallashuv darajasini
+oshirishning iqtisodiy nazariy asoslari va xorij tajribasi” nomli birinchi bobida
+muallif bank kapitallashuv darajasini oshirishning nazariy asoslari va iqtisodiy
+mohiyati, bank kapitali manbalari va uni kapitallashuv darajasini oshirishning
+ahamiyati va xorij tajribasi hamda bank kapitali barqarorligini oshirish to‘g‘risidagi
+nazariy qarashlarni o‘rganib chiqqan hamda xususiy banklari kapitallashuv darajasini
+oshirishni taʼminlashning iqtisodiy yo‘nalishlari eʼtirof etilgan.
+ Xususiy banklar o‘z faoliyatini yuritishida birinchi navbatda yetarli darajadagi
+sarmoyaga ega bo‘lishi talab etiladi, bu esa yetarli darajada kapitalga egalik va
+barqaror daromad bazasiz amalga oshirishni tasavvur qilib bo‘lmaydi. Shu
+sababdan ham xususiy banklar kapitali bankni tashkil etish, ochish jarayonida,
+asosiy faoliyatni yuritish jarayonida Markaziy bank tomonidan belgilangan
+iqtisodiy normativ meʼyorlarni bajarishida eng muhim manbaa va bank faoliyatida
+yuzaga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda “himoya yostiqchasi”
+vazifasini bajaruvchi asosiy moliyaviy manba bo‘lib xizmat qiladi. Hozirgi
+sharoitda xususiy banklar kapitallashuv darajasini oshirish masalasi eng dolzarb
+muammolardan biri bo‘lib qolmoqda.
+ Shunday ekan bank kapitalining mohiyatini qiyosiy tadqiq qilish, uni barqaror
+manbalar hisobidan shakllantirish va darajasini oshirish masalasi doimo dolzarb
+vazifalardan biri bo‘lib qoladi.
+ Bugungi kunda ham xususiy banklarning kapitallashuv darajasini oshirishning
+mohiyati yuzasidan iqtisodiy adabiyotlarda turlicha talqinlarning mavjudligini
+inobatga olgan holda ushbu iqtisodiy tushuncha to‘g‘risida to‘liqroq to‘xtalib
+o‘tmoqchimiz.
+ Xalqaro bank amaliyoti tajribasi shuni ko‘rsatmoqdaki, bozor munosabatlari
+sharoitida tijorat banklari kapitalining samaradorligini va uning yetarliligini
+taʼminlamasdan turib, banklarning to‘lov qobiliyatini mustahkamlash va aholining
+bank tizimiga bo‘lgan ishonchini qozonish mushkul vazifalardan biri hisoblanadi.
+
+10
+Maʼlumki, bank kapitalining mavjudligi bankni tashkil topishi va faoliyat
+ko‘rsatishi uchun eng asosiy zaruriyatdan biridir.
+ Iqtisodiy islohotlar va bozor munosabatlarining samaradorligini taʼminlashda
+xususiy banklar kapitalini shakllantirish va uni darajasini doimiy oshirib borish
+orqali erishish muhim o‘rin tutadi.
+ Bizning nazarimizda, xususiy banklarning kapitallashuv darajasini
+oshirishning iqtisodiy mohiyati xususida so‘z yuritishdan oldin, “xususiy bank”
+atamasini aniqlab olish juda muhim. Xususiy bank bu – alohida shaxs yoki
+cheklangan umumiy sheriklar tomonidan tashkil etiladigan bank hisoblanadi.
+O‘zbekiston bank amaliyotida, xususiy banklar ustav fondida (ustav kapitalida)
+muassislar (ishtirokchilar) bo‘lgan jismoniy shaxslarning ulushi kamida ellik foizni
+tashkil etishi lozim bo‘lgan banklar va boshqa kredit tashkilotlari, sug‘urta
+tashkilotlari, shuningdek, faqat moliyaviy xizmatlar ko‘rsatuvchi o‘zga yuridik
+shaxslardir5. Bunday banklar korporatsiya ko‘rinishida bo‘lmaydi. Bu banklarning
+tarixi Shvetsariya va Buyuk Britaniyaga borib taqaladi.
+ Tarixga nazar soladigan bo‘lsak, Yevropada ko‘plab xususiy banklar bor edi,
+lekin ularning aksariyat qismi korporatsiyaga aylantirilgan, shuning uchun ham bu
+termin (atama) o‘z kuchini yo‘qotmoqda. Bugungi kunda “xususiy bank” atamasi
+deganda, yuqori foydaga ega alohida shaxslar (high-net-worth individuals (HNWI)
+yoki private banking) uchun moliyaviy maslahatlar va xizmatlar ko‘rsatishga
+ixtisoslashgan moliyaviy institutlar tushuniladi6.
+ Bank kapitallashuv darajasini oshirishning nazariy asoslarini bir qator olimlar
+tadqiq etgan holda turli qarashlar va nazariyalarni bayon etganlar. Jumladan, Bank
+kapitalining iqtisodiy mohiyati to‘g‘risida iqtisodchi olimlar tomonidan turli xil
+fikrlar bildirilgan. Jumladan, professor V.M.Usoskin bank kapitaliga bank
+moliyaviy resurslarining muhim va ajralmas tarkibiy qismi sifatida qaraydi 7.
+ Mavjud iqtisodiy adabiyotlarda “Kapitallashuv darajasi” tushunchasi, uni
+oshirish masalalari xorijlik olimlar, mutaxassislar tomonidan o‘rganilgan va
+tegishli taʼriflar berilgan.
+ M.E.Egamova o‘zining tadqiqotida “Tijorat banklari faoliyatini sarmoyasiz,
+yaʼni yetarli darajada kapitallashuvsiz tasavvur qilib bo‘lmaydi. Shu bois tijorat
+banklari kapitali dastlab banklarni ochish jarayonida, keyinchalik esa Markaziy
+bankning iqtisodiy normativlarini bajarishda asosiy mezon va bank faoliyatida
+kutilmaganda vujudga kelishi mumkin bo‘lgan yo‘qotishlarni qoplashda “himoya
+yostiqchasi” sifatida muhim moliyaviy manba bo‘lib xizmat qiladi” - degan
+tushunchani bergan8.
+
+
+5
+ O‘zbekiston Respublikasining 2012-yil 17-dekabrdagi “Xususiy banklar va moliya institutlari hamda ularni
+faoliyatini kafolatlash to‘g‘risida”gi Qonuni.
+6
+ Youssef Cassis, Philip Cottrell // The World of Private Banking // Ashgate Publishing, Ltd., 2009 – pp 32
+7
+ Усоскин В.М. Современный коммерческий банк:Управление и операции.-М: «Вазар-Ферро»,1994.С.92.
+8
+ Egamova M.E. Tijorat banklari kapitallashuv darajasini oshirishda daromadning roli. Iqtisodiyot bo‘yicha falsafa
+doktori (Doctor of Philosophy). Dis. avtoreferati. – T.: TMI, 2019. – 28b.
+
+ 11
+ A.S.Klimov tadqiqotlarida “kapitallashuv” tushunchasiga, “kredit tashkiloti
+kapitalining bozor qiymati haqida aksiyalar sonining ularning bozor qiymatiga
+ko‘paytmasi sifatida”, deb taʼrif berilgan9.
+ Tijorat banklarining kapitallashuv darajasini oshirish va moliyaviy
+barqarorligini mustahkamlash mamlakat bank tizimining barqarorligini
+taʼminlashning zaruriy sharti hisoblanadi 10 . Bizga maʼlumki, tijorat banklari
+kapitali bank aksiyadorlari mablag‘lari va boshqa manbalar hisobidan
+shakllantiriladi11.
+ Mamlakatimiz iqtisodchi olimlaridan professor Sh.Abdullayeva va
+A.Omonovlar bank kapitaliga quyidagicha taʼrif berishgan: “Tijorat banklarining
+kapitali barqaror manba bo‘lib, bankning operatsion jarayonda kutilmaganda
+yuzaga keladigan zararlarni qoplash imkoniyatini beruvchi o‘ziga xos himoya
+vositasidir”12.
+ Professor V.M.Usoskin bank kapitaliga bank moliyaviy resurslarining muhim
+va ajralmas tarkibiy qism sifatida qaraydi13. Ko‘rinib turibdiki, bu yerda kapital
+bank resurslarining muhim va tarkibiy qismi sifatida qaralishi natijasida asosiy
+vazifalari (himoya, tezkor va tartibga solish) eʼtibordan chetda qolgan.
+ Rossiya olimlaridan Lavrushin O.I. “Bank ishi” kitobida “tijo

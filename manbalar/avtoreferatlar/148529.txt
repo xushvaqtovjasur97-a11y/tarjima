@@ -1,0 +1,276 @@
+ID 148529 | Ismatov Nodirjon Raximdjanovich | DSc |  | Bank kredit portfeli riskini baholash va boshqarishning metodologik  asoslarini tokomillashtirish.
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJA BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI KENGASH TASHKENT INTERNATIONAL UNIVERSITY ISMATOV NODIRJON RAXIMDJANOVICH BANK KREDIT PORTFELI RISKINI BAHOLASH VA BOSHQARISHNING METODOLOGIK ASOSLARINI TOKOMILLASHTIRISH 08.00.07 – “Moliya, pul muomalasi va kredit” Iqtisоdiyоt fаnlаri dоktоri (DSc) dissertatsiyasi AVTOREFERATI Toshkent shahar – 2026 yil 1 UO‘K: 336.71(575.1) Иқтисодиёт фанлари доктори (DSc) диссертацияси автореферати мундарижаси Оглавление автореферата диссертации доктора (DSc) по экономическим наукам Contents of dissertation abstract of the doctor of (DSc) on economic sciences Is
+=== MAQSAD
+tadqiqotning maqsadi, vazifalari hamda obyekt va predmeti, ilmiy yangiligi
+va amaliy natijalari, tadqiqot natijalarining ishonchliligi va joriy etilishi,
+dissertatsiya tuzilishi va hajmi bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Tij orat banklari kredit portfeli riskini boshqarishning
+ilmiy-nazariy asoslari” deb nomlangan birinchi bobida kredit portfeli va uning
+risklari mohiyati, iqtisodiy mazmuni, kredit portfeli risklarini boshqarishning
+nazariy konsepsiyalari, hamda kredit portfeli risklarini boshqarish bоrаsidа ilmiy-
+nаzаriy qаrаshlаr hamda ularning amaliy ahamiyatini baholashga xizmat qiluvchi
+xulosalarni shakllantirilgan.
+ Zamonaviy iqtisodiyotda tijorat banklari moliyaviy vositachilikning
+(financial intermediation) fundamental instituti sifatida faoliyat yuritib, jamiyatdagi
+vaqtincha bo‘sh turgan pul mablag‘larini yig‘ish va ularni iqtisodiyotning real
+sektoriga investitsiya hamda kredit shaklida yo‘naltirishdek g‘oyat muhim vazifani
+bajaradi. Ushbu murakkab transformatsion jarayonning markazida bankning asosiy
+daromad keltiruvchi, ayni paytda eng yuqori riskni o‘zida mujassam etuvchi aktivi
+– kredit portfeli turadi. Bank tizimining barqarorligi, to‘lovga qobi
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi
+va amaliy natijalari, tadqiqot natijalarining ishonchliligi va joriy etilishi,
+dissertatsiya tuzilishi va hajmi bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiyaning “Tij orat banklari kredit portfeli riskini boshqarishning
+ilmiy-nazariy asoslari” deb nomlangan birinchi bobida kredit portfeli va uning
+risklari mohiyati, iqtisodiy mazmuni, kredit portfeli risklarini boshqarishning
+nazariy konsepsiyalari, hamda kredit portfeli risklarini boshqarish bоrаsidа ilmiy-
+nаzаriy qаrаshlаr hamda ularning amaliy ahamiyatini baholashga xizmat qiluvchi
+xulosalarni shakllantirilgan.
+ Zamonaviy iqtisodiyotda tijorat banklari moliyaviy vositachilikning
+(financial intermediation) fundamental instituti sifatida faoliyat yuritib, jamiyatdagi
+vaqtincha bo‘sh turgan pul mablag‘larini yig‘ish va ularni iqtisodiyotning real
+sektoriga investitsiya hamda kredit shaklida yo‘naltirishdek g‘oyat muhim vazifani
+bajaradi. Ushbu murakkab transformatsion jarayonning markazida bankning asosiy
+daromad keltiruvchi, ayni paytda eng yuqori riskni o‘zida mujassam etuvchi aktivi
+– kredit portfeli turadi. Bank tizimining barqarorligi, to‘lovga qobiliyatliligi va
+pirovardida milliy iqtisodiyotdagi makroiqtisodiy barqarorlik bevosita mazkur
+kredit portfelining sifati, uning tarkibiy tuzilishi hamda unga xos bo‘lgan xatarlarni
+qay darajada samarali boshqarishga bog‘liqdir (Saunders va Allen, 2021). Moliyaviy
+
+12
+tizimning qon tomiri hisoblangan kreditlash jarayoni uzluksiz va sog‘lom ishlamasa,
+makroiqtisodiy o‘sish va innovatsion rivojlanish haqida so‘z yuritish imkonsizdir.
+ 1-jadval.
+Xalqaro moliya institutlari va regulyatorlarning kredit riskini boshqarishdagi
+ yondashuvlarini qiyosiy tahlili5
+ Kredit riskini
+ Zamonaviy (2020–2024)
+ Tashkilot / Asosiy konseptual boshqarishning
+ yondashuvlar va
+ Regulyator maqsad va tamoyillar metodologik
+ o‘zgarishlar
+ vositalari
+ Standardized Tashqi reytinglarga tobe'likni
+ Tijorat banklarining
+ Approach (SA), keskin kamaytirish; IRB
+ Basel Committee kapital yetarliligini va
+ Internal Ratings-Based modellari uchun ma'lumotlar
+ on Banking kutilmagan shoklarga
+ (IRB) yondashuvlari, tarixiga qat'iy talablar (Basel
+ Supervision (unexpected losses)
+ LCR va NSFR kabi IV); iqlim va ESG risklarini
+ (BCBS) chidamliligini global
+ likvidlik qoplamasi prudensial baholashga
+ miqyosda ta’minlash.
+ ko‘rsatkichlari. integratsiya qilish.
+ Ro‘y bergan zararlar
+ Expected Credit Losses
+ Kredit portfeli (Incurred loss) modelidan
+ (ECL) hisob-kitobi
+ qadrsizlanishini moliya kutilayotgan zararlar (ECL)
+ mexanizmi; aktivlarni
+ IFRS Foundation hisobotlarida ob'ektiv, modeliga to‘liq o‘tish;
+ Stage 1, Stage 2, Stage
+ (IFRS 9) o‘z vaqtida va barvaqt makroiqtisodiy ssenariylarni
+ 3 tasniflari asosida
+ aks ettirish (forward- (Base, Adverse, Optimistic)
+ zaxira shakllantirish
+ looking principle). ehtimollik tarozisida hisobga
+ bosqichlari.
+ olish.
+ Yevrohudud bank NPL larni balansdan
+ Erta ogohlantirish
+ tizimida muammoli chiqarish bo‘yicha qat'iy
+ indikatorlari (EWI),
+ European Central aktivlarni (NPL) jadvallar (calendar
+ "Unlikely to Pay"
+ Bank (ECB) / minimallashtirish, provisioning); boshqaruvchi
+ (UTP) mezonlari, iqlim
+ EBA anderrayting va ustama tuzatishlarini
+ stress-testlash
+ kreditlash standartlarini (management overlays)
+ amaliyoti.
+ qat'iylashtirish. qo‘llashga ruxsat berish.
+ Makroiqtisodiy va Davlat qarz riski va bank
+ FSAP (Financial
+ makroprudensial kredit riski o‘zaro
+ Sector Assessment
+ barqarorlik, global bog‘liqligini (sovereign-bank
+ Program), makro-
+ IMF va World tizimli xatarlarni nexus) uzish; maqsadli
+ tizimli stress-testlar,
+ Bank (systemic risk) erta subsidiyalar o‘rniga kredit
+ makroprudensial
+ aniqlash, hukumat narxlanishini (risk-based
+ chegaralar (LTV,
+ qarzlarini pricing) bozor tamoyillariga
+ DSTI).
+ optimallashtirish. to‘liq o‘tkazish.
+ Kredit portfelidagi ehtimolli va kutilayotgan zararlarni o‘lchash hamda
+operatsion boshqarish metodologiyasi, o‘zining fundamental nazariy asoslariga
+ko‘ra, asosan uchta o‘zaro bog‘liq va iqtisodiy ma’noga ega o‘zgaruvchini to‘g‘ri
+modellashtirishga tayanadi: Defolt ehtimolligi (Probability of Default - PD), Defolt
+yuz bergandagi yo‘qotish darajasi (Loss Given Default - LGD) hamda Defolt yuz
+bergandagi majburiyat miqdori (Exposure at Default - EAD). Ushbu
+ko‘rsatkichlarning mantiqiy, ehtimolli va statistik hamjihatligini ta’minlash bugungi
+kundagi xalqaro moliya va ekonometrika adabiyotlarida eng muhim tadqiqot
+obyektlaridan biri bo‘lib qolmoqda. Xususan, 2021–2024-yillarda e’lon qilingan
+nufuzli ilmiy maqolalarda, PDni baholash usullari o‘zining klassik davridagi oddiy
+ko‘p o‘lchovli chiziqli yoki logistik regressiya modellaridan o‘tib, murakkab,
+
+5
+ Olimlar ilmiy-nazariy qarashlaridan kelib chiqib muallif tomonidan umumlashtirildi
+
+ 13
+dinamik va adaptiv tasniflash vositalarigacha kengaytirilganligi batafsil uqtiriladi
+(Khurramov, 2022). Agar avvallari PD modellari asosan qarz oluvchining faqat
+o‘tmishdagi to‘lov tarixini va statik balans ko‘rsatkichlarini (masalan, likvidlik yoki
+moliya tutqichi koeffitsiyentlari) hisobga olgan bo‘lsa, bugungi kunda iqtisodiy
+tsiklga moslashuvchi "survival analysis" (hayotchanlik tahlili) va vaqtga bog‘liq
+fraktal o‘zgaruvchilarni qamrab oluvchi usullar (masalan, Cox proporsional hazard
+modellari) ilmiy tadqiqotlarda eng ishonchli vositalar qatoriga qo‘shildi (Zhang va
+boshq., 2021). Ushbu nazariy munozaralardagi eng katta tortishuvlardan biri
+shundaki, kredit riskini baholashda Point-in-Time (PiT) – ya’ni, aynan shu qisqa
+lahzadagi defolt ehtimolini va Through-the-Cycle (TTC) – butun iqtisodiy tsikl
+davomidagi o‘rtacha yassilangan defolt ehtimolini qay usulda bir-biriga integratsiya
+qilish hamda ularni IFRS 9 maqsadlari uchun Z-shift (tsiklga moslashtirish)
+algoritmlari orqali qanday matematik transformatsiya qilishdir. Taniqli moliya
+iqtisodchilari bu masalada shunday xulosaga kelishmoqdaki, TTC modellarining
+sun’iy barqarorligi ularni Basel standartlari bo‘yicha kapitalni hisoblash uchun qulay
+qilsa-
+=== XULOSA
+
+xulosalarni shakllantirilgan.
+ Zamonaviy iqtisodiyotda tijorat banklari moliyaviy vositachilikning
+(financial intermediation) fundamental instituti sifatida faoliyat yuritib, jamiyatdagi
+vaqtincha bo‘sh turgan pul mablag‘larini yig‘ish va ularni iqtisodiyotning real
+sektoriga investitsiya hamda kredit shaklida yo‘naltirishdek g‘oyat muhim vazifani
+bajaradi. Ushbu murakkab transformatsion jarayonning markazida bankning asosiy
+daromad keltiruvchi, ayni paytda eng yuqori riskni o‘zida mujassam etuvchi aktivi
+– kredit portfeli turadi. Bank tizimining barqarorligi, to‘lovga qobiliyatliligi va
+pirovardida milliy iqtisodiyotdagi makroiqtisodiy barqarorlik bevosita mazkur
+kredit portfelining sifati, uning tarkibiy tuzilishi hamda unga xos bo‘lgan xatarlarni
+qay darajada samarali boshqarishga bog‘liqdir (Saunders va Allen, 2021). Moliyaviy
+
+12
+tizimning qon tomiri hisoblangan kreditlash jarayoni uzluksiz va sog‘lom ishlamasa,
+makroiqtisodiy o‘sish va innovatsion rivojlanish haqida so‘z yuritish imkonsizdir.
+ 1-jadval.
+Xalqaro moliya institutlari va regulyatorlarning kredit riskini boshqarishdagi
+ yondashuvlarini qiyosiy tahlili5
+ Kredit riskini
+ Zamonaviy (2020–2024)
+ Tashkilot / Asosiy konseptual boshqarishning
+ yondashuvlar va
+ Regulyator maqsad va tamoyillar metodologik
+ o‘zgarishlar
+ vositalari
+ Standardized Tashqi reytinglarga tobe'likni
+ Tijorat banklarining
+ Approach (SA), keskin kamaytirish; IRB
+ Basel Committee kapital yetarliligini va
+ Internal Ratings-Based modellari uchun ma'lumotlar
+ on Banking kutilmagan shoklarga
+ (IRB) yondashuvlari, tarixiga qat'iy talablar (Basel
+ Supervision (unexpected losses)
+ LCR va NSFR kabi IV); iqlim va ESG risklarini
+ (BCBS) chidamliligini global
+ likvidlik qoplamasi prudensial baholashga
+ miqyosda ta’minlash.
+ ko‘rsatkichlari. integratsiya qilish.
+ Ro‘y bergan zararlar
+ Expected Credit Losses
+ Kredit portfeli (Incurred loss) modelidan
+ (ECL) hisob-kitobi
+ qadrsizlanishini moliya kutilayotgan zararlar (ECL)
+ mexanizmi; aktivlarni
+ IFRS Foundation hisobotlarida ob'ektiv, modeliga to‘liq o‘tish;
+ Stage 1, Stage 2, Stage
+ (IFRS 9) o‘z vaqtida va barvaqt makroiqtisodiy ssenariylarni
+ 3 tasniflari asosida
+ aks ettirish (forward- (Base, Adverse, Optimistic)
+ zaxira shakllantirish
+ looking principle). ehtimollik tarozisida hisobga
+ bosqichlari.
+ olish.
+ Yevrohudud bank NPL larni balansdan
+ Erta ogohlantirish
+ tizimida muammoli chiqarish bo‘yicha qat'iy
+ indikatorlari (EWI),
+ European Central aktivlarni (NPL) jadvallar (calendar
+ "Unlikely to Pay"
+ Bank (ECB) / minimallashtirish, provisioning); boshqaruvchi
+ (UTP) mezonlari, iqlim
+ EBA anderrayting va ustama tuzatishlarini
+ stress-testlash
+ kreditlash standartlarini (management overlays)
+ amaliyoti.
+ qat'iylashtirish. qo‘llashga ruxsat berish.
+ Makroiqtisodiy va Davlat qarz riski va bank
+ FSAP (Financial
+ makroprudensial kredit riski o‘zaro
+ Sector Assessment
+ barqarorlik, global bog‘liqligini (sovereign-bank
+ Program), makro-
+ IMF va World tizimli xatarlarni nexus) uzish; maqsadli
+ tizimli stress-testlar,
+ Bank (systemic risk) erta subsidiyalar o‘rniga kredit
+ makroprudensial
+ aniqlash, hukumat narxlanishini (risk-based
+ chegaralar (LTV,
+ qarzlarini pricing) bozor tamoyillariga
+ DSTI).
+ optimallashtirish. to‘liq o‘tkazish.
+ Kredit portfelidagi ehtimolli va kutilayotgan zararlarni o‘lchash hamda
+operatsion boshqarish metodologiyasi, o‘zining fundamental nazariy asoslariga
+ko‘ra, asosan uchta o‘zaro bog‘liq va iqtisodiy ma’noga ega o‘zgaruvchini to‘g‘ri
+modellashtirishga tayanadi: Defolt ehtimolligi (Probability of Default - PD), Defolt
+yuz bergandagi yo‘qotish darajasi (Loss Given Default - LGD) hamda Defolt yuz
+bergandagi majburiyat miqdori (Exposure at Default - EAD). Ushbu
+ko‘rsatkichlarning mantiqiy, ehtimolli va statistik hamjihatligini ta’minlash bugungi
+kundagi xalqaro moliya va ekonometrika adabiyotlarida eng muhim tadqiqot
+obyektlaridan biri bo‘lib qolmoqda. Xususan, 2021–2024-yillarda e’lon qilingan
+nufuzli ilmiy maqolalarda, PDni baholash usullari o‘zining klassik davridagi oddiy
+ko‘p o‘lchovli chiziqli yoki logistik regressiya modellaridan o‘tib, murakkab,
+
+5
+ Olimlar ilmiy-nazariy qarashlaridan kelib chiqib muallif tomonidan umumlashtirildi
+
+ 13
+dinamik va adaptiv tasniflash vositalarigacha kengaytirilganligi batafsil uqtiriladi
+(Khurramov, 2022). Agar avvallari PD modellari asosan qarz oluvchining faqat
+o‘tmishdagi to‘lov tarixini va statik balans ko‘rsatkichlarini (masalan, likvidlik yoki
+moliya tutqichi koeffitsiyentlari) hisobga olgan bo‘lsa, bugungi kunda iqtisodiy
+tsiklga moslashuvchi "survival analysis" (hayotchanlik tahlili) va vaqtga bog‘liq
+fraktal o‘zgaruvchilarni qamrab oluvchi usullar (masalan, Cox proporsional hazard
+modellari) ilmiy tadqiqotlarda eng ishonchli vositalar qatoriga qo‘shildi (Zhang va
+boshq., 2021). Ushbu nazariy munozaralardagi eng katta tortishuvlardan biri
+shundaki, kredit riskini baholashda Point-in-Time (PiT) – ya’ni, aynan shu qisqa
+lahzadagi defolt ehtimolini va Through-the-Cycle (TTC) – butun iqtisodiy tsikl
+davomidagi o‘rtacha yassilangan defolt ehtimolini qay usulda bir-biriga integratsiya
+qilish hamda ularni IFRS 9 maqsadlari uchun Z-shift (tsiklga moslashtirish)
+algoritmlari orqali qanday matematik transformatsiya qilishdir. Taniqli moliya
+iqtisodchilari bu masalada shunday xulosaga kelishmoqdaki, TTC modellarining
+sun’iy barqarorligi ularni Basel standartlari bo‘yicha kapitalni hisoblash uchun qulay
+qilsa-da, IFRS 9 kutilayotgan zararlarini aniq e’tirof etish uchun makro-dinamik PiT
+yondashuvi muqarrar hisoblanadi.
+ LGD (Loss Given Default) parametri – ya’ni kredit obyekti defoltga
+uchragandan so‘ng qarzning qaytarib olingan qismidan tashqari sof yo‘qotish
+darajasi ustidagi nazariy va empirik bahslar, ayniqsa post-pandemik davrda
+ko‘chmas mulk va garov ta’minoti bozorida kuzatilgan yashirin inqirozlar sharoitida
+yanada avj oldi. Garov ta’minotining kutilmagan qadrsizlanish xavfi LGD
+modellarida eng katta metodologik "oq dog‘" (blind spot) ekanligini isbotlab bergan
+olimlar (masalan, Schuermann, 2021), garovlarning likvidlik tsiklikligini matematik
+funksiyalar orqali ifodalash yo‘llarini chuqur tadqiq etmoqdalar. An’anaviy bank
+amaliyotida garov mulkini baholash asosan mustaqil baholovchilarning adolatli yoki
+joriy bozor qiymatiga asoslanadi. Biroq, global moliya tajribasi va tarixiy
+ma’lumotlar shuni isbotlaydiki, muammoli aktivni sud orqali undirish yoki majburiy
+auksion orqali sotish paytida (fire sale) garov mulkining real qiymati ko‘pincha
+dastlabki bahosidan 30-50% gacha (haircut effekti) pasayib ketadi. Shu sababli,
+zamonaviy risk boshqaruvi nazariyasida olimlar Downturn LGD (iqtisodiy pasayish
+davridagi og‘irlashtirilgan yo‘qotish darajasi) tushunchasini takomillashtirib, ushbu
+modelga garov vositasining hududiy joylashuvi, bozordagi reallashuv muddati
+(time-to-liquidation) va advokatlik/sud huquqiy xarajatlar diskonti ko‘rsatkichlarini
+qat’iy kiritmoqdalar (Altman, 2022). Mahalliy olim O. Jalilov (2024) o‘zining ilmiy
+tadqiqotl

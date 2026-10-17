@@ -1,0 +1,86 @@
+{
+ "SQB": {
+  "NSFR_shakl": 122.2,
+  "ASF": 74132.6,
+  "RSF": 60647.6,
+  "xususiy": 11875.2,
+  "regulyativ": 16199.1,
+  "farq": 4324.0,
+  "AT1_instr": 3614.6,
+  "T2_subdebt": 1524.8,
+  "T2_zaxira": 719.9,
+  "chiqarilgan_qq": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 0.0,
+   ">1 yil": 12479.6
+  },
+  "subordinar": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 19.3,
+   ">1 yil": 1870.7
+  },
+  "ikki_marta": 5128.5,
+  "NSFR_oddiy_almashtirish": 129.4,
+  "NSFR_tuzatilgan": 120.9,
+  "NSFR_tuzatilgan_chegirmagacha": 123.4,
+  "LCR": 222.9,
+  "HQLA": 17625.1,
+  "sof_chiqim": 7905.5
+ },
+ "MKB": {
+  "NSFR_shakl": 113.0,
+  "ASF": 22104.4,
+  "RSF": 19556.0,
+  "xususiy": 5739.2,
+  "regulyativ": 6269.7,
+  "farq": 530.5,
+  "AT1_instr": 0.2,
+  "T2_subdebt": 416.5,
+  "T2_zaxira": 123.4,
+  "chiqarilgan_qq": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 0.0,
+   ">1 yil": 0.0
+  },
+  "subordinar": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 0.0,
+   ">1 yil": 703.1
+  },
+  "ikki_marta": 416.5,
+  "NSFR_oddiy_almashtirish": 115.7,
+  "NSFR_tuzatilgan": 113.6,
+  "NSFR_tuzatilgan_chegirmagacha": 113.6,
+  "LCR": 231.9,
+  "HQLA": 3790.2,
+  "sof_chiqim": 1634.2
+ },
+ "ALOQA": {
+  "NSFR_shakl": 103.0,
+  "ASF": 21121.8,
+  "RSF": 20507.9,
+  "xususiy": 3846.9,
+  "regulyativ": 5026.8,
+  "farq": 1180.0,
+  "AT1_instr": 3.7,
+  "T2_subdebt": 1076.0,
+  "T2_zaxira": 107.5,
+  "chiqarilgan_qq": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 0.0,
+   ">1 yil": 0.0
+  },
+  "subordinar": {
+   "muddatsiz": 0.0,
+   "≤1 yil": 0.0,
+   ">1 yil": 1454.0
+  },
+  "ikki_marta": 1076.0,
+  "NSFR_oddiy_almashtirish": 108.7,
+  "NSFR_tuzatilgan": 103.5,
+  "NSFR_tuzatilgan_chegirmagacha": 103.5,
+  "LCR": 142.0,
+  "HQLA": 4568.9,
+  "sof_chiqim": 3217.7
+ }
+}

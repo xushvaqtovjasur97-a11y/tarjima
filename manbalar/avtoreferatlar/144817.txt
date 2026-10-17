@@ -1,0 +1,153 @@
+ID 144817 | Yusupov Shoxzod Maxmatmurodovich | PhD |  | Tijorat banklari kredit portfeli sifatini oshirish yo’llari.
+HEAD:  TASHKENT INTERNATIONAL UNIVERSITY HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH INTERNATIONAL SCHOOL OF FINANCE TECHNOLOGY AND SCIENCE YUSUPOV SHOXZOD MAXMATMURODOVICH TIJORAT BANKLARI KREDIT PORTFELI SIFATINI OSHIRISH YO‘LLARI 08.00.07 – «Moliya, pul muomalasi va kredit» Iqtisodiyot fanlari bo‘yicha falsafa doktori (Doctor of Philosophy) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2026 yil 1 UO‘K: 336.713:336.774.3(575.1) Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата диссертации доктора философиии (Doctor of Philosophy) по экономическим наукам 
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklarida kredit portfelini samarali
+boshqarishning bozor mexanizmlarini takomillashtirish bo‘yicha ilmiy taklif va
+amaliy tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ investitsion loyihalarni moliyalashtirishga ajratiladigan kreditlar bo‘yicha
+risklarni pasaytirish va kredit portfeli samaradorligini oshirishda kredit ta’minoti
+miqdorini 125 foizga oshirish, uning tarkibida ko‘chmas mulk obyektlari ulushini
+70 foizga etkazish hamda texnologik uskunalar ulushini 55 foiz darajasida cheklash
+orqali barqaror va muvozanatli ta’minot tuzilmasini shakllantirish taklif etilgan;
+ kredit portfelida jamoaviy asosda qadrsizlanadigan kreditlar bo‘yicha
+ehtimoliy yo‘qotishlar va zaxira xarajatlarini kamaytirishda davlat dasturlaridan
+qat’iy nazar aktivlar sifati bo‘yicha moliyaviy beqaror va «qoniqarsiz», «shubhali»,
+«umidsiz» toifadagi qarzdor mijozlarga kredit ajratish yoki shartlarni qayta ko‘rib
+chiqishni to‘xtatish taklif etilgan;
+ investitsion kreditlar hisobidan moliyalashtirilgan loyihalarda yuzaga
+keladigan muammolarni bank tomonidan o‘z vaqtida aniqlash va bartaraf etish,
+kreditni qaytarish yukining pul oqimlariga mutanosib ravishda taqsimlanishini
+ta’minlashda kreditning asosiy qismiga nisbatan imtiyozli davrni chegaralash,
+operatsion jarayonning davomiyligidan kelib chiqqan holda “investitsion davr+6
+oy” muddatgacha belgilash taklif etilgan;
+ kredit portfelini dinamik diversifikatsiya qilish algoritmi asosida “Risk –
+daromad” qonuniyati doirasida kredit portfeli hajmini oshirishning 2025-2030-yillar
+uchun prognoz stsenariylari ishlab chiqilgan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ davlat ulushi yuqori bo‘lgan va xususiy tijorat banklarining kredit portfelining
+o‘ziga xos strukturasi, diversifikatsiyalanish darajasi alohida tahlil qilingan va bunga
+ta’sir etuvchi omillar aniqlangan;
+ tijorat banklarining kredit portfeli sifatiga ta’sir etuvchi risklar o‘rganilgan va
+tasniflangan hamda ularning ta’sirini pasaytirish imkoniyatlari baholangan;
+8
+ tijorat banklarida kredit portfelini samarali boshqarishning zamonaviy holati
+tahlil qilingan, muammolar o‘rganilgan va tegishli tavsiyalar ishlab chiqilgan;
+ tijorat banklarining kredit portfelini boshqarishga ta’sir etuvchi omillarning
+ekonometrik tahlili amalga oshirilgan hamda tahlil natijalari bo‘yicha xulosa va
+takliflar ishlab chiqilgan;
+ ilg‘or xorijiy tajribalar asosida tijorat banklarida kredit portfelini samarali
+boshqarishning bozor mexanizmlarini takomillashtirishga qaratilgan ilmiy taklif va
+amaliy tavsiyalar ishlab chiqilgan;
+ kredit portfelini diversifikatsiyalashga ta’sir ko‘rsatuvchi omillarning
+ekonometrik modeli asosida kredit portfeli hajmini oshirishning 2025-2030-yillar
+uchun prognoz ko‘rsatkichlari ishlab chiqilgan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa, foydalanilgan adabiyotlar ro‘yxati va ilovalardan iborat. Dissertasiyaning
+umumiy hajmi 154 betni tashkil etadi.
+
+
+
+10
+ DISSERTATSIYANING ASOSIY MAZMUNI
+
+ Kirish qismida tadqiqotning dolzarbligi va ahamiyati asoslangan, tadqiqotning
+maqsadi va asosiy vazifalari, obyekti va predmeti tavsiflangan, respublika fan va
+texnologiyalari rivojlanishining ustuvor yo‘nalishlariga mosligi ko‘rsatilgan, ilmiy
+yangiligi va amaliy natijalari bayon qilinib, olingan natijalarning ilmiy va amaliy
+ahamiyati yoritib berilgan, tadqiqot natijalarini amaliyotga joriy etish, nashr etilgan
+ishlar va dissertatsiya tuzilishi bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiya ishining «Tijorat banklarida kredit portfelini samarali
+boshqarishning nazariy va tashkiliy asoslari» deb nomlangan birinchi bobida kredit
+portfelini samarali boshqarish bo‘yicha ilmiy-nazariy qarashlar, kredit portfeli sifatiga
+ta’sir qiladigan risklar va ularni boshqarish, tijorat banklarida kredit portfelini samarali
+boshqarishning bozor mexanizmlari tahlil qilingan.
+ Mazkur bobda ko‘plab xorijiy va mahalliy olimlarning «kredit portfelini samarali
+boshqarish» va «kredit portfeli» hamda «kredit siyosati» tushunchalariga bergan
+ta’riflarining iqtisodiy mohiyati, ilmiy-amaliy asoslari chuqur tahlil qilingan holda
+ularning tadqiqotlari va fikrlariga qiyosiy baho berildi.
+ Masalan Amerikalik iqtisodchilar Kris Dj. Barlton va Diana MakNoton fikricha
+kredit portfeli – bu kreditlarni kategoriyalar bo‘yicha tasniflashdir.
+ Mazkur amerikalik olimlar tomonidan berilgan ta’rif kredit portfelining
+strukturasini ifoda etmoqda va aynan nima sababdan kreditlar kategoriyalar bo‘yicha
+tasniflangan holda kredit portfeli shakllantirilishi mazmun va mohiyatini ochib
+bermagan. Yillar davomida kredit portfelining strukturaviy shakllanishining asosini
+undagi ma’lumotlarni tahlil qilishdagi qulayliklar va kreditlash amaliyotida tijorat
+bankining faoliyatidagi risklarning ta’sir doirasini oldindan prognozlashtirish
+imkoniyatini kengaytirish tashkil etadi.
+ Biznes-lug‘atda (2014) kredit portfeli bankning yoki moliyaviy kompaniyaning
+har qanday kun uchun mavjud bo‘lgan barcha kreditlari yig‘indisi sifatida tariflangan .
+ Rossiyalik olim G.Korobova ta’riflashicha: “Kredit portfeli – bu tijorat bankining
+kreditlash faoliyatining natijasi bo‘lib, ma’lum vaqt oralig‘ida bank tomonidan
+ajratilgan kreditlar yig‘indisini o‘zida aks ettiradi”. Olim tomonidan berilgan ta’rif
+kredit portfelining statistik ma’lumotlarni ifodalash nuqtai nazaridan mohiyatini ochib
+bergan bo‘lsada, unda keltiriladigan tahliliy xususiyatga ega bo‘lgan ma’lumotlarni
+hamda ular yordamida kelgusidagi prognozlashtirish imkoniyatlarini ochib bermagan.
+ A.Tavasevaning fikricha: “Rasman ssuda portfeli aniq vaqt oralig‘ida berilgan bir
+qator ssudalarni o‘zida ifodalaydi”.
+ Shu bilan birga, N.Sokolinskaya “kredit portfelini qisqa muddati va uzoq muddatli
+kreditlar yig‘indisi” deb ta’riflagan. Ushbu tarifda olim asosiy e’tiborni kredit
+muddatiga qaratgan va bu kredit portfelning boshqa jihatlarini ochishga yetarli
+bo‘lmagan.
+ S.B.Kovalenkoning tarifiga ko‘ra: “Kredit portfeli – bu bozor kon’yukturasining
+o‘ziga xos jihatlarini inobatga olgan holda bankning rivojlanish maqsadlariga erishish
+yo‘lida bank tomonidan maqsadli shakllantirilgan va uzluksiz tarzda boshqariladigan,
+qarzdorlarga taqdim etilgan kreditlarning tizimlashgan yig‘indisidir. Shu bilan birga
+
+ 11
+kredit portfeli deganda bankning kredit siyosati doirasida bir butun boshqariladigan,
+risk va daromadlilik darajasini hisobga olgan holda differentsiallashgan ssudalar
+yig‘indisini tushunish mumkin. Kredit portfelining muhim o‘ziga xosligi – bu
+muvozanatlashtirilganlgi, ya’ni bir ssuda bo‘yicha yuqori risk boshqa ssudalarning
+yuqori daromadligi va ishonchliligi bilan qoplanishi zarur”.
+ Rossiyalik olim E.V. Zobova tarifiga ko‘ra “Bankning kredit portfeli – bu tijorat
+banklari tomonidan qarz oluvchilarning turli toifalariga berilgan kreditlar”.
+ Taniqli rus olimi O.I.Lavrushin fikricha, “bank ishida kredit portfeli biror bir
+bankning kreditlari yig‘indisi”. Shu bilan birga, ning fikricha, kredit portfelni
+shakllantirish va tahlil qilish tijorat bankining mijozlarni kreditlash, ishlash strategiyasi
+va taktikasini aniq aniq ishlab chiqish imkoniyatini oshiradi.
+ L.I.Abalkin, G.S.Panova kabi bir guruh iqtisodchi olimlar tijorat bankining kredit
+portfeli – bu kreditlarning sifat va tarkibi jihatidan tasniflanishi fikrini bildirishgan .
+Ushbu tarifda kredit portfelining iqtisodiy jihatdan mohiyati kengroq ochib berilgan
+bo‘lib, aynan kredit portfelning umumiy sifati har bir kreditning sifatiga hamda
+diversifikatsiyalanishi bo‘yicha tarkibiga bog‘liq.
+ O‘zbekistonlik iqtisodchi olimlardan Sh.Z.Abdullaeva fikraga ko‘ra “banklarning
+kredit portfeli – bu turli xil kredit risklariga asoslangan muayyan mezonlarga qarab
+turkumlangan kreditlar miqyosidagi bank talablarining yig‘indisidir”.
+ Z.A.Umarov, H.H.Otamurodov, I.F.Sayfiddinovlar tarifiga ko‘ra “bankning
+kredit portfeli – muayyan tarkibiy tuzilmaga ega bo‘lgan, o‘ziga xos boshqaruv obyekti
+sifatida kreditlshash yo‘nalishlari bo‘yicha bankning daromadlilik, risk, likvidlik
+talablanriga hamda yangi ish joylari va yalpi mahsulot yaratilishini ta’minlash uchun
+bankning kredit siyosati strategiyasiga muvofiq kreditlash obyektlariga yo‘naltirilgan
+qo‘yilmalar majmuidir” .
+ S.K.Kuzmina va O.A.Arzikulovlar tarifiga ko‘ra, “bankning kredit portfeli – bu
+bank tomonidan kredit operatsiyalarini amalga oshirish uchun zarur bo‘lgan miqdor
+bo‘lib, bank tomonidan berilgan jami kreditlarning yig‘indisini ifodalaydi”.
+ Yuqorida keltirilgan iqtisodchi olimlar tomonidan keltirilgan ta’riflarda kredit
+portfeli va uni samarali boshqarishning bozor mexanizmlarining mohiyati to‘liq
+ifodalanmagan.
+ Bizning fikrimizcha kredit portfelining asosiy maqsadi kreditlarni boshqarish
+bo‘yicha aniq va o‘lchash imkoniyatiga ega bo‘lgan tadbirlarga intilish hisoblanadi va
+ular kredit madaniyati va risklar xususiyati natijasi hisoblanadi. Tijorat bankining
+vakolatli boshqaruv organi kreditlar ajratilishida quyidagi asosiy uchta maqsadlarning
+inobatga olinishini nazorat qilishi zarur:
+ kreditlarni ishonchlilik va qaytaruvchanlik asosida ajratish;
+ tijorat bankining mablag‘larini aksiyadorlar va omonatchilar manfaatlarini
+ko‘zlagan holda daromadli sohalarga kredit sifatida yo‘naltirish;
+ mijozlarining kreditga bo‘lgan talabini qonuniy ravishda qondirishga intilish.
+ Yuqorida keltirilgan natijalarga erishish uchun bankning yuqori boshqaruv organi
+zimmasiga kredit portfeli bo‘yicha o‘rta va uzoq muddatli strategik rejalar va maqsadlar
+ishlab chiqish vazifasini yuklaydi va bu maqsadlar bank tomonidan umumiy risklar
+bo‘yicha belgilangan me’yorlar va ularning yo‘nalishlariga mos kelishi lozim.
+
+
+12
+ Kredit portfeli yuzasidan strategik rejalarni ishlab chiqishda bank rahbariyati
+quyidagi me’yorlarni o‘rnatishi zarur:
+ kredit portfelining miqdor jihatidan bank balansidagi ulushi;
+ kreditlar sifatiga qo‘yiladigan talablar;
+ 

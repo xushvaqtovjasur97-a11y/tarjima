@@ -1,0 +1,2631 @@
+          TASHKENT INTERNATIONAL UNIVERSITY
+        HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+      DSc.03/2025.27.12.I.30.01 RAQAMLI ILMIY KENGASH
+          TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+            DJALILOV GAYRAT KAXRAMANOVICH
+
+
+
+BANKLARNING MOLIYAVIY BARQARORLIGINI TA'MINLASHNING
+              USTUVOR YOʻNALISHLARI
+
+
+
+                08.00.07 – «Moliya, pul muomalasi va kredit»
+
+
+
+
+       Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                              AVTOREFERATI
+
+
+
+
+                          Toshkent shahar – 2026 yil
+                                                                              UOʻK: 336.71:336(575.1))
+
+ Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi avtoreferati
+                                  mundarijasi
+
+    Оглавление автореферата диссертaции доктора философии (PhD) по
+                        экономическим наукам
+
+         Content of dissertation abstract for Doctor of Philosophy (PhD) in
+                                     Economics
+
+Djalilov Gayrat Kaxramanovich
+Banklarning moliyaviy barqarorligini ta'minlashning ustuvor yoʻnalishlari ....................... 3
+
+
+Джалилов Гайрат Кахраманович
+Приоритетные направления обеспечения финансовой устойчивости банков ...... 29
+
+
+Djalilov Gayrat Kakhramanovich
+Priority areas for ensuring the financial stability of banks ...................................... 55
+
+
+E’lon qilingan ishlar ro’yxati
+Список опубликованных работ
+List of published works ........................................................................................... 60
+
+
+
+
+2
+          TASHKENT INTERNATIONAL UNIVERSITY
+        HUZURIDAGI ILMIY DARAJALAR BERUVChI
+     DSc. 22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+          TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+            DJALILOV GAYRAT KAXRAMANOVICH
+
+
+
+BANKLARNING MOLIYAVIY BARQARORLIGINI TA'MINLASHNING
+              USTUVOR YOʻNALISHLARI
+
+
+
+                08.00.07 – «Moliya, pul muomalasi va kredit»
+
+
+
+
+       Iqtisodiyot fanlari boʻyicha falsafa doktori (PhD) dissertatsiyasi
+                              AVTOREFERATI
+
+
+
+
+                          Toshkent shahar – 2026 yil
+                                                                            3
+4
+            KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Bazel qoʻmitasining
+tadqiqotlarida ushbu koʻrsatkichga nisbatan ayrim xulosalar shakllantirilganligini
+koʻrish mumkin. Bazel III standarti likvidlikni qoplash koeffitsiyenti doirasida
+30 kunlik stress payti uchun yuqori likvidli aktivlarning saqlanishi tavsiya etilgan.
+Ayrim xulosalarida katta banklar ushbu koʻrsatkichni katta foizgacha saqlashi
+lozimligini qayd etib oʻtadi1. Xalqaro valyuta jamgʻarmasining Global moliyaviy
+barqarorlik hisobotida likvid aktivlar buferi muhim ekanligini ta’kidlab oʻtishadi 2.
+Masalan, Janubiy Koreya markaziy regulyatori tomonidan asosiy stavkaning
+tebranishi davrida moliyaviy stress darajasining oʻziga xos xususiyatlarini koʻrish
+mumkin. 2010-2019 yillarda moliyaviy stress darajasi moʻ’tadillashganligini
+kuzatish mumkin. Biroq, 2020 yilda pandemiyada yana koʻtarilgan moliyaviy stress
+2021 yilda tushgan boʻlsada, 2022 yildagi geosiyosiy inqiroz sabab moliyaviy stress
+oshishni boshlagan. Ayniqsa, 2022 yildagi global nobarqarorlik sabab asosiy stavka
+va moliyaviy stress darajasi ortganligini qayd etish lozim. Natijada, milliy
+iqtisodiyotda qarz moliyaviy yukining ortishiga olib kelgan3.
+      Jahonning yetakchi ilmiy markazlari va oliy ta’lim muassasalari tomonidan
+banklar moliyaviy barqarorligini ta’minlashga qaratilgan ilmiy izlanishlar olib
+borilmoqda. Jumladan, an’anaviy va islomiy bank xizmatlarining uygʻunlashgan
+platformasini ishga tushirish asnosida banklarning moliyaviy xizmatlarini
+rivojlantirish, davlatning moliyaviy qoʻllab-quvvatlashi va moliyaviy siyosati
+ortidan institutsional transformatsiyada barqarorlikni ta’minlash, geosiyosiy
+nobarqarorlik sharoitida valyuta va pul-kredit siyosatining bank tizimiga salbiy
+ta’sirini yumshatishga erishish va kiber moliyaviy firibgarliklar urchigan paytda
+unga qarshi moliyaviy texnologiyalarni va aholi moliyaviy savodxonligini
+oshirishga qaratilgan chora-tadbirlarni amalga oshirish kabilar shular jumlasiga
+kiradi.
+      Oʻzbekistonda banklarning moliyaviy barqarorligini ta’minlashning davriy
+omillarini aniqlash ustuvorlik kasb etmoqda. Muddatli depozitlarning 1-darajali
+asosiy kapitalga uzoq muddatda toʻgʻri va qisqa muddatda teskari proporsional, kredit
+va lizing operatsiyalari leverej koeffitsiyentiga uzoq muddatda teskari, sof barqaror
+moliyalashtirish manbasiga qisqa muddatli davrda bank daromadlari va depozitlari
+ta’sirini aniqlash kabilarni keltirish mumkin. Shuningdek, jami aktivlarga nisbatan
+likvidli aktivlarning ulushi, bankning kredit va lizing operatsiyalari hajmining
+ta’sirida riskka tortilgan aktivlarga nisbatan regulyativ kapital ulushi kabilarni
+aniqlash va baholashga e’tibor qaratish muhim ahamiyat kasb etmoqda.
+
+
+1
+    Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools January 2013.
+https://www.bis.org/publ/bcbs238.pdf?utm_source=chatgpt.com
+2
+  Global Financial Stability Report. https://www.imf.org/en/Publications/GFSR
+3
+      South    Korea      Central     Bank     Governor     Highlights    Economy   With   Inflation   focus
+https://www.bloomberg.com/news/articles/2023-01-18/bank-of-korea-s-rhee-highlights-economy-with-focus-on-
+inflation?embedded-checkout=true
+                                                                                                          5
+     Ushbu dissertatsiya ishi ma’lum darajada yuqorida koʻrsatilgan muammolarni,
+shuningdek, Oʻzbekiston Respublikasi Prezidentining Farmon va qarorlarida
+belgilangan vazifalarni hal etishga xizmat qiladi. Xususan, Oʻzbekiston
+Respublikasi Prezidentining 2020-yil 5-oktabrdagi 6079-sonli “Raqamli
+Oʻzbekiston – 2030 strategiyasini va uni samarali amalga oshirish chora-tadbirlarini
+tasdiqlash toʻgʻrisida”gi, 2020-yil 12 maydagi “2020-2025-yillarda Oʻzbekiston
+Respublikasi bank tizimini isloh qilish strategiyasi toʻgʻrisida”gi PF-5992-sonli
+farmonlari, Oʻzbekiston Respublikasi Prezidentining 2018-yil 23-martdagi “Bank
+xizmatlari ommabopligini oshirish boʻyicha qoʻshimcha chora-tadbirlar
+toʻgʻrisida”gi PQ-3620-sonli, 2018-yil 21-sentabrdagi “2019-2021-yillarda
+Oʻzbekiston Respublikasini innovatsion rivojlantirish strategiyasini tasdiqlash
+toʻgʻrisida”gi PF-5544-son va Oʻzbekiston Respublikasi Markaziy banki
+boshqaruvining 2015-yil 13-iyundagi “Tijorat banklari kapitalining monandligiga
+qoʻyiladigan talablar toʻgʻrisidagi nizomni tasdiqlash haqida”gi (Oʻzbekiston
+Respublikasi Adliya vazirligi tomonidan 2015-yil 6-iyulda 2693-son bilan davlat
+roʻyxatidan oʻtkazilgan) 14/3-sonli qarorlari ushbu faoliyatga tegishli boʻlgan
+me’yoriy xujjatlarda belgilab oʻtilgan vazifalarni amaliyotga tadbiq qoʻllab borishga
+mazkur dissertatsiya tadqiqoti muayyan darajada xizmat qiladi.
+     Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yoʻnalishlariga mosligi. Ushbu dissertatsiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I. “Demokratik va huquqiy jamiyatni ma’naviy-
+axloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” deb
+nomlangan strategik mavzularining ustuvorligiga muvofiq ravishda bajarilgan.
+     Muammoning oʻrganilganlik darajasi. Banklarning moliyaviy barqarorligi va
+daromadlilik miqyosiga yuzasidan qator ilmiy yondashuvlarni kuzatish mumkin.
+Jumladan, ingliz tilida olib borilgan tadqiqotlarda M.Aktaş, M.Alhadab, J.Barth,
+R.Diaconu, Y.Görmez, J.Ihrig, R.Juelsrud, J.Karr, M.Kaur, R.Masera, D.Miles,
+C.Moussu, N.Nizar, P.Ozili, M.Petersen, A.Sidhu, W.Wagner4 tomonidan amalga
+oshirilgan.
+
+4
+  Aktaş M. Stability of the participation banking sector against the economic crisis in Turkey //International Journal
+of Economics and Financial Issues. – 2013. – Т. 3. – №. 1. – С. 180-190.; Alhadab M. M. et al. Earnings management
+and banks performance: Evidence from Europe //International Journal of Academic Research in Accounting, Finance
+and Management Sciences. – 2017. – Т. 7. – №. 4. – С. 134-145.; Barth J. R., Miller S. M. Benefits and costs of a
+higher bank “leverage ratio” //Journal of Financial Stability. – 2018. – Т. 38. – С. 37-52.; Diaconu R. I., Oanea D. C.
+The main determinants of bank's stability. Evidence from Romanian banking sector //Procedia Economics and
+Finance. – 2014. – Т. 16. – С. 329-335.; Görmez Y., Yiğit S. The economic and financial stability in Turkey: A
+historical perspective //Economic and financial stability in SE Europe in a historical and comparative perspective,
+SEEMHN and NBS. – 2009. – С. 283-313.; Ihrig J. E., Vojtech C. M., Weinbach G. C. How have banks been
+managing the composition of high-quality liquid assets? //Available at SSRN 3494163. – 2019.; Juelsrud R. E., Wold
+E. G. Risk-weighted capital requirements and portfolio rebalancing //Journal of Financial Intermediation. – 2020. –
+Т. 41. – С. 100806.; Karr J. Performance Measurement in Banking: Beyond ROE //Journal of Performance
+Management. – 2005. – Т. 18. – №. 3.; Kaur M., Kaur M. Determinants of banking stability in India //The Bottom
+Line. – 2025. – Т. 38. – №. 1. – С. 49-70.; Masera R. Leverage and risk-weighted capital in banking regulation
+//Available at SSRN 3471119. – 2019.; Miles D., Yang J., Marcheggiano G. Optimal bank capital //The Economic
+Journal. – 2013. – Т. 123. – №. 567. – С. 1-37.; Moussu C., Petit-Romec A. ROE in banks: Performance or risk
+measure? Evidence from financial crises //Finance. – 2017. – Т. 38. – №. 2. – С. 95-133.; Nizar N., Karim Z. A. The
+relationship between household credit and banking stability in Malaysia: Panel evidence //Gadjah Mada International
+Journal of Business. – 2021. – Т. 23. – №. 2. – С. 155-172.; Ozili P. K. Banking stability determinants in Africa
+6
+      Rus tilida amalga oshirilgan tadqiqotlarda banklarning moliyaviy barqarorligi va
+unda kapital yetarlliligi, likvidlik muammolari kabi koʻrsatkichlarning oʻziga xosligi
+aniqlangan va baholangan. Jumladan, N. Gorelaya, E.Zavyalova, Yu.Zaxarova,
+L.Zudina, S.Ilina, A.Rudenko5 ilmiy ishlari shular qatoriga kiradi.
+      Oʻzbekistonda banklarning moliyaviy barqarorligini ta’minlashga qaratilgan
+ustuvor yoʻnalishlarining oʻziga xos jihatlari yuzasidan qator ilmiy tadqiqotlar olib
+borilgan. Ularda turli yoʻnalishlari va ularning oʻzaro bogʻliqligi, oʻziga xos jihatlari
+tahlil etilgan. A.Abdullaev, A.Axmedov, Sh.Baxriddinov, B.Berdiyarov, R.Bozorov,
+N.Jumaev, Sh.Ibodullaev, B.Izbosarov, B.Kasimov, L.Mirpulatova, M.Moʻminova,
+L.Muradova, N.Olimjanova, H.Rahmatov, O.Sattorov, N.Sharipova6 tomonidan
+banklar faoliyatida kapital yetarliligi, likvidlik moliyaviy barqarorlikni ta’minlash
+yuzasidan tadqiqotlar amalga oshirilgan. Shunday boʻlsada, moliyaviy barqarorlikni
+ta’minlashda kapital va likvidlik kategoriyalarini baholashga qaratilgan yaxlit ilmiy
+
+
+//International Journal of Managerial Finance. – 2018. – Т. 14. – №. 4. – С. 462-483.; Petersen M. A., Schoeman I.
+Modeling of banking profit via return-on-assets and return-on-equity //Proceedings of the World Congress on
+Engineering. – 2008. – Т. 2. – №. 1. – С. 12-37.; Sidhu A. V. et al. Net stable funding ratio (NSFR) and bank
+performance: a study of the Indian Banks //Journal of Risk and Financial Management. – 2022. – Т. 15. – №. 11. – С.
+527.; Wagner W. The liquidity of bank assets and banking stability //Journal of Banking & Finance. – 2007. – Т. 31.
+– №. 1. – С. 121-139.
+5
+  Горелая Н. В., Кузнецова К. Ю. Детерминанты буфера ликвидности коммерческого банка //Корпоративные
+финансы. – 2017. – Т. 11. – №. 4. – С. 36-53.; Завьялова Е. Н. Факторы, влияющие на ликвидность
+коммерческого банка //Экономика и управление в XXI веке: тенденции развития. – 2015. – №. 25. – С. 173-
+178.; Захарова Ю. Н., Захаров Е. А. Анализ показателей ликвидности и платежеспособности//Проблемы,
+перспективы и направления инновационного развития науки. – 2016. – С. 130-133.; Зудина Л. В., Даниловских
+Т. Е. Анализ ликвидности и доходности коммерческого банка как основа оценки качества его активов
+//Международный журнал прикладных и фундаментальных исследований. – 2015. – №. 7-2. – С. 289-292.;
+Ильина С. И., Писарев В. А. Факторы, влияющие на ликвидность коммерческого банка //Всероссийская
+научной конференции молодых исследователей" Экономика сегодня: современное состояние и перспективы
+развития"(Вектор-2019). – 2019. – С. 142-145.; Руденко А. М. Оценка восприятия новых стандартов
+ликвидности российскими коммерческими банками //Вестник алтайской науки. – 2015. – №. 2. – С. 224-228.
+6
+   Abdullaev A.Ya. Tijorat banklarining likvidlik darajasini oshirish metodologiyasini takomillashtirish: i.f.d. …
+avtoreferati. – T.: TDIU, 2018. – 74 bet.; Axmedov A.S. Tijorat banklari aktivlarini sekyuritizatsiyalash amaliѐtini
+rivojlantirish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2020. – 56 bet.; Baxriddinov Sh. Tijorat banklarida
+aktivlarni samarali boshqarish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TMI, 2022. – 57 bet.; Berdiyarov B.T.
+Oʻzbekiston Respublikasi tijorat banklarining likvidliligi va toʻlov qobiliyatini ta'minlash masalalari: i.f.d. …
+avtoreferati. – T.: O‘zR. BMA, 2020. – 74 bet.; Bozorov R.X. Tijorat banklari moliyaviy barqarorligini ta'minlashni
+takomillashtirish: i.f.b.f.d. ... avtoreferati. – T.: OʻzR. BMA, 2020. – 52 bet.; Ibodullaev Sh.Т. Passivlarning
+barqarorligini ta'minlash tijorat banklarining raqobatbardoshligini ta'minlashning zaruriy sharti sifatida // Iqtisodiy
+taraqqiyot va tahlil. – 2024. – Т. 2. – №. 9. – С. 268-276.; Izbosarov B.B. Raqamli iqtisodiyot sharoitida tijorat banklari
+likvidligini tartibga solish: i.f.b.f.d. … avtoreferati. – T.: TMI, 2019. – 58 bet.; Kasimov B. U. Tijorat banklarining
+moliyaviy barqarorligini oshirish yoʻllari //Theory and analytical aspects of recent research. – 2025. – Т. 3. – №. 33.
+– С. 264-269.; Mirpulatova L.M. Tijorat banklari faoliyati samaradorligini oshirishda raqamli texnologiyalardan
+foydalanish yo‘llari: i.f.b.f.d. … avtoreferati. – T.: O‘zR. BMA, 2025. – 65 bet.; Moʻminova M.B. Tijorat banklari
+aktiv va passiv operatsiyalarini innovatsion innovatsion boshqarish metodologiyasini takomillashtirish: i.f.d. ...
+avtoreferati. – T.: TDIU, 2022. – 75 bet.; Muradova L.F. Oʻzbekiston iqtisodiyotini modernizatsiyalash sharoitida
+tijorat banklari aktivlari daromadliligini oshirish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2018. – 57 bet.;
+Olimjanova N.A. Tijorat banklari kapitalida davlat ulushini kamaytirish yo‘llari: i.f.b.f.d. … avtoreferati. – T.: O‘zR.
+BMA, 2024. – 53 bet.; Rahmatov H.Oʻ. Iqtisodiyotni diversifikatsiyalash sharoitida tijorat bank aktivlari
+samaradorligini oshirish masalalari: i.f.d. ... avtoreferati. – T.: OʻzR. BMA, 2020. – 66 bet.; Sattorov O.B. Oʻzbekiston
+Respublikasi bank tizimi barqarorligini ta'minlash metodologiyasini takomillashtirish: i.f.d. ... avtoreferati. – T.: TMI,
+2018. – 67 bet.; Sharipova N.H. Banklarning moliyaviy barqarorligini mustahkamlashda Bazel talablarining bajarilishi
+//Iqtisodiy taraqqiyot va tahlil. – 2024. – Т. 2. – №. 4. – С. 631-636.; Ubaeva Sh.L. Tijorat banklari barqarorligini
+samarali boshqarish mexanizmini takomillashtirish: i.f.b.f.d. … avtoreferati. – T.: TDIU, 2018. – 53 bet.
+                                                                                                                         7
+ishlarning kam ekanligi yoki mavjud emasligi tanlagan mavzuimiz doirasida
+tadqiqotlar olib borish dolzarbligini koʻrsatib beradi.
+     Dissertatsiya mavzusining dissertatsiya bajarilgan oliy ta’lim
+muassasasining ilmiy tadqiqot ishlari bilan bogʻliqligi. Dissertatsiya tadqiqoti
+Tashkent International University ilmiy tadqiqot rejasi doirasida bajarilgan.
+     Tadqiqotning maqsadi Oʻzbekistonda banklarning moliyaviy barqarorligini
+ta’minlashga qaratilgan ustuvor yoʻnalishlarini ishlab chiqishdan iborat.
+     Tadqiqotning vazifalari quyidagilardan iborat:
+     banklarda moliyaviy barqarorlik zaruratining vujudga kelishi va uning
+mohiyatini oʻrganish.
+     banklarda moliyaviy barqarorlik koʻrsatkichlari va ularning oʻziga xos
+xususiyatlarini tizimlashtirish.
+     banklarning moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy tajribalarini
+tadqiq etish.
+     bankning moliyaviy barqarorligini ta’minlashda bank kapitali tutgan roli va
+ahamiyatini tahlil qilish.
+     banklarning barqaror moliyalashtirish manbalaridan foydalanish va toʻlovga
+qobiliyatlikni ta’minlashni baholash.
+     bankning moliyaviy barqarorligini ta’minlashda likvidlik qoplash me’yori va
+likvid aktivlar tendensiyalari tahlili.
+     banklarda riskka tortilgan aktivlar va ularni boshqarishda kapitalning rolini
+baholash.
+     banklarning moliyaviy barqarorligini ta’minlashning ustuvor yoʻnalishlariga
+qaratilgan ilmiy xulosa va takliflar ishlab chiqish.
+     Tadqiqotning obyekti sifatida AT “Aloqabank” bankining moliyaviy faoliyati
+olingan.
+     Tadqiqotning predmeti AT “Aloqabank” bankining moliyaviy faoliyati
+vujudga keluvchi iqtisodiy munosabatlar hisoblanadi.
+     Tadqiqotning usullari. Dissertatsiyada umumlashtirish, soʻrovnoma,
+guruhlashtirish, abstrakt-mantiqiy fikrlash, linear regression, ARDL, VECM,
+induksiya va deduksiya, iqtisodiy-matematik modellashtirish singari usullardan
+foydalanilgan.
+     Tadqiqotning ilmiy yangiligi quydagilardan iborat:
+     muddatli depozitlarning 1-darajali asosiy kapitalga uzoq muddatda to‘g‘ri,
+qisqa muddatda esa teskari proporsional ta’sirini hisobga olish asosida bankning
+oylik moliyaviy barqarorligini ta’minlash hamda kapital yetarliligi va likvidlik
+o‘rtasidagi muvozanatni saqlashga qaratilgan taklif ishlab chiqilgan;
+     tijorat banklari aktiv va majburiyatlarni boshqarish mexanizmlarini
+takomillashtirishda kredit va lizing operatsiyalari leverej koeffitsiyentiga uzoq
+muddatda teskari ta’sir ko‘rsatishi empirik tahlillar asosida aniqlanib, bank
+moliyaviy ko‘rsatkichlarining qayta muvozanatga kelish darajasi bir oy muddatda
+72 foizga yetishi asoslangan;
+     bankning barqaror moliyalashtirish manbasiga qisqa muddatli davrda bank
+daromadlari va depozitlari ta’sir ko‘rsatmasligini ta’minlashga qaratilgan
+8
+mexanizmlarni joriy etish asosida likvidlik va moliyaviy barqarorlikka salbiy qisqa
+muddatli tebranishlarning oldini olish hamda ushbu manbaning uzoq, ya’ni 45–50
+kunlik davrda bosqichma-bosqich qayta tiklanishini ta’minlash taklif etilgan;
+      bankning barqaror moliyalashtirish hajmi qisqa muddatli davrda lkvidlikni
+qoplash koeffitsiyentini oshirishiga erishish orqali bankning ichki moliyaviy
+resurslarini qayta taqsimlash jarayonida daromad keltiradiga likvid aktivlarni oshirish
+taklif etilgan.
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      aktivlarning tarkibida foyda keltirmaydigan ulushni bosqichma-bosqich
+kamaytirib borishi orqali ularning kichik ulushida nolikvid aktivlarning hajmi
+ortishini oldini olish taklif etilgan.
+      Banklar moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy tajribalari
+oʻrganildi va mamlakatimiz sharoitida joriy etish boʻyicha takliflar ishlab chiqildi.
+      uzoq muddatli davrda barqaror moliyalashtirish zarur hajmining ogʻishi qayta
+muvozanatga kelishida 49,07 foiz darajada ekanligi asoslandi.
+      kredit va lizing operatsiyalari tezkor ravishda likvidlikni qoplash
+koeffitsiyentini oshirishi kreditlar qariyb yaqin vaqt ichida keladigan moliyaviy
+resurslarga tayanib moliyalashtirilayotganligini taxmin qilish mumkin.
+      Bank moliyaviy barqarorligini ta’minlashning ekotizimi ishlab chiqilgan.
+      Tadqiqot natijalarining ishonchliligi. Dissertasion tadqiqot olib borish
+jarayonida Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi, Oʻzbekiston
+Respublikasi Prezidenti huzuridagi davlat statistika agentligi va AT “Aloqabank”
+bankining rasmiy ma’lumotlari, shuningdek Xalqaro moliya institutlarining
+banklarning moliyaviy barqarorligiga doir boʻlgan rasmiy statistik ma’lumotlaridan
+foydalanilganligi, me’yoriy-huquqiy hujjatlarning mavzuga tegishli qismlari
+atroflicha koʻrib chiqilganligi bilan belgilanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati mamlakatimizda banklarning moliyaviy barqarorligini ta’minlashga
+qaratilgan ustuvor yoʻnalishlarni belgilash, bu borada moliyaviy barqarorlikni
+oshirish va bank tizimi barqarorligini metodologik asoslarini tadqiq etish va
+moliyaviy siyosatning rolini rivojlantirishga bagʻishlangan ilmiy tadqiqotlarni olib
+borishda keng foydalanish mumkinligi bilan belgilanadi.
+      Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy taklif va amaliy
+tavsiyalardan Oʻzbekistonda banklarning moliyaviy barqarorligini ta’minlashga
+qaratilgan ustuvorligi orqali bank tizimi barqarorligini oshirishga qaratilgan tizimni
+isloh etishga bagʻishlangan ilmiy konsepsiya, qonunosti hujjatlarni ishlab chiqish, oliy
+ta’lim muassasalarida «Bank ishi», «Pul-kredit asoslari» va «Monetar siyosat» singari
+fanlarning oʻquv dasturini ishlab chiqish va uning amaliy bazasini mustahkamlash
+mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining joriy qilinishi. banklarning moliyaviy barqarorligini
+ta’minlashga qaratilgan ustuvorliklarini takomillashtirish yoʻnalishlari boʻyicha
+olingan ilmiy natijalar asosida:
+      muddatli depozitlarning 1-darajali asosiy kapitalga uzoq muddatda to‘g‘ri,
+qisqa muddatda esa teskari proporsional ta’sirini hisobga olish asosida bankning
+                                                                                       9
+oylik moliyaviy barqarorligini ta’minlash hamda kapital yetarliligi va likvidlik
+o‘rtasidagi muvozanatni saqlashga qaratilgan taklifi AT Aloqabank bank faoliyatida
+qo‘llanilgan (AT Aloqabankning 2025-yil 31-oktabrdagi 25-04/5371-son
+ma’lumotnomasi). Natijada, bank muddatli depozitlari ulushi 2024-yilda oʻtgan
+2023-yil yakuniga nisbatan 1,5 barobarga oshishiga erishilgan;
+      tijorat banklari aktiv va majburiyatlarni boshqarish mexanizmlarini
+takomillashtirishda kredit va lizing operatsiyalari leverej koeffitsiyentiga uzoq
+muddatda teskari ta’sir ko‘rsatishi empirik tahlillar asosida aniqlanib, bank
+moliyaviy ko‘rsatkichlarining qayta muvozanatga kelish darajasi bir oy muddatda
+72 foizga yetishiga doir taklifi AT Aloqabank bank faoliyatida qo‘llanilgan (AT
+Aloqabankning 2025-yil 31-oktabrdagi 25-04/5371-son ma’lumotnomasi). Natijada,
+bank aktivlari 2024-yilda oʻtgan 2023-yil yakuni nisbatan 6,7 trln so’mga yoki
+150 foizga oshgan;
+      bankning barqaror moliyalashtirish manbasiga qisqa muddatli davrda bank
+daromadlari va depozitlari ta’sir ko‘rsatmasligini ta’minlashga qaratilgan
+mexanizmlarni joriy etish asosida likvidlik va moliyaviy barqarorlikka salbiy qisqa
+muddatli tebranishlarning oldini olish hamda ushbu manbaning uzoq, ya’ni 45–50
+kunlik davrda bosqichma-bosqich qayta tiklanishini ta’minlashga doir taklifi AT
+Aloqabank bank faoliyatida qo‘llanilgan (AT Aloqabankning 2025-yil 31-oktabrdagi
+25-04/5371-son ma’lumotnomasi). Natijada, bank sof barqaror moliyalashtirish
+ko’rsatkichi 2024-yilda oʻtgan 2023-yil yakuni nisbatan 3,8 foizga oshgan;
+      bankning barqaror moliyalashtirish hajmi qisqa muddatli davrda lkvidlikni
+qoplash koeffitsiyentini oshirishiga erishish orqali bankning ichki moliyaviy
+resurslarini qayta taqsimlash jarayonida daromad keltiradiga likvid aktivlarni oshirish
+taklifi AT Aloqabank bank faoliyatida qo‘llanilgan (AT Aloqabankning 2025-yil 31-
+oktabrdagi 25-04/5371-son ma’lumotnomasi). Natijada bank likvid aktivlari 2024-
+yilda oʻtgan 2023-yil yakuni nisbatan 6,4 foizga oshgan.
+      Tadqiqot natijalarining aprobatsiyasi. Ushbu tadqiqot natijalari
+4 ta, jumladan, 2 ta respublika va 2 ta xalqaro ilmiy-amaliy konferensiyalarda
+aprobatsiyada oʻtkazilgan.
+      Tadqiqot natijalarining e’lon qilinishi. Dissertatsiya mavzusi boʻyicha jami 9
+ta ilmiy ish, shu jumladan, Oʻzbekiston Respublikasi Oliy attestatsiya
+komissiyasining doktorlik dissertatsiyalari asosiy ilmiy natijalarini chop etish
+boʻyicha tavsiya etilgan ilmiy nashrlarda 5 ta ilmiy maqola, jumladan, 4 tasi
+respublika va 1 tasi xorijiy jurnallarda, ilmiy-amaliy konferensiyalarda 4 ta ma’ruza
+tezislari nashr etilgan.
+      Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya ishi kirish, uchta bob,
+xulosa, foydalanilgan adabiyotlar roʻyxati va ilovalardan tarkib topgan. Dissertatsiya
+hajmi 126 betni tashkil etadi.
+                    DISSERTASIYANING ASOSIY MAZMUNI
+     Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning oʻrganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+10
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi boʻyicha
+ma’lumotlar keltirilgan.
+      Dissertatsiyaning “Banklarda moliyaviy barqarorlikning nazariy asoslari
+va ilgʻor tajribalari” deb nomlangan birinchi bobida banklarda moliyaviy
+barqarorlik zaruratining vujudga kelishi va uning mohiyati, banklarda moliyaviy
+barqarorlik koʻrsatkichlari va ularning oʻziga xos xususiyatlari, banklarning
+moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy tajribalari tadqiq etilgan va
+ilmiy xulosalar ishlab chiqilgan.
+      Bizningcha, banklarning moliyaviy barqarorligiga ta’sir etuvchi omillarni
+aniqlash va tizimlashtirish orqali uni ta’minlashga qaratilgan islohotlarni amalga
+oshirish mumkin boʻladi. Bunda quyidagi jihatlarga e’tibor berish maqsadga
+muvofiq hisoblanadi:
+      Birinchidan, bank barqarorligini ta’minlashga xizmat qiladigan moliyaviy va
+nomoliyaviy koʻrsatkichlar tizimini shakllantirish.
+      Ikkinchidan, bank barqarorligini shakllantiradigan huquqiy-institutsional
+tizimning takomillashganligi va milliy manfaatlarning inobatga olinganligi kabilarni
+tizimlashtirish.
+      Uchinchidan, bank moliyaviy barqarorligii ta’minlashning makroprudensial va
+korporativ instirumentlarining oʻzaro muvofiqlashtirilganligi va integrasion
+xususiyat kasb etishi.
+      Toʻrtinchidan, tijorat banklarining moliyaviy barqarorligiga ta’sir etadigan
+ichki va tashqi omillarni makroiqtisodiy, mikroiqtisodiy jihatdan tartibga solishga
+qaratilgan amaliyotni rivojlantirish kabilarga ustuvorlik berish shular jumlasiga
+kiradi, deb oʻylaymiz.
+      Hozirgi kunda koʻplab mamlakatlarda banklarning moliyaviy barqarorligini
+ta’minlashda turli rakurslardan islohotlarni amalga oshirish muhim ahamiyat kasb
+etmoqda. Bu borada, quyidagi yoʻnalishlarni inobatga olish maqsadga muvofiq
+boʻlmoqda.
+      Birinchidan, an’anaviy va islomiy bank xizmatlarining uygʻunlashgan
+platformasini ishga tushirish asnosida banklarning moliyaviy xizmatlarini
+rivojlantirish.
+      Ikkinchidan, davlatning moliyaviy qoʻllab-quvvatlashi va moliyaviy siyosati
+ortidan institutsional transformatsiyada barqarorlikni ta’minlash.
+      Uchinchidan, geosiyosiy nobarqarorlik sharoitida valyuta va pul-kredit
+siyosatining bank tizimiga salbiy ta’sirini yumshatishga erishish.
+      Toʻrtinchidan, Bazel III standartlarining joriy etilishida huquqiy, iqtisodiy va
+institutsional islohotlarni uygʻunlashtirish.
+      Beshinchidan, kiber moliyaviy firibgarliklar urchigan paytda unga qarshi
+moliyaviy texnologiyalarni va aholi moliyaviy savodxonligini oshirishga qaratilgan
+chora-tadbirlarni amalga oshirish.
+      Tadqiqotimizni dastlabki qadami sifatida Malayziya tajribasini oʻrganishga
+e’tibor qaratamiz.
+      Umuman olganda, Malayziya bank tizimida moliyaviy barqarorlikni
+ta’minlashga qaratilgan tajribalardan quyidagilarni xulosa qilish mumkin:
+                                                                                       11
+      Birinchidan, ICAAP (Internal Capital Adequacy Assessment Process) metodi
+asosida har bir bankning risk profilini boshqarishdagi moliyaviy mustaqilligini
+oshirishga e’tibor berish.
+      Ikkinchidan, kapital buferi dinamik (Countercyclical Capital Buffer)ligini joriy
+etish. Bunda bank aksiyadorlari va boshqaruv organlari tomonidan risk appetiti
+oshib borishiga qarshi zaxira kapitalini shakllantirishni nazarda tutadi. Bunda, riskka
+tortilgan aktivlar oʻsishi 20 foizdan ortib borishi bilan dinamik buferni
+shakllantirishda kapital zaxirasi 1 foiz atrofida boʻlishini belgilash maqsadga
+muvofiq.
+      Uchinchidan, sof barqaror moliyalashtirish koeffitsiyenti va likvidlikni qoplash
+me’yori kabilar toʻgʻrisida shaffof ma’lumotlar bazasini shakllantirish. Ular
+toʻgʻrisidagi hisobotlarni keng jamoatchilikka ochiqlash borasidagi tadbirlarni
+rivojlantirish muhim hisoblanadi.
+      Tadqiqotlarimizni davom ettirgan holda Janubiy Koreya davlatining
+tajribalarini oʻrganishga e’tibor qaratamiz.
+      Bizningcha, Janubiy Koreyaning tajribalaridan kelib chiqib, quyidagi ayrim
+ilmiy xulosalarni shakllantirish mumkin:
+      Birinchidan, moliya xizmatlari bozorida bitta bankning ulushi oshib ketishini
+oldini olish orqali katta moliyaviy qulashni bartaraf etish.
+      Ikkinchidan, moliyaviy xizmatlar bozorida kichik oʻyinchilarga nisbatan milliy
+va xalqaro standartlar asosida qoʻllab-quvvatlovchi mexnazimlarni joriy etish.
+      Uchinchidan, kapital etarliligi va va likvidlik bilan bogʻliq jarayonlarni
+regulyator tomonidan monitoring qilib borish.
+      Toʻrtinchidan, kichik banklarga qoʻshimcha kapital yoki likvidlik buferlarni
+saqlab turishlari uchun huquqiy asoslar va moliyaviy imkoniyatlarni oshirish zarur,
+deb oʻylaymiz.
+      Turkiya davlatning tajribasi oʻziga xos xususiyatga ega ekanligini ta’kidlash
+lozim.
+      Turkiya tajribasidan kelib chiqib banklarning moliyaviy barqarorligini
+ta’minlashda quyidagi jihatlarga e’tibor berish maqsadga muvofiq hisoblanadi:
+      Birinchidan, institusional mustaqillik – barqarorlik asosiy omili ekanligini
+e’tiborga olish. Jumladan, moliyaviy barqarorlikni ta’minlashda Markaziy bank
+nazorati, hisobdorlik kabilarni joriy etilishiga ustuvorlik berish.
+      Ikkinchidan, banklarning xizmatlari bozorida raqobat va barqarorlik oʻrtasidagi
+bogʻliqlikni tartibga solish. Bunda, raqobatning oshishi riskning ortishiga olib
+kelmasligini ta’minlash muhim hisoblanadi. Shuningdek, katta banklarning
+monopol xususiyat kasb etib qolmasligiga e’tibor qaratish.
+      Uchinchidan, likvidlik bilan bogʻliq murakkabliklar va moliyaviy stress
+nazoratini boshqarishda aktivlarning likvidli ulushiga me’yorlarni joriy etish.
+      Toʻrtinchidan, makroiqtisodiy barqarorlikni ta’minlash orqali banklarning
+moliyaviy faoliyatiga salbiy ta’sir etishga qaratilgan holatlarni bartaraf qilish. Turli
+sanksion risklar natijasida milliy valyutaning qadrsizlanishini oldini olishga ham
+e’tibor berilish lozim boʻladi.
+
+12
+      Banklarning moliyaviy barqarorligini ta’minlashda xalqaro standartlarni
+inobatga olinishi muhim hisoblanadi. Bu borada, Evropa Ittifoqining qator
+davlatlarida etakchi tajribalarning mavjudligini koʻrish mumkin. Masalan, Polsha
+bank sektori EI doirasida bank tizimi mintaqaviy va xalqaro talablariga (Basel III,
+IFRS 9) moslashishda muvaffaqiyatli yuridik va institusional islohotlarni amalga
+oshirganligini kuzatish mumkin. Shu bilan birga, kichik va oʻrta darajadagi banklar
+uchun kapital etarliligini ta’minlash boʻyicha xususiy kapitalni jalb qilish
+strategiyasining joriy etilishi ayni muddaolardan biri hisoblanadi.
+      Umuman olganda, Polsha tajribasi asosida quyidagi ilmiy xulosalarni
+shakllantirishga muvaffaq boʻldik:
+      Birinchidan, bank tizimining moliyaviy barqarorligini ta’minlashda makro
+prudensial siyosatni muvofiqlashtiruvchi respublika komissiyasini tashkil etish.
+Uning vazifalari qatoriga ilmiy asoslangan islohotlarni joriy etishni kiritish.
+      Ikkinchidan, moliyaviy stresslarni oldindan aniqlashga qaratilgan
+makroiqtisodiy va bank tizimining koʻrsatkichlari integrasion tuzilmasi modelini
+ishlab chiqish va amaliyotga joriy etish.
+      Uchinchidan, Markaziy bank foiz siyosatida byudjet xarajatlarini hisobga olgan
+holda mustaqilligini saqlab qolishga erishish. Shuningdek, byudjet xarajatlari
+Markaziy bankning monetar siyosati bilan muvofiqlashgan holda amalga oshirishni
+tatbiq etish kabilarga e’tibor berish muhim hisoblanadi.
+      Umumiy xulosa qilib aytganda, banklarning moliyaviy barqarorligini
+ta’minlashda keng qamrovli yondashuv dolzarb hisoblanadi ekan. banklarning
+moliyaviy koʻrsatkichlari likvidlik, kapital etarliligi va risk appetitini tartibga
+solishga qaratilgan institutsional oʻzgarishlarni amalga oshirish maqsadga muvofiq
+hisoblanadi.
+      Dissertatsiya ishining ikkinchi bobi “Tijorat banklarida moliyaviy
+barqarorlikni ta’minlash tendensiyalari tahlili” deb nomlangan boʻlib, unda
+dissertatsiyaning tahliliy qismlari bayon etilgan. Jumladan, Bankning moliyaviy
+barqarorligini ta’minlashda bank kapitali tutgan roli va ahamiyati, banklarning
+barqaror moliyalashtirish manbalaridan foydalanish va toʻlovga qobiliyatlikni
+ta’minlashni baholash, bankning moliyaviy barqarorligini ta’minlashda likvidlik
+qoplash me’yori va likvid aktivlar tendensiyalari tahlili kabi jihatlar tadqiq etilgan.
+      Biz tadqiqotlarimiz davomida AT “Aloqabank”ning 2019 yil yanvar oyidan
+2025 yil aprel oyiga qadar boʻlgan moliyaviy koʻrsatkichlarini tahlil qilishni nazarda
+tutganmiz.
+      1-jadvaldagi ma’lumotlardan foydalanib, 1-darajali asosiy kapitalning tuzatish
+koeffitsiyenti L1=-1,0084 (100,8 foiz, p-value=0.000) ekanligi, mazkur
+koʻrsatkichning barqarorligi yuqori ekanligini koʻrsatib beradi. Bu esa, I darajali
+asosiy kapitalning uzoq muddatli muvozanat holatidan ogʻishlari tez va barqaror
+ravishda barqarorlashini koʻrsatib beradi.
+      Uzoq muddatli davrda quyidagi koʻrsatkichlar ta’sir etayotganligini koʻrish
+mumkin.
+
+
+                                                                                    13
+      Birinchidan, boshqa banklardagi mablagʻlar va hisoblangan soliq qiymatining
+ta’siri statistik ahamiyatga ega emasligini koʻrsatib berayotganligini koʻrish
+mumkin.
+      Ikkinchidan, kassadagi pullar va toʻlov hujjatlari kichik ahamiyatli, biroq ta’sir
+ega ekanligini ta’kidlash lozim.
+                                                                              1-jadval
+           1-darajali asosiy kapitalga ta’sir etuvchi omillar ARDL asosida
+              tuzatuvchi koeffitsiyent (ECM Term) muddatli modeli
+  Sample                     2019m5 - 2025m4             Number of obs          72
+  R-squared                  0.6832                      Adj R-squared          0.5911
+  Log likelihood             -1459.7328                  Root MSE               1.767e+08
+
+  D.Idarajakapital             Coefficient   Std. err.   t       P>t     [95% conf.   interval]
+  ADJ
+  Idarajakapital
+  L1.                          -1.008427     .1201517    -8.39   0.000   -1.249216    -.7676374
+                                              Long run
+  kassapul                     .6313085      .3518614 1.79       0.078   -.0738375    1.336455
+  boshqabankdanmabl            -.0860894     .095182   -0.90     0.370   -.2768385    .1046596
+  kreditvalizingoper           -.2128388     .0694131 -3.07      0.003   -.3519457    -.0737319
+  talabqildepozit              .3763231      .1395946 2.70       0.009   .0965693     .6560768
+  muddatdepozit                .3436149      .0501246 6.86       0.000   .2431629     .4440669
+  hisobsolik                   .2746419      1.612393 0.17       0.865   -2.956665    3.505949
+  taksimfoyda                  .764373       .1173825 6.51       0.000   .5291333     .9996127
+                                              Short run
+  kassapul - D1.               -.4767275     .3068909 -1.55      0.126   -1.091751    .1382956
+  boshqabankdanmabl
+  D1.                          .2264872      .1057452    2.14    0.037   .014569      .4384053
+  LD.                          .1818797      .0879737    2.07    0.043   .0055765     .3581829
+  kreditvalizingoper - D1.     .2099446      .1345575    1.56    0.124   -.0597146    .4796039
+  talabqildepozit - D1.        -.2805        .1543548    -1.82   0.075   -.589834     .0288339
+  muddatdepozit - D1.          -.3187141     .1011435    -3.15   0.003   -.5214101    -.1160181
+  taksimfoyda
+  D1.                          -.4272668     .2090856    -2.04   0.046   -.8462837    -.0082499
+  LD.                          .5740528      .1970974    2.91    0.005   .1790609     .9690448
+  _cons                        4.23e+08      1.52e+08    2.79    0.007   1.19e+08     7.27e+08
+
+      Uchinchidan, kredit va lizing operatsiyalari ta’siri ahamiyatli boʻlib, teskari
+ta’sirga qilayotganligini koʻrish mumkin. Talab qilib olinguncha depozitlar esa,
+toʻgʻri proporsional ta’sir etayotganligini qayd etish lozim.
+
+14
+      Toʻrtinchidan, muddatli depozitlar va taqsimlanmagan foyda statistik jihatdan
+yuqori ahamiyatli va toʻgʻri proporsional ta’sir etmoqda. Mazkur ikki koʻrsatkich 1-
+darajala iasosiy kapitalning barqarorligida uzoq muddatli rli yuqoriligini oʻkrsatib
+beradi.
+      Qisqa muddatli davrda quyidagi koʻrsatkichlar ta’sir etayotganligini koʻrish
+mumkin.
+      Birinchidan, kassadagi moliyaviy resurslar, kredit va lizing operatsiyalari
+ta’siri statistik ahamiyatga ega emasligini koʻrish mumkin.
+      Ikkinchidan, boshqa banklardagi moliyaviy resurslar birinchi farqi joriy
+davrida va birinchi farq lagida kichik ahamiyatlita’siri mavjudligini koʻrish mumkin.
+      Uchinchidan, muddatli depozit qisqa davrda teskari ta’sirga ega ekanligini qayd
+etish lozim.
+      Toʻrtinchidan, birinchi farq boʻyicha salbiy ta’sir boʻlsa, olgan holatlarda ijobiy
+ta’sirga ega ekanligini kuzatish mumkin.
+      Xulosa qilib aytganda, muddatli va taqsimlanmagan foyda judi qisqa davrda
+salbiy ta’sirga ega boʻlsada, uzoq muddatli doimiy ravishda ijobiy ta’sirga ega
+ekanligini qayd etish lozim.
+      Tadqiqotlarimizni davom ettirgan holda mazkur mustaqil oʻzgaruvchi
+koʻrsatkichlarning leverj koeffitsiyentiga boʻlgan ta’sirini aniqlashga harakat
+qilamiz. Leverej koeffitsiyentining staisonarligini inobatga olib, unga ta’sir etuvchi
+etishi mumkin boʻlgan omillarning stasionarlik testi aralash natijalarga ega ekanligi
+ARDL modeli va uning asosida ECM Term modelini qoʻllashga imkon berishini
+koʻrish mumkin. Ushbu tahlillar yordamida leverej koeffitsiyentiga ta’sir etadigan
+omillarning qisqa va uzoq muddatli davrdagi tendensiyalarini baholash mumkin
+boʻladi.
+      2-jadvalda keltirilgan tahlillar asosida leverej koeffitsiyentiga ta’sir etishi
+mumkin boʻlgan koʻrsatkichlar yuzasidan uzoq va qisqa muddatli davrlar uchun
+quyidagicha ilmiy xulosalar shakllantirildi:
+      Birinchidan, uzoq muddatli davr uchun:
+      Muddatli depozitlar, hisoblangan soliq majburiyati va taqsimlanmagan
+foydaning ta’siri statistik ahamiyatga ega emasligini koʻrish mumkin.
+      Kassadagi naqd pul va boshqa toʻlov hujjatlari, boshqa banklar va moliyaviy
+tashkilotlardan olinishi lozim boʻlgan mablagʻlar, kredit va lizing operatsiyalari
+boʻyicha moliyaviy resurslarning ta’siri statistik ahamiyatga ega ekanligini koʻrish
+mumkin. Ularning ortishi leverej koeffitsiyentini kamaytirishga olib kelishini
+koʻrish mumkin.
+      Talab qilib olinguncha saqlanadigan depozitlar esa ijobiy ta’sir etayotganligini
+qayd etish lozim.
+      Ikkinchidan, qisqa muddatli davrda ta’sir yuzasidan quyidagi ilmiy xulosalarni
+shakllantirdik:
+      Qisqa muddatda kassadagi moliyaviy resurslarning ortishi leverejni oshishiga
+olib keladi ekan.
+
+
+                                                                                      15
+    Boshqa banklar va moliyaviy tashkilotlardan olinishi lozim boʻlgan
+mablagʻlarning ta’siri bir oydan soʻng ijobiy ta’sirga ekan. Uning tezkor ta’siri
+mavjud emasligini qayd etish lozim.
+                                                                       2-jadval
+     Leverej koeffitsiyentiga ta’sir etuvchi omillar ARDL asosida tuzatuvchi
+                  koeffitsiyent (ECM Term) muddatli modeli
+     Sample               2019m5 - 2025m4              Number of obs              72
+     R-squared            0.6966                       Adj R-squared              0.5692
+     Log likelihood       -106.12948                   Root MSE                   1.2680
+
+
+     D.leverejkoef             Coefficient Std. err. t        P>t   [95% conf. interval]
+     leverejkoef - L1.         -.720601    .1134259 -6.35     0.000 -.9484236 -.4927784
+                                            Long run
+     kassapul                  -1.02e-08   3.68e-09 -2.77     0.008   -1.76e-08    -2.79e-09
+     boshqabankdanmabl         -5.77e-09   1.19e-09 -4.83     0.000   -8.16e-09    -3.37e-09
+     kreditvalizingoper        -1.89e-09   8.08e-10 -2.34     0.023   -3.52e-09    -2.70e-10
+     talabqildepozit           6.24e-09    1.96e-09 3.19      0.002   2.31e-09     1.02e-08
+     muddatdepozit             5.97e-10    5.16e-10 1.16      0.253   -4.40e-10    1.63e-09
+     hisobsolik                -1.24e-08   3.16e-08 -0.39     0.697   -7.59e-08    5.12e-08
+     taksimfoyda               -7.99e-10   1.39e-09 -0.58     0.568   -3.59e-09    1.99e-09
+                                           Short run
+     kassapul - D1.            6.09e-09    2.38e-09 2.56      0.014 1.31e-09       1.09e-08
+     boshqabankdanmabl
+     D1.                       8.49e-10    8.47e-10   1.00 0.321 -8.52e-10         2.55e-09
+     LD.                       2.06e-09    6.58e-10   3.12 0.003 7.33e-10          3.38e-09
+     kreditvalizingoper- D1.   -1.65e-09   1.02e-09   -1.61 0.113 -3.70e-09        4.03e-10
+     talabqildepozit
+     D1.                       -2.08e-09   1.69e-09   -1.23   0.226   -5.47e-09    1.32e-09
+     LD.                       -2.62e-09   1.37e-09   -1.92   0.061   -5.36e-09    1.27e-10
+     L2D.                      -1.05e-09   1.19e-09   -0.88   0.381   -3.44e-09    1.34e-09
+     L3D.                      -2.92e-09   1.07e-09   -2.72   0.009   -5.08e-09    -7.65e-10
+     hisobsolik
+     D1.                       -6.80e-09   1.83e-08   -0.37 0.712 -4.36e-08        3.00e-08
+     LD.                       -2.39e-08   1.22e-08   -1.95 0.056 -4.84e-08        6.78e-10
+     taksimfoyda
+     D1.                       3.38e-09    1.46e-09   2.32    0.025   4.53e-10     6.32e-09
+     LD.                       1.06e-09    1.45e-09   0.73    0.469   -1.86e-09    3.98e-09
+     L2D.                      4.00e-09    1.63e-09   2.46    0.017   7.36e-10     7.27e-09
+     _cons                     15.43962    2.89725    5.33    0.000   9.620321     21.25892
+
+
+16
+      Kredit va lizing operatsiyalari boʻyicha moliyaviy resurslar va talab qilib
+olinguncha saqlanadigan depozitlarning ta’siri statistik ahamiyatga ega emasligini
+koʻramiz. Bu esa ularning ta’siri yoʻqligini koʻrsatadi. Biroq uch oydan soʻng talab
+qilib olinguncha mablagʻlar ijobiy tasir qilayotganligini ta’kidlash lozim.
+                                                                            3-jadval
+          Barqaror moliyalashtirish mavjud summasi (ASF)ga ta’sir etuvchi
+                      omillar va ularning stasionarlik testi
+                                   D–F          5% kritik P-
+Oʻzgaruvchi                                                    Xulosa (I(0) yoki I(1))
+                                   statistika    qiymat qiymat
+Barqkaror          moliyalashtirish
+                                    –0.600      –2.910   0.8709   Stasionar emas (I(1))
+mavjud summasi (ASF)
+Talab        qilib     olinguncha
+                                    0.352       –2.910   0.9796   I(1) – stasionar emas
+saqlanadigan depozitlar
+Muddatli depozitlar                 1.963       –2.910   0.9986   I(1) – stasionar emas
+Taqsimlanmagan foyda                –2.205      –2.910   0.2044   I(1) – stasionar emas
+jami foizli daromadlar              –4.196      –2.910   0.0007   I(0) – stasionar
+jami foizsiz daromadlar             –3.568      –2.910   0.0064   I(0) – stasionar
+
+      Biz xorijiy tadqiqotlar va bank moliyaviy koʻrsatkichlarining shakllanishinini
+inobatga olib tahlillarni amalga oshiramiz. Dastlab ASFning shakllanishiga ta’sir
+etishi mumkin boʻlgan quyidagi koʻrsatkichlarni tanlab olamiz. Ularning
+stasionarligi yuzasidan quyidagi 3-jadvaldagi ma’lumotlarni koʻrishimiz mumkin.
+      Stata kompyuter dasturiy ta’minoti asosida tahlillarni amalga oshiramiz. 3-
+jadvalda tanlangan koʻrsatkichlar stasionarligi natijalari aralash xususiyat kasb
+etganligi bois ARDL asosida ECM (Error Correction Model)ni tuzamiz. Buning
+uchun Stata imkoniyatlaridan foydalangan holda tahlil va baholashlarimizni amalga
+oshiramiz.
+      4-jadvalda keltirilgan modelda R-squared 0.4264ga va Adj. R-squared esa
+0.3735ga teng ekanligi tanlangan koʻrsatkichlar Barkaror moliyalashtirish mavjud
+summasi mohiyatini tushuntirib berish darajasi oʻrtacha ekanligini ifodalab beradi.
+Shuningdek, Talab qilib olinguncha saqlanadigan depozitlar, Muddatli depozitlar va
+Taksimlanmagan foyda kabilarning ta’siri statistik ahamiyatliligi F-test: Prob > F =
+0.000 ekanligi umumiy modelning statistik ahamiyati ham yuqori aniqlikni
+koʻrsatishini aks ettiradi.
+      Qayd etish lozim, tanlangan koʻrsatkichlar qisqa muddatli davrda ta’sirga ega
+emasligi kuzatilmoqda. Bu esa, ushbu koʻrsatkichlarning uzoq muddatli davrdagi
+ta’sirlarini oʻrganib chiqish maqsadga muvofiqligini tahlil qilish lozimligini
+koʻrsatadi.
+      Shu nuqtai nazardan kelib chiqib, quyidagi ilmiy xulosalarni shakllantirishga
+muvaffaq boʻldik:
+      Birinchidan, muddatli depozitlar kuchli ta’sirga ega boʻlmoqda. Uning ta’siri
+toʻgʻri proporsional ekanligini koʻrish mumkin.
+
+                                                                                          17
+     Ikkinchidan, talab qilib olinguncha depozitlar qisman ijobiy ta’sir etishi
+mumkinligini koʻrish mumkin.
+     Uchinchidan, taqsimlanmagan foyda ham ortishi ijobiy ta’sir qilayotganligini
+koʻrish mumkin. Bu esa, taqsimlanmagan foydaning retensiya qilinishiga e’tibor
+qaratish orqali moliyalantirish manbalari barqarorligini taminlash muhim
+boʻlmoqda.
+                                                                        4-jadval
+      Barqaror moliyalashtirish mavjud summasi (ASF) ta’sir etuvchi omillar
+          ARDL asosida tuzatuvchi koeffitsiyent (ECM Term) modeli
+ Sample                2019m5 - 2025m4                Number of obs          72
+ R-squared             0.4264                         Adj R-squared          0.3735
+ Log likelihood        -1542.1904                     Root MSE               51.08e+08
+
+
+ Barkarmoliya-lashmavjud    Coefficient   Std. err.    t       P>t     [95% conf.   interval]
+ ADJ
+ Barkarmoliya-lashmavjud
+ L1.                        -.6046078     .0962113     -6.28   0.000   -.7967551    -.4124605
+                                          Long run
+ muddatdepozit              1.020704      .1126784     9.06    0.000   .7956696     1.245738
+ talabqildepozit            .8784323      .2888593     3.04    0.003   .3015404     1.455324
+ taksimfoyda                1.654255      .4182527     3.96    0.000   .8189466     2.489563
+ jamifoizdaromad            -.7053691     .5324512     -1.32   0.190   -1.768748    .3580094
+ jamifoizsizdaromad         1.37274       .8509976     1.61    0.112   -.3268193    3.0723
+                                          Short run
+ _cons                      3.92e+08      2.82e+08     1.39    0.170   -1.72e+08    9.55e+08
+
+      1-rasmda sof barqaror moliyalashtirish manbasi ECT impuls javob funksiyasi
+ta’siri modeli keltirilgan. Mazkur model sof barqaror moliyalashtirish hajmining
+oʻzgarish tendensiyasini ifodalashga harakat qiladi. Unda 4-jadvalda keltirilgan
+model va unga ta’sir etuvchi omillar orqali mazkur model ishlab chiqilgan. 1-rasmda
+ifodalangan koʻk chiziqda barqaror moliyalashtirish oʻzgaruvchisining qisqa
+muddatli oʻzgarishi koʻrsatilgan boʻlsa, ECT qizil chiziqda uzoq muddatli davrda
+muvozanatdan qanday ogʻishi mumkinligini ifodalab beradi. Umuman olganda,
+quyidagi ilmiy xulosalarni shakllantirishga muvaffaq boʻldik:
+      Birinchidan,     ECTning      tebranish    darajasi     2023-2024       yillarda
+keskinlashganligini qayd etish lozim. Bu esa, potensial ravishda stress yoki
+oʻzgarishlar ta’sirida barqaror moliyalashtirishning muvozanatga qaytish jarayoni
+murakkablashganligini aks ettiradi.
+      Ikkinchidan, barqaror moliyalashtirishning tendensiyasi ham shunga oʻxshash
+boʻlib, qisqa muddatli oʻzgarishlarda ta’sir kuchayganligini ifodalab beradi.
+
+
+18
+     2020-2022 yillarda esa, qisqa va uzoq muddatli oʻzgarishlar ta’siri
+moʻ’tadillashganini ifodalab beradi. Bizningcha, ushbu davrdagi pandemiyaning
+kengayishi banklarda riskka tortilgan aktivlarning kamayishi, biroq mavjudlari NPL
+ortganligi bilan ifodalanishi mumkin.
+
+
+                                                         ECM импулс-респонс графиги
+                                2.00e+09 4.00e+09
+               Ўзгариш (Δ) ва тузатиш
+   -4.00e+09-2.00e+09    0
+
+
+
+
+                                    2019m1          2020m1    2021m1    2022m1     2023m1   2024m1    2025m1
+                                                                         Вақт (ой)
+
+                                                             Δ Барқарор молиялаштириш           ECT
+
+
+    1-rasm. Sof barqaror moliyalashtirish manbasi ECM impuls javob
+funksiyasi ta’siri modeli
+
+      Sof barqaror moliyalashtirish manbasi depozitlar, taqsimlanmagan foyda va
+foizli daromadlar ta’sirida ogʻish farqini tuzatishi keyingi oyda 60,46 foiz hajmida
+qayta muvozanatga kelish imkonining mavjudligini qayd etish lozim.
+      depozitlar, taqsimlanmagan foyda va foizli daromadlar ta’sirida har oyda
+vujudga keladigan ogʻish farqining 60,46 foizini qayta muvozanatga keltirish orqali
+sof barqaror moliyalashtirish manbasini mustahkamlash asoslab berilgan.
+Boshqacha aytganda, 30 kunlik 100 foiz bo’lganda 18 kun 60,46 foizga ten bo’lishi
+umumiy ma’noda 45-50 kunlik muddatni aks ettiradi.
+      Biz tadqiqotlarimizni amalga oshirishda likvidlikni qoplash koeffitsiyenti bilan
+bogʻliq boʻlgan holatlarni koʻrib chiqishga e’tibor qaratamiz. Shu nuqtai nazardan,
+likvidni qoplash koeffitsiyentiga nisbatan ilmiy yondashuvlarni shakllantirishga
+harakat qilamiz.
+      Xalqaro Bazel III standartlariga muvofiq likvidlikni qoplash me’yori (LQM)
+(Liquidity Coverage Ratio, LCR) 2019 yil 1 yanvardan boshlab ushbu koʻrsatkichni
+100 foizdan kam boʻlmasligini tavsiya qildi. LQM yuqori likvidli aktivlarning 30
+kun ichida naqd pul chiqimining hajmiga nisbatini aniqlash orqali hisoblanadi. Bu
+esa, yuqori likvidli aktivlarning naqd pul oqimidan kattarok hajmni tashkil etishiga
+boʻlgan zaruratni koʻrsatib beradi.
+
+                                                                                                               19
+      Yu.Zaxarova va boshqalar birgalikda amalga oshirgan tadqiqotida likvidlik
+koʻrsatkichlari va toʻlovga qobillik koʻrsatkichlarini tahlil qilib oʻtadi. Ular
+tadqiqotlari davomida aktivlarni toʻrtta turga ajratib koʻrsatib berishadi.
+Shuningdek, passivlarni toʻlov muddatiga qarab tabaqalashtirishga urgʻu berishadi.
+Umuman olganda, moliyaviy koeffitsiyentlarning quyidagi shakllarini tahlil
+qilishadi: absolyut likvidlik koeffitsiyenti, mehnat koeffitsiyenti va operativ
+likvidlik koeffitsiyenti kabilarni keltirib oʻtishadi. Ular tomonidan aktiv va
+passivlarni boshqarish hisobi, balans likvidlik monitoringi, mezonlarni taqqoslashda
+foydalanish kabilarni xulosa qilib berishadi7.
+      N.Gorelaya va K.Kuznesova birgalikda amalga oshirgan ilmiy izlanishlarda
+Rossiya banklarining 2004-2016 yillardagi likvidlik buferini shakllantirishda ichki
+omillar bilan birga makroiqtisodiy muvozanatni ham tahlil qilishadi. Ular tomonidan
+asosiy omillarni tahlil qilish natijasida bankning hajmi kattaligi va resurslar
+barqarorligi likvidlik buferiga teskari ta’ssir qilishi, aktivlar rentabelligi oʻsishi va
+kredit nuchtai nazaridan xavfning ortishiga olib kelishi aniqlanadi. Shuningdek,
+makroiqtisodiy omillar – YaIM oʻsishi, moliyaviy bozorlar likvidligi, iqtisodiy
+inqirozlar likvidlik jarayonini belgilab berishga ta’sir qilishini asoslab berishadi8.
+      A.Rudenko tomonidan oʻtkazilgan tadqiqotda bankning likvidligini yangi
+talablar doirasida baholashda bank xodimlari oʻrtasida soʻrovnomalar oʻtkazadi.
+Amalga oshirilgan soʻrovnoma tahlillari asosida quyidagi ilmiy xulosalarni
+shakllantirib beradi. Katta banklar likvidlik mezonlariga tez moslashsa, kichik
+banklar koʻproq murakkabliklarga uchrashi aniqlangan. Shuningdek, yangi
+mezonlarni tushunishdagi qiyinchiliklarni keltirib oʻtgan va banklar ularni qabul
+qilishda engillaridan boshlaganligini qayd etib oʻtgan9.
+      Fikrimizcha, banklarning moliyaviy barqarorligini ta’minlashda likvidlik va u
+bilan bogʻliq boʻlgan boshqa koʻrsatkichlar muhim hisoblanadi ekan. Binobarin,
+bank likvidligini ta’minlashda bankning ichki omillari bilan makroiqtisodiy
+koʻrsatkichlarning ta’siri ham inobatga olinishi maqsadga muvofiq ekan. Shu
+boisdan, biz ham bankning likvidlik koʻrsatkichlari bilan bogʻliq boʻlgan omillar
+qatorida bankning moliyaviy natijalarini aks ettirgan ma’lumotlarni tahlil qilishni
+reja qilganmiz.
+      AT “Aloqabank” faoliyatida moliyaviy barqarorlikning navbatdagi
+koʻrsatkichlarini tahlil qilishga e’tibor qaratamiz. Unga koʻra, likvidlikni qoplash
+koeffitsiyenti va riskka tortilgan aktivlarning kapitalga nisbati kabi koʻrsatkichlarni
+qamrab olishga harakat qilamiz. Bunda 2019 yil yanvar oyidan 2025 yil may oyiga
+qadar boʻlgan oylar kesimidagi ma’lumotlarni Stata kompyuter dasturiy
+ta’minotidan foydalangan holda ekonometrik tahlilarni amalga oshiramiz.
+
+
+7
+   Захарова Ю. Н., Захаров Е. А. Анализ показателей ликвидности и платежеспособности//Проблемы,
+перспективы и направления инновационного развития науки. – 2016. – С. 130-133.
+8
+  Горелая Н. В., Кузнецова К. Ю. Детерминанты буфера ликвидности коммерческого банка //Корпоративные
+финансы. – 2017. – Т. 11. – №. 4. – С. 36-53.
+9
+  Руденко А. М. Оценка восприятия новых стандартов ликвидности российскими коммерческими банками
+//Вестник алтайской науки. – 2015. – №. 2. – С. 224-228.
+20
+      5-jadvalda likvidlikni qoplash koeffitsiyenti (LCR) tendensiyasiga ta’sir etishi
+mumkin boʻlgan omillarning Dickey-Fuller testi stasionarlik natijalari keltirilgan.
+Ushbu natijalarga asoslanib, biz ARDL modeli asosida uzoq va qisqa muddatli
+ta’sirlarni tizimlashtirishga harakat qilamiz.
+                                                                            5-jadval
+       Bankda likvidlikni qoplash koeffitsiyentiga ta’sir etishi mumkin boʻlgan
+                              omillari Dickey-Fuller testi
+                                                                        Stasionarlik (I(0)
+                    Oʻzgaruvchi                     ADF Z(t) p-value
+                                                                            yoki I(1))
+  Likvidlikni qoplash koeffitsiyenti, LCR            -4.041   0.0012 I(0) — stasionar
+  Kassadagi naqd pul va boshqa toʻlov hujjatlari     -1.777   0.3918 I(1) — stasionar emas
+  Boshqa banklar va moliyaviy tashkilotlardan
+                                                     -1.476   0.5453 I(1) — stasionar emas
+  olinishi lozim boʻlgan mablagʻlar, sof
+  Talab qilib olinguncha saqlanadigan depozitlar     0.409    0.9818 I(1) — stasionar emas
+  Muddatli depozitlar                                3.452    1.0000 I(1) — stasionar emas
+  Kredit va lizing operatsiyalari, sof               1.103    0.9952 I(1) — stasionar emas
+  Barqaror moliyalashtirish mavjud summasi, ASF      1.390    0.9971 I(1) — stasionar emas
+  Barqaror moliyalashtirish zarur summasi, RSF       -0.316   0.9232 I(1) — stasionar emas
+  Leverej koeffitsiyenti                             -2.051   0.2648 I(1) — stasionar emas
+  Riskka tortilgan aktivlarga nisbatan regulyativ
+                                                     -1.743   0.4090 I(1) — stasionar emas
+  kapital, Total CAR
+
+      6-jadval ma’lumotlarida likvidlikni qoplash koeffitsiyentining oʻzgarishlariga
+ta’sir etadigan koʻrsatkichlarni tahlil qilish imkonimiz boʻladi. Jumladan, likvidlikni
+qoplash koeffitsiyenti qayta muvozanatga qaytish imkoniyati 50,21 foiz ekanligini
+koʻrish mumkin. Ushbu koʻrsatkichning statistik ahamiyati ham yuqori ekanligini
+qoʻshimcha qilish lozim. Demak, likvidlikni qoplash koeffitsiyenti turli stress
+vaziyatlardan keyin navbatdagi oyda muvozanatini qayta tiklashi 50 foiz ekanligi
+ma’lum boʻlmoqda.
+      Shuningdek, likvidlikni qoplash koeffitsiyentiga tanlangan koʻrsatkichlarning
+uzoq muddatli davrda ta’sir etishi yuzasidan 6-jadval asosida quyidagi ilmiy
+xulosalarni shakllantirishga muvaffaq boʻldik:
+      Birinchidan, kassadagi moliyaviy resurslar, talab qilib olinguncha saqlanadigan
+depozitlar, muddatli depozitlar, kredit va lizing operatsiyalari va leverej
+koeffitsiyenti kabi koʻrsatkichlar statistik ahamiyatga ega boʻlgan ta’sirga ega
+emasligini qayd etish lozim.
+      Ikkinchidan, boshqa banklar va moliyaviy tashkilotlardan olinishi lozim
+boʻlgan mablagʻlarning ta’siri ijobiy va statistik ahamiyatga boʻlmoqda.
+      Uchinchidan, Barqaror moliyalashtirish zarur summasi (RSF)ning ham ta’siri
+ijobiy va statistik mavjud boʻlmoqda.
+      Xulosa qilib aytganda, uzoq muddatli davrda shakllantirilgan model
+koʻrsatkichlaridan faqat ikkita koʻrsatkich statistik ahamiyat bilan ta’sir etmoqda.
+
+                                                                                       21
+Jumladan, ulardan boshqa moliya institutlaridan olinishi lozim boʻlgan
+mablagʻlarning ta’siri kattaroq boʻlmoqda.
+                                                                      6-jadval
+        Bankda likvidlikni qoplash koeffitsiyentiga (LCR)ga ta’sir etuvchi
+     omillar ARDL asosida tuzatuvchi koeffitsiyent (ECM Term) modeli
+ Sample                2019m3 - 2025m4             Number of obs            74
+ R-squared             0.6952                      Adj R-squared            0.6292
+ Log likelihood        -351.06315                  Root MSE                 30.8772
+
+
+ D.LCR                 Coef.       Std. Err.   t       P>t     [95% Conf.     Interval]
+ ADJ
+ LCR
+ L1.                   -.5021699   .0984753    -5.10   0.000   -.6991498      -.3051899
+                                       Long run
+ kassapul              -6.49e-08   9.66e-08   -0.67    0.504   -2.58e-07      1.28e-07
+ boshqabankmablagʻ     5.62e-08    2.63e-08   2.14     0.037   3.60e-09       1.09e-07
+ talabqildepozit       -2.13e-08   4.19e-08   -0.51    0.614   -1.05e-07      6.26e-08
+ muddatdepozit         3.85e-09    1.69e-08   0.23     0.820   -2.99e-08      3.76e-08
+ kreditvaliz           -9.12e-09   2.30e-08    -0.40   0.693   -5.51e-08      3.68e-08
+ ASF                   -1.54e-08   1.38e-08    -1.12   0.269   -4.30e-08      1.22e-08
+ RSF                   1.66e-08    7.57e-09    2.19    0.033   1.43e-09       3.17e-08
+ leverejkoef           2.329506    5.483422    0.42    0.672   -8.63897       13.29798
+ TotalCAR              -9.933235   7.083056    -1.40   0.166   -24.10146      4.234986
+                                       Short run
+ LCR
+ LD.                   .0037104    .0018782    1.98    0.053   -.0000466      .0074674
+ kreditvaliz
+ D1.                   4.44e-08    2.17e-08    2.04    0.046   9.07e-10       8.79e-08
+ ASF
+ D1.                   1.34e-08    6.82e-09    1.96    0.055   -2.70e-10      2.70e-08
+ _cons                 155.0446    73.36003    2.11    0.039   8.302645       301.7865
+
+     Likvidlikni qoplash koeffitsiyentiga qisqa muddatli ta’sir etayotgan
+tendensiyalar yuzasidan quyidagi ilmiy xulosalarni shakllantirishga muvaffaq
+boʻldik:
+     Birinchidan, kredit va lizing operatsiyalari tezkor ravishda likvidlikni qoplash
+koeffitsiyentini oshirmoqda. Mazkur tendensiyaning vujudga kelishi kreditlar qariyb
+yaqin      vaqt      ichida     keladigan     moliyaviy       resurslarga     tayanib
+moliyalashtirilayotganligini taxmin qilish mumkin. Oʻz navbatida, ushbu jarayon
+likvidlikni oshirayotgan boʻlishi ehtimoldan holi emas.
+22
+     Ikkinchidan, barqaror moliyalashtirishning qisqa muddatdagi oʻsishi
+likvidlikni qoplash koeffitsiyentini kamaytirmoqda. Boshqacha aytganda, bank
+tomonidan qisqa davr ichida ichki moliyaviy resurslarni qayta taqsimlash jarayoni
+likvid aktivlarni pasaytirayotgan boʻlishi mumkin. Jumladan, uzoq muddatli
+moliyaviy resurslar jalb qilinganda uning ma’lum qismini likvidli aktivlarga emas,
+balki yuqori foydali, lekin past likvidli aktivlarga yoʻnaltirishga moyillik
+mavjudligini qayd etish lozim.
+                  ECM модели: LCR (2019m4 - 2025m4)
+   300
+   200
+   100
+   0
+   -100
+
+
+
+
+    2019m1     2020m1      2021m1     2022m1      2023m1     2024m1     2025m1
+                                          t
+
+                               Асл LCR              ECM прогноз
+
+
+      2-rasm. Likvidlikni qoplash koeffitsiyenti ECM impuls javob funksiyasi
+ta’siri modeli
+      2-rasm ma’lumotlarida, likvidlikni qoplash koeffitsiyentining turli iqtisodiy
+sharoitlar ta’sirida yuzaga keladigan ogʻishlarni yanada kengroq tushuntirish
+mumkin. 6-jadvalda ta’kidlab oʻtilganidek, likvidlikni qoplash koeffitsiyenti qayta
+muvozanatga kelishi 50 foizni tashkil etadi. Boshqacha aytganda, ushbu
+koʻrsatkichning qayta tiklanishi uchun 2 oylik muddat talab etilayotganligini
+ta’kidlash lozim.
+      Dissertatsiya ishining “Tijorat banklarida moliyaviy barqarorlikni
+ta’minlashda risklarni boshqarish va oqibatlari bartaraf etish yoʻnalishlari”
+deb nomlangan uchinchi bobida Banklarda riskka tortilgan aktivlar va ularni
+boshqarishda kapitalning rolini baholash, banklarning moliyaviy barqarorligini
+ta’minlashning ustuvor yoʻnalishlari qaratilgan ilmiy xulosalar va takliflar
+shakllantirilgan.
+      Bank faoliyatida moliyaviy barqarorlikni ta’minlashda risklarni samarali
+boshqarishga qaratilgan tadbirlarni amalga oshirish muhim hisoblanadi. Bank
+oʻzlarining foyda olish boʻyicha amalga oshiradigan moliyaviy operatsiyalarida
+risklarning vujudga kelishi ajralmas jarayonlardan biri hisoblanadi. Bankning tijorat
+maqsadi doimiy xususiyat kasb etishi uning riskka chambarchas bogʻliq ekanligini
+koʻplab adabiyotlardan koʻrish mumkin.
+
+                                                                                  23
+      R.Juelsrud va E.Vold tomonidan amalga oshirilgan tadqiqotda riskka tortilgan
+aktivlarning tartibga solinishi va risk oqibatlarini boshqarishga oid ilmiy xulosalarni
+shakllantirib beradi. Jumladan, ushbu sharoitda oʻz investisiya portfelini qanday
+boshqarishi mumkinligini modellashtirishadi. Ularning fikricha, kapitalga nisbatan
+talablar ortib borgani sari banklar riskligi kamroq aktivlarga moyilliklari oshib
+boradi. Natijada, iqtisodiyotni kreditlash faolligining pasayishiga vujudga kelishi
+mumkin. Makroprudensial darajada riskka tortiladigan aktivlarga nisbatan kapital
+talablarini oshirish banklarning e’tiborini likvid aktivlar va xavfsiz moliyaviy
+instirumentlarga e’tibor qaratishiga olib kelishi qayd etiladi10.
+      R.Masera tomonidan bankda kapitalga nisbatan risk yuki va leverej
+koeffitsiyentining bank boshqaruvini tashkil etishga ta’sirini aniqlashga e’tibor
+qaratadi. Leverej koeffitsiyenti biznes jarayonlarida iqtisodiy oʻsishni cheklovchi va
+aksincha inqirozli sharoitida ragʻbatlantiruvchi omil ekanligi asoslab beriladi.
+Makroprudensial siyosatning samarali ishlashi uchun doimiy monitoring, korporativ
+boshqaruv va stress testlar mexanizmlaridan foydalanib turish lozimligi qayd etib
+oʻtiladi11.
+      Fikrimizcha, riskka tortilgan aktivlarning boshqarilishida va ularning
+oqibatlarini bartaraf etishda kapitalni boshqarish dolzarblik kasb etmoqda. Mazkur
+tendensiyalarda qisqa va uzoq muddatli ta’sirlarning aniqlanishi va ularni baholash
+moliyaviy qarorlarni qabul qilishda asosiy rolni oʻynaydi. Biz tadqiqotlarimizni
+amalga oshirishda dastlab riskka tortilgan aktivlarga nisbatan regulyativ kapital
+koeffitsiyentiga ta’sir etuvchi quyidagi omillarni tahlil qilishga harakat qilamiz:
+                                                                               7-jadval
+       Riskka tortilgan aktivlarga nisbatan regulyativ kapital koeffitsiyentiga
+                ta’sir etuvchi omillar Dickey-fuller testi natijalari
+                                                        ADF 5% Critical  P-
+                   Koʻrsatkich                                                                    Xulosa
+                                                        Z(t)  Value     value
+Riskka tortilgan aktivlarga nisbatan regulyativ
+                                                 -1.793 -2.910                   0.3841 I(1), stasionar emas
+kapital
+I darajali asosiy kapital                       -1.191 -2.910                    0.6773 I(1), stasionar emas
+Jami II darajali kapital                              -1.747 -2.910              0.4071 I(1), stasionar emas
+Taksimlanmagan foyda                                  -2.205 -2.910              0.2044 I(1), stasionar emas
+Boshqa banklar va moliyaviy tashkilotlardan                                             I(1), deyarli
+                                                      -2.794 -2.910              0.0591
+olinishi lozim boʻlgan mablagʻlar, sof                                                  stasionar emas
+Kredit va lizing operatsiyalari, sof                  2.336     -2.910           0.9990 I(1), stasionar emas
+Talab qilib olinguncha saqlanadigan
+                                                      0.352     -2.910           0.9796 I(1), stasionar emas
+depozitlar
+Leverej koeffitsiyenti                                -2.910 -2.910              0.0442 I(0), stasionar
+Jami aktivlarga nisbatan likvidli aktivlar            -3.982 -2.910              0.0015 I(0), stasionar
+
+
+10
+   Juelsrud R. E., Wold E. G. Risk-weighted capital requirements and portfolio rebalancing //Journal of Financial
+Intermediation. – 2020. – Т. 41. – С. 100806.
+11
+   Masera R. Leverage and risk-weighted capital in banking regulation //Available at SSRN 3471119. – 2019.
+24
+     7-jadvaldan koʻrinib turibdiki, leverej koeffitsiyenti va jami aktivlarga nisbatan
+likvidli aktivlar stasionar boʻlmoqda. Qolgan koʻrsatkichlar stasionar emasligini
+qayd etish lozim. Ushbu testni amalga oshirish natijasida stasionarlik holati
+mavjudligi va mavjud emasligi ARDL (AutoRegressive Distributed Lag) modelini
+tanlashga imkon beradi.
+     ARDL asosida ECM modelini tuzib, tanlangan koeffitsiyentga ta’sir etuvchi
+omillarning ahamiyatini baholashga harakat qilamiz.
+     Umuman olganda, xalqaro Bazel qoʻmitasining talablariga koʻra, jami
+regulyativ kapitalning ulushi riskka tortilgan aktivlarga tarkibida 8 foizdan kam
+boʻlmasligi belgilab berilgan.
+     8-jadvalda regulyativ kapitalning aktivlar bilan bogʻliq risklarga nisbatan
+chidamliligiga ta’sir etuvchi omillarning tendensiyalari keltirilgan. Uzoq muddatli
+davrda ta’sir etuvchi omillar yuzasidan quyidagicha ilmiy xulosalarni
+shakllantirishimiz mumkin:
+                                                                              8-jadval
+        Riskka tortilgan aktivlarga nisbatan regulyativ kapital ulushiga ta’sir
+  etuvchi omillar ARDL asosida tuzatuvchi koeffitsiyent (ECM Term) modeli
+ Sample                 2019m2 - 2025m4                 Number of obs           75
+ R-squared              0.4320                          Adj R-squared           0.3329
+ Log likelihood         -69.908309                      Root MSE                0.6706
+
+
+ D.TotalCAR              Coef.       Std. Err.   t         P>t     [95% Conf.    Interval]
+                                      Adjustment
+ TotalCAR
+ L1.                     -.2393038   .0812347    -2.95     0.005   -.4016383     -.0769693
+                                        Long run
+ Idarajakapital          1.89e-09    1.49e-09   1.26       0.211   -1.10e-09     4.87e-09
+ IIdarajalikapital       8.68e-09    3.98e-09   2.18       0.033   7.34e-10      1.66e-08
+ taksimlanmaganfoyda     -2.56e-09   1.82e-09   -1.41      0.164   -6.18e-09     1.07e-09
+ boshqabankmablagʻ       -1.86e-09   1.59e-09   -1.17      0.248   -5.05e-09     1.33e-09
+ kreditvaliz             -2.43e-09   8.91e-10    -2.73     0.008   -4.21e-09     -6.50e-10
+ talabqildepozit         4.20e-09    2.28e-09    1.84      0.070   -3.50e-10     8.75e-09
+ leverejkoef             .2940324    .2095616    1.40      0.166   -.124743      .7128079
+ jamiaktivlikvaktiv      -.1122751   .136137     -0.82     0.413   -.3843233     .1597731
+                                       Short run
+ IIdarajalikapital
+ D1.                     2.23e-09    8.37e-10    2.66      0.010   5.53e-10      3.90e-09
+ kreditvaliz
+ D1.                     -9.73e-10   4.44e-10    -2.19     0.032   -1.86e-09     -8.51e-11
+ _cons                   5.349703    1.874177    2.85      0.006   1.604459      9.094948
+
+
+                                                                                         25
+     Birinchidan, kredit va lizing operatsiyalari statistik ahamiyatli ta’sirga ega.
+Uning ortishi risk darajasini oʻsishiga ta’sir etib, regulyativ kapitalga nisbatan
+moliyaviy bosimning oʻsishiga olib keladi ekan.
+     Ikkinchidan, 2-darajali kapitalning ta’siri statistik ahamiyatli boʻlib, ijobiy
+xususiyat kasb etmoqda. Xulosa qilganda, 2-darajali kapital ortishi uzoq muddatda
+toʻgʻri proporsional ta’sirga ega ekanligini koʻrish mumkin.
+     Uchinchidan, talab qilib olinguncha boʻlgan depozitlarning statistik ahamiyati
+yuqori emasligini koʻrish mumkin. Shuningdek, uning uzoq muddatli ta’siri kichik
+ahamiyat bilan ta’sirga ega boʻlmoqda.
+     Toʻrtinchidan, qolgan koʻrsatkichlarning ta’siri statistik ahamiyatga ega
+emasligi bois, ularning ta’siri borasida ilmiy xulosalar shakllantirilishi shart emas,
+deb oʻylaymiz.
+     Qisqa muddatli davrda ta’sir etayotgan va tezkorlikni ifoda etayotgan
+holatlardan kelib chiqib, quyidagi ilmiy xulosalarni shakllantirishga muvaffaq
+boʻldik:
+     Birinchidan, 2-darajali kapital riskka tortilgan aktivlarga nisbatan regulyativ
+kapital ulushiniga statistik jihatdan ahamiyatli va ijobiy ta’sir etmoqda. Bu esa,
+uning ta’siri regulyativ kapitalda yuqori ulushga ega emasligi bilan ifodalanishi
+mumkinligini ifodalab beradi.
+     Ikkinchidan, kredit va lizing operatsiyalari tezkort ta’siri statistik ahamiyatli,
+biroq salbiy ekanligini koʻrish mumkin. Bu esa, uning risklilik darajasini ortishiga
+sezilarli ta’sir etishini aks ettirib beradi.
+     Shuningdek, riskka tortilgan aktivlarga nisbatan regulyativ kapital ulushining
+qayta muvozanatga kelish davri oʻrtacha 4-5 oyni tashkil etayotganligini qayd etish
+lozim. Boshqacha aytganda, qayta tiklanish darajasi 23,9 foizni tashkil etishi bilan
+aks etayotganligini aytib oʻtish mumkin (8-jadvalga qarang).
+     Olib borilgan tadqiqotlar asosida banklarning moliyaviy barqarorligini
+ta’minlashga qaratilgan ekotizimni shakllantirishga harakat qildik. Buni biz
+quyidagi 3-rasmda yanada aniqroq tasavvur etishimiz mumkin:
+         Yuqori likvidli aktivlar                  Riskka tortilgan aktivlar
+         (HQLA)                                            (RWA)
+                                                                                     Sof barqaror
+                                     20 %gacha                                  moliyalashtirish zarurati
+                                                                                        (RSF)
+                                                 Kapital monandligi
+                                                   (Total CAR)
+                                                                                    Sof barqaror
+                                                                               moliyalashtirish manbai
+            Likvidlikni qoplash                                                        (ASF)
+            koeffitsiyenti (LCR)
+
+
+
+                                           Bank moliyaviy barqarorligi
+                            3-rasm. Bank moliyaviy barqarorligi ekotizimi12
+
+12
+     Tadqiqotlar asosida muallif tomonidan ishlab chiqilgan
+26
+     3-rasm ma’lumotlaridan koʻrinib turibdiki, banklarning moliyaviy
+barqarorligini ta’minlashda moliyaviy koeffitsiyentlarning roli muhim
+ahamiyatga ega boʻlmoqda. Xalqaro va milliy standartlar asosida banklarning
+faoliyati tartibga solinishi nazarda tutilgan. Jumladan, bank kapitali va uning
+etarliligi boʻyicha tavsiya etilgan me’yoriy koʻrsatkichlar, likvidlikni
+ta’minlashga qaratilgan mezonlarning miqdorlari kabilar shular sirasiga kiradi.
+Biroq, likvidli aktivlarning riskka tortilgan aktivlar tarkibidagi ulushi yuzasidan
+me’yoriy standartlar joriy etilmaganligi uni boshqarishga nisbatan
+yondashuvlarni turli tuman boʻlishiga olib kelmoqda. Koʻplab tadqiqotlarda
+ham likvidli aktivlarga nisbatan mezonlar aniq koʻrsatilmaganligi va unga
+me’yoriy raqamlarning tavsiya etilmaganligini koʻrish mumkin.
+     Xulosa qilib aytganda, banklarning moliyaviy barqarorligini ta’minlashda
+bank kapitali bazasi barqarorligi, likvidlikni qoplash darajasi, sof barqaror
+moliyalashtirish imkoniyati kabilar bilan bir qatorda likvidli aktivlarning ulushi
+ham muhim xususiyat kasb etadi. ekan. Shu boisdan, banklarning moliyaviy
+barqarorligi ham korporativ, ham makroiqtisodiy muvozanat rakursidan tartibga
+solinishi lozim boʻlgan kategoriya sifatida qaralishi maqsadga muvofiq
+hisoblanadi.
+
+                                      XULOSA
+
+      Olib borilgan tadqiqotlar asosida quyida xulosa va takliflarni
+shakllantirishga muvaffaq bo’ldik:
+      1. Muddatli depozitlarning 1-darajali asosiy kapitalga uzoq muddatda
+toʻgʻri va qisqa muddatda teskari proporsional ta’sirini inobatga olish orqali
+bankning oylik moliyaviy barqarorligini saqlab turish taklif etilgan.
+      2. Kredit va lizing operatsiyalari leverej koeffitsiyentiga uzoq muddatda
+teskari ta’sirini va qisqa muddatda ta’sir etmasligi asosida qayta muvozanatga
+kelishi ir oyda 72 foiz boʻlishiga erishishi asoslangan.
+      3. Barqaror moliyalashtirish manbasiga qisqa muddatli davrda bank
+daromadlari va depozitlari ta’sir qilmasligini ta’minlash orqali uzoq 45-50
+kunlik muddatda qayta tiklanishiga erishish asoslangan.
+      4. Barqaror moliyalashtirish hajmi qisqa muddatli davrda lkvidlikni
+qoplash koeffitsiyentini oshirishiga erishish orqali bankning ichki moliyaviy
+resurslarini qayta taqsimlash jarayonida likvid aktivlarni oshirish taklif etilgan.
+      5. Bankning kredit va lizing operatsiyalari hajmining ta’sirida riskka
+tortilgan aktivlarga nisbatan regulyativ kapital ulushi ortishiga yoʻl qoʻymaslik
+orqali bank kapitaliga moliyaviy bosimni kamaytirish taklif etilgan.
+      6. Aktivlarning tarkibida foyda keltirmaydigan ulushni bosqichma -
+bosqich kamaytirib borishi orqali ularning kichik ulushida nolikvid aktivlarning
+hajmi ortishini oldini olish taklif etilgan.
+
+
+                                                                                27
+      7. Banklar moliyaviy barqarorligini ta’minlashning ilgʻor xorijiy
+tajribalari oʻrganildi va mamlakatimiz sharoitida joriy etish boʻyicha takliflar
+ishlab chiqildi.
+      8. Uzoq muddatli davrda barqaror moliyalashtirish zarur hajmining
+ogʻishi qayta muvozanatga kelishida 49,07 foiz darajada ekanligi asoslandi.
+      9. Kredit va lizing operatsiyalari tezkor ravishda likvidlikni qoplash
+koeffitsiyentini oshirishi kreditlar qariyb yaqin vaqt ichida keladigan moliyaviy
+resurslarga tayanib moliyalashtirilayotganligini taxmin qilish mumkin.
+      10. Bank moliyaviy barqarorligini ta’minlashning ekotizimi ishlab
+chiqilgan.
+
+
+
+
+28
+  НАУЧНЫЙ СОВЕТ ПО ПРИСУЖДЕНИЮ УЧЁНЫХ
+     СТЕПЕНЕЙ № DSc.03/2025.27.12.I.30.01 ПРИ
+ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+ ТАШКЕНТСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ
+
+
+
+
+       ДЖАЛИЛОВ ГАЙРАТ КАХРАМАНОВИЧ
+
+
+
+  ПРИОРИТЕТНЫЕ НАПРАВЛЕНИЯ ОБЕСПЕЧЕНИЯ
+     ФИНАНСОВОЙ УСТОЙЧИВОСТИ БАНКОВ
+
+
+
+       08.00.07 - «Финансы, денежное обращение и кредит»
+
+
+
+
+                       АВТОРЕФЕРАТ
+ диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                   город Ташкент – 2026 год
+
+
+                                                               29
+30
+      ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+     Актуальность и необходимость темы диссертации. В исследованиях
+Базельского комитета можно увидеть, что были сформированы некоторые
+выводы относительно этого показателя. В рамках коэффициента покрытия
+ликвидности стандарта Базель III рекомендуется сохранять высоколиквидные
+активы в течение 30 дней стресса. В некоторых своих выводах он отмечает, что
+крупные банки должны поддерживать этот показатель до высоких процентов13.
+В отчете Международного валютного фонда о глобальной финансовой
+стабильности подчеркивается важность буфера ликвидных активов14.
+Например, можно увидеть особенности уровня финансового стресса в период
+колебаний основной ставки со стороны центрального регулятора Южной
+Кореи. В 2010-2019 годах можно наблюдать умеренность уровня финансового
+стресса. Однако, хотя финансовый стресс, который снова поднялся во время
+пандемии в 2020 году, снизился в 2021 году, финансовый стресс начал расти
+из-за геополитического кризиса в 2022 году. В частности, следует отметить,
+что основная ставка и уровень финансового стресса увеличились из-за
+глобальной нестабильности в 2022 году. В результате это привело к
+увеличению долговой финансовой нагрузки на национальную экономику15.
+     Ведущие мировые научные центры и высшие учебные заведения проводят
+научные исследования, направленные на обеспечение финансовой
+устойчивости банков. В частности, к ним относятся развитие финансовых услуг
+банков на основе запуска интегрированной платформы традиционных и
+исламских банковских услуг, обеспечение стабильности в институциональной
+трансформации за счет финансовой поддержки и финансовой политики
+государства, достижение смягчения негативного влияния валютной и денежно-
+кредитной политики на банковскую систему в условиях геополитической
+нестабильности и реализация мер, направленных на повышение финансовых
+технологий и финансовой грамотности населения во время киберфинансового
+мошенничества.
+     Ведущие мировые научные центры и высшие учебные заведения
+проводят научные исследования, направленные на обеспечение финансовой
+устойчивости банков. В частности, к ним относятся развитие финансовых
+услуг банков на основе запуска интегрированной платформы традиционных и
+исламских банковских услуг, обеспечение стабильности в институциональной
+трансформации за счет финансовой поддержки и финансовой политики
+государства, достижение смягчения негативного влияния валютной и
+денежно-кредитной политики на банковскую систему в условиях
+
+13
+     Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools January 2013.
+https://www.bis.org/publ/bcbs238.pdf?utm_source=chatgpt.com
+14
+   Global Financial Stability Report. https://www.imf.org/en/Publications/GFSR
+15
+   South     Korea     Central      Bank       Governor    Highlights     Economy  With    Inflation   focus
+https://www.bloomberg.com/news/articles/2023-01-18/bank-of-korea-s-rhee-highlights-economy-with-focus-on-
+inflation?embedded-checkout=true
+                                                                                                        31
+геополитической нестабильности и реализация мер, направленных на
+повышение финансовых технологий и финансовой грамотности населения во
+время киберфинансового мошенничества.
+     Данная диссертационная работа в определенной степени служит
+решению вышеуказанных проблем, а также задач, поставленных в Указах и
+Постановлениях Президента Республики Узбекистан. В частности, данное
+диссертационное исследование в определенной степени служит реализации
+задач, определенных в нормативных документах, относящихся к данной
+деятельности, в частности, в Указах Президента Республики Узбекистан
+№ УП-6079 от 5 октября 2020 года «Об утверждении Стратегии «Цифровой
+Узбекистан-2030» и мерах по ее эффективной реализации», №УП-5992
+от 12 мая 2020 года «О Стратегии реформирования банковской системы
+Республики Узбекистан на 2020-2025 годы», Постановлении Президента
+Республики Узбекистан № ПП-3620 от 23 марта 2018 года «О дополнительных
+мерах по повышению доступности банковских услуг», №УП-5544 от
+21 сентября 2018 года «Об утверждении Стратегии инновационного развития
+Республики Узбекистан на 2019-2021 годы» и Постановлении Правления
+Центрального банка Республики Узбекистан № 14/3 от 13 июня 2015 года «Об
+утверждении Положения о требованиях к адекватности капитала
+коммерческих банков» (зарегистрировано Министерством юстиции
+Республики Узбекистан 6 июля 2015 года за No 2693).
+     Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетными направлениями развития науки и
+технологий республики I. «Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+     Степень изученности проблемы. Можно наблюдать ряд научных
+подходов к финансовой устойчивости и уровню доходности банков.
+В частности, в англоязычных исследованиях M.Aktaş, M.Alhadab, J.Barth,
+R.Diaconu, Y.Görmez, J.Ihrig, R.Juelsrud, J.Karr, M.Kaur, R.Masera, D.Miles,
+C.Moussu, N.Nizar, P.Ozili, M.Petersen, A.Sidhu, W.Wagner16.
+
+16
+  Aktaş M. Stability of the participation banking sector against the economic crisis in Turkey //International Journal
+of Economics and Financial Issues. – 2013. – Т. 3. – №. 1. – С. 180-190.; Alhadab M. M. et al. Earnings management
+and banks performance: Evidence from Europe //International Journal of Academic Research in Accounting, Finance
+and Management Sciences. – 2017. – Т. 7. – №. 4. – С. 134-145.; Barth J. R., Miller S. M. Benefits and costs of a
+higher bank “leverage ratio” //Journal of Financial Stability. – 2018. – Т. 38. – С. 37-52.; Diaconu R. I., Oanea D. C.
+The main determinants of bank's stability. Evidence from Romanian banking sector //Procedia Economics and
+Finance. – 2014. – Т. 16. – С. 329-335.; Görmez Y., Yiğit S. The economic and financial stability in Turkey: A
+historical perspective //Economic and financial stability in SE Europe in a historical and comparative perspective,
+SEEMHN and NBS. – 2009. – С. 283-313.; Ihrig J. E., Vojtech C. M., Weinbach G. C. How have banks been
+managing the composition of high-quality liquid assets? //Available at SSRN 3494163. – 2019.; Juelsrud R. E., Wold
+E. G. Risk-weighted capital requirements and portfolio rebalancing //Journal of Financial Intermediation. – 2020. –
+Т. 41. – С. 100806.; Karr J. Performance Measurement in Banking: Beyond ROE //Journal of Performance
+Management. – 2005. – Т. 18. – №. 3.; Kaur M., Kaur M. Determinants of banking stability in India //The Bottom
+Line. – 2025. – Т. 38. – №. 1. – С. 49-70.; Masera R. Leverage and risk-weighted capital in banking regulation
+//Available at SSRN 3471119. – 2019.; Miles D., Yang J., Marcheggiano G. Optimal bank capital //The Economic
+32
+    В исследованиях, проведенных на русском языке, выявлена и оценена
+специфичность таких показателей, как финансовая устойчивость банков и
+достаточность капитала, проблемы ликвидности. В частности, к ним относятся
+научные работы Н. Горелая, Э. Завьяловой, Ю. Захаровой, Л. Зудиной,
+С. Ильиной, А. Руденко17.
+    В Узбекистане проведен ряд научных исследований по особенностям
+приоритетных направлений, направленных на обеспечение финансовой
+устойчивости банков. В них анализируются различные направления и их
+взаимосвязи,    специфические     аспекты.    А.Абдуллаев,     А.Ахмедов,
+Ш.Бахриддинов, Б.Бердияров, Р.Бозоров, Н.Жумаев, Ш.Ибодуллаев,
+Б.Избосаров, Б.Касимов, Л.Мирпулатова, М.Муминова, Л.Мурадова,
+Н.Олимжанова, Х.Рахматов, О.Сатторов, Н.Шарипова18 провели исследования
+
+
+Journal. – 2013. – Т. 123. – №. 567. – С. 1-37.; Moussu C., Petit-Romec A. ROE in banks: Performance or risk
+measure? Evidence from financial crises //Finance. – 2017. – Т. 38. – №. 2. – С. 95-133.; Nizar N., Karim Z. A. The
+relationship between household credit and banking stability in Malaysia: Panel evidence //Gadjah Mada International
+Journal of Business. – 2021. – Т. 23. – №. 2. – С. 155-172.; Ozili P. K. Banking stability determinants in Africa
+//International Journal of Managerial Finance. – 2018. – Т. 14. – №. 4. – С. 462-483.; Petersen M. A., Schoeman I.
+Modeling of banking profit via return-on-assets and return-on-equity //Proceedings of the World Congress on
+Engineering. – 2008. – Т. 2. – №. 1. – С. 12-37.; Sidhu A. V. et al. Net stable funding ratio (NSFR) and bank
+performance: a study of the Indian Banks //Journal of Risk and Financial Management. – 2022. – Т. 15. – №. 11. – С.
+527.; Wagner W. The liquidity of bank assets and banking stability //Journal of Banking & Finance. – 2007. – Т. 31.
+– №. 1. – С. 121-139.
+17
+   Горелая Н. В., Кузнецова К. Ю. Детерминанты буфера ликвидности коммерческого банка //Корпоративные
+финансы. – 2017. – Т. 11. – №. 4. – С. 36-53.; Завьялова Е. Н. Факторы, влияющие на ликвидность
+коммерческого банка //Экономика и управление в XXI веке: тенденции развития. – 2015. – №. 25. – С. 173-
+178.; Захарова Ю. Н., Захаров Е. А. Анализ показателей ликвидности и платежеспособности//Проблемы,
+перспективы и направления инновационного развития науки. – 2016. – С. 130-133.; Зудина Л. В., Даниловских
+Т. Е. Анализ ликвидности и доходности коммерческого банка как основа оценки качества его активов
+//Международный журнал прикладных и фундаментальных исследований. – 2015. – №. 7-2. – С. 289-292.;
+Ильина С. И., Писарев В. А. Факторы, влияющие на ликвидность коммерческого банка //Всероссийская
+научной конференции молодых исследователей» Экономика сегодня: современное состояние и перспективы
+развития»(Вектор-2019). – 2019. – С. 142-145.; Руденко А. М. Оценка восприятия новых стандартов
+ликвидности российскими коммерческими банками //Вестник алтайской науки. – 2015. – №. 2. – С. 224-228.
+18
+   Abdullaev A.Ya. Tijorat banklarining likvidlik darajasini oshirish metodologiyasini takomillashtirish: i.f.d. …
+avtoreferati. – T.: TDIU, 2018. – 74 bet.; Axmedov A.S. Tijorat banklari aktivlarini sekyuritizasiyalash amaliѐtini
+rivojlantirish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2020. – 56 bet.; Baxriddinov Sh. Tijorat banklarida
+aktivlarni samarali boshqarish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TMI, 2022. – 57 bet.; Berdiyarov B.T.
+Oʻzbekiston Respublikasi tijorat banklarining likvidliligi va toʻlov qobiliyatini ta'minlash masalalari: i.f.d. …
+avtoreferati. – T.: O‘zR. BMA, 2020. – 74 bet.; Bozorov R.X. Tijorat banklari moliyaviy barqarorligini ta'minlashni
+takomillashtirish: i.f.b.f.d. ... avtoreferati. – T.: OʻzR. BMA, 2020. – 52 bet.; Ibodullaev Sh.Т. Passivlarning
+barqarorligini ta'minlash tijorat banklarining raqobatbardoshligini ta'minlashning zaruriy sharti sifatida // Iqtisodiy
+taraqqiyot va tahlil. – 2024. – Т. 2. – №. 9. – С. 268-276.; Izbosarov B.B. Raqamli iqtisodiyot sharoitida tijorat banklari
+likvidligini tartibga solish: i.f.b.f.d. … avtoreferati. – T.: TMI, 2019. – 58 bet.; Kasimov B. U. Tijorat banklarining
+moliyaviy barqarorligini oshirish yoʻllari //Theory and analytical aspects of recent research. – 2025. – Т. 3. – №. 33.
+– С. 264-269.; Mirpulatova L.M. Tijorat banklari faoliyati samaradorligini oshirishda raqamli texnologiyalardan
+foydalanish yo‘llari: i.f.b.f.d. … avtoreferati. – T.: O‘zR. BMA, 2025. – 65 bet.; Moʻminova M.B. Tijorat banklari
+aktiv va passiv operasiyalarini innovasion innovasion boshqarish metodologiyasini takomillashtirish: i.f.d. ...
+avtoreferati. – T.: TDIU, 2022. – 75 bet.; Muradova L.F. Oʻzbekiston iqtisodiyotini modernizasiyalash sharoitida
+tijorat banklari aktivlari daromadliligini oshirish yoʻllari: i.f.b.f.d. ... avtoreferati. – T.: TDIU, 2018. – 57 bet.;
+Olimjanova N.A. Tijorat banklari kapitalida davlat ulushini kamaytirish yo‘llari: i.f.b.f.d. … avtoreferati. – T.: O‘zR.
+BMA, 2024. – 53 bet.; Rahmatov H.Oʻ. Iqtisodiyotni diversifikasiyalash sharoitida tijorat bank aktivlari
+samaradorligini oshirish masalalari: i.f.d. ... avtoreferati. – T.: OʻzR. BMA, 2020. – 66 bet.; Sattorov O.B. Oʻzbekiston
+Respublikasi bank tizimi barqarorligini ta'minlash metodologiyasini takomillashtirish: i.f.d. ... avtoreferati. – T.: TMI,
+2018. – 67 bet.; Sharipova N.H. Banklarning moliyaviy barqarorligini mustahkamlashda Bazel talablarining bajarilishi
+                                                                                                                       33
+по обеспечению достаточности капитала, ликвидности и финансовой
+устойчивости в деятельности банков. Тем не менее, недостаточность или
+отсутствие целостных научных работ, направленных на оценку категорий
+капитала и ликвидности в обеспечении финансовой устойчивости, показывает
+актуальность проведения исследований в рамках выбранной нами темы.
+    Связь диссертационного исследования с планами научно-
+исследовательских работ высшего образовательного учреждения, где
+выполнена диссертация. Диссертационное исследование выполнено в рамках
+плана научно-исследовательских работ Ташкентского международного
+университета.
+    Целью исследования является разработка приоритетных направлений,
+направленных на обеспечение финансовой устойчивости банков в Узбекистане.
+    Задачи исследования:
+    изучение возникновения и сущности необходимости финансовой
+устойчивости в банках.
+    систематизация показателей финансовой устойчивости в банках и их
+особенностей.
+    исследование передового зарубежного опыта обеспечения финансовой
+устойчивости банков.
+    анализ роли и значения банковского капитала в обеспечении финансовой
+устойчивости банка.
+    оценка использования устойчивых источников финансирования и
+обеспечения платежеспособности банков.
+    анализ нормы покрытия ликвидности и тенденций ликвидных активов в
+обеспечении финансовой устойчивости банка.
+    оценка рискованных активов в банках и роли капитала в их управлении.
+    разработка научных выводов и предложений, направленных на
+приоритетные направления обеспечения финансовой устойчивости банков.
+    Объектом исследования является финансовая деятельность АК
+«Алокабанк».
+    Предметом исследования являются экономические отношения,
+возникающие в финансовой деятельности АК «Алокабанк».
+    Методы исследования. В диссертации использованы такие методы, как
+обобщение, анкетирование, группировка, абстрактно-логическое мышление,
+линейная регрессия, ARDL, VECM, индукция и дедукция, экономико-
+математическое моделирование.
+    Научная новизна исследования заключается в следующем:
+    разработано предложение, направленное на обеспечение месячной
+финансовой устойчивости банка и поддержание баланса между достаточностью
+капитала и ликвидностью на основе учета прямо пропорционального влияния
+срочных депозитов на основной капитал 1-го уровня в долгосрочной
+
+//Iqtisodiy taraqqiyot va tahlil. – 2024. – Т. 2. – №. 4. – С. 631-636.; Ubaeva Sh.L. Tijorat banklari barqarorligini
+samarali boshqarish mexanizmini takomillashtirish: i.f.b.f.d. … avtoreferati. – T.: TDIU, 2018. – 53 bet.
+34
+перспективе и обратно пропорционального влияния в краткосрочной
+перспективе;
+     на основе эмпирического анализа выявлено, что кредитные и лизинговые
+операции оказывают обратное влияние на коэффициент левериджа в
+долгосрочной перспективе при совершенствовании механизмов управления
+активами и обязательствами коммерческих банков, обосновано, что уровень
+восстановления финансовых показателей банка в течение месяца достигнет 72
+процентов;
+     предложено предотвратить негативные краткосрочные колебания
+ликвидности и финансовой стабильности на основе внедрения механизмов,
+направленных на обеспечение того, чтобы доходы и депозиты банка не влияли
+на стабильный источник финансирования банка в краткосрочной перспективе,
+а также обеспечить постепенное восстановление этого источника в
+долгосрочной перспективе, то есть в течение 45-50 дней;
+     предлагается увеличить ликвидные активы, приносящие доход в процессе
+перераспределения внутренних финансовых ресурсов банка, путем достижения
+увеличения коэффициента покрытия ликвидности в краткосрочной
+перспективе за счет стабильного объема финансирования банка.
+     Практические результаты исследования заключается в следующем:
+     предлагается предотвратить увеличение объема неликвидных активов на
+их небольшой доле путем постепенного снижения доли нерентабельных
+активов.
+     изучен передовой зарубежный опыт обеспечения финансовой
+устойчивости банков и разработаны предложения по внедрению в условиях
+нашей страны.
+     обосновано, что отклонение необходимого объема стабильного
+финансирования в долгосрочном периоде при возвращении к равновесию
+составляет 49,07 процента.
+     можно предположить, что кредитные и лизинговые операции быстро
+увеличивают коэффициент покрытия ликвидности, и кредиты финансируются,
+опираясь на финансовые ресурсы, которые поступят в ближайшее время.
+     разработана экосистема обеспечения финансовой устойчивости банка.
+     Достоверность результатов исследования. В процессе проведения
+диссертационного исследования использованы официальные данные
+Министерства экономики и финансов Республики Узбекистан, Агентства
+государственной статистики при Президенте Республики Узбекистан и АК
+«Алокабанк», а также официальные статистические данные международных
+финансовых институтов по финансовой устойчивости банков, всесторонне
+рассмотрены соответствующие части нормативно-правовых документов.
+     Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования определяется тем, что они могут
+быть широко использованы при определении приоритетных направлений,
+направленных на обеспечение финансовой устойчивости банков в нашей
+стране, при проведении научных исследований, посвященных повышению
+                                                                         35
+финансовой устойчивости и исследованию методологических основ
+устойчивости банковской системы и развитию роли финансовой политики.
+     Практическая значимость результатов исследования объясняется тем, что
+разработанные научные предложения и практические рекомендации могут
+быть использованы для разработки научной концепции, посвященной
+реформированию системы, направленной на повышение устойчивости
+банковской системы в Узбекистане за счет приоритета обеспечения финансовой
+устойчивости банков, разработки подзаконных актов, разработки учебной
+программы и укрепления практической базы таких предметов, как «Банковское
+дело», «Денежно-кредитные основы» и «Монетарная политика» в высших
+учебных заведениях.
+     Внедрение результатов исследования: на основе полученных научных
+результатов по направлениям совершенствования приоритетов, направленных
+на обеспечение финансовой устойчивости банков:
+     предложение, направленное на обеспечение ежемесячной финансовой
+стабильности банка и поддержание баланса между достаточностью капитала и
+ликвидностью на основе учета прямо пропорционального влияния срочных
+депозитов на основной капитал 1-го уровня в долгосрочной перспективе и
+обратно пропорционального влияния в краткосрочной перспективе, было
+использовано в деятельности АК «Алокабанк» (справка АК «Алокабанк» No 25-
+04/5371 от 31 октября 2025 г.). В результате доля срочных депозитов банка
+увеличилась в 1,5 раза в 2024 году по сравнению с концом 2023 года.
+     на основе эмпирического анализа было выявлено, что кредитные и
+лизинговые операции оказывают обратное влияние на коэффициент левериджа
+в долгосрочной перспективе при совершенствовании механизмов управления
+активами и обязательствами коммерческих банков, и предложение о том, что
+уровень восстановления финансовых показателей банка в течение месяца
+достигнет 72 процентов, было использовано в банковской деятельности AT
+Aloqabank (справка AT Aloqabank No 25-04/5371 от 31 октября 2025 г.). В
+результате, активы банка в 2024 году увеличились на 6,7 трлн сумов или 150%
+по сравнению с концом 2023 года;
+     Предложение по предотвращению негативных краткосрочных колебаний
+ликвидности и финансовой стабильности на основе внедрения механизмов,
+направленных на обеспечение того, чтобы доходы и депозиты банка не влияли
+на стабильный источник финансирования банка в краткосрочной перспективе,
+а также обеспечение постепенного восстановления этого источника в
+долгосрочной перспективе, то есть в течение 45-50 дней, было использовано в
+деятельности АК «Алокабанк» (справка АК «Алокабанк» No 25-04/5371 от 31
+октября 2025 г.). В результате показатель чистого устойчивого
+финансирования банка в 2024 году увеличился на 3,8% по сравнению с
+итогами 2023 года;
+     Предложение по увеличению ликвидных активов, приносящих доход в
+процессе перераспределения внутренних финансовых ресурсов банка, путем
+достижения увеличения коэффициента покрытия ликвидности в
+36
+краткосрочной перспективе за счет стабильного объема финансирования
+банка, было использовано в деятельности АК «Алокабанк» (справка АК
+«Алокабанк» No 25-04/5371 от 31 октября 2025 г.). В результате ликвидные
+активы банка в 2024 году увеличились на 6,4 процента по сравнению с итогами
+2023 года.
+     Апробация      результатов    исследования.      Результаты    данного
+исследования были апробированы на 4, в том числе 2 республиканских и 2
+международных научно-практических конференциях.
+     Публикация результатов исследования. Всего по теме диссертации
+опубликовано 9 научных работ, в том числе 5 научных статей в научных
+изданиях, рекомендованных Высшей аттестационной комиссией Республики
+Узбекистан для публикации основных научных результатов докторских
+диссертаций, в том числе 4 в республиканских и 1 в зарубежных журналах, 4
+тезиса докладов на научно-практических конференциях.
+     Структура и объем диссертации. Диссертация состоит из введения, трех
+глав, заключения, списка литературы и приложений. Объем диссертации
+составляет 126 страниц.
+
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во    введении     диссертации     обоснованы    актуальность    и
+востребованность темы исследования, степень изученности проблемы, цель,
+задачи, объект и предмет исследования, научная новизна и практические
+результаты, достоверность и внедрение результатов исследования,
+приведены сведения о структуре и объеме диссертации.
+     В первой главе диссертации, озаглавленной «Теоретические основы и
+передовой опыт финансовой устойчивости в банках», исследованы
+возникновение необходимости финансовой устойчивости в банках и ее
+сущность, показатели финансовой устойчивости в банках и их особенности,
+передовой зарубежный опыт обеспечения финансовой устойчивости банков
+и разработаны научные выводы.
+     По нашему мнению, путем выявления и систематизации факторов,
+влияющих на финансовую устойчивость банков, можно будет осуществить
+реформы, направленные на ее обеспечение. При этом целесообразно
+обратить внимание на следующие аспекты:
+     Во-первых, формирование системы финансовых и нефинансовых
+показателей, служащих обеспечению устойчивости банка.
+     Во-вторых, систематизация таких факторов, как совершенствование
+правовой и институциональной системы, формирующей устойчивость
+банка, и учет национальных интересов.
+     В-третьих, взаимная координация и интеграция макропруденциальных
+и корпоративных инструментов обеспечения финансовой устойчивости
+банка.
+                                                                        37
+    В-четвертых, мы считаем, что к ним относится приоритет развития
+практики, направленной на макроэкономическое и микроэкономическое
+регулирование внутренних и внешних факторов, влияющих на финансовую
+устойчивость коммерческих банков.
+    В настоящее время во многих странах важное значение в обеспечении
+финансовой устойчивости банков имеет проведение реформ с разных
+ракурсов. В связи с этим целесообразно учитывать следующие направления.
+    Во-первых, развитие финансовых услуг банков на основе запуска
+интегрированной платформы традиционных и исламских банковских услуг.
+    Во-вторых, обеспечение стабильности в институциональной
+трансформации за счет финансовой поддержки и финансовой политики
+государства.
+    В-третьих, добиться смягчения негативного воздействия валютной и
+денежно-кредитной политики на банковскую систему в условиях
+геополитической нестабильности.
+    В-четвертых,       гармонизация     правовых,    экономических    и
+институциональных реформ при внедрении стандартов Базеля III.
+    В-пятых, в период роста киберфинансовых мошенничеств реализация
+мер, направленных на повышение финансовых технологий и финансовой
+грамотности населения.
+    В качестве первого шага нашего исследования мы сосредоточимся на
+изучении опыта Малайзии.
+    В целом, из опыта, направленного на обеспечение финансовой
+стабильности в банковской системе Малайзии, можно сделать следующие
+выводы:
+    Во-первых,       уделить    внимание      повышению      финансовой
+самостоятельности каждого банка в управлении профилем риска на основе
+метода ICAAP (Internal Capital Adequacy Assessment Process).
+    Во-вторых, внедрение динамики буфера капитала (Countercyclical
+Capital Buffer). Это предполагает формирование резервного капитала
+против повышения аппетита к риску со стороны акционеров банка и органов
+управления. При этом целесообразно установить, что при формировании
+динамического буфера с ростом активов, подверженных риску, более чем на
+20 процентов, резерв капитала должен составлять около 1 процента.
+    В-третьих, формирование прозрачной базы данных о коэффициенте
+чистого стабильного финансирования и норме покрытия ликвидности.
+Важно развивать мероприятия по открытию для широкой общественности
+отчетов о них.
+    Продолжая наши исследования, мы сосредоточимся на изучении опыта
+Южной Кореи.
+    На наш взгляд, исходя из опыта Южной Кореи, можно сформулировать
+следующие некоторые научные выводы:
+
+38
+    Во-первых, предотвращение крупного финансового краха путем
+предотвращения роста доли одного банка на рынке финансовых услуг.
+    Во-вторых, внедрение механизмов поддержки на рынке финансовых
+услуг в отношении мелких игроков на основе национальных и
+международных стандартов.
+    В-третьих, регулятор будет осуществлять мониторинг процессов,
+связанных с достаточностью капитала и ликвидностью.
+    В-четвертых, мы считаем, что малым банкам необходимо повысить
+правовые основы и финансовые возможности для поддержания
+дополнительного капитала или буферов ликвидности.
+    Следует отметить, что опыт Турции имеет свои особенности.
+    Исходя из опыта Турции, при обеспечении финансовой устойчивости
+банков целесообразно обратить внимание на следующие аспекты:
+    Во-первых, учесть, что институциональная независимость является
+ключевым фактором стабильности. В частности, приоритетное внимание
+уделяется внедрению надзора Центрального банка и подотчетности в
+обеспечении финансовой стабильности.
+    Во-вторых, регулирование взаимосвязи между конкуренцией и
+стабильностью на рынке банковских услуг. При этом важно обеспечить,
+чтобы рост конкуренции не приводил к увеличению риска. Также
+необходимо обратить внимание на то, чтобы крупные банки не приобретали
+монопольный характер.
+    В-третьих, внедрение норм на долю ликвидности активов в управлении
+сложностями, связанными с ликвидностью, и финансовым стрессом.
+    В-четвертых, устранение ситуаций, направленных на негативное
+влияние на финансовую деятельность банков путем обеспечения
+макроэкономической стабильности. Следует также обратить внимание на
+предотвращение обесценивания национальной валюты в результате
+различных санкционных рисков.
+    При обеспечении финансовой устойчивости банков важно учитывать
+международные стандарты. В этом отношении можно наблюдать наличие
+передового опыта в ряде стран Европейского Союза. Например, можно
+наблюдать, что банковский сектор Польши в рамках ЕС провел успешные
+юридические и институциональные реформы по адаптации к региональным
+и международным требованиям банковской системы (Basel III, IFRS 9). В то
+же время одной из актуальных задач является внедрение стратегии
+привлечения частного капитала для обеспечения достаточности капитала
+для малых и средних банков.
+    В целом, на основе польского опыта нам удалось сформулировать
+следующие научные выводы:
+    Во-первых, создание республиканской комиссии по координации
+макропруденциальной политики в обеспечении финансовой устойчивости
+
+                                                                     39
+банковской системы. Включить в число его задач внедрение научно
+обоснованных реформ.
+     Во-вторых, разработка и внедрение модели интеграционной структуры
+показателей макроэкономической и банковской системы, направленной на
+прогнозирование финансовых стрессов.
+     В-третьих, сохранение независимости Центрального банка в
+процентной политике с учетом бюджетных расходов. Также важно обратить
+внимание на реализацию бюджетных расходов в соответствии с монетарной
+политикой Центрального банка.
+     В целом, комплексный подход к обеспечению финансовой
+устойчивости банков является актуальным. считается целесообразным
+осуществление институциональных изменений, направленных на
+регулирование     финансовых      показателей    банков,    ликвидности,
+достаточности капитала и аппетита к риску.
+     Вторая глава диссертации называется «Анализ тенденций
+обеспечения финансовой устойчивости в коммерческих банках», в
+которой изложены аналитические части диссертации. В частности,
+исследованы такие аспекты, как роль и значение банковского капитала в
+обеспечении финансовой устойчивости банка, оценка использования
+стабильных источников финансирования и платежеспособности банков,
+анализ нормы покрытия ликвидности и тенденций ликвидных активов в
+обеспечении финансовой устойчивости банка.
+     В ходе нашего исследования мы намеревались проанализировать
+финансовые показатели АК «Алокабанк» с января 2019 года по апрель 2025
+года.
+     Используя данные таблицы 1, корректирующий коэффициент
+основного капитала 1-го уровня L1=-1,0084 (100,8 процента, p-value=0,000)
+показывает, что устойчивость этого показателя высокая. Это показывает,
+что отклонения основного капитала I уровня от долгосрочного равновесного
+состояния быстро и стабильно стабилизируются.
+     В долгосрочной перспективе можно увидеть влияние следующих
+показателей.
+     Во-первых, можно увидеть, что влияние средств в других банках и
+стоимости начисленного налога не имеет статистической значимости.
+     Во-вторых, следует отметить, что деньги и платежные документы в
+кассе незначительны, но имеют влияние.
+     В-третьих, можно увидеть, что влияние кредитных и лизинговых
+операций значительно и оказывает обратное влияние. Следует отметить, что
+депозиты до востребования действуют прямо пропорционально.
+     В-четвертых, срочные депозиты и нераспределенная прибыль
+оказывают статистически значимое и прямо пропорциональное влияние.
+
+
+40
+Эти два показателя указывают на высокую долгосрочную роль 1-го уровня
+в стабильности основного капитала.
+                                                           Таблица 1
+      Срочная модель корректирующего коэффициента (ECM Term) на
+    основе ARDL факторов, влияющих на основной капитал 1 уровня
+ Sample                  2019m5 - 2025m4              Number of obs              72
+ R-squared               0.6832                       Adj R-squared              0.5911
+ Log likelihood          -1459.7328                   Root MSE                   1.767e+08
+
+ Д.     Коэффициент              Ст.                                   [95%
+                    Коэффициент                        t      P>t                   интервал]
+левериджа                       ошибка                                дов.
+ ADJ
+ Управляемый
+капитал
+                                                        -               -
+ L1.                      -1.008427        .1201517           0.000                 -.7676374
+                                                      8.39            1.249216
+                                  Долгосрочный период
+                                                                      -
+ Кассовые деньги          .6313085         .3518614    1.79   0.078                 1.336455
+                                                                    .0738375
+ привлечённые       от                                -               -
+                          -.0860894        .095182            0.370                 .1046596
+других банков                                       0.90            .2768385
+ Кредитование        в                                -               -
+                          -.2128388        .0694131           0.003                 -.0737319
+форме лизинга                                       3.07            .3519457
+ Депозиты           до
+                          .3763231         .1395946    2.70   0.009 .0965693        .6560768
+востребования
+ Срочные депозиты         .3436149         .0501246    6.86   0.000 .2431629        .4440669
+ плата за ведение                                                       -
+                  .2746419                 1.612393    0.17   0.865                 3.505949
+счёта                                                                 2.956665
+ Распределённая
+                  .764373                  .1173825    6.51   0.000 .5291333        .9996127
+прибыль
+                                 Краткосрочный период
+                                                        -               -
+ Кассовые деньги - Д1. -.4767275           .3068909           0.126                 .1382956
+                                                      1.55            1.091751
+ привлечённые       от
+других банков
+ Д1.                      .2264872         .1057452    2.14   0.037 .014569         .4384053
+ LD.                      .1818797         .0879737    2.07   0.043 .0055765        .3581829
+ Кредитование        в                                                  -
+                       .2099446            .1345575    1.56   0.124                 .4796039
+форме лизинга - Д1.                                                   .0597146
+ Депозиты           до                                  -
+                       -.2805              .1543548           0.075 -.589834        .0288339
+востребования - Д1.                                   1.82
+
+
+
+                                                                                             41
+ Срочные депозиты -                           -               -
+                    -.3187141    .1011435           0.003              -.1160181
+Д1.                                         3.15            .5214101
+ Распределённая
+прибыль
+                                              -               -
+ D1.                 -.4272668   .2090856           0.046              -.0082499
+                                            2.04            .8462837
+ LD.                 .5740528    .1970974    2.91   0.005 .1790609     .9690448
+ _константа          4.23e+08    1.52e+08    2.79   0.007 1.19e+08     7.27e+08
+    В краткосрочном периоде можно увидеть влияние следующих
+показателей.
+    Во-первых, влияние финансовых ресурсов в кассе, кредитных и
+лизинговых операций не имеет статистической значимости.
+    Во-вторых, можно увидеть, что финансовые ресурсы в других банках
+имеют небольшое значение в текущем периоде первой разницы и в лаге первой
+разницы.
+    В-третьих, следует отметить, что срочный депозит имеет обратный
+эффект в краткосрочной перспективе.
+    В-четвертых, можно наблюдать, что если первое различие имеет
+отрицательный эффект, то в полученных случаях оно имеет положительный
+эффект.
+    В заключение следует отметить, что, хотя краткосрочная и
+нераспределенная прибыль могут иметь негативные последствия в
+краткосрочной перспективе, они имеют постоянное положительное влияние в
+долгосрочной перспективе.
+    Продолжая наши исследования, мы попытаемся определить влияние этих
+независимых переменных на коэффициент левериджа. Учитывая
+стационарность коэффициента левериджа, видно, что тест на стационарность
+факторов, которые могут влиять на него, имеет смешанные результаты, что
+позволяет использовать модель ARDL и модель ECM Term на ее основе. С
+помощью этого анализа можно будет оценить краткосрочные и долгосрочные
+тенденции факторов, влияющих на коэффициент левериджа.
+    На основе анализа, представленного в таблице 2, были сформированы
+следующие научные выводы для долгосрочных и краткосрочных периодов
+относительно показателей, которые могут повлиять на коэффициент
+левериджа:
+    Во-первых, на долгосрочный период:
+    Видно, что влияние срочных депозитов, начисленных налоговых
+обязательств и нераспределенной прибыли не имеет статистической
+значимости.
+    Видно, что влияние финансовых ресурсов на наличные деньги в кассе и
+другие платежные документы, средства, подлежащие получению от других
+банков и финансовых организаций, кредитные и лизинговые операции
+42
+статистически значимо. Видно, что их увеличение приводит к уменьшению
+коэффициента левериджа.
+    Следует отметить, что депозиты до востребования оказывают
+положительное влияние.
+    Во-вторых, мы сформулировали следующие научные выводы
+относительно краткосрочного воздействия:
+    В краткосрочной перспективе увеличение финансовых ресурсов в кассе
+приводит к увеличению левериджа.
+    Влияние средств, подлежащих получению от других банков и
+финансовых организаций, оказывается положительным через месяц. Следует
+отметить, что он не имеет оперативного действия.
+
+                                                        Таблица 2
+      Факторы, влияющие на коэффициент левериджа Срочная модель
+     корректирующего коэффициента (ECM Term) на основе ARDL
+ Sample                2019m5 - 2025m4              Number of obs           72
+ R-squared             0.6966                       Adj R-squared           0.5692
+ Log likelihood        -106.12948                   Root MSE                1.2680
+
+   Д.     Коэффициент              Ст.                           [95%
+                      Коэффициент             t          P>t                интервал]
+  левериджа                       ошибка                       дов.
+   Коэффициент                                -                  -
+                      -.720601     .1134259              0.000              -.4927784
+  левериджа - L1.                           6.35               .9484236
+                                   Долгосрочный период
+                                                    -           -1.76e-
+   Кассовые деньги         -1.02e-08     3.68e-09        0.008              -2.79e-09
+                                                  2.77         08
+   привлечённые       от                            -           -8.16e-
+                           -5.77e-09     1.19e-09        0.000              -3.37e-09
+  других банков                                   4.83         09
+   Кредитование        в                            -           -3.52e-
+                           -1.89e-09     8.08e-10        0.023 09           -2.70e-10
+  форме лизинга                                   2.34
+   Депозиты           до
+                           6.24e-09      1.96e-09   3.19 0.002 2.31e-09     1.02e-08
+  востребования
+                                                                -4.40e-
+   Срочные депозиты        5.97e-10      5.16e-10   1.16 0.253              1.63e-09
+                                                               10
+   плата за ведение                                 -           -7.59e-
+                    -1.24e-08            3.16e-08        0.697              5.12e-08
+  счёта                                           0.39         08
+   Распределённая                                   -           -3.59e-
+                    -7.99e-10            1.39e-09        0.568              1.99e-09
+  прибыль                                         0.58         09
+                                  Краткосрочный период
+   Кассовые деньги -
+                     6.09e-09            2.38e-09   2.56 0.014 1.31e-09     1.09e-08
+  Д1.
+   привлечённые   от
+  других банков
+                                                                  -8.52e-
+   Д1.                     8.49e-10      8.47e-10   1.00 0.321              2.55e-09
+                                                                 10
+
+                                                                                     43
+      LD.                   2.06e-09        6.58e-10   3.12 0.003 7.33e-10      3.38e-09
+      Кредитование        в                            -           -3.70e-
+                            -1.65e-09       1.02e-09        0.113 09            4.03e-10
+     форме лизинга - D1.                             1.61
+      Депозиты           до
+     востребования
+                                                       -           -5.47e-
+      D1.                     -2.08e-09     1.69e-09        0.226               1.32e-09
+                                                     1.23         09
+                                                       -           -5.36e-
+      LD.                     -2.62e-09     1.37e-09        0.061               1.27e-10
+                                                     1.92         09
+                                                       -           -3.44e-
+      L2D.                    -1.05e-09     1.19e-09        0.381               1.34e-09
+                                                     0.88         09
+                                                       -           -5.08e-
+      L3D.                    -2.92e-09     1.07e-09        0.009               -7.65e-10
+                                                     2.72         09
+      плата   за    ведение
+     счёта
+                                                       -           -4.36e-
+      D1.                     -6.80e-09     1.83e-08        0.712               3.00e-08
+                                                     0.37         08
+                                                       -           -4.84e-
+      LD.                     -2.39e-08     1.22e-08        0.056               6.78e-10
+                                                     1.95         08
+      taksimfoyda
+      D1.                     3.38e-09      1.46e-09   2.32 0.025 4.53e-10      6.32e-09
+                                                                   -1.86e-
+      LD.                     1.06e-09      1.45e-09   0.73 0.469               3.98e-09
+                                                                  09
+      L2D.                    4.00e-09      1.63e-09   2.46 0.017 7.36e-10      7.27e-09
+      _cons                   15.43962      2.89725    5.33 0.000 9.620321      21.25892
+    Мы видим, что влияние финансовых ресурсов и депозитов до
+востребования на кредитные и лизинговые операции статистически
+незначимо. Это указывает на отсутствие их влияния. Однако следует отметить,
+что до востребования через три месяца средства оказывают положительное
+влияние. Мы проводим анализ с учетом зарубежных исследований и
+формирования финансовых показателей банка. Сначала выберем следующие
+показатели, которые могут влиять на формирование АСФ. Сведения об их
+стационарности можно увидеть в таблице 3 ниже.
+                                                                Таблица 3
+Факторы, влияющие на доступную сумму устойчивого финансирования
+                   (ASF), и их тест на стационарность
+                                           5% крити-
+                              Статистика                P-    Заключение (I (0) или
+Переменная                                   ческое
+                              D-F                    значение        I (1))
+                                            значение
+Сумма         устойчивого
+                          –0.600           –2.910      0.8709       (I(1)) – нестационарный
+финансирования (ASF)
+Депозиты до востребования 0.352            –2.910      0.9796       I(1) – нестационарный
+Срочные депозиты          1.963            –2.910      0.9986       I(1) – нестационарный
+Нераспределенная прибыль –2.205            –2.910      0.2044       I(1) – нестационарный
+общие процентные доходы –4.196             –2.910      0.0007       I(0) – стационарный
+
+44
+                                       5% крити-
+                          Статистика                P-    Заключение (I (0) или
+Переменная                               ческое
+                          D-F                    значение        I (1))
+                                        значение
+Сумма         устойчивого
+                          –0.600       –2.910     0.8709    (I(1)) – нестационарный
+финансирования (ASF)
+общие      беспроцентные
+                          –3.568       –2.910     0.0064    I(0) – стационарный
+доходы
+     Мы проводим анализы на основе программного обеспечения Stata
+Computer. Поскольку результаты стационарности выбранных показателей в
+таблице 3 имеют смешанный характер, мы создаем ECM (Error Correction
+Model) на основе ARDL. Для этого мы проведем анализ и оценку, используя
+возможности Stata.
+     В модели, представленной в таблице 4, R-squared 0.4264га и Adj. Тот факт,
+что R-squared равен 0,3735, указывает на то, что выбранные показатели имеют
+средний уровень объяснения сути существующей суммы стабильного
+финансирования. Кроме того, тот факт, что влияние таких факторов, как
+депозиты до востребования, срочные депозиты и нераспределенная прибыль,
+имеет статистическую значимость F-тест: Prob > F = 0.000, отражает, что
+статистическая значимость общей модели также показывает высокую
+точность.
+     Следует отметить, что выбранные показатели не оказывают влияния в
+краткосрочном периоде. Это указывает на необходимость анализа
+целесообразности изучения долгосрочных последствий этих показателей.
+     Исходя из этого, нам удалось сформулировать следующие научные
+выводы:
+     Во-первых, срочные депозиты оказывают сильное влияние. Видно, что
+его действие прямо пропорционально.
+     Во-вторых, можно увидеть, что депозиты до востребования могут иметь
+частичное положительное влияние.
+     В-третьих, можно увидеть положительное влияние увеличения
+нераспределенной прибыли. Это делает важным обеспечение стабильности
+источников финансирования путем сосредоточения внимания на удержании
+нераспределенной прибыли.
+
+                                                                      Таблица 4
+              Модель поправочных коэффициентов (ECM Term)
+             на основе ARDL факторов, влияющих на доступную
+                  сумму устойчивого финансирования (ASF)
+  Sample           2019m5 - 2025m4          Number of obs       72
+  R-squared        0.4264                   Adj R-squared       0.3735
+  Log likelihood   -1542.1904               Root MSE            51.08e+08
+
+
+
+
+                                                                                  45
+                                          Ст.                        [95%
+ Barkarmoliya-lashmavjud   Коэффициент                t     P>t                интервал]
+                                         ошибка.                    дов.
+ ADJ
+ Barkarmoliya-lashmavjud
+                                                       -              -
+ L1.                       -.6046078      .0962113          0.000              -.4124605
+                                                     6.28           .7967551
+                                 Долгосрочный период
+ Срочные депозиты          1.020704       .1126784 9.06 0.000 .7956696 1.245738
+ Депозиты            до
+                           .8784323       .2888593 3.04 0.003 .3015404 1.455324
+востребования
+ Распределённая
+                           1.654255       .4182527 3.96 0.000 .8189466 2.489563
+прибыль
+ Совокупный                                            -        -
+                           -.7053691      .5324512          0.190              .3580094
+процентный доход                                     1.32     1.768748
+ Совокупный                                                     -
+                           1.37274        .8509976 1.61 0.112                  3.0723
+непроцентный доход                                            .3268193
+                                Краткосрочный период
+                                                                      -
+ _ константа               3.92e+08       2.82e+08 1.39 0.170                  9.55e+08
+                                                                    1.72e+08
+    На рисунке 1 представлена модель влияния функции импульсного ответа
+ECT на чистый стабильный источник финансирования. Данная модель
+пытается выразить тенденцию изменения объема чистого устойчивого
+финансирования. Эта модель была разработана с использованием модели,
+представленной в Таблице 4, и факторов, влияющих на нее. Синяя линия,
+представленная на Рисунке 1, показывает краткосрочное изменение
+переменной устойчивого финансирования, в то время как красная линия
+показывает, как ECT может отклоняться от равновесия в долгосрочной
+перспективе. В целом, нам удалось сформулировать следующие научные
+выводы:
+    Во-первых, следует отметить, что уровень колебаний СОЭ усилился в
+2023-2024 годах. Это отражает усложнение процесса возвращения
+устойчивого финансирования к равновесию под потенциальным воздействием
+стресса или изменений.
+    Во-вторых, тенденция устойчивого финансирования аналогична и
+отражает усиление влияния на краткосрочные изменения.
+    В 2020-2022 годах влияние краткосрочных и долгосрочных изменений
+уменьшилось. По нашему мнению, расширение пандемии в этот период может
+быть выражено уменьшением активов, подверженных риску в банках, но
+увеличением существующих NPL.
+
+
+
+
+46
+     Рисунок 1. Модель влияния функции импульсного ответа ECM на
+           чистый стабильный источник финансирования
+
+     Следует отметить, что чистый стабильный источник финансирования
+корректирует разницу в отклонениях под влиянием депозитов, нераспределенной
+прибыли и процентных доходов, что позволяет вернуться к равновесию в
+следующем месяце в размере 60,46 процента.
+     Обосновано укрепление чистого стабильного источника финансирования
+путем балансирования разницы в 60,46 процента, возникающей ежемесячно под
+влиянием депозитов, нераспределенной прибыли и процентных доходов. Другими
+словами, когда 30 дней составляют 100%, 18 дней равны 60,46%, что в общем
+смысле отражает 45-50-дневный период.
+     При проведении нашего исследования мы сосредоточимся на рассмотрении
+случаев, связанных с коэффициентом покрытия ликвидности. С этой точки зрения
+мы попытаемся сформировать научные подходы к коэффициенту покрытия
+ликвидности.
+     Согласно Международным стандартам Базеля III, коэффициент покрытия
+ликвидности (LQM) (Liquidity Coverage Ratio, LCR) рекомендовал, чтобы с 1
+января 2019 года этот показатель был не менее 100%. LQM рассчитывается путем
+определения отношения высоколиквидных активов к объему выбытия наличных
+денег в течение 30 дней. Это указывает на необходимость того, чтобы
+высоколиквидные активы составляли больший объем, чем денежный поток.
+     В совместном исследовании Ю.Захаровой и др. анализируются показатели
+ликвидности и платежеспособности. В ходе своих исследований они
+классифицируют активы на четыре типа. Они также делают упор на
+                                                                          47
+дифференциацию пассивов по срокам погашения. В целом, они анализируют
+следующие формы финансовых коэффициентов: коэффициент абсолютной
+ликвидности, коэффициент труда и коэффициент оперативной ликвидности. Они
+делают выводы об управлении активами и пассивами, мониторинге ликвидности
+баланса, использовании при сравнении критериев19.
+     В совместном научном исследовании Н.Горелая и К.Кузнецова анализируют
+макроэкономическое равновесие наряду с внутренними факторами при
+формировании буфера ликвидности российских банков в 2004-2016 годах. В
+результате анализа ими основных факторов выявлено, что размер банка и
+стабильность ресурсов оказывают негативное влияние на буфер ликвидности,
+приводят к росту рентабельности активов и увеличению риска с точки зрения
+кредитования. Также обосновывается влияние макроэкономических факторов -
+роста ВВП, ликвидности финансовых рынков, экономических кризисов на
+определение процесса ликвидности20.
+     В исследовании, проведенном А. Руденко, он проводит опросы среди
+сотрудников банка для оценки ликвидности банка в рамках новых требований. На
+основе анализа проведенного опроса сформулированы следующие научные
+выводы. Было обнаружено, что крупные банки быстрее адаптируются к критериям
+ликвидности, в то время как малые банки сталкиваются с большими трудностями.
+Он также упомянул трудности в понимании новых критериев и отметил, что банки
+начали принимать их с самых легких21.
+     По нашему мнению, ликвидность и другие связанные с ней показатели важны
+для обеспечения финансовой устойчивости банков. Следовательно, при
+обеспечении ликвидности банка целесообразно учитывать влияние внутренних
+факторов банка и макроэкономических показателей. Поэтому мы также
+планируем проанализировать данные, отражающие финансовые результаты
+банка, среди факторов, связанных с показателями ликвидности банка.
+     Мы сосредоточимся на анализе следующих показателей финансовой
+устойчивости в деятельности АК «Алокабанк». В соответствии с ним мы
+постараемся охватить такие показатели, как коэффициент покрытия ликвидности
+и отношение активов, подверженных риску, к капиталу. При этом мы проводим
+эконометрический анализ данных в разрезе месяцев с января 2019 года по май
+2025 года с использованием компьютерного программного обеспечения Stata.
+     В таблице 5 представлены результаты стационарности теста Dickey-Fuller
+факторов, которые могут повлиять на тенденцию коэффициента покрытия
+ликвидности (LCR). Основываясь на этих результатах, мы попытаемся
+систематизировать долгосрочные и краткосрочные воздействия на основе модели
+ARDL.
+                                                                   Таблица 5
+
+19
+    Захарова Ю. Н., Захаров Е. А. Анализ показателей ликвидности и платежеспособности//Проблемы,
+перспективы и направления инновационного развития науки. – 2016. – С. 130-133.
+20
+   Горелая Н. В., Кузнецова К. Ю. Детерминанты буфера ликвидности коммерческого банка //Корпоративные
+финансы. – 2017. – Т. 11. – №. 4. – С. 36-53.
+21
+   Руденко А. М. Оценка восприятия новых стандартов ликвидности российскими коммерческими банками
+//Вестник алтайской науки. – 2015. – №. 2. – С. 224-228.
+48
+     Факторы, которые могут повлиять на коэффициент покрытия
+              ликвидности в банке Тест Дики-Фуллера
+                                                                 Стационарность (I (0)
+               Переменная                      ADF Z(t) p-value
+                                                                          или I (1))
+Коэффициент покрытия ликвидности, LCR           -4.041   0.0012 I (0) - стационарный
+Наличные деньги в кассе и другие платежные                      I (1) - нестационарный
+                                                -1.777   0.3918
+документы
+Средства к получению от других банков и                           I (1) - нестационарный
+                                                -1.476   0.5453
+финансовых организаций, нетто
+Депозиты до востребования                       0.409    0.9818 I (1) - нестационарный
+Срочные депозиты                                3.452    1.0000 I (1) - нестационарный
+Кредитные и лизинговые операции, нетто          1.103    0.9952 I (1) - нестационарный
+Сумма        доступного          устойчивого                      I (1) - нестационарный
+                                                1.390    0.9971
+финансирования, АСФ
+Необходимая       сумма          стабильного                      I (1) - нестационарный
+                                                -0.316   0.9232
+финансирования, RSF
+Коэффициент левериджа                           -2.051   0.2648 I (1) - нестационарный
+Регулятивный    капитал     в     отношении                       I (1) - нестационарный
+                                                -1.743   0.4090
+рискованных активов, Total CAR
+    Данные таблицы 6 позволят нам проанализировать показатели, влияющие
+на изменение коэффициента покрытия ликвидности. В частности, можно
+увидеть, что коэффициент покрытия ликвидности имеет шанс вернуться в
+равновесие на 50,21 процента. Следует добавить, что статистическая
+значимость этого показателя также высока. Таким образом, становится ясно,
+что коэффициент покрытия ликвидности восстанавливает равновесие в
+следующем месяце после различных стрессовых ситуаций на 50%.
+    Также на основе таблицы 6 удалось сформулировать следующие научные
+выводы о влиянии выбранных показателей на коэффициент покрытия
+ликвидности в долгосрочной перспективе:
+    Во-первых, следует отметить, что такие показатели, как финансовые
+ресурсы в кассе, депозиты до востребования, срочные депозиты, кредитные и
+лизинговые операции и коэффициент левериджа, не имеют статистически
+значимого влияния.
+    Во-вторых, влияние средств, подлежащих получению от других банков и
+финансовых организаций, становится положительным и статистически
+значимым.
+    В-третьих, влияние Необходимой суммы устойчивого финансирования
+(RSF) также является положительным и статистически значимым.
+    Таким образом, из показателей модели, сформированных в долгосрочном
+периоде, только два показателя оказывают статистически значимое влияние.
+В частности, большее влияние оказывают средства, которые должны быть
+получены от других финансовых институтов.
+                                                                Таблица 6
+
+                                                                                      49
+     Факторы, влияющие на коэффициент покрытия ликвидности (LCR)
+       в банке Модель корректирующего коэффициента (ECM Term)
+                            на основе ARDL
+ Sample                   2019m3 - 2025m4                Number of obs                 74
+ R-squared                0.6952                         Adj R-squared                 0.6292
+ Log likelihood           -351.06315                     Root MSE                      30.8772
+
+
+                                              Ст.                            [95%
+ D.LCR                         Коэффициент                  t       P>t                     интервал]
+                                             ошибка                         дов.
+ ADJ
+ LCR
+                                                        -                     -
+ L1.                           -.5021699      .0984753              0.000                   -.3051899
+                                                      5.10                  .6991498
+                                    Долгосрочный период
+                                                        -
+ кассовая наличность           -6.49e-08     9.66e-08               0.504    -2.58e-07      1.28e-07
+                                                      0.67
+ средства других банков        5.62e-08      2.63e-08   2.14        0.037    3.60e-09       1.09e-07
+                                                        -
+ депозиты до востребования     -2.13e-08     4.19e-08               0.614    -1.05e-07      6.26e-08
+                                                      0.51
+ срочные депозиты.             3.85e-09      1.69e-08   0.23        0.820    -2.99e-08      3.76e-08
+                                                        -
+ кредитный портфель            -9.12e-09     2.30e-08               0.693    -5.51e-08      3.68e-08
+                                                      0.40
+ Доступное        стабильное                            -
+                               -1.54e-08     1.38e-08               0.269    -4.30e-08      1.22e-08
+финансирование                                        1.12
+ Требуемое        стабильное
+                               1.66e-08       7.57e-09      2.19    0.033    1.43e-09       3.17e-08
+финансирование
+ коэффициент левериджа         2.329506       5.483422  0.42        0.672  -8.63897         13.29798
+ Общий          коэффициент                             -                  -
+                               -9.933235     7.083056               0.166                   4.234986
+достаточности капитала                                1.40                24.10146
+                                   Краткосрочный период
+ LCR
+                                                                              -
+ LD.                           .0037104       .0018782      1.98    0.053                   .0074674
+                                                                            .0000466
+ кредитный портфель
+ D1.                           4.44e-08       2.17e-08      2.04    0.046    9.07e-10       8.79e-08
+ ASF
+ D1.                           1.34e-08       6.82e-09      1.96    0.055    -2.70e-10      2.70e-08
+ _константа                    155.0446       73.36003      2.11    0.039    8.302645       301.7865
+    Нам удалось сформулировать следующие научные выводы относительно
+краткосрочных тенденций, влияющих на коэффициент покрытия
+ликвидности:
+    Во-первых, кредитные и лизинговые операции быстро увеличивают
+коэффициент покрытия ликвидности. Можно предположить, что
+возникновение этой тенденции связано с тем, что кредиты финансируются с
+опорой на финансовые ресурсы, которые поступят в ближайшее время. В свою
+очередь, не исключено, что этот процесс повышает ликвидность.
+
+
+50
+    Во-вторых, краткосрочный рост устойчивого финансирования снижает
+коэффициент покрытия ликвидности. Другими словами, процесс
+перераспределения внутренних финансовых ресурсов банком за короткий
+период может привести к снижению ликвидных активов. В частности, следует
+отметить, что при привлечении долгосрочных финансовых ресурсов
+существует тенденция направлять определенную их часть не на ликвидные
+активы, а на высокорентабельные, но низколиквидные активы.
+
+
+
+
+   Рисунок 2. Модель влияния функции импульсного ответа ECM на
+                   коэффициент покрытия ликвидности
+    Данные рисунка 2 могут дать более широкое объяснение отклонениям
+коэффициента покрытия ликвидности, возникающим под влиянием различных
+экономических условий. Как отмечено в таблице 6, коэффициент покрытия
+ликвидности при возвращении в равновесие составляет 50%. Другими словами,
+следует отметить, что для восстановления этого показателя требуется 2 месяца.
+    В третьей главе диссертации, озаглавленной «Направления управления
+рисками и устранения последствий в обеспечении финансовой устойчивости
+коммерческих банков», сформулированы научные выводы и предложения,
+направленные на оценку рискованных активов в банках и роли капитала в их
+управлении, приоритетные направления обеспечения финансовой устойчивости
+банков.
+    При обеспечении финансовой устойчивости в банковской деятельности
+важно осуществлять мероприятия, направленные на эффективное управление
+рисками. Возникновение рисков в финансовых операциях, осуществляемых
+банками для получения прибыли, является одним из неотъемлемых процессов. Из
+многочисленной литературы видно, что коммерческая цель банка носит
+постоянный характер и тесно связана с риском.
+    В исследовании, проведенном Р.Джуэлсрудом и Э.Волдом, сформулированы
+научные выводы по регулированию активов, подверженных риску, и управлению
+последствиями риска. В частности, они моделируют, как они могут управлять
+своим инвестиционным портфелем в этих условиях. Они считают, что по мере
+увеличения требований к капиталу банки будут более склонны к менее
+рискованным активам. В результате может произойти снижение активности
+                                                                             51
+кредитования экономики. Отмечается, что повышение требований к капиталу в
+отношении активов, подверженных риску на макропруденциальном уровне,
+приводит к тому, что банки сосредотачиваются на ликвидных активах и
+безопасных финансовых инструментах22.
+     Р.Масера фокусируется на определении влияния рисковой нагрузки и
+коэффициента левериджа на капитал в банке на организацию управления банком.
+Обосновано, что коэффициент рычага является ограничивающим фактором
+экономического роста в бизнес-процессах и, наоборот, стимулирующим фактором
+в условиях кризиса. Отмечается, что для эффективного функционирования
+макропруденциальной политики необходимо использовать механизмы
+постоянного мониторинга, корпоративного управления и стресс-тестов23.
+     На наш взгляд, управление капиталом приобретает актуальность в
+управлении рискованными активами и устранении их последствий. Выявление и
+оценка краткосрочных и долгосрочных последствий этих тенденций играет
+ключевую роль в принятии финансовых решений. При проведении нашего
+исследования мы сначала попытаемся проанализировать следующие факторы,
+влияющие на коэффициент регулятивного капитала по отношению к активам,
+подверженным риску.
+                                                                 Таблица 7
+      Факторы, влияющие на коэффициент регулятивного капитала по
+ отношению к активам, подверженным риску результаты теста Dickey-fuller
+                                                 ADF       5% Critical      P-
+                Показатель                                                                Заключение
+                                                 Z(t)        Value         value
+Регулятивный капитал в отношении                                                    I (1), нестационарный
+                                 -1.793 -2.910                             0.3841
+рискованных активов
+Основной капитал I уровня                       -1.191   -2.910           0.6773 I (1), нестационарный
+Итого капитал II уровня                         -1.747   -2.910           0.4071 I (1), нестационарный
+Нераспределенная прибыль              -2.205             -2.910           0.2044 I (1), нестационарный
+Средства к получению от других банков                                            I (1), практически
+                                      -2.794             -2.910           0.0591
+и финансовых организаций, нетто                                                  нестационарный
+Кредитные и лизинговые операции,                                                    I (1), нестационарный
+                                                2.336    -2.910           0.9990
+нетто
+Депозиты до востребования                                                           I (1), нестационарный
+                                                0.352    -2.910           0.9796
+
+Коэффициент левериджа                           -2.910   -2.910           0.0442 I (0), стационарный
+Ликвидные активы по отношению к                                                  I (0), стационарный
+                                                -3.982   -2.910           0.0015
+совокупным активам
+     Из таблицы 7 видно, что коэффициент левериджа и ликвидные активы
+стационарны по отношению к совокупным активам. Следует отметить, что
+остальные показатели нестационарны. В результате выполнения данного теста
+наличие и отсутствие стационарного состояния позволяет выбрать модель ARDL
+(AutoRegressive Distributed Lag).
+22
+   Juelsrud R. E., Wold E. G. Risk-weighted capital requirements and portfolio rebalancing //Journal of Financial
+Intermediation. – 2020. – Т. 41. – С. 100806.
+23
+   Masera R. Leverage and risk-weighted capital in banking regulation //Available at SSRN 3471119. – 2019.
+52
+     Составив модель ECM на основе ARDL, мы попытаемся оценить значимость
+факторов, влияющих на выбранный коэффициент.
+     В целом, согласно требованиям Международного Базельского комитета, доля
+совокупного регулятивного капитала в структуре активов, подверженных риску,
+должна составлять не менее 8 процентов.
+     В таблице 8 представлены тенденции факторов, влияющих на устойчивость
+регулятивного капитала к рискам, связанным с активами. Мы можем сделать
+следующие научные выводы о факторах, влияющих в долгосрочной перспективе:
+                                                                 Таблица 8
+ Модель корректирующего коэффициента (ECM Term) на основе ARDL
+ факторов, влияющих на долю регулятивного капитала по отношению к
+                       активам, подверженным риску
+ Sample                 2019m2 - 2025m4              Number of obs                75
+ R-squared              0.4320                       Adj R-squared                0.3329
+ Log likelihood         -69.908309                   Root MSE                     0.6706
+
+ D.TotalCAR                 Коэффициент Ст. ошибка    t       P>t     [95% дов.     интервал]
+                                    Корректировка
+ TotalCAR
+ L1.                        -.2393038      .0812347   -2.95   0.005   -.4016383     -.0769693
+                                   Долгосрочный период
+ Капитал I уровня           1.89e-09       1.49e-09   1.26    0.211   -1.10e-09     4.87e-09
+ Капитал II уровня          8.68e-09       3.98e-09   2.18    0.033   7.34e-10      1.66e-08
+ нераспределённая прибыль   -2.56e-09      1.82e-09   -1.41   0.164   -6.18e-09     1.07e-09
+ средства других банков     -1.86e-09      1.59e-09   -1.17   0.248   -5.05e-09     1.33e-09
+ кредитный портфель         -2.43e-09      8.91e-10   -2.73   0.008   -4.21e-09     -6.50e-10
+ депозит до востребования   4.20e-09       2.28e-09   1.84    0.070   -3.50e-10     8.75e-09
+ коэффициент левериджа      .2940324       .2095616   1.40    0.166   -.124743      .7128079
+ итого активы               -.1122751      .136137    -0.82   0.413   -.3843233     .1597731
+                                  Краткосрочный период
+ Капитал II уровня
+ Д1.                        2.23e-09      8.37e-10    2.66    0.010   5.53e-10      3.90e-09
+ кредитный портфель
+ Д1.                        -9.73e-10     4.44e-10    -2.19   0.032   -1.86e-09     -8.51e-11
+ _конс                      5.349703      1.874177    2.85    0.006   1.604459      9.094948
+    Во-первых, кредитные и лизинговые операции имеют статистически
+значимое влияние. Его увеличение влияет на уровень риска и приводит к
+увеличению финансового давления на регулятивный капитал.
+    Во-вторых, влияние капитала 2-го уровня является статистически значимым
+и приобретает положительный характер. Подводя итог, можно увидеть, что
+увеличение капитала второго уровня имеет прямо пропорциональный эффект в
+долгосрочной перспективе.
+
+
+
+                                                                                           53
+     В-третьих, можно увидеть, что статистическая значимость депозитов до
+востребования невысока. Кроме того, его долгосрочное воздействие оказывается
+незначительным.
+     В-четвертых, поскольку влияние остальных показателей не имеет
+статистической значимости, мы считаем, что нет необходимости формулировать
+научные выводы об их влиянии.
+     Исходя из ситуаций, воздействующих в краткосрочном периоде и
+выражающих оперативность, нам удалось сформулировать следующие научные
+выводы:
+     Во-первых, капитал 2-го уровня оказывает статистически значимое и
+положительное влияние на долю регулятивного капитала по отношению к
+активам, подверженным риску. Это означает, что его влияние может выражаться
+в том, что он не имеет высокой доли в регулятивном капитале.
+     Во-вторых, влияние кредитных и лизинговых операций на скорость является
+статистически значимым, но отрицательным. Это отражает его значительное
+влияние на повышение уровня риска.
+     Также следует отметить, что период восстановления доли регулятивного
+капитала по отношению к активам, подверженным риску, составляет в среднем 4-
+5 месяцев. Другими словами, можно сказать, что это отражается в том, что уровень
+восстановления составляет 23,9% (см. таблицу 8).
+     На основе проведенных исследований мы попытались сформировать
+экосистему, направленную на обеспечение финансовой устойчивости банков.
+Мы можем проиллюстрировать это на Рисунке 3 ниже.
+
+           Высоколиквидные                      Рискованные активы
+            активы (HQLA)                             (RWA)
+                                                                      Чистая потребность в
+                                  до 20%                                  устойчивом
+                                                                     финансировании (RSF)
+                                           Адекватность капитала
+                                                (Total CAR)
+                                                                      Чистый устойчивый
+                                                                           источник
+         Коэффициент покрытия                                        финансирования (ASF)
+           ликвидности (LCR)
+
+
+
+                                    Финансовая устойчивость банка
+
+                 Рисунок 3. Экосистема финансовой устойчивости банка24
+
+    Как видно из данных рисунка 3, роль финансовых коэффициентов в
+обеспечении финансовой устойчивости банков становится все более важной.
+Предусматривается регулирование деятельности банков на основе
+международных и национальных стандартов. В частности, к ним относятся
+
+24
+     Разработано автором на основе исследований
+54
+рекомендуемые нормативные показатели банковского капитала и его
+достаточности, размеры критериев, направленных на обеспечение
+ликвидности. Однако отсутствие нормативных стандартов по доле ликвидных
+активов в структуре активов, подверженных риску, приводит к разнообразию
+подходов к его управлению. Во многих исследованиях также можно увидеть,
+что критерии для ликвидных активов четко не указаны, а нормативные
+показатели не рекомендованы.
+     В заключение следует отметить, что в обеспечении финансовой
+устойчивости банков, наряду со стабильностью базы банковского капитала,
+уровнем покрытия ликвидности, возможностью чистого стабильного
+финансирования, важной особенностью является доля ликвидных активов.
+Поэтому финансовую устойчивость банков целесообразно рассматривать как
+категорию, подлежащую регулированию как с точки зрения корпоративного,
+так и макроэкономического равновесия.
+
+                               ЗАКЛЮЧЕНИЕ
+
+     На основании проведенного исследования нам удалось сформулировать
+следующие выводы и предложения:
+     1. Предложено поддерживать месячную финансовую устойчивость банка,
+учитывая прямое и обратно пропорциональное влияние срочных депозитов на
+основной капитал 1-го уровня в долгосрочной и краткосрочной перспективе.
+     2. Обосновано, что обратное влияние кредитных и лизинговых операций на
+коэффициент левериджа в долгосрочной перспективе и не влияние в
+краткосрочной перспективе приводит к достижению 72 процентов в месяц.
+     3. Обосновано достижение восстановления в долгосрочной перспективе 45-
+50 дней за счет обеспечения того, чтобы доходы и депозиты банка не влияли на
+стабильный источник финансирования в краткосрочной перспективе.
+     4. Предложено увеличить ликвидные активы в процессе перераспределения
+внутренних финансовых ресурсов банка путем достижения увеличения
+коэффициента покрытия ликвидности в краткосрочном периоде за счет объема
+стабильного финансирования.
+     5. Предложено снизить финансовое давление на капитал банка путем
+предотвращения увеличения доли регулятивного капитала по отношению к
+активам, подверженным риску, под влиянием объема кредитных и лизинговых
+операций банка.
+     6. Предложено предотвратить увеличение объема неликвидных активов на их
+небольшой доле путем постепенного уменьшения доли нерентабельных активов.
+     7. Изучен передовой зарубежный опыт обеспечения финансовой
+устойчивости банков и разработаны предложения по внедрению в условиях нашей
+страны.
+     8. Обосновано, что отклонение необходимого объема стабильного
+финансирования в долгосрочном периоде при возвращении к равновесию
+составляет 49,07 процента.
+                                                                          55
+    9. Можно предположить, что кредитные и лизинговые операции быстро
+увеличивают коэффициент покрытия ликвидности, кредиты финансируются на
+основе финансовых ресурсов, которые поступят в ближайшее время.
+    10. Разработана экосистема обеспечения финансовой устойчивости банка.
+
+
+
+
+56
+     SCIENTIFIC COUNCIL AWARDING OF THE
+SCIENTIFIC DEGREES №DSc. DSc.03/2025.27.12.I.30.01 AT
+     TASHKENT INTERNATIONAL UNIVERSITY
+     TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+       DJALILOV GAYRAT KAKHRAMANOVICH
+
+
+
+  PRIORITY AREAS OF ENSURING THE FINANCIAL
+             STABILITY OF BANKS
+
+
+
+         08.00.07 - "Finance, Money Circulation and Credit"
+
+
+
+
+                              ABSTRACT
+of the dissertation of Doctor of Philosophy (PhD) in Economic Sciences
+
+
+
+
+                      Tashkent city – 2026 year
+
+                                                                         57
+58
+              INTRODUCTION (annotation of the dissertation of
+                     Doctor of Philosophy (PhD))
+
+      The purpose of the study is to develop priority areas aimed at ensuring the
+financial stability of banks in Uzbekistan.
+      The research objectives are as follows:
+      the emergence of the need for financial stability in banks and its essence.
+      systematization of financial stability indicators in banks and their features.
+      study of best foreign practices in ensuring the financial stability of banks.
+      analysis of the role and importance of bank capital in ensuring the financial
+stability of the bank.
+      assessment of the use of stable sources of financing and ensuring the solvency
+of banks.
+      analysis of liquidity coverage rates and liquid asset trends in ensuring the bank's
+financial stability.
+      assessment of risk-weighted assets in banks and the role of capital in their
+management.
+      development of scientific conclusions and proposals aimed at priority areas of
+ensuring the financial stability of banks.
+      The object of the research is the financial activities of JSC "Aloqabank."
+      The subject of the research is the economic relations arising from the financial
+activities of JSC "Aloqabank."
+      Research methods. The dissertation uses such methods as generalization,
+questionnaires, grouping, abstract-logical thinking, linear regression, ARDL, VECM,
+induction and deduction, economic-mathematical modeling.
+      The scientific novelty of the research is as follows:
+      based on the long-term direct and short-term inverse proportional impact of time
+deposits on Tier 1 fixed capital, a proposal has been developed aimed at ensuring the
+monthly financial stability of the bank and maintaining a balance between capital
+adequacy and liquidity;
+      based on empirical analysis, it has been determined that in improving the
+mechanisms for managing assets and liabilities of commercial banks, credit and
+leasing operations have a reverse effect on the leverage ratio in the long term, and the
+level of re-balancing of the bank's financial indicators is based on reaching 72 percent
+within a month;
+      it is proposed to prevent negative short-term fluctuations in liquidity and
+financial stability based on the introduction of mechanisms aimed at ensuring that
+bank income and deposits do not affect the bank's stable financing source in the short
+term, as well as to ensure the gradual restoration of this source in the long term, that
+is, in the 45-50-day period;
+      it is proposed to increase the liquid assets that generate income in the process of
+redistributing the bank's internal financial resources by achieving an increase in the
+liquidity coverage ratio in the short term due to the volume of stable financing of the
+bank.
+                                                                                      59
+      The practical results of the study are as follows:
+      it is proposed to prevent an increase in the volume of illiquid assets in their small
+share by gradually reducing the share of non-profit assets in the structure of assets.
+      advanced foreign experience in ensuring the financial stability of banks was
+studied, and proposals for their implementation in the conditions of our country were
+developed.
+      it is substantiated that the deviation of the required volume of stable financing in
+the long term is at the level of 49.07% when returning to equilibrium.
+      it can be assumed that credit and leasing operations quickly increase the liquidity
+coverage ratio, and loans are financed based on financial resources that will arrive in
+the near future.
+      an ecosystem for ensuring the financial stability of the bank has been developed.
+      Reliability of the research results. In the process of conducting the dissertation
+research, official data from the Ministry of Economy and Finance of the Republic of
+Uzbekistan, the State Statistics Agency under the President of the Republic of
+Uzbekistan, and JSC "Aloqabank" were used, as well as official statistical data from
+international financial institutions on the financial stability of banks, and the relevant
+parts of regulatory legal documents were comprehensively reviewed.
+      Scientific and practical significance of the research results. The scientific
+significance of the research results is determined by the fact that they can be widely
+used in determining priority areas aimed at ensuring the financial stability of banks in
+our country, increasing financial stability in this regard, researching the
+methodological foundations of the stability of the banking system, and conducting
+scientific research devoted to the development of the role of financial policy.
+      The practical significance of the research results is explained by the fact that the
+developed scientific proposals and practical recommendations can be used in the
+development of a scientific concept aimed at reforming the system aimed at increasing
+the stability of the banking system in Uzbekistan through the priority of ensuring the
+financial stability of banks, the development of regulatory legal acts, the development
+of a curriculum for such subjects as "Banking," "Money and Credit Fundamentals,"
+and "Monetary Policy" in higher educational institutions, and the possibility of
+strengthening its practical base.
+      Implementation of the research results: Based on the scientific results
+obtained in the areas of improving the priorities aimed at ensuring the financial
+stability of banks:
+      the proposal aimed at ensuring the monthly financial stability of the bank and
+maintaining a balance between capital adequacy and liquidity based on taking into
+account the direct and inverse proportional impact of term deposits on Tier 1 fixed
+capital in the long term and in the short term was used in the activities of AT
+Aloqabank (certificate of AT Aloqabank dated October 31, 2025 No. 25-04/5371). As
+a result, the share of bank term deposits increased by 1.5 times in 2024 compared to
+the end of 2023;
+      based on empirical analysis, when improving the mechanisms for managing
+assets and liabilities of commercial banks, the reverse effect of credit and leasing
+60
+operations on the leverage ratio in the long term was determined, and the proposal that
+the level of rebalancing of the bank's financial indicators will reach 72 percent within
+a month was used in the activities of AT Aloqabank (certificate of AT Aloqabank
+dated October 31, 2025 No. 25-04/5371). As a result, bank assets increased by
+6.7 trillion soums or 150 percent in 2024 compared to the end of 2023;
+      the proposal to prevent negative short-term fluctuations in liquidity and
+financial stability based on the introduction of mechanisms aimed at ensuring that
+bank income and deposits do not affect the bank's stable financing source in the short
+term, as well as to ensure the gradual restoration of this source in a long period, that
+is, 45-50 days, was used in the activities of AT Aloqabank (reference
+No. 25-04/5371 dated October 31, 2025 of AT Aloqabank). As a result, the bank's
+net stable financing indicator increased by 3.8% in 2024 compared to the end of
+2023;
+      the proposal to increase liquid assets that generate income in the process of
+redistributing the bank's internal financial resources by achieving an increase in the
+liquidity coverage ratio of the bank's stable financing volume in the short term was
+used in the activities of AT Aloqabank (reference No. 25-04/5371 dated October 31,
+2025 of AT Aloqabank). As a result, the bank's liquid assets increased by 6.4% in
+2024 compared to the end of 2023.
+      Approbation of the research results. The results of this study were tested at 4,
+including 2 republican and 2 international scientific and practical conferences.
+      Publication of research results. A total of 9 scientific works have been
+published on the topic of the dissertation, including 5 scientific articles in scientific
+publications recommended by the Higher Attestation Commission of the Republic of
+Uzbekistan for the publication of the main scientific results of doctoral dissertations,
+including 4 in republican and 1 in foreign journals, 4 abstracts of reports at scientific
+and practical conferences.
+      Structure and volume of the dissertation. The dissertation consists of an
+introduction, three chapters, a conclusion, a list of references and appendices.
+The volume of the dissertation is 126 pages.
+
+
+
+
+                                                                                      61
+                   E’LON QILINGAN ISHLAR RO’YXATI
+                  СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                      LIST OF PUBLISHED WORKS
+
+                             I boʻlim (I часть; Part I)
+
+      1. Djalilov G.K. The importance of bank profitability in ensuring financial
+stability // Science and innovation international scientific journal ISSN: 2181-3337
+volume 4 issue 9 september 2025 (Index Copernicus).
+      2. Djalilov G.K. Banklarda moliyaviy barqarorlikning nazariy asoslari// Yashil
+iqtisodiyot va taraqqiyot ilmiy-elektron jurnal – T.: 2025-yil, iyul. - № 7-son, - B.
+56-59. (ОАК Rayosatining 2023-yil 1-apreldagi 336/3-son qarori)
+      3. Djalilov G.K. Banklarda moliyaviy barqarorlikni ta’minlashda bank kapitali
+rentabelligining ahamiyati// “Ilgʻor iqtisodiyot va pedagogik texnologiyalar” ilmiy
+elektron jurnali. – T.: 2025-yil, IV son. – B. 227-231. (ОАК Rayosatining 2024-yil
+31-iyuldagi 336/5-son qarori)
+      4. Djalilov G.K. Banklarda moliyaviy barqarorlikni ta’minlashda bank aktivlari
+rentabelligi ahamiyati// Iqtisodiy taraqqiyot va tahlil ilmiy-elektron jurnali. – T.:
+2025-yil, 2025-yil, -№ VII son, iyul. - B. 36-40. (OAK Rayosatining 2023 yil 29
+dekabrdagi 347-son qarori).
+      5. Djalilov G.K. Banklarda moliyaviy barqarorligini ta’minlashda moliyaviy
+natijalar ahamiyati // “Muhandislik va iqtisodiyot” ilmiy-elektron jurnali. – T.: 2025-
+yil, iyun. - № 6-son, - B. 35-38. (ОАК Rayosatining 2024-yil 28-avgustdagi 360/5-
+son qarori).
+      6. Djalilov G.K. Banklarda moliyaviy barqarorlikni ta'minlash: Polsha tajribasi:
+Davlat va xususiy sektordagi raqamli transformatsiya jarayonlari va biznesni
+boshqarishda raqamli texnologiyalarning o'rni mavzusidagi respublika ilmiy-amaliy
+konferensiyasi tezislar to’plami. - Surxondaryo: 2024-y – B. 276-278.
+      7. Djalilov G.K. Tijorat banklarining aktivlari rentabelligini banklar moliyaviy
+barqarorligini ta’minlashdagi roli: "Milliy iqtisodiyotni isloh qilish va barqaror
+rivojlantirish istiqbollari" mavzusidagi xalqaro ilmiy-amaliy konferensiyasi
+materiallari to‘plami. Toshkent davlat iqtisodiyot universiteti huzuridagi
+“O‘zbekiston iqtisodiyotini rivojlantirishning ilmiy asoslari va muammolari” ilmiy-
+tadqiqot markazi. - Toshkent: 10-oktabr 2025-y – B. 248-251.
+      8. Джалилов Г.К. Обеспечение финансовой устойчивости банков: опыт
+Кореи и Турции/Перспективы развития науки в современном мире /Сборник
+научных статей по материалам XVIII Международной научно-практической
+конференции (20 июля 2025 г., г. Уфа). / В 2 ч. Ч.1 – Уфа: Изд. Научно-
+издательский центр Вестник науки, 2025. – С. 178-185.
+      9. Джалилов Г.К. Обеспечение финансовой устойчивости банков: опыт
+Малайзии/Технологические инновации и научные открытия / Сборник
+научных статей по материалам XVIII Международной научно-практической
+конференции (20 августа 2025 г., г. Уфа). / В 2 ч. Ч.1 – Уфа: Изд. Научно-
+издательский центр Вестник науки, 2025. – С. 187-192.
+62
+Avtoreferat «Public Publish Printing» nashriyotida tahrirdan o‘tkazildi.
+
+
+
+
+                Bosishga ruxsat etildi: 23.02.2026-yil.
+              Bichimi 60x84 1/16, «Times New Roman»
+              garniturada raqamli bosma usulida bosildi.
+       Shartli bosma tabog‘i 4,0. Adadi: 100. Buyurtma: № 25.
+
+                  «Public Publish Printing» MChJ
+                    bosmaxonasida chop etildi.
+              Toshkent, M.Ulug‘bek tum., Moylisoy, 22.
+                                                                           63
+

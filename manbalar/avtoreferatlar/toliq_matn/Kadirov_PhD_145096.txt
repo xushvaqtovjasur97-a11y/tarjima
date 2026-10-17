@@ -1,0 +1,2491 @@
+    BUXORO DAVLAT TEXNIKA UNIVERSITETI
+   HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+ PhD.03/2025.27.12.I.16.06 RAQAMLI ILMIY KENGASH
+          QARSHI DAVLAT UNIVERSITETI
+
+
+
+
+          KADIROV LUTFULLO XALIMOVICH
+
+
+
+TIJORAT BANKLARI MOLIYAVIY BOSHQARUV TIZIMI
+          SAMARADORLIGINI OSHIRISH
+
+
+
+
+                       08.00.13 – Menejment
+
+
+
+
+  Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                         AVTOREFERATI
+
+
+
+
+                           Buxoro – 2026
+                                                                                                 UО‘K: 336:330:005
+
+                        Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD)
+                             dissertatsiyasi avtoreferati mundarijasi
+     Оглавление автореферата диссертации доктора философии (PhD) по
+                         экономическим наукам
+           Content of dissertation abstract of Doctor of Philosophy (PhD) on
+                                  Economical Sciences
+
+
+Kadirov Lutfullo Xalimovich
+Tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirish............... 3
+
+Кадиров Лутфулло Халимович
+Повышение эффективности системы финансового управления
+коммерческих банков.......................................................................................             25
+
+Kadirov Lutfullo Khalimovich
+Improving the efficiency of the financial management system of commercial
+banks................................................................................................................... 49
+
+E’lon qilingan ishlar ro‘yxati
+Список опубликованных работ
+List of published works....................................................................................... 53
+    BUXORO DAVLAT TEXNIKA UNIVERSITETI
+   HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+ PhD.03/2025.27.12.I.16.06 RAQAMLI ILMIY KENGASH
+          QARSHI DAVLAT UNIVERSITETI
+
+
+
+
+          KADIROV LUTFULLO XALIMOVICH
+
+
+
+TIJORAT BANKLARI MOLIYAVIY BOSHQARUV TIZIMI
+          SAMARADORLIGINI OSHIRISH
+
+
+
+
+                       08.00.13 – Menejment
+
+
+
+
+  Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi
+                         AVTOREFERATI
+
+
+
+
+                           Buxoro – 2026
+       Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi mavzusi O‘zbekiston
+Respublikasi Oliy ta’lim, fan va innovatsiyalar vazirligi huzuridagi Oliy attestatsiya komissiyasida
+В2023.4.PhD/Iqt3600 raqam bilan ro‘yxatga olingan.
+
+       Dissertatsiya Qarshi davlat universitetida bajarilgan.
+      Dissertatsiya avtoreferati uch tilda (o‘zbek, rus, ingliz (rezyume)). Ilmiy kengash veb-sahifasi
+(www.bstu.uz) va «Ziyonet» Axborot-ta’lim portali (www.ziyonet.uz) da joylashtirilgan.
+
+       Ilmiy rahbar:                                     Ochilov Akram Odilovich
+                                                         iqtisodiyot fanlari doktori, professor
+
+       Rasmiy opponentlar:                               Xamidov Obidjon Xafizovich
+                                                         iqtisodiyot fanlari doktori, professor
+                                                         Tashmatov Sharof Urokboyevich
+                                                         iqtisodiyot fanlari falsafa doktori (PhD), dotsent
+
+       Yetakchi tashkilot:                               Termiz davlat universiteti
+
+
+       Dissertatsiya himoyasi Buxoro davlat texnika universiteti huzuridagi ilmiy darajalar beruvchi
+PhD.03/2025.27.12.I.16.06 raqamli Ilmiy kengashning 2026 yil 18 aprel kuni soat 1200 dagi majlisida bo‘lib
+o‘tadi. (Manzil: 200117, Buxoro shahri, Qayum Murtazoyev ko‘chasi, 15 uy. Tel.: (+99865) 223-78-84;
+e-mail: info@bstu.uz).
+       Dissertatsiya bilan Buxoro davlat texnika universiteti Axborot-resurs markazida tanishish mumkin
+(498 raqami bilan ro‘yxatga olingan). (Manzil: 200117, Buxoro shahri, Qayum Murtazoyev ko‘chasi, 15 uy.
+Tel.: (+99865) 223-78-84).
+      Dissertatsiya avtoreferati 2026 yil 4 aprel kuni tarqatildi.
+      (2026 yil 4 apreldagi 4 raqamli reyestr bayonnomasi).
+
+
+
+
+                                                                                                     A.B. Nizamov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash raisi,
+                                                                iqtisodiyot fanlari doktori, professor
+                                                                                                     Sh.N. Xayitov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash kotibi,
+                                                                iqtisodiyot fanlari doktori (DSc), professor
+                                                                                                     B.F. Azimov
+                                                                Ilmiy darajalar beruvchi Ilmiy kengash qoshidagi
+                                                                Ilmiy seminar raisi, iqtisodiyot fanlari nomzodi,
+                                                                dotsent
+              KIRISH (Falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+      Dissertatsiya mavzusining dolzarbligi va zarurati. Jahon iqtisodiyotida tijorat
+banklarining moliyaviy boshqaruv tizimi samaradorligini oshirish barqaror bank faoliyati,
+moliyaviy barqarorlik va real sektorni kreditlash hajmini kengaytirish orqali iqtisodiy
+o‘sishga kuchli multiplikativ ta’sir ko‘rsatadi. Samarali moliyaviy boshqaruv tizimi aktiv
+va passivlar strukturasini optimallashtirish, likvidlik va risklarni boshqarish, kapital
+yetarliligini ta’minlash hamda foydalilikni barqaror oshirishga xizmat qiladi. Xorijiy
+tadqiqotlarda “zamonaviy moliyaviy boshqaruv amaliyotlari bank foydaliligi va kengayish
+strategiyalariga ijobiy ta’sir ko‘rsatib, ularning raqobatbardoshligini mustahkamlaydi”1
+degan xulosa ilgari surilgan. Shu bilan birga, raqamli texnologiyalar, risk-menejment va
+komplayensni integratsiya qilgan moliyaviy boshqaruv modellari bank sektorida shoklarga
+chidamlilikni oshiradi va moliyaviy inklyuziyani kengaytiradi. Shuning uchun ham tijorat
+banklari moliyaviy boshqaruv tizimi samaradorligini oshirish masalalarini ilmiy tadqiq
+etish global moliyaviy barqarorlik va iqtisodiy o‘sishni rag‘batlantirish nuqtai nazaridan
+maqsadga muvofiq hisoblanadi.
+      Jahon amaliyotida tijorat banklari moliyaviy boshqaruv tizimi samaradorligini
+oshirish masalalari bo‘yicha ilmiy tadqiqotlar barqarorlik, risklarni cheklash va foydalilikni
+optimallashtirishni ta’minlashga qaratilgan holda, korporativ boshqaruv, raqamli
+transformatsiya va xalqaro me'yoriy talablar bilan uyg‘unlikda olib borilmoqda. Mazkur
+tadqiqotlarda, asosan, aktiv-passivlarni boshqarish va likvidlikni optimallashtirish, kredit
+risklarini boshqarish va stress-testlash modellarini takomillashtirish, kapital yetarliligini
+baholash va uning tarkibini optimallashtirish, raqamli texnologiyalar asosida moliyaviy
+monitoring va prognozlash usullarini joriy etish, shuningdek, komplayens va ichki audit
+tizimlarini kuchaytirish yo‘nalishlari ustuvor hisoblanadi.
+      So‘nggi yillarda O‘zbekistonda tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirishning institutsional asoslarini shakllantirish va moliyaviy boshqaruv
+strategiyasini ishlab chiqish jarayonida bir qator ishlar amalga oshirildi. Ammo, hozirgi
+kunda tijorat banklari likvidligini boshqarish jarayonida bank aktivlarini risk darajasi yuqori
+boʻlmagan tarmoq va sohalariga nisbatan yoʻnaltirish, aktivlar tarkibini tahlil qilish orqali
+ularni moliya bozorining ishonchli va daromad darajasi boʻyicha eng maqbul tuzilmasiga
+joylashtirish sur’atlari yetarli emas. Shuning uchun ham O‘zbekiston Respublikasini 2020
+- 2025-yillarga mo‘ljallangan bank tizimini isloh qilish strategiyasida kreditlashni faqat
+bozor shartlari asosida amalga oshirish, kredit portfeli va tavakkalchiliklarni boshqarish
+sifatini yaxshilash, moliyaviy tavakkalchiliklarni baholash uchun texnologik yechimlarni
+tatbiq etish orqali bank tizimining moliyaviy barqarorligini ta’minlash jarayonlari ustuvor
+vazifa sifatida belgilangan2. Mazkur vazifalar tijorat banklari moliyaviy boshqaruv tizimi
+samaradorliga ta’sir koʻrsatuvchi omillar konsentrasiyasini ta’minlash mexanizmlarini
+hamda moliyaviy barqarorligini ta’minlashga yo‘naltirilgan marketing kommunikatsiya
+tizimi ishlab chiqish, banklarning individual kredit oluvchilar bilan ishlash bo‘yicha kredit
+portfeli modelini shakllantirish, banklarning moliyaviy boshqaruv mexanizmini fokuslash
+orqali moliyaviy munosabatlarini tashkil etishning kommunikativ jarayonlarini
+muvofiqlashtirishga yo‘naltirilgan ilmiy tadqiqotlarni amalga oshirishni taqozo etadi.
+
+1
+ https://www.pjlss.edu.pk/pdf_files/2025_1/6672-6687.pdf
+2
+  O‘zbekiston Respublikasi Prezidentining 2020-yil 12-maydagi “2020 — 2025-yillarga mo‘ljallangan O‘zbekiston
+Respublikasining bank tizimini isloh qilish strategiyasi to‘g‘risida”gi PF-5992-son Farmoni.
+                                                                                                           5
+      O‘zbekiston Respublikasi Prezidentining 2023-yil 11-sentyabrdagi PF-158-son
+““O‘zbekiston-2030” strategiyasi to‘g‘risida”, 2022-yil 28-yanvardagi PF-60-son
+“2022-2026 yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi
+to‘g‘risida”, 2020-yil 12-maydagi PF-5992-son “2020-2025 yillarga mo‘ljallangan
+O‘zbekiston Respublikasining bank tizimini isloh qilish strategiyasi to‘g‘risida”gi
+farmonlari, 2025-yil 15-apreldagi PQ-142-son “Qarzdorlik hisobiga banklar balansiga
+olingan mol-mulklar realizatsiyasini jadallashtirish chora-tadbirlari to‘g‘risida”, 2017-yil
+12-sentyabrdagi PQ-3270-son “Respublika bank tizimini yanada rivojlantirish va
+barqarorligini oshirish chora-tadbirlari to‘g‘risida”gi qarorlari va sohaga oid boshqa
+meʼyoriy-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishda mazkur
+dissertatsiya ishi muayyan darajada xizmat qiladi.
+      Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yoʻnalishlariga bogʻliqligi. Dissertatsiya respublika ilm-fan va texnologiyalari
+rivojlanishining “Demokratik va huquqiy jamiyatni ma’naviy-axloqiy hamda madaniy
+rivojlantirish, innovatsion iqtisodiyotni shakllantirish”ning ustuvor yoʻnalishiga muvofiq
+bajarilgan.
+      Muammoning oʻrganilganlik darajasi. Tijorat banklari moliyaviy boshqaruv
+tizimini takomillashtirish, xususan banklar faoliyatida moliyaviy barqarorlikni ta’minlash,
+risklarni boshqarish va raqamli texnologiyalarni joriy etish orqali moliyaviy boshqaruv
+tizimi samaradorligini oshirish masalalari koʻplab xorijiy olimlar tomonidan tadqiq
+qilingan. Xususan, Bazel qoʻmitasi tavsiyalari asosida bank tizimida moliyaviy
+boshqaruvni takomillashtirishga doir konseptual yondashuvlar Sinkey J.F., Haslem J.A.,
+Zaman M., Alexandru C., Genu G., Romanescu M.L., Ariffin N.M., Kassim S.H., Bxarat
+S., Shamvey T., Nimalathasan B., Stulz R., Shershneva E.G., Kondyukova E.S., Litvak
+B.G3 kabi qator xorij iqtisodchi olimlari tomonidan amalga oshirilgan.
+      Oʻzbekiston tijorat banklari faoliyatida moliyaviy boshqaruv tizimini samarali tashkil
+etishda kapital yetarliligi, likvidlikni boshqarish jarayonlarini tizimli tashkil etish
+yoʻnalishlari iqtisodchi olimlardan Jumaniyozov M., Qurbonov A.A., Toshpoʻlatov A.M.,
+Roʻziyev B.O., Xoʻjayev B.A., Karimov O.M., Norqulov B.Sh., Soliyev A.K., Bektemirov
+A., Omonov A.A., Xaydarov Z.Sh., Niyozov Z.D., Bobakulov T.I., Ochilov A.O., Navruz-
+Zoda B.N., Boboyev A.Ch4 va boshqalarning ilmiy tadqiqotlarida alohida oʻrin egallaydi.
+
+3
+ Sinkey, J.F. Commercial Bank Financial Management: In the Financial-Services Industry /J.F. Sinkey. – 4 ed. New York:
+Macmillan Publishing Company, 1992.–900 p; Haslem A.J. Commercial Bank Management: Text and Readings (July 25,
+2015). John A. Haslem, Commercial Bank Management: Text and Readings. Reston, VA: Reston Publishing (Prentice-
+Hall), 1985, Available at SSRN: https://ssrn.com/abstract=2606221; Zaman, M. (2017). The Banking System of Bangladesh
+and Its Present Condition, Kepler. Retrieved from http://www.kepler. digital/ banking-system-of-bangladesh; Alexandru,
+C., Genu, G., Romanescu, M. L. (2008). The Assessment of Banking Performances- Indicators of Performance in Bank
+Area. MPRA Paper No.11600; Ariffin N.M. & Kassim S.H (2011). Risk Management Practices and Financial Performance
+ofIslamic Banks: Malaysians Evidence. Islamic Economics & Finance Pedia; Bharath, S., and T. Shumway, (2008).
+Forecasting Default with the Merton Distance to Default Model. Review of Financial Studies 21, 1339 – 1369; Nimalathasan
+B. (2008). A comparative study of financial performance of banking sector in Bangladesh – An application of CAMELS
+rating / Annals of University of Bucharest, Economic and Administrative Series, Nr. 2 141-152; Stulz R. (2008). Risk
+Management Failures: What Are Theyand When Do They Happen? Journal of Applied Corporate Finance, Volume 20,
+Number 4, pp. 58-67; Е.Г.Шершнева, Е.С.Кондюкова. Банковский менеджмент. Учебное пособие. Екатеринбург:
+Изд-во Урал. 2017. 266 с; Литвак Б.Г. Разработка управленческого решения: учебник. –М.: Дело, 2000.–392 с.
+4
+ Жуманиёзов М. Тижорат банкларининг кредит сиёсатини такомиллаштириш йўллари. Иқт.фанл. номз. илм. дараж.
+олиш учун дисс. автореферати. Т.: 2006. – 24 б.; Қурбонов А.А. Ўзбекистонда тижорат банклари фаолиятини
+молиявий-иқтисодий таҳлил қилиш. Иқт.фанл. номз. илм. дараж. олиш учун дисс. автореферати. Т.: 2009.– 21 б;
+Тошпўлатов А.М. Банк ресурсларидан самарали фойдаланиш механизмларини такомиллаштириш. Иқт.фанл. номз.
+илм. дараж. олиш учун дисс.Т.: 2010.– 125 б.; Рўзиев Б.О. Тижорат банкларининг инвестиция фаолиятини молиявий
+6
+      Dissertatsiya mavzusini dissertatsiya bajarilayotgan oliy ta’lim va ilmiy-tadqiqot
+muassasalarining ilmiy-tadqiqot ishlari bilan bogʻliqligi. Dissertatsiya mavzusi
+boʻyicha tadqiqot ishlari Qarshi davlat universitetining ilmiy-tadqiqot ishlari rejasiga
+muvofiq ilmiy loyiha doirasida bajarilgan.
+      Tadqiqotning maqsadi Oʻzbekistonda tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirishga doir ilmiy asoslangan taklif va amaliy tavsiyalar ishlab
+chiqishdan iborat.
+      Tadqiqotning vazifalari:
+      tijorat banklari moliyaviy boshqaruv tizimining nazariy asoslarini oʻrganish va
+ularning rivojlanish bosqichlarini tadqiq etish;
+      tijorat banklari moliyaviy boshqaruv tizimining samaradorligiga ta’sir ko‘rsatuvchi
+omillarni tasniflash, ularning bank moliyaviy xavfsizligiga ta’sirini rivojlanish
+xususiyatlarini aniqlash;
+      tijorat banklari moliyaviy boshqaruvining diversifikatsion mexanizmini shakllantirish
+orqali korporativ mijozlarni kredit qarzdorlik majburiyatlarini bajarish muddatini
+qisqartirish imkoniyatlarini asoslash;
+      tijorat banklarining standart aktivlari sifatini oshirish va kredit operatsiyalarini amalga
+oshirishdagi ratsional jarayonlarni baholash;
+      tijorat banklari moliyaviy boshqaruvida moliyaviy risk ko‘rsatkichlarini guruhlash
+orqali boshqaruv mexanizmini fokuslash tizimini shakllantirish;
+      tijorat banklari moliyaviy barqarorligini ta’minlashga yo‘naltirilgan marketing
+kommunikatsiya tizimini ishlab chiqish;
+      tijorat banklarining yalpi daromadi va unga ta’sir etuvchi omillarni iqtisodiy-
+matematik modellashtirish asosida prognoz variantlarini ishlab chiqish orqali bank
+moliyaviy boshqaruvini optimallashtirish imkoniyatlarini asoslash;
+      raqamli iqtisodiyot sharoitida tijorat banklari moliyaviy boshqaruvi samaradorligini
+oshirishning raqamli ekotizimini ishlab chiqish;
+      bank moliyaviy boshqaruv strategiyasining xorij tajribasiga asosan modellarida
+moliyaviy munosabatlarni shakllantirish mexanizmini tadqiq etish;
+      tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirish yoʻnalishlariga
+doir ilmiy taklif va amaliy tavsiyalar ishlab chiqish.
+      Tadqiqotning obyekti bo‘lib O‘zbekiston Respublikasi tijorat banklari moliyaviy
+boshqaruv faoliyati olingan.
+
+бошқариш асослари. Иқт.фанл. номз. илм. дараж. олиш учун дисс.Т.: 2011.– 148 б.; Хўжаев Б.А. Банк тизимида
+кредит портфелини шакллантириш ва рискларни бошқариш. Иқт.фанл. номз. илм. дараж. олиш учун дисс.
+автореферати. Т.:2014.–26 б.; Каримов О.М. Ўзбекистон банк тизимида молиявий менежментни
+такомиллаштиришнинг устувор йўналишлари. Иқт.фанл. номз. илм. дараж. олиш учун дисс. Т.: 2016.– 172 б.;
+Норқулов Б.Ш. Тижорат банкларининг ликвидлигини бошқариш ва барқарорлик даражасини ошириш. Иқт.фанл.
+номз. илм. дараж. олиш учун дисс. автореферати. Т.: 2017.–23 б.; Солиев А.К. Банк-мижоз муносабатларини
+ривожлантиришда маркетинг стратегияларининг ўрни. Иқт.фанл. номз. илм. дараж. олиш учун дисс. Т.: 2015. – 134
+б.; Bektemirov A., Omonov A.A., Xaydarov Z.Sh., Z.D.Niyozov. Tijorat banklari aktiv va passivlarini boshqarish. Oʻquv
+qoʻllanma. – Samarqand: SamISI, 2020. 240 bet.; Бобакулов Т.И. Ўзбекистонда банк тизимини ривожлантиришнинг
+замонавий муаммолари// “Moliyaviy texnologiyalar” ilmiy elektron jurnali. №3/2023. ISSN: 2181-3965., Очилов А.О.,
+Коновалова О.А., Аборкина Е.О., Акимов С.А., Тураева М.Р. Об использовании генеративного искусственного
+интеллекта в банковской сфере//“Iqtisodiyot va innovatsion texnologiyalar”. №4/2024, iyul avgust (№ 00072). 97-108
+с.; Навруз-Зода Б.Н. Коронавирус пандемияси ва глобал инқирози шароитида нанокредитлаш усулини қўллаш,
+КарДУ хабарлари илмий-назарий, услубий журнал. № 2/2020. 185-190 б., A.Ch.Boboyev, F.Z.Toshev. Mintaqada
+xususiy mulkchilik subektlari faoliyatini rivojlantirishda tijorat banklarining o‘rni. “O‘zbekiston iqtisodiyotini institutsional
+rivojlantirish: yutuqlar, muammolar, yechimlar” mavzusidagi respublika ilmiy-amaliy konferensiya materiallari to‘plami.
+T., 2016. 281-283 b.
+                                                                                                                               7
+      Tadqiqotning predmeti bo‘lib tijorat banklari moliyaviy boshqaruv jarayonida
+vujudga keladigan tashkiliy-iqtisodiy munosabatlar hisoblanadi.
+      Tadqiqotning usullari. Tadqiqot jarayonida ilmiy abstraksiya, analiz va sintez,
+statistik tahlil, qiyosiy tahlil, induksiya va deduksiya, iqtisodiy-matematik modellashtirish
+va prognozlashtirish kabi usullar qo‘llanilgan.
+      Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+      kredit resurslarini bozor qiymati va bank aktivlarining rentabellik darajasiga
+muvofiqligini belgilash hisobiga ko‘chmas mulkning bozor qiymatini o‘zgarishiga
+asoslangan kredit portfelini shakllantirish orqali korporativ mijozlarga ajratilgan kredit
+liniyalari bo‘yicha qarzdorlik majburiyatlarini bajarish muddatini qisqartirish asoslangan;
+      tijorat banklari kredit riskini baholash modeliga asosan kredit riski darajasining “past”
+(0≤X≤10), “o‘rta” (10≤X≤25), “yuqori” (25≤X≤40) xavf darajasi chegaralari sharoitida
+bankdan qarz oluvchilarning ssuda foizi bo‘yicha defolt ehtimolini baholash orqali bank
+moliyaviy boshqaruv tizimi samaradorligini oldindan bashorat qilish taklifi asoslangan;
+      tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishda moliyaviy
+tahdidlarning paydo bo‘lishi va amalga oshirilishining tegishli xususiyatlarini o‘zida
+namoyon etgan risk ko‘rsatkichlarini guruhlash va ularni o‘zaro muvofiqlashgan tizimini
+tasniflashning boshqaruv mexanizmini fokuslash taklifi asoslangan;
+      O‘zbekistonda tijorat banklarining iqtisodiy samaradorlik darajasini oshirishning
+ekonometrik modellari asosida yalpi daromad va unga ta’sir etuvchi omillarning 2028-yilga
+qadar prognoz variantlari ishlab chiqilgan.
+      Tadqiqotning amaliy natijalari quyidagilardan iborat:
+      tijorat banklari moliyaviy barqarorligini ta’minlashga yo‘naltirilgan marketing
+kommunikatsiya tizimini shakllantirish orqali mijozlarning bank xizmatlariga nisbatan
+munosabatlarini kompleks asosda o‘rganish va aholining bank xizmatlariga nisbatan xulq-
+atvorini shakllantirishning simmetrik va assimetrik axborot almashinuvini ta’minlash
+yо‘llari aniqlangan;
+      tijorat banklarining foizli daromadlar va foizli xarajatlarini yalpi daromadiga ta’sirini
+iqtisodiy-matematik modellashtirish orqali bank moliyaviy boshqaruvini optimallashtirish
+yo‘llari ishlab chiqilgan;
+      tijorat banklari moliyaviy boshqaruvining xorijiy tajribalariga asoslangan korporativ,
+innovatsion va ratsional strategiyalari asosida moliyaviy boshqaruvni amalga oshirish
+mexanizmining funksional xususiyatlari tizimlashtirilgan;
+      raqamli iqtisodiyot sharoitida tijorat banklari moliyaviy boshqaruvi samaradorligini
+oshirishning raqamli ekotizimini shakllantirish orqali bank moliyaviy boshqaruvidagi
+jarayonlarni muvofiqalashtirish imkoniyatlari tizimlashtirilgan.
+      Tadqiqot natijalarining ishonchliligi. Tadqiqot natijalarning ishonchliligi unda
+amalga oshirilgan yondashuv, usullar va nazariy maʼlumotlarning rasmiy manbalardan
+olinganligi, keltirilgan tahlillar va tajriba-sinov ishlari samaradorligining matematik-
+statistik ishonchlilik intervalida tekshirilganligi, xulosa, taklif va tavsiyalarning amaliyotga
+joriy etilganligi, olingan natijalarning vakolatli tashkilotlar tomonidan tasdiqlanganligi
+bilan izohlanadi.
+      Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining ilmiy
+ahamiyatidan tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishga oid
+nazariy-metodologik va uslubiy apparatni shakllantirish hamda sohadagi muammolarni
+bartaraf etishga bagʻishlangan maxsus ilmiy tadqiqotlarni amalga oshirishda foydalanish
+8
+mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining amaliy ahamiyati doirasida ishlab chiqilgan takliflar va amaliy
+tavsiyalardan respublika tijorat banklari moliyaviy boshqaruv tizimini takomillashtirish,
+shuningdek, moliyaviy boshqaruv mexanizmlarining makroprudensial me’yori hamda
+mezonlarini takomillashtirishda foydalanish mumkinligi bilan izohlanadi.
+      Tadqiqot natijalarining joriy qilinishi. Tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirish boʻyicha ishlab chiqilgan ilmiy takliflar va amaliy tavsiyalar
+asosida:
+      kredit resurslarini bozor qiymati va bank aktivlarining rentabellik darajasiga
+muvofiqligini belgilash hisobiga ko‘chmas mulkning bozor qiymatini o‘zgarishiga
+asoslangan kredit portfelini shakllantirish orqali korporativ mijozlarga ajratilgan kredit
+liniyalari bo‘yicha qarzdorlik majburiyatlarini bajarish muddatini qisqartirish taklifi
+“Mikrokreditbank” ATB tomonidan amaliyotga joriy etilgan (“Mikrokreditbank” ATBning
+2024-yil 3-dekabrdagi 05-12/32544-son ma’lumotnomasi). Mazkur ilmiy taklifning
+amaliyotga joriy etilishi natijasida ko‘chmas mulkning bozor qiymatini o‘zgarishiga
+asoslangan kredit portfelini shakllantirish orqali korporativ mijozlarga ajratilgan kredit
+liniyalari bo‘yicha qarzdorlik majburiyatlarini bajarish muddatini qisqartirish imkoni
+yaratilgan;
+      tijorat banklari kredit riskini baholash modeliga asosan kredit riski darajasining “past”
+(0≤X≤10), “o‘rta” (10≤X≤25), “yuqori” (25≤X≤40) xavf darajasi chegaralari sharoitida
+bankdan qarz oluvchilarning ssuda foizi bo‘yicha defolt ehtimolini baholash orqali bank
+moliyaviy boshqaruv tizimi samaradorligini oldindan bashorat qilish taklifi
+“Mikrokreditbank” ATB tomonidan amaliyotga joriy etilgan (“Mikrokreditbank” ATBning
+2024-yil 3-dekabrdagi 05-12/32544-son ma’lumotnomasi). Mazkur ilmiy taklifning
+amaliyotga joriy etilishi natijasida bankdan qarz oluvchilarning ssuda foizi bo‘yicha defolt
+ehtimolini oldindan bashorat qilish imkoni yaratilgan;
+      tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishda moliyaviy
+tahdidlarning paydo bo‘lishi va amalga oshirilishining tegishli xususiyatlarini o‘zida
+namoyon etgan risk ko‘rsatkichlarini guruhlash va ularni o‘zaro muvofiqlashgan tizimini
+tasniflashning boshqaruv mexanizmini fokuslash taklifi “Mikrokreditbank” ATB
+tomonidan amaliyotga joriy etilgan (“Mikrokreditbank” ATBning 2024-yil 3-dekabrdagi
+05-12/32544-son ma’lumotnomasi). Mazkur ilmiy taklifning amaliyotga joriy etilishi
+natijasida risk ko‘rsatkichlarini guruhlash va ularni o‘zaro muvofiqlashgan tizimini
+tasniflash orqali tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirish
+imkoni yaratilgan;
+      O‘zbekistonda tijorat banklarining iqtisodiy samaradorlik darajasini oshirishning
+ekonometrik modellari asosida yalpi daromad va unga ta’sir etuvchi omillarning 2028-yilga
+qadar ishlab chiqilgan prognoz variantlaridan foydalanish taklifi “O‘zsanoatqurilishbank”
+ATB tomonidan amaliyotga joriy etilgan (“O‘zsanoatqurilishbank” ATBning 2025-yil
+23-dekabrdagi 03-05/32272-son ma’lumotnomasi). Mazkur ilmiy taklifning amaliyotga
+joriy etilishi natijasida tijorat banklarining iqtisodiy samaradorlik darajasini oshirishning
+ekonometrik modellari asosida yalpi daromad va unga ta’sir etuvchi omillarning
+istiqboldagi o‘zgarishlarini oldindan baholash va muvofiqlashtirish imkoni yaratilgan.
+      Tadqiqot natijalarining aprobatsiyasi. Mazkur tadqiqot natijalari 8 ta ilmiy
+anjumanda, jumladan, 4 ta xalqaro va 4 ta respublika ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+                                                                                             9
+     Tadqiqot natijalarining e’lon qilinganligi. Dissertatsiya mavzusi bo‘yicha jami
+17 ta ilmiy ish chop etilgan bo‘lib, shulardan O‘zbekiston Respublikasi Oliy attestasiya
+komissiyasining dissertatsiyalar asosiy ilmiy natijalarini nashr etish tavsiya etilgan ilmiy
+nashrlarda 9 ta maqola, jumladan, 7 tasi respublika va 2 tasi xorijiy jurnallarda chop etilgan.
+     Dissertatsiyaning tarkibi va hajmi. Dissertatsiya kirish, uchta bob, xulosa, hamda
+foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertatsiyaning hajmi 126 betni tashkil
+etgan.
+                            DISSERTATSIYANING ASOSIY MAZMUNI
+      Dissertatsiyaning kirish qismida mavzuning dolzarbligi va ilmiy ahamiyati
+asoslangan, tadqiqotning maqsadi va asosiy vazifalari, obyekti va predmeti tavsiflangan,
+respublika fan va texnologiyalar rivojlanishining ustuvor yo‘nalishlariga mosligi
+ko‘rsatilgan, ilmiy yangiligi va amaliy natijalari bayon qilinib, olingan natijalarning ilmiy
+hamda amaliy ahamiyati yoritib berilgan, tadqiqot natijalarini amaliyotga joriy qilish, nashr
+etilgan ishlar va dissertatsiya tuzilishi bo‘yicha maʼlumotlar keltirilgan.
+      Dissertatsiya ishining birinchi bobi “Tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirishning ilmiy-nazariy asoslari” deb nomlangan bo‘lib, mazkur bobda
+tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishning konseptual asoslar
+tadqiq etilgan, tijorat banklari moliyaviy boshqaruv tizimi samaradorligiga ta’sir
+koʻrsatuvchi omillar tizimlashtirilgan, tijorat banklari moliyaviy boshqaruv modellarida
+boshqaruv tizimi samaradorligini oshirish mexanizmining tashkiliy asosi umumlashtirilgan.
+      Bugungi kunda har bir mamlakat iqtisodiyotida bank tizimini takomillashtirish va
+uning to‘lov qobiliyatini mustahkamlashga doir chora-tadbirlarni amalga oshirish ichki
+moliyaviy munosabatlarni tartibga solishning muhim sharti hisoblanishi bilan bir qatorda,
+uning xalqaro moliya tizimiga chuqur integratsiyasini ta’minlashga keng imkoniyat yaratib
+beradi. Mamlakatda bozor munosabatlarini takomillashtirish tizimining kompleks asosida
+ishlab chiqarish munosabatlarining doiraviy sikli samaradorligini oshirish bilan bog‘liq
+muammolarning optimal yechimini topish, tijorat banklari zimmasiga qator tashkiliy-
+iqtisodiy vazifalarni yuklash barobarida bankning moliyaviy boshqaruv tizimi
+samaradorligini oshirish dolzarb ahamiyat kasb etishidan dalolat beradi.
+      Oʻz navbatida tijorat banklari moliyaviy boshqaruv tizimida pul oqimlari harakati
+bilan bog’liq qator operatsion munosabatlarning ortishi; bank tizimida moliyaviy oqimlar
+harakatiga alohida e’tibor qaratish, mazkur jarayonni tizimli tartibda rivojlanishiga ta’sir
+ko‘rsatuvchi omillarni tahlil qilish va tegishli tartibda baholashga doir ilmiy-uslubiy
+yondashuv zaruriyatini yuzaga keltiradi.
+      Hozirgi kunga kelib jahon bank amaliyotida yirik tijorat banklari tomonidan moliya
+bozorida qariyb 500-700 tagacha boʻlgan turli moliyaviy operatsiyalar va vositachilik
+xizmatlari amalga oshirilmoqda5. Mazkur moliyaviy xizmatlarning miqdoriy
+ko‘rsatkichlarini ortib borishi tijorat banklarining moliyaviy boshqaruv tizimiga toʻgʻridan-
+toʻgʻri ta’sir etadigan sifat ko‘rsatkichlarini takomillashtirishni taqozo etadi.
+      Mamlakatimiz bank tizimini rivojlantirishning hozirgi bosqichi, tijorat banklari
+oʻrtasida raqobat muhitini tashkil etish va moliyaviy boshqaruv tizimida erkin bozor
+munosabatlarini joriy etish orqali tijorat banklarida muvozanatlashgan moliyaviy
+resurslarni shakllantirishga xizmat qiladigan moliya siyosatini amalga oshirishni taqozo
+5
+https://studizba.com/lectures/jekonomika-i-finansy/finansovyj-bankovskij-menedzhment/44885-finansovyj-bankovskij-
+menedzhment-i-ego-mesto-v-sisteme-upravlenija-bankom.html
+10
+etadi. Mazkur moliyaviy siyosat tijorat banklari tomonidan amalga oshiriladigan ochiq
+bozor operatsiyalarining kengaytirish hisobiga tijorat banklarining moliya bozoridagi
+investitsion faolligini hamda korxona va tashkilotlarning takror ishlab chiqarish jarayoni
+bilan bog’liq moliyaviy munosabatlarini samarali tashkil etishga imkon beradi. Tijorat
+banklari va korxonalar o‘rtasidagi o‘zaro integratsion moliyaviy tizim ta’sirida riskli
+jarayonlarning ortib borishi tijorat banklarining tegishli moliyaviy strategiyasiga muvofiq
+moliyaviy operatsiyalarni bankning umumiy moliyaviy boshqaruv tizimiga
+muvofiqlashtirish va bank moliyaviy boshqaruvining moslashuvchan vositalar majmuasiga
+asoslangan boshqaruv portfelini shakllantirish va doimiy tarzda takomillashtirib borishga
+nisbatan zaruriyatni yuzaga keltiradi.
+      Tijorat banklari moliyaviy menejmentining tashkiliy asosini tahlil qilish, bankning
+moliyaviy siyosatiga tegishli bo‘lgan maqsadlarni samarali amalga oshirishda turli
+moliyaviy nomutanosibliklarni guruhlash va sof raqobat muhiti sharoitida eng yirik
+raqobatchi banklar moliyaviy siyosatini bank missiyasiga ta’sirini oʻrganish, bankning
+barqaror moliyaviy holatini saqlab qolishga imkon beradigan chora tadbirlarni ishlab
+chiqishga ta’sir ko‘rsatadi.
+      Tijorat banklari moliyaviy boshqaruv tizimida yuzaga keladigan omillarning
+tartiblashgan kombinatsiyasi natijaviyligi bank moliyaviy boshqaruv tizimi samaradorligi
+sifatida xizmat qiladi. Bu holatni chuqurroq o‘rganish maqsadida tijorat banklari moliyaviy
+boshqaruv tizimiga ta’sir koʻrsatuvchi omillarni ichki va tashqi omillarga asoslangan holda
+guruhlash maqsadga muvofiq.
+      Tijorat banklari moliyaviy boshqaruv tizimi samaradorligiga ta’sir ko‘rsatuvchi
+omillarning tegishli konsentratsiyasini ta’minlashdan asosiy maqsad bankning moliyaviy
+barqarorligiga erishishdan iborat boʻlib, bank moliyaviy boshqaruv tizimi doirasida ma’lum
+maqsadga erishish jarayonini umumiy boshqaruv mexanizmlariga muvofiqlashtirish uchun
+tegishli vositalar uyg’unligi talab etiladi. Bank tizimining tashkiliy asosini takomillashtirish
+iqtisodiyotning ishlab chiqarish quvvatlarini yangilash, iqtisodiy resurslarni tarmoqlar
+doirasida samarali taqsimlash imkoniyatlarini takomillashtirish orqali ishlab chiqarishning
+jahon bozoridagi raqobatbardosh tizimini shakllantirishda tegishli ustuvorlikni ta’minlab
+beradi. Shu boisdan mamlakat moliya bozoridagi koʻplab operatsiyalarning muvaffaqiyatli
+faoliyati iqtisodiyotning real va moliyaviy sektori o‘rtasida tegishli mutanosiblikni
+ta’minlashni talab etadi. Mavjud moliyaviy tizim samaradorligi tijorat banklarining risk
+munosabatlari bilan bog’liq faoliyatidagi natijadorligi orqali namoyon bo‘ladi. Ushbu holat
+bank faoliyati bilan bog’liq moliyaviy operatsiyalarda kutilgan risk darajasini yoki uning
+salbiy oqibatlarini bartaraf etish imkoniyatini ta’minlaydigan moliyaviy munosabatlarni
+tashkil etishni talab etadi.
+      Muallif fikricha, tijorat banklari moliyaviy boshqaruv tizimi samaradorligiga ta’sir
+koʻrsatuvchi ichki omillar bank faoliyati bilan bevosita bogʻliq bo‘lgan strategik va taktik
+munosabatlarni muvofiqlashtirishga xizmat qiladi. Ushbu omillar real sharoitda tijorat
+banklari moliyaviy barqarorligi bilan bog‘liq riskli munosabatlarni tahlil qilishga imkon
+beradi. Mazkur omillar quyidagilardan iborat:
+      - tijorat banklarida moliyaviy risklarni boshqarish amaliyotining tashkiliy moliyaviy
+boshqaruv tizimiga ta’sir ko‘rsatuvchi omillar;
+      - tijorat bankining kapitallashuv darajasiga ta’sir ko‘rsatuvchi omillar;
+      - tijorat banklari aktiv va passiv operatsiyalarining sifatiga ta’sir ko‘rsatuvchi omillar;
+      - tijorat banklari kredit portfelining risk darajasiga ta’sir ko‘rsatuvchi omillar;
+                                                                                              11
+      - tijorat banklarining axborot xavfsizligiga ta’sir ko‘rsatuvchi omillar.
+      Tijorat banklarining moliyaviy boshqaruv tizimiga ta’sir koʻrsatuvchi tashqi omillar
+quyidagilardan iborat:
+      - mamlakatning makroiqtisodiy barqarorligi va iqtisodiy rivojlanish darajasi bilan
+bog’liq bo‘lgan omillar;
+      - mamlakat moliya tizimini me’yoriy-huquqiy asoslarini takomillashtirishga ta’sir
+ko‘rsatuvchi omillar;
+      - iqtisodiyotning real sektoridagi investitsion jarayonlarga ta’sir ko‘rsatuvchi omillar;
+      - aholining bank tizimiga nisbatan shakllangan ijtimoiy-psixologik holatini aks
+ettiradigan omillar.
+      - tijorat banklari moliyaviy boshqaruv tizimi samaradorligiga ta’sir koʻrsatuvchi
+omillarni tartibga solish jarayoni bank moliyaviy boshqaruvi bilan bogʻliq operativ va
+strategik qarorlar integratsiyasini taqozo etadi. Oʻz oʻrnida moliyaviy boshqaruv jarayoni
+bilan bog’liq qarorlar samaradorligi tegishli omillarning konsentratsiyasini ta’minlash
+mexanizmiga asoslanadi. Mazkur mexanizmning kompleks asosini quyidagi ko‘rinishda
+ifodalash mumkin (1-rasm).
+      Tijorat banklarining moliyaviy tizim samaradorligi risk munosabatlari bilan bog’liq
+faoliyatdagi natijadorlik orqali namoyon bo‘ladi. Ushbu holat bank faoliyati bilan bog’liq
+moliyaviy operatsiyalarda kutilgan risk darajasini yoki uning salbiy oqibatlarini bartaraf
+etish imkoniyatini ta’minlaydigan moliyaviy munosabatlarni tashkil etishni talab etadi.
+
+
+                                                  Tijorat banklari moliyaviy
+                                                       boshqaruv tizimi
+
+
+
+                                                                                                   Tijorat
+                          Sof foiz                      Tijorat banklari                       banklarining
+                         marjasining                       moliyaviy                              likvidlik
+                         o‘zgarishi                      barqarorligini                         standartlari
+                                                     ta'minlash vositalari
+
+          Moliyaviy
+          resurslarni                  Buxgalteriya va
+      shakllantirishning                                                     Marketing                 Bank aktivlarini
+                                         operatsion                          vositalari                 risk tuzilmasi
+     diversifikatsiyalash-                vositalar
+          gan tizimi
+
+
+
+                        Bank aktivlarini                                                  Bank aktivlarini
+                          iqtisodiyot                    Bank kapitali                       samarali
+                           tarmoqlari                    multiplikatori                     taqsimlash
+                          doirasidagi                                                       imkoniyati
+                          rentabelligi
+
+                                             Tijorat banklari moliyaviy barqarorligi
+
+
+         1-rasm. Tijorat banklari moliyaviy boshqaruv tizimi samaradorligiga ta’sir
+               koʻrsatuvchi omillar konsentrasiyasini ta’minlash mexanizmi6
+
+6
+    Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+12
+      Tijorat banklari moliyaviy boshqaruv modelini shakllantirishning jahon amaliyotida;
+joriy moliyaviy koʻrsatkichlarning real qiymatini bank kapitallashuv darajasiga ta’siri
+o‘rganilib, bank moliyaviy operatsiyalarini hosilaviy qiymatini sof foydani oshirishdagi
+o‘rtacha geometrik o‘zgarishi hisobga olinadi7. Ko‘plab yirik banklarni strategik moliyaviy
+boshqaruv tizimini tahlil qilishning tegishli asosi, moliyaviy boshqaruv modellarini bank
+kapitallashuv darajasini oshirish hamda innovatsion bank xizmatlarini tashkil etishdagi
+o‘rni yetakchi ahamiyatga ega ekanligi ko‘rsatadi.
+      Tijorat banklari moliyaviy boshqaruvining stratetik modellarida bankning milliy va
+xalqaro moliya bozorlaridagi raqobatbardoshlik pozisiyasini takomillashtirish, real vaqt
+sharoitida bank mijozlariga sifatli moliyaviy xizmatlarni koʻrsatish orqali iste’molchilar
+auditoriyasini kengaytirishga imkon beradigan zaruriy infratuzilmani shakllantirishga
+alohida e’tibor beriladi. Shuningdek, tijorat banklari moliyaviy boshqaruvining stratetik
+modellarida boshqaruv tizimi samaradorligini oshirish vositalarini tegishli tartibda yo‘lga
+qo‘yilganligi tijorat banklarini risklardan samarali himoyalashning tegishli alternativ
+variantlarini shakllantirish imkoniyatini beradi.
+      Dissertatsiyaning “Oʻzbekistonda tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirishning hozirgi holati” deb nomlangan ikkinchi bobida tijorat banklari
+moliyaviy boshqaruv tizimi samaradorligi tahlil qilingan, raqamli iqtisodiyot sharoitida
+tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishga doir muammolar
+asoslangan, tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishning xorijiy
+tajribalaridan samarali foydalanish imkoniyatlari tizimlashtirilgan.
+      Tijorat banklari moliyaviy boshqaruv tizimi samaradorligini baholash jarayoni
+quyidagi ko‘rsatkichlarga asoslanadi:
+      – jalb qilingan mablag’lardan samarali foydalanish koeffitsienti;
+      – kredit riski darajasi;
+      – aktivlar rentabelligi.
+      Tijorat banklarida jalb qilingan mablag’lardan samarali foydalanish koeffitsienti bank
+tomonidan jalb qilingan mablag’lardan foydalanish bilan bog’liq samaradorlikni tavsiflash
+uchun xizmat qiladi. Mazkur ko‘rsatkich tijorat banklariga jalb etilgan mablag’ning har bir
+so‘miga necha so‘mlik foyda olinishini ko‘rsatadi. Tahlil jarayoni quyidagi formula
+yordamida amalga oshiriladi:
+      SFK= bank foydasi / tijorat bankiga jalb qilingan mablag‘lar (1.1.)
+      2020-2024-yillarda O‘zbekiston Respublikasi tijorat banklari tomonidan jalb qilingan
+mablag’lar hajmi qariyb 2,5 barobar oʻsish koʻrsatkichini qayd etgan. 2020-yilda jami
+91 019,0 mlrd.soʻm mablagʻ tijorat banklari tomonidan jalb etilgan. 2020-yilda tijorat
+banklarining sof foydasi 3 460 mlrd. soʻmni tashkil etgan. Mazkur yilda tijorat banklariga
+jalb qilingan mablag’lardan samarali foydalanish 0,038 koeffitsientni tashkil etgan.
+2021-yilda tijorat banklari tomonidan jalb etilgan mablagʻlar hajmi qo‘shimcha 26,1 foizga
+oʻsib, umumiy qiymati 114 816,6 mlrd. soʻmni, sof foyda 5 661 mlrd. soʻmni tashkil etgan.
+Tijorat banklari aktivlarining har bir so‘miga 0,049 soʻm foyda olingan. 2022-yilda tijorat
+banklari tomonidan jalb qilingan mablag’lar 2021-yilga nisbatan 36 foizga oʻsib, umumiy
+qiymati 156 201,4 mlrd. soʻmni tashkil etgan. Tijorat banklarining sof foydasi 8 862 mlrd.
+soʻmni tashkil etgan bo‘lsa, jalb qilingan mablag’lardan samarali foydalanish koeffitsienti
+0,057 so‘mni tashkil etgan (1-jadval).
+
+7
+    https://www.moneycontrol.com/financials/unionbankindia/profit-lossVI/UBI01
+                                                                                         13
+                                                                                 1-jadval
+        2020-2024-yillarda O‘zbekiston Respublikasi tijorat banklarida jalb qilingan
+               mablag’lardan samarali foydalanish koeffitsienti (mlrd. so ‘m)8
+                                                    2020 y        2021 y       2022 y        2023 y        2024 y
+      Tijorat banklarining sof foydasi              3 460          5 661        8 862        10 800         8 592
+      Tijorat banklariga jalb qilingan
+                                                   91 019,0     114 816,6 156 201,4        216 766,8      241 706,2
+      mablag‘lar
+      Jalb qilingan mablag’lar-dan samarali
+                                                     0,038        0,049         0,057         0,050        0,036
+      foydalanish koeffitsienti
+      2023-yilda tijorat banklariga jalb qilingan mablag’larning hajmi 2022-yilga nisbatan
+qariyb 38,8 foizga ortib, umumiy qiymati 216 766,8 mlrd. soʻmni tashkil etgan. Tijorat
+banklarining sof foydasi 10 800 mlrd.soʻmga yetgan bo‘lsa, jalb qilingan mablag’lardan
+samarali foydalanish koeffitsienti 0,050 so‘mni tashkil etgan. 2024-yilda tijorat banklariga
+jalb qilingan mablag‘lar 241 706,2 soʻmni, sof foyda hajmi 8 592 mlrd. so‘mni tashkil etgan
+boʻlib, jalb etilgan mablag’larning har bir so‘miga 0,036 soʻm foyda olish ta’minlangan.
+      Tijorat banklari kredit portfeli riskini baholash; kredit foiz stavkasining ortishi
+hisobiga kredit qarzlarini qaytarish darajasi bilan bogʻliq xavfni yuqori va quyi chegarasini
+asoslashga xizmat qiladi. Tijorat banklari kredit riskini tahlil qilish bankdan qarz
+oluvchilarning ssuda foizi bo’yicha defolt ehtimolini oldindan bashorat qilish orqali bank
+moliyaviy boshqaruv tizimi samaradorligini oldindan bashorat qilish imkoniyatini beradi.
+Tahlil natijalari tijorat banklari kredit portfeli diversifikasiyasining miqdor va sifat
+koʻrsatkchilarini ta’minlashga ta’sir ko‘rsatadi. D.L.Chesserning tijorat banklari kredit
+riskini baholash modelini oraliq ko‘rsatkichlari bu boradagi tegishli tahlil natijalari bo‘yicha
+xulosa chiqazish imkoniyatini beradi. Mazkur modelga asosan kredit riski darajasi 0≤X≤10
+oraliqda past, 10≤X≤25 oʻrta, 25≤X≤40 boʻlganda esa yuqori xavf darajasiga ega
+hisoblanadi9.
+      2021-2024-yillarda O‘zbekiston Respublikasi tijorat banklarining kredit riski
+darajasini tavsiflovchi ma’lumotlar kredit riskini oraliq koʻrsatkichlarini xavf darajasi past
+ekanligini ko‘rsatadi.
+      Tijorat banklari moliyaviy boshqaruviga doir tahlil natijalarini umumlashtirish, bank
+aktivlarini guruhlash bilan bog’liq oraliq intervalni belgilashni talab etadi. Tadqiqot
+jarayonidagi tahlil natijalari va tijorat banklarining 2024-yildagi moliyaviy
+ko‘rsatkichlariga asoslanib:
+      - 3 trln.so‘mdan 10 trln.so‘mgacha;
+      - 10 trln.so‘mdan 30 trln.so‘mgacha;
+      - 30 trln.so‘m va undan yuqori aktivlarga ega bo‘lgan oraliq intervalga muvofiq
+quyidagi guruhlash jarayonini amalga oshiramiz (2-jadval).
+     Tahlil natijalariga muvofiq aktivlar miqdori boʻyicha tijorat banklari faoliyatini
+guruhlashtirishda, 3 trln. so‘mdan 10 trln. soʻmgacha oraliq intervalga ega boʻlgan tijorat
+banklari 2 ta, 10 trln. soʻmdan 30 trln. soʻmgacha 6 ta, 30 trln. soʻm va undan yuqori banklar
+soni 6 ta. Aktivlarning oʻsish koʻrsatkichlari boʻyicha Oʻzmilliybank,
+Oʻzsanoatqurilishbank, Agrobank, Asaka bank, Xalq banki, Kapital bank yuqori
+koʻrsatkichga ega bo‘lgan tijorat banklari hisoblanadi. Mikrokreditbank, Turon bank, Aloqa
+bank, Hamkor bank, Orient Finans bank va Trast bank aktivlar hajmi bo‘yicha 10 trln.
+
+8
+    www.cbu.uz- Oʻzbekiston Respublikasi Markaziy bankining rasmiy statistik axborot sayti ma'lumotlari
+9
+    https://finzz.ru/model-chessera-i-model-zmievskogo.html?ysclid=m63ljqucmc441678700
+14
+soʻmdan 30 trln. soʻmgacha boʻlgan tijorat banklari qatorida oʻrin egallaydi. Guruhlash
+natijalariga asosan Davr bank va Aziya Alyans banklarning aktivlari hajmi 3 trln. soʻmdan
+10 trln. soʻmgacha boʻlgan uchinchi guruhdan joy egallaydi. Faqatgina, Poytaxt bankning
+aktivlar hajmi yuqoridagi guruhlash bilan bogʻliq oraliq intervaldan ancha past natijani qayd
+etgan. Fikrimizcha, moliyaviy boshqaruv tizimi past samaradorlik natijasini qayd etgan
+tijorat banklarining aktiv operatsiyalari hajmini oshirilishini ta’minlashda individual kredit
+oluvchilar bilan ishlash bo‘yicha kredit portfeli modelini qo‘llash maqsadga muvofiq.
+                                                                                     2-jadval
+  2024-yilda Oʻzbekiston Respublikasi tijorat banklari faoliyatining aktivlar miqdori
+                       boʻyicha guruhlashtirilgan koʻrsatkichlari10
+                                                Aktivlar miqdori boʻyicha guruhlashtirilgan tijorat
+                                                               banklari taqsimoti
+                                 Jami
+     Koʻrsatkichlar nomi                      3 trln. soʻmdan    10 trln. soʻmdan 30 trln. soʻm va
+                                            10 trln. soʻmgacha 30 trln. soʻmgacha      undan yuqori
+                         banklar soni summa    banklar soni        banklar soni        banklar soni
+                                                          Аktivlar
+ Aktivlar                          15        460 000             2       6                 6
+ Kreditlar, shundan                15        376 047             4       6                 4
+ Jismoniy shaxslarga
+                                   15        147 200             4       6                 4
+ ajratilgan kreditlar
+ Yuridik shaxslarga
+                                   15        228 847             4       6                 3
+ ajratilgan kreditlar
+ Qisqa muddatli
+                                   15        49 939              2       2                 3
+ kreditlar
+ Uzoq muddatli
+                                   15        326 108             2       4                 2
+ kreditlar
+      Tijorat banklarining individual kredit oluvchilar bilan ishlash bo‘yicha kredit portfeli
+modeli tijorat banklarining korporativ mijozlarga yo‘naltirilgan kredit portfelini integral
+mexanizmini shakllantirish hisobiga kreditlarni samaradorlik darajasi yuqori bo‘lgan
+loyihalarga yo‘naltirish imkoniyatini beradi. Mazkur kredit porfelini shakllantirishda kredit
+resurslarini bozor qiymatini aniqlash jarayoni muhim ahamiyatga ega bo‘lib, tegishli tahlil
+jarayoni ko‘chmas mulkning real va potensial bozor baholarini taqqoslama tahlil qilish
+hisobiga bank aktivlarining rentabellik darajasini ta’minlashga imkon beradigan tegishli
+ma’lumotlar olinadi (2-rasm).
+      Tijorat banklari individual kredit oluvchilar bilan ishlash jarayonida moliyaviy bozor
+talablariga muvofiq doimiy ravishda o‘z aktivlari tarkibini diversifikatsiyalashni amalga
+oshirib boradi. Ushbu jarayonda bozor omillari bilan bir qatorda nobozor omillarining ta’siri
+sezilarli darajada ortadi.
+      Rivojlanayotgan mamlakatlarda raqamli bank tizimidan foydalanish, yoki bank
+ilovalari orqali tijorat banklarining turli xizmatlaridan foydalanish tashkiliy-iqtisodiy
+jihatdan cheklangan xarakterga ega. Mazkur holat tijorat banklari moliyaviy boshqaruv
+tizimi samaradorligini oshirish jarayoni bilan bog’liq quyidagi nomuvofiqliklarni vujudga
+keltiradi:
+      – bank menejerlarining elektron hisobot shakllari bilan ishlaydigan tahlil vositalarini
+tegishli platformalari doirasidagi funksional xususiyatga ega boʻlgan ma’lumotlarni
+moliyaviy menejment tizimida keng qo‘llanilmasligi;
+
+10
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+                                                                                                  15
+      – moliyaviy operatsiyalarni amalga oshirishda ma’lum platforma orqali mavjud
+xatolikni kompleks tahlil qilish imkoniyati mavjud, ammo kanallararo moliyaviy
+operatsiyalarni tashkil etish va boshqarish jarayoni bilan bog’liq risklar xavfini kompleks
+baholash imkoniyatining yo‘qligi;
+      – raqamli iqtisodiyot sharoitida bankning innovatsion xizmatlarini rivojlantirish va
+tartibga solish jarayonini neobank va fintech loyihalariga asoslanishi sababli bank xizmatlari
+raqobatbardoshligini ta’minlash jarayonining murakkablashuvi;
+      – bank biznesini rivojlantirishning operatsion modelini zamonaviy bank xizmatlarini
+yaratish va ularni joriy etish jarayoniga integratsiyasini ta’minlashning sustligi va boshqalar.
+      Tijorat banklari moliyaviy boshqaruvning tashkiliy strategiyalari quyidagi mustaqil
+tarkibiy qismlardan iborat:
+        • bank moliyaviy boshqaruvi;
+        • bank tizimini rivojlantirish strategiyasiga doir boshqaruv qarorlari;
+        • bank moliyaviy faoliyatining fundamental tahlili;
+        • bank moliyaviy faoliyatining boshqaruv tizimini optimal tashkiliy tuzilmasi;
+        • moliyaviy boshqaruvning strategik rejasini axborot oqimi va boshqalar.
+      Germaniya tijorat banklarining korporativ boshqaruv strategiyasida tegishli
+korporatsion tizimni yaratish borasidagi ustuvorliklar quyidagilardan iborat:
+      - tijorat banklarining qimmatli qog’ozlarini nominal va real qiymati bilan bog’liq
+tegishli natijadorlikni ta’minlash;
+      - bank faoliyatida omonatchilar, qarz oluvchilar hamda investorlar o‘rtasida kontragent
+tizimini amalga oshirishni muvofiqlashtirish;
+      - yirik kompaniyalarning aksiyadorlarini kompaniya rentabelligini oshirishga
+yo‘naltirilgan investitsion faoliyatini qo‘llab-quvvatlash;
+      - davlat va bank sektori o‘rtasidagi integratsion munosabatlarni takomillashtirish orqali
+milliy iqtisodiyotning raqobatbardoshligini ta’minlash.
+      2022-2024-yillarda Germaniyada Deutsche bankning qimmatli qog’ozlari taqsimoti va
+uning qiymatini o‘sib borish jarayoni borasida keltirilgan jadval ma’lumotlari mazkur
+fikrimizni asoslashga xizmat qiladi (3-jadval).
+                                                                                       3-jadval
+ 2021-2024-yillarda Deutsche bankning qimmatli qog‘ozlari taqsimoti (mlrd. yevro)11.
+                                                    2021           2022            2023          2024
+ Obligatsiyalar va boshqa doimiy
+                                                   29,132         31,230          40,517        52,220
+ daromadli qimmatli qog‘ozlar
+ Aksiya va boshqa o‘zgaruvchan
+                                                    1 203          1 015          1 415          1 715
+ daromadli qimmatli qog‘ozlar
+ Ishtirok etuvchi manfaatlar                        0,00           0,00            0,00          0,00
+ Sho‘ba kompaniyalariga investitsiyalar             0,00           0,00            0,00          0,00
+ Jami                                              30,335         32,245          41,932        53,935
+     2024-yil yakunlari bo‘yicha tijorat banklarining qimmatli qog’ozlari umumiy portfeli
+53,935 milliard yevroni tashkil etgan bo‘lib, jami qimmatli qog’ozlar portfelida obligatsiyalar
+va boshqa turdagi doimiy daromadli qimmatli qog‘ozlar hajmi qariyb 3,3 foiz ulushga ega
+bo‘lgan aksiya va boshqa o‘zgaruvchan daromadli qimmatli qog‘ozlar bank qimmatli
+qog’ozlar portfelining 96,7 foizini tashkil etgan.
+
+11
+ Deutsche Bank Combined management report Annual Financial Statements of Deutsche Bank AG. Frankfurt, Germany.
+December 31, 2024. 12 p.
+16
+                            Bank
+                         kreditlarini
+                        samaradorlik                                                                         Kredit foizini      Bankning kredit
+                       darajasi yuqori                                                                      ko’chmas mulk-         bozoridagi
+                         loyihalarga                                                                         ning bozor ba-      mavqeini mustah-
+                         yo‘naltirish                                                                       hosiga muvofiq-         kamlash
+                                                    Tijorat                             Tijorat banklari    lashtirish tizimi
+                                                  banklarinin                               aktivlari
+                                                    g kredit                           diversifikatsiyasi
+                                                   faolligini                                                 Korporativ
+    Tijorat                                       oshishirish                                                 mijozlarga
+ banklarinig                                                                                                 yo‘naltirilgan
+                                                                                                                                                      Tijorat
+ korporativ                Ko‘chmas                                                                           kredit risk
+                                                                                                                                                     banklari
+ mijozlarga                mulkning                                        Kredit              Bank            tasniflash
+                                                                                                                                                    moliyaviy
+ yo‘naltiril-                real va                                    resurslarini       aktivlarining                            Bank kredit     boshqaru-
+      gan                   potensial                                      bozor            rentabellik                                tizimi           vini
+     kredit               bozor bahosi                                    qiymati             darajasi         Korporativ           strategiyasi     ratsional
+  portfelini                                                                                                  mijozlarning                          rejalashti-
+   integral                                          Kredit                                                 kredit qarzdorligi                      rish tizimi
+ mexanizmi                                        operatsiya-                                                bo‘yicha garov
+                                                     larini                                                  majburiyatlarini
+                                                                                       Tijorat banklari
+                                                    mijozlar                                                   qisqartirish
+                                                                                            aktiv
+                                                    bazasini
+                                                                                       operatsiyalarini
+                                                    optimal-
+                                                                                       bozor qiymatini                               Kredit
+                                                   lashtirish                                               Kredit riskla-rini
+                                                                                          fokuslash                               xizmatlariga
+                                                                                                              boshqa-rishda
+                       Tijorat banklari                                                                         operativ          mijozlarning
+                        kredit risklarini                                                                    samaradorlikni         maqsadli
+                         boshqarishni                                                                          ta’minlash        guruhlarini jalb
+                       optimallashtirish                                                                                              etish
+
+
+
+                   2-rasm. Tijorat banklarining individual kredit oluvchilar bilan ishlash bo‘yicha kredit portfeli modeli12
+12
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+
+
+17
+                                              3- rasm. Tijorat banklarining kredit operatsiyalarini
+                            amalga oshirishda ratsional jarayonlarning tizimli diversifikatsiyasini ta’minlash modeli13
+13
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+
+
+18
+      Dissertatsiya ishining “Oʻzbekistonda tijorat banklari moliyaviy boshqaruv tizimi
+samaradorligini oshirish istiqbollari” deb nomlangan uchinchi bobida tijorat banklari
+moliyaviy boshqaruv tizimi samaradorligini oshirishning tashkiliy-iqtisodiy mexanizmini
+takomillashtirish yo‘llari tizimlashtirilgan, tijorat banklarining iqtisodiy samaradorlik
+darajasini oshirishni ekonometrik modellarga asoslangan prognoz ko‘rsatkichlari ishlab
+chiqilgan, tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirish
+yoʻnalishlariga doir ilmiy taklif hamda amaliy tavsiyalar shakllantirilgan.
+      Tijorat banklarining aktiv operatsion faoliyatini oshirish bilan bog’liq ko‘p maqsadli
+jarayonga nisbatan tizimli yondashuv moliyaviy boshqaruv tizimi samaradorligini
+oshirishda quyidagilarga imkon beradi:
+      –bank aktiv opearatsiyalari tizimli diversifikatsiyasi hisobiga foyda olish jarayonini
+samarali tashkil etishga yo‘naltirilgan shart-sharoit va omillar vektorini aniq maqsadga
+yo‘naltirish;
+      –iqtisodiyotning tarmoq va sohalarida amalga oshirilayotgan innovatsion loyihalarni
+samaradorlik ko‘rsatkichlariga muvofiq bank aktiv operatsiyalarining yillik portfelida
+imtiyozlar tizimini shakllantirish;
+      –tijorat banklari aktiv operatsiyalarining muddati va miqdori bo‘yicha o‘zaro
+bog’liqlikni ta’minlash va boshqalar.
+      Hozirgi vaqtda mamlakatimiz tijorat banklarida moliyaviy menejment faoliyatini
+ratsional rejalashtirish tizimi kredit operatsiyalarini amalga oshirishdagi ratsional
+jarayonlarning tizimli diversifikatsiyasini ta’minlash imkoniyatini bermaydi. Mazkur
+muammoni bank aktivlarini strategik boshqaruv tizimini reinjiniring qilish va kredit
+operatsiyalarini amalga oshirishning ratsional jarayonlarining tizimli diversifikatsiyasini
+ta’minlashga imkon beradigan quyidagi modelni amaliyotga joriy etish orqali bartaraf etish
+mumkin (3-rasm).
+      Tijorat banklari kredit operatsiyalarini amalga oshirishda ratsional jarayonlarni tizimli
+diversifikatsiyasini ta’minlash modeli, bank aktivlarini diversifikasiyalash jarayonini
+takomillashtirish orqali aktivlar bilan bog’liq risk darajasini bartaraf etish hisobiga
+rentabellik darajasini yuqori oʻsish sur’atlarini ta’minlashga xizmat qiladi.
+                                                                                     4-jadval
+2015-2024-yillarda O‘zbekiston Respublikasi tijorat banklarining yalpi daromadi va
+                 unga ta’sir etuvchi omillarning statistik ma’lumotlari14
+                 Yalpi daromad            Foizli daromadlar          Foizli xarajatlar            Foizli marja
+                 (mlrd. so‘mda)            (mlrd. so‘mda)            (mlrd. so‘mda)              (mlrd. so‘mda)
+                        Y                         X1                        X2                          X3
+      2015           5526.70                    4251.32                  3427.47                      823.85
+      2016           7793.42                    6234.74                  4257.37                     1977.37
+      2017          10507.72                    7960.40                  4623.10                     3337.30
+      2018          17710.50                   14516.80                  8354.90                     6161.90
+      2019          31110.24                   25500.20                 15601.80                     9898.40
+      2020          45592.28                   37066.90                 23018.50                    14048.40
+      2021          57343.83                   47391.60                 30796.20                    16595.40
+      2022          79011.58                   61727.80                 37566.10                    24161.70
+      2023         109215.66                   86679.10                 57683.30                    28995.80
+      2024         142070.32                  111866.40                 77674.60                    34191.80
+14
+     www.cb u.uz- Oʻzbekiston Respublikasi Markaziy bankining rasmiy statistik axborot sayti ma’lumotlari.
+                                                                                                                  19
+      Tijorat banklarining iqtisodiy samaradorlik darajasini oshirishning ekonometrik
+modellar asosida prognozlash maqsadida endogen omil sifatida (Y) -Yalpi daromad,
+ekzogen omil, yani ta’sir etuvchi omil sifatida X1- Foizli daromadlar, X2- Foizli xarajatlar,
+X3- Foizli marja tanlab olingan. Bu omillarni 2015-2024 yillardagi statistik ma’lumotlari
+quyidagicha (4-jadval).
+      Tadqiqot natijasida olingan tijorat banklarining yalpi daromadi trend model
+natijasidagi prognoz 2024-yil narxida tahlil qilsak, 2024-yildagiga nisbatan 2025-yil
+yakunida 1,21 barobarga oshishi, 2024-yildagiga nisbatan 2028-yilga borib 2,08 barobarga
+oshishi kutilmoqda. Tijorat banklarining yalpi daromadi trend model natijasidagi prognoz
+2024-yil narxida tahlil qilsak, 2024-yildagiga nisbatan 2025-yil yakunida 1,21 barobarga
+oshishi, 2024-yildagiga nisbatan 2028-yilga borib 2,06 barobarga oshishi kutilmoqda
+(5-jadval).
+                                                                                   5-jadval
+   2028-yilgacha O‘zbekiston Respublikasi tijorat banklarining yalpi daromadi va
+                 unga ta’sir etuvchi omillarning prognoz variantlari15
+                       Yalpi           Foizli            Foizli
+                                                                         Foizli marja                  Yalpi
+                     daromad        daromadlar         xarajatlar                        Yalpi
+                                                                           (Trend                    daromad
+                      (Trend          (Trend            (Trend                          daromad
+                                                                           model                     (O‘rtacha
+                      model           model             model                         (Ko‘p omilli
+                                                                          asosida)                   prognoz)
+                     asosida)        asosida)          asosida)                          model)
+   2025             172592,10       135416,90         139529,30           41693,57     230675,76     201633,93
+   2026             209868,80       164127,10         165349,10           49164,13     273150,41      241509,6
+   2027             250919,10       195692,30         193414,10           57244,41     319270,02     285094,56
+   2028             295743,00       230112,50         223724,30           65934,41     369034,62     332388,81
+ 2025/2024             1,21             1,21              1,80              1,22          1,62          1,42
+ 2028/2024             2,08             2,06              2,88              1,93          2,60          2,34
+      Tijorat banklarining foizli xarajatlar trend model natijasidagi prognoz 2024-yil narxida
+tahlil qilsak, 2024-yildagiga nisbatan 2025-yil yakunida 1,80 barobarga oshishi,
+2024-yildagiga nisbatan 2028-yilga borib 2,88 barobarga oshishi kutilmoqda. Tijorat
+banklarining foizli marja trend model natijasidagi prognoz 2024-yil narxida tahlil qilsak,
+2024-yildagiga nisbatan 2025-yil yakunida 1,22 barobarga oshishi, 2024-yildagiga nisbatan
+2028-yilga borib 1,93 barobarga oshishi kutilmoqda.
+      Mazkur adekvat modellar asosida “Oʻzsanoatqurilishbank” ATB ning daromadlik va
+rentabellik ko‘rsatkichlari bo‘yicha hisoblangan prognoz parametrlari prognoz natijalari
+“Oʻzsanoatqurilishbank”ning daromadlik va rentabellik ko‘rsatkichlari o‘rta muddatli
+istiqbolda izchil o‘sish tendensiyasiga ega ekanini ko‘rsatmoqda. Yalpi daromad 2026-2030
+yillar davomida 4289,6 mlrd so‘mdan 5256,3 mlrd so‘mga yetishi, ya’ni 2024-yilga
+nisbatan 1,34 barobarga o‘sishi bankning umumiy daromad bazasi barqaror kengayib
+borayotganidan dalolat beradi. Bu o‘sish kredit portfelining kengayishi, foizli aktivlar
+ulushining ortishi hamda bank xizmatlaridan foydalanish hajmining oshishi ta’minlaydi
+(6-jadval).
+      Bank biznesida sof foydaning ketma-ket kapitallashtirilishi aksiyalar miqdorini
+dividentlar darajasiga muvofiq o‘sib borishini ta’minlaydi. Bank kapitalini strategik
+boshqarishga doir muammolar qatorida, aktivlarning bozor qiymatiga teskari aloqadorlik
+kasb etgan holda miqdoriy jihatdan kamayib borishi, bank biznesini rejalashtirishni
+15
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan.
+20
+moliyaviy boshqaruv samaradorligiga yo‘naltirilgan tizimining kompleks majmuasini
+o‘zida aks ettiradi. Bank biznesini rejalashtirish jarayonida bankning pul bozoridagi
+operatsion faoliyatini konfidensialligi, rejalashtirish tizimini samarali boshqarishning
+asosiy mezoni hisoblanib, umumiy yondashuvga muvofiq bank biznesini rejalashtirish
+bankning missiyasi va strategiyasi uyg’unligini ta’minlashga imkon beradi.
+                                                                               6-jadval.
+    2030-yilgacha “Oʻzsanoatqurilishbank” ATB ning daromadlik va rentabellik
+            ko‘rsatkichlari bo‘yicha hisoblangan prognoz parametrlari16
+                                                      Prognoz yillari                               2030/2026 nisbat,
+     Ko‘rsatkichlar
+                              2026           2027         2028        2029               2030           barobar
+  Yalpi daromad,
+                            4289,58        4501,92         4731,51       4982,76       5256,31              1,34
+     mlrd so‘m
+ Foizli daromadlar,
+                            2984,56        3129,91         3297,60       3511,48       3756,77              1,38
+     mlrd so‘m
+ Foizli marja, mlrd
+                            1611,40        1692,34         1793,04       1905,10       2025,60                  1,40
+        so‘m
+  Foizli xarajatlar,
+                            1362,42        1411,02         1462,25       1516,50       1570,81              1,23
+     mlrd so‘m
+     Fikrimizcha, bank biznesini rejalashtirishni moliyaviy boshqaruv samaradorligiga
+yo‘naltirish tizimini quyidagi ko‘rinishda ifodalash maqsadga muvofiq (4-rasm).
+                                                Bankning pul bozoridagi
+                                                    operatsiyalarini
+                                                   konfidensialligi
+
+
+                            Bank biznesidan olingan                Bankning biznes loyihalarini
+                              foydani dinamik va                   rentabellik darajasi bo‘yicha
+                                prognozli tahlili                            guruhlash
+
+
+
+                   Bank biznes                        Maqsadli moliyaviy                 Biznes riski bilan
+                    loyihalari                      natijalarga erishishning           bog’liq yo‘qotishlarni
+                  reinjiniringini                   chegaraviy qiymatlarini             qoplash manbalarini
+                 amalga oshirish                            belgilash                      shakllantirish
+
+
+
+
+                 Subordinatsiya qilingan qarzlar                         Bank biznesini amalga oshirishga
+                  foizini operatsion xarajatlarni                           yo‘naltirilgan kapitalning
+                    qisqartirishga yo‘naltirish                                tuzilmaviy tarkibini
+                                                                                 optimallashtirish
+
+                                                Bank biznesini operativ va
+                                                 taktik tizimini strategik
+                                                     qarorlar ijrosiga
+                                                       yo‘naltirish
+
+      4-rasm. Bank biznesini rejalashtirishning moliyaviy boshqaruv samaradorligiga
+                                    yo‘naltirish tizimi17
+16
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+17
+     Tadqiqot natijalariga muvofiq muallif tomonidan shakllantirilgan
+                                                                                                                        21
+      Bank biznesini rejalashtirishning moliyaviy boshqaruv samaradorligiga yo‘naltirish
+tizimi mamlakatimiz tijorat banklari moliyaviy boshqaruv samaradorligini oshirishning
+quyidagi ustuvor yoʻnalishlarini shakllantirish zarurligini asoslashga xizmat qiladi:
+      1. Tijorat banklari moliyaviy faoliyatning strategik yo‘nalishlarini kompleks tahlil
+qilish orqali aktiv operatsiyalarni tashkil etishning maqsadga yo‘naltirilgan muvofiqligini
+ta’minlash jarayonida vujudga keladigan moliyaviy risklarni diversifikatsiyalash orqali
+moliyaviy resurslarni optimal taqsimlash tizimini ishlab chiqish;
+      2. Bankning investitsion portfelini shakllantirish jarayonida integratsiyalashgan
+rejalashtirish tizimi va rentabellikni baholash jarayonlarini ichki imkoniyatlar va mavjud
+salohiyatni namoyon etish imkoniyatini bermayotgan loyihalarni aniqlashga yo‘naltirish;
+      3. Bankning aktiv va passiv operatsiyalarini boshqarish tizimini bank biznesini
+rejalashtirish jarayoniga integratsiyasini ta’minlash orqali buxgalteriya hisobi va hisobotiga
+oid ma’lumotlar almashinuvining yagona platformasini shakllantirish. Ma’lumotlar
+almashinuvining yagona platformasida axborot xavfsizligini ta’minlaydigan mexanizmni
+o‘rnatish orqali bank aksiyadorlarini doimiy tartibda moddiy jihatdan manfaatdorligini
+ta’minlash imkoniyatini beradigan loyihalar bilan tanishtirib borish;
+      4. Bank aktivlarining operatsion samaradorligini ta’minlash tizimini shakllantirish
+jarayonida bo‘limlar o‘rtasidagi hamkorlik munosabatlarini kompleks rivojlantirish
+imkoniyatini beradigan HR menejmentini joriy etish va mazkur menejmentning
+moslashuvchan funksiyasi hisobiga bank missiyasini moliyaviy xizmatlar narxi va tarif
+siyosatini tashkil etishga yo‘naltirish;
+      5. Bank xizmatlarini tashkil etish ko‘lamini kengaytirish jarayonini bank xizmatlari
+tannarxiga ta’sirini baholash orqali buxgalteriya foydasi hamda iqtisodiy foyda o‘rtasidagi
+tafovutni maqsadga yo‘naltirilgan ko‘rsatkichiga erishishda moliyaviy natijadorlikni
+ta’minlash imkoniyatini beradigan jarayonlar kombinatsiyasini ta’minlash va boshqalar.
+                                         XULOSA
+      Tijorat banklari moliyaviy boshqaruv tizimining konseptual asoslarini tadqiq etish
+jarayoniga doir xulosalar bankning moliyaviy barqarorligi murakkab umumiqtisodiy
+kategoriya ekanligini asoslashga xizmat qiladi. O‘z navbatida bankning aktiv va passiv
+operatsiyalarini tegishli nisbatini ta’minlash moliyaviy boshqaruv tizimining
+samaradorligini oshirish va konvergensiyasini muvofiqlashtirish imkoniyatini beradi.
+Tijorat banklarining moliyaviy boshqaruv tizimi koʻplab omillarga bogʻliq boʻlgan
+jarayonlar majmuasi hisoblanib, mazkur omillar bank moliyaviy xizmatlarini hayotiylik
+siklini tegishli natijadorligini ta’minlashga ta’sir ko‘rsatadi.
+      Zamonaviy banklarning moliya tizimini boshqarishga yo‘naltirilgan tashkiliy
+munosabatlar, moliyaviy boshqaruv strategiyasini tizimli asosini shakllantirish va amalga
+oshirish mexanizmini muvofiqlashtirishda qator muammolar mavjudligini ko‘rsatadi.
+Xususan, raqamli iqtisodiyot sharoitida bank kapitalini moliya bozorining yuqori
+daromadlilik darajasiga ega bo‘lgan segmentida joylashtirish, aktiv operatsiyalar bilan
+bog’liq potensial risk darajasini boshqarishda operativ qarorlar ijrosiga doir tegishli nazorat
+tartibini avtomatlashtirish orqali integratsion munosabatlarni ta’minlash mazkur
+muammolar qatorida alohida o‘rin egallaydi.
+      Bank moliyaviy boshqaruv tizimi samaradorligini oshirishning tashkiliy-iqtisodiy
+mexanizmini iqtisodiyotning tarmoq va sohalarida bank kapitali bozor faolligini ta’minlash
+imkoniyatini yaratib berganligi bois, ushbu kombinatsion jarayon bank aktiv
+22
+operatsiyalarining yillik portfelida imtiyozlar tizimini shakllantirish orqali qo‘llab-
+quvvatlanadi. Mazkur jarayonning qo‘llab-quvvatlash tizimini ekonometrik asosda
+baholash, tijorat banklarining iqtisodiy samaradorlik darajasiga oid statistik va iqtisodiy
+ko‘rsatkichlarni yig‘ish, ularni tegishli tartibda guruhlash orqali bank moliyaviy
+boshqaruviga ta’sirini o‘rganishga imkon beradi.
+      Tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirish jarayoni
+doirasida olib borilgan tadqiqot natijalariga asosan quyidagi xulosalar shakllantirildi:
+      1. Tijorat banklarining moliyaviy boshqaruv tizimi koʻplab omillarga bogʻliq boʻlgan
+jarayonlar majmuasi hisoblanib, mazkur omillar bank moliyaviy xizmatlarini hayotiylik
+siklini tegishli natijadorligini ta’minlashga ta’sir ko‘rsatadi. O‘z navbatida bankning aktiv
+va passiv operatsiyalarini tegishli nisbatini ta’minlash moliyaviy boshqaruv tizimining
+samaradorligini oshirish va konvergensiyasini muvofiqlashtirish imkoniyatini beradi.
+      2. Bank moliyaviy boshqaruv tizimi samaradorligini oshirishning tashkiliy-iqtisodiy
+mexanizmini iqtisodiyotning tarmoq va sohalarida bank kapitali bozor faolligini ta’minlash
+imkoniyatini yaratib berganligi bois, ushbu kombinatsion jarayon bank aktiv
+operatsiyalarining yillik portfelida imtiyozlar tizimini shakllantirish orqali qo‘llab-
+quvvatlanadi.
+      3. Tijorat banklari tomonidan korxona va tashkilotlarning innovatsion loyihalarini
+moliyashtirish tizimiga yo‘naltirilgan xarajatlarni asoslash yuridik shaxslarning muammoli
+kreditlar hajmini qisqartirish, bankning iqtisodiy munosabatlar tizimidagi ma’lum
+natijadorligini ta’minlashga yo‘naltirilgan aktiv operatsiyalar bilan bog’liq ko‘p maqsadli
+ierarxik boshqaruv tizimini vujudga keltiradi. Mazkur holat tijorat banklari faoliyatini
+moliyaviy boshqaruv mexanizmi va uni tashkil etish tizimiga doir boshqaruv qarorlari
+orqali muvofiqlashtirib borilishi maqsadga muvofiq hisoblanadi.
+      4. Tijorat banklari moliyaviy boshqaruv tizimi samaradorligini oshirishning tashkiliy-
+iqtisodiy mexanizmi bank aktivlarini individual va funksional boshqaruv jarayonlariga
+alohida e’tibor berish maqsadga muvofiqligini ko‘rsatadi. Ushbu yo‘nalishlar doirasida
+aktivlarning tizimli diversifikatsiyasini ta’minlash bankning buxgalteriya foydasini
+oshirishga imkon beradigan shart-sharoit va omillarning vektorli bog’liqligini ta’minlab
+beradi.
+      5.Tijorat banklarining moliyaviy boshqaruv strategiyasini yakuniy natijalariga oid
+ko‘rsatkichlarini qiyosiy tahlil qilish bank moliyaviy boshqaruv tizimining alternativ
+varianlarini shakllantirish va tijorat banklari o‘rtasida sog’lom raqobat muhitining tashkiliy
+asosini shakllantirishga xizmat qiladi.
+      6. Mamlakatimiz tijorat banklari oʻrtasida raqobat muhitini shakllantirish va
+natijadorligini ta’minlashni tegishli asoslarini muvofiqlashtirish jarayonlariga nisbatan
+e’tiborning ortib borishi bank moliyaviy faoliyatiga bevosita ta’sir koʻrsatuvchi ichki va
+tashqi omillar rolini o‘rganish hamda ushbu omillarni tegishli tartibda guruhlash
+zaruriyatini yuzaga keltiradi. Mazkur guruhlash jarayoni bankning moliyaviy boshqaruv
+tizimiga salbiy ta’sir ko‘rsatuvchi omillarni bartaraf etish hisobiga potensial risklardan
+samarali himoyalanish imkoniyatini yuzaga keltiradi.
+      7. Oʻzbekistonda tijorat banklari moliyaviy boshqaruv tizimi samaradorligini baholash
+natijalari moliyaviy boshqaruv jarayoniga nisbatan nobozor omillar ta’siri yuqori ekanligini
+ko‘rsatadi. Moliyaviy boshqaruv jarayonida nobozor omillar tijorat banklarining kredit
+porfelini noproporsional taqsimotini vujudga keltirib, aktiv va passiv operatsiyalar
+o‘rtasidagi nomuvofiqlikni ortib borishiga sabab bo‘lmoqda.
+                                                                                           23
+      8. Zamonaviy banklarning moliya tizimini boshqarishga yo‘naltirilgan tashkiliy
+munosabatlar, moliyaviy boshqaruv strategiyasini tizimli asosini shakllantirish va amalga
+oshirish mexanizmini muvofiqlashtirishda qator muammolar mavjudligini ko‘rsatadi.
+Xususan, raqamli iqtisodiyot sharoitida bank kapitalini moliya bozorining yuqori
+daromadlilik darajasiga ega bo‘lgan segmentida joylashtirish, aktiv operatsiyalar bilan
+bog’liq potensial risk darajasini boshqarishda operativ qarorlar ijrosiga doir tegishli nazorat
+tartibini avtomatlashtirish orqali integratsion munosabatlarni ta’minlash mazkur
+muammolar qatorida alohida o‘rin egallaydi.
+      9. Tijorat banklari o‘zlarining moliyaviy boshqaruv strategiyasi doirasida aktiv va
+passiv operatsiyalarning tuzilmaviy tarkibiga salbiy ta’sir ko‘rsatuvchi omillarni bartaraf
+etishga harakat qilishadi. Bank moliyaviy boshqaruv strategiyasi doirasida tanlangan model
+raqobat kurashida tegishli ustunlikni ta’minlash imkoniyatini beradi.
+      10. Tijorat banklarining dividendlar darajasini tegishli kombinatsiyasi orqali bank
+kapitalini oshirib borishni muvofiqlashtirilgan tizimini ishlab chiqish mamlakatimiz tijorat
+banklari yalpi daromadlari tarkibida foizli daromadlarning ulushi yuqori o‘rin tutishini
+asoslashga xizmat qiladi. 2028-yilgacha tijorat banklarining foizli xarajatlarining trend
+modelini prognoz ko‘rsatkichlari banklarning yalpi foydasi 2,88 barobarga oshishini
+asoslaydi. Bu natijaga bank marjasini 2025-yilda 2024-yilga nisbatan 1,22 barobarga,
+2028-yilga borib esa 1,93 barobarga oshirish orqali ta’minlanadi.
+      11. Tijorat banklari moliyaviy boshqaruv tizimining rivojlanishi bilan bog’liq
+maqsadli dasturlardagi integratsion jarayonlarni ta’minlash bank moliyaviy tuzilmasini
+takomillashtirishga xizmat qiladigan biznes loyihalarini qo‘llab-quvvatlashga yo‘naltirilgan
+moliyaviy mablag’larni shakllantirish va ehtimoliy moliyaviy yo‘qotishlarning zaxira
+tizimini shakllantirishga samarali ta’sir ko‘rsatadi.
+      12.Mamlakatimiz tijorat banklarining biznes rejalashtirish jarayonini moliyaviy
+boshqaruv tizimiga integratsiyasini ta’minlash moliyaviy boshqaruv strategiyasiga bogʻliq
+boʻlgan maqsad va vazifalarni optimallashtirish hisobiga bank moliyaviy barqarorligini
+ta’minlashga xizmat qiladigan strategik natijalarga erishish imkoniyatini oshiradi.
+
+
+
+
+24
+      НАУЧНЫЙ СОВЕТ PhD.03/2025.27.12.I.16.06 ПО
+ ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ БУХАРСКОМ
+  ГОСУДАРСТВЕННОМ ТЕХНИЧЕСКОМ УНИВЕРСИТЕТЕ
+   КАРШИНСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ
+
+
+
+
+          КАДИРОВ ЛУТФУЛЛО ХАЛИМОВИЧ
+
+
+
+ПОВЫШЕНИЕ ЭФФЕКТИВНОСТИ СИСТЕМЫ ФИНАНСОВОГО
+      УПРАВЛЕНИЯ КОММЕРЧЕСКИХ БАНКОВ
+
+
+
+
+                      08.00.13 – Менеджмент
+
+
+
+
+                         АВТОРЕФЕРАТ
+       диссертации доктора философии (Doctor of Philosophy)
+                    по экономическим наукам
+
+
+
+
+                          Бухара – 2026
+      Тема диссертации доктора философии (PhD) по экономическим наукам зарегистрирована
+в Высшей Аттестационной комиссии при Министерстве высшего образования, науки и инноваций
+Республики Узбекистан за номером В2023.4.PhD/Iqt3600.
+
+       Диссертация выполнена в Каршинском государственном университете.
+       Автореферат диссертации на трёх языках (узбекском, русском, английском (резюме)) размещён
+на веб-сайте Научного совета (www.bstu.uz) и на информационно-образовательном портале «ZiyoNet»
+(www.ziyonet.uz).
+
+      Научный руководитель:                        Oчилoв Акрам Oдилoвич
+                                                   доктор экономических наук, профессор
+
+      Официальные оппоненты:                       Хамидoв Oбиджoн Хафизoвич
+                                                   доктор экономических наук, профессор
+                                                   Ташматoв Шарoф Урoкбoевич
+                                                   доктор экономических наук (PhD), доцент
+
+      Ведущая организация:                         Термезский государственный университет
+
+
+      Защита диссертации состоится 18 апреля 2026 года в 1200 часов на заседании Научного совета
+PhD.03/2025.27.12.I.16.06 при Бухарского государственного технического университета. (Адрес: 200117,
+г.Бухара, ул.Каюма Муртазоева 15, Тел.: (+99865) 223-78-84; e-mail: info@bstu.uz).
+     С диссертацией можно ознакомиться в Информационно-ресурсном центре Бухарского
+государственного технического университета (зарегистрирована за № 498) (Адрес: 200117, г.Бухара,
+ул.Каюма Муртазоева 15, Тел.: (+99865) 223-78-84).
+     Автореферат диссертации разослан 4 апреля 2026 года.
+     (Протокол рассылки № 4 от 4 апреля 2026 года)
+
+
+
+
+                                                                                    А.Б. Низамов
+                                                      Председатель    Научного      совета    по
+                                                      присуждению ученых степеней, доктор
+                                                      экономических наук, профессор
+                                                                                   Ш.Н. Хайитов
+                                                      Секретарь Научного совета по присуждению
+                                                      ученых степеней, доктор экономических наук
+                                                      (DSc), профессор
+                                                                                  Б.Ф. Aзимов
+                                                      Председатель  Научного   семинара   при
+                                                      Научном совете по присуждению ученых
+                                                      степеней, кандидат экономических наук,
+                                                      доцент
+            ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+     Актуальность и востребованность темы диссертации. В мировой экономике
+повышение эффективности системы финансового управления коммерческих банков
+оказывает мощное мультипликативное воздействие на экономический рост за счёт
+обеспечения устойчивой банковской деятельности, финансовой стабильности и
+расширения объёмов кредитования реального сектора. Эффективная система
+финансового управления служит оптимизации структуры активов и пассивов,
+управлению ликвидностью и рисками, обеспечению достаточности капитала, а также
+устойчивому росту прибыльности. В зарубежных исследованиях выдвигается вывод
+о том, что «современные практики финансового управления оказывают
+положительное влияние на прибыльность банков и стратегии их расширения,
+укрепляя их конкурентоспособность».18 Вместе с тем модели финансового
+управления, интегрирующие цифровые технологии, риск-менеджмент и комплаенс,
+повышают устойчивость банковского сектора к шокам и способствуют расширению
+финансовой инклюзии. В связи с этим научное исследование вопросов повышения
+эффективности системы финансового управления коммерческих банков является
+целесообразным с точки зрения обеспечения глобальной финансовой стабильности
+и стимулирования экономического роста.
+     В условиях глобализации в мировой практике научные исследования по
+вопросам повышения эффективности системы финансового управления
+коммерческих банков осуществляются в тесной взаимосвязи с корпоративным
+управлением, цифровой трансформацией и международными нормативными
+требованиями и направлены на обеспечение устойчивости, ограничение рисков и
+оптимизацию прибыльности. В данных исследованиях приоритетное внимание
+уделяется, прежде всего, совершенствованию управления активами и пассивами и
+оптимизации ликвидности, развитию моделей управления кредитными рисками и
+стресс-тестирования, оценке достаточности капитала и оптимизации его структуры,
+внедрению методов финансового мониторинга и прогнозирования на основе
+цифровых технологий, а также усилению систем комплаенса и внутреннего аудита.
+     В последние годы в Узбекистане проведён ряд мероприятий по формированию
+институциональных основ повышения эффективности системы финансового
+управления коммерческих банков и разработке стратегии финансового управления.
+Однако в настоящее время в процессе управления ликвидностью коммерческих
+банков темпы переориентации банковских активов на отрасли и сферы с
+относительно низким уровнем риска остаются недостаточными. Также недостаточно
+эффективно осуществляется анализ структуры активов с целью их размещения в
+наиболее надёжной и оптимальной по уровню доходности структуре финансового
+рынка. В связи с этим в Стратегии реформирования банковской системы Республики
+Узбекистан на 2020–2025 годы в качестве приоритетных задач определены:
+проведение кредитования исключительно на рыночных условиях, повышение
+качества управления кредитным портфелем и рисками, а также обеспечение
+финансовой устойчивости банковской системы посредством внедрения
+
+18
+     https://www.pjlss.edu.pk/pdf_files/2025_1/6672-6687.pdf
+                                                                             27
+технологических решений для оценки финансовых рисков.19 Эти задачи требуют
+проведения научных исследований, направленных на разработку механизмов
+концентрации факторов, влияющих на эффективность системы финансового
+управления коммерческих банков, а также на обеспечение их финансовой
+устойчивости через разработку системы маркетинговых коммуникаций,
+ориентированной на поддержание финансовой устойчивости, формирование модели
+кредитного портфеля банков при работе с индивидуальными заемщиками и
+фокусирование механизма финансового управления банков для координации
+коммуникативных процессов организации финансовых отношений.
+     Данное диссертационное исследование в пределенной степени служит
+выполнению задач, определенных Указом Президента Республики Узбекистан от
+11 сентября 2023 года № УП-158 «О Стратегии “Узбекистан – 2030”», Указом
+Президента Республики Узбекистан от 28 января 2022 года № УП-60 «О Стратегии
+развития Нового Узбекистана на 2022–2026 годы», Указом Президента Республики
+Узбекистан от 12.05.2020 г. № УП-5992 “О Cтратегии реформирования банковской
+системы Республики Узбекистан на 2020 — 2025 годы”, постановлением Президента
+Республики Узбекистан от 15 апреля 2025 года № ПП-142 «О мерах по ускорению
+реализации имущества, принятого на баланс банков в счет задолженности»,
+постановлением Президента Республики Узбекистан от 12.09.2017 г. №ПП-3270 “О
+мерах по дальнейшему развитию и повышению устойчивости банковской системы Республики», а
+также другие нормативно-правовые акты, относящиеся к данной сфере.
+     Соответствие исследования приоритетным направлениям развития науки
+и технологий республики. Данное исследование выполнено в рамках
+приоритетного направления развития науки и технологий в республике
+«Духовно-нравственное и культурное развитие демократического и правового
+общества, формирование инновационной экономики».
+     Степень изученности проблемы. Вопросы совершенствования системы
+финансового управления коммерческих банков, в частности обеспечение
+финансовой устойчивости деятельности банков, управление рисками и повышение
+эффективности системы финансового управления через внедрение цифровых
+технологий, исследованы многими зарубежными учёными. В частности,
+концептуальные подходы к совершенствованию финансового управления в
+банковской системе на основе рекомендаций Базельского комитета были
+разработаны рядом зарубежных экономистов, таких как Sinkеy J.F., Хaslеm J.A.,
+Zaman M., Alеksandru C., Djеnu G., Romanescu M.L., Ariffin N.M., Kassim S.H.,
+Bxarat S., Shamvey T., Nimalathasan B., Stulz R., Шершнёва E.Г., Кондюкова E.S.,
+Литвак Б.Г.20
+19
+   Указ Президента Республики Узбекистан от 12.05.2020 г. № УП-5992 “О Cтратегии реформирования банковской
+системы Республики Узбекистан на 2020 — 2025 годы”
+20
+  Sinkey, J.F. Commercial Bank Financial Management: In the Financial-Services Industry /J.F. Sinkey. – 4 ed. New York:
+Macmillan Publishing Company, 1992.–900 p; Haslem A.J. Commercial Bank Management: Text and Readings (July 25,
+2015). John A. Haslem, Commercial Bank Management: Text and Readings. Reston, VA: Reston Publishing (Prentice-
+Hall), 1985, Available at SSRN: https://ssrn.com/abstract=2606221; Zaman, M. (2017). The Banking System of Bangladesh
+and Its Present Condition, Kepler. Retrieved from http://www.kepler. digital/ banking-system-of-bangladesh; Alexandru,
+C., Genu, G., Romanescu, M. L. (2008). The Assessment of Banking Performances- Indicators of Performance in Bank
+Area. MPRA Paper No.11600; Ariffin N.M. & Kassim S.H (2011). Risk Management Practices and Financial Performance
+ofIslamic Banks: Malaysians Evidence. Islamic Economics & Finance Pedia; Bharath, S., and T. Shumway, (2008).
+Forecasting Default with the Merton Distance to Default Model. Review of Financial Studies 21, 1339 – 1369; Nimalathasan
+28
+     В научных исследованиях экономистов, таких как Джуманиязов М., Курбонов
+А.А., Тошпулатов А.М., Розиев Б.О., Ходжаев Б.А., Каримов О.М., Норкулов Б.Ш.,
+Солиев А.К., Бектемиров А., Омонов А.А., Хайдаров З.Ш., Ниёзов З.Д., Бобакулов
+Т.И., Очилов А.О., Навруз-Зода Б.Н., Бобоев А.Ч.21 и других, особое внимание
+уделяется направлениям системной организации процессов достаточности капитала
+и управления ликвидностью при эффективной организации системы финансового
+управления в деятельности коммерческих банков Узбекистана.
+     Связь     диссертационного       исследования    с    планом      научно-
+исследовательских работ вуза, в котором выполнена диссертация. Исследование
+по теме диссертации проводилось в рамках научного проекта в соответствии с
+научно-исследовательским планом Каршийского государственного университета.
+     Цель исследования заключается в разработке научно обоснованных
+предложений и практических рекомендаций по повышению эффективности системы
+финансового управления коммерческих банков в Узбекистане.
+     Задачи исследования:
+     изучение теоретических основ системы финансового управления коммерческих
+банков и исследование этапов её развития;
+     классификация факторов, влияющих на эффективность системы финансового
+управления коммерческих банков, и выявление особенностей их влияния на
+финансовую безопасность банков;
+     обоснование возможности сокращения сроков исполнения обязательств
+корпоративных клиентов по кредитам через формирование диверсификационного
+механизма финансового управления коммерческих банков;
+     повышение качества стандартных активов коммерческих банков и оценка
+рациональности процессов при осуществлении кредитных операций;
+     формирование системы фокусировки механизма управления посредством
+
+B. (2008). A comparative study of financial performance of banking sector in Bangladesh – An application of CAMELS rating /
+Annals of University of Bucharest, Economic and Administrative Series, Nr. 2 141-152; Stulz R. (2008). Risk Management
+Failures: What Are Theyand When Do They Happen? Journal of Applied Corporate Finance, Volume 20, Number 4, pp. 58-67;
+Е.Г.Шершнева, Е.С.Кондюкова. Банковский менеджмент. Учебное пособие. Екатеринбург: Изд-во Урал. ун-та, 2017.
+266 с; Литвак Б.Г. Разработка управленческого решения: учебник. –М.: Дело, 2000.–392 с.
+21
+  Жуманиёзов М. Тижорат банкларининг кредит сиёсатини такомиллаштириш йўллари. Иқт.фанл. номз. илм. дараж.
+олиш учун дисс. автореферати. Т.: 2006. – 24 б.; Қурбонов А.А. Ўзбекистонда тижорат банклари фаолиятини молиявий-
+иқтисодий таҳлил қилиш. Иқт.фанл. номз. илм. дараж. олиш учун дисс. автореферати. Т.: 2009.– 21 б; Тошпўлатов А.М.
+Банк ресурсларидан самарали фойдаланиш механизмларини такомиллаштириш. Иқт.фанл. номз. илм. дараж. олиш учун
+дисс.Т.: 2010.– 125 б.; Рўзиев Б.О. Тижорат банкларининг инвестиция фаолиятини молиявий бошқариш асослари.
+Иқт.фанл. номз. илм. дараж. олиш учун дисс.Т.: 2011.– 148 б.; Хўжаев Б.А. Банк тизимида кредит портфелини
+шакллантириш ва рискларни бошқариш. Иқт.фанл. номз. илм. дараж. олиш учун дисс. автореферати. Т.:2014.–26 б.;
+Каримов О.М. Ўзбекистон банк тизимида молиявий менежментни такомиллаштиришнинг устувор йўналишлари.
+Иқт.фанл. номз. илм. дараж. олиш учун дисс. Т.: 2016.– 172 б.; Норқулов Б.Ш. Тижорат банкларининг ликвидлигини
+бошқариш ва барқарорлик даражасини ошириш. Иқт.фанл. номз. илм. дараж. олиш учун дисс. автореферати. Т.: 2017.–
+23 б.; Солиев А.К. Банк-мижоз муносабатларини ривожлантиришда маркетинг стратегияларининг ўрни. Иқт.фанл. номз.
+илм. дараж. олиш учун дисс. Т.: 2015. – 134 б.; Bektemirov A., Omonov A.A., Xaydarov Z.Sh., Z.D.Niyozov. Tijorat banklari
+aktiv va passivlarini boshqarish. Oʻquv qoʻllanma. – Samarqand: SamISI, 2020. 240 bet.; Бобакулов Т.И. Ўзбекистонда банк
+тизимини ривожлантиришнинг замонавий муаммолари// “Moliyaviy texnologiyalar” ilmiy elektron jurnali. №3/2023. ISSN:
+2181-3965., Очилов А.О., Коновалова О.А., Аборкина Е.О., Акимов С.А., Тураева М.Р. Об использовании генеративного
+искусственного интеллекта в банковской сфере//“Iqtisodiyot va innovatsion texnologiyalar”. №4/2024, iyul avgust (№
+00072). 97-108 с.; Навруз-Зода Б.Н. Коронавирус пандемияси ва глобал инқирози шароитида нанокредитлаш усулини
+қўллаш, КарДУ хабарлари илмий-назарий, услубий журнал. № 2/2020. 185-190 б., A.Ch.Boboyev, F.Z.Toshev. Mintaqada
+xususiy mulkchilik subektlari faoliyatini rivojlantirishda tijorat banklarining o‘rni. “O‘zbekiston iqtisodiyotini institutsional
+rivojlantirish: yutuqlar, muammolar, yechimlar” mavzusidagi respublika ilmiy-amaliy konferensiya materiallari to‘plami. T.,
+2016. 281-283 b.
+                                                                                                                              29
+группировки показателей финансовых рисков в финансовом управлении
+коммерческих банков;
+     разработка системы маркетинговых коммуникаций, направленной на
+обеспечение финансовой устойчивости коммерческих банков;
+     обоснование возможностей оптимизации финансового управления банками
+через разработку прогнозных вариантов валового дохода и факторов, влияющих на
+него, на основе экономико-математического моделирования;
+     создание цифровой экосистемы для повышения эффективности финансового
+управления коммерческих банков в условиях цифровой экономики;
+     исследование механизма формирования финансовых отношений в моделях
+стратегий финансового управления банков на основе зарубежного опыта;
+     разработка научных предложений и практических рекомендаций по
+направлениям повышения эффективности системы финансового управления
+коммерческих банков.
+     Объект исследования. Объектом исследования является деятельность
+коммерческих банков Республики Узбекистан в сфере финансового управления.
+     Предмет исследования. Предметом исследования являются организационно-
+экономические отношения, возникающие в процессе финансового управления
+коммерческих банков.
+     Методы исследования. В ходе исследования применялись такие методы, как
+научная абстракция, анализ и синтез, статистический анализ, сравнительный анализ,
+индукция     и     дедукция,   экономико-математическое       моделирование    и
+прогнозирование.
+     Научная новизна исследования заключается в следующем:
+     обосновано сокращение сроков исполнения обязательств по кредитным линиям,
+предоставленным корпоративным клиентам, осуществляюещиеся за счёт
+формирования кредитного портфеля на основе изменений рыночной стоимости
+недвижимости с учётом соответствия кредитных ресурсов рыночной стоимости и
+уровня рентабельности активов банка;
+     предложена методика прогнозирования эффективности системы финансового
+управления коммерческих банков на основе оценки кредитного риска: оценка
+вероятности дефолта по процентам по ссудам заёмщиков проводится в пределах
+границ уровня риска «низкий» (0≤X≤10), «средний» (10≤X≤25) и «высокий»
+(25≤X≤40);
+     в повышении эффективности системы финансового управления коммерческих
+банков предложено группирование показателей риска, отражающих возникновение
+и реализацию финансовых угроз, с последующей классификацией и формированием
+согласованной системы для фокусировки механизма управления;
+     на основе эконометрических моделей разработаны прогнозные варианты
+валового дохода и факторов, влияющих на него, для оценки и повышения
+экономической эффективности коммерческих банков Узбекистана до 2028 года.
+     Практическая результаты исследования заключается в следующем:
+     определены пути комплексного изучения отношения клиентов к банковским
+услугам и формирования поведения населения в отношении банковских услуг через
+создание системы маркетинговых коммуникаций, направленной на обеспечение
+финансовой устойчивости коммерческих банков, с обеспечением симметричного и
+30
+асимметричного обмена информацией;
+     разработаны методы оптимизации финансового управления банками через
+экономико-математическое моделирование влияния процентных доходов и расходов
+на валовой доход коммерческих банков;
+     систематизированы функциональные особенности механизма финансового
+управления на основе корпоративных, инновационных и рациональных стратегий,
+применяемых в зарубежной практике финансового управления коммерческих
+банков;
+     систематизированы возможности координации процессов финансового
+управления банками через формирование цифровой экосистемы повышения
+эффективности финансового управления в условиях цифровой экономики.
+     Достоверность результатов исследования. Достоверность результатов
+исследования объясняется тем, что применяемые подходы, методы и теоретические
+данные получены из официальных источников, проведённые анализы и опытно-
+экспериментальные работы проверены в интервале математико-статистической
+достоверности, а выводы, предложения и рекомендации внедрены на практике и
+подтверждены уполномоченными организациями.
+     Научная и пpактическая значимость pезультатов исследования. Научная
+значимость результатов исследования объясняется тем, что они могут быть
+использованы для формирования теоретико-методологического и методического
+аппарата повышения эффективности системы финансового управления
+коммерческих банков, а также для проведения специализированных научных
+исследований, направленных на решение проблем в данной сфере.
+     Практическая значимость результатов заключается в том, что разработанные
+предложения и практические рекомендации могут быть использованы
+коммерческими банками Республики для совершенствования системы финансового
+управления, а также для улучшения макропруденциальных норм и критериев
+механизмов финансового управления.
+     Внедрение результатов исследований.
+     На основе разработанных научных предложений и практических рекомендаций
+по повышению эффективности системы финансового управления коммерческих
+банков было:
+      внедрено предложение о сокращении сроков исполнения обязательств по
+кредитным линиям, предоставленным корпоративным клиентам, за счёт
+формирования кредитного портфеля на основе изменения рыночной стоимости
+недвижимости с учётом соответствия кредитных ресурсов рыночной стоимости и
+уровня рентабельности активов банка. Данное предложение было внедрено АКБ
+«Микрокредитбанк» (справка АКБ «Микрокредитбанк» от 3 декабря 2024 года
+№ 05-12/32544). В результате практического внедрения данного научного
+предложения появилась возможность сокращения сроков исполнения обязательств
+корпоративных клиентов по кредитным линиям;
+     предложение о предварительном прогнозировании эффективности системы
+финансового управления банка на основе оценки вероятности дефолта заёмщиков по
+процентам по ссудам в условиях границ уровня кредитного риска «низкий»
+(0≤X≤10), «средний» (10≤X≤25) и «высокий» (25≤X≤40) было внедрено АКБ
+«Микрокредитбанк» (справка АКБ «Микрокредитбанк» от 3 декабря 2024 года
+                                                                            31
+№ 05-12/32544). В результате практического внедрения данного научного
+предложения появилась возможность заранее прогнозировать вероятность дефолта
+заёмщиков по процентам по ссудам;
+     предложение по фокусировке механизма управления через группировку
+показателей риска и классификацию их взаимосогласованной системы, отражающих
+возникновение и реализацию финансовых угроз в повышении эффективности
+системы финансового управления коммерческих банков, было внедрено АКБ
+«Микрокредитбанк» (справка АКБ «Микрокредитбанк» от 3 декабря 2024 года
+№ 05-12/32544). В результате практического внедрения данного научного
+предложения появилась возможность повысить эффективность системы
+финансового управления коммерческих банков за счёт группировки показателей
+риска и их классификации в взаимосогласованную систему;
+     предложение по использованию прогнозных вариантов валового дохода и
+факторов, влияющих на него до 2028 года, на основе эконометрических моделей
+повышения экономической эффективности коммерческих банков в Узбекистане
+было внедрено АКБ «О‘zsanoatqurilishbank» (справка АКБ «О‘zsanoatqurilishbank» от
+23 декабря 2025 года № 03-05/32272). В результате практического внедрения данного
+научного предложения появилась возможность заранее оценивать и координировать
+будущие изменения валового дохода и факторов, влияющих на него, на основе
+эконометрических      моделей    повышения       экономической     эффективности
+коммерческих банков.
+     Апробация результатов исследования. Результаты научного исследования
+были обсуждены на 8 научно-практических конференциях, в том числе, на
+4 международных и 4 республиканских.
+     Опубликованность результатов исследования. По теме диссертации
+опубликовано 17 научных работ, в том числе 9 журнальных статей в научных
+изданиях, рекомендованных Высшей аттестационной комиссией Республики
+Узбекистан для публикации основных научных результатов диссертаций, из них
+7 в республиканских и 2 в зарубежных журналах.
+     Структура и объем диссертации. Диссертация состоит из введения, трех глав,
+выводов и список литератур. Объём диссертации составляет 126 страниц.
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+     Во введении диссертации обоснована актуальность и научная значимость темы,
+определены цель и основные задачи исследования, описаны объект и предмет,
+показано соответствие приоритетным направлениям развития науки и технологий в
+республике, изложены научная новизна и практические результаты работы, раскрыта
+научная и практическая значимость полученных результатов, приведена
+информация о внедрении результатов исследования в практику, опубликованных
+работах и структуре диссертации.
+     Первая глава диссертационной работы носит название «Научно-теоретические
+основы повышения эффективности системы финансового управления
+коммерческих банков». В данной главе исследованы концептуальные основы
+повышения эффективности системы финансового управления коммерческих банков,
+систематизированы факторы, влияющие на эффективность системы финансового
+управления, а также обобщены организационные основы механизма повышения
+32
+эффективности системы управления в моделях финансового управления
+коммерческих банков.
+     В современное время совершенствование банковской системы в экономике
+каждой страны и реализация мер по укреплению её платёжеспособности являются
+не только важным условием упорядочивания внутренних финансовых отношений,
+но и создают широкие возможности для глубокой интеграции страны в
+международную финансовую систему. Оптимальное решение проблем, связанных с
+повышением эффективности циклического воспроизводственного процесса на
+основе комплексной системы совершенствования рыночных отношений, возлагает
+на коммерческие банки ряд организационно-экономических задач и одновременно
+подчеркивает актуальность повышения эффективности их системы финансового
+управления.
+     В свою очередь, рост числа операционных отношений, связанных с движением
+денежных потоков в системе финансового управления коммерческих банков,
+требует особого внимания к финансовым потокам, анализа факторов, влияющих на
+системное развитие этих процессов, и их соответствующей оценки с научно-
+методологической точки зрения.
+     На сегодняшний день в мировой банковской практике крупные коммерческие
+банки осуществляют на финансовом рынке около 500–700 различных финансовых
+операций и посреднических услуг. Увеличение количественных показателей этих
+финансовых услуг требует совершенствования качественных показателей, которые
+напрямую влияют на систему финансового управления коммерческих банков.
+     Современный этап развития банковской системы нашей страны требует
+проведения     финансовой     политики,    направленной    на   формирование
+сбалансированных финансовых ресурсов в коммерческих банках через создание
+конкурентной среды между банками и внедрение свободных рыночных отношений
+в систему финансового управления. Такая финансовая политика позволяет
+расширением операций на открытом рынке повышать инвестиционную активность
+коммерческих банков на финансовом рынке, а также эффективно организовывать
+финансовые отношения предприятий и организаций, связанные с процессом
+воспроизводства. Рост рискованных процессов под влиянием интеграционной
+финансовой системы взаимодействия коммерческих банков и предприятий создаёт
+необходимость согласования финансовых операций с общей системой финансового
+управления банка, формирования управленческого портфеля на основе комплекса
+гибких    инструментов     финансового    управления    и   его   постоянного
+совершенствования.
+     Анализ организационной основы финансового менеджмента коммерческих
+банков, группировка различных финансовых дисбалансов при эффективной
+реализации целей финансовой политики банка, а также изучение влияния
+финансовой политики крупнейших конкурирующих банков в условиях чистой
+конкурентной среды на миссию банка оказывают воздействие на разработку
+мероприятий, позволяющих поддерживать стабильное финансовое состояние банка.
+     Результативность упорядоченной комбинации факторов, возникающих в
+системе финансового управления коммерческих банков, выступает показателем
+эффективности этой системы. С целью более глубокого изучения целесообразно
+группировать факторы, влияющие на систему финансового управления
+                                                                           33
+коммерческих банков, исходя из их внутренней и внешней природы.
+     Основная цель обеспечения соответствующей концентрации факторов,
+влияющих на эффективность системы финансового управления коммерческих
+банков, заключается в достижении финансовой устойчивости банка. Для
+согласования процесса достижения определённой цели в рамках системы
+финансового управления банка требуется соответствующая согласованность
+инструментов управления. Совершенствование организационной основы
+банковской системы обеспечивает приоритет в формировании конкурентоспособной
+системы производства на мировом рынке через обновление производственных
+мощностей экономики и улучшение возможностей эффективного распределения
+экономических ресурсов по отраслям. Поэтому успешная деятельность
+многочисленных операций на финансовом рынке страны требует обеспечения
+соответствующей пропорциональности между реальным и финансовым секторами
+экономики. Эффективность существующей финансовой системы проявляется через
+результативность деятельности коммерческих банков в управлении рисками. Это, в
+свою очередь, требует организации финансовых отношений в банковской
+деятельности таким образом, чтобы обеспечивать возможность прогнозирования
+уровня ожидаемого риска и предотвращения его негативных последствий.
+     По мнению автора, внутренние факторы, влияющие на эффективность системы
+финансового управления коммерческих банков, служат согласованию
+стратегических и тактических отношений, напрямую связанных с деятельностью
+банка. Эти факторы в реальных условиях позволяют анализировать рискованные
+отношения, связанные с финансовой устойчивостью коммерческих банков. К таким
+факторам относятся:
+     факторы, влияющие на организационную систему финансового управления
+через практику управления финансовыми рисками в коммерческих банках;
+     факторы, влияющие на уровень капитализации коммерческого банка;
+     факторы, влияющие на качество активных и пассивных операций коммерческих
+банков;
+     факторы, влияющие на уровень риска кредитного портфеля коммерческих
+банков;
+     факторы, влияющие на информационную безопасность коммерческих банков.
+     Внешние факторы, влияющие на систему финансового управления
+коммерческих банков, включают:
+     факторы, связанные с макроэкономической стабильностью страны и уровнем её
+экономического развития;
+     факторы, влияющие на совершенствование нормативно-правовой базы
+финансовой системы страны;
+     факторы, влияющие на инвестиционные процессы в реальном секторе
+экономики;
+     факторы, отражающие социально-психологическое отношение населения к
+банковской системе.
+     Процесс регулирования факторов, влияющих на эффективность системы
+финансового управления коммерческих банков, требует интеграции оперативных и
+стратегических решений, связанных с финансовым управлением банка. В свою
+очередь, эффективность решений, связанных с процессом финансового управления,
+34
+основана на механизме обеспечения концентрации соответствующих факторов.
+Комплексную основу данного механизма можно представить в следующем виде
+(рис. 1).
+
+                                                  Система финансового управления
+                                                       коммерческих банков
+
+
+
+                                                    Средства обеспечения                     Стандарты
+                   Изменение чистой                      финансовой                         ликвидности
+                   процентной маржи                     стабильности                     коммерческих банков
+                                                    коммерческих банков
+
+
+     Диверсифицированная            Бухгалтерские и                                              Структура рисков
+     система формирования                                             Маркетинговые                 банковских
+                                     операционные
+      финансовых ресурсов                                              инструменты                    активов
+                                     инструменты
+
+
+
+                        Рентабельность                                             Способность
+                                                      Мультипликатор                эффективно
+                     банковских активов в
+                    рамках экономических              капитала банка               распределять
+                           секторов                                             банковские активы
+
+
+                                            Коммерческие банки финансовой стабильности
+
+
+        Рис. 1. Механизм обеспечения концентрации факторов, влияющих на
+      эффективность системы финансового управления коммерческих банков22
+     Эффективность финансовой системы коммерческих банков проявляется через
+результативность их деятельности, связанную с управлением рисками. Это требует
+организации финансовых отношений в банковской деятельности таким образом,
+чтобы обеспечивать возможность прогнозирования уровня ожидаемого риска и
+предотвращения его негативных последствий.
+     В мировой практике формирования моделей финансового управления
+коммерческих банков изучается влияние реальной стоимости текущих финансовых
+показателей на уровень капитализации банка, а также учитывается среднее
+геометрическое изменение прибыли при повышении чистой прибыли от финансовых
+операций. Анализ стратегических систем финансового управления многих крупных
+банков показывает, что основа такого анализа, модели финансового управления,
+играют ведущую роль в повышении капитализации банка и организации
+инновационных банковских услуг.
+     В стратегических моделях финансового управления коммерческих банков
+особое внимание уделяется формированию необходимой инфраструктуры, которая
+позволяет улучшать конкурентные позиции банка на национальных и
+международных финансовых рынках, а также расширять аудиторию потребителей
+за счёт предоставления клиентам качественных финансовых услуг в режиме
+реального времени. Кроме того, внедрение инструментов повышения
+
+22
+     Сформулировано автором на основе результатов исследования.
+                                                                                                                    35
+эффективности системы управления в стратегических моделях финансового
+управления даёт коммерческим банкам возможность формировать соответствующие
+альтернативные варианты защиты от рисков.
+     Во второй главе диссертации под названием «Современное состояние
+системы финансового управления коммерческих банков в Узбекистане»
+проведён анализ эффективности системы финансового управления коммерческих
+банков, выявлены проблемы повышения её эффективности в условиях цифровой
+экономики, а также систематизированы возможности эффективного использования
+зарубежного опыта в повышении эффективности финансового управления
+коммерческих банков.
+     Процесс оценки эффективности системы финансового управления
+коммерческих банков основывается на следующих показателях:
+     - коэффициент эффективного использования привлечённых средств;
+     - уровень кредитного риска;
+     - рентабельность активов.
+     Коэффициент эффективного использования привлечённых средств в
+коммерческих банках служит для характеристики эффективности использования
+банком привлечённых ресурсов. Данный показатель показывает, сколько прибыли
+приходится на каждый сум привлечённых коммерческим банком средств.
+     Процесс анализа осуществляется с помощью следующей формулы:
+SFK=прибыль банка/привлечённые коммерческим банком средства (1.1.)
+     В 2020–2024 годах объём средств, привлечённых коммерческими банками
+Республики Узбекистан, увеличился почти в 2,5 раза. В 2020 году коммерческими
+банками было привлечено в общей сложности 91 019,0 млрд сумов. Чистая прибыль
+коммерческих банков в этом году составила 3 460 млрд сумов. В указанном году
+коэффициент эффективного использования привлечённых средств составил 0,038.
+В 2021 году объём привлечённых коммерческими банками средств увеличился
+дополнительно на 26,1% и достиг 114 816,6 млрд сумов, а чистая прибыль составила
+5 661 млрд сумов. На каждый сум активов коммерческих банков было получено 0,049
+сума прибыли. В 2022 году объём привлечённых коммерческими банками средств по
+сравнению с 2021 годом увеличился на 36% и составил 156 201,4 млрд сумов. Чистая
+прибыль коммерческих банков достигла 8 862 млрд сумов, а коэффициент
+эффективного использования привлечённых средств составил 0,057 (таблица 1).
+                                                                      Таблица 1
+      Коэффициент эффективного использования привлечённых средств в
+ коммерческих банках Республики Узбекистан в 2020–2024 годах (млрд сум).23
+                                    2020 г      2021 г      2022 г      2023 г        2024 г
+ Чистая прибыль
+                                     3 460       5 661       8 862      10 800         8 592
+ коммерческих банков
+ Привлечение    средств в
+                                   91 019,0    114 816,6 156 201,4 216 766,8        241 706,2
+ коммерческие банки
+ Коэффициент эффективного
+ использования                       0,038       0,049       0,057       0,050         0,036
+ привлеченных средств
+
+23
+  www.cbu.uz- Данные взяты с официального статистического информационного сайта Центрального банка
+Республики Узбекистан
+36
+     В 2023 году объём средств, привлечённых коммерческими банками, увеличился
+по сравнению с 2022 годом почти на 38,8% и составил 216 766,8 млрд сумов. Чистая
+прибыль коммерческих банков достигла 10 800 млрд сумов, при этом коэффициент
+эффективного использования привлечённых средств составил 0,050. В 2024 году
+объём привлечённых коммерческими банками средств составил 241 706,2 млрд
+сумов, а чистая прибыль — 8 592 млрд сумов. При этом на каждый сум
+привлечённых средств было обеспечено получение 0,036 сума прибыли.
+     Оценка риска кредитного портфеля коммерческих банков служит для
+обоснования верхней и нижней границ риска, связанного с уровнем возвратности
+кредитной задолженности в условиях роста процентных ставок по кредитам. Анализ
+кредитного риска коммерческих банков позволяет заранее прогнозировать
+вероятность дефолта заёмщиков по процентным платежам и тем самым оценивать
+эффективность системы финансового управления банка. Результаты анализа
+оказывают влияние на обеспечение количественных и качественных показателей
+диверсификации кредитного портфеля коммерческих банков. Промежуточные
+показатели модели оценки кредитного риска коммерческих банков D. L. Chesser
+позволяют сделать выводы по результатам соответствующего анализа. Согласно
+данной модели, уровень кредитного риска считается низким при 0 ≤ X ≤ 10, средним
+при 10 ≤ X ≤ 25 и высоким при 25 ≤ X ≤ 40.24
+     Данные, характеризующие уровень кредитного риска коммерческих банков
+Республики Узбекистан за 2021–2024 годы, свидетельствуют о том, что
+промежуточные показатели кредитного риска находятся в зоне низкого уровня
+опасности. Обобщение результатов анализа финансового управления коммерческих
+банков требует определения промежуточных интервалов, связанных с группировкой
+банковских активов. На основе результатов исследования и финансовых показателей
+коммерческих банков за 2024 год предлагается осуществить следующую
+группировку по интервалам объёма активов:
+     – от 3 трлн сумов до 10 трлн сумов;
+     – от 10 трлн сумов до 30 трлн сумов;
+     – 30 трлн сумов и выше.
+     В соответствии с указанными интервалами проводится следующая процедура
+группировки (таблица 2).
+     Согласно результатам анализа, при группировке деятельности коммерческих
+банков по объёму активов к интервалу от 3 трлн до 10 трлн сумов относятся 2 банка,
+к интервалу от 10 трлн до 30 трлн сумов — 6 банков, а число банков с активами
+30 трлн сумов и выше составляет 6. По показателям роста активов к числу
+коммерческих банков с наиболее высокими результатами относятся Узмиллийбанк,
+Промстрой банк, Агробанк, Асака Банк, Национальный Банк и Капитал Банк.
+Микрoкредитбанк, Турoн банк, Алoқа банк, Ҳамкoр банк, Oриент Финанс банк и
+Траст банк занимают позиции среди коммерческих банков с объёмом активов от
+10 трлн до 30 трлн сумов. По результатам группировки Давр банк и Азия Алянс банк
+входят в третью группу с объёмом активов от 3 трлн до 10 трлн сумов. Лишь Пoйтаxт
+банк зафиксировал объём активов значительно ниже установленных интервалов
+группировки.
+
+24
+     https://finzz.ru/model-chessera-i-model-zmievskogo.html?ysclid=m63ljqucmc441678700
+                                                                                          37
+     По нашему мнению, для обеспечения увеличения объёма активных операций
+коммерческих банков, продемонстрировавших низкую эффективность системы
+финансового управления, целесообразно применение модели кредитного портфеля
+при работе с индивидуальными заёмщиками.
+                                                                 Таблица 2
+  Показатели деятельности коммерческих банков Республики Узбекистан за
+                2024 год, сгруппированные по объёму активов 25
+                                                    Распределение коммерческих банков,
+                                                    сгруппированных по размеру активов
+                                 Всего                От 3       От 10 трлн.    30 трлн.
+     Наименование
+      показателей                                трлн.сумов до сумов до 30      сумов и
+                                                10 трлн. сумов трлн. сумов        более
+                          количество              количество     количество   количество
+                                        сумма
+                            банков                  банков         банков        банков
+                                              Активы
+        Активы                15       460 000         2              6             6
+      Кредиты, из
+                               15         376 047            4      6             4
+        которых
+        Кредиты
+      физическим               15         147 200            4      6             4
+         лицам
+        Кредиты
+      юридическим              15         228 847            4      6             3
+         лицам
+     Краткосрочные
+                               15         49 939             2      2             3
+        кредиты
+     Долгосрочные
+                               15         326 108            2      4             2
+        кредиты
+    Модель кредитного портфеля коммерческих банков при работе с
+индивидуальными заёмщиками позволяет направлять кредиты на проекты с высокой
+эффективностью за счёт формирования интегрального механизма кредитного
+портфеля, ориентированного на корпоративных клиентов. При формировании такого
+кредитного портфеля особое значение имеет процесс определения рыночной
+стоимости кредитных ресурсов, а соответствующий аналитический процесс,
+основанный на сравнительном анализе реальных и потенциальных рыночных цен на
+недвижимое имущество, позволяет получать данные, обеспечивающие уровень
+рентабельности активов банка (рис. 2).
+    В процессе работы коммерческих банков с индивидуальными заёмщиками в
+соответствии с требованиями финансового рынка осуществляется постоянная
+диверсификация структуры их активов. В этом процессе, наряду с рыночными
+факторами, значительно возрастает влияние нерыночных факторов.
+    В развивающихся странах использование цифровой банковской системы или
+доступ к различным услугам коммерческих банков через банковские приложения
+имеет организационно-экономические ограничения. Эта ситуация создаёт
+следующие несоответствия, связанные с процессом повышения эффективности
+
+25
+     Сформулировано автором на основе результатов исследования
+38
+системы финансового управления коммерческих банков:
+     –аналитические инструменты, работающие с электронными отчётными
+формами,      обладающие    функциональными      возможностями      в    рамках
+соответствующих платформ, не находят широкого применения в системе
+финансового менеджмента банка;
+     –при проведении финансовых операций существует возможность комплексного
+анализа ошибок через определённую платформу, однако отсутствует возможность
+комплексной оценки рисков, связанных с организацией и управлением
+межканальными финансовыми операциями;
+     –в условиях цифровой экономики процесс развития и регулирования
+инновационных услуг банка основывается на проектах нео-банков и финтеха, что
+усложняет обеспечение конкурентоспособности банковских услуг;
+     –замедленность интеграции операционной модели развития банковского
+бизнеса с процессом создания и внедрения современных банковских услуг и другие
+факторы.
+     Организационные стратегии финансового управления коммерческих банков
+состоят из следующих самостоятельных компонентов:
+     • финансовое управление банком;
+     • управленческие решения, касающиеся стратегии развития банковской
+системы;
+     • фундаментальный анализ финансовой деятельности банка;
+     • оптимальная организационная структура системы управления финансовой
+деятельностью банка;
+     • стратегический план финансового управления, информационные потоки и
+другие элементы.
+     В корпоративной стратегии управления коммерческими банками Германии
+приоритеты создания соответствующей корпоративной системы включают
+следующие направления:
+     обеспечение результативности коммерческих банков в части номинальной и
+реальной стоимости ценных бумаг;
+     координация реализации контрагентской системы между вкладчиками,
+заёмщиками и инвесторами в деятельности банка;
+     поддержка инвестиционной деятельности акционеров крупных компаний,
+направленной на повышение рентабельности компаний;
+     обеспечение конкурентоспособности национальной экономики через
+совершенствование интеграционных отношений между государством и банковским
+сектором.
+     Данные таблицы, отражающие распределение ценных бумаг и рост их
+стоимости Deutsche Bank в Германии за 2022–2024 годы (таблица 3), подтверждают
+указанное направление.
+     По итогам 2024 года общий портфель ценных бумаг коммерческих банков
+составил 53,935 миллиарда евро, при этом облигации и другие виды ценных бумаг с
+фиксированным доходом занимали около 3,3% от общего портфеля, а акции и другие
+ценные бумаги с переменным доходом составляли 96,7% портфеля банковских
+ценных бумаг.
+
+                                                                             39
+                          Направление
+                          банковских
+                          кредитов на
+                                                                                                      Система           Укрепление
+                           проекты с                                                              корректировки
+                            высокой                                                                 процентной
+                                                                                                                       позиции банка
+                           степенью                                                             ставки по кредиту в    на кредитном
+                           эффектив-              Повыше-                                         соответствии с           рынке
+                                                                              Диверсификация
+                             ности                  ние                           активов      рыночной стоимостью
+                                                 кредитной                                         недвижимости
+                                                                               коммерческих
+        Интеграль                                активнос-                        банков
+            ный                                      ти
+                                                                                                    Классификация
+         механизм                                 коммер-                                                                              Рациональ
+                                                                                                   кредитных рисков,
+          кредит-                                  ческих                                          ориентированных                         ная
+           ного             Реальная и             банков                                          на корпоративных                     система
+         портфеля          потенциальн                            Рыночная         Уровень              клиентов                        планиро-
+         коммер-           ая рыночная                                           рентабельно                             Стратегия       вания
+                                                                  стоимость
+          ческих            стоимость                                            сти активов                             кредитной     финансо-
+                                                                  кредитных                          Сокращение
+          банков,          недвижимос                                               банка            гарантийных          системы         вого
+                                                                   ресурсов
+        ориентиро               ти                                                                  обязательств по        банка        управле-
+        ванного на                                                                                    кредитной                           ния
+         корпора-                                                                                   задолженности                       коммер-
+                                                 Оптимизация                                        корпоративных                        ческих
+          тивных
+                                                  клиентской                   Фокусировка             клиентов                          банков
+         клиентов
+                                                   базы при                      рыночной
+                                                  проведении                     стоимости
+                                                  кредитных                      активных           Обеспечение
+                                                   операций                      операций           оперативной         Привлечение
+                         Оптимизация                                                                                   целевых групп
+                                                                               коммерческих        эффективности
+                          управления                                                                                     клиентов к
+                                                                                   банков          при управлении
+                          кредитными                                                                                     кредитным
+                                                                                                    кредитными
+                            рисками                                                                                       услугам
+                                                                                                      рисками
+                         коммерческих
+                             банков
+
+
+         Рис. 2. Модель кредитного портфеля коммерческих банков для работы с индивидуальными заемщиками. 26
+
+
+26
+     Сформулировано автором на основе результатов исследования.
+
+
+
+                                                                                                                                                   40
+                                                                                 Установление системы контроля за
+                                                                                 выполнением кредитных договоров
+                                                                                                                        Алгоритм
+                   Эффективность                                                                                       управления
+                     управления                                                                                     диверсификацией
+                  диверсификацией                                                                                        активов
+                     кредитных                 Рациональная система кредитных                                        коммерческих
+                      операций                  операций коммерческих банков                                             банков
+                                                                                 Обеспечение пропорциональности
+Стратегия                                                                         между кредитными ресурсами и
+                                                                                      кредитным портфелем
+диверси-
+фикации                                                                                                               Координация       Экспер-
+кредитных          Формирование                            Механизм                                                    стратегии         тиза
+операций       ретроспективных целей                    диверсификации                                                 кредитной        оценки
+коммер-          при осуществлении                   рациональной системы                                             политики со      процесса
+                кредитных операций                    кредитных операций                                            стратегией банка   диверсиф
+ческих
+                                                                                                                                        икации
+банков                                               коммерческих банков
+                                                                                 Установление лимита полномочий
+                                                                                 по принятию кредитных решений в
+                                               Направление кредитного портфеля     зависимости от размера и типа
+                                               на финансирование перспективных               кредита
+                                                          проектов                                                  Матричная версия
+                 Определение состава
+                                                                                                                       структуры
+                   показателей для
+                                                                                                                       кредитных
+                  оценки процесса
+                                                                                                                        операций
+                  диверсификации
+
+                                                                                 Снижение концентрации рисков в
+                                                                                      кредитном портфеле
+
+
+
+       Рис. 3. Модель обеспечения системной диверсификации рациональных процессов при осуществлении кредитных
+                                             операций коммерческих банков 27
+
+
+  27
+       Сформулировано автором на основе результатов исследования
+
+
+
+                                                                                                                                         41
+                                                                    Таблица 3
+   Распределение ценных бумаг Deutsche Bank за 2021-2024 годы (млрд евро)1
+                                      2021       2022      2023       2024
+ Облигации и другие ценные
+                                     29,132     31,230    40,517     52,220
+ бумаги с фиксированным доходом
+ Акции и другие ценные бумаги с
+                                      1 203     1 015     1 415       1 715
+ переменным доходом
+ Участие в капитале                   0,00       0,00      0,00       0,00
+ Инвестиции в дочерние компании       0,00       0,00      0,00       0,00
+ Итого                               30,335     32,245    41,932     53,935
+     В третьей главе диссертационной работы под названием «Перспективы
+повышения эффективности системы финансового управления коммерческих банков
+в Узбекистане» систематизированы пути совершенствования организационно-
+экономического механизма повышения эффективности финансового управления
+коммерческих банков. Разработаны прогнозные показатели экономической
+эффективности коммерческих банков на основе эконометрических моделей, а также
+сформированы научные предложения и практические рекомендации по
+направлениям повышения эффективности системы финансового управления банков.
+     Системный подход к многоцелевому процессу увеличения активной
+операционной деятельности коммерческих банков позволяет повышать
+эффективность системы финансового управления за счёт следующих возможностей:
+     – точное целенаправленное формирование вектора условий и факторов,
+ориентированных на эффективную организацию процесса получения прибыли за
+счёт системной диверсификации банковских активных операций;
+     – создание системы приоритетов в годовом портфеле банковских активных
+операций с учётом показателей эффективности инновационных проектов,
+реализуемых в отраслях и секторах экономики;
+     – обеспечение взаимосвязи банковских активных операций по срокам и объёму
+и другие аспекты.
+     В настоящее время в коммерческих банках нашей страны система
+рационального планирования финансового менеджмента не обеспечивает
+системную диверсификацию рациональных процессов при осуществлении
+кредитных операций. Эту проблему можно решить путём внедрения в практику
+модели, позволяющей реинжиниринг стратегической системы управления активами
+банка и обеспечивающей системную диверсификацию рациональных процессов
+осуществления кредитных операций (рис. 3).
+     Модель обеспечения системной диверсификации рациональных процессов при
+осуществлении кредитных операций коммерческих банков служит для повышения
+уровня рентабельности за счёт снижения рисков, связанных с активами, путём
+совершенствования процесса диверсификации активов. Для прогнозирования уровня
+экономической эффективности коммерческих банков на основе эконометрических
+моделей в качестве эндогенной переменной (Y) был выбран валовой доход (Y), а в
+качестве экзогенных, то есть влияющих факторов, X1: процентные доходы,
+
+1
+ Deutsche Bank Combined management report Annual Financial Statements of Deutsche Bank AG. Frankfurt, Germany.
+December 31, 2024. 12 p.
+42
+X2: процентные расходы, X3: процентная маржа. Статистические данные по этим
+показателям за 2015–2024 годы представлены в таблице 4.
+                                                                    Таблица 4
+  Статистические данные о валовом доходе коммерческих банков Республики
+          Узбекистан и влияющих на него факторах за 2015–2024 годы2
+                                   Процентный            Процентные            Процентная
+             Валовой доход
+                                       доход               расходы                маржа
+              (в млрд. сум)
+                                   (в млрд. сум)         (в млрд.сум)          (в млрд.сум)
+                    Y                    X1                   X2                     X3
+    2015         5526.70              4251.32               3427.47                823.85
+    2016         7793.42              6234.74               4257.37               1977.37
+    2017         10507.72             7960.40               4623.10               3337.30
+    2018         17710.50             14516.80              8354.90               6161.90
+    2019         31110.24             25500.20             15601.80               9898.40
+    2020         45592.28             37066.90             23018.50              14048.40
+    2021         57343.83             47391.60             30796.20              16595.40
+    2022         79011.58             61727.80             37566.10              24161.70
+    2023        109215.66             86679.10             57683.30              28995.80
+    2024        142070.32            111866.40             77674.60              34191.80
+     Согласно прогнозу, основанному на трендовой модели, валовой доход
+коммерческих банков, если анализировать его в ценах 2024 года, увеличится в 1,21 раза
+к концу 2025 года по сравнению с 2024 годом и в 2,08 раза к 2028 году по сравнению с
+2024 годом. Также ожидается, что валовой доход коммерческих банков, если
+анализировать его в ценах 2024 года по прогнозу, основанному на трендовой модели,
+увеличится в 1,21 раза к концу 2025 года по сравнению с 2024 годом и в 2,06 раза
+к 2028 году по сравнению с 2024 годом (Таблица 5).
+                                                                    Таблица 5
+      Прогнозные варианты валового дохода коммерческих банков Республики
+              Узбекистан и влияющих на него факторов до 2028 года 3
+                Валовой Процентные Процентные Процентная Валовой
+                 доход     доходы     расходы    маржа     доход                       Валовая
+              (На основе (На основе (На основе (На основе (Много                       прибыль
+              трендовой трендовой трендовой трендовой факторная                       (Средний
+                модели)   модели)     модели)   модели)   модель)                      прогноз)
+      2025     172592,10 135416,90   139529,30  41693,57 230675,76                    201633,93
+      2026     209868,80 164127,10   165349,10  49164,13 273150,41                     241509,6
+      2027     250919,10 195692,30   193414,10  57244,41 319270,02                    285094,56
+      2028     295743,00 230112,50   223724,30  65934,41 369034,62                    332388,81
+    2025/2024     1,21      1,21        1,80      1,22      1,62                         1,42
+    2028/2024     2,08      2,06        2,88      1,93      2,60                         2,34
+    Анализ прогноза процентных расходов коммерческих банков по результатам
+трендовой модели в ценах 2024 года показывает, что к концу 2025 года они ожидаемо
+2
+  www.cbu.uz- Данные взяты с официального статистического информационного сайта Центрального банка
+Республики Узбекистан
+3
+  Сформулировано автором на основе результатов исследования
+                                                                                               43
+увеличатся в 1,80 раза по сравнению с уровнем 2024 года, а к 2028 году — в 2,88 раза.
+Прогноз процентной маржи по трендовой модели в ценах 2024 года показывает, что
+к концу 2025 года она увеличится в 1,22 раза по сравнению с 2024 годом, а
+к 2028 году — в 1,93 раза.
+     На основе этих адекватных моделей прогнозные параметры по показателям
+доходности и рентабельности АКБ «Узпромстройбанк» приведены в таблице 6.
+      Прогнозные результаты, приведённые в таблице 6, показывают, что
+показатели доходности и рентабельности АКБ «Узпромстройбанк» демонстрируют
+устойчивую тенденцию роста в среднесрочной перспективе. Валовой доход в период
+2026–2030 годов увеличится с 4289,6 млрд сум до 5256,3 млрд сум, то есть по
+сравнению с 2024 годом вырастет в 1,34 раза, что свидетельствует о стабильном
+расширении общей доходной базы банка. Этот рост обеспечивается расширением
+кредитного портфеля, увеличением доли процентных активов и ростом объёма
+использования банковских услуг.
+                                                                        Таблице 6.
+  Прогнозные параметры по показателям доходности и рентабельности АКБ
+                         «Узпромстройбанк» до 2030 года 4
+                                               Прогнозные годы                Соотношение
+        Показатели                                                             2030/2026,
+                                2026        2027        2028    2029   2030
+                                                                                кратное
+Валовой доход, млрд
+                    4289,58               4501,92 4731,51 4982,76 5256,31        1,34
+      сумов
+ Процентный доход,
+                    2984,56               3129,91 3297,60 3511,48 3756,77        1,38
+    млрд сумов
+ Процентная маржа,
+                    1611,40               1692,34 1793,04 1905,10 2025,60        1,40
+    млрд сумов
+Процентные расходы,
+                    1362,42               1411,02 1462,25 1516,50 1570,81        1,23
+    млрд сумов
+      Последовательная капитализация чистой прибыли в банковском бизнесе
+обеспечивает рост количества акций в соответствии с уровнем дивидендов. Среди
+стратегических проблем управления капиталом банка особое значение имеет
+тенденция к количественному сокращению активов при обратной зависимости от их
+рыночной стоимости, что отражает комплексную систему планирования бизнеса,
+ориентированную на эффективность финансового управления.
+      В процессе планирования банковского бизнеса конфиденциальность
+операционной деятельности на денежном рынке и эффективное управление
+системой планирования являются ключевыми критериями. Комплексный подход к
+планированию бизнеса позволяет обеспечить согласованность миссии и стратегии
+банка.
+      По нашему мнению, целесообразно представить систему планирования
+банковского бизнеса, ориентированную на повышение эффективности финансового
+управления, в следующем виде (рис. 4).
+
+
+4
+    Сформулировано автором на основе результатов исследования
+44
+                                       Конфиденциальность операций
+                                         банка на денежном рынке
+
+
+                                 Динамический и
+                               прогнозный анализ              Группировка бизнес-
+                              прибыли, полученной           проектов банка по уровню
+                             от банковского бизнеса              рентабельности
+
+
+
+
+                    Реинжиниринг                   Установление                    Формирование
+                      проектов                 предельных значений                  источников
+                     банковского              для достижения целевых             покрытия убытков,
+                                                    финансовых                      связанных с
+                       бизнеса
+                                                    результатов                   бизнес-рисками
+
+
+
+                     Направление процентов по                         Оптимизация структурного
+                   субординированным займам на                     состава капитала, направленного
+                     сокращение операционных                       на ведение банковского бизнеса
+                             расходов
+
+
+                                                   Направление
+                                                  оперативной и
+                                               тактической системы
+                                              банковского бизнеса на
+                                                   исполнение
+                                                  стратегических
+      Рис. 4. Система планирования банковского бизнеса, ориентированная на
+                повышение эффективности финансового управления 5
+     Система планирования банковского бизнеса, ориентированная на повышение
+эффективности     финансового     управления,   обосновывает    необходимость
+формирования следующих приоритетных направлений повышения эффективности
+финансового управления коммерческих банков нашей страны:
+     1. Разработка системы оптимального распределения финансовых ресурсов
+через диверсификацию финансовых рисков, возникающих в процессе обеспечения
+целенаправленной координации активных операций при комплексном анализе
+стратегических направлений финансовой деятельности коммерческих банков.
+     2. В процессе формирования инвестиционного портфеля банка целесообразно
+направлять интегрированную систему планирования и процессы оценки
+рентабельности на выявление проектов, которые не позволяют проявить внутренние
+возможности и существующий потенциал.
+     3. Обеспечение интеграции системы управления активами и пассивами банка в
+процесс планирования бизнеса позволяет сформировать единую платформу обмена
+данными бухгалтерского учета и отчетности. Установление механизма обеспечения
+информационной безопасности на этой платформе даёт возможность постоянно
+знакомить акционеров банка с проектами, обеспечивающими их материальную
+заинтересованность.
+5
+    Сформулировано автором на основе результатов исследования
+                                                                                                     45
+    4. В процессе формирования системы обеспечения операционной
+эффективности активов банка целесообразно внедрять HR-менеджмент,
+обеспечивающий комплексное развитие сотрудничества между подразделениями и
+направляющий миссию банка на формирование цен на финансовые услуги и
+тарифной политики за счёт гибкой функциональности управления.
+    5. Процесс расширения масштабов организации банковских услуг через оценку
+влияния на себестоимость этих услуг позволяет обеспечить комбинацию процессов,
+которая гарантирует финансовую результативность при достижении целевых
+показателей разницы между бухгалтерской и экономической прибылью, и другие
+сопутствующие меры.
+                              ЗАКЛЮЧЕНИЕ
+     Выводы по исследованию концептуальных основ системы финансового
+управления коммерческих банков подтверждают, что финансовая устойчивость
+банка является сложной макроэкономической категорией. В свою очередь,
+обеспечение соответствующего соотношения активных и пассивных операций банка
+позволяет повышать эффективность системы финансового управления и
+координировать её конвергенцию. Система финансового управления коммерческих
+банков представляет собой совокупность процессов, зависящих от множества
+факторов, которые оказывают влияние на обеспечение результативности
+жизненного цикла финансовых услуг банка.
+     Организационные отношения, ориентированные на управление финансовой
+системой современных банков, демонстрируют наличие ряда проблем при
+формировании системной основы стратегии финансового управления и координации
+механизма её реализации. В частности, в условиях цифровой экономики особое
+место среди этих проблем занимает необходимость обеспечения интеграционных
+отношений через автоматизацию соответствующего контроля за исполнением
+оперативных решений при размещении банковского капитала в сегменте
+финансового рынка с высокой доходностью и управлении потенциальным уровнем
+риска, связанным с активными операциями.
+     Поскольку      организационно-экономический     механизм     повышения
+эффективности системы финансового управления банка создаёт возможности для
+обеспечения рыночной активности капитала в отраслях и секторах экономики,
+данный комбинированный процесс поддерживается через формирование системы
+приоритетов в годовом портфеле активных операций банка. Оценка системы
+поддержки этого процесса на эконометрической основе позволяет собирать
+статистические и экономические показатели, характеризующие экономическую
+эффективность коммерческих банков, и исследовать их влияние на финансовое
+управление банка посредством соответствующей группировки данных.
+     На основании результатов исследований, проведённых в рамках процесса
+повышения эффективности системы финансового управления коммерческих банков,
+были сформированы следующие выводы:
+     1. Система финансового управления коммерческих банков представляет собой
+совокупность процессов, зависящих от множества факторов, которые оказывают
+влияние на результативность жизненного цикла финансовых услуг банка. В свою
+очередь, поддержание соответствующего соотношения активных и пассивных
+46
+операций банка позволяет повышать эффективность системы финансового
+управления и координировать её конвергенцию.
+     2. Поскольку    организационно-экономический     механизм     повышения
+эффективности системы финансового управления создаёт возможности для
+обеспечения рыночной активности капитала в отраслях и секторах экономики,
+данный комбинированный процесс поддерживается через формирование системы
+приоритетов в годовом портфеле активных операций банка.
+     3. Обоснование расходов коммерческих банков на финансирование
+инновационных проектов предприятий и организаций создаёт многоцелевую
+иерархическую систему управления активными операциями, направленную на
+сокращение объёма проблемных кредитов юридических лиц и обеспечение
+определённой результативности банка в экономических отношениях. В этой
+ситуации координация деятельности коммерческих банков через механизм
+финансового управления и управленческие решения, связанные с его организацией,
+считается целесообразной.
+     4. Организационно-экономический механизм повышения эффективности
+системы     финансового    управления    коммерческих    банков     показывает
+целесообразность отдельного внимания к процессам индивидуального и
+функционального управления активами. В рамках этого направления обеспечение
+системной диверсификации активов создаёт условия и взаимосвязь факторов,
+позволяющие повышать бухгалтерскую прибыль банка.
+     2. Сравнительный анализ показателей конечных результатов стратегии
+финансового управления коммерческих банков способствует формированию
+альтернативных вариантов системы финансового управления и созданию
+организационной основы для здоровой конкурентной среды между коммерческими
+банками.
+     3. Возрастающее внимание к процессам формирования конкурентной среды
+между коммерческими банками и обеспечению её результативности требует
+изучения роли внутренних и внешних факторов, оказывающих прямое влияние на
+финансовую деятельность банка, а также необходимости их соответствующей
+группировки. Этот процесс группировки позволяет эффективно защищаться от
+потенциальных рисков за счёт устранения факторов, негативно влияющих на
+систему финансового управления банка.
+     4. Результаты оценки эффективности системы финансового управления
+коммерческих банков в Узбекистане показывают, что на процесс финансового
+управления существенно влияют небазарные факторы. Эти факторы приводят к
+непропорциональному распределению кредитного портфеля банков, что, в свою
+очередь, вызывает рост несоответствия между активными и пассивными
+операциями.
+     5. Организационные отношения, ориентированные на управление финансовой
+системой современных банков, демонстрируют наличие ряда проблем при
+формировании системной основы стратегии финансового управления и координации
+механизма её реализации. В частности, в условиях цифровой экономики особое
+место среди этих проблем занимает необходимость обеспечения интеграционных
+отношений через автоматизацию соответствующего контроля за исполнением
+оперативных решений при размещении банковского капитала в сегменте
+                                                                            47
+финансового рынка с высокой доходностью и управлении потенциальным уровнем
+риска, связанным с активными операциями.
+     6. В рамках своей стратегии финансового управления коммерческие банки
+стремятся устранять факторы, оказывающие отрицательное влияние на структурную
+организацию активных и пассивных операций. Выбранная модель финансового
+управления банка позволяет обеспечить соответствующие преимущества в условиях
+конкурентной борьбы.
+     7. Разработка согласованной системы повышения капитала банка через
+соответствующую комбинацию уровня дивидендов обосновывает высокую долю
+процентных доходов в составе валового дохода коммерческих банков страны.
+Согласно прогнозным показателям трендовой модели процентных расходов банков
+до 2028 года, валовая прибыль банков увеличится в 2,88 раза. Данный результат
+достигается за счёт увеличения банковской маржи в 1,22 раза к 2025 году по
+сравнению с 2024 годом и в 1,93 раза к 2028 году.
+     8. Обеспечение интеграционных процессов в целевых программах, связанных с
+развитием системы финансового управления коммерческих банков, оказывает
+эффективное влияние на формирование финансовых ресурсов, направленных на
+поддержку бизнес-проектов, улучшающих финансовую структуру банка, а также на
+создание резервной системы для возможных финансовых потерь.
+     9. Интеграция процесса бизнес-планирования коммерческих банков страны в
+систему финансового управления повышает возможности достижения
+стратегических результатов, обеспечивающих финансовую устойчивость банка, за
+счёт оптимизации целей и задач, связанных со стратегией финансового управления.
+
+
+
+
+48
+       SCIENTIFIC COUNCIL PhD.03/2025.27.12.I.16.06
+  ON AWARDING SCIENTIFIC DEGREES AT BUKHARA STATE
+               TECHNICAL UNIVERSITY
+              KARSHI STATE UNIVERSITY
+
+
+
+
+            KADIROV LUTFULLO KHALIMOVICH
+
+
+
+IMPROVING THE EFFICIENCY OF THE FINANCIAL MANAGEMENT
+            SYSTEM OF COMMERCIAL BANKS
+
+
+
+                         08.00.13 – Management
+
+
+
+
+                      DISSERTATION ABSTRACT
+         of the Doctor of Philosophy (PhD) in Economical Sciences
+
+
+
+
+                             Bukhara – 2026
+        The theme of the dissertation for a Doctor of Philosophy (PhD) in Economical Sciences was
+registered by the Higher Attestation Commission under the Ministry of Higher education, science and
+innovations of the Republic of Uzbekistan under No. В2023.4.PhD/Iqt3600.
+
+      The dissertation was accomplished at Karshi State University.
+      The dissertation abstract in three languages (Uzbek, Russian, English (summary)) has been placed on the
+website of the Scientific Council (www.bstu.uz) and the web-site of information-educational portal “ZiyoNet”
+(www.ziyonet.uz).
+
+        Scientific advisor:                                Ochilov Akram Odilovich
+                                                           Doctor of Sciences in Economics, Professor
+
+        Official opponents:                                Khamidov Obidjon Khafizovich
+                                                           Doctor of Sciences in Economics, Professor
+                                                           Tashmatov Sharof Urokboyevich
+                                                           Doctor of Philosophy on Economical Sciences (PhD),
+                                                           Associate Professor
+
+        Leading organization:                              Termez State University
+
+
+        The dissertation defence will be held on April 18, 2026, at 1200 o'clock at the meeting of Scientific Council
+PhD.03/2025.27.12.I.16.06 at Bukhara State Technical University (Address: 200117, 15. Qayum Murtazoyev
+street, Bukhara. Phone: (+99865) 223-78-84; e-mail: info@bstu.uz).
+     The dissertation is aviable at the Information-resource centre (IRC) of Bukhara State Technical
+University (registered under No. 498). (Address: 200117, 15. Qayum Murtazoyev street, Bukhara.
+Phone: (+99865) 223-78-84).
+      The dissertation abstract is distributed on April 04, 2026.
+      (Mailing report No. 4 on April 04, 2026).
+
+
+
+
+                                                                                                    A.B. Nizamov
+                                                              Chairman of the Scientific Council on awarding
+                                                              scientific degrees, Doctor of Sciences in Economics,
+                                                              Professor
+                                                                                                  Sh.N. Xayitov
+                                                              Scientific secretary of the Scientific Council on
+                                                              awarding scientific degrees, Doctor of Sciences in
+                                                              Economics (DSc), Professor
+                                                                                                   B.F. Azimov
+                                                              Chairman of the Scientific Seminar under Scientific
+                                                              Council on awarding scientific degrees, Candidate
+                                                              of Economical Sciences, Associate Professor
+INTRODUCTION (abstract of the dissertation of the Doctor of Philosophy (PhD)
+                      on Economical Sciences)
+      The aim of the dissertation research. The purpose of the research is to develop
+scientifically grounded proposals and practical recommendations for improving the
+efficiency of the financial management system of commercial banks in Uzbekistan.
+      The objectives of the research are as follows:
+      to study the theoretical foundations of the financial management system of
+commercial banks and investigate its stages of development;
+      to classify the factors affecting the efficiency of commercial banks’ financial
+management system and determine their impact on the development of bank financial
+security;
+      to substantiate opportunities for shortening the repayment periods of corporate
+clients’ loan obligations by forming a diversification mechanism in commercial banks’
+financial management;
+      to improve the quality of standard assets in commercial banks and assess the
+rationality of processes in the implementation of credit operations;
+      to create a system for focusing the management mechanism by grouping financial
+risk indicators in commercial banks’ financial management;
+      to develop a marketing communication system aimed at ensuring the financial
+stability of commercial banks;
+      to substantiate opportunities for optimizing bank financial management through
+forecasting scenarios of commercial banks’ gross income and its influencing factors
+based on economic-mathematical modeling;
+      to develop a digital ecosystem for enhancing the efficiency of commercial banks’
+financial management under the conditions of a digital economy;
+      to investigate mechanisms for forming financial relations in commercial bank
+management models based on foreign experience;
+      to develop scientific proposals and practical recommendations for improving the
+efficiency of commercial banks’ financial management system.
+      Object of research. The object of the research is the financial management
+activities of commercial banks in the Republic of Uzbekistan.
+      The subject of the research is the organizational and economic relations arising
+in the process of financial management of commercial banks.
+      Research methods. During the study, methods such as scientific abstraction,
+analysis and synthesis, statistical analysis, comparative analysis, induction and
+deduction, as well as economic-mathematical modeling and forecasting were applied.
+      The scientific novelty of the research consists in the following:
+      based on the reduction of the term of debt obligations under credit lines allocated
+to corporate clients by forming a credit portfolio based on changes in the market value
+of real estate by determining the correspondence of credit resources to the market value
+and the profitability level of bank assets;
+      based on the credit risk assessment model of commercial banks, a proposal is made
+to predict the effectiveness of the bank's financial management system by assessing the
+probability of default of borrowers from the bank by the percentage of the loan in the
+                                                                                      51
+conditions of the risk level of "low" (0≤X≤10), "medium" (10≤X≤25), "high"
+(25≤X≤40);
+      based on the proposal to focus the management mechanism for classifying the risk
+indicators that reflect the relevant features of the emergence and implementation of
+financial threats in order to improve the effectiveness of the financial management
+system of commercial banks;
+      Based on econometric models for increasing the economic efficiency of
+commercial banks in Uzbekistan, forecast options for gross income and factors affecting
+it until 2028 have been developed.
+      The practical results of the research are as follows:
+      ways to ensure symmetric and asymmetric information exchange to study the
+attitude of customers to banking services on a comprehensive basis and to shape the
+behavior of the population towards banking services by forming a marketing
+communication system aimed at ensuring the financial stability of commercial banks
+have been identified;
+      ways to optimize bank financial management have been developed through
+economic and mathematical modeling of the impact of interest income and interest
+expenses of commercial banks on gross income;
+      the functional features of the financial management implementation mechanism
+have been systematized based on corporate, innovative and rational strategies based on
+foreign experience of financial management of commercial banks;
+      the possibilities of coordinating processes in bank financial management have been
+systematized by forming a digital ecosystem to improve the efficiency of financial
+management of commercial banks in the conditions of a digital economy.
+      Reliability of research results. The reliability of research results is explained by
+the fact that the approach, methods and theoretical data used in it were obtained from
+official sources, the effectiveness of the presented analyses and experimental work was
+verified within the mathematical and statistical reliability interval, the conclusions,
+proposals and recommendations were implemented in practice, and the results obtained
+were confirmed by authorized organizations.
+      Approbation of research results. The results of the dissertation were discussed at
+8, including 4 international and 4 republican scientific and practical conferences.
+      Publication of research results. A total of 17 scientific works on the topic of the
+dissertation, including 9 articles in scientific journals recommended by the Higher
+Attestation Commission of the Republic of Uzbekistan, of which 7 articles were
+published in local and 2 articles in foreign scientific journals.
+      The size and structure of the dissertation. The composition of the dissertation
+consists of an introduction, 3 chapters, a conclusion, a list of used literature. The volume
+of the dissertation is 126 pages.
+
+
+
+
+52
+                    E’LON QILINGAN ILMIY ISHLAR RO‘YXATI
+                      СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                          LIST OF PUBLISHED WORKS
+                                  I bo‘lim (I часть; I part)
+      1. Kadirov L.Kh. Directions for improving the financial managmement system of
+the banking system of the Republic of Uzbekistan // “Yashil iqtisodiyot va taraqqiyot”
+jurnali. – Tashkent. – 2025. – 3. – P. 377-381. (OAK Rayosatining 2023 yil 28 fevraldagi
+333/5-son qarori)
+      2. Kadirov L.X. Tijorat banklari moliyaviy boshqarish tizimi samaradorligini
+takomillashtirish strategiyasi // “Yashil iqtisodiyot va taraqqiyot” jurnali. – Тoshkent. –
+2025. – 6. – P. 48-51. (OAK Rayosatining 2023 yil 28 fevraldagi 333/5-son qarori)
+      3. Kadirov Lutfulla Khalimovich The Role of Models for The Formation of Digital
+Transformation of The Banking Sector in The Improvement of The Financial
+Management System of Commercial Banks // Academic Journal of Digital Economics
+and Stability. – Spain. –2025, 38(3), – Р. 71-80. (OAK Rayosatining 2024 yil
+28 avgustdagi 360-son qarori)
+      4. Kadirov L.X. Commercial banking financial management and system efficiency
+increasing directions// European Journal of Business Startups and Open Society. –
+Brussels. December 12, 2023) Vol. 3. EJBSOS. – P. 121-126. (08.00.00; №25)
+      5. Кадиров Л.Х. Тижорат банклари молиявий бошқарув тизими
+самарадорлигини ошириш муаммолари // «Scienceproblems.uz» – Ijtimoiy-
+gumanitar fanlarning dolzarb muammolari elektron jurnali. – Samarqand. – 2023. №S/5
+(3). – 114-121 б. (OAK Rayosatining 2022 yil 30 noyabrdagi 327/5-son qarori)
+      6. Kadirov L.X. Tijorat banklari moliyaviy boshqaruv tizimini tashkiliy
+mexanizmini takomillashtirish// “Muhandislik va Iqtisodiyot” ilmiy-amaliy jurnali. –
+Toshkent. – 2024. №4. – 210-214 b. (OAK Rayosatining 2022 yil 30 noyabrdagi 327/5-
+son qarori)
+      7. Kadirov L.X. Tijorat banklari boshqaruv tizimida moliyaviy resurs bazasi
+barqarorligini tavsiflovchi koʻrsatkichlar tahlilining oʻrni // UzA Elektron jurnal. –
+Toshkent. – 2024. – 11 (61). – 44-48.
+      8. Очилов А.О., Коновалова О.А., Аборкина, Е.О., Кадиров Л.Х.,
+Акимов С.А., Тураева М.Р. Об использовании генеративного искусственного
+интеллекта в банковской сфере // Economics and Innovative Technologies. –
+Ташкент. – 2024. – 12 (4). – С. 97-108. (OAK Rayosatining 2024 yil 25 dekabrdagi
+365-son qarori)
+                              II boʻlim (II часть; II part)
+    9. Очилов А.О., Кадиров Л.Х. Тижорат банклари молиявий бошқарув тизими
+самарадорлигини оширишда очиқ бозор операцияларини таҳлил қилиш тизимини
+такомиллаштиришнинг ўрни // «Ўзбекистон иқтисодий ахборотномаси» таҳлилий
+журнал. – Тошкент. – 2024. – 1. 5-6 б. (08.00.00; №1)
+     10. L.X. Kadirov. The Effect of Improving the Financial Management Mechanism
+of Commercial Banks on the Development of the Lending System // In International
+Conference of Economics, Finance and Accounting Studies. – Hungary. – March 2024.
+Vol. 3, – P. 19-21.
+                                                                                        53
+      11. L.X. Kadirov. Commercial Banking Financial Management and Increased
+Efficiency of Credit Risk Management. In International Conference of Economics,
+Finance and Accounting Studies. – Hungary. – March 2024. Vol. 3, – P. 15-18.
+      12. Kadirov L.X. Tijorat banklari moliyaviy boshqaruv tizimi rentabelligini
+oshirish va tashkiliy-iqtisodiy mexanizmini takomillashtirish // “O‘zbekistonning yashil
+iqtisodiyotga o‘tish strategiyasi: imkoniyatlar va muammolar”. Respublika ilmiy-amaliy
+anjuman materiallari. Osiyo texnologiyalar universiteti. – Qarshi. – 2025-yil 2-3-may. –
+545-549 b.
+      13. Kadirov L.X. Tijorat banklari moliyaviy boshqaruv tizimining nazariy asoslari
+// “O‘zbekistonda yoshlarning ijtimoiy-iqtisodiy faolligini oshirish: mavjud muammo va
+istiqbolli imkoniyatlar” Respublika ilmiy-amaliy konferensiya materiallari to‘plami.
+Toshkent gumanitar fanlar universiteti. – Toshkent. – 2024-yil 15-noyabr. – 201-204 b.
+      14. Кадиров Л.Х. Вопросы совершенствования денежно-кредитной политики
+в условиях модернизации экономики Узбекистана // Россия: Тенденции и
+перспективы развития. Ежегодник. Вып. 18: Материалы XXII Национальной
+научной конференции с международным участием «Модернизация России:
+приоритеты, проблемы, решения» / РАН. ИНИОН. – М., 2023. – Ч. 2. – С. 60-61.
+      15. Кадиров Л.Х. Тижорат банкининг молиявий бошқаруви ва кредит
+рискларини бошқариш самарадорлигини ошириш // “Янги Ўзбекистон шароитида
+тарих ва ижтимоий фанларнинг долзарб масалалари, ривожланиш тенденциялари
+ва истиқболлари”. Республика илмий-амалий анжуман тўплами. Қарши
+инновацион таълим университети. – Қарши. 2024 йил 17-18-май. –180-182 б.
+      16. Кадиров Л.Х. Тижорат банкларининг молиявий бошқарув тизими
+самарадорлигини           оширишнинг          ташкилий-иқтисодий           механизмини
+такомиллаштириш // “Барқарор иқтисодий ривожланишни таъминлашнинг
+концептуал жиҳатлари”. Республика илмий-амалий анжуман тўплами. – Тошкент.
+– 2024 йил 15 апрель. – 520-522 б.
+      17. Kadirov L.X. Tijorat banklari moliyaviy boshqaruv tizimi samaradorligini
+takomillashtirishning asosiy omillari // “Globallashuv davrida filologiya fanlarini
+o’qitishning dolzarb muammolari”. Хalqaro ilmiy-amaliy anjuman materiallari. Osiyo
+texnologiyalar universiteti. – Qarshi. – 2024 yil 15-16-noyabr. – 488-491 b.
+
+
+
+
+54
+  Avtoreferatning o‘zbek, rus va ingliz tilidagi matnlari
+    “IPAKYO‘LI” nashriyotida tahrirdan o‘tqizildi.
+
+
+
+
+            Bosishga ruxsat etildi: 03.04.2026.
+               Qog‘oz bichimi 60x84 1/16.
+      Times New Roman garniturasida chop etildi.
+Hajmi 3,5 bosma taboq. Adadi 100 nusxa. Buyurtma № 481
+
+
+
+“West Media Express” MCHJ bosmaxonasida chop etildi.
+         Bosmaxona manzili: Buxoro shahri,
+        Qayum Murtazoyev ko‘chasi 15A uy.
+               Tel: +998 93 080 39 00
+

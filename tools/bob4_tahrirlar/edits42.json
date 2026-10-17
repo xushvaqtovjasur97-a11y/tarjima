@@ -1,0 +1,247 @@
+[
+ {
+  "type": "para",
+  "p": 632,
+  "old": "ssenariylar haqiqiy tarixiy shoklarga asoslanishi va model natijalari muntazam tekshirilishi lozimligini talab qiladi",
+  "new": "ssenariylar yetarlicha jiddiy, biroq ehtimoldan yiroq bo‘lmasligi hamda modellar va ularning natijalari muntazam tekshirilishi lozimligini talab qiladi",
+  "why": "BCBS Stress testing principles (2018) ssenariylarning faqat tarixiy shoklarga asoslanishini talab qilmaydi (4-tamoyil – yetarlicha jiddiy stresslar, “severe but plausible”; 8-tamoyil – modellar va natijalarni muntazam tekshirish). P636 dagi “ehtimoldan yiroq emasligi” mantiqi bilan ham bog‘lanadi."
+ },
+ {
+  "type": "para",
+  "p": 636,
+  "old": "chunki ular YaIM o‘sishi bilan kuchli bog‘langan (asosiy stavka bilan korrelyatsiya koeffitsiyenti −0,76), 3.3-paragrafda esa asosiy stavkaning ta’siri faqat 5–10 foiz darajada, so‘m kursiniki esa faqat Pooled modelda ahamiyatli bo‘lgan",
+  "new": "chunki asosiy stavka va inflyatsiya YaIM o‘sishi bilan kuchli bog‘langan (korrelyatsiya koeffitsiyenti mos ravishda −0,76 va −0,68), 3.3-paragrafda esa asosiy stavkaning ta’siri faqat 5–10 foiz darajada, so‘m kursiniki faqat Pooled modelda ahamiyatli, inflyatsiyaniki esa ahamiyatsiz bo‘lgan",
+  "why": "makro.json (2021_IV–2025_IV): corr(YaIM, stavka) = −0,764, corr(YaIM, inflyatsiya) = −0,675, corr(YaIM, USD) = −0,358 – so‘m kursi YaIM bilan kuchli bog‘lanmagan, shuning uchun “ular … kuchli bog‘langan” umumlashmasi noto‘g‘ri; 3.3.6-jadvalda inflyatsiya ikkala modelda ahamiyatsiz."
+ },
+ {
+  "type": "para",
+  "p": 640,
+  "old": "foiz darajada statistik ahamiyatli.",
+  "new": "foiz darajada statistik ahamiyatli. 3-modelda choraklik ROA oldingi chorak ma’lumotini talab qilgani sababli kuzatuvlar 2022-yil I choragidan boshlanadi.",
+  "why": "fc42.py/panel33.csv: ROAq 2021_IV da barcha banklar uchun bo‘sh, 3-model 2022_I–2025_IV (16 chorak, N=394). Jadvaldagi “Davr” katagi 2- va 3-modelda bir xil matnli bo‘lgani uchun cell-tahrir bilan alohida tuzatib bo‘lmaydi (qo‘lda 3-model katagini “2022-y. I chorak – 2025-y. IV chorak” ga o‘zgartirish ham mumkin)."
+ },
+ {
+  "type": "para",
+  "p": 642,
+  "old": "har bir bank uchun panel integral indeksi va",
+  "new": "har bir bank uchun panel integral indeksi (MBII-8) va",
+  "why": "3.2-§ da kiritilgan belgilashga muvofiqlik (25 bank paneli – MBII-8); 4.2.6-jadvalda ham MBII-8/MBII-13 ishlatilgan."
+ },
+ {
+  "type": "para",
+  "p": 646,
+  "old": "Shu bilan birga, taklif etilgan usul o‘zgarishsiz holat prognozidan sezilarli ustunlikka ega emas.",
+  "new": "Shu bilan birga, taklif etilgan usul o‘zgarishsiz holat prognozidan aniqroq emas, chunki 2023 va 2024-yillarda uning xatosi biroz yuqori (0,21 va 0,73 ga nisbatan 0,12 va 0,65), 2025-yilda esa teng bo‘lgan.",
+  "why": "4.2.3-jadval: MAE taklif etilgan usul 0,21/0,73/0,44, o‘zgarishsiz holat 0,12/0,65/0,44 – usul hech bir yilda aniqroq emas; “sezilarli ustunlikka ega emas” ustunlik bordek taassurot qoldiradi."
+ },
+ {
+  "type": "para",
+  "p": 646,
+  "old": "indeksning o‘rtacha xatosi esa 0,21 ballni tashkil etgan.",
+  "new": "indeksning o‘rtacha xatosi esa 0,21 ballni tashkil etgan, biroq o‘zgarishsiz holat prognozi ham xuddi shunday natija beradi (19 ta bank, 0,21 ball).",
+  "why": "Qayta hisob (fc42.py backtest_bank): MAE_MBII = 0,212, MAE_MBII_naiv = 0,212; naiv (2024_IV zonasi) ham 25 tadan 19 ta zonani to‘g‘ri beradi. Keyingi jumla (“Bu natija … bank darajasidagi qarorlar bilan belgilanganini ko‘rsatadi”) aynan shu natijaga tayanadi."
+ },
+ {
+  "type": "para",
+  "p": 649,
+  "old": "keskin salbiy ssenariyda esa 4,7 foizga yetadi, bu 2023–2024-yillardagi darajaga to‘g‘ri keladi.",
+  "new": "keskin salbiy ssenariyda esa 4,7 foizga yetadi, bu mos ravishda 2023–2024-yillardagi va 2022-yildagi darajaga to‘g‘ri keladi.",
+  "why": "tizim42.csv: 2023–2024-yillarda NPL 3,38–4,52 % (3,9 shu oraliqda), 4,7 esa 2024 maksimumidan yuqori va 2022-yil I–III choraklari (4,72–4,95) darajasiga mos."
+ },
+ {
+  "type": "para",
+  "p": 652,
+  "old": "Izoh: muammoli kreditlar ulushi va ROA aktivlar bo‘yicha tortilgan o‘rtacha;",
+  "new": "Izoh: muammoli kreditlar ulushi va ROA aktivlar bo‘yicha tortilgan o‘rtacha; MBII – 8 ko‘rsatkichli panel indeksi (MBII-8); aktivlar ulushi tanlangan 25 ta bank jami aktivlariga nisbatan (2025-yil oxirida ular bank tizimi aktivlarining 96,9 foizini tashkil etgan);",
+  "why": "Jadvaldagi indeks – 25 bank paneli indeksi (MBII-8, kanonik belgilash); qizil zona aktivlari ulushi fc42.py da 25 bank aktivlari yig‘indisiga nisbatan hisoblangan (895,7 trln so‘m; 3.3-§: tizimning 96,9 %)."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "ular tizim aktivlarining 5,9 foizini tashkil etadi",
+  "new": "ular tanlangan banklar aktivlarining 5,9 foizini tashkil etadi",
+  "why": "Ulush 25 bank aktivlariga nisbatan (fc42.py: qizil_aktiv), tizim aktivlariga nisbatan emas."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "ularning tizim aktivlaridagi ulushi 24,3 foizni tashkil etadi, sariq va qizil zonadagi banklar ulushi esa 45,9 foizga yetadi",
+  "new": "ularning tanlangan banklar aktivlaridagi ulushi 24,3 foizni tashkil etadi, sariq va qizil zonadagi banklarning ulushi esa 45,9 foizga yetadi",
+  "why": "Maxraj – 25 bank aktivlari (tizim bo‘yicha qariyb 23,6 %); “banklar ulushi” soni emas, aktivlar ulushi ekanini aniqlashtirish."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "“Mikrokreditbank” va “Turonbank” ATBlaridir.",
+  "new": "“Mikrokreditbank” va “Turonbank” ATBlaridir (banklar kesimidagi natijalar 7-ilovada keltirilgan).",
+  "why": "7-ilova (25 bank bo‘yicha 2025 va 2027 ssenariy natijalari) matnda hech qayerda havola qilinmagan."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "ya’ni sariq zonaning quyi chegarasigacha pasayadi",
+  "new": "ya’ni sariq zonaning quyi chegarasiga yaqin darajagacha pasayadi",
+  "why": "2,81 ball quyi chegaradan (2,75) 0,06 ball yuqori."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "xususiy banklarda esa 3,61 dan 3,50 ballgacha",
+  "new": "boshqa banklarda esa 3,61 dan 3,50 ballgacha",
+  "why": "4.2.5-jadval va 3.3-§ dagi guruh nomi – “boshqa banklar” (DAVLAT=0 guruhiga xorijiy kapitalli banklar ham kiradi)."
+ },
+ {
+  "type": "para",
+  "p": 653,
+  "old": "xususiy banklarda esa yuqori foiz marjasi",
+  "new": "boshqa banklarda esa yuqori foiz marjasi",
+  "why": "Yuqoridagi bilan bir xil – atamalar izchilligi (4.2.5-jadval, P661, 3.3-§)."
+ },
+ {
+  "type": "para",
+  "p": 656,
+  "old": "Tanlangan 25 ta bankning ssenariylar bo‘yicha 2027-yil oxirida erta ogohlantirish zonalari bo‘yicha taqsimlanishi",
+  "new": "Tanlangan 25 ta bankning erta ogohlantirish zonalari bo‘yicha taqsimlanishi: 2025-yil (haqiqiy) va 2027-yil oxiri (ssenariylar bo‘yicha prognoz)",
+  "why": "Rasmdagi birinchi ustun 2025-yil haqiqiy holati, nomda esa barcha ustunlar 2027-yilga tegishli deyilgan; “bo‘yicha … bo‘yicha” takrori ham bartaraf etiladi (7-ilova nomi bilan bir xil shakl)."
+ },
+ {
+  "type": "para",
+  "p": 657,
+  "old": "sariq va qizil zonadagi banklarning tizim aktivlaridagi ulushi",
+  "new": "sariq va qizil zonadagi banklarning tanlangan banklar aktivlaridagi ulushi",
+  "why": "Ulush 25 bank aktivlariga nisbatan (fc42.py: sariq_qizil_aktiv 33,79 → 45,88)."
+ },
+ {
+  "type": "para",
+  "p": 660,
+  "old": "tortilgan o‘rtacha.",
+  "new": "tortilgan o‘rtacha; MBII – 8 ko‘rsatkichli panel indeksi (MBII-8).",
+  "why": "MBII-8/MBII-13 belgilashining izchilligi (jadvaldagi “MBII medianasi” qatori ikki marta takrorlangani uchun izoh orqali)."
+ },
+ {
+  "type": "para",
+  "p": 662,
+  "old": "tadqiqotning asosiy obyektlari bo‘lgan ikki bank uchun",
+  "new": "tadqiqot obyektlari bo‘lgan uch bank uchun",
+  "why": "Kirishda (P67) tadqiqot obyekti uch bank: SQB, MKB va “Aloqabank”; 3.1–3.2, 4.3-§ larda ham uch bank. “Ikki bank” ziddiyat hosil qiladi."
+ },
+ {
+  "type": "para",
+  "p": 662,
+  "old": "“Mikrokreditbank” ATB uchun 2,80 ni tashkil etgan (4.2.6-jadval).",
+  "new": "“Mikrokreditbank” ATB uchun 2,80 ni, “Aloqabank” ATB uchun 2,83 ni tashkil etgan. Dastlabki ikki bank bo‘yicha natijalar 4.2.6-jadvalda keltirilgan.",
+  "why": "Kanonik koeffitsiyent Aloqabank 2025 = 2,83 (aloqa_mbii.json: 7,187/2,537 = 2,832)."
+ },
+ {
+  "type": "para",
+  "p": 666,
+  "old": "keskin salbiy ssenariyda uning 3-bosqich kreditlari ulushi 19,4 foizga yetadi.",
+  "new": "keskin salbiy ssenariyda uning 3-bosqich kreditlari ulushi 19,4 foizga yetadi. Xuddi shu usulda hisoblangan “Aloqabank” ATB bo‘yicha natijalar ham shunga o‘xshash. Milliy hisobot bo‘yicha bank 2027-yilda ijobiy ssenariyda yashil zonada (3,27 ball), qolgan ssenariylarda sariq zonada (3,04–3,24 ball) bo‘lsa, MHXS bo‘yicha asosiy ssenariyda sariq va qizil zonalar chegarasida (2,75 ball) joylashib, salbiy ssenariylarda qizil zonaga (2,58–2,66 ball) tushadi, 3-bosqich kreditlari ulushi esa 7,2 foizdan 11,3 foizgacha oshadi.",
+  "why": "fc42.py usuli bilan qayta hisob (w42/probe_al.py): Aloqabank MBII-8 2025 3,26 → 2027 asosiy 3,244 / ijobiy 3,269 / salbiy 3,163 / keskin 3,037 (7-ilova bilan mos); MBII-13 MHXS 2025 2,78 → 2,750 / 2,793 / 2,657 / 2,577; S3 MHXS 7,19 → 11,32 (keskin)."
+ },
+ {
+  "type": "para",
+  "p": 666,
+  "old": "Bu farqlar 4.2.3-rasmda yaqqol ko‘rinadi.",
+  "new": "Dastlabki ikki bank bo‘yicha bu farqlar 4.2.3-rasmda yaqqol ko‘rinadi.",
+  "why": "4.2.3-rasmda faqat SQB va MKB ko‘rsatilgan; “Aloqabank” jumlasidan keyin havola aniqlashtiriladi."
+ },
+ {
+  "type": "para",
+  "p": 669,
+  "old": "ATB da farq 0,79–0,90 ballni tashkil etib",
+  "new": "ATB da farq 0,80–0,90 ballni tashkil etib",
+  "why": "4.2.6-jadval: 3,61−2,81=0,80; 3,61−2,79=0,82; 3,62−2,82=0,80; 3,57−2,70=0,87; 3,49−2,59=0,90 (yaxlitlanmagan: 0,798–0,894) – 0,79 hech qayerda chiqmaydi."
+ },
+ {
+  "type": "para",
+  "p": 669,
+  "old": "Jumladan, “O‘zsanoatqurilishbank” ATB misolida",
+  "new": "Xususan, “O‘zsanoatqurilishbank” ATB misolida",
+  "why": "Bir xatboshida ketma-ket ikki “Jumladan” – uslubiy takror."
+ },
+ {
+  "type": "para",
+  "p": 671,
+  "old": "bunday banklarning tizim aktivlaridagi ulushi 24,3 foizga yetadi",
+  "new": "bunday banklarning tanlangan banklar aktivlaridagi ulushi 24,3 foizga yetadi",
+  "why": "Ulush 25 bank aktivlariga nisbatan (tizim bo‘yicha qariyb 23,6 %)."
+ },
+ {
+  "type": "para",
+  "p": 671,
+  "old": "tadqiqotning asosiy obyekti bo‘lgan “O‘zsanoatqurilishbank” ATB ham salbiy ssenariylarda qizil zonaga tushadi",
+  "new": "tadqiqot obyektlari bo‘lgan “O‘zsanoatqurilishbank” va “Aloqabank” ATBlari ham salbiy ssenariylarda qizil zonaga tushadi",
+  "why": "Uch obyekt (P67); Aloqabank MHXS bo‘yicha salbiy ssenariylarda 2,66 va 2,58 ball – qizil zona (P666 qo‘shimchasiga mos)."
+ },
+ {
+  "type": "cell",
+  "table_caption": "“O‘zsanoatqurilishbank” ATB va “Mikrokreditbank” ATB integral indeksining milliy va MHXS",
+  "old": "2,84 (sariq; 4,8 %)",
+  "new": "2,84 (sariq; 4,7 %)",
+  "why": "MKB milliy NPL asosiy 2027 = 4,749 % (fc42 qayta hisob) → 4,7; 4,8 – 4,75 dan ikki marta yaxlitlangan."
+ },
+ {
+  "type": "cell",
+  "table_caption": "“O‘zsanoatqurilishbank” ATB va “Mikrokreditbank” ATB integral indeksining milliy va MHXS",
+  "old": "2,58 (qizil; 7,0 %)",
+  "new": "2,58 (qizil; 6,9 %)",
+  "why": "MKB milliy NPL keskin salbiy 2027 = 6,947 % → 6,9 (7-ilovada ham “4,4 → 6,9”)."
+ },
+ {
+  "type": "fn",
+  "id": "512",
+  "old": "quyidagi manbalar asosida ishlab chiqildi: O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2021-yil. – Toshkent, 2022. – 5.1.8a, 5.1.8b-jadvallar; O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2026-yil mart. – Toshkent, 2026. – 1.1, 5.1-jadvallar. – https://cbu.uz/uz/statistics/buleten/.",
+  "new": "O‘zbekiston Respublikasi Markaziy banki statistik byulleteni (2026-yil mart, 1.1-jadval) ma’lumotlari asosida ishlab chiqildi.",
+  "why": "4.2.1-jadval faqat YaIM real o‘sishiga (2020–2025, bul2603 1.1-jadval) tayanadi; 2021-yil byulletenining 5.1.8a/b (muammoli kreditlar) jadvallari va 5.1 bo‘limi bu jadvalga aloqasiz."
+ },
+ {
+  "type": "fn",
+  "id": "513",
+  "old": "1.1, 5.1-jadvallar",
+  "new": "1.1-jadval",
+  "why": "Jumladagi 2020–2021 NPL 2021-yil byulletenidan (5.1.8a, 5.1.8b), YaIM esa 2026-yil mart byulletenining 1.1-jadvalidan olingan (tizim42.py); 2026-yil byulletenida “5.1-jadval” yo‘q (5.1.1–5.1.18)."
+ },
+ {
+  "type": "fn",
+  "id": "514",
+  "old": "quyidagi manbalar ma’lumotlari asosida hisoblandi: O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2021-yil. – Toshkent, 2022. – 5.1.8a, 5.1.8b-jadvallar; O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2026-yil mart. – Toshkent, 2026. – 1.1, 5.1-jadvallar. – https://cbu.uz/uz/statistics/buleten/; O‘zbekiston Respublikasi Markaziy banki. Banklar statistikasi: tijorat banklarining asosiy ko‘rsatkichlari va muammoli kreditlari to‘g‘risidagi oylik ma’lumotlar, 2021-yil aprel – 2026-yil yanvar. – https://cbu.uz/uz/statistics/bankstats/; “SNS” reyting agentligi. O‘zbekiston tijorat banklarining asosiy ko‘rsatkichlari bazasi (Banks_2025_IV, Banks_2026_II): 36 bank, 2021-yil IV chorak – 2026-yil II chorak.",
+  "new": "O‘zbekiston Respublikasi Markaziy bankining statistik byulletenlari va banklar statistikasi hamda “SNS” reyting agentligining banklar ko‘rsatkichlari bazasi ma’lumotlari asosida hisoblandi.",
+  "why": "Ko‘p hisobotli uzun izoh umumiy shaklga keltirildi (manbalar adabiyotlar ro‘yxatida 169, 170, 176, 177-o‘rinlarda bor); “2026-yil II chorak” qamrovi P633 dagi “2026-yil ma’lumotlari qo‘llanmadi” bilan ziddiyat taassurotini ham yo‘qotadi."
+ },
+ {
+  "type": "fn",
+  "id": "523",
+  "old": "quyidagi manbalar ma’lumotlari asosida hisoblandi: O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2021-yil. – Toshkent, 2022. – 5.1.8a, 5.1.8b-jadvallar; O‘zbekiston Respublikasi Markaziy banki. Statistik byulleten: 2026-yil mart. – Toshkent, 2026. – 1.1, 5.1-jadvallar. – https://cbu.uz/uz/statistics/buleten/; O‘zbekiston Respublikasi Markaziy banki. Banklar statistikasi: tijorat banklarining asosiy ko‘rsatkichlari va muammoli kreditlari to‘g‘risidagi oylik ma’lumotlar, 2021-yil aprel – 2026-yil yanvar. – https://cbu.uz/uz/statistics/bankstats/; “SNS” reyting agentligi. O‘zbekiston tijorat banklarining asosiy ko‘rsatkichlari bazasi (Banks_2025_IV, Banks_2026_II): 36 bank, 2021-yil IV chorak – 2026-yil II chorak; Joint Stock Commercial Bank “Uzbek Industrial and Construction Bank” and its subsidiaries. Consolidated Financial Statements for the year ended 31 December 2025 and Independent Auditor’s Report. – Tashkent, 2026. – P. 2–3, 28–31; Акционерно-коммерческий банк “Микрокредитбанк”. Консолидированная финансовая отчетность за год, закончившийся 31 декабря 2025 года, и заключение независимых аудиторов. – Ташкент, 2026. – С. 11–12.",
+  "new": "Markaziy bank va “SNS” reyting agentligi ma’lumotlari hamda “O‘zsanoatqurilishbank” ATB va “Mikrokreditbank” ATB ning 2025-yil uchun MHXS bo‘yicha konsolidatsiyalangan moliyaviy hisobotlari asosida hisoblandi.",
+  "why": "Uzun izoh umumiy shaklga keltirildi (manbalar adabiyotlar ro‘yxatida 169, 170, 176, 177, 180, 189-o‘rinlarda)."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart39.xml",
+  "old": "SQB: milliy",
+  "new": "SQB: milliy (MBII-8)",
+  "why": "Milliy va MHXS indekslari tarkibi turlicha (MBII-8 va MBII-13) – P669 va 4.2.6-jadval qator nomlariga mos ravishda afsonada ko‘rsatish."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart39.xml",
+  "old": "SQB: MHXS",
+  "new": "SQB: MHXS (MBII-13)",
+  "why": "Milliy va MHXS indekslari tarkibi turlicha (MBII-8 va MBII-13) – P669 va 4.2.6-jadval qator nomlariga mos ravishda afsonada ko‘rsatish."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart39.xml",
+  "old": "MKB: milliy",
+  "new": "MKB: milliy (MBII-8)",
+  "why": "Milliy va MHXS indekslari tarkibi turlicha (MBII-8 va MBII-13) – P669 va 4.2.6-jadval qator nomlariga mos ravishda afsonada ko‘rsatish."
+ },
+ {
+  "type": "chart_str",
+  "part": "/word/charts/chart39.xml",
+  "old": "MKB: MHXS",
+  "new": "MKB: MHXS (MBII-13)",
+  "why": "Milliy va MHXS indekslari tarkibi turlicha (MBII-8 va MBII-13) – P669 va 4.2.6-jadval qator nomlariga mos ravishda afsonada ko‘rsatish."
+ }
+]

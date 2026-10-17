@@ -1,0 +1,2574 @@
+        TASHKENT INTERNATIONAL UNIVERSITY
+       HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+    DSc.22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+        TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+        ALLABERGANOV SIROJALI SAHATOVICH
+
+
+
+TIJORAT BANKLARI RESURS BAZASINING BARQARORLIGINI
+              TA’MINLASH YO‘LLARI
+
+
+
+               08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+     Iqtisodiyot fanlari bо‘yicha falsafa doktori (PhD) dissertatsiyasi
+                            AVTOREFERATI
+
+
+
+
+                        Toshkent shahri – 2025-yil
+                                                                          1
+                                                                                  UOʻK: 338.482.2(575.1)
+
+                     Iqtisodiyot fanlari bо‘yicha falsafa doktori (PhD)
+                          dissertatsiyasi avtoreferati mundarijasi
+
+      Оглавление автореферата диссертации доктора философии (PhD)
+                       по экономическим наукам
+
+         Content of dissertation abstract for doctor of philosophy (PhD) in
+                                     Economics
+
+Allaberganov Sirojali Sahatovich
+Tijorat banklari resurs bazasining barqarorligini ta’minlash yo‘llari ........................ 3
+
+
+Aллаберганов Сирожали Саҳатович
+Пути обеспечения стабильности ресурсной базы коммерческих банков ........29
+
+
+Allaberganov Sirojali Sahatovich
+Ways to ensure the stability of the resource base of commercial banks .................57
+
+
+E’lon qilingan ishlar rо‘yxati
+Список опубликованных работ
+List of published works ............................................................................................63
+
+
+
+
+                                                                                                                    2
+        TASHKENT INTERNATIONAL UNIVERSITY
+       HUZURIDAGI ILMIY DARAJALAR BERUVCHI
+    DSc.22/29.12.2023.I.175.01 RAQAMLI ILMIY KENGASH
+        TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+        ALLABERGANOV SIROJALI SAHATOVICH
+
+
+
+TIJORAT BANKLARI RESURS BAZASINING BARQARORLIGINI
+              TA’MINLASH YO‘LLARI
+
+
+
+               08.00.07 – Moliya, pul muomalasi va kredit
+
+
+
+
+     Iqtisodiyot fanlari bо‘yicha falsafa doktori (PhD) dissertatsiyasi
+                            AVTOREFERATI
+
+
+
+
+                        Toshkent shahri – 2025-yil
+                                                                          3
+4
+          KIRISH (falsafa doktori (PhD) dissertatsiyasi annotatsiyasi)
+       Dissertatsiya mavzusining dolzarbligi va zaruriyati. Jahonda tijorat
+banklari barqarorligini ta’minlashda depozit operatsiyalari asosiy moliyaviy manba
+hisoblanadi. Masalan, 2023 yil oxirida global bank sektorining umumiy jami
+aktivlari 180 trln dollardan oshgan bo‘lib, shundan 60% ga yaqini depozitlar
+hissasiga to‘g‘ri keldi.1 AQShda 2025 yil fevral holatiga ko‘ra, banklardagi jami
+omonatlar 17.9 trln dollarga yetdi. Yevropa Ittifoqida esa 2023 yil oxirida depozitlar
+hajmi 17.3 trln yevroni tashkil etdi. Xitoyda esa 2025 yil yanvar holatiga ko‘ra,
+umumiy depozitlar 42.3 trln dollarga yetdi. Depozit operatsiyalarining bank
+balansidagi ulushi o‘suvchan dinamikaga ega bo‘lib, 2022-2023 yillarda ko‘pchilik
+davlatlarda yillik 5-7% o‘sish kuzatildi.2 Shu bilan birga, Markaziy banklarning
+monetar siyosatini qat’iylashtirishi ba’zi davlatlarda depozitlar o‘sish sur’atini
+sekinlashtirdi, lekin umumiy tendensiya banklarning mablag‘ jalb qilishda
+depozitlarga tayanganligini ko‘rsatmoqda.
+       Jahonda tijorat banklarining moliyaviy resurslar barqarorligini ta’minlash
+bo‘yicha olib borilayotgan tadqiqotlar asosan depozit operatsiyalarining bank
+barqarorligiga ta’sirini o‘rganishga qaratilgan. Masalan, “Deposit Convexity,
+Monetary Policy and Financial Stability” tadqiqotida depozitlarning barqarorligi va
+ularning pul-kredit siyosati bilan o‘zaro ta’siri tahlil qilingan3. Shuningdek, “Digital
+Financial Development and Commercial Bank Stability” tadqiqotida raqamli
+moliyalashtirishning bank barqarorligiga ta’siri o‘rganilgan4. Bundan tashqari,
+“Depositor Characteristics and Deposit Stability” tadqiqotida depozitorlarning
+xususiyatlari va depozit barqarorligi o‘rtasidagi bog‘liqlik tahlil qilingan 5. Biroq, bu
+tadqiqotlarda asosan depozitlarning umumiy barqarorligi va ularning pul-kredit
+siyosati bilan bog‘liq jihatlari o‘rganilgan bo‘lib, depozitlarning turlari (masalan,
+talab qilib olinadigan va muddatli depozitlar) va ularning bank likvidligi va
+daromadliligiga ta’siri kabi masalalarga kamroq e’tibor qaratilgan. Bugungi kunda
+banklarning moliyaviy resurslari barqarorligini ta’minlashda depozit
+operatsiyalarini chuqurroq tadqiq qilish zarur, chunki bu banklarning likvidligi,
+daromadliligi va umumiy barqarorligiga bevosita ta’sir ko‘rsatadi. Shuningdek,
+yangi moliyaviy texnologiyalarning rivojlanishi va raqamli bank xizmatlarining
+ommalashuvi sharoitida, depozit operatsiyalarining yangi shakllari va ularning
+banklar faoliyatiga ta’sirini o‘rganish ham muhim ahamiyat kasb etadi.
+       Oʻzbekiston bank tizimining barqarorligini ta’minlash va depozit
+operatsiyalarini rivojlantirishda bir qator muammolar mavjud. Eng asosiy muammo
+tijorat banklarining uzoq muddatli va arzon moliyaviy resurslar bilan yetarli
+darajada ta’minlanmaganligidir. Aholi va biznes subyektlarining banklarga bo‘lgan
+ishonchini oshirish uchun depozitlarning kafolatlanish darajasini kuchaytirish va
+ularning diversifikatsiyasini kengaytirish zarur. Hozirgi kunda qisqa muddatli
+
+1
+  https://www.statista.com/statistics/421221/global-financial-institutions-assets-by-institution-
+type/?utm_source=chatgpt.com
+2
+  https://www.ceicdata.com/en/indicator/united-states/total-deposits?utm_source=chatgpt.com
+3
+  https://www.dallasfed.org/research/papers/2023/wp2315?utm_source=chatgpt.com
+4
+  https://www.sciencedirect.com/science/article/pii/S105905602400741X?utm_source=chatgpt.com
+5
+  https://www.fdic.gov/system/files/2024-09/narayanan-paper-9324.pdf?utm_source=chatgpt.com
+                                                                                                    5
+depozitlarning ulushi yuqori bo‘lib, bu banklarning kredit siyosatini barqaror olib
+borishiga to‘sqinlik qiladi. Shuningdek, tijorat banklarining raqobatbardoshligini
+oshirish, depozit stavkalarini bozordagi real sharoitlarga mos ravishda shakllantirish
+va mijozlar uchun jozibador moliyaviy mahsulotlarni ishlab chiqish muhim
+ahamiyat kasb etadi. Depozit operatsiyalarining barqarorligini ta’minlash
+masalasida yetarli ilmiy tadqiqotlarning yetishmasligi ham muammolardan biri
+hisoblanadi. Xususan, depozitlarning bank likvidligi va rentabelligiga ta’siri,
+mijozlarning jamg‘arma strategiyalarini o‘rganish va makroiqtisodiy
+o‘zgarishlarning depozit operatsiyalariga ta’siri chuqur tahlil qilinishi lozim.
+Shunday ekan, O‘zbekistonda bank tizimining barqarorligini oshirish maqsadida
+depozit operatsiyalarini har tomonlama tahlil qilish, xalqaro tajribalarni o‘rganish va
+mahalliy sharoitlarga mos innovatsion yondashuvlarni joriy etish dolzarb masala
+hisoblanadi.
+        Ushbu ilmiy tadqiqot O‘zbekiston Respublikasi Prezidentining 2022 yil
+28 yanvardagi PF-60 son “2022-2026 yillarga mo‘ljallangan yangi O‘zbekistonning
+Taraqqiyot strategiyasi to‘g‘risida”gi farmoni, 2020 yil 5 oktyabrdagi PF-6079-son
+“Raqamli O‘zbekiston-2030” strategiyasini tasdiqlash va uni samarali amalga
+oshirish chora-tadbirlari to‘g‘risida”gi farmoni, 2020 yil 12 maydagi PF-5992-son
+“2020 2025 yillarga mo‘ljallangan O‘zbekiston Respublikasining bank tizimini isloh
+qilish strategiyasi to‘g‘risida”gi farmoni, 2023 yil 24 maydagi PQ-162-son
+“Raqamli xizmatlar qamrovi va sifatini oshirish hamda soha, tarmoq va hududlarni
+raqamli transformatsiya qilish chora-tadbirlari to‘g‘risida”gi qarori va 2018 yil
+23 martdagi PQ-3620-son “Bank xizmatlari ommabopligini oshirish bo‘yicha
+qo‘shimcha chora-tadbirlar to‘g‘risida”gi qarorlari va boshqa ushbu sohadagi
+normativ-huquqiy hujjatlarda belgilangan vazifalarni amalga oshirishga muayyan
+darajada xizmat qiladi.
+       Tadqiqotning respublika fan va texnologiyalari rivojlanishining ustuvor
+yo‘nalishlariga mosligi. Mazkur dissertatsiya tadqiqoti respublika fan va
+texnologiyalari rivojlanishining I. “Demokratik va huquqiy jamiyatni ma’naviy-
+ahloqiy va madaniy rivojlantirish, innovatsion iqtisodiyotni shakllantirish” ustuvor
+yo‘nalishiga muvofiq bajarilgan.
+       Muammoning o‘rganilganlik darajasi. Transformatsiya jarayonida tijorat
+banklari resurs bazasining barqarorligini ta’minlash yo‘llarining ilmiy-amaliy
+jihatlari Haddawee A.H. va Flayyih H.H., Liu X., Sun J., Yang F. va Wu J., Mohanty
+S.P., Gopalkrishnan S. va Mahendra A., Yuan D., Banke N.K. va Yitayaw M.K.,
+Legass H.A., Shikur A.A. va Ahmed O.M., Farkasdi S., Septiawan B. va Alghifari
+E.S., Ahamed F. kabi xorijlik iqtisodchi olimlarning tadqiqotlarida aks etgan6.
+6
+  Haddawee, A. H., & Flayyih, H. H. (2020). The relationship between bank deposits and profitability for commercial
+banks. International Journal of Innovation, Creativity and Change, 13(7), 226-234. Liu, X., Sun, J., Yang, F., & Wu,
+J. (2020). How ownership structure affects bank deposits and loan efficiencies: An empirical analysis of Chinese
+commercial banks. Annals of Operations Research, 290, 983-1008. Mohanty, S. P., Gopalkrishnan, S., & Mahendra,
+A. (2021). The intertwined relationship of shadow banking and commercial banks’ deposit growth: evidence from
+India. International Journal of Innovation Science, 14(3/4), 570-587. Yuan, D., Gazi, M. A. I., Harymawan, I., Dhar,
+B. K., & Hossain, A. I. (2022). Profitability determining factors of banking sector: Panel data analysis of commercial
+banks in South Asian countries. Frontiers in psychology, 13, 1000412. Banke, N. K., & Yitayaw, M. K. (2022).
+Deposit mobilization and its determinants: evidence from commercial banks in Ethiopia. Future Business
+Journal, 8(1), 32. Legass, H. A., Shikur, A. A., & Ahmed, O. M. (2021). Determinants of commercial banks deposit
+                                                                                                                    6
+       O‘zbekistonlik iqtisodchi olimlardan N.Jumayev, B.Berdiyarov, A.Burxanov,
+O.Sattarov, Sh.Xannaev, I.Jurayev, X.Xudayarova, N.Sobirova, Z.Xakimov va
+boshqalar bank valyuta operatsiyalari, bank tizimi barqarorligi, banklar likvidliligini
+boshqarish, tijorat banklarning iqtisodiy xavfsizligi, tijorat banklari samaradorligiga
+ta’sir etuvchi omillar, chakana bank xizmatlari amaliyotini takomillashtirish, tijorat
+banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari,
+banklarda aholi omonatlarining jozibadorligini oshirish bo‘yicha ilmiy tadqiqotlar
+olib borishgan. Biroq shuni alohida ta'kidlash lozimki, transformatsiya jarayonida
+tijorat banklari depozit bazasini mustahkamlash yo‘llari, banklar depozit hajmi va
+foiziga ta’sir etuvchi omillar, ularning prognoz ko‘rsatkichlarini turli ekonometrik
+modellar asosida baholash va tahlillari mamlakatimiz iqtisodchi olimlari tomonidan
+alohida tadqiqot sifatida o‘rganilmagan.7
+       Dissertatsiya mavzusining dissertatsiya bajarilgan oliy ta'lim
+muassasalarining ilmiy tadqiqot ishlar rejalari bilan bog‘liqligi. Mazkur
+dissertasion tadqiqot mavzusi Toshkent Xalqaro universitetining ilmiy-tadqiqot
+ishlari rejasi bilan bog‘liq holda bajarilgan.
+       Tadqiqotning maqsadi tijorat banklarini transformatsiyalash jarayonida
+resurs bazasining barqarorligini ta’minlash yo‘llariga qaratilgan ilmiy taklif va
+amaliy tavsiyalarni ishlab chiqishdan iborat.
+       Tadqiqotning vazifalari:
+       bank tizimi barqarorligini ta’minlashda resurs bazasining o‘rnini ilmiy-
+nazariy tadqiq qilish;
+       tijorat banklari barqarorligini ta’minlashda depozit bazasining tutgan o‘rniga
+qaratilgan ilmiy-nazariy qarashlarni tahlil qilish hamda ularning amaliy ahamiyatini
+baholashga xizmat qiluvchi xulosalarni shakllantirish;
+       tijorat banklari aktiv operatsiyalarini olib borishda depozitlarning tutgan
+o‘rnini baholash, tahlil qilish va xulosalar shakllantirish;
+       mulkchilik shakliga ko‘ra tijorat banklarida depozitlarining amaldagi holatini,
+ATB Turonbank va XAB Trastbank misollarida bank depozit siyosatining amaldagi
+holatini baholash, tahlil qilish va xulosalar shakllantirish;
+
+growth evidence from ethiopian commercial banks. Journal of Finance and Accounting, 9(6), 207-215. Farkasdi, S.,
+Septiawan, B., & Alghifari, E.S. (2021). Determinants of commercial banks profitability: Evidence from
+germany. JRAK, 13(2), 82-88. Ahamed, F. (2021). Determinants of liquidity risk in the commercial banks in
+Bangladesh. European Journal of Business and Management Research, 6(1), 164-169
+7
+  Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Jurayev I.I. O‘zbekiston respublikasi tijorat banklari depozit bazasini
+mustahkamlash. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 58 b. Xudayarova X.A. O‘zbekistonda
+chakana bank xizmatlari amaliyotini takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 62 b.
+Sobitrova N.N. Tijorat banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari. i.f.f.d. ilm. dar.
+ol.uch. diss. avtoref. – Toshkent, 2025. – 57 b. Xakimov Z.N. Tijorat banklarida aholi omonatlarining jozibadorligini
+oshirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2025. – 63 b.
+
+                                                                                                                         7
+        ATB Turonbank misolida bank depozitlari hajmi va uning foizlariga ta’sir
+etuvchi omillarning empirik tahlililarni amalga oshirish;
+        tijorat banklari depozit operatsiyalarini rivojlantirishning prognoz
+ko‘rsatkichlari shakllantirish;
+        transformatsiya jarayonida tijorat banklari depozit bazasini mustahkamlash
+yo‘llariga qaratilgan ilmiy taklif hamda amaliy tavsiyalar ishlab chiqish.
+        Tadqiqotning ob'ekti sifatida O‘zbekistonda faoliyat ko‘rsatayotgan tijorat
+banklari, xususan ATB Turonbank va XAB Trastbanklaring tijorat banklari resurs
+bazasi barqarorligini ta’minlash yo‘llari va bunda depozit operatsiyalari tanlangan.
+        Tadqiqotning predmeti tijorat banklari resurs bazasining barqarorligini
+ta’minlash jarayonida yuzaga keladigan iqtisodiy munosabatlar tashkil etadi.
+        Tadqiqotning usullari. Dissertatsiyada ilmiy abstraksiya, qiyosiy va tarkibiy
+tahlil, induksiya va deduksiya, iqtisodiy-statistik va ekonometrik baholash, xususan,
+strukturaviy vektorli avtoregressiya, ARIMA, Seasonal ARIMA va Holt-Winters
+eksponensial silliqlash modellaridan foydalanilgan.
+        Tadqiqotning ilmiy yangiligi quyidagilardan iborat:
+        bank tizimi barqarorligini ta’minlash, ularda transformatsiya riskini
+kamaytirish maqsadi bank depozitlarining ajratilgan keditlardagi salmog‘ini
+minimal chegarasini 40 foiz qilib belgilash ilmiy asoslangan;
+        moliya bozori instrumenti ta’sirchanligini ta’minlash vositasida bankdan
+tashqari pul aylanmasini qisqartirish orqali bank resurs bazasida barqaror moliyaviy
+resurslar salmogʻini oshirish hamda resurs bazasi barqarorligini mustahkamlash
+ilmiy asoslangan;
+        bank omonat va kredit mahsulotlarini lokal shart-sharoitlarga moslashtiruvchi
+innovatsion strategiyalarni yaratish maqsadida hududiy resurslarni samarali jalb
+qilish hamda tijorat banklarining resurs bazasi barqarorligini ta’minlash taklif
+etilgan;
+        ATB Turonbank depozitlari hajmini oshirishning inflyatsiya darajasi
+o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi ekonometrik baholash modeli asosida
+2028 yilga qadar prognoz ssenariylari taklif etilgan.
+        Tadqiqotning amaliy natijasi quyidagilardan iborat:
+        Markaziy bank asosiy foiz stavkasining bir foizga oshishi, bir oylik kechikish
+bilan ATB Turonbank depozitlari hajmini 3,23 foizga qisqartirishi, pul bozoridagi
+foiz stavkaning bir foizga oshishi esa, ikki oylik kechikish bilan ATB Turonbank
+depozitlari hajmini 0,78 foizga oshirishi aniqlangan;
+        ATB Turonbankda qisqa muddatli depozitlari foizining bir foizga oshishi ikki
+oylik lag bilan bank depozitlari hajmini 0,62 foizga oshirishi, ammo iqtisodiyotdagi
+inflyatsiya darajasi, hamda muomaladagi pul massasining o‘zgarishi ATB
+Turonbank depozitlari hajmining o‘zgarishiga ta’siri yo‘qligi aniqlangan;
+        Markaziy bank asosiy foiz stavkasining bir foizga oshishi, bir oylik kechikish
+bilan ATB Turonbankda qisqa muddatli depozitlari foizini 0,44 foizga oshirishi, pul
+bozoridagi foiz stavkaning bir foizga oshishi, bir oylik kechikish bilan bankning
+qisqa muddatli depozitlari foizini 0,24 foizga oshirishi aniqlangan;
+        muomaladagi pul massasining o‘zgarishi ATB Turonbankning qisqa muddatli
+depozitlari foiziga ta’siri statistik ahamiyatga ega bo‘lsada, ammo bu sezilarsiz
+                                                                                    8
+ekanligi, hamda bank depozitlari hajmining o‘zgarishi depozit foiziga ta’siri yo‘qligi
+aniqlangan;
+       cheklangan resurslardan samarali foydalanish, bank kapital rentabelligini
+oshirish maqsadida chakana bank xizmatlariga orientatsiya qilish, hamda chakana
+kreditlarining umimiy kredit portfelidagi ulushini 20 foizdan oshirish taklif etilgan.
+       Tadqiqot natijalarining ishonchliligi. Tadqiqot natijalarining ishonchliligi
+ularni taniqli iqtisodchi olimlarning transformatsiya jarayonida tijorat banklari
+depozit bazasini mustahkamlash yo‘llari xususidagi ilmiy-nazariy qarashlarini
+qiyosiy va tanqidiy tahlil qilinganligi, ilg‘or xorij tajribasi o‘rganilganligi va
+umumlashtirilganligi, shuningdek, statistik ma’lumotlar O‘zbekiston Respublikasi
+Markaziy banki, O‘zbekiston Respublikasi Statistika qo‘mitasi va O‘zbekiston
+tijorat banklari yillik hisobot ma’lumotlaridan olingani, shu bilan birga tegishli
+xulosa va takliflarning mutasaddi tashkilotlar tomonidan amaliyotga joriy qilingani
+bilan belgilanadi.
+       Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati ulardan transformatsiya jarayonida tijorat banklari resurs bazasining
+barqarorligini ta’minlash yo‘llariga qaratilgan maxsus ilmiy-tadqiqotlarni amalga
+oshirishda foydalanish mumkinligi bilan izohlanadi.
+       Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan ilmiy takliflar va
+amaliy tavsiyalarni O‘zbekistonda transformatsiya jarayonida tijorat banklari
+depozit bazasini mustahkamlash yo‘llariga qaratilgan chora-tadbirlar majmuini
+ishlab chiqishda foydalaniladi, shuningdek, 2022-2026 yillarga mo‘ljallangan yangi
+O‘zbekistonning Taraqqiyot strategiyasida hamda 2020–2025 yillarga
+mo‘ljallangan O‘zbekiston Respublikasining bank tizimini isloh qilish
+strategiyasida ko‘rsatilgan vazifalarni bajarishga qaratilgan chora-tadbirlarni ishlab
+chiqishda foydalanilishi mumkin.
+       Tadqiqot natijalarining joriy qilinishi. Transformatsiya jarayonida tijorat
+banklari resurs bazasining barqarorligini ta’minlash yo‘llari bo‘yicha olingan ilmiy
+natijalar asosida:
+       bank tizimi barqarorligini ta’minlash, ularda transformatsiya riskini
+kamaytirish maqsadi bank depozitlarining ajratilgan keditlardagi salmog‘ini
+minimal chegarasini 40 foiz qilib belgilashga doir taklifi ATB Turonbank faoliystiga
+joriy etilgan (ATB Turonbankning 2025 yil 19 fevraldagi 23/02-145-son
+ma’lumotnomasi). Natijada, ATB Turonbank amaliyotida transformatsiya riskini
+kamaytirish uchun bank depozitlarining ajratilgan keditlardagi salmog‘ini 2023 yil
+yanvar holatiga 35,5 foizdan 2024 yil yanvar holatiga 41,3 foizgacha oshirishga
+erishilgan.
+       moliya bozori instrumenti ta’sirchanligini ta’minlash vositasida bankdan
+tashqari pul aylanmasini qisqartirish orqali bank resurs bazasida barqaror moliyaviy
+resurslar salmogʻini oshirish hamda resurs bazasi barqarorligini mustahkamlashga
+doir taklifi ATB Turonbank faoliystiga joriy etilgan (ATB Turonbankning 2025 yil
+19 fevraldagi 23/02-145-son ma’lumotnomasi). Natijada, pul bozori foizining bir
+foizga oshishi bank depozitlarining real hajmini 0,78 foizga, hamda qisqa muddatli
+deposit foizining bir foizga oshishi esa bank depozitlarining real hajmini 0,62 foizga
+oshirishi strukturaviy vektorli avtoregressiya modeli orqali aniqlangan.
+                                                                                    9
+        bank omonat va kredit mahsulotlarini lokal shart-sharoitlarga moslashtiruvchi
+innovatsion strategiyalarni yaratish maqsadida hududiy resurslarni samarali jalb
+qilish hamda tijorat banklarining resurs bazasi barqarorligini ta’minlashga doir
+taklifi ATB Turonbank faoliystiga joriy etilgan (ATB Turonbankning 2025 yil 19
+fevraldagi 23/02-145-son ma’lumotnomasi). Natijada, ATB Turonbankning
+strategik rivojlanish dasturida lokal shart-sharoitlarga moslashtiruvchi innovatsion
+strategiyalarni yaratish va bunda hududlarda puldor jismoniy shaxslar hamda bank
+salohiyatidan kelib chiqqan holda kichik biznes va tadbirkorlik subyektlariga
+omonat turlarini kredit mahsulotlarini taklif qilish belgilab olingan.
+        ATB Turonbank depozitlari hajmini oshirishning inflyatsiya darajasi
+o‘zgarishi bilan bog‘liq jihatlarini ifodalovchi ekonometrik baholash modeli asosida
+2028 yilga qadar prognoz ssenariylarini ishlab chiqishga doir taklifi ATB Turonbank
+faoliystiga joriy etilgan (ATB Turonbankning 2025-yil 19 fevraldagi 23/02-145-son
+ma’lumotnomasi). Natijada, Seasonal ARIMA va Holt-Winters eksponensial
+silliqlash modellari asosida, optimal ssenariyga ko‘ra, 95 foiz ehtimollikda bank
+depozitlarining umumiy real hajmi 2028 yilda 2024 yildagiga nisbatan 51 foizga
+oshishi empirik tahlillar asosida prognoz qilingan.
+        Tadqiqot natijalarining aprobasiyasi. Mazkur tadqiqot natijalari 12 ta,
+jumladan 7 ta respublika va 5 ta xalqaro ilmiy-amaliy konferensiyalarda
+muhokamadan o‘tkazilgan.
+        Tadqiqot natijalarining e’lon qilinishi. Dissertatsiya mavzusi boʻyicha jami
+17 ta ilmiy maqola shu jumladan, O‘zbekiston Respublikasi Oliy Attestatsiya
+Komissiyasining doktorlik dissertatsiyalarining asosiy ilmiy natijalarini chop etish
+tavsiya etilgan ilmiy nashrlarda 5 ta maqola, jumladan, 3 tasi respublika va 2 tasi
+xorijiy jurnallarda nashr etilgan.
+        Dissertatsiyaning tuzilishi va hajmi. Dissertatsiya tarkibi kirish, uchta bob,
+xulosa va foydalanilgan adabiyotlar ro‘yxatidan iborat. Dissertatsiyaning tarkibi
+152 betni tashkil etgan.
+                    DISSERTATSIYANING ASOSIY MAZMUNI
+       Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va
+zaruriyati asoslangan, muammoning o‘rganilganlik darajasi, tadqiqotning maqsadi,
+vazifalari hamda obyekt va predmeti, ilmiy yangiligi va amaliy natijalari, tadqiqot
+natijalarining ishonchliligi va joriy etilishi, dissertatsiya tuzilishi va hajmi bo‘yicha
+ma’lumotlar keltirilgan.
+       Dissertatsiyaning “Transformatsiya jarayonida tijorat banklari resurs
+bazasining barqarorligini ta’minlashning ilmiy-nazariy asoslari” deb
+nomlangan birinchi bobida bank tizimi barqarorligini ta’minlashda resurs bazasining
+o‘rni, hamda tijorat banklari barqarorligini ta’minlashda depozit bazasining tutgan
+o‘rniga qaratilgan ilmiy-nazariy qarashlari tadqiq etilgan va ilmiy xulosalar ishlab
+chiqligan.
+       Tijorat banklari faoliyatining barqarorligi va samaradorligi ko‘p jihatdan
+ularning resurs bazasiga bog‘liq. Resurs bazasi – bank tomonidan o‘z faoliyatini
+amalga oshirish uchun jalb qilingan mablag‘lar majmuasi bo‘lib, bankning
+
+                                                                                      10
+moliyaviy manbalarini tashkil etadi. Bu baza bankning asosiy faoliyati – kreditlash,
+investisiya va hisob-kitob operatsiyalarini amalga oshirish uchun asos bo‘ladi.
+       Tijorat banklari resurs bazasi to‘g‘ri boshqarilganda ularning likvidlik,
+daromaddorlik va moliyaviy barqarorligi ta’minlanadi. Ushbu baza bankning
+mijozlarga qo‘shimcha xizmatlar ko‘rsatish imkoniyatlarini kengaytiradi hamda
+banklar o‘rtasidagi raqobatbardoshlik darajasini oshiradi.
+       Tijorat banklarining resurslari asosan ikkiga bo‘linadi: ichki va tashqi. Ichki
+resurslar bankning ustav fondi va taqsimlanmagan foydasi hisoblansa, tashqi
+resurslar bank tomonidan mijozlardan jalb qilingan mablag‘lardan iborat. Tashqi
+resurslarga depozitlar, qarz mablag‘lari va boshqa moliyaviy manbalar kiradi.
+       Depozitlar tijorat banklari resurs bazasining asosiy qismi hisoblanadi. Depozit
+bazasi – bankka jismoniy va yuridik shaxslar tomonidan saqlash uchun topshirilgan
+mablag‘lar yig‘indisidir. Depozitlar bankka uzoq muddatli va barqaror moliyaviy
+manba bo‘lib xizmat qiladi. Depozitlar muddatli va talab qilib olinadigan
+depozitlarga bo‘linadi. Muddatli depozitlar muayyan shartnoma muddatida
+saqlanadi va foizlar to‘lanadi, talab qilib olinadigan depozitlar esa mijozlar
+tomonidan istalgan vaqtda qaytarib olinishi mumkin.
+       Depozit bazasining barqarorligi va kengayishi bankning moliyaviy
+barqarorligini ta’minlaydi. Bu bankka mijozlarning ishonchini oshirishga, foiz
+xarajatlarini optimallashtirishga va likvidlik darajasini oshirishga imkon beradi.
+Banklar depozit bazasini mustahkamlash uchun mijozlar uchun jozibador foiz
+stavkalarini taklif qilishlari, mijozlarga qulay shart-sharoitlar yaratishlari va yangi
+omonat turlarini joriy etishlari lozim. Shuningdek, banklar marketing faoliyatini
+kuchaytirib, yangi mijozlarni jalb qilishlari kerak.
+       Bank resurs bazasiga tashqi va ichki omillar ta’sir qiladi. Tashqi omillarga
+iqtisodiy vaziyat, inflyatsiya va moliyaviy bozorlar holati kirsa, ichki omillarga
+bankning boshqaruvi, xizmat ko‘rsatish sifatlari va mijozlarga munosabati kiradi.
+Tijorat banklari resurs bazasini diversifikasiya qilish orqali moliyaviy xatarlarni
+kamaytiradilar. Bu maqsadda ular nafaqat depozitlar, balki tashqi moliyaviy
+manbalarni ham jalb qiladilar. Xalqaro moliyaviy tashkilotlar bilan hamkorlik qilish
+ham diversifikasiya vositasi hisoblanadi.
+       Bugungi kunda banklar resurs bazasini boshqarishda zamonaviy
+texnologiyalardan foydalanadi. Masalan, blokcheyn texnologiyalari va raqamli
+platformalar depozitlarni boshqarish va mijozlar bilan aloqani yaxshilashga xizmat
+qilmoqda. Shuningdek, sun'iy intellekt asosidagi prognozlar resurslarni samarali
+taqsimlashga yordam beradi.
+       Bugungi global moliyaviy muhitda kapital yetarlilik banklar uchun strategik
+ahamiyat kasb etadi. Kapitalning yetarli darajasini ta’minlash banklarning
+raqobatbardoshligini oshiradi, mijozlar bazasini kengaytirishga va iqtisodiy
+rivojlanishga yordam beradi. Zamonaviy texnologiyalar va xalqaro standartlar
+asosida kapital yetarliligini boshqarish banklar uchun muhim yo‘nalish bo‘lib
+qoladi.
+       Oxirgi yillarda tijorat banklari resurs bazasini mustahkamlash, raqamli bank
+xizmatlarini kengaytirish, raqamli bank xizmatlari riskiga va qulayligiga hamda
+raqamli bank tizimi rivojlanishida bank depozitlari mustahkamligini ta’minlash
+                                                                                    11
+muhim ahamiyat kasb etmoqda. Bugungi kunda tijorat banklarisiz iqtisodiyotning
+rivojlanishini tasavvur qilib bo‘lmaydi. Shundan kelib chiqqan holda banklarning
+resurs bazasining mustahkamligini ta’minlash va bunda depozit operatsiyalarining
+o‘rni borasida ko‘plab ilmiy tadqiqotlar olib borilmoqda.
+       Haddawee va Flayyih tomonidan olib borilgan tadqiqot tijorat banklari
+depozitlari va ularning foydaliligi o‘rtasidagi munosabatni tahlil qilishga qaratilgan.
+Mualliflar depozitlar bank resurs bazasining asosiy qismi ekanligini ta’kidlab,
+ularning daromadlilikka ta’sirini o‘rganishni maqsad qilgan. Maqolada bank
+depozitlari turlari (omonat, talab etiladigan va muddatli depozitlar) va ularning
+banklarning foydaliligiga (ROA va ROE kabi ko‘rsatkichlar orqali) ta’siri
+o‘rganilgan. Tadqiqotda depozitlar hajmini oshirish orqali banklar daromadlarini
+mustahkamlash, mijozlar bilan aloqalarni kuchaytirish hamda moliyaviy
+barqarorlikni ta’minlash kabi strategiyalarni baholash vazifasi belgilangan.
+       Mualliflar tadqiqotda regressiya modeli va korrelyasiya analizidan
+foydalanganlar. Tadqiqot uchun ma’lumotlar aniq bir davr mobaynidagi tijorat
+banklari moliyaviy hisobotlaridan yig‘ilgan. Regressiya tahlili orqali depozitlarning
+banklar foydaliligiga bo‘lgan ta’siri aniqlangan. Natijalar shuni ko‘rsatdiki,
+depozitlar hajmining oshishi banklarning daromadliligini sezilarli darajada
+yaxshilaydi. Ayniqsa, muddatli depozitlar bank aktivlarining likvidligi va
+daromadliligini oshirishda muhim o‘rin tutadi. Shu bilan birga, tadqiqot
+mijozlarning ishonchini saqlash va depozitlarni rag‘batlantirish strategiyalarining
+bank daromadliligiga ijobiy ta’sir ko‘rsatishini tasdiqladi.8
+       Liu, Sun, Yang va Wu tomonidan olib borilgan tadqiqotda Xitoyning tijorat
+banklari uchun mulkchilik tuzilmasi, depozitlar samaradorligi va kreditlarning
+samarali boshqarilishi o‘rtasidagi o‘zaro bog‘liqlik o‘rganilgan. Mualliflar
+mulkchilik shakli (davlatga tegishli, xususiy yoki ommaviy mulkchilikdagi banklar)
+bank resurslarining samaradorligiga qanday ta’sir qilishini tahlil qilishni maqsad
+qilganlar. Tadqiqotda banklarning moliyaviy resurslaridan samarali foydalanish va
+bu resurslar asosida ishonchli kredit siyosatini yuritishning mulkchilik shakli bilan
+bog‘liq jihatlari tadqiq qilingan. Mualliflar ushbu izlanishda depozitlar
+samaradorligi va kreditlarning foydalilik darajasi orasidagi farqlarni aniqlab, turli
+mulkchilik shakllari ostida samarali boshqaruv strategiyalarini taklif qilishni oldiga
+vazifa qilib qo‘ygan.
+       Tadqiqotda mulkchilik tuzilmasi, depozitlar va kredit samaradorligi
+o‘rtasidagi bog‘liqlikni baholash uchun stoxastik chegara tahlili (SFA – Stochastic
+Frontier Analysis) qo‘llangan. Shuningdek, ma’lumotlar panelli regressiya usuli
+orqali tahlil qilingan. Natijalar davlatga tegishli banklarda depozitlar samaradorligi
+yuqori bo‘lsa-da, kredit samaradorligi pastroq ekanligini ko‘rsatdi. Xususiy banklar
+kredit samaradorligi bo‘yicha yetakchi bo‘lgan, ammo ularning depozitlarni jalb
+qilishdagi ko‘rsatkichlari davlat banklariga nisbatan pastroq bo‘lgan. Ommaviy
+mulkchilikdagi banklar esa har ikki ko‘rsatkich bo‘yicha o‘rtacha natijalarga
+erishgan. Mualliflar mulkchilik shaklining boshqaruv siyosatlari va samaradorlikka
+
+8
+ Haddawee, A. H., & Flayyih, H. H. (2020). The relationship between bank deposits and profitability for commercial
+banks. International Journal of Innovation, Creativity and Change, 13(7), 226-234.
+                                                                                                               12
+ta’sirini hisobga olish orqali bank tizimida ishonch va barqarorlikni oshirish
+mumkinligini ta’kidlagan.9
+       Mohanty, Gopalkrishnan va Mahendra tomonidan olib borilgan tadqiqot
+Hindistonda soya bankchilik (shadow banking) va tijorat banklarining depozit
+o‘sishi o‘rtasidagi o‘zaro bog‘liqlikni o‘rganishga qaratilgan. Mualliflar soya
+bankchilik tizimi (ya’ni, banklardan tashqari moliyaviy muassasalar) va tijorat
+banklari o‘rtasidagi o‘zaro ta’sirning ahamiyatini tahlil qilishgan. Tadqiqotda
+ayniqsa, soya bankchilik tizimi tijorat banklariga qanday ta’sir ko‘rsatishi va
+ularning depozitlarni jalb qilish qobiliyatiga bog‘liq jihatlar o‘rganilgan. Mualliflar
+ushbu munosabatni chuqur tahlil qilish orqali, soya bankchilikning o‘sishi tijorat
+banklari faoliyatiga qanday ijobiy va salbiy ta’sir ko‘rsatishini tushunishni maqsad
+qilganlar.10
+       Dissertatsiya ishining ikkinchi bobi “Tijorat banklari depozit
+operatsiyalarining amaldagi holati tahlili” deb nomlangan bo‘lib, unda
+dissertatsiyaning tahliliy qismlari bayon etilgan. Mazkur tahlillarda mamlakatimizda
+tijorat banklari aktiv operatsiyalarini olib borishda depozitlarning tutgan o‘rni,
+mulkchilik shakliga ko‘ra tijorat banklarida depozitlarining amaldagi holati tahlili,
+hamda ATB Turonbank va XAB Trastbank misolida depozit siyosatining amaldagi
+holati tahlil qilingan. Shuningdek, ushbu bobda ATB Turonbank misolida bank
+depozitlari hajmi va uning foizlariga ta’sir etuvchi omillar empirik baholangan va
+tahlil qilingan.
+65,0%
+
+55,0%
+
+45,0%
+
+35,0%
+
+25,0%
+
+15,0%
+
+    5,0%
+             01.01.2020       01.01.2021        01.01.2022        01.01.2023        01.01.2024        01.01.2025
+
+           Depozitlarning YaIMga nisbati                           Depozitlarning aktivlarga nisbati
+           Depozitlarning majburiyatlarga nisbati                  Depozitlarning kreditlarga nisbati
+
+           1-rasm. Bank depozitlarining iqtisodiyotda va bank tizimidagi o‘rni11
+
+9
+  Liu, X., Sun, J., Yang, F., & Wu, J. (2020). How ownership structure affects bank deposits and loan efficiencies: An
+empirical analysis of Chinese commercial banks. Annals of Operations Research, 290, 983-1008.
+10
+   Mohanty, S. P., Gopalkrishnan, S., & Mahendra, A. (2021). The intertwined relationship of shadow banking and
+commercial banks’ deposit growth: evidence from India. International Journal of Innovation Science, 14(3/4), 570-
+587.
+11
+   O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                                  13
+       Ushbu statistik o‘zgarishlar bank tizimini isloh qilish bo‘yicha amalga
+oshirilgan chora-tadbirlarning samaradorligini ko‘rsatadi. Xususan, depozit jalb
+qilish siyosatining takomillashuvi va foiz stavkalari bo‘yicha erkinlashtirish
+choralari ishonchli bank tizimini shakllantirishga xizmat qilgan bo‘lsa,
+depozitlarning majburiyatlar va aktivlardagi ulushining ortishi moliyaviy
+barqarorlikni kuchaytirishga yordam bergan. Dhuningdek, kreditlashda tashqi qarz
+o‘rniga ichki depozitlardan foydalanish salmog‘ining ortishi milliy moliyaviy
+mustaqillikni ta’minlashga xizmat qilmoqda.
+
+
+     01.01.2025
+
+     01.01.2024
+
+     01.01.2023
+
+     01.01.2022
+
+     01.01.2021
+
+     01.01.2020
+
+                   0%              20%             40%              60%              80%            100%
+
+         Tijorat banklari depozitlari                          Tijorat banklarining boshqa majburiyatlari
+         Tijorat banklari umimiy kapitali
+
+               2-rasm. Tijorat banklari balans passivining holati12
+       Tijorat banklari iqtisodiyotning muhim institutlaridan biri bo‘lib, moliyaviy
+resurslarni jamlash va ulardan samarali foydalanish vazifasini bajaradi. Ularning
+asosiy faoliyat yo‘nalishlaridan biri aktiv operatsiyalarni amalga oshirish bo‘lib,
+ushbu jarayonda depozitlar muhim o‘rin tutadi. Depozitlar tijorat banklarining
+asosiy moliyaviy manbalaridan biri bo‘lib, ular orqali banklar o‘z faoliyatini yuritish
+va turli moliyaviy operatsiyalarni bajarish imkoniyatiga ega bo‘ladilar.
+       Fikrimizcha, 2020–2025 yillar davomida tijorat banklarining majburiyatlar va
+kapital tarkibidagi muvozanatli o‘zgarishlar mamlakat bank tizimidagi islohotlar
+natijasida yuzaga kelgan. Kelgusida bank tizimidagi islohotlarni davom ettirish
+uchun tijorat banklarining likvidligini oshirish, investitsion muhitni yaxshilash va
+xususiy sektor ishtirokini kengaytirish kabi chora-tadbirlarni yanada rivojlantirish
+zarur.
+       2020-yilda kapitalida davlat ulushi mavjud banklarda depozitlar umumiy
+hajmning 72,2% ini tashkil qilgan bo‘lsa, davlat ulushi mavjud bo‘lmagan
+banklarning ulushi 27,8% ni tashkil qilgan. 2022-yilga kelib, davlat banklari ulushi
+66,8% gacha pasaygan bo‘lsa-da, xususiy banklar ulushi 33,2% gacha ko‘tarilgan.
+Bu davrda xususiy banklarning ahamiyati ortib, bozorning muhim qismini
+egallashga boshlagani yaqqol ko‘rinib turibdi.
+
+12
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               14
+     01.01.2025                        154,5                                    154,2
+
+     01.01.2024                         124,4                                    117,3
+
+     01.01.2023                           119,1                                    97,6
+
+     01.01.2022                                104,2                                     51,9
+
+     01.01.2021                                   80,3                                    34,4
+
+     01.01.2020                                   65,7                                    25,3
+
+                   0%              20%              40%             60%             80%             100%
+                    Kapitalida davlat ulushi mavjud banklarda depozitlari
+                    Kapitalida davlat ulushi mavjud bo‘lmagan banklar depozitlari
+
+   3-rasm. Mulkchilik shakliga ko‘ra banklar depozitlarining bank tizimida
+                                   tutgan o‘rni13
+      2025-yilga kelib, davlat ulushi mavjud banklar depozitlari umumiy hajmning
+50,1% ini tashkil etgan bo‘lsa, davlat ulushi mavjud bo‘lmagan banklarning ulushi
+49,9% gacha o‘sgan. Bu esa xususiy banklarning davlat banklari bilan deyarli
+tenglashganini ko‘rsatadi. Xulosa qilib aytganda, xususiy banklarning depozitlar
+bozoridagi ulushi sezilarli darajada oshib borayotgan bo‘lsa, davlat banklarining
+nisbiy ulushi kamaymoqda, bu esa bank sektoridagi raqobatning ortib
+borayotganidan dalolat beradi.
+
+      01.01.2025
+      01.01.2024
+      01.01.2023
+      01.01.2022
+      01.01.2021
+      01.01.2020
+
+                    0%              20%              40%            60%             80%             100%
+
+                     Kapitalida davlat ulushi mavjud banklarda depozitlari
+                     Kapitalida davlat ulushi mavjud banklarning boshqa majburiyatlari
+                     Kapitalida davlat ulushi mavjud banklarda kapitali
+
+     4-rasm. Kapitalida davlat ulushi mavjud banklar balans passivining holati14
+
+
+13
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+14
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               15
+       Umuman olganda, ushbu grafik kapitalida davlat ulushi mavjud banklarning
+moliyaviy resurslari asosan depozitlar va boshqa majburiyatlardan shakllanganini,
+kapital ulushining esa nisbatan kichikligini tasdiqlaydi. Ushbu tendensiya davlat
+ulushiga ega banklarning risk boshqaruvi va barqaror moliyaviy tuzilma yaratish
+strategiyalarini yanada takomillashtirish zarurligini anglatadi. Shu sababli,
+kelajakda kapital ulushini oshirish va diversifikatsiyalangan moliyalashtirish
+manbalarini kengaytirish banklarning moliyaviy mustahkamligini ta’minlashda
+muhim ahamiyat kasb etadi.
+
+      01.01.2025
+      01.01.2024
+      01.01.2023
+      01.01.2022
+      01.01.2021
+      01.01.2020
+
+                    0%              20%             40%             60%              80%            100%
+
+               Kapitalida davlat ulushi mavjud bo‘lmagan banklar depozitlari
+               Kapitalida davlat ulushi mavjud bo‘lmagan banklarning boshqa majburiyatlari
+               Kapitalida davlat ulushi mavjud bo‘lmagan banklar kapitali
+
+       5-rasm. Kapitalida davlat ulushi mavjud bo‘lmagan banklar balans
+                                  passivining holati15
+        So‘nggi yillarda O‘zbekistonda olib borilayotgan iqtisodiy islohotlar bank
+tizimini modernizatsiya qilish va xususiy sektor ulushini oshirishga qaratilgan.
+Banklar faoliyatini erkinlashtirish, xorijiy investorlar uchun ochiqlikni ta’minlash
+va davlat monopoliyasini qisqartirish orqali iqtisodiyotni diversifikatsiya qilish
+maqsad qilingan. Grafikda aks etgan ma’lumotlar shuni ko‘rsatadiki, xususiy
+banklar bozorda mustahkam o‘rin egallab, iqtisodiy islohotlarning muhim
+bo‘g‘iniga aylanib bormoqda. Bu islohotlar xususiy sektorning iqtisodiyotga faol
+integratsiyasini rag‘batlantirib, iqtisodiy o‘sish va moliyaviy barqarorlikka ijobiy
+ta’sir ko‘rsatmoqda.
+        2020–2025-yillar davomida milliy valyutadagi depozitlarning ulushi
+muntazam oshib, chet el valyutasidagi depozitlar ulushining qisqarishiga olib
+kelgan. Ushbu holat aholi va biznes subyektlarining milliy valyutadagi depozitlarni
+afzal ko‘rayotganini, makroiqtisodiy barqarorlik va moliyaviy ishonch
+mustahkamlanayotganini anglatadi. Ayniqsa, 2023-yildan keyin milliy valyutadagi
+depozitlarning sezilarli o‘sishi inflyatsiya darajasining pasayishi, foiz stavkalarining
+milliy valyutada jozibadorligi va valyuta bozoridagi barqarorlik bilan bog‘liq
+bo‘lishi mumkin.
+
+15
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               16
+     100%
+      90%                                                                                         56 948,9
+                                                                 50 253,0         47 657,7
+      80%       28 480,3         34 505,6        45 364,8
+      70%
+      60%
+      50%
+      40%                                                                                         166 787,2
+                                                                 96 625,9        118 820,7
+      30%       42 440,6         52 586,1        71 232,9
+      20%
+      10%
+       0%
+               01.01.2020      01.01.2021      01.01.2022       01.01.2023      01.01.2024      01.01.2025
+                     Milliy valyutadagi depozitlar            Chet el valyutasidagi depozitlar
+
+ 6-rasm. Bank tizimidagi depozitlarning valyuta birliklariga ko‘ra taqsimoti16
+                                  (mlrd so‘mda).
+       Tahlil qilingan davr mobaynida bank tizimidagi depozitlarning umumiy hajmi
+izchil o‘sib borgan bo‘lsa-da, ularning tarkibiy tuzilishi muayyan o‘zgarishlarga
+uchragan. 2020-2025-yillarda 1 yilgacha bo‘lgan muddatli depozitlar ulushi nisbatan
+ortgan bo‘lib, bu qisqa muddatli moliyaviy rejalar ahamiyatining ortayotganidan
+dalolat beradi.
+
+      01.01.2025             99 093,96                90 239,47                  119 358,87
+
+      01.01.2024               85 197,58                  71 280,41                85 208,64
+
+      01.01.2023                  92 552,58                   56 905,09              67 279,87
+
+      01.01.2022                  66 129,43                   44 896,14               45 164,27
+
+      01.01.2021                  49 152,78                    34 037,98              31 556,13
+
+      01.01.2020                35 189,12                   26 309,14               29 510,75
+
+                    0%             20%              40%             60%             80%             100%
+
+                                   Talab qilib olinguncha bo‘lgan depozitlar
+                                   1 yilgacha bo‘lgan muddatli depozitlar
+                                   1 yildan ortiq bo‘lgan muddatli depozitlar
+
+    7-rasm. Bank tizimidagi depozitlarning muddatlariga ko‘ra taqsimoti17
+                                  (mlrd so‘mda).
+      Shu bilan birga, uzoq muddatli depozitlarning ulushi yillar davomida sezilarli
+darajada o‘zgarishsiz qolgan, bu esa investitsiyalarning uzoq muddatli barqarorligini
+saqlab qolish muhimligini ko‘rsatadi. Talab qilib olinguncha bo‘lgan depozitlar
+
+16
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+17
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               17
+ulushining yuqori bo‘lishi esa moliyaviy tizimda likvidlik muhim omil bo‘lib
+qolayotganidan darak beradi.
+
+      01.01.2025                 122 420,6                                186 271,7
+
+      01.01.2024                86 344,6                                155 342,0
+
+      01.01.2023              63 123,8                               153 613,7
+
+      01.01.2022            37 305,9                               118 884,0
+
+      01.01.2021            27 403,5                                87 343,4
+
+                    0%              20%             40%             60%             80%             100%
+
+                         Jismoniy shaxslar depozitlari          Yuridik shaxslar depozitlari
+
+      8-rasm. Bank tizimidagi depozitlarning subyektiga ko‘ra taqsimoti18
+                                   (mlrd so‘mda).
+       So‘nggi besh yil ichida jismoniy shaxslarning depozitlardagi ulushi barqaror
+oshib borgan, bu esa aholi tomonidan jamg‘armalar saqlash madaniyatining
+rivojlanayotganini va bank tizimiga bo‘lgan ishonch ortayotganini ko‘rsatadi.
+Yuridik shaxslar depozitlarining ulushi nisbatan kamaygan bo‘lsa-da, umumiy hajm
+o‘sib borgan, bu esa iqtisodiy faollikning ortib borayotganini bildiradi. Bank
+tizimida jismoniy shaxslar ulushining oshishi uzoq muddatli moliyaviy barqarorlik
+va jamg‘arma hajmining ortishiga xizmat qilishi mumkin.
+                                50,0%
+
+                                40,0%
+
+                                30,0%
+
+                                20,0%
+                                          01.01.202001.01.202101.01.202201.01.202301.01.202401.01.2025
+
+                                           01.01.20 01.01.20 01.01.20 01.01.20 01.01.20 01.01.20
+                                              20       21       22       23       24       25
+             Depozitlarning aktivlarga
+                                            27,6%       24,3%      25,8%       27,1%      29,2%      31,2%
+                      nisbati
+                Depozitlarning
+                                            33,8%       28,2%      31,2%       31,8%      33,2%      35,0%
+             majburiyatlarga nisbati
+               Depozitlarning
+                                            38,8%       31,7%      34,9%       37,0%      39,2%      43,7%
+             kreditlarga nisbati
+
+      9-rasm. ATB Turonbank depozitlarining bank faoliyatidagi o‘rni19
+      Grafikdan ko‘rinib turibdiki, ATB Turonbankning depozitlar bilan
+ta’minlanish darajasi so‘nggi yillarda biroz oshgan bo‘lsa-da, bankning kreditlari va
+
+18
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+19
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               18
+majburiyatlari hali ham asosan boshqa moliyaviy manbalar hisobidan qoplanmoqda.
+Bu esa likvidlik xavfi va bankning mustaqil moliyaviy barqarorligi bilan bog‘liq
+muammolarni keltirib chiqarishi mumkin. Bank uzoq muddatli barqarorlikni
+ta’minlash uchun depozitlarni ko‘proq jalb qilish va kreditlash faoliyatini ko‘proq
+ichki mablag‘lar hisobidan moliyalashtirishga intilishi lozim. Aks holda, tashqi
+manbalarga qaramlik yuqoriligi bankni iqtisodiy noaniqliklarga nisbatan himoyasiz
+qiladi.
+
+       01.01.2025                 2 039,7                                 3 446,5
+       01.01.2024                1 628,1                                 3 033,5
+       01.01.2023                1 281,6                                  2 211,0
+       01.01.2022                  1 124,6                                 1 713,1
+       01.01.2021                  782,2                                  1 334,2
+
+                     0%             20%             40%             60%              80%            100%
+
+                          ATB Turonbankda Jismoniy shaxslar depozitlari, mlrd. so'mda
+                          ATB Turonbank yuridik shaxslar depozitlari, mlrd. so'mda
+
+    10-rasm. ATB Turonbank depozitlarning subyektiga ko‘ra taqsimoti20
+                                (mlrd so‘mda).
+      ATB Turonbankdagi depozitlar tarkibi korporativ mijozlar ustunligini
+ko‘rsatadi, bu esa bankning yirik biznes subyektlari bilan ishlash tajribasiga va
+barqaror daromad manbalariga ega ekanligiga dalolat qiladi.
+     2 500,0                                                                                            250,0%
+                                                                                        210,0%
+     2 000,0                                                                                            200,0%
+                                                                                        2 039,7
+     1 500,0                                                           1 628,1                          150,0%
+                   100,0%
+     1 000,0                                          1 281,6                                           100,0%
+                                     1 124,6
+                    782,2            43,8%
+      500,0                                                             27,0%            25,3%          50,0%
+                                                       14,0%
+         0,0                                                                                            0,0%
+                 01.01.2021   01.01.2022    01.01.2023       01.01.2024    01.01.2025
+               ATB Turonbankda Jismoniy shaxslar depozitlari, mlrd. so'mda
+               ATB Turonbankda Jismoniy shaxslar depozitlarining oldingi yilga nisbatan o‘zgarishi
+               ATB Turonbankda Jismoniy shaxslar depozitlarining 2020 yilga nisbatan o‘zgarishi
+
+         11-rasm. ATB Turonbankda jismoniy shaxslar depozitlari hajmining
+                             o‘zgarish dinamikasi21
+
+20
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+21
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                                19
+       Grafikdan kelib chiqadigan asosiy xulosa shundan iboratki, ATB
+Turonbankdagi jismoniy shaxslar depozitlari yillar davomida izchil o‘sib bormoqda.
+O‘sish sur’atlari yilma-yil o‘zgarib turgan bo‘lsa-da, umumiy tendensiya
+ijobiyligicha qolmoqda. Bu holat bankning aholi bilan ishlash strategiyasi, ishonchli
+xizmatlari va mijozlarga qulay depozit shartlari taqdim etayotganining yaqqol
+isbotidir. Ushbu omillar kelajakda bankning yanada barqaror va raqobatbardosh
+bo‘lishiga xizmat qiladi.
+     4 000,0                                                                                            250,0%
+
+     3 500,0                                                                            208,3%
+                                                                                                        200,0%
+     3 000,0
+
+     2 500,0                                                                                            150,0%
+     2 000,0       100,0%
+                                                                                        3 446,5         100,0%
+     1 500,0                                                           3 033,5
+
+     1 000,0                                          2 211,0
+                                     1 713,1                                                            50,0%
+                   1 334,2
+      500,0
+                                                                        37,2%               13,6%
+                                     28,4%            29,1%
+         0,0                                                                                            0,0%
+                 01.01.2021       01.01.2022        01.01.2023       01.01.2024       01.01.2025
+
+                ATB Turonbank yuridik shaxslar depozitlari
+                ATB Turonbankda yuridik shaxslar depozitlarining oldingi yilga nisbatan o‘zgarishi
+                ATB Turonbankda yuridik shaxslar depozitlarining 2020 yilga nisbatan o‘zgarishi
+
+      12-rasm. ATB Turonbankda yuridik shaxslar depozitlari hajmining
+                              o‘zgarish dinamikasi22
+       ATB Turonbankda yuridik shaxslar depozitlarining hajmi 2021–2025 yillar
+davomida izchil o‘sib borgan. 2021 yildan 2025 yilgacha depozitlar hajmi
+2,6 barobarga oshgan va 208,3% ga ko‘paygan. Bu esa bank tizimining
+ishonchliligini, yuridik shaxslar tomonidan omonatlarga bo‘lgan talabning ortib
+borayotganini va bankning biznes sektor bilan samarali hamkorlik olib
+borayotganini anglatadi. Shu bilan birga, 2025-yilda o‘sish sur’atining pasaygani
+kelajakda bank tomonidan yangi yondashuvlarni ishlab chiqish zarurligini
+ko‘rsatishi mumkin.
+       Tahlilimozda XAB Turonbankning depozitlari hajmi (𝐿𝑛𝑇𝑢𝑟𝑜𝑛𝐷𝑒𝑝𝑡 ) va
+uning qisqa muddatli jismoniy shaxslar depozitlari foiz stavkasi (𝐿𝑛𝐽𝑆ℎ𝐷𝐹𝑡 ) va
+qisqa muddatli yuridik shaxslar depozitlari foiz stavkasiga (𝐿𝑛𝑌𝑆ℎ𝐷𝐹𝑡 ) ta’sir
+etuvchi omillar sifatida pul bozoridagi real foiz stavka o‘zgarishi (𝐿𝑛𝑃𝐵𝐹𝑡 ),
+inflyatsiya darajasining o‘zgarishi (𝐿𝑛𝐼𝑛𝑓𝑡 ), Markaziy bank qayta moliyalash foizi
+o‘zgarishi (𝐿𝑛𝑀𝐵𝐹𝑡 ) hamda muomaladagi pul massasi o‘zgarishlari (𝐿𝑛𝑀2𝑡 )
+olingan. Tanlangan ko‘rsatkichlar 2019-yil yanvar (2019M01) dan 2024 yil iyul
+
+22
+     O‘zbekiston Respublikasi Markaziy bank rasmiy sayti www.cbu.uz ma’lumotlari asosida muallif ishlanmasi.
+                                                                                                               20
+(2024M06) gacha bo‘lgan davr oralig‘ida oylik ma’lumotlar shaklida va real holatda
+o‘sish tendensiyasida olingan. Tahlil qilinayotgan statistik ma’lumotlarning
+o‘lchamlarini bir-biriga moslashtirish hamda solishtirish imkoniyatini oshirish
+maqsadida ushbu ma’lumotlarga natural logarifm qo‘llanilgan.
+
+
+
+
+       13-rasm. Ko‘rsatkichlarning Scatter va Confidence ellipse matritsasi23
+       Turonbank ATB depozit hajmi Markaziy bank asosiy foiz stavkasi (0,15) va
+pul bozoridagi foiz stavkasi (-0,04) bilan juda zaif bog‘liqqa ega. Bu shuni
+bildiradiki, foiz stavkalarining o‘zgarishi bankning jalb qilgan depozit hajmiga
+sezilarli ta’sir ko‘rsatmaydi. Turonbank ATB depozit hajmi inflyatsiya darajasi bilan
+zaif musbat bog‘liqqa (0,26) ega. Bu shuni bildiradiki, inflyatsiyaning oshishi
+depozit hajmiga biroz ijobiy ta’sir qiladi.
+       Model natijalariga ko‘ra, ATB Turonbank depozitlari hajmiga tanlangan
+ko‘rsatkichlardan vaqt kechikishi bilan tashqi omillardan Markaziy bank asosiy foiz
+stavkasi va pul bozori foiz stavkaning ta’siri, ichki omillardan esa bank depozitining
+foiz stavkasining ta’siri statistik ahamiyatga ega bo‘lmoqda. Shuningdek, ATB
+Turonbank depozit hajmi o‘zining avvalgi oylardagi qiymatiga sezilarli darajada
+salbiy bog‘liq ekanligini ham aniqlandi.
+
+
+23
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+                                                                                   21
+                                                                                       1-jadval
+           ATB Turonbank depozitlari hajmi va uning foiziga tanlangan
+           ko‘rsatkichlarning ta’sirini ifodalovchi SVAR model natijasi
+
+Vector Autoregression Estimates (with restrictions)
+Sample (adjusted): 2019M05 2024M06
+Included observations: 62 after adjustments
+
+                 𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑        𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛                            𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑    𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛
+
+ 𝑳𝒏𝑴𝑩𝑭 (-1)        -3.234836          0.438119           𝑳𝒏𝑴𝟐 (-1)       -0.941485    -0.000284
+                    (1.83271)         (0.13104)                           (0.98484)    (0.00013)
+                   [-1.76506]        [ 3.34352]                          [-0.95597]   [-2.10104]
+
+ 𝑳𝒏𝑴𝑩𝑭 (-2)         2.055338          0.002281           𝑳𝒏𝑴𝟐 (-2)        1.470126    -0.000120
+                    (1.94630)         (0.13397)                           (1.04106)    (0.00013)
+                   [ 1.05603]        [ 0.01703]                          [ 1.41214]   [-0.89755]
+
+ 𝑳𝒏𝑷𝑩𝑭 (-1)         0.834361          0.242350        𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑 (-1)    -0.728913     0.000174
+                    (1.16595)         (0.08081)                           (0.11345)    (0.00010)
+                   [ 0.71560]        [ 2.99908]                          [-6.42522]   [ 1.73893]
+
+ 𝑳𝒏𝑷𝑩𝑭 (-2)         0.787065          0.014293        𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑 (-2)    -0.503093     7.85E-05
+                    (1.22847)         (0.08023)                           (0.08816)    (7.8E-05)
+                   [ 2.23666]        [ 0.17816]                          [-5.70650]   [ 1.00116]
+
+  𝑳𝒏𝑰𝒏𝒇 (-1)       -0.058586         -0.005946        𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛 (-1)      1.457023    -0.687868
+                    (0.14965)         (0.06780)                           (1.60313)    (0.11606)
+                   [-0.39148]        [-0.08770]                          [ 0.90886]   [-5.92660]
+
+  𝑳𝒏𝑰𝒏𝒇 (-2)        0.109561         -0.180703        𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛 (-2)     0.622282     -0.196014
+                    (0.14407)         (0.07105)                          (2.61732)     (0.11322)
+                   [ 0.76048]        [-2.54346]                          [2.53316]    [-1.73130]
+
+       ATB Turonbankning qisqa muddatli depozitlari foiziga tashqi omillardan
+Markaziy bank asosiy foiz stavkasi, pul bozori foiz stavka, iqtisodiyotdagi
+inflyatsiya darajasi hamda muomaladagi pul massasining ta’siri statististik
+ahamiyatga ega bo‘lmoqda. Shu bilan bilan birga, ATB Turonbank qisqa muddatli
+depozit foizi avtokorrelyasiyasi, ya’ni o‘zining avvalgi oylardagi qiymatiga sezilarli
+darajada salbiy bog‘liq ekanligini ham aniqlandi.
+       Dissertatsiya ishining “Transformatsiya jarayonida tijorat banklari
+depozit bazasini mustahkamlash yo‘llari” deb nomlangan uchinchi bobida tijorat
+banklari depozit operatsiyalarini rivojlantirishning ARIMA, Seasonal ARIMA va
+Holt-Winters eksponensial silliqlash modellari asosida prognoz ko‘rsatkichlari
+shakllantirilgan, hamda tijorat banklarida depozit bazasini mustahkamlash yo‘llariga
+qaratilgan ilmiy xulosalar va takliflar shakllantirilgan.
+       Depozit siyosati tijorat banklarining asosiy moliyaviy boshqaruv vositalaridan
+biri bo'lib, u mijozlarning mablag'larini jalb qilish va ularni saqlab qolish bo'yicha
+strategiyalarni o'z ichiga oladi. ATB Turonbank misolida olib borilgan tahlillar shuni
+ko'rsatadiki, bankning depozit hajmi va foiz stavkalari turli makroiqtisodiy va
+mikroiqtisodiy omillarga bog'liqdir. Bu omillarni chuqur o'rganish va kelajakdagi
+
+                                                                                              22
+o'zgarishlarni prognoz qilish bankning likvidlikni ta’minlash, daromadlilikni
+oshirish va mijozlar ishonchini saqlash strategiyasini ishlab chiqishda muhim
+ahamiyat kasb etadi.
+       Tijorat banklari uchun depozit siyosatiga ta’sir qiluvchi omillarni chuqur
+tahlil qilish va ularni prognozlash strategik ahamiyatga ega. Bunday yondashuv
+banklarga bozor sharoitlariga moslashish, mijozlarning ishonchini saqlash va uzoq
+muddatli barqarorlikka erishishda yordam beradi. Prognozlashning aniqligi
+bankning moliyaviy rejalashtirish jarayonlarini samarali olib borish va
+raqobatbardoshlikni saqlash imkonini beradi. Biz prognoz natijalarini olishda
+ARIMA, Seasonal ARIMA va Holt-Winters eksponensial silliqlash modellarida
+keng foydalanamiz. Ushbu uchta modelning mohiyati, afzalliklari, hususuyati va
+ularning bir-biridan farqli jihatlari borasida qisqa to‘xtalib o‘tamiz.
+
+
+
+
+         14-rasm. ARIMA modeli asosida bank aktivlarining prognozi24
+       Bank tizimi har qanday mamlakat iqtisodiyotining asosiy tarkibiy qismlaridan
+biri bo‘lib, uning rivojlanish darajasi investitsion muhit, moliyaviy barqarorlik va
+makroiqtisodiy muvozanatga bevosita ta’sir ko‘rsatadi. Yuqoridagi grafikda
+ARIMA modeli asosida 2020–2028-yillar oralig‘ida davlat ulushi mavjud banklar
+hamda xususiy banklar aktivlarining o‘sish tendensiyasi tahlil qilingan. Ushbu
+prognoz bank sektorining istiqbolli rivojlanishini aniqlash, moliyaviy strategiyani
+shakllantirish hamda investitsion qarorlarni optimallashtirish uchun muhim
+ahamiyatga ega.
+       Prognoz natijalari shuni ko‘rsatmoqdaki, 2020-yilda davlat banklarining
+umumiy aktivlar tarkibidagi ulushi 84,4% bo‘lgan bo‘lsa, bu ko‘rsatkich 2025-yilda
+65,4% ga pasaygan. 2028-yilga kelib ushbu ulush 62% atrofida bo‘lishi kutilmoqda,
+bu esa xususiy sektorning moliyaviy bozor rivojlanishidagi rolini oshishiga ishora
+qiladi. Bu jarayonning muhim sabablari bank tizimining liberallashuvi va davlat
+ulushining kamaytirilishi, xususiy sektor tomonidan bozorning muhim qismini
+egallash va yangi bank xizmatlarining taklif qilinishi, hamda xususiy banklarning
+kapitallashuv darajasining oshishidir.
+24
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+                                                                                 23
+         15-rasm. ARIMA modeli asosida bank aktivlarining YaIMdagi
+                                ulushining prognozi25
+       Prognozlar shuni ko‘rsatadiki, 2028-yilgacha davlat va xususiy banklar
+o‘rtasidagi muvozanat sezilarli darajada o‘zgaradi. Agar davlat banklari
+transformatsiya va innovatsiyaga urg‘u bermasa, ularning ulushi pasayishi, xususiy
+banklarning esa mustahkamlanishi mumkin. Shu sababli, bank sektorining islohoti
+davom ettirilishi va davlat banklari ham zamonaviy moliyaviy xizmatlarni
+rivojlantirishga e’tibor qaratishi lozim.
+
+
+
+
+        16-rasm. Seasonal ARIMA modeli asosida ATB Turonbankning qisqa
+           muddatli depozitlari foizining 2028 yilgacha bo‘lgan prognozi26
+
+25
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+26
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+                                                                               24
+      SARIMA modeli asosida ATB Turonbankning qisqa muddatli depozit
+stavkalari bo‘yicha olingan prognoz natijalari 2025-yildan boshlab foiz
+stavkalarining 21% dan oshishini va davriy tebranishlar bilan o‘sib borishini
+ko‘rsatmoqda. Ushbu model natijalariga ko‘ra, 2025-yil oxiriga kelib foiz stavkalari
+22,5% ga yetadi. Natijalarga ko‘ra, 2026-yilda foiz stavkalari 23% ga yetishi
+kutilmoqda, ammo model tomonidan kutilayotgan mavsumiy tebranishlar tufayli
+stavkalar 22% – 24% oralig‘ida harakatlanishi mumkin. Keyingi yillarda
+o‘zgaruvchan tebranishlar bilan 2028-yilga kelib 24% atrofida barqarorlashadi.
+
+
+
+
+          17-rasm. Holt-Winters eksponensial silliqlash modeli asosida
+           ATB Turonbankning qisqa muddatli depozitlari foizining
+                         2028 yilgacha bo‘lgan prognozi27
+       Holt-Winters eksponensial silliqlash modeli asosida ATB Turonbankning
+qisqa muddatli depozit stavkalari bo‘yicha olingan prognoz natijalari foiz
+stavkalarining 2025-yildan boshlab 21% dan oshishini ko‘rsatmoqda. Holt-Winters
+modeli orqali hisoblangan prognozlarga ko‘ra, 2025-yilga kelib foiz stavkalari
+21,5% dan boshlanib, bosqichma-bosqich o‘sib boradi va 2028-yilga kelib 24,5%
+atrofida barqarorlashishi kutilmoqda. Mazkur modelning asosiy afzalligi shundaki,
+u tendensiya va mavsumiy tebranishlarni hisobga olgan holda vaqt qatorlari
+dinamikasini yuqori aniqlikda bashorat qilishga imkon beradi. Natijalarga ko‘ra,
+2026-yilda foiz stavkalari 22,8% darajasiga yetishi kutilayotgan bo‘lsa, 2027-yilda
+ushbu ko‘rsatkich 23,7% ni tashkil qilishi mumkin.
+       Quyidagi grafikda Turonbank ATB depozitlari hajmining 2019-2024
+yillardagi real ma’lumotlari va 2025-2028 yillar uchun SARIMA (Seasonal
+ARIMA) modeli asosida prognozi tasvirlangan. SARIMA modeli asosida qilingan
+prognozga ko‘ra, 2025-2028 yillar oralig‘ida depozitlar hajmi barqaror o‘sib boradi
+va 2028 yil oxiriga kelib 12 000 mlrd.so‘m dan oshishi kutilmoqda.
+
+27
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+                                                                                 25
+ 18-rasm. Seasonal ARIMA modeli asosida ATB Turonbankning depozitlari
+                  hajmining 2028 yilgacha bo‘lgan prognozi28
+      Model natijalariga ko‘ra, kelgusi yillarda ham barqaror o‘sish tendensiyasi
+davom etadi va Turonbank ATB depozitlari hajmi 2028 yilga kelib hozirgi
+ko‘rsatkichlardan qariyb 2,5 barobar oshadi.
+
+
+
+
+        19-rasm. Holt-Winters eksponensial silliqlash modeli asosida ATB
+     Turonbankning depozitlari hajmining 2028 yilgacha bo‘lgan prognozi29
+        Yuqoridagi grafikda Turonbank ATB depozitlari hajmining 2019-2024
+yillardagi real qiymatlari va 2025-2028 yillar uchun Holt-Winters eksponensial
+silliqlash modeli asosida prognozi tasvirlangan. Holt-Winters modeli asosidagi
+prognozga ko‘ra, 2025-2028 yillar oralig‘ida depozitlar hajmida barqarorlik
+kuzatiladi va o‘rtacha qiymat 4 600-4 800 mlrd.so‘m oralig‘ida saqlanib qoladi.
+Ushbu model kelgusidagi mavsumiy tebranishlarni hisobga olib, har yili ma’lum
+davrda kichik o‘zgarishlarni prognoz qilmoqda. E’tiborli jihati shundaki, Holt-
+Winters modeli asosida uzoq muddatda o‘sish tendensiyasi pasayib, depozitlar hajmi
+ma’lum bir diapazonda barqarorlashadi. Bu esa bankning kelgusi yillarda depozit
+jalb qilishda sezilarli o‘sish emas, balki nisbatan doimiy darajani saqlab qolishini
+taxmin qilish imkonini beradi.
+
+28
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+29
+     Rasmiy ma’lumotlar asosida muallif ishlanmasi
+                                                                                 26
+                                     XULOSA
+       Tijorat banklari iqtisodiyotning muhim institutlaridan biri bo‘lib, moliyaviy
+resurslarni jamlash va ulardan samarali foydalanish vazifasini bajaradi. Ularning
+asosiy faoliyat yo‘nalishlaridan biri aktiv operatsiyalarni amalga oshirish bo‘lib,
+ushbu jarayonda depozitlar muhim o‘rin tutadi.
+       Depozitlar tijorat banklarining asosiy moliyaviy manbalaridan biri bo‘lib, ular
+orqali banklar o‘z faoliyatini yuritish va turli moliyaviy operatsiyalarni bajarish
+imkoniyatiga ega bo‘ladilar. Depozit mablag‘lari bank aktiv operatsiyalarining
+asosini tashkil etadi va bir qator jihatlari bilan ajralib turadi.
+       Birinchidan, depozitlar tijorat banklari tomonidan kreditlash faoliyatining
+kengaytirilishiga xizmat qiladi. Jismoniy va yuridik shaxslar tomonidan banklarga
+qo‘yilgan depozitlar kredit shaklida iqtisodiyotga qaytariladi. Bu mablag‘lar sanoat,
+qishloq xo‘jaligi, savdo va xizmat ko‘rsatish sohalariga yo‘naltirilishi orqali
+iqtisodiy o‘sishga turtki beradi. Banklar ushbu jarayon orqali tadbirkorlik
+subyektlarini qo‘llab-quvvatlash, iste’mol kreditlarini ajratish hamda ipoteka
+kreditlarini taqdim etish imkoniyatiga ega bo‘ladi.
+       Ikkinchidan, depozit mablag‘lari banklarning likvidligini ta’minlashda
+muhim rol o‘ynaydi. Bank mijozlarining talablariga binoan o‘z vaqtida to‘lovlarni
+amalga oshirish, boshqa moliyaviy majburiyatlarni bajarish hamda kundalik bank
+operatsiyalarining barqarorligini saqlab qolish depozitlarning mavjudligiga bog‘liq.
+Agar banklarning depozit bazasi mustahkam bo‘lsa, ular moliyaviy inqiroz
+sharoitida ham o‘z faoliyatini barqaror olib borishi mumkin bo‘ladi.
+       Uchinchidan, depozitlar investitsiyalarni moliyalashtirish manbai sifatida
+xizmat qiladi. Tijorat banklari ushbu mablag‘lardan foydalangan holda yirik
+loyihalarni moliyalashtiradi, korxonalarga investitsion mablag‘lar ajratadi. Natijada
+mamlakat iqtisodiyoti rivojlanib, ishlab chiqarish hajmi oshadi, yangi ish o‘rinlari
+yaratiladi va umuman, iqtisodiy o‘sishga zamin yaratiladi.
+       To‘rtinchidan, depozitlar banklar uchun foiz daromadini shakllantirish
+manbai hisoblanadi. Tijorat banklari depozitlarga jalb qilingan mablag‘larni yuqori
+foiz stavkalarida kredit sifatida joylashtirishi natijasida foiz marjasidan daromad
+oladi. Ushbu daromad banklarning faoliyatini moliyaviy jihatdan barqaror qilish va
+rivojlantirish uchun muhim hisoblanadi.
+       Beshinchidan, depozitlarning doimiy oqimi bank tizimining barqarorligini
+ta’minlaydi. Depozit bazasining kengayishi banklarning kredit berish qobiliyatini
+oshirib, iqtisodiy tizimda moliyaviy barqarorlikni saqlashga yordam beradi. Bank
+tizimining ishonchliligi oshgan sari aholining va biznes subyektlarining banklarga
+bo‘lgan ishonchi ham ortadi.
+       Xulosa qilib aytganda, tijorat banklarining aktiv operatsiyalarida depozitlar
+muhim o‘rin tutadi. Ular kreditlash, investitsiyalarni moliyalashtirish, bankning
+likvidligini ta’minlash va daromadliligini oshirish kabi jarayonlarga bevosita ta’sir
+ko‘rsatadi. Shu bois tijorat banklari depozit bazasini kengaytirish, mijozlarni jalb
+qilish va o‘z xizmatlarining raqobatbardoshligini oshirish strategiyalarini doimiy
+ravishda takomillashtirib borishlari lozim.
+
+
+                                                                                   27
+       Umuman olganda, tijorat banklarining aktivlari va YaIM o‘rtasidagi
+bog‘liqlik mamlakat iqtisodiy barqarorligi va moliyaviy tizimning rivojlanish
+jarayonlari haqida muhim ma’lumotlarni taqdim etadi. Bank sektorining YaIMga
+ta’siri mustahkamlanayotgan bo‘lsa-da, kelgusida bank tizimining barqaror
+rivojlanishini ta’minlash uchun depozit bazasini kengaytirish, kredit resurslaridan
+samarali foydalanish va risklarni minimallashtirish kabi chora-tadbirlar ishlab
+chiqilishi lozim. Xususan, bank islohotlarini davom ettirish, xususiy kapital
+ishtirokini kengaytirish hamda xalqaro moliyaviy institutlar bilan hamkorlikni
+mustahkamlash mamlakat bank tizimining yanada barqaror va raqobatbardosh
+bo‘lishiga xizmat qiladi.
+
+
+
+
+                                                                                28
+      НАУЧНЫЙ СОВЕТ DSc.22\29.12.2023.I.175.01
+    ПО ПРИСУЖДЕНИЮ УЧЕНЫХ СТЕПЕНЕЙ ПРИ
+ ТАШКЕНТСКОМ МЕЖДУНАРОДНОМ УНИВЕРСИТЕТЕ
+  ТАШКЕНТСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ
+
+
+
+
+       AЛЛАБЕРГАНОВ СИРОЖАЛИ САҲАТОВИЧ
+
+
+
+ПУТИ ОБЕСПЕЧЕНИЯ СТАБИЛЬНОСТИ РЕСУРСНОЙ БАЗЫ
+            КОММЕРЧЕСКИХ БАНКОВ
+
+
+
+          08.00.07 - Финансы, денежное обращение и кредит
+
+
+
+
+                         АВТОРЕФЕРАТ
+   диссертации доктора философии (PhD) по экономическим наукам
+
+
+
+
+                     город Ташкент - 2025 год
+
+                                                                 29
+30
+      ВВЕДЕНИЕ (аннотация диссертации доктора философии (PhD))
+
+      Актуальность и необходимость темы диссертации. Депозитные
+операции являются основным финансовым источником обеспечения
+устойчивости коммерческих банков в мире. Например, по итогам 2023 года
+совокупные активы мирового банковского сектора превысили 180 трлн
+долларов, из которых около 60% приходилось на депозиты.30 По состоянию на
+февраль 2025 года общий объем депозитов в банках США достиг 17,9 трлн
+долларов. В Европейском Союзе объем депозитов на конец 2023 года составил
+17,3 трлн евро. В Китае по состоянию на январь 2025 года общие депозиты
+достигли 42,3 трлн долларов. Доля депозитных операций в банковском
+балансе имеет растущую динамику, и в 2022-2023 годах в большинстве стран
+наблюдался ежегодный рост на 5-7%.31 В то же время ужесточение монетарной
+политики центральных банков замедлило темпы роста депозитов в некоторых
+странах, но общая тенденция показывает, что банки полагаются на депозиты
+при привлечении средств.
+      Исследования, проводимые в мире по обеспечению стабильности
+финансовых ресурсов коммерческих банков, в основном направлены на
+изучение влияния депозитных операций на стабильность банка. Например, в
+исследовании «Deposit Convexity, Monetary Policy and Financial Stability»
+проанализирована устойчивость депозитов и их взаимодействие с денежно-
+кредитной политикой32. Также в исследовании «Digital Financial Development
+and Commercial Bank Stability» изучено влияние цифрового финансирования
+на устойчивость банка33. Кроме того, в исследовании «Характеристики
+вкладчиков и устойчивость депозитов» проанализирована взаимосвязь между
+характеристиками вкладчиков и устойчивостью депозитов34. Однако в этих
+исследованиях в основном изучалась общая устойчивость депозитов и их
+аспекты, связанные с денежно-кредитной политикой, при этом меньше
+внимания уделялось таким вопросам, как виды депозитов (например,
+депозиты до востребования и срочные депозиты) и их влияние на ликвидность
+и доходность банка. Сегодня для обеспечения стабильности финансовых
+ресурсов банков необходимо более глубокое изучение депозитных операций,
+поскольку это напрямую влияет на ликвидность, доходность и общую
+стабильность банков. Также в условиях развития новых финансовых
+технологий и популяризации цифровых банковских услуг важно изучить
+новые формы депозитных операций и их влияние на деятельность банков.
+      Существует ряд проблем в обеспечении стабильности банковской
+системы Узбекистана и развитии депозитных операций. Основная проблема
+заключается в недостаточной обеспеченности коммерческих банков
+
+30
+   https://www.statista.com/statistics/421221/global-financial-institutions-assets-by-institution-
+type/?utm_source=chatgpt.com
+31
+   https://www.ceicdata.com/en/indicator/united-states/total-deposits?utm_source=chatgpt.com
+32
+   https://www.dallasfed.org/research/papers/2023/wp2315?utm_source=chatgpt.com
+33
+   https://www.sciencedirect.com/science/article/pii/S105905602400741X?utm_source=chatgpt.com
+34
+   https://www.fdic.gov/system/files/2024-09/narayanan-paper-9324.pdf?utm_source=chatgpt.com
+                                                                                                     31
+долгосрочными и дешевыми финансовыми ресурсами. Для повышения
+доверия населения и субъектов бизнеса к банкам необходимо усилить уровень
+гарантированности депозитов и расширить их диверсификацию. В настоящее
+время доля краткосрочных депозитов высока, что препятствует проведению
+банками стабильной кредитной политики. Также важно повысить
+конкурентоспособность коммерческих банков, формировать депозитные
+ставки в соответствии с реальными рыночными условиями и разрабатывать
+привлекательные для клиентов финансовые продукты. Одной из проблем
+является недостаточность научных исследований по вопросу обеспечения
+устойчивости депозитных операций. В частности, необходимо глубоко
+проанализировать влияние депозитов на ликвидность и рентабельность банка,
+изучить сберегательные стратегии клиентов и влияние макроэкономических
+изменений на депозитные операции. Поэтому в целях повышения
+устойчивости банковской системы в Узбекистане актуальным вопросом
+является    всесторонний     анализ   депозитных       операций,     изучение
+международного опыта         и    внедрение    инновационных        подходов,
+соответствующих местным условиям.
+      Данное научное исследование в определенной степени служит
+реализации задач, определенных в Указе Президента Республики Узбекистан
+от 28 января 2022 года No УП-60 «О Стратегии развития Нового Узбекистана
+на 2022-2026 годы», Указе Президента Республики Узбекистан от 5 октября
+2020 года No УП-6079 «Об утверждении Стратегии «Цифровой Узбекистан-
+2030» и мерах по ее эффективной реализации», Указе Президента Республики
+Узбекистан от 12 мая 2020 года No УП-5992 «О Стратегии реформирования
+банковской системы Республики Узбекистан на 2020-2025 годы»,
+Постановлении Президента Республики Узбекистан от 24 мая 2023 года No
+ПП-162 «О мерах по повышению охвата и качества цифровых услуг, а также
+цифровой трансформации сфер, отраслей и регионов», Постановлении
+Президента Республики Узбекистан от 23 марта 2018 года No ПП-3620 «О
+дополнительных мерах по повышению доступности банковских услуг» и
+других нормативно-правовых актах в данной сфере.
+      Соответствие исследования приоритетным направлениям развития
+науки и технологий республики. Данное диссертационное исследование
+выполнено в соответствии с приоритетным направлением развития науки и
+технологий республики I. «Духовно-нравственное и культурное развитие
+демократического и правового общества, формирование инновационной
+экономики».
+      Степень изученности проблемы. Научно-практические аспекты путей
+обеспечения устойчивости ресурсной базы коммерческих банков в процессе
+трансформации отражены в исследованиях таких зарубежных ученых-
+экономистов, как Haddawee A.H. и Flayyih H.H., Liu X., Sun J., Yang F. и Wu J.,
+Mohanty S.P., Gopalkrishnan S. и Mahendra A., Yuan D., Banke N.K. и Yitayaw
+
+
+
+                                                                            32
+M.K., Legass H.A., Shikur A.A. и Ahmed O.M., Farkasdi S., Septiawan B. и
+Alghifari E.S., Ahamed F.35.
+      Узбекские ученые-экономисты Н.Жумаев, Б.Бердияров, А.Бурханов,
+О.Саттаров, Ш.Ханнаев, И.Жураев, Х.Худаярова, Н.Собирова, З.Хакимов и
+другие проводили научные исследования по банковским валютным
+операциям, стабильности банковской системы, управлению ликвидностью
+банков, экономической безопасности коммерческих банков, факторам,
+влияющим на эффективность коммерческих банков, совершенствованию
+практики      розничных      банковских услуг,  перспективам    развития
+сберегательной политики для физических лиц в коммерческих банках,
+повышению привлекательности вкладов населения в банках. Однако следует
+особо отметить, что пути укрепления депозитной базы коммерческих банков
+в процессе трансформации, факторы, влияющие на объем и процент депозитов
+банков, оценка и анализ их прогнозных показателей на основе различных
+эконометрических моделей не изучались экономистами нашей страны в
+качестве отдельного исследования.36
+      Связь темы диссертации с планами научно-исследовательских
+работ высшего образовательного учреждения, где выполнена
+диссертация. Данное диссертационное исследование выполнено в
+соответствии с планом научно-исследовательских работ Ташкентского
+международного университета.
+      Целью исследования является разработка научных предложений и
+практических рекомендаций, направленных на пути обеспечения
+
+
+35
+    Haddawee, A. H., & Flayyih, H. H. (2020). The relationship between bank deposits and profitability for commercial
+banks. International Journal of Innovation, Creativity and Change, 13(7), 226-234. Liu, X., Sun, J., Yang, F., & Wu,
+J. (2020). How ownership structure affects bank deposits and loan efficiencies: An empirical analysis of Chinese
+commercial banks. Annals of Operations Research, 290, 983-1008. Mohanty, S. P., Gopalkrishnan, S., & Mahendra,
+A. (2021). The intertwined relationship of shadow banking and commercial banks’ deposit growth: evidence from
+India. International Journal of Innovation Science, 14(3/4), 570-587. Yuan, D., Gazi, M. A. I., Harymawan, I., Dhar,
+B. K., & Hossain, A. I. (2022). Profitability determining factors of banking sector: Panel data analysis of commercial
+banks in South Asian countries. Frontiers in psychology, 13, 1000412. Banke, N. K., & Yitayaw, M. K. (2022).
+Deposit mobilization and its determinants: evidence from commercial banks in Ethiopia. Future Business
+Journal, 8(1), 32. Legass, H. A., Shikur, A. A., & Ahmed, O. M. (2021). Determinants of commercial banks deposit
+growth evidence from ethiopian commercial banks. Journal of Finance and Accounting, 9(6), 207-215. Farkasdi, S.,
+Septiawan, B., & Alghifari, E. S. (2021). Determinants of commercial banks profitability: Evidence from
+germany. JRAK, 13(2), 82-88. Ahamed, F. (2021). Determinants of liquidity risk in the commercial banks in
+Bangladesh. European Journal of Business and Management Research, 6(1), 164-169
+36
+   Jumaev N.X. O‘zbekiston banklarida kredit qo‘yilmalarining tarkibi va ularni boshqarishdagi risklar. Iqtisodiyotda
+innovatsiya №3, 2020 y. Jumaev N.X. Современное состояние развития глобальных потоков иностранных
+инвестиций Iqtisodiyot va innovatsion texnologiyalar №4, 2021 y. Berdiyarov B.T. (2020). Impact Of The Monetary
+Policy Of The Central Bank On The Banking System Liquidity. International Journal of Economics, Business and
+Management Research, 1-19. Burxanov A.U. (2020). Indicators to Assess Financial Security of the Banks. № 27
+(2020): Архив(journal.tsue.uz). Sattarov O.B. O‘zbekiston Respublikasi bank tizimi barqarorligini taʼminlash
+metodologiyasini taʼminlashni takomillashtirish, I.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2018. – 42 b.;
+Xannaev Sh.Q. Tijorat banklari faoliyati samardorligini baholashni takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss.
+avtoref. – Toshkent, 2021. – 63 b. Jurayev I.I. O‘zbekiston respublikasi tijorat banklari depozit bazasini
+mustahkamlash. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 58 b. Xudayarova X.A. O‘zbekistonda
+chakana bank xizmatlari amaliyotini takomillashtirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2020. – 62 b.
+Sobitrova N.N. Tijorat banklarida jismoniy shaxslar uchun omonat siyosatini rivojlantirish istiqbollari. i.f.f.d. ilm. dar.
+ol.uch. diss. avtoref. – Toshkent, 2025. – 57 b. Xakimov Z.N. Tijorat banklarida aholi omonatlarining jozibadorligini
+oshirish. i.f.f.d. ilm. dar. ol.uch. diss. avtoref. – Toshkent, 2025. – 63 b.
+                                                                                                                       33
+устойчивости ресурсной базы в процессе трансформации коммерческих
+банков.
+     Задачи исследования:
+     научно-теоретическое исследование роли ресурсной базы в обеспечении
+устойчивости банковской системы;
+     анализ научно-теоретических взглядов, направленных на роль
+депозитной базы в обеспечении устойчивости коммерческих банков, и
+формирование выводов, служащих оценке их практической значимости;
+     оценка, анализ и формирование заключений о роли депозитов в
+проведении активных операций коммерческих банков;
+     оценка, анализ и формирование выводов о фактическом состоянии
+депозитов в коммерческих банках по форме собственности, о фактическом
+состоянии депозитной политики банка на примере АКБ «Туронбанк» и ЧАБ
+«Трастбанк»;
+     проведение эмпирического анализа факторов, влияющих на объем
+банковских депозитов и их проценты на примере АКБ «Туронбанк»;
+     формирование прогнозных показателей развития депозитных операций
+коммерческих банков;
+     разработка научных предложений и практических рекомендаций,
+направленных на пути укрепления депозитной базы коммерческих банков в
+процессе трансформации.
+     Объектом исследования являются способы обеспечения стабильности
+ресурсной базы коммерческих банков, действующих в Узбекистане, в
+частности АКБ «Туронбанк» и ЧАБ «Трастбанки», и депозитные операции.
+     Предметом исследования являются экономические отношения,
+возникающие в процессе обеспечения устойчивости ресурсной базы
+коммерческих банков.
+     Методы исследования. В диссертации использованы научная
+абстракция, сравнительный и структурный анализ, индукция и дедукция,
+экономико-статистическая и эконометрическая оценка, в частности,
+структурно-векторная авторегрессия, ARIMA, Seasonal ARIMA и модели
+экспоненциального сглаживания Holt-Winters.
+     Научная новизна исследования заключается в следующем:
+     научно обосновано установление минимального предела доли
+банковских депозитов в выделенных кредитах в размере 40 процентов с целью
+обеспечения стабильности банковской системы и снижения риска
+трансформации в них;
+     научно обосновано повышение удельного веса устойчивых финансовых
+ресурсов в ресурсной базе банка и укрепление устойчивости ресурсной базы
+путем сокращения внебанковского денежного оборота посредством
+обеспечения эффективности инструмента финансового рынка;
+     в целях создания инновационных стратегий, адаптирующих банковские
+сберегательные и кредитные продукты к местным условиям, предлагается
+эффективно привлекать региональные ресурсы и обеспечивать стабильность
+ресурсной базы коммерческих банков;
+                                                                       34
+      предложены прогнозные сценарии до 2028 года на основе модели
+эконометрической оценки, отражающей аспекты увеличения объема
+депозитов АКБ «Туронбанк», связанные с изменением уровня инфляции.
+      Практический результат исследования заключается в следующем:
+      установлено, что повышение основной процентной ставки
+Центрального банка на один процент сократит объем депозитов АКБ
+«Туронбанк» на 3,23 процента с месячной задержкой, а повышение
+процентной ставки на денежном рынке на один процент увеличит объем
+депозитов АКБ «Туронбанк» на 0,78 процента с двухмесячной задержкой;
+      установлено, что увеличение процентной ставки по краткосрочным
+депозитам АКБ «Туронбанк» на один процент увеличивает объем банковских
+депозитов на 0,62 процента с двухмесячным лагом, но уровень инфляции в
+экономике и изменение денежной массы в обращении не влияют на изменение
+объема депозитов АКБ «Туронбанк»;
+      установлено, что увеличение основной процентной ставки
+Центрального банка на один процент, увеличение процентной ставки по
+краткосрочным депозитам в АКБ «Туронбанк» на 0,44 процента с месячной
+задержкой, увеличение процентной ставки на денежном рынке на один
+процент, увеличение процентной ставки по краткосрочным депозитам банка
+на 0,24 процента с месячной задержкой;
+      хотя влияние изменения денежной массы в обращении на процентные
+ставки по краткосрочным депозитам АКБ «Туронбанк» статистически
+значимо, но это незначительно, а также установлено, что изменение объема
+банковских депозитов не влияет на процентные ставки по депозитам;
+      в целях эффективного использования ограниченных ресурсов,
+повышения      рентабельности     банковского   капитала      предлагается
+ориентироваться на услуги розничного банкинга, а также увеличить долю
+розничных кредитов в общем кредитном портфеле более чем на 20 процентов.
+      Достоверность результатов исследования. Достоверность результатов
+исследования определяется сравнительным и критическим анализом научно-
+теоретических взглядов известных ученых-экономистов на пути укрепления
+депозитной базы коммерческих банков в процессе трансформации, изучением
+и обобщением передового зарубежного опыта, а также получением
+статистических данных из годовых отчетов Центрального банка Республики
+Узбекистан, Комитета по статистике Республики Узбекистан и коммерческих
+банков Узбекистана, а также внедрением соответствующих выводов и
+предложений в практику уполномоченными организациями.
+      Научная и практическая значимость результатов исследования.
+Научная значимость результатов исследования объясняется тем, что они могут
+быть использованы при проведении специальных научных исследований,
+направленных на обеспечение устойчивости ресурсной базы коммерческих
+банков в процессе трансформации.
+      Практическая значимость результатов исследования заключается в том,
+что разработанные научные предложения и практические рекомендации могут
+быть использованы при разработке комплекса мер, направленных на
+                                                                        35
+укрепление депозитной базы коммерческих банков в процессе трансформации
+в Узбекистане, а также при разработке мер, направленных на выполнение
+задач, указанных в новой Стратегии развития Узбекистана на 2022-2026 годы
+и Стратегии реформирования банковской системы Республики Узбекистан на
+2020-2025 годы.
+      Внедрение результатов исследования. На основе полученных научных
+результатов по обеспечению устойчивости ресурсной базы коммерческих
+банков в процессе трансформации:
+      предложение по установлению минимального предела доли банковских
+депозитов в выделенных кредитах в размере 40 процентов с целью
+обеспечения стабильности банковской системы и снижения риска
+трансформации в них внедрено в деятельность АКБ «Туронбанк» (справка
+АКБ «Туронбанк» No 23/02-145 от 19 февраля 2025 года). В результате, для
+снижения риска трансформации в практике АКБ «Туронбанк» удалось
+увеличить долю банковских депозитов в выделенных кредитах с 35,5% по
+состоянию на январь 2023 года до 41,3% по состоянию на январь 2024 года;
+      предложение по увеличению удельного веса устойчивых финансовых
+ресурсов в ресурсной базе банка и укреплению устойчивости ресурсной базы
+путем сокращения внебанковского денежного оборота посредством
+обеспечения эффективности инструмента финансового рынка внедрено в
+деятельность АКБ «Туронбанк» (справка АКБ «Туронбанк» No 23/02-145 от
+19 февраля 2025 года). В результате, увеличение процентной ставки
+денежного рынка на один процент увеличивает реальный объем банковских
+депозитов на 0,78 процента, а увеличение процентной ставки краткосрочных
+депозитов на один процент увеличивает реальный объем банковских
+депозитов на 0,62 процента;
+      предложение по эффективному привлечению региональных ресурсов и
+обеспечению стабильности ресурсной базы коммерческих банков с целью
+создания инновационных стратегий, адаптирующих банковские депозитные и
+кредитные продукты к местным условиям, было внедрено в деятельность АКБ
+«Туронбанк» (справка АКБ «Туронбанк» No 23/02-145 от 19 февраля 2025 г.).
+В результате, в стратегической программе развития АКБ «Туронбанк»
+определено создание инновационных стратегий, адаптированных к местным
+условиям, и при этом, исходя из потенциала банка, предлагать кредитные
+продукты по видам вкладов субъектам малого бизнеса и предпринимательства
+в регионах;
+      предложение по разработке прогнозных сценариев до 2028 года на
+основе модели эконометрической оценки, отражающей аспекты увеличения
+объема депозитов АКБ «Туронбанк», связанные с изменением уровня
+инфляции, было внедрено в деятельность АКБ «Туронбанк» (справка АКБ
+«Туронбанк» No 23/02-145 от 19 февраля 2025 года). В результате, на основе
+моделей экспоненциального сглаживания Seasonal ARIMA и Holt-Winters,
+согласно оптимальному сценарию, на основе эмпирического анализа
+прогнозируется, что общий реальный объем банковских депозитов увеличится
+на 51% в 2028 году по сравнению с 2024 годом с вероятностью 95%.
+                                                                        36
+      Апробация результатов исследования. Результаты данного
+исследования были обсуждены на 12, в том числе 7 республиканских и 5
+международных научно-практических конференциях.
+      Публикация результатов исследования. Всего по теме диссертации
+опубликовано 17 научных статей, в том числе 5 статей в научных изданиях,
+рекомендованных Высшей аттестационной комиссией Республики
+Узбекистан для публикации основных научных результатов докторских
+диссертаций, в том числе 3 в республиканских и 2 в зарубежных журналах.
+      Структура и объем диссертации. Диссертация состоит из введения,
+трех глав, заключения и списка литературы. Объем диссертации составляет
+152 страницы.
+               ОСНОВНОЕ СОДЕРЖАНИЕ ДИССЕРТАЦИИ
+      Во введении диссертации обоснованы актуальность и востребованность
+темы исследования, степень изученности проблемы, цель, задачи, объект и
+предмет исследования, научная новизна и практические результаты,
+достоверность и внедрение результатов исследования, приведены сведения о
+структуре и объеме диссертации.
+      В первой главе диссертации, озаглавленной «Научно-теоретические
+основы обеспечения устойчивости ресурсной базы коммерческих банков
+в процессе трансформации», исследованы научно-теоретические взгляды,
+направленные на роль ресурсной базы в обеспечении устойчивости
+банковской системы, а также роль депозитной базы в обеспечении
+устойчивости коммерческих банков и разработаны научные выводы.
+      Устойчивость и эффективность деятельности коммерческих банков во
+многом зависит от их ресурсной базы. Ресурсная база - совокупность средств,
+привлеченных банком для осуществления своей деятельности, составляющая
+финансовые источники банка. Эта база служит основой для основной
+деятельности банка - кредитования, инвестиционных и расчетных операций.
+      При правильном управлении ресурсной базой коммерческих банков
+обеспечивается их ликвидность, доходность и финансовая устойчивость. Эта
+база расширяет возможности банка по предоставлению дополнительных услуг
+клиентам и повышает уровень конкурентоспособности между банками.
+      Ресурсы коммерческих банков в основном делятся на два вида:
+внутренние и внешние. Внутренние ресурсы - это уставный фонд и
+нераспределенная прибыль банка, а внешние ресурсы - это средства,
+привлеченные банком от клиентов. К внешним ресурсам относятся депозиты,
+заемные средства и другие финансовые источники.
+      Депозиты являются основной частью ресурсной базы коммерческих
+банков. Депозитная база - это совокупность средств, переданных физическими
+и юридическими лицами на хранение в банк. Депозиты служат долгосрочным
+и стабильным финансовым источником для банка. Депозиты подразделяются
+на срочные и депозиты до востребования. Срочные депозиты хранятся в
+течение определенного контрактного срока и выплачиваются проценты, а
+депозиты до востребования могут быть возвращены клиентами в любое время.
+                                                                         37
+     Стабильность и расширение депозитной базы обеспечивают
+финансовую устойчивость банка. Это позволит банку повысить доверие
+клиентов, оптимизировать процентные расходы и увеличить уровень
+ликвидности. Для укрепления депозитной базы банки должны предлагать
+привлекательные для клиентов процентные ставки, создавать благоприятные
+условия для клиентов и внедрять новые виды вкладов. Банки также должны
+усилить свою маркетинговую деятельность и привлечь новых клиентов.
+     На ресурсную базу банка влияют внешние и внутренние факторы.
+Внешние факторы включают экономическую ситуацию, инфляцию и
+состояние финансовых рынков, а внутренние - управление банком, качество
+обслуживания и отношение к клиентам. Коммерческие банки снижают
+финансовые риски, диверсифицируя свою ресурсную базу. С этой целью они
+привлекают не только депозиты, но и внешние финансовые источники.
+Сотрудничество с международными финансовыми организациями также
+является инструментом диверсификации.
+     Сегодня банки используют современные технологии в управлении
+ресурсной базой. Например, технологии блокчейн и цифровые платформы
+способствуют управлению депозитами и улучшению взаимодействия с
+клиентами. Также прогнозы на основе искусственного интеллекта помогают
+эффективно распределять ресурсы.
+     В современной глобальной финансовой среде достаточность капитала
+имеет стратегическое значение для банков. Обеспечение достаточного уровня
+капитала    повышает     конкурентоспособность     банков,   способствует
+расширению клиентской базы и экономическому развитию. Управление
+достаточностью капитала на основе современных технологий и
+международных стандартов остается важным направлением для банков.
+     В последние годы важное значение приобретает укрепление ресурсной
+базы коммерческих банков, расширение цифровых банковских услуг,
+обеспечение безопасности и доступности цифровых банковских услуг, а также
+устойчивость банковских депозитов в развитии цифровой банковской
+системы. Сегодня невозможно представить развитие экономики без
+коммерческих банков. Исходя из этого, проводится множество научных
+исследований по обеспечению прочности ресурсной базы банков и роли
+депозитных операций в этом процессе.
+     Исследование, проведенное Haddawee и Flayyih, было сосредоточено на
+анализе взаимосвязи между депозитами коммерческих банков и их
+доходностью. Авторы подчеркнули, что депозиты являются основной частью
+ресурсной базы банка, и поставили перед собой цель изучить их влияние на
+доходность. В статье рассматриваются типы банковских депозитов (вклады,
+депозиты до востребования и срочные депозиты) и их влияние на
+прибыльность банков (через такие показатели, как ROA и ROE). В
+исследовании поставлена задача оценки таких стратегий, как укрепление
+доходов банков, укрепление связей с клиентами и обеспечение финансовой
+устойчивости за счет увеличения объема депозитов.
+
+                                                                       38
+      Авторы использовали в исследовании регрессионную модель и
+корреляционный анализ. Данные для исследования были собраны из
+финансовой отчетности коммерческих банков за определенный период. С
+помощью регрессионного анализа было определено влияние депозитов на
+прибыльность банков. Результаты показали, что увеличение объема депозитов
+значительно улучшает доходность банков. В частности, срочные депозиты
+играют важную роль в повышении ликвидности и доходности банковских
+активов. В то же время исследование подтвердило положительное влияние
+стратегий поддержания доверия клиентов и стимулирования депозитов на
+доходность банка.37
+      В исследовании, проведенном Liu, Sun, Yang и Wu, была изучена
+взаимосвязь между структурой собственности, эффективностью депозитов и
+эффективным управлением кредитами для коммерческих банков Китая.
+Авторы поставили перед собой цель проанализировать, как форма
+собственности (банки, находящиеся в государственной, частной или
+публичной собственности) влияет на эффективность банковских ресурсов. В
+исследовании изучены аспекты, связанные с формой собственности
+эффективного использования финансовых ресурсов банков и проведения
+надежной кредитной политики на основе этих ресурсов. В данном
+исследовании авторы определили различия между эффективностью депозитов
+и уровнем рентабельности кредитов и поставили перед собой задачу
+предложить эффективные стратегии управления при различных формах
+собственности.
+      В исследовании для оценки взаимосвязи между структурой
+собственности, депозитами и эффективностью кредитования был использован
+стохастический граничный анализ (SFA - Stochastic Frontier Analysis). Также
+данные были проанализированы методом панельной регрессии. Результаты
+показали, что, хотя эффективность депозитов в государственных банках
+высока, эффективность кредитования ниже. Частные банки были лидерами по
+эффективности кредитования, но их показатели привлечения депозитов были
+ниже, чем у государственных банков. Банки, находящиеся в публичной
+собственности, достигли средних результатов по обоим показателям. Авторы
+подчеркнули, что доверие и стабильность в банковской системе могут быть
+повышены путем учета влияния формы собственности на управленческую
+политику и эффективность.38
+      В исследовании для оценки взаимосвязи между структурой
+собственности, депозитами и эффективностью кредитования был использован
+стохастический граничный анализ (SFA - Stochastic Frontier Analysis). Также
+данные были проанализированы методом панельной регрессии. Результаты
+показали, что, хотя эффективность депозитов в государственных банках
+высока, эффективность кредитования ниже. Частные банки были лидерами по
+
+37
+   Haddawee, A. H., & Flayyih, H. H. (2020). The relationship between bank deposits and profitability for commercial
+banks. International Journal of Innovation, Creativity and Change, 13(7), 226-234.
+38
+   Liu, X., Sun, J., Yang, F., & Wu, J. (2020). How ownership structure affects bank deposits and loan efficiencies:
+An empirical analysis of Chinese commercial banks. Annals of Operations Research, 290, 983-1008.
+                                                                                                                 39
+эффективности кредитования, но их показатели привлечения депозитов были
+ниже, чем у государственных банков. Банки, находящиеся в публичной
+собственности, достигли средних результатов по обоим показателям. Авторы
+подчеркнули, что доверие и стабильность в банковской системе могут быть
+повышены путем учета влияния формы собственности на управленческую
+политику и эффективность.39
+      Вторая глава диссертации называется «Анализ текущего состояния
+депозитных операций коммерческих банков», в которой изложены
+аналитические части диссертации. В этих анализах проанализирована роль
+депозитов в активных операциях коммерческих банков в нашей стране, анализ
+текущего состояния депозитов в коммерческих банках по форме
+собственности, а также текущее состояние депозитной политики на примере
+АКБ «Туронбанк» и ЧАБ «Трастбанк». Также в этой главе на примере АКБ
+«Туронбанк» эмпирически оценены и проанализированы факторы, влияющие
+на объем банковских депозитов и его проценты.
+65,0%
+
+55,0%
+
+45,0%
+
+35,0%
+
+25,0%
+
+15,0%
+
+     5,0%
+            01.01.2020      01.01.2021       01.01.2022       01.01.2023       01.01.2024       01.01.2025
+                            Доля депозитов по отношению к ВВП
+                            Доля депозитов по отношению к активам
+                            Доля депозитов по отношению к обязательствам
+                            Доля депозитов по отношению к кредитам
+
+    Рисунок 1. Роль банковских депозитов в экономике и банковской
+                               системе40
+     Эти статистические изменения показывают эффективность принятых
+мер   по    реформированию      банковской    системы.     В    частности,
+совершенствование политики привлечения депозитов и меры по
+либерализации процентных ставок способствовали формированию надежной
+банковской системы, а увеличение доли депозитов в обязательствах и активах
+
+39
+   Mohanty, S. P., Gopalkrishnan, S., & Mahendra, A. (2021). The intertwined relationship of shadow banking and
+commercial banks’ deposit growth: evidence from India. International Journal of Innovation Science, 14(3/4),
+570-587.
+40
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                                            40
+способствовало укреплению финансовой устойчивости. Кроме того,
+увеличение доли использования внутренних депозитов вместо внешнего долга
+в кредитовании служит обеспечению национальной финансовой
+независимости.
+
+
+     01.01.2025
+
+     01.01.2024
+
+     01.01.2023
+
+     01.01.2022
+
+     01.01.2021
+
+     01.01.2020
+
+                  0%        20%          40%          60%          80%                  100%
+                             Депозиты коммерческих банков
+                             Прочие обязательства коммерческих банков
+                             Совокупный капитал коммерческих банков
+
+      Рисунок 2. Состояние пассива баланса коммерческих банков41
+      Коммерческие банки являются одним из важных институтов экономики
+и выполняют функцию аккумулирования и эффективного использования
+финансовых ресурсов. Одним из основных направлений их деятельности
+является осуществление активных операций, в этом процессе важную роль
+играют депозиты. Депозиты являются одним из основных финансовых
+источников коммерческих банков, через которые банки могут осуществлять
+свою деятельность и выполнять различные финансовые операции.
+      По нашему мнению, сбалансированные изменения в структуре
+обязательств и капитала коммерческих банков в течение 2020-2025 годов
+стали результатом реформ в банковской системе страны. Для продолжения
+реформ в банковской системе необходимо дальнейшее развитие таких мер, как
+повышение ликвидности коммерческих банков, улучшение инвестиционного
+климата и расширение участия частного сектора.
+      В 2020 году депозиты в банках с государственной долей в капитале
+составили 72,2% от общего объема, в то время как доля банков без
+государственной доли составила 27,8%. Хотя к 2022 году доля
+государственных банков снизилась до 66,8%, доля частных банков
+увеличилась до 33,2%. Очевидно, что в этот период возросло значение
+частных банков и они начали занимать значительную часть рынка.
+
+
+
+41
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                             41
+     01.01.2025                    154,5                               154,2
+
+     01.01.2024                     124,4                              117,3
+
+     01.01.2023                       119,1                              97,6
+
+     01.01.2022                            104,2                                51,9
+
+     01.01.2021                               80,3                               34,4
+
+     01.01.2020                               65,7                               25,3
+
+                   0%           20%             40%         60%           80%           100%
+
+                        Kapitalida davlat ulushi mavjud banklarda depozitlari
+                        Депозиты банков без государственной доли в капитале
+
+      Рисунок 3. Роль банковских депозитов в банковской системе
+                        по форме собственности42
+     К 2025 году депозиты банков с государственной долей составили 50,1%
+от общего объема, в то время как доля банков без государственной доли
+выросла до 49,9%. Это указывает на то, что частные банки практически равны
+государственным банкам. Таким образом, в то время как доля частных банков
+на рынке депозитов значительно увеличивается, относительная доля
+государственных банков снижается, что свидетельствует о растущей
+конкуренции в банковском секторе.
+
+     01.01.2025
+
+     01.01.2024
+
+     01.01.2023
+
+     01.01.2022
+
+     01.01.2021
+
+     01.01.2020
+
+                  0%          20%           40%          60%          80%         100%
+                   Депозиты банков с государственной долей в капитале
+                   Прочие обязательства банков с государственной долей в капитале
+                   Капитал банков с государственной долей в капитале
+
+Рисунок 4. Состояние пассива баланса банков с государственной долей в
+                             капитале43
+
+42
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+43
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                               42
+      В целом, данный график подтверждает, что финансовые ресурсы банков
+с государственной долей в капитале формируются в основном из депозитов и
+других обязательств, а доля капитала относительно невелика. Данная
+тенденция означает необходимость дальнейшего совершенствования
+стратегий управления рисками и создания устойчивой финансовой структуры
+банков с государственной долей. Поэтому увеличение доли капитала в
+будущем и расширение диверсифицированных источников финансирования
+играет важную роль в обеспечении финансовой устойчивости банков.
+
+     01.01.2025
+     01.01.2024
+     01.01.2023
+     01.01.2022
+     01.01.2021
+     01.01.2020
+
+                  0%       20%           40%           60%            80%          100%
+              Депозиты банков без государственной доли в капитале
+              Прочие обязательства банков без государственной доли в капитале
+              Капитал банков без государственной доли в капитале
+
+   Рисунок 5. Состояние пассива баланса банков без государственной
+                             доли в капитале44
+     Экономические реформы, проводимые в Узбекистане в последние годы,
+направлены на модернизацию банковской системы и увеличение доли
+частного сектора. Целью является диверсификация экономики путем
+либерализации банковской деятельности, обеспечения открытости для
+иностранных инвесторов и сокращения государственной монополии. Данные,
+представленные на графике, показывают, что частные банки занимают
+прочные позиции на рынке и становятся важным звеном экономических
+реформ. Эти реформы стимулируют активную интеграцию частного сектора в
+экономику и положительно влияют на экономический рост и финансовую
+стабильность.
+     В течение 2020-2025 годов доля депозитов в национальной валюте
+неуклонно росла, что привело к снижению доли депозитов в иностранной
+валюте. Это означает, что население и субъекты бизнеса отдают предпочтение
+депозитам в национальной валюте, укрепляется макроэкономическая
+стабильность и финансовое доверие. Особенно значительный рост депозитов
+в национальной валюте после 2023 года может быть связан со снижением
+уровня инфляции, привлекательностью процентных ставок в национальной
+валюте и стабильностью на валютном рынке.
+
+44
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                             43
+     100%
+      90%                                                                            56 948,9
+                                                        50 253,0     47 657,7
+      80%    28 480,3      34 505,6      45 364,8
+      70%
+      60%
+      50%
+      40%                                                                           166 787,2
+                                                        96 625,9    118 820,7
+      30%    42 440,6      52 586,1      71 232,9
+      20%
+      10%
+       0%
+            01.01.2020   01.01.2021     01.01.2022    01.01.2023   01.01.2024      01.01.2025
+            Депозиты в национальной валюте             Депозиты в иностранной валюте
+
+Рисунок 6. Распределение депозитов в банковской системе по валютным
+                         единицам45 (млрд сум).
+     Хотя общий объем депозитов в банковской системе неуклонно рос в
+течение анализируемого периода, их структура претерпела определенные
+изменения. В 2020-2025 годах доля срочных депозитов до 1 года относительно
+увеличилась, что свидетельствует о возрастающей важности краткосрочных
+финансовых планов.
+
+      01.01.2025         99 093,96           90 239,47               119 358,87
+      01.01.2024          85 197,58              71 280,41             85 208,64
+      01.01.2023            92 552,58                56 905,09          67 279,87
+      01.01.2022            66 129,43                 44 896,14          45 164,27
+      01.01.2021            49 152,78                 34 037,98          31 556,13
+      01.01.2020           35 189,12                26 309,14           29 510,75
+
+                   0%        20%           40%            60%          80%            100%
+
+               Депозиты до востребования             Срочные депозиты до 1 года
+               Срочные депозиты свыше 1 года
+
+ Рисунок 7. Распределение депозитов в банковской системе по срокам46
+                             (млрд сум).
+     В то же время доля долгосрочных депозитов оставалась существенно
+неизменной на протяжении многих лет, что свидетельствует о важности
+поддержания долгосрочной стабильности инвестиций. Высокая доля
+
+45
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+46
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                                44
+депозитов до востребования свидетельствует о том, что ликвидность остается
+важным фактором в финансовой системе.
+
+     01.01.2025            122 420,6                              186 271,7
+     01.01.2024           86 344,6                           155 342,0
+     01.01.2023         63 123,8                           153 613,7
+     01.01.2022        37 305,9                           118 884,0
+     01.01.2021        27 403,5                           87 343,4
+
+                  0%         20%             40%           60%            80%           100%
+
+                   Депозиты физических лиц             Депозиты юридических лиц
+
+      Рисунок 8. Распределение депозитов в банковской системе по
+                        субъектам47 (млрд сум).
+     За последние пять лет доля физических лиц в депозитах неуклонно
+увеличивалась, что свидетельствует о развивающейся культуре сбережений
+населения и растущем доверии к банковской системе. Хотя доля депозитов
+юридических лиц относительно снизилась, общий объем увеличился, что
+свидетельствует о росте экономической активности. Увеличение доли
+физических лиц в банковской системе может способствовать долгосрочной
+финансовой стабильности и увеличению объема сбережений.
+                         50,0%
+                         40,0%
+                         30,0%
+                         20,0%
+                                   01.01.202001.01.202101.01.202201.01.202301.01.202401.01.2025
+                                   01.01.202 01.01.202 01.01.202 01.01.202 01.01.202 01.01.202
+                                       0         1         2         3         4         5
+         Соотношение депозитов и
+                                     27,6%     24,3%      25,8%       27,1%     29,2%    31,2%
+                активов
+         Соотношение депозитов и
+                                     33,8%     28,2%      31,2%       31,8%     33,2%    35,0%
+               обязательств
+         Соотношение депозитов и
+                                     38,8%     31,7%      34,9%       37,0%     39,2%    43,7%
+                кредитов
+
+ Рисунок 9. Роль депозитов АКБ Туронбанк в банковской деятельности48
+      Как видно из графика, несмотря на то, что уровень обеспеченности
+депозитами АКБ «Туронбанк» в последние годы несколько вырос, кредиты и
+обязательства банка по-прежнему покрываются в основном за счет других
+финансовых источников. Это может вызвать проблемы, связанные с риском
+
+47
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+48
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                                 45
+ликвидности и самостоятельной финансовой устойчивостью банка. Для
+обеспечения долгосрочной стабильности банк должен стремиться привлекать
+больше депозитов и финансировать кредитную деятельность за счет большего
+количества внутренних средств. В противном случае высокая зависимость от
+внешних источников делает банк уязвимым к экономической неопределенности.
+
+      01.01.2025             2 232,8                           5 188,5
+
+      01.01.2024           1 538,4                           5 204,6
+
+      01.01.2023        805,0                             5 488,4
+
+      01.01.2022        816,0                             4 631,5
+
+      01.01.2021        574,8                             3 097,4
+
+                   0%            20%         40%             60%          80%          100%
+                      Депозиты физических лиц в АКБ «Трастбанк», млрд сумов
+                      Депозиты юридических лиц в АКБ «Трастбанк», млрд сумов
+
+ Рисунок 10. Распределение депозитов АКБ «Туронбанк» по субъектам49
+                              (млрд сум).
+     Структура депозитов в АКБ «Туронбанк» демонстрирует преобладание
+корпоративных клиентов, что свидетельствует об опыте работы банка с
+крупными субъектами бизнеса и стабильных источниках дохода.
+ 2 500,0                                                                                 250,0%
+                                                                           210,0%
+ 2 000,0                                                                                 200,0%
+                                                                           2 039,7
+ 1 500,0                                                       1 628,1
+                                                                                         150,0%
+                  100,0%
+ 1 000,0                                      1 281,6                                    100,0%
+                                 1 124,6
+     500,0         782,2             43,8%                     27,0%        25,3%        50,0%
+                                               14,0%
+       0,0                                                                               0,0%
+                01.01.2021      01.01.2022   01.01.2023      01.01.2024   01.01.2025
+             Депозиты физических лиц в АТБ «Туронбанк», млрд сумов
+
+             Изменение депозитов физических лиц в АТБ «Туронбанк» по сравнению с предыдущим
+             годом
+             Изменение депозитов физических лиц в АТБ «Туронбанк» по сравнению с 2020 годом
+
+
+
+     Рисунок 11. Динамика изменения объема депозитов физических лиц в
+                            АКБ «Туронбанк»50
+
+49
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+50
+   Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                                46
+      Основной вывод из графика заключается в том, что депозиты
+физических лиц в АКБ «Туронбанк» стабильно растут на протяжении многих
+лет. Хотя темпы роста меняются из года в год, общая тенденция остается
+положительной. Эта ситуация является ярким доказательством того, что банк
+предлагает стратегию работы с населением, надежные услуги и удобные
+условия депозитов для клиентов. Эти факторы послужат дальнейшей
+стабильности и конкурентоспособности банка в будущем.
+     4 000,0                                                                           250,0%
+                                                                          208,3%
+     3 500,0
+                                                                                       200,0%
+     3 000,0
+     2 500,0                                                                           150,0%
+     2 000,0    100,0%
+                                                                         3 446,5       100,0%
+     1 500,0                                               3 033,5
+     1 000,0                                2 211,0
+                             1 713,1                                                   50,0%
+                1 334,2
+      500,0                                                                  13,6%
+                                             29,1%         37,2%
+         0,0                  28,4%                                                    0,0%
+               01.01.2021   01.01.2022    01.01.2023     01.01.2024     01.01.2025
+
+           Депозиты юридических лиц в АТБ «Туронбанк»
+
+           Изменение депозитов юридических лиц в АТБ «Туронбанк» по сравнению с
+           предыдущим годом
+           Изменение депозитов юридических лиц в АТБ «Туронбанк» по сравнению с 2020
+           годом
+    Рисунок 12. Динамика изменения объема депозитов юридических
+                        лиц в АКБ «Туронбанк»51
+      Объем депозитов юридических лиц в АКБ «Туронбанк» неуклонно рос
+в течение 2021-2025 годов. С 2021 по 2025 год объем депозитов увеличился в
+2,6 раза и вырос на 208,3%. Это означает надежность банковской системы,
+растущий спрос на вклады со стороны юридических лиц и эффективное
+сотрудничество банка с бизнес-сектором. В то же время снижение темпов
+роста в 2025 году может указывать на необходимость разработки банком
+новых подходов в будущем.
+      В анализе в качестве факторов, влияющих на объем депозитов ЧАБ
+«Туронбанк» (𝐿𝑛𝑇𝑢𝑟𝑜𝑛𝐷𝑒𝑝𝑡 ) и процентную ставку по краткосрочным
+депозитам физических лиц (𝐿𝑛𝐽𝑆ℎ𝐷𝐹𝑡 ) и процентную ставку по
+краткосрочным депозитам юридических лиц (𝐿𝑛𝑌𝑆ℎ𝐷𝐹𝑡 ), были взяты
+изменение реальной процентной ставки на денежном рынке (𝐿𝑛𝑃𝐵𝐹𝑡 ),
+изменение уровня инфляции (𝐿𝑛𝐼𝑛𝑓𝑡 ), изменение процентной ставки
+рефинансирования Центрального банка (𝐿𝑛𝑀𝐵𝐹𝑡 ) и изменение денежной
+51
+  Разработка автора на основе данных официального сайта Центрального банка Республики Узбекистан
+www.cbu.uz.
+                                                                                               47
+массы в обращении (𝐿𝑛𝑀2𝑡 ). Выбранные показатели получены в виде
+ежемесячных данных за период с января 2019 года (2019M01) по июль 2024
+года (2024M06) и в реальном выражении с тенденцией к росту. В целях
+увеличения возможности согласования и сравнения размеров
+анализируемых статистических данных к этим данным был применен
+натуральный логарифм.
+
+
+
+
+    Рисунок 13. Матрица эллипсов Scatter и Confidence показателей52
+      Объем депозитов АКБ «Туронбанк» имеет очень слабую корреляцию с
+ключевой процентной ставкой Центрального банка (0,15) и процентной
+ставкой на денежном рынке (-0,04). Это означает, что изменение процентных
+ставок не окажет существенного влияния на объем привлеченных банком
+депозитов. Объем депозитов АКБ «Туронбанк» имеет слабую положительную
+корреляцию с уровнем инфляции (0,26). Это означает, что рост инфляции
+окажет несколько положительное влияние на объем депозитов.
+     Согласно результатам модели, с отставанием времени от выбранных
+показателей на объем депозитов АКБ «Туронбанк» влияние основной
+процентной ставки Центрального банка и процентной ставки денежного рынка
+
+52
+     Разработка автора на основе официальных данных
+                                                                       48
+на внешние факторы, а влияние процентной ставки банковского депозита на
+внутренние факторы становится статистически значимым. Также было
+установлено, что объем депозита АКБ «Туронбанк» существенно
+отрицательно зависит от его стоимости в предыдущие месяцы.
+
+                                                         Таблица 1
+Результат модели SVAR, отражающий влияние выбранных показателей
+    на объем депозитов АКБ «Туронбанк» и его процентную ставку
+
+Vector Autoregression Estimates (with restrictions)
+Sample (adjusted): 2019M05 2024M06
+Included observations: 62 after adjustments
+
+                 𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑         𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛                           𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑    𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛
+
+ 𝑳𝒏𝑴𝑩𝑭 (-1)        -3.234836          0.438119           𝑳𝒏𝑴𝟐 (-1)       -0.941485    -0.000284
+                    (1.83271)         (0.13104)                           (0.98484)    (0.00013)
+                   [-1.76506]        [ 3.34352]                          [-0.95597]   [-2.10104]
+
+ 𝑳𝒏𝑴𝑩𝑭 (-2)         2.055338          0.002281           𝑳𝒏𝑴𝟐 (-2)        1.470126    -0.000120
+                    (1.94630)         (0.13397)                           (1.04106)    (0.00013)
+                   [ 1.05603]        [ 0.01703]                          [ 1.41214]   [-0.89755]
+
+ 𝑳𝒏𝑷𝑩𝑭 (-1)         0.834361          0.242350        𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑 (-1)    -0.728913     0.000174
+                    (1.16595)         (0.08081)                           (0.11345)    (0.00010)
+                   [ 0.71560]        [ 2.99908]                          [-6.42522]   [ 1.73893]
+
+ 𝑳𝒏𝑷𝑩𝑭 (-2)         0.787065          0.014293        𝑳𝒏𝑻𝒖𝒓𝒐𝒏𝑫𝒆𝒑 (-2)    -0.503093     7.85E-05
+                    (1.22847)         (0.08023)                           (0.08816)    (7.8E-05)
+                   [ 2.23666]        [ 0.17816]                          [-5.70650]   [ 1.00116]
+
+  𝑳𝒏𝑰𝒏𝒇 (-1)       -0.058586         -0.005946        𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛 (-1)      1.457023    -0.687868
+                    (0.14965)         (0.06780)                           (1.60313)    (0.11606)
+                   [-0.39148]        [-0.08770]                          [ 0.90886]   [-5.92660]
+
+  𝑳𝒏𝑰𝒏𝒇 (-2)        0.109561         -0.180703        𝑳𝒏𝑫𝒆𝒑𝑭𝒐𝒊𝒛 (-2)     0.622282     -0.196014
+                    (0.14407)         (0.07105)                          (2.61732)     (0.11322)
+                   [ 0.76048]        [-2.54346]                          [2.53316]    [-1.73130]
+
+     Влияние внешних факторов на процент краткосрочных депозитов АКБ
+«Туронбанк», таких как основная процентная ставка Центрального банка,
+процентная ставка денежного рынка, уровень инфляции в экономике и
+денежная масса в обращении, имеет статистическое значение. В то же время
+было обнаружено, что АКБ «Туронбанк» имеет автокорреляцию процентных
+ставок по краткосрочным депозитам, то есть существенно отрицательную
+зависимость от своей стоимости в предыдущие месяцы.
+
+                                                                                            49
+      В третьей главе диссертации под названием «Пути укрепления
+депозитной базы коммерческих банков в процессе трансформации»
+сформированы прогнозные показатели развития депозитных операций
+коммерческих банков на основе моделей экспоненциального сглаживания
+ARIMA, Seasonal ARIMA и Holt-Winters, а также сформулированы научные
+выводы и предложения, направленные на пути укрепления депозитной базы в
+коммерческих банках.
+      Депозитная политика является одним из основных инструментов
+финансового управления коммерческих банков и включает в себя
+стратегии привлечения и удержания средств клиентов. Анализ,
+проведенный на примере АКБ «Туронбанк», показывает, что объем
+депозитов и процентные ставки банка зависят от различных
+макроэкономических и микроэкономических факторов. Глубокое изучение
+этих факторов и прогнозирование будущих изменений играет важную роль
+в разработке стратегии банка по обеспечению ликвидности, повышению
+доходности и поддержанию доверия клиентов.
+      Для коммерческих банков стратегическое значение имеет глубокий
+анализ и прогнозирование факторов, влияющих на депозитную политику.
+Такой подход помогает банкам адаптироваться к рыночным условиям,
+поддерживать доверие клиентов и добиваться долгосрочной стабильности.
+Точность прогнозирования позволяет банку эффективно проводить процессы
+финансового планирования и поддерживать конкурентоспособность. Мы
+широко используем модели экспоненциального сглаживания ARIMA, Seasonal
+ARIMA и Holt-Winters для получения прогнозных результатов. Кратко
+остановимся на сущности, преимуществах, особенностях и различиях этих
+трех моделей.
+
+
+
+
+          Рисунок 14. Прогноз активов банка на основе модели ARIMA 53
+
+53
+     Разработка автора на основе официальных данных
+                                                                        50
+      Банковская система является одним из основных компонентов
+экономики любой страны, и уровень ее развития напрямую влияет на
+инвестиционный         климат,     финансовую       стабильность        и
+макроэкономическое равновесие. На приведенном выше графике на основе
+модели ARIMA проанализирована тенденция роста активов банков с
+государственной долей и частных банков в период 2020-2028 годов.
+Данный прогноз имеет важное значение для определения перспективного
+развития банковского сектора, формирования финансовой стратегии и
+оптимизации инвестиционных решений.
+      Результаты прогноза показывают, что если в 2020 году доля
+государственных банков в структуре общих активов составляла 84,4%, то
+в 2025 году этот показатель снизился до 65,4%. Ожидается, что к 2028 году
+эта доля составит около 62%, что указывает на возрастающую роль
+частного сектора в развитии финансового рынка. Важными причинами
+этого процесса являются либерализация банковской системы и сокращение
+доли государства, захват частным сектором значительной части рынка и
+предложение новых банковских услуг, а также повышение уровня
+капитализации частных банков.
+
+
+
+
+     Рисунок 15. Прогноз доли банковских активов в ВВП на основе модели
+                                  ARIMA54
+      Прогнозы показывают, что к 2028 году баланс между государственными
+и частными банками значительно изменится. Если государственные банки не
+будут делать акцент на трансформации и инновациях, их доля может
+снизиться, а доля частных банков может укрепиться. Поэтому
+реформирование банковского сектора должно быть продолжено, и
+государственные банки также должны сосредоточиться на развитии
+современных финансовых услуг.
+
+54
+     Разработка автора на основе официальных данных
+                                                                       51
+       Рисунок 16. Прогноз процентов по краткосрочным депозитам АКБ
+         «Туронбанк» до 2028 года на основе модели Seasonal ARIMA55
+
+      Результаты прогноза краткосрочных депозитных ставок АКБ
+«Туронбанк» на основе модели SARIMA показывают, что начиная с 2025 года
+процентные ставки увеличатся более чем на 21% и будут расти с
+периодическими колебаниями. Согласно результатам этой модели, к концу
+2025 года процентные ставки достигнут 22,5%. Согласно результатам,
+ожидается, что процентные ставки достигнут 23% в 2026 году, но из-за
+сезонных колебаний, ожидаемых моделью, ставки могут колебаться в
+пределах от 22% до 24%. В последующие годы с переменными колебаниями к
+2028 году она стабилизируется на уровне около 24%.
+      Результаты прогноза, полученные по краткосрочным депозитным
+ставкам АКБ «Туронбанк» на основе модели экспоненциального сглаживания
+Holt-Winters, показывают, что процентные ставки увеличатся более чем на
+21% с 2025 года. Согласно прогнозам, рассчитанным по модели Холта-
+Винтерса, к 2025 году процентные ставки будут постепенно расти, начиная с
+21,5% и, как ожидается, стабилизируются на уровне около 24,5% к 2028 году.
+Основное преимущество данной модели заключается в том, что она позволяет
+с высокой точностью прогнозировать динамику временных рядов с учетом
+тенденций и сезонных колебаний. Согласно результатам, если в 2026 году
+ожидается, что процентные ставки достигнут уровня 22,8%, то в 2027 году этот
+показатель может составить 23,7%.
+
+
+55
+     Разработка автора на основе официальных данных
+                                                                          52
+       Рисунок 17. Прогноз процентов по краткосрочным депозитам АКБ
+        «Туронбанк» до 2028 года на основе модели экспоненциального
+                       сглаживания Холта-Винтерса56
+
+      На графике ниже показаны реальные данные объема депозитов АКБ
+«Туронбанк» в 2019-2024 годах и прогноз на 2025-2028 годы на основе модели
+SARIMA (Seasonal ARIMA). Согласно прогнозу, основанному на модели
+SARIMA, объем депозитов будет стабильно расти в период с 2025 по 2028 год
+и, как ожидается, превысит 12 000 млрд. сумов к концу 2028 года.
+
+
+
+
+Рисунок 18. Прогноз объема депозитов АКБ «Туронбанк» до 2028 года на
+                  основе модели Seasonal ARIMA 57
+56
+     Разработка автора на основе официальных данных
+57
+     Разработка автора на основе официальных данных
+                                                                        53
+      Согласно результатам модели, устойчивая тенденция роста
+продолжится и в ближайшие годы, а объем депозитов АКБ «Туронбанк» к
+2028 году превысит текущие показатели почти в 2,5 раза.
+
+
+
+
+Рисунок 19. Прогноз объема депозитов АКБ «Туронбанк» до 2028 года на
+    основе модели экспоненциального сглаживания Holt-Winters58
+
+     На графике выше показаны реальные значения объема депозитов АКБ
+«Туронбанк» в 2019-2024 годах и прогноз на 2025-2028 годы на основе
+модели экспоненциального сглаживания Холта-Винтерса. Согласно
+прогнозу, основанному на модели Холта-Винтерса, в период 2025-2028
+годов объем депозитов будет стабильным, а средняя стоимость сохранится
+в пределах 4 600-4 800 млрд. сумов. Эта модель прогнозирует небольшие
+изменения в определенный период каждый год с учетом будущих сезонных
+колебаний. Примечательно, что на основе модели Холта-Винтерса
+тенденция роста в долгосрочной перспективе снижается, а объем депозитов
+стабилизируется в определенном диапазоне. Это позволяет прогнозировать,
+что банк сохранит относительно стабильный уровень привлечения
+депозитов в ближайшие годы, а не существенный рост.
+
+                                         ЗАКЛЮЧЕНИЕ
+     Коммерческие банки являются одним из важных институтов
+экономики и выполняют функцию аккумулирования и эффективного
+использования финансовых ресурсов. Одним из основных направлений их
+
+
+58
+     Разработка автора на основе официальных данных
+                                                                     54
+деятельности является осуществление активных операций, в этом процессе
+важную роль играют депозиты.
+     Депозиты являются одним из основных финансовых источников
+коммерческих банков, через которые банки могут осуществлять свою
+деятельность и выполнять различные финансовые операции. Депозитные
+средства составляют основу активных операций банка и отличаются рядом
+аспектов.
+     Во-первых, депозиты служат расширению кредитной деятельности
+коммерческих банков. Депозиты, размещенные физическими и
+юридическими лицами в банках, возвращаются в экономику в форме
+кредитов. Эти средства будут направлены в промышленность, сельское
+хозяйство, торговлю и сферу услуг, что будет способствовать
+экономическому росту. Благодаря этому процессу банки смогут
+поддерживать субъекты предпринимательства, выделять потребительские
+кредиты и предоставлять ипотечные кредиты.
+     Во-вторых, депозитные средства играют важную роль в обеспечении
+ликвидности банков. Своевременное осуществление платежей по запросам
+клиентов банка, выполнение других финансовых обязательств и
+поддержание стабильности ежедневных банковских операций зависят от
+наличия депозитов. Если депозитная база банков стабильна, они смогут
+стабильно функционировать даже в условиях финансового кризиса.
+     В-третьих,     депозиты    служат    источником   финансирования
+инвестиций. Коммерческие банки используют эти средства для
+финансирования крупных проектов и выделения инвестиционных средств
+предприятиям. В результате развивается экономика страны, увеличивается
+объем производства, создаются новые рабочие места и в целом
+закладывается основа для экономического роста.
+     В-четвертых, депозиты являются источником формирования
+процентного дохода для банков. Коммерческие банки получают доход от
+процентной маржи в результате размещения средств, привлеченных на
+депозиты, в качестве кредитов по высоким процентным ставкам. Этот доход
+важен для финансовой стабильности и развития деятельности банков.
+     В-пятых, постоянный поток депозитов обеспечивает стабильность
+банковской     системы.   Расширение     депозитной   базы    повышает
+кредитоспособность банков и способствует поддержанию финансовой
+стабильности в экономической системе. По мере повышения надежности
+банковской системы растет доверие населения и субъектов бизнеса к
+банкам.
+     Таким образом, депозиты играют важную роль в активных операциях
+коммерческих банков. Они оказывают непосредственное влияние на такие
+процессы, как кредитование, финансирование инвестиций, обеспечение
+ликвидности банка и повышение его доходности. Поэтому коммерческие
+банки должны постоянно совершенствовать свои стратегии по расширению
+                                                                     55
+депозитной     базы,   привлечению     клиентов     и    повышению
+конкурентоспособности своих услуг.
+     В целом, взаимосвязь между активами коммерческих банков и ВВП
+предоставляет важную информацию об экономической стабильности
+страны и процессах развития финансовой системы. Хотя влияние
+банковского сектора на ВВП укрепляется, для обеспечения устойчивого
+развития банковской системы в будущем необходимо разработать такие
+меры, как расширение депозитной базы, эффективное использование
+кредитных ресурсов и минимизация рисков. В частности, продолжение
+банковских реформ, расширение участия частного капитала и укрепление
+сотрудничества с международными финансовыми институтами послужат
+дальнейшей стабильности и конкурентоспособности банковской системы
+страны.
+
+
+
+
+                                                                  56
+       SCIENTIFIC COUNCIL AWARDING SCIENTIFIC
+           DEGREES DSc.22/29.12.2023.I.175.01 AT
+         TASHKENT INTERNATIONAL UNIVERSITY
+         TASHKENT INTERNATIONAL UNIVERSITY
+
+
+
+
+         ALLABERGANOV SIROJALI SAHATOVICH
+
+
+
+WAYS TO ENSURE THE STABILITY OF THE RESOURCE BASE OF
+                COMMERCIAL BANKS
+
+
+
+            08.00.07 - Finance, Money Circulation and Credit
+
+
+
+
+                                ABSTRACT
+      of the dissertation of Doctor of Philosophy (PhD) in Economics
+
+
+
+
+                        Tashkent city – 2025 year
+                                                                       57
+58
+             INTRODUCTION (annotation of the dissertation of
+                    Doctor of Philosophy (PhD))
+
+       The purpose of the research is to develop scientific proposals and
+practical recommendations aimed at ways to ensure the stability of the resource
+base in the process of transforming commercial banks.
+       Research objectives:
+       scientific and theoretical research of the role of the resource base in
+ensuring the stability of the banking system;
+       analysis of scientific and theoretical views on the role of the deposit base
+in ensuring the stability of commercial banks and the formation of conclusions
+that serve to assess their practical significance;
+       assessment, analysis and formation of conclusions on the role of deposits
+in conducting active operations of commercial banks;
+       assessment, analysis and formation of conclusions on the actual state of
+deposits in commercial banks by form of ownership, the actual state of the bank's
+deposit policy using the examples of JSCB «Turonbank» and JSC «Trustbank»;
+       implementation of empirical analysis of factors influencing the volume of
+bank deposits and its interest rates using the example of JSCB Turonbank;
+       formation of forecast indicators for the development of deposit operations
+of commercial banks;
+       development of scientific proposals and practical recommendations aimed
+at strengthening the deposit base of commercial banks in the process of
+transformation.
+       The object of the research is the methods of ensuring the stability of the
+resource base of commercial banks operating in Uzbekistan, in particular, JSCB
+Turonbank and PJSC Trustbanks, and deposit operations.
+       The subject of the research is the economic relations arising in the process
+of ensuring the stability of the resource base of commercial banks.
+       Research methods. The dissertation uses scientific abstraction,
+comparative and structural analysis, induction and deduction, economic-
+statistical and econometric assessment, in particular, structural vector
+autoregression, ARIMA, Seasonal ARIMA, and Holt-Winters exponential
+smoothing models.
+       The scientific novelty of the research is as follows:
+       the goal of ensuring the stability of the banking system and reducing the
+risk of transformation in them is scientifically substantiated by setting the
+minimum limit of the share of bank deposits in allocated loans at 40 percent;
+       scientifically substantiated increase in the share of stable financial
+resources in the resource base of the bank and strengthening the stability of the
+resource base by reducing non-bank money turnover by ensuring the effectiveness
+of the financial market instrument;
+       it is proposed to effectively attract regional resources and ensure the
+stability of the resource base of commercial banks in order to create innovative
+strategies that adapt bank deposits and credit products to local conditions;
+                                                                                59
+       based on the econometric assessment model reflecting the aspects of
+increasing the volume of JSCB Turonbank deposits related to changes in the
+inflation rate, forecast scenarios until 2028 have been proposed.
+       The practical results of the study are as follows:
+       it has been determined that a one percent increase in the Central Bank's key
+interest rate will reduce the volume of Turonbank JSCB deposits by 3.23 percent
+with a one-month delay, and a one percent increase in the money market interest
+rate will increase the volume of Turonbank JSCB deposits by 0.78 percent with a
+two-month delay;
+       it has been established that a one percent increase in the interest rate of
+short-term deposits in JSCB Turonbank will increase the volume of bank deposits
+by 0.62 percent with a two-month lag, but the level of inflation in the economy,
+as well as changes in the money supply in circulation, will not affect the change
+in the volume of JSCB Turonbank deposits;
+       it has been determined that an increase in the Central Bank's key interest
+rate by one percent, with a one-month delay, will increase the interest rate on
+short-term deposits of JSCB Turonbank by 0.44 percent, an increase in the
+interest rate on the money market by one percent, with a one-month delay, will
+increase the interest rate on short-term deposits of the bank by 0.24 percent;
+       the influence of changes in the money supply in circulation on the interest
+rate on short-term deposits of JSCB Turonbank is statistically significant, but it
+is insignificant, and changes in the volume of bank deposits do not affect the
+interest rate on deposits;
+       in order to effectively use limited resources, increase the profitability of
+bank capital, it is proposed to focus on retail banking services, and increase the
+share of retail loans in the total loan portfolio by more than 20 percent.
+       Reliability of the research results. The reliability of the research results
+is determined by a comparative and critical analysis of the scientific and
+theoretical views of well-known economists on ways to strengthen the deposit
+base of commercial banks in the process of transformation, the study and
+generalization of advanced foreign experience, as well as the fact that statistical
+data are obtained from the annual reporting data of the Central Bank of the
+Republic of Uzbekistan, the Statistics Committee of the Republic of Uzbekistan,
+and commercial banks of Uzbekistan, and at the same time, the relevant
+conclusions and proposals are implemented in practice by authorized
+organizations.
+       Scientific and practical significance of the research results. The
+scientific significance of the research results is explained by the fact that they can
+be used in conducting special scientific research aimed at ensuring the stability
+of the resource base of commercial banks in the process of transformation.
+       The practical significance of the research results lies in the fact that the
+developed scientific proposals and practical recommendations can be used in the
+development of a set of measures aimed at strengthening the deposit base of
+commercial banks in the process of transformation in Uzbekistan, as well as in
+the development of measures aimed at fulfilling the tasks specified in the New
+                                                                                   60
+Development Strategy of Uzbekistan for 2022-2026 and the Strategy for
+Reforming the Banking System of the Republic of Uzbekistan for 2020-2025.
+       Implementation of research results. Based on the obtained scientific
+results on ways to ensure the stability of the resource base of commercial banks
+in the process of transformation:
+       in order to ensure the stability of the banking system and reduce the risk of
+transformation in them, the proposal to set the minimum limit of the share of bank
+deposits in allocated loans at 40 percent has been introduced into the activities of
+JSCB Turonbank (reference No. 23/02-145 of JSCB Turonbank dated February
+19, 2025). As a result, in order to reduce the risk of transformation in the practice
+of JSCB Turonbank, it was possible to increase the share of bank deposits in
+allocated loans from 35.5% as of January 2023 to 41.3% as of January 2024;
+       the proposal to increase the share of stable financial resources in the bank's
+resource base and strengthen the stability of the resource base by reducing non-
+bank money circulation by ensuring the effectiveness of financial market
+instruments has been introduced into the activities of JSCB Turonbank (reference
+No. 23/02-145 of JSCB Turonbank dated February 19, 2025). As a result, a one
+percent increase in the money market interest rate will increase the real volume
+of bank deposits by 0.78 percent, and a one percent increase in the interest rate
+on short-term deposits will increase the real volume of bank deposits by 0.62
+percent.
+       the proposal to effectively attract regional resources and ensure the stability
+of the resource base of commercial banks in order to create innovative strategies
+that adapt bank deposit and credit products to local conditions has been
+introduced into the activities of JSCB Turonbank (reference No. 23/02-145 of
+JSCB Turonbank dated February 19, 2025). As a result, in the strategic
+development program of JSCB Turonbank, it is planned to create innovative
+strategies that adapt to local conditions, and at the same time, based on the
+potential of the bank, it is planned to offer types of deposits and credit products
+to small businesses and entrepreneurship entities in the regions;
+       the proposal to develop forecast scenarios until 2028 based on an
+econometric assessment model that reflects the aspects of increasing the volume
+of Turonbank deposits related to changes in the inflation rate has been
+implemented in the activities of Turonbank JSCB (reference No. 23/02-145 dated
+February 19, 2025 of Turonbank JSCB). As a result, based on the Seasonal
+ARIMA and Holt-Winters exponential smoothing models, according to the
+optimal scenario, with a 95 percent probability, the total real volume of bank
+deposits is projected to increase by 51 percent in 2028 compared to 2024, based
+on empirical analysis.
+       Approbation of the research results. The results of this study were
+discussed at 12, including 7 republican and 5 international scientific and practical
+conferences.
+       Publication of research results. A total of 17 scientific articles have been
+published on the topic of the dissertation, including 5 articles in scientific
+publications recommended by the Higher Attestation Commission of the
+                                                                                   61
+Republic of Uzbekistan for the publication of the main scientific results of
+doctoral dissertations, including 3 in republican and 2 in foreign journals.
+      Structure and volume of the dissertation. The dissertation consists of an
+introduction, three chapters, a conclusion and a list of references. The volume of
+the dissertation is 152 pages.
+
+
+
+
+                                                                                62
+                   E’LON QILINGAN ISHLAR RO‘YXATI
+                  СПИСОК ОПУБЛИКОВАННЫХ РАБОТ
+                        LIST OF PUBLICATIONS
+
+                             I bo‘lim (I часть; Part I)
+       1. Allaberganov S.S. Analyzing the sensitivity of deposit flows to interest rate
+fluctuations in Turonbank // EPRA International Journal of Economics, Business
+and Management Studies. ISSN: 2347-4378. Vol 12, Issue 4 April, 2025. pp. 86-92
+(№12, Index Copernicus).
+       2. Allaberganov S.S. Mulkchilik shakliga ko‘ra tijorat banklarida
+depozitlarining amaldagi holati tahlili // Muhandislik va Iqtisodiyot ilmiy-amaliy
+jurnali – Toshkent, №4, 2025 yil. 138-150 betlar. (№12, Index Copernicus, 08.00.00,
+OAK rayosatining 2024-yil 28-avgustdagi 360/5-son qarori).
+       3. Allaberganov S.S. Tijorat banklari resurs bazasini mustahkamlash yo‘llari
+// Yashil iqtisodiyot va taraqqiyot, ilmiy elektron jurnal – Toshkent, №4, 2025 yil.
+664-672 betlar. (№12, Index Copernicus, 08.00.00, OAK rayosatining 2023-yil 1-
+apreldagi 336/3-son qarori).
+       4. Allaberganov S.S. Tijorat banklarida depozitlar tarkibi va dinamikasi:
+tahliliy yondashuv (ATB Turonbank va Trastbank XAB misolida) // Qo‘qon
+universiteti xabarnomasi ilmiy-elektron jurnal – Qo‘qon, №14, 2025 yil. 41-50
+betlar. (08.00.00, OAK Rayosatining 2022 yil 12 avgustdagi 321/4-son qarori).
+       5. Allaberganov S.S. Tijorat banklari barqarorligini ta’minlashda depozit
+bazasining tutgan o‘rni borasida ilmiy-nazariy qarashlar // “Yashil iqtisodiyotni
+rivojlantirishning tashkiliy-iqtisodiy mexanizmlarini takomillashtirish yo‘llari”
+mavzusida xalqaro ilmiy-amaliy konferensiya materiallari to‘plami 2025 yil 22
+fevral. 126-129 betlar.
+       6. Allaberganov S.S. Bank tizimi barqarorligini ta’minlashda resurs
+bazasining o‘rni // “Yashil iqtisodiyotni rivojlantirishning tashkiliy-iqtisodiy
+mexanizmlarini takomillashtirish yo‘llari” mavzusida xalqaro ilmiy-amaliy
+konferensiya materiallari to‘plami 2025 yil 22 fevral. 60-63 betlar.
+       7. Allaberganov S.S. Tijorat banklari barqarorligini ta’minlashda resurs
+bazasining tutgan o‘rni borasida ilmiy-nazariy qarashlar // Yashil taraqqiyot:
+Barqarorlik kelajak uchun yechimlar” mavzusida respublika ilmiy-amaliy
+konferensiya materiallari to‘plami 2025 yil 16 aprel. 142-145 betlar.
+       8. Allaberganov S.S. O‘zbekiston bank tizimining rivojlanish tendentsiyasi //
+Yashil taraqqiyot: Barqarorlik kelajak uchun yechimlar” mavzusida respublika
+ilmiy-amaliy konferensiya materiallari to‘plami 2025 yil 16 aprel. 146-149 betlar.
+       9. Allaberganov S.S. Bank depozitlarining iqtisodiyotda va bank tizimidagi
+o‘rni // International Conference on Advance Research in Humanities, Sciences and
+Education. Hosted from Rome, Italy. January 20th, 2025. pp. 280-284
+       10. Allaberganov S.S. Mamlakatimizda tijorat banklari resurs bazasini
+mustahkamlashda depozit operatsiyalarining amaldagi holati // International
+Conference on Advance Research in Humanities, Sciences and Education. Hosted
+from Istanbul, The Turkey April 30th 2025. pp. 165-169.
+
+                                                                                    63
+      11. Allaberganov S.S. Tijorat banklari resurs bazasi barqarorligini ta’minlash
+borasida ilmiy-nazariy qarashlar // “Yashil iqtisodiyotga o‘tish sharoitida
+O‘zbekiston bank-moliya tizimini rivojlantirishning dolzarb masalalari” mavzusida
+respublika ilmiy-amaliy konferensiya materiallari to‘plami 2025 yil 27 mart. 221-
+224 betlar.
+      12. Allaberganov S.S. O‘zbekiston bank tiziminida depozitlarning o‘zgarish
+tendentsiyasi // “Yashil iqtisodiyotga o‘tish sharoitida O‘zbekiston bank-moliya
+tizimini rivojlantirishning dolzarb masalalari” mavzusida respublika ilmiy-amaliy
+konferensiya materiallari to‘plami 2025 yil 27 mart. 245-249 betlar.
+
+                           II bo‘lim (II часть; Part II)
+
+       13. Allaberganov S.S. Theoretical and methodological bases of management
+of investment projects in enterprises // European Scholar Journal (ESJ), ISSN: 2660-
+5562, Vol. 3 No.9, September 2022. pp. 33-37.
+       14. Аллаберганов С.С. Ўзбекистон Республикаси тўқимачилик
+соҳасининг жорий ҳолати ва ривожланиш истиқболлари // “O‘zbekistonda
+ta’lim-tarbiya jarayoniga innovatsion yondashuvlar. Muammo va yechimlar”
+mavzusidagi respublika ilmiy-amaliy 1-sonli online konferensiya materiallari
+to‘plami 2022 yil sentabr. 96-99 betlar.
+       15. Аллаберганов С.С. Ўзбекистон Республикаси енгил саноатининг
+PESTLE таҳлили // “Ta’lim-tarbiya jarayoniga innovatsion yondashuvlar.
+Muammo va yechimlar” mavzusidagi respublika ilmiy-amaliy 1-sonli online
+konferensiya materiallari to‘plami 2023 yil yanvar. 160-163 betlar.
+       16. Аллаберганов С.С. Замонавий инвестицион концепцияларни лойиҳа
+бошқарувидаги аҳамияти // “O‘zbekistonda ta’lim-tarbiya jarayoniga innovatsion
+yondashuvlar. Muammo va yechimlar” mavzusidagi respublika ilmiy-amaliy 1-sonli
+online konferensiya materiallari to‘plami 2022 yil oktabr. 4-6 betlar.
+       17. Аллаберганов С.С. Ўзбекистонда тижорат банклари фаолиятини
+рейтинг орқали баҳолаш амалиёти // “Yangi O‘zbekiston iqtisodiyotini
+rivojlantirishning ilmiy-innovatsion yo‘nalishlari (1-yo‘nalish: Tijorat banklarining
+xalqaro moliya institutlari bilan integratsiyasini rivojlantirish istiqbollari)”
+mavzusida xalqaro ilmiy-amaliy konferensiya materiallari to‘plami 2021 yil 25
+noyabr. 29-31 betlar.
+
+
+
+
+                                                                                  64
+  Avtoreferat “Public Publish Printing” nashriyotida
+                 tahrirdan oʻtkazildi.
+
+
+
+
+          Bosishga ruxsat etildi: 20.08.2025-yil
+        Bichimi 60x84 1/16 , “Times New Roman”
+       garniturada raqamli bosma usulida bosildi.
+Shartli bosma tabogʻi 3,2. Adadi: 100. Buyurtma: № 61.
+
+           «Public Publish Printing» MChJ
+             bosmaxonasida chop etildi.
+      Toshkent, M. Ulug‘bek tum., Moylisoy, 22.
+
+
+                                                         65
+

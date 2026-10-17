@@ -1,0 +1,153 @@
+ID 148696 | Sharipova Nilufar Hikmatullayevna | DSc |  | Tijorat banklari moliyaviy barqarorligini mustahkamlashning konseptual  asoslarini takomillashtirish.
+HEAD:  TOSHKENT KIMYO-TEXNOLOGIYA INSTITUTI HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSc.03/2026.31.01.I.42.02 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI SHARIPOVA NILUFAR HIKMATULLAYEVNA TIJORAT BANKLARI MOLIYAVIY BARQARORLIGINI MUSTAHKAMLASHNING KONSEPTUAL ASOSLARINI TAKOMILLASHTIRISH 08.00.07. – “Moliya, pul muomalasi va kredit” Iqtisodiyot fanlari doktori (Doctor of Science) dissertatsiyasi AVTOREFERATI Toshkent shahri – 2026 yil 1 UOʻK: 336.713.06(575.1) Fan doktori (DSc) dissertatsiyasi avtoreferati mundarijasi Оглавление автореферата докторской (DSc) диссертации Contents of the Doctoral (DSc) dissertation abstract Sharipova Nilufar Hi
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklari moliyaviy barqarorligini
+mustahkamlashning konseptual asoslarini takomillashtirishga qaratilgan ilmiy taklif
+va amaliy tavsiyalar ishlab chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ tijorat banklari moliyaviy barqarorligini ta’minlash, moliyaviy risklarni
+kamaytirish maqsadida tashqi muvofiqlashtiruvchi kengash tashkil qilinishi,
+Moliyaviy barqarorlik kengashi faoliyati yo‘lga qo‘yilishi taklif etilgan;
+ kreditning asosiy ta’minoti sifatida kafolat, sug‘urta polisi yoki yuridik shaxs
+kafilligi qabul qilingan taqdirda, ushbu ta’minotlar jami ta’minotning 25 foizidan
+oshmasligi zarurligi asoslangan;
+ bankning moliyaviy barqarorligini ta’minlash hamda likvidlilik risklarini
+samarali boshqarish maqsadida qisqa muddatli majburiyatlarni jami aktivlarning 40
+foizidan oshmagan miqdorda saqlash taklif qilingan;
+ banklar faoliyatida kiberxavfsizlikni ta’minlashda, Markaziy bank
+vakolatlarini kengaytirish – banklar faoliyatida axborot va kiberxavfsizlik
+tahdidlarini aniqlash va oldindan chora ko‘rish, shuningdek shubhali operatsiyalar
+yuzasidan kartalar va hisoblarni bloklash huquqi berilishi taklif etilgan;
+ banklar moliyaviy barqarorligini ta’minlashda kredit xizmatlarini ko‘rsatish
+to‘g‘risidagi qarorlar bo‘yicha 1-darajali kapitalning 5% dan oshmagan miqdordagi
+kreditlar bank kredit qo‘mitasining qarori asosida berilishi taklif qilingan.
+ Tadqiqotning amaliy natijalari quyidagilardan iborat:
+ banklar likvidligini oshirish hamda aholi uchun bozor prinsiplariga asoslangan
+ipoteka kreditlaridan foydalanish imkoniyatlarini oshirish maqsadida garov
+shartnomasi va garov xati boʻyicha huquqlarni rasmiylashtirish zarurligi asoslangan;
+ kredit toʻlovlarini toʻlash kechiktirilgan yoki ular qisman toʻlangan hollarda,
+kredit qarzdorligini uzishning amaldagi tartibini: muddati oʻtgan asosiy qarz va
+foizlar; joriy asosiy qarz va foizlar; neustoyka (penya, jarima); kreditorning boshqa
+xarajatlari ketma-ketligida joriy etish taklif etilgan;
+ banklarning qonunchilik bilan tizimli ahamiyatga molik banklar va boshqa
+banklar guruhlariga boʻlinishi modellar ichida ham moliyaviy barqarorlikni
+baholashda turli yondashuvlarni yuzaga keltirishini ilmiy asoslagan holda Markaziy
+bank tomonidan moliyaviy barqarorlik koʻrsatkichlarini belgilashda tizimli muhim
+banklar va boshqa banklar uchun alohida majburiy talablarni ishlab chiqish boʻyicha
+amaliy tavsiyalar berilgan;
+ banklar moliyaviy barqarorligini baholashda umumiy koeffisiyent ishlab
+chiqish zaruriyati asoslanib, bank faoliyatining asosiy parametrlarini birlashtirish
+asosida, ularning oʻzaro ta’sirini hisobga olgan holda, barqarorlikni bir butun tizim
+sifatida baholash imkonini beruvchi umumiy koeffisiyent shakllantirilgan;
+ tadqiqotda ekonometrik tahlillar asosida aniqlangan koeffisiyentlar sof foizli
+marjaning aktivlarga nisbati hamda kreditlarning depozitlarga nisbati
+koʻrsatkichlarining YaIMga kuchli ta’sirga ega ekanini koʻrsatdi. Shundan kelib
+chiqqan holda, tijorat banklari sof foizli marjasini oshirish, shuningdek, depozitlar
+hajmini oshirish milliy iqtisodiyotga ijobiy ta’sir koʻrsatishi taklifi ilmiy asoslangan.
+Bundan tashqari, tijorat banklari sof foizli marjasining aktivlarga nisbati
+ 11
+koʻrsatkichini oshirishda umumiy kapital yetarliligi koʻrsatkichi hamda lahzali
+likvidlik koʻrsatkichi kuchli ijobiy ta’sirga ega ekani isbotlangan.
+ Tadqiqot 
+=== XULOSA
+
+xulosa, taklif va tavsiyalarning amaliyotga joriy etilganligi, olingan natijalarning
+vakolatli tashkilotlar tomonidan tasdiqlanganligi bilan izohlanadi.
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati olingan xulosalar, ishlab chiqilgan taklif va tavsiyalardan tijorat
+banklarining moliyaviy barqarorligini mustahkamlash asoslarini
+takomillashtirishning konseptual yoʻnalishlarini ishlab chiqishda, davlat ilmiy-
+texnika dasturlari va istiqboldagi rejalarni ishlab chiqishda foydalanish mumkinligi
+bilan hamda iqtisodiyot yoʻnalishdagi oliy oʻquv yurtlarida “Bank faoliyatini
+tartibga solish va nazorat qilish” va “Bank ishi” kabi fanlarni oʻqitishda qoʻllanma
+sifatida foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining amaliy ahamiyati ishlab chiqilgan taklif va
+tavsiyalarning mamlakatda amalga oshirilayotgan iqtisodiy islohotlar asosida tijorat
+banklarining moliyaviy barqarorligini mustahkamlash asoslarini
+takomillashtirishda, ushbu sohani tartibga solish va rivojlantirish boʻyicha normativ-
+huquqiy hujjatlar va “yoʻl xarita” larini ishlab chiqishda qoʻllanilishi mumkinligi
+bilan izohlanadi.
+ Tadqiqot natijalarining joriy qilinishi. Tijorat banklari moliyaviy
+barqarorligini mustahkamlashning konseptual asoslarini takomillashtirish boʻyicha
+olingan ilmiy takliflar asosida:
+ tijorat banklari moliyaviy barqarorligini ta’minlash, moliyaviy risklarni
+kamaytirish maqsadida tashqi muvofiqlashtiruvchi kengash tashkil qilinishi,
+Moliyaviy barqarorlik kengashi faoliyati yoʻlga qoʻyilishi Oʻzbekiston
+Respublikasida moliyaviy barqarorlikni ta’minlanishi, tizimli moliyaviy
+inqirozlarning kelib chiqish xavflari oʻrganilishi (tahlil qilinishi), ularning yuzaga
+kelishining oldini olish boʻyicha choralar koʻrilishi, shuningdek yuzaga kelgan
+moliyaviy inqirozlarni boshqarilishi hamda ularning oqibatlarini bartaraf etilishiga
+yordam berishi haqidagi taklifi Oʻzbekiston Republikasining “Banklarni sanatsiya
+qilish va tugatish toʻg‘risida”gi 2025-yil 23-iyundagi OʻRQ-1070-son Qonunining
+“Moliyaviy barqarorlik kengashi” deb nomlangan 7-moddasini ishlab chiqilishida
+foydalanilgan (Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi
+huzuridagi parlament tadqiqotlari instituti 2025-yil 20-avgustdagi №3/08-129-son
+ma’lumotnomasi). Ushbu taklifning amaliyotga joriy etilishi natijasida tijorat
+banklari moliyaviy barqarorligini mustahkamlashda Moliyaviy barqarorlik kengashi
+faoliyati vazifalari aniq belgilandi;
+ kredit asosiy ta’minoti sifatida kafolat, sug‘urta polisi yoki yuridik shaxs
+kafilligi qabul qilingan taqdirda, ushbu ta’minotlar jami ta’minotning 25 foizidan
+oshmasligi taklifi AT “Xalq bank” Boshqaruvining 2025-yil 24-martdagi 29/5-sonli
+qarori bilan tasdiqlangan bankning “Kredit siyosati”ni ishlab chiqishda
+12
+foydalanilgan (AT “Xalq bank” ning 2026-yil 23-apreldagi №07-25/11-son
+ma’lumotnomasi). Ushbu taklifning amaliyotga joriy etilishi natijasida kredit
+portfeli ta’minoti sifati mustahkamlandi. 2025-yilda muammoli kreditlarning jami
+kreditlardagi ulushi 3,1 foizni tashkil qildi, ushbu koʻrsatkich oʻtgan yilning shu
+holatiga nisbatan 1,1 foizga kamayishiga erishildi;
+ bankning moliyaviy barqarorligini ta’minlash hamda likvidlilik risklarini
+samarali boshqarish maqsadida qisqa muddatli majburiyatlarni jami aktivlarning 40
+foizidan oshmagan miqdorda saqlash boʻyicha ilmiy asoslangan taklif AT “Xalq
+bank” Boshqaruvining 2024-yil 10-yanvardagi 3/3-sonli qarori bilan tasdiqlangan
+bankning 2024-yil uchun “Likvidlilikni boshqarish siyosati”ni ishlab chiqishda
+foydalanilgan, risk appetiti limitlarini belgilash jarayonida qoʻllanildi (AT “Xalq
+bank”ning 2026-yil 23-apreldagi №07-25/11-son ma’lumotnomasi). Bu esa
+bankning likvidlikni ta’minlash qobiliyatini mustahkamlab, likvid aktivlar sifati va
+hajmining yaxshilanishiga olib keldi. Natijada 2024-yilda sof barqaror
+moliyalashtirish me’yoriy koeffisienti 137,3 foizni tashkil qildi, ushbu koʻrsatkich
+oʻtgan yilning shu holatiga nisbatan 16,4 % ga oʻsishiga erishildi;
+ kredit tashkilotlari faoliyatida axborot xavfsizligini kuchaytirishga va
+kiberxavfsizlikni ta’minlashga, shuningdek axborot-kommunikatsiya
+texnologiyalari yordamida sodir etiladigan huquqbuzarliklarning oldini olish
+lozimligi toʻg‘risidagi takliflaridan 2024-yil 20-sentyabrdagi “Kiberxavfsizlikni
+ta’minlash sohasidagi qonunchilik takomillashtirilishi munosabati bilan Oʻzbekiston
+Respublikasining ayrim qonun hujjatlariga oʻzgartirish va qoʻshimchalar kiritish
+toʻg‘risida”gi OʻRQ-964-son qonunning 2-moddasi 1-bandini (Oʻzbekiston
+Respublikasining 1995-yil 21-dekabrda qabul qilingan “Oʻzbekiston
+Respublikasining Markaziy banki toʻg‘risida”gi 154-I-sonli qonuni (Oʻzbekiston
+Respublikasining 2019-yil 11-noyabrda qabul qilingan OʻRQ-582 sonli qonuni
+tahririda) 11-moddasiga kiritilgan oʻzgartirish va qoʻshimchalarni) shakllantirishda
+foydalanilgan. (Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi
+huzuridagi Parlament tadqiqotlari instituti 2025-yil 20-avgustdagi №3/08-129-son
+ma’lumotnomasi). Mazkur taklifning amaliyotga joriy etilishi natijasida bank
+tizimida kiberjinoyatlarga qarshi kurashish uchun normativ-huquqiy bazani
+takomillashtirishga erishilgan.
+ banklar moliyaviy barqarorligini ta’minlashda kredit xizmatlarini koʻrsatish
+toʻg‘risidagi qarorlar boʻyicha 1-darajali kapitalning 5% dan oshmagan miqdordagi
+kreditlar bank kredit qoʻmitasining qarori asosida berilishi taklifidan “Ipoteka-bank”
+ATIBning 2023-yil 30-yanvardagi 1-son, 2023-yilga moʻljallangan bankning
+“Kredit siyosati”ni ishlab chiqishda foydalanilgan (ATIB “Ipoteka-bank” ning
+2024-yil 29-avgustdagi 8-6/9190-sonli ma’lumotnomasi). Natijada, bankning kredit
+portfeli diversifikatsiya darajasi oshgan, shuningdek, 2023-yilida kredit va lizing
+operatsiyalari boʻyicha foizli daromadlar 4 615 mlrd soʻmni tashkil etib, korporativ
+kreditlardan olingan foizli daromadlar 41% (1 897,1 mlrd soʻm) va chakana
+kreditlardan olingan foizli daromadlar 59% (2 717,9 mlrd soʻm) ni tashkil etdi.
+ Tadqiqot natijalarining aprobatsiyasi. Tadqiqot natijalari 9 ta xalqaro va 5
+ta respublika miqyosida oʻtkazilgan – jami 14 ta ilmiy-amaliy konferensiyalarda
+muhokamadan oʻtkazilgan.
+ 13
+ Tadqiqot natijalarining e’lon qilinganligi. Tadqiqot mavzusi boʻyicha jami
+27 ta ilmiy ish, jumladan: monografiya 1 ta, Oliy attestasiya komissiyasining
+doktorlik dissertatsiyalari asosiy natijalarini chop etish tavsiya etilgan mahalliy
+jurnallarda 10 ta, xorijiy jurnallarda 2 ta maqola chop etilgan.
+ Dissertatsiya tarkibi kirish, toʻrtta bob, xulosa, foydalanilgan adabiyotlar
+roʻyxati va ilovalardan iborat. Tadqiqot hajmi 227 betni tashkil etgan.
+
+ DISSERTATSIYANING ASOSIY MAZMUNI
+ Kirish qismida tadqiqot ishining dolzarbligi va zarurati asoslangan,
+tadqiqotning maqsadi va vazifalari, obyekti va predmeti tavsiflanib, ularning
+respublika fan va texnologiyalari rivojlanishining ustuvor yoʻnalishlariga mosligi
+koʻrsatilgan. Tadqiqotning ilmiy yangiligi, amaliy natijalari bayon qilingan, olingan
+na

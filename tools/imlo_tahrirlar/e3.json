@@ -1,0 +1,10 @@
+[
+ {"type":"para","p":279,"old":"kapital buferlari ham joriy etildi","new":"kapital buferlari – ham joriy etildi","why":"gap o‘rtasidagi izohlovchi ikki tomondan tire bilan ajratiladi"},
+ {"type":"para","p":286,"old":"shaklidagi belgilangan me’yorlar","new":"shaklidagi belgilangan me’yorlar bo‘yicha","why":"parallel qism kesimsiz qolgan: “…me’yorlar bo‘yicha, … esa … sharhi bo‘yicha keltirildi”"},
+ {"type":"para","p":289,"old":"va Asakabank kiritilgan","new":"va Asakabank – kiritilgan","why":"sanaladigan uyushiq bo‘laklardan keyin gap davom etgani uchun yopuvchi tire kerak"},
+ {"type":"para","p":312,"old":"barqarorlik ko‘rsatkichlarini 2021–2025-yillar","new":"barqarorlik ko‘rsatkichlarini, 2021–2025-yillar","why":"“ya’ni” bilan kelgan izohlovchi qism gap o‘rtasida ikki tomondan vergul bilan ajratiladi"},
+ {"type":"para","p":325,"old":"ya’ni 1-reyting kapital","new":"ya’ni 1-reyting, kapital","why":"“ya’ni” bilan kelgan izoh yopuvchi vergul bilan ajratilmagan, “1-reyting kapital koeffitsiyentlari” deb noto‘g‘ri o‘qiladi"},
+ {"type":"cell","t":10,"r":3,"c":3,"old":"3% lik","new":"3 foizlik","why":"qo‘shimcha ajratib yozilgan; matndagi “2,5 foizlik” shakliga moslandi"},
+ {"type":"cell","t":17,"r":2,"c":6,"old":"Aloqabank da","new":"Aloqabankda","why":"o‘rin-payt qo‘shimchasi so‘zga qo‘shib yoziladi"},
+ {"type":"cell","t":17,"r":8,"c":6,"old":"Aloqabank da","new":"Aloqabankda","why":"o‘rin-payt qo‘shimchasi so‘zga qo‘shib yoziladi"}
+]

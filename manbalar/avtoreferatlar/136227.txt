@@ -1,0 +1,223 @@
+ID 136227 | Sadikov Iskandar Gayratovich | PhD | 2025 | Iqtisodiyotni  transformatsiyalash  jarayonida  tijorat  banklarining  moliyaviy  barqarorligini ta’minlash yo‘llari
+HEAD:  TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI HUZURIDAGI ILMIY DARAJALAR BERUVCHI DSC.03/10.12.2019.I.16.01 RAQAMLI ILMIY KENGASH TOSHKENT DAVLAT IQTISODIYOT UNIVERSITETI SADIKOV ISKANDAR GAYRATOVICH IQTISODIYOTNI TRANSFORMATSIYALASH JARAYONIDA TIJORAT BANKLARINING MOLIYAVIY BARQARORLIGINI TA’MINLASH YO‘LLARI 08.00.07 – Moliya, pul muomalasi va kredit Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi AVTOREFERATI Toshkent – 2025 1 UO‘K: 338.246.025.88 Iqtisodiyot fanlari bo‘yicha falsafa doktori (PhD) dissertatsiyasi avtoreferati mundarijasi Содержание автореферата диссертации доктора философии (PhD) по экономическим наукам Contents of Diss
+=== MAQSAD
+Tadqiqotning maqsadi tijorat banklarining moliyaviy barqarorligini ta’minlash
+yo‘llari bo‘yicha ilmiy-uslubiy asoslangan taklif va amaliy tavsiyalar ishlab
+chiqishdan iborat.
+ 
+=== ILMIY YANGILIK VA AMALIY NATIJALAR
+ilmiy yangiligi quyidagilardan iborat:
+ uslubiy yondashuvga koʼra “tijorat banklarining moliyaviy barqarorligi”
+tushunchasining iqtisodiy mazmuni tijorat banklari faoliyatini rivojlantirish bilan
+bog’liq xarakatlar majmuini amalga oshirishda tijorat banklarining o’z
+majburiyatlarini bajarish, muammosiz faoliyat yuritish va iqtisodiy o’zgarishlar
+sharoitida ham o’zini barqaror ushlab turish qobiliyatini ta’minlash jarayoni nuqtai
+nazaridan takomillashtirilgan;
+ tijorat banklarining moliyaviy moslashuvchanligini baholash asosida ularning
+to’lov qobiliyati, moliyaviy mustaqilligi, pul oqimi balansini ta’minlash, foyda va
+rentabellikni oshirish, sof aktivlarni o’stirish orqali moliyaviy barqarorligini
+ta’minlash taklifi asoslangan;
+ AT “Turonbank”ning zamonaviy bank xizmatlarini rivojlantirishda moliyaviy
+resurslar sarf-xarajatlarini maqbul nisbat (MBmb=0,35, MBmm=0,47; MBmr=0,18)
+darajalarida differensatsiyalash orqali ularning moliyaviy barqarorligini oshirish
+taklifi asoslangan;
+ AT “Turonbank”ning moliyaviy barqarorligini monitoring qilishda
+integratsiyalashgan axborot oqimini shakllantirish orqali moliyaviy barqarorlik
+ko’rsatkichlarining 2027-yilga qadar prognozi ishlab chiqilgan.
+ Tadqiqotning amaliy natijasi quyidagilardan iborat:
+ tijorat bankining moliyaviy barqarorligini unga qo‘shimcha ko‘rsatkichlar sof
+barqaror moliyalashtirish hamda sof aktivlarni asosiy kapital bilan himoya qilish
+koeffitsientlarini joriy etish orqali banklarning moliyaviy barqarorligini ta’minlashda
+yangi moliyaviy barqarorlik koeffitsientlari ishlab chiqilgan;
+ tijorat banklarining o‘z vaqtida moliyaviy moslashuvchanligi hamda moliyaviy
+rentabelligi to‘g‘risida boshqaruv jarayonida samarali qarorlar qabul qilish yo‘llari
+asoslangan;
+ tijorat bankining moliyaviy barqarorligini ta’minlashni rivojlantirish istiqbollari
+yuzasidan xorij tajribasini mamlakat sanoat korxonalari faoliyatida qo‘llash tartibi
+tadqiq etilgan;
+ tijorat banklarining moliyaviy barqarorligini uning moliyaviy moslashuvchanlik
+va moliyaviy rentabellik ko‘rsatkichlari asosida baholashning yangi modeli ishlab
+chiqilgan.
+
+8
+ Tadqiqot natijalarining ilmiy va amaliy ahamiyati. Tadqiqot natijalarining
+ilmiy ahamiyati unda ishlab chiqilgan nazariy va uslubiy xulosa va takliflardan tijorat
+banklarida moliyaviy barqarorlikni oshirishga oid nazariy-metodologik va uslubiy
+yo‘nalishlarni shakllantirishda foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqotning amaliy ahamiyati unda ishlab chiqilgan amaliy tavsifdagi xulosa
+va takliflardan tijorat banklari moliyaviy barqarorligini ta’minlashni rivojlantirish
+bo‘yicha dasturlarni shakllantirish, AT “Turonbank”, AT “Xalq banki”da moliyaviy
+barqarorlikni oshirishga oid yo‘l xaritasini ishlab chiqish, O‘zbekiston Respublikasi
+Oliy ta’lim, fan va innovatsiyalar vazirligi tasarrufidagi oliy ta’lim muassasalarida
+o‘quv dasturlari, o‘quv qo‘llanma va darsliklar tayyorlashda ilmiy manba sifatida
+foydalanish mumkinligi bilan izohlanadi.
+ Tadqiqot natijalarining joriy qilinishi. Iqtisodiyotni transformatsiyalash
+jarayonida tijorat banklarining moliyaviy barqarorligini ta’minlash yo‘llari bo‘yicha
+olingan ilmiy natijalar asosida:
+ uslubiy yondashuvga koʼra “tijorat banklarining moliyaviy barqarorligi”
+tushunchasining iqtisodiy mazmuni tijorat banklari faoliyatini rivojlantirish bilan
+bog’liq harakatlar majmuini amalga oshirishda tijorat banklarining o’z
+majburiyatlarini bajarish, muammosiz faoliyat yuritish va iqtisodiy o’zgarishlar
+sharoitida ham o’zini barqaror ushlab turish qobiliyatini ta’minlash jarayoni nuqtai
+nazaridan takomilashtirishga oid nazariy va uslubiy materiallaridan oliy ta’lim
+muassasalari talabalari uchun tavsiya etilgan “Moliya bozori va moliyaviy
+texnologiyalar” nomli darslikni tayyorlashda foydalanilgan (Termiz davlat
+universitetining 2024-yil 25-maydagi 250-PO-sonli buyrug‘i). Mazkur tushunchaning
+oliy ta’lim muassasalari talabalari uchun yangi mazmunda kiritilishi bo‘lg‘usi
+mutaxassislarning tijorat banklarining moliyaviy barqarorligini taʼminlash yo’llari
+borasidagi bilim va ko‘nikmalarini kengaytirish imkonini yaratgan;
+ tijorat banklarining moliyaviy moslashuvchanligini baholash asosida ularning
+to’lov qobiliyati, moliyaviy mustaqilligi, pul oqimi balansini ta’minlash, foyda va
+rentabellikni oshirish, sof aktivlarni o’stirish orqali moliyaviy barqarorligini
+ta’minlash taklifi “Turonbank” ATB tomonidan ish faoliyatida qo’llanilgan
+(“Turonbank” ATBning 2024-yil 25-oktabrdagi 12/03-147-sonli maʼlumotnomasi).
+Mazkur taklifning joriy qilinishi natijasida “Turonbank” ATBning moliyaviy
+barqarorligini monitoring qilishda integratsiyalashgan axborot oqimini shakllantirish
+natijasida bankning sof foydasi 52 867 484 mln. soʼmga oshishiga erishilgan;
+ AT “Turonbank”ning zamonaviy bank xizmatlarini rivojlantirishda moliyaviy
+resurslar sarf-xarajatlarini maqbul nisbat (MBmb=0,35, MBmm=0,47; MBmr=0,18)
+darajalarida differensatsiyalash orqali ularning moliyaviy barqarorligini oshirish
+taklifi “Turonbank” ATB tomonidan ish faoliyatida qoʼllanilgan. (“Turonbank”
+ATBning 2024-yil 25-oktabrdagi 12/03-147-sonli maʼlumotnomasi). Mazkur
+taklifning amaliyotga joriy qilinishi natijasida “Turonbank” ATBning resurslar sarf-
+xarajatlarini differensiatsiyalash orqali bankning sof foydasi 1,23 foizga oshishiga
+erishilgan;
+ AT “Turonbank”ning moliyaviy barqarorligini monitoring qilishda
+integratsiyalashgan axborot oqimini shakllantirish orqali moliyaviy barqarorlik
+ko’rsatkichlarining 2027-yilga qadar ishlab chiqilgan prognozidan foydalanish taklifi
+ 9
+“Turonbank” ATB tomonidan ish faoliyatida qoʼllanilgan. (“Turonbank” ATBning
+2024-yil 25-oktabrdagi 12/03-147-sonli maʼlumotnomasi). Mazkur taklifnin
+amaliyotga joriy etish natijasida “Turonbank” ATBning moliyaviy barqarorligini
+taʼminlash maqsadida uning tarkibiy unsurlarini baholash orqali banklarning umumiy
+moliyaviy rentabellik koʼrsatkichi 2022-yilda 1,15 koeffitsientini tashkil etgan boʼlsa,
+2023-yilda 1,37 koeffitsientni tashkil etgan yoki 0,22 koeffitsientga oshi
+=== XULOSA
+
+xulosa, foydalanilgan adabiyotlar ro‘yxatidan iborat bo‘lib, umumiy hajmi 128 betni
+tashkil etgan.
+ DISSERTATSIYANING ASOSIY MAZMUNI
+
+ Dissertatsiyaning kirish qismida tadqiqot mavzusining dolzarbligi va zarurati
+asoslangan, tadqiqot maqsadi, vazifalari, obyekti va predmeti tavsiflangan,
+respublika fan va texnologiyalari rivojlanishining ustuvor yo‘nalishlariga mosligi
+ko‘rsatilgan hamda tadqiqotning ilmiy yangiligi, amaliy natijalari keltirilgan,
+olingan natijalarning ilmiy va amaliy ahamiyati izohlab berilgan, tadqiqot
+natijalarini amaliyotga joriy etish, nashr qilingan ishlar va dissertatsiya tuzilishi
+bo‘yicha ma’lumotlar keltirilgan.
+ Dissertatsiyaning “O‘zbekiston iqtisodiyotida tijorat banklari moliyaviy
+barqarorligini mustahkamlashning nazariy-huquqiy asoslari” deb nomlangan
+birinchi bobida O‘zbekiston iqtisodiyotida tijorat banklarining moliyaviy
+barqarorligini mustahkamlashning nazariy-huquqiy asoslari amaliyotini
+takomillashtirish xususidagi ilmiy va nazariy yondashuvlar qiyosiy tahlil qilingan
+va ularning amaliy ahamiyatiga baho berilgan. Xususan, tijorat banklarining
+faoliyatiga boshqaruv tizimini isloh qilish va tarif siyosatini takomillashtirish
+banklarining moliyaviy barqarorligini ta’minlash, ular o‘rtasidagi o‘zaro hisob-
+kitoblarni yaxshilash bo‘yicha shoshilinch choralar ko‘rilishi bugungi kundagi
+dolzarb masalalardan biri ekanligi keltirib o‘tilgan. Jahon amaliyotida tijorat
+banklarining moliyaviy barqarorligini oshirish bo‘yicha bir qator tadqiqotlar
+amalga oshirilganligi bilan bir qatorda ularda rivojlangan mamlakatlar amaliyotida
+bo‘lganidek, rivojlanayotgan mamlakatlarda ham tijorat banklarining moliyaviy
+barqarorligini oshirishga alohida e’tibor qaratilgan.
+
+10
+ Tadqiqotlar tijorat banklarining yangi xizmat turlarini joriy etish, moliyaviy
+barqarorlikni venchur fondlari orqali takomillashtirish va raqobatbardosh bozorni
+ta’minlashga xizmat qilmoqda. Bugungi kunda amalga oshirilayotgan
+tadqiqotlarda tijorat banklarining moliyaviy barqarorlikni oshirish bo‘yicha
+uchrayotgan muammolarni o‘rganish hamda ularni hal etishga qaratilgan ilmiy
+takliflar va amaliy tavsiyalarning ishlab chiqilmaganligi mazkur yo‘nalishda
+chuqur ilmiy tadqiqotlar olib borishni taqozo etmoqda. Tijorat banklarida amalga
+oshirilayotgan loyihalarni yanada isloh qilish, innovatsion texnologiyalar va ilg‘or
+xorij tajribalarini joriy etish orqali tijorat banklari moliyaviy barqarorligini
+oshirishga qaratilgan masalalarni tadqiq etish lozim.
+ Tadqiqotda ko‘rib chiqiladigan “tijorat banklarining moliyaviy barqarorligi”
+tushunchasini ilmiy-nazariy asoslashda xorijiy va mahalliy iqtisodchi olimlar
+tomonidan ko‘plab ilmiy ishlar qilingan, kitoblar yozilgan va ta’riflar berilgan.
+Shuningdek, iqtisodiy adabiyotlar va ilmiy tadqiqotlarda “tijorat banklarining
+moliyaviy barqarorligi” tushunchasi mazmun-mohiyatining turlicha talqinlari
+uchraydi. Ularni chuqur va keng tadqiq etgan holda, iqtisodchi olimlarning
+moliyaviy barqarorlik mazmuniga berilgan ta’riflariga alohida to‘xtalib o‘tish
+lozim. Muallifning fikricha “tijorat banklari moliyaviy barqarorligi bu – bank foyda
+olish jarayonida uning moliyaviy ko‘rsatkichlari va faoliyatining ijobiy holatini
+ta’minlagan holda bank xizmatlari bozorida o‘z mavqeini mustahkamlash orqali ichki
+va tashqi muhitning salbiy oqibatlariga qarshi tura olish qobiliyati” deb ta’rif keltirib
+o‘tgan.
+
+ Depozitariylarning
+ manfaatlarini himoya
+ qilish
+ Normativ talablar va
+ standartlar
+ Tizimli
+ tavakkalchilikni
+ tartibga solish
+ Tijorat banklarining
+ moliyaviy barqarorligini
+ mustahkamlashning Monopoliyaga qarshi
+ huquqiy jihatlari qonunchilik
+
+
+ Bankrotlik
+ Shaffoflik va
+ toʼgʼrisidagi qonun
+ hisobdorlik
+ hujjatlari
+
+
+
+ Xalqaro hamkorlik
+
+
+
+ 1-rasm. Tijorat banklarining moliyaviy barqarorligini mustahkamlashning
+ huquqiy jihatlari6
+6
+ Muallif ishlanmasi
+ 11
+ Zamonaviy sharoitlar tijorat banklarini rivojlantirish uchun yangi imkoniyatlarni
+ochishda, shu bilan birga ularning moliyaviy barqarorligi uchun xavflarni o‘z ichiga
+oladi, chunki banklar o‘zgargan makroiqtisodiy sharoitlarga moslashishga majbur.
+Natijada tijorat banklarining moliyaviy barqarorligi, ya’ni mijozlar, mulkdorlar,
+xodimlar, nazorat organlari oldidagi barcha majburiyatlarni o‘z vaqtida bajarish va
+ularning faoliyatining uzluksizligini ta’minlash qobiliyati yomonlashishi mumkin. Bu
+moliyaviy barqarorlik ko‘rsatkichlari holati bilan baholanadi.
+ Ushbu usullardan tijorat bankining moliyaviy holatini eng aniq baholash uchun
+mustaqil ravishda ham, birgalikda ham foydalanish mumkin. Tijorat banklarining
+moliyaviy barqarorligi ko‘rsatkichlari ularning moliyaviy holati va o‘z funksiyalarini
+bajarish qobiliyatini baholashning asosiy vositalaridan biridir. Bankning to‘g‘ri
+moliyaviy barqarorligi nafaqat bankning o‘zi, balki butun iqtisodiyot uchun ham
+muhimdir. Tijorat banklarining moliyaviy barqarorligi ko‘rsatkichlari iqtisodiy
+ahamiyati mijozlarning depozitlari xavfsizligini ta’minlashda muhim rol o‘ynaydi.
+Banklar qanchalik barqaror va kapitallashgan bo‘lsa, mijozlar uchun yo‘qotishlar
+shunchalik kam bo‘ladi.
+ Dunyo banklari tajribasida CAMELS reyting tizimi orqali tijorat banklari
+moliyaviy barqarorligiga baho berish amaliyoti keng qo‘llaniladi. Ushbu reyting
+tizimi orqali banklar kapitali va uning yetarliligi, aktivlar sifati, boshqaruv,
+daromadlilik darajasi, likvidlilik hamda bozor risklariga sezgirlik darajasiga baho
+berish amaliyoti mavjud. CAMELS reyting tizimi AQSh Federal zaxira tizimi,
+Depozitlarni sug‘urtalash federal korporatsiyasi va Pul muomalasi nazoratchisi
+tomonidan ishlab chiqilgan va amaliyotga joriy qilingan7.
+ Har bir komponent besh balli tizim bo‘yicha baholanadi va ularning qiymatlari
+asosida yakuniy ko‘rsatkich hisoblanadi: CAMELS texnikasidan foydalanishning
+afzalligi uning standartlashtirilgan baholash usulini qo‘llashidir. Uning har bir
+tarkibiy qismining reytingi bankni yaxshilash uchun qaysi yo‘nalishda harakat qilish
+kerakligini ko‘rsatadi. Kompleks baholash bank nazorati organlarining aralashuvi
+zarurligini aniqlashga yordam beradi.
+ C (Capital Adequacy) – kapitalning yetarliligi.
+ A (Asset Quality) - aktivlar sifati. Ushbu tizim muammoli kreditlarning
+moliyaviy ta’siriga e’tibor qaratib, aktivlarning “qaytarilish” darajasini baholaydi.
+ M (Menejment) - bankni boshqarish. Ushbu tizim ish natijalarini baholash,
+qonunlar va ko‘rsatmalarga rioya qilish va qabul qilingan nazorat tizimi asosida bank
+menejmenti sifatini belgilaydi.
+ E (Earnings) – rentabellik. Ushbu tizim bank faoliyati samaradorligini baholaydi
+va bankning kelajakdagi rivojlanishi uchun yеtarli foyda bor-yo‘qligini aniqlaydi.
+ L (liquidity) – likvidlik. Ushbu tizim bankning o‘z majburiyatlarini o‘z vaqtida
+bajarishi nuqtai nazaridan yetarlicha likvidli ekanligini aniqlaydi.
+ S (Sensitivity to Market Risk) - bozor xavfiga sezgirlik. Ushbu tizim asosiy
+bozor xatarlarining bank faoliyatiga ta’sirini belgilaydi: foiz stavkasi, valyuta,
+rentabellikni yo‘qotish xavfi va boshqalar.
+
+
+7
+ Internet ma’lumotlari a

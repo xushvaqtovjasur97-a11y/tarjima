@@ -1,0 +1,158 @@
+{
+ "kuzatuvlar": [
+  {
+   "bank": "SQB",
+   "y": 2021,
+   "mbii13": 2.92,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "SQB",
+   "y": 2022,
+   "mbii13": 2.81,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "SQB",
+   "y": 2023,
+   "mbii13": 2.91,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "SQB",
+   "y": 2024,
+   "mbii13": 2.72,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "MKB",
+   "y": 2021,
+   "mbii13": 2.18,
+   "sinf": "zaif",
+   "ev_next": 0
+  },
+  {
+   "bank": "MKB",
+   "y": 2022,
+   "mbii13": 2.31,
+   "sinf": "zaif",
+   "ev_next": 0
+  },
+  {
+   "bank": "MKB",
+   "y": 2023,
+   "mbii13": 2.22,
+   "sinf": "zaif",
+   "ev_next": 1
+  },
+  {
+   "bank": "MKB",
+   "y": 2024,
+   "mbii13": 2.25,
+   "sinf": "zaif",
+   "ev_next": 0
+  },
+  {
+   "bank": "BRB",
+   "y": 2021,
+   "mbii13": 2.51,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "BRB",
+   "y": 2022,
+   "mbii13": 2.25,
+   "sinf": "zaif",
+   "ev_next": 0
+  },
+  {
+   "bank": "BRB",
+   "y": 2023,
+   "mbii13": 2.03,
+   "sinf": "zaif",
+   "ev_next": 1
+  },
+  {
+   "bank": "BRB",
+   "y": 2024,
+   "mbii13": 2.58,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "XALQ",
+   "y": 2021,
+   "mbii13": 2.66,
+   "sinf": "qoniqarli",
+   "ev_next": 1
+  },
+  {
+   "bank": "XALQ",
+   "y": 2022,
+   "mbii13": 2.71,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "XALQ",
+   "y": 2023,
+   "mbii13": 2.96,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "XALQ",
+   "y": 2024,
+   "mbii13": 3.2,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  },
+  {
+   "bank": "IPOTEKA",
+   "y": 2021,
+   "mbii13": 3.32,
+   "sinf": "barqaror",
+   "ev_next": 0
+  },
+  {
+   "bank": "IPOTEKA",
+   "y": 2022,
+   "mbii13": 3.37,
+   "sinf": "barqaror",
+   "ev_next": 0
+  },
+  {
+   "bank": "IPOTEKA",
+   "y": 2023,
+   "mbii13": 2.69,
+   "sinf": "qoniqarli",
+   "ev_next": 1
+  },
+  {
+   "bank": "IPOTEKA",
+   "y": 2024,
+   "mbii13": 3.13,
+   "sinf": "qoniqarli",
+   "ev_next": 0
+  }
+ ],
+ "sinflar": {
+  "barqaror": {
+   "count": 2,
+   "sum": 0
+  },
+  "qoniqarli": {
+   "count": 12,
+   "sum": 2
+  },
+  "zaif": {
+   "count": 6,
+   "sum": 2
+  }
+ }
+}
