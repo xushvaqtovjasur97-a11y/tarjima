@@ -227,12 +227,11 @@ def do_B(b, plan):
 done, log = set(), []
 for b in sorted(cands, key=lambda x: x['page']):
     if b['secid'] in done: continue
-    done.add(b['secid'])
     pb = plan_B(b)
     if pb:
         desc = f"{b['num']}-{b['kind']} (sah. {b['page']}, oldingida {b['gap']:.1f} qator bo‘sh)"
         how = do_B(b, pb) if not DRY else '-'
-        FIXED[b['key']] = 'B'
+        FIXED[b['key']] = 'B'; done.add(b['secid'])
         log.append(desc + f" → B: oldingi {pb['lines']:.1f} qator matn blokdan keyinga ({how}), blok yuqoriga: «{tx(pb['moves'][0][0])[:50]}…»")
         continue
     if FIXED.get(b['key']) == 'B' and not pb:
@@ -308,7 +307,7 @@ for b in sorted(cands, key=lambda x: x['page']):
                     if mm:
                         D.replace(Paragraph(moved, None), mm.group(0), rep.format(n=b['num'])); break
             moved_desc.append(tx(moved)[:50])
-    FIXED[b['key']] = 'A'
+    FIXED[b['key']] = 'A'; done.add(b['secid'])
     log.append(desc + f" → {best['pi'] + 1} xatboshidan gaplar oldinga (taxm. {best['body']:.1f} qator, kerak {best['need']:.1f}): " + ' | '.join(moved_desc))
 if not DRY:
     D.save(DOCX)
