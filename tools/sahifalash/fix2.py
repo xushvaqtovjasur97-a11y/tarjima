@@ -33,8 +33,16 @@ for g in G:
     g['secid'] = sec
 B = json.load(open(BL))
 NPAGES = [x for x in B if x['kind'] == 'pages'][0]['n']
-JH = {x['num']: x['p'] for x in B if x['kind'] == 'jhead'}
-CAP = {x['num']: x['p'] for x in B if x['kind'] == 'cap'}
+# blok sahifalari PDF dan (UNO sahifalashi PDF dan biroz farq qilishi mumkin)
+JH, CAP = {}, {}
+for k in range(1, len(G) + 1):
+    txt = subprocess.run(['pdftotext', '-layout', '-f', str(k), '-l', str(k), PDF, '-'], capture_output=True, text=True).stdout
+    for ln in txt.splitlines():
+        ln = ln.strip()
+        m = re.match(r'^(\d\.\d\.\d+)-jadval$', ln)
+        if m: JH.setdefault(m.group(1), k)
+        m = re.match(r'^(\d\.\d\.\d+)-rasm\. ', ln)
+        if m: CAP.setdefault(m.group(1), k)
 TB = {x['name']: x for x in B if x['kind'] == 'tbl'}
 
 D = K.Doc(DOCX)
