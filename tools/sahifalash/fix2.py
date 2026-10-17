@@ -169,14 +169,16 @@ def plan_B(b):
     for k in range(b['s'], b['e']):
         for r in els[k].iter(qn('w:footnoteReference')):
             fnb += math.ceil(len(FN.get(r.get(qn('w:id')), '')) / 118) * 0.48 + 0.25
-    need = b['h'] / LINE + fnb - b['gap'] + 0.5
+    need = b['h'] / LINE + fnb - b['gap'] + 1.6          # sahifa boshida bekor bo‘ladigan ‘oldingi oraliq’ uchun zaxira
+    if os.environ.get('DBG'): print('DBG', b['num'], 'h', round(b['h']), 'fnb', round(fnb,1), 'gap', b['gap'], 'need', round(need,1))
     if need <= 0 or need > 10: return None
     ref = re.compile(re.escape(b['num']) + r'-(jadval|rasm)')
     moves, freed, k = [], 0.0, b['s'] - 1
     while k >= 0 and is_text(els[k]) and len(moves) < 3:
         pe = els[k]; t, ss = sentences(pe); full = nlines(t)
         for si in range(len(ss) - 1, -1, -1):
-            if ref.search(t[ss[si][0]:ss[si][1]]): return None
+            sent = t[ss[si][0]:ss[si][1]].strip()
+            if ref.search(sent) and not re.match(re.escape(b['num']) + r'-(jadval|rasm)(dan|da| ma’lumot)', sent): return None
             head = t[:ss[si][0]].strip()
             fr = full - (nlines(head) if head else 0)
             if freed + fr >= need:
@@ -233,7 +235,7 @@ for b in sorted(cands, key=lambda x: x['page']):
         FIXED[b['key']] = 'B'
         log.append(desc + f" → B: oldingi {pb['lines']:.1f} qator matn blokdan keyinga ({how}), blok yuqoriga: «{tx(pb['moves'][0][0])[:50]}…»")
         continue
-    if FIXED.get(b['key']) == 'B':
+    if FIXED.get(b['key']) == 'B' and not pb:
         log.append(f"{b['num']}-{b['kind']} → B dan keyin ham sig‘madi (QO‘LDA)"); continue
     # blokdan keyingi matn xatboshilari
     paras, j = [], b['e']
