@@ -72,3 +72,20 @@ for e in els:
     n_t += 1
 d.save(F)
 print('jadval', n_t, 'rasm', n_r, 'jami jadval', tblno)
+
+# blok oxiri (Izoh, rasm sarlavhasi) keyingi blok bilan zanjirlanmasin
+d = Document(F)
+els = list(d.element.body)
+def starts_block(x):
+    return x is not None and x.tag == qn('w:p') and (has_draw(x) or re.match(r'^\d\.\d\.\d+-jadval$', tx(x)))
+cl = 0
+for i, e in enumerate(els[:-1]):
+    if e.tag != qn('w:p'):
+        continue
+    t = tx(e)
+    if (IZOH.match(t) or re.match(r'^\d\.\d\.\d+-rasm\. ', t)) and not IZOH.match(tx(els[i + 1]) if els[i + 1].tag == qn('w:p') else ''):
+        pf = Paragraph(e, None).paragraph_format
+        if pf.keep_with_next and starts_block(els[i + 1]) or (pf.keep_with_next and els[i + 1].tag == qn('w:tbl')):
+            pf.keep_with_next = False; cl += 1
+d.save(F)
+print('zanjir uzildi:', cl)
