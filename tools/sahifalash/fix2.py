@@ -46,7 +46,7 @@ IZOH = re.compile(r'^(Izoh|Manba|\*)')
 def is_text(e):
     if e is None or e.tag != qn('w:p') or has_draw(e): return False
     t = tx(e).strip()
-    if len(t) < 60 or re.match(r'^(\d\.\d\.\d+-(rasm\.|jadval)|Izoh|Manba|[IV]+ BOB|\d\.\d-§|\d+-ilova)', t): return False
+    if len(t) < 60 or re.match(r'^(\d\.\d\.\d+-(rasm\. |jadval\s*$)|Izoh|Manba|[IV]+ BOB|\d\.\d-§|\d+-ilova)', t): return False
     if e.find('.//' + qn('w:pageBreakBefore')) is not None or e.find('.//' + qn('w:br')) is not None and 'page' in str(e.xpath('.//w:br/@w:type')): return False
     st = e.find('.//' + qn('w:pStyle'))
     if st is not None and re.match(r'(?i)heading|toc|[1-9]$', st.get(qn('w:val'))): return False
@@ -80,7 +80,7 @@ for i, e in enumerate(els):
         while j < len(els) and els[j].tag == qn('w:p') and (IZOH.match(tx(els[j]).strip()) or tx(els[j]).strip() == '') and not has_draw(els[j]): j += 1
         blocks.append(dict(kind='rasm', num=m.group(1), s=k, e=j, page=CAP.get(m.group(1)), h=None))
 
-def letters(s): return re.sub(r'[^A-Za-z‘’]', '', s)[-18:]
+def letters(s): return re.sub(r'[^A-Za-z‘’]', '', s)
 cands = []
 for b in blocks:
     P = b['page']
@@ -88,7 +88,7 @@ for b in blocks:
     g = GP.get(P - 1)
     if g is None or g.get('sec_end') or g['lines'] < 1.4: continue
     prev = els[b['s'] - 1]
-    if not is_text(prev) or letters(tx(prev)) not in letters(g['last']) and letters(g['last'])[-10:] not in letters(tx(prev)):
+    if prev.tag != qn('w:p') or not letters(g['last'])[:25] or letters(g['last'])[:25] not in letters(tx(prev)):
         continue
     if b['kind'] == 'rasm':
         # rasm balandligi: sahifadagi sarlavha qatorigacha (pdf)

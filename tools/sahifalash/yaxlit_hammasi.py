@@ -49,7 +49,14 @@ for e in els:
         continue
     tblno += 1
     name = f'Table{tblno}'
-    if e in fig_tbls or name in SKIP:
+    if e in fig_tbls:
+        continue
+    if name in SKIP:          # bir sahifaga sig‘maydi: bo‘linadi, faqat nomi birinchi qator bilan
+        for tr in e.findall(qn('w:tr')):
+            for p in tr.iter(qn('w:p')): kn(p, False)
+        pv = e.getprevious()
+        for _ in range(2):
+            if pv is not None and pv.tag == qn('w:p') and 0 < len(tx(pv)) < 260: kn(pv); pv = pv.getprevious()
         continue
     rows = e.findall(qn('w:tr'))
     for tr in rows[:-1]:
