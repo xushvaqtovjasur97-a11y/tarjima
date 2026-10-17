@@ -7,7 +7,7 @@ for it in $(seq 1 $N); do
   timeout 900 python3 /home/user/tarjima/tools/sahifalash/render_uno.py $W/cur.docx $W/cur.pdf --fnline 4.1 --fntext 4.1 >/dev/null
   timeout 900 python3 /home/user/tarjima/tools/sahifalash/bloklar_uno.py $W/cur.docx $W/bl.json >/dev/null
   echo "=== takror $it ($(pdfinfo $W/cur.pdf | grep Pages))"
-  out=$(python3 /home/user/tarjima/tools/sahifalash/fix2.py $F $W/cur.pdf $W/bl.json)
+  out=$(FIXSTATE=$W/fixed.json python3 /home/user/tarjima/tools/sahifalash/fix2.py $F $W/cur.pdf $W/bl.json)
   echo "$out"
   echo "$out" | grep -q "oldinga" || break
 done

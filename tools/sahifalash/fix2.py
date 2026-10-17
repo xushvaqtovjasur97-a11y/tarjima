@@ -89,6 +89,26 @@ for i, e in enumerate(els):
         blocks.append(dict(kind='rasm', num=m.group(1), s=k, e=j, page=CAP.get(m.group(1)), h=None))
 
 def letters(s): return re.sub(r'[^A-Za-z‘’]', '', s)
+import os
+STATE = os.environ.get('FIXSTATE')
+FIXED = set(json.load(open(STATE))) if STATE and os.path.exists(STATE) else set()
+def page_lines(k):
+    h = subprocess.run(['pdftotext', '-bbox', '-f', str(k), '-l', str(k), PDF, '-'], capture_output=True, text=True).stdout
+    W = [(float(a), float(c), t) for a, c, t in re.findall(r'yMin="([\d.]+)" xMax="[\d.]+" yMax="([\d.]+)">([^<]*)<', h)]
+    L = {}
+    for w in W: L.setdefault(round(w[1]), []).append(w)
+    return [(min(w[0] for w in ws), ' '.join(w[2] for w in ws), max(w[1] - w[0] for w in ws), y) for y, ws in sorted(L.items())]
+def measured_h(b):
+    """blok balandligi PDF dan: sahifa boshidan blokdan keyingi matn qatorigacha"""
+    if b['e'] >= len(els) or not is_text(els[b['e']]): return None
+    key = letters(tx(els[b['e']]))[:20]
+    PLs = page_lines(b['page'])
+    for top, t, hh, y in PLs:
+        if key and letters(t)[:20] == key:
+            return top - 57 - 4
+    # blok butun sahifani egallagan: sahifadagi oxirgi (izoh emas) qator
+    ys = [y for top, t, hh, y in PLs if hh >= 12 and y < 795]
+    return (max(ys) - 57 + 6) if ys else None
 cands = []
 for b in blocks:
     P = b['page']
@@ -115,6 +135,11 @@ for b in blocks:
         while k > b['s'] and els[k].tag == qn('w:p'):
             if tx(els[k]).strip(): b['h'] = (b['h'] or 0) + nlines(tx(els[k])) * LINE if b['h'] else None
             k -= 1
+    if f"{b['num']}-{b['kind']}" in FIXED: continue
+    mh = measured_h(b)
+    if mh: b['h'] = mh
+    elif b['kind'] == 'rasm' or not b['h']: b['h'] = None
+    b['hm'] = bool(mh)
     b.update(gap=g['lines'], secid=g['secid'])
     cands.append(b)
 
@@ -138,8 +163,8 @@ REF = [(r'^Rasmdan ', '{n}-rasmdan '), (r'^Rasmda ', '{n}-rasmda '), (r'^Rasm ma
 CONN = re.compile(r'^(Xususan|Masalan|Jumladan|Shu jumladan|Bunda|Unda)\b')
 def plan_B(b):
     """oldingi sahifa oxiridagi gaplarni blokdan keyinga o‘tkazib, blokni yuqoriga tortish"""
-    if not b['h']: return None
-    need = b['h'] / LINE - b['gap'] + 0.4
+    if not b['h'] or not b.get('hm'): return None
+    need = b['h'] / LINE - b['gap'] + 0.5
     if need <= 0 or need > 10: return None
     ref = re.compile(re.escape(b['num']) + r'-(jadval|rasm)')
     moves, freed, k = [], 0.0, b['s'] - 1
@@ -200,6 +225,7 @@ for b in sorted(cands, key=lambda x: x['page']):
     if pb:
         desc = f"{b['num']}-{b['kind']} (sah. {b['page']}, oldingida {b['gap']:.1f} qator bo‘sh)"
         how = do_B(b, pb) if not DRY else '-'
+        FIXED.add(f"{b['num']}-{b['kind']}")
         log.append(desc + f" → B: oldingi {pb['lines']:.1f} qator matn blokdan keyinga ({how}), blok yuqoriga: «{tx(pb['moves'][0][0])[:50]}…»")
         continue
     # blokdan keyingi matn xatboshilari
@@ -273,7 +299,9 @@ for b in sorted(cands, key=lambda x: x['page']):
                     if mm:
                         D.replace(Paragraph(moved, None), mm.group(0), rep.format(n=b['num'])); break
             moved_desc.append(tx(moved)[:50])
+    FIXED.add(f"{b['num']}-{b['kind']}")
     log.append(desc + f" → {best['pi'] + 1} xatboshidan gaplar oldinga (taxm. {best['body']:.1f} qator, kerak {best['need']:.1f}): " + ' | '.join(moved_desc))
 if not DRY:
     D.save(DOCX)
+    if STATE: json.dump(sorted(FIXED), open(STATE, 'w'))
 print('\n'.join(log) if log else 'muammo topilmadi')
